@@ -1,6 +1,6 @@
 backend:
   name: gitlab
-  repo: sercancicek/kanal-hayat
+  repo: https://code.atxanka.io/sercancicek/kanal-hayat
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
