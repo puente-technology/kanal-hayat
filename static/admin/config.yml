@@ -6,7 +6,7 @@ backend:
   api_root: https://code.atxanka.io/api/v4
   base_url: https://code.atxanka.io
   auth_endpoint: oauth/authorize
-
+ 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
  
