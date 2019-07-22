@@ -4,13 +4,20 @@ module.exports = {
       author: 'Andrew Mead'
   },
   plugins: [
-      {
-          resolve: 'gatsby-source-filesystem',
-          options: {
-              name: 'src',
-              path: `${__dirname}/src/`
-          }
-      },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/static/images`,
+        name: 'images'
+      }
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/content`,
+        name: 'pages'
+      }
+    },
       'gatsby-transformer-remark',
       {
           resolve: 'gatsby-plugin-netlify-cms',

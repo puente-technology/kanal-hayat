@@ -18,11 +18,11 @@ collections:
     editor:
       preview: true
     files:
-      file: 'content/pages/home.md'
-      label: 'Home Page'
-      name: 'home-page'
-      fields:
-         - {
+      - file: 'content/pages/home.md'
+        label: 'Home Page'
+        name: 'home-page'
+        fields:
+          - {
               label: Template,
               name: template,
               widget: hidden,

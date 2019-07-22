@@ -40,7 +40,7 @@ export const pageQuery = graphql`
   ## query name must be unique to this file
   query HomePage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
-      ...Meta
+      # ...Meta
       html
       frontmatter {
         title
