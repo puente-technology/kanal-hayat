@@ -1,0 +1,33 @@
+backend:
+  name: gitlab
+  repo: sercancicek/kanal-hayat
+
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: 'pages'
+    label: 'Page'
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: true
+    files:
+      file: 'content/pages/home.md'
+      label: 'Home Page'
+      name: 'home-page'
+      fields:
+         - {
+              label: Template,
+              name: template,
+              widget: hidden,
+              default: HomePage,
+            }
+          - { label: Slug, name: slug, widget: hidden, default: '' }
+          - { label: Title, name: title, widget: string }
+          - label: 'Full Page Slider'
+            name: 'full-page-slider'
+            widget: 'list'
+            fields:
+              - { name: image, label: Image, widget: image }
+              - { name: alt, label: Alt, widget: string }
+              - { name: title, label: Title, widget: string, required: true }

@@ -1,0 +1,11 @@
+:root {
+  --primary: white;
+  --secondary: #000;
+  --lightGrey: whitesmoke;
+  --midGrey: #cacaca;
+  --darkGrey: #272727;
+  --danger: #ff3d3d;
+  --font-primary: 'Open Sans', sans-serif;
+  --font-system: system-ui; /* postcssPresetEnv */
+  --borderRadius: 3px;
+}

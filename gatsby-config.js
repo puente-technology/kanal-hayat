@@ -1,9 +1,24 @@
-/**
- * Configure your Gatsby site with this file.
- *
- * See: https://www.gatsbyjs.org/docs/gatsby-config/
- */
-
 module.exports = {
-  /* Your site config here */
+  siteMetadata: {
+      title: 'Full-Stack Bootcamp',
+      author: 'Andrew Mead'
+  },
+  plugins: [
+      {
+          resolve: 'gatsby-source-filesystem',
+          options: {
+              name: 'src',
+              path: `${__dirname}/src/`
+          }
+      },
+      'gatsby-transformer-remark',
+      {
+          resolve: 'gatsby-plugin-netlify-cms',
+          options: {
+            modulePath: `${__dirname}/src/cms/cms.js`,
+            stylesPath: `${__dirname}/src/cms/admin.css`,
+            enableIdentityWidget: true
+          }
+      },
+  ]
 }
