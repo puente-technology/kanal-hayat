@@ -1,7 +1,3 @@
-backend:
-  name: gitlab
-  repo: https://code.atxanka.io/sercancicek/kanal-hayat.git
-
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 
