@@ -2,7 +2,7 @@ backend:
   name: gitlab
   repo: sercancicek/kanal-hayat # Path to your GitLab repository
   auth_type: implicit # Required for implicit grant
-  app_id: 3f95e6aa3275f417e3b9600b8d5320c14fff6566669037032bb01e8e612f59cc # Application ID from your GitLab settings
+  app_id: e9e05e2ba326fa9212dcfb5e4df10964b66a6609f031828cb32b08c24c55987b # Application ID from your GitLab settings
   api_root: https://code.atxanka.io/api/v4
   base_url: https://code.atxanka.io
   auth_endpoint: oauth/authorize
