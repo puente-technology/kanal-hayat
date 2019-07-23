@@ -8,28 +8,19 @@ import Layout from '../components/Layout';
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
-  <main className="Home">
-    {/* <PageHeader
-      large
-      title={title}
-      subtitle={subtitle}
-      backgroundImage={featuredImage}
-    /> */}
-
-    <section className="section">
-      <div className="container">
-        {/* <Content source={body} /> */}
-      </div>
-    </section>
-  </main>
+  <div>
+    S
+  </div>
 )
 
 // Export Default HomePage for front-end
-const HomePage = ({ data: { page } }) => (
+const HomePage = ({ data: { page } }) => {
+  console.log({page});
+  return (
   <Layout meta={page.frontmatter.meta || false}>
     <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
   </Layout>
-)
+)}
 
 export default HomePage
 
@@ -46,6 +37,11 @@ export const pageQuery = graphql`
         title
         subtitle
         featuredImage
+        gallery {
+          alt
+          image
+          title
+        }
       }
     }
   }
