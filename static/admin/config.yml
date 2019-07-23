@@ -1,12 +1,6 @@
 backend:
-  name: gitlab
-  repo: sercancicek/kanal-hayat # Path to your GitLab repository
-  auth_type: implicit # Required for implicit grant
-  app_id: e9e05e2ba326fa9212dcfb5e4df10964b66a6609f031828cb32b08c24c55987b # Application ID from your GitLab settings
-  api_root: https://code.atxanka.io/api/v4
-  base_url: https://code.atxanka.io
-  auth_endpoint: oauth/authorize
- 
+  name: github
+  repo: puente-technology-design/kanal-hayat # Path to your GitLab repository 
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
