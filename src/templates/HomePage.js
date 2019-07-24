@@ -7,7 +7,10 @@ import Layout from '../components/Layout';
 // import Layout from '../components/Layout'
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
+export const HomePageTemplate = ({ gallery, subtitle, featuredImage, body }) => (
+  // {
+  //   gallery.map(photo =>)
+  // }
   <div>
     S
   </div>
