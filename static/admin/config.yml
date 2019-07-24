@@ -12,9 +12,11 @@ collections:
     editor:
       preview: true
     files:
-      - file: 'content/pages/home.md'
+      - file: 'content/pages/home/home.md'
         label: 'Home Page'
         name: 'home-page'
+        folder: "home"
+        filter: {field: "language", value: "tr"}
         fields:
           - {
               label: Template,
@@ -24,6 +26,7 @@ collections:
             }
           - { label: Slug, name: slug, widget: hidden, default: '' }
           - { label: Title, name: title, widget: string }
+          - { label: "Language", name: "language", widget: "select", options: ["tr", "en"] }
           - label: 'Full Page Slider'
             name: 'full-page-slider'
             widget: 'list'

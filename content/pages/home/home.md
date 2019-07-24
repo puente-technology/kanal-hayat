@@ -11,6 +11,9 @@ gallery:
   - alt: yellow rope image
     image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
     title: Yellow Rope
+    name: YR Test
+    programTime: Her gün 14:00 - 15:00
+    programURL: 'https://google.com'
   - alt: umbrellas
     image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
     title: a bunch of umbrellas

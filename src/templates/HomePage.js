@@ -1,6 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout';
+import FullPageSlider from '../components/FullPageSlider';
 
 // import PageHeader from '../components/PageHeader'
 // import Content from '../components/Content'
@@ -12,7 +13,7 @@ export const HomePageTemplate = ({ gallery, subtitle, featuredImage, body }) => 
   //   gallery.map(photo =>)
   // }
   <div>
-    S
+    <FullPageSlider gallery={gallery} />
   </div>
 )
 

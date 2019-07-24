@@ -2,6 +2,8 @@ import React, { Component, Fragment } from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 
+import './FullPageSlider.css'
+
 export const query = graphql`
   fragment FullPageSlider on MarkdownRemark {
     frontmatter {
@@ -19,12 +21,89 @@ export default class FullPageSlider extends Component {
     loaded: false,
     isOpen: false,
     sliderImages: [],
-    index: 0
+    index: 0,
+    id: 0,
+    autoPlayInterval: void 0,
+  }
+
+  getElement = {};
+
+  _toConsumableArray(arr) {
+    if (Array.isArray(arr)) {
+      for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) {
+        arr2[i] = arr[i];
+      }
+      return arr2;
+    } else {
+      return Array.from(arr);
+    }
   }
 
   isOpen(isOpen, index) {
     if (typeof index === 'undefined') index = 0
     this.setState({ isOpen, index })
+  }
+
+  addClass(numOfSlide) {
+    this.reset('slides', 'current');
+    this.getElement.slides[numOfSlide].classList.add('current');
+  }
+
+  reset(elems, className) {
+    this.getElement[elems].forEach((elem) => {
+      elem.classList.remove(className);
+    });
+  }
+
+  changeSlide(num) {
+    var lastSlide = this.getElement.slides.length - 1;
+    var currentSlide = this.state.id + num;
+    if (currentSlide > lastSlide) {
+      currentSlide = 0;
+    }
+    if (currentSlide < 0) {
+      currentSlide = lastSlide;
+    }
+    this.setState({ id: currentSlide });
+    this.addClass(currentSlide);
+    this.changeIndicator(currentSlide);
+  }
+
+  changeIndicator(id) {
+    this.reset('indicators', 'active');
+    this.getElement.indicators[id].classList.add('active');
+  }
+
+  autoPlay() {
+    const { autoSlide, slideTime } = this.props;
+    if (autoSlide) {
+      this.setState({
+        autoPlayInterval: setInterval(() => {
+          this.changeSlide(1);
+        }, slideTime)
+      })
+    }
+  }
+
+  stopAutoPlay() {
+    document.getElementById('slider').addEventListener('mouseenter', () => {
+      clearInterval(this.state.autoPlayInterval);
+    });
+    document.getElementById('slider').addEventListener('mouseleave', () => {
+      this.autoPlay();
+    });
+  }
+
+  clickIndicator() {
+    this.getElement.indicators.forEach((indicator) => {
+      indicator.addEventListener('click', (e) => {
+        this.reset('indicators', 'active');
+        e.target.classList.add('active');
+        var currIndicator = e.target.dataset.slideTo * 1;
+        this.setState({ id: currIndicator });
+        this.addClass(currIndicator);
+      });
+    });
   }
 
   getImageInfo = (img, index) =>
@@ -50,69 +129,69 @@ export default class FullPageSlider extends Component {
         }
       )
 
-  componentDidMount() {
-    // const { images } = this.props,
-    //   maxCount = images.length
-    // let loopCount = 1
+  init(id) {
+    this.addClass(id);
+    this.changeIndicator(id);
+    this.clickIndicator();
+    this.autoPlay();
+    this.stopAutoPlay();
+  }
 
-    // for (let i in images) {
-    //   if (this.getImageInfo(images[i], i)) {
-    //     this.setState({ loaded: loopCount === maxCount })
-    //     loopCount++
-    //   }
-    // }
+  componentDidMount() {
+    this.getElement = {
+      wrapper: document.getElementById('wrapper'),
+      slides: [].concat(this._toConsumableArray(document.querySelectorAll('#slide'))),
+      currentSlide: document.querySelector('.slide.current'),
+      nextBtn: document.querySelector('.slider__btn--next'),
+      prevBtn: document.querySelector('.slider__btn--prev'),
+      indicators: [].concat(this._toConsumableArray(document.querySelectorAll('.indicators__item')))
+    }
+    this.init(this.state.id);
+    this.getElement.nextBtn.addEventListener('click', () => {
+      this.changeSlide(1);
+    });
+    this.getElement.prevBtn.addEventListener('click', () => {
+      this.changeSlide(-1);
+    });
   }
 
   render() {
-    const { images } = this.props
-    console.log({ images });
+    const { gallery } = this.props
+    console.log({ gallery });
     return (
       <Fragment>
         <section id="slider" className="slider">
           <div id="wrapper" className="slides-wrapper">
-            <div id="slide" className="slide" data-slide-id="0">
-              <img className="slide__img" src="1.jpg" alt="slider-0" />
-              <div className="slide__caption">
-                <span className="slide__caption--title">Slide 1</span>
-                <span className="slide__caption--text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam assumenda nostrum quisquam voluptatem consectetur dolore, necessitatibus doloribus temporibus, enim animi adipisci architecto ipsum, labore corporis! Quaerat doloribus consequatur ex blanditiis?</span>
-              </div>
-            </div>
-            <div id="slide" className="slide" data-slide-id="1">
-              <img className="slide__img" src="2.jpg" alt="slider-1" />
-              <div className="slide__caption">
-                <span className="slide__caption--title">Slide 2</span>
-                <span className="slide__caption--text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam assumenda nostrum quisquam voluptatem consectetur dolore, necessitatibus doloribus temporibus, enim animi adipisci architecto ipsum, labore corporis! Quaerat doloribus consequatur ex blanditiis?</span>
-              </div>
-            </div>
-            <div id="slide" className="slide" data-slide-id="2">
-              <img className="slide__img" src="https://images.unsplash.com/photo-1511431426884-c1525fc26c8a?auto=format&fit=crop&w=1350&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="slider-2" />
-              <div className="slide__caption">
-                <span className="slide__caption--title">Slide 3</span>
-                <span className="slide__caption--text">3.jpg</span>
-              </div>
-            </div>
-            <div id="slide" className="slide" data-slide-id="3">
-              <img className="slide__img" src="4.jpg" alt="slider-3" />
-              <div className="slide__caption">
-                <span className="slide__caption--title">Slide 4</span>
-                <span className="slide__caption--text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam assumenda nostrum quisquam voluptatem consectetur dolore, necessitatibus doloribus temporibus, enim animi adipisci architecto ipsum, labore corporis! Quaerat doloribus consequatur ex blanditiis?</span>
-              </div>
-            </div>
+            {
+              gallery.map((g, i) => (
+                <div id="slide" key={i} className="slide" data-slide-id={i}>
+                  <img className="slide__img" src={g.image} alt={g.alt} />
+                  <div className="slide__caption">
+                    <span className="slide__caption--title">
+                      {g.title}
+                    </span>
+                    <span className="slide__caption--text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam assumenda nostrum quisquam voluptatem consectetur dolore, necessitatibus doloribus temporibus, enim animi adipisci architecto ipsum, labore corporis! Quaerat doloribus consequatur ex blanditiis?</span>
+                  </div>
+                </div>
+              ))
+            }
           </div>
 
-          <a href="#" className="slider__btn slider__btn--prev" data-slide="prev">
+          <a href="#0" className="slider__btn slider__btn--prev" data-slide="prev">
             <i className="fa fa-chevron-left" aria-hidden="true"></i>
           </a>
-          <a href="#" className="slider__btn slider__btn--next" data-slide="next">
+          <a href="#1" className="slider__btn slider__btn--next" data-slide="next">
             <i className="fa fa-chevron-right" aria-hidden="true"></i>
           </a>
 
           <div className="indicators">
             <ul className="indicators__list">
-              <li className="indicators__item active" data-slide-to="0"></li>
-              <li className="indicators__item" data-slide-to="1"></li>
-              <li className="indicators__item" data-slide-to="2"></li>
-              <li className="indicators__item" data-slide-to="3"></li>
+              {
+                gallery.map((g, i) => {
+                  const isFirst = i === 0;
+                  return <li key={i} className={`indicators__item ${isFirst ? 'active' : ''}`} data-slide-to={i}></li>
+                })
+              }
             </ul>
           </div>
         </section>
@@ -122,5 +201,7 @@ export default class FullPageSlider extends Component {
 }
 
 FullPageSlider.propTypes = {
-  images: PropTypes.array.isRequired
+  gallery: PropTypes.array,
+  slideTime: PropTypes.number,
+  autoSlide: PropTypes.bool,
 }
