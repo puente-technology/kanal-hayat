@@ -3,6 +3,8 @@ const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
 // const { fmImagesToRelative } = require('gatsby-remark-relative-images')
 
+const locales = require('./src/constants/locales')
+
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
   return graphql(`
@@ -14,6 +16,7 @@ exports.createPages = ({ actions, graphql }) => {
             frontmatter {
               template
               title
+              locale
             }
             fields {
               slug
@@ -44,6 +47,8 @@ exports.createPages = ({ actions, graphql }) => {
 
       pagesToCreate.forEach((page, index) => {
         const id = page.node.id
+        const locale = page.node.frontmatter.locale;
+
         createPage({
           // page slug set in md frontmatter
           path: page.node.fields.slug,
@@ -52,11 +57,34 @@ exports.createPages = ({ actions, graphql }) => {
           ),
           // additional data can be passed via context
           context: {
-            id
+            id,
+            locale
           }
         })
       })
     })
+  })
+}
+
+exports.onCreatePage = ({ page, actions }) => {
+  const { createPage, deletePage } = actions
+
+  return new Promise(resolve => {
+    deletePage(page)
+
+    Object.keys(locales).map(lang => {
+      const localizedPath = locales[lang].default
+        ? page.path
+        : locales[lang].path + page.path
+      return createPage({
+        ...page,
+        path: localizedPath,
+        context: {
+          locale: lang
+        }
+      })
+    })
+    resolve()
   })
 }
 
@@ -70,6 +98,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   // https://github.com/Vagr9K/gatsby-advanced-starter/blob/master/gatsby-node.js
   let slug
   if (node.internal.type === 'MarkdownRemark') {
+
     const fileNode = getNode(node.parent)
     const parsedFilePath = path.parse(fileNode.relativePath)
 
@@ -90,18 +119,18 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     } else {
       slug = `/${parsedFilePath.dir}/`
     }
+    const value = createFilePath({ node, getNode })
 
     createNodeField({
       node,
       name: 'slug',
       value: slug
     })
-
     // Add contentType to node.fields
     createNodeField({
       node,
       name: 'contentType',
-      value: parsedFilePath.dir
+      value,
     })
   }
 }

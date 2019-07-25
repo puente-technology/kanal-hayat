@@ -1,6 +1,6 @@
 ---
 template: HomePage
-slug: ''
+slug: 'en'
 locale: en
 title: Yellowcake ENG
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
@@ -11,7 +11,7 @@ meta:
 gallery:
   - alt: yellow rope image
     image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
-    title: Yellow Rope
+    title: English - I
     name: YR Test
     programTime: Her gün 14:00 - 15:00
     programURL: 'https://google.com'
