@@ -8,14 +8,14 @@ import FullPageSlider from '../components/FullPageSlider';
 // import Layout from '../components/Layout'
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = ({ gallery, subtitle, featuredImage, body }) => (
-  // {
-  //   gallery.map(photo =>)
-  // }
+export const HomePageTemplate = (data) => {
+  console.log({data});
+  return (
   <div>
-    <FullPageSlider gallery={gallery} />
+    <FullPageSlider gallery={data.gallery} />
   </div>
 )
+  }
 
 // Export Default HomePage for front-end
 const HomePage = ({ data: { page } }) => {

@@ -13,7 +13,7 @@ collections:
       preview: true
     files:
       - file: 'content/pages/home.md'
-        label: 'Home Page'
+        label: 'Ana Sayfa'
         name: 'home-page'
         fields:
           - {label: "Locale", name: "locale", widget: "hidden", default: "tr"}
