@@ -157,7 +157,6 @@ export default class FullPageSlider extends Component {
 
   render() {
     const { gallery } = this.props
-    console.log({ gallery });
     return (
       <Fragment>
         <section id="slider" className="slider">

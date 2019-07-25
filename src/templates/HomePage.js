@@ -33,8 +33,8 @@ export const pageQuery = graphql`
   ## Use GraphiQL interface (http://localhost:8000/___graphql)
   ## $id is processed via gatsby-node.js
   ## query name must be unique to this file
-  query HomePage($id: String!) {
-    page: markdownRemark(id: { eq: $id }) {
+  query HomePage($id: String!, $locale: String) {
+    page: markdownRemark(id: { eq: $id }, frontmatter: { locale: { eq: $locale }}) {
       # ...Meta
       html
       frontmatter {
