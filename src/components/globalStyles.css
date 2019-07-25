@@ -9,3 +9,7 @@
   --font-system: system-ui; /* postcssPresetEnv */
   --borderRadius: 3px;
 }
+
+.MainDiv {
+  position: relative;
+}
