@@ -33,7 +33,6 @@ export class Navigation extends Component {
               to === this.state.currentPath ? 'active' : ''
               } ${className || ''}`}
             onClick={this.handleLinkClick}
-            style={{ color: menuColor }}
             {...props}
           >
             {children}
