@@ -2,7 +2,7 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout';
 import FullPageSlider from '../components/FullPageSlider';
-import { HomePageSlider } from '../cms/preview-templates/HomePageSlider';
+import { HomePageSlider } from './HomePageSlider';
 
 // import PageHeader from '../components/PageHeader'
 // import Content from '../components/Content'
@@ -15,7 +15,11 @@ export const HomePageTemplate = (data) => {
     return (
       <div>
         <Layout meta={meta}>
+          {
+            data.frontmatter ?
             <FullPageSlider gallery={data.gallery} />
+            : <HomePageSlider data={data.gallery} />
+          }
         </Layout>
       </div>
     )
