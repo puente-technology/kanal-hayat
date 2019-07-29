@@ -15,11 +15,7 @@ export const HomePageTemplate = (data) => {
     return (
       <div>
         <Layout meta={meta}>
-          {
-            data.frontmatter ?
             <FullPageSlider gallery={data.gallery} />
-            : <HomePageSlider data={data.gallery} />
-          }
         </Layout>
       </div>
     )
