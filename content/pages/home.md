@@ -14,12 +14,15 @@ gallery:
     name: YR Test
     programTime: Her gün 14:00 - 15:00
     programURL: 'https://google.com'
+    menuColor: "#FFFFFF"
   - alt: umbrellas
     image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
     title: a bunch of umbrellas
+    menuColor: "#FFFFFF"
   - alt: yellow ice cream
     image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
     title: Yellow Ice Cream
+    menuColor: "#FFFFFF"
 ---
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 

@@ -34,7 +34,7 @@ export class Navigation extends Component {
           {children}
         </Link>
       )
-
+console.log({xx: this.props.menuColor});
     return (
       <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
         <div className="Nav--Container container">
@@ -60,6 +60,6 @@ export class Navigation extends Component {
   }
 }
 
-export default () => (
-  <Location>{route => <Navigation {...route} />}</Location>
+export default (menuColor) => (
+  <Location>{route => <Navigation menuColor={menuColor} {...route} />}</Location>
 )
