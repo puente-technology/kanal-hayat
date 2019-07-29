@@ -25,6 +25,7 @@ collections:
             }
           - { label: Slug, name: slug, widget: hidden, default: '' }
           - { label: Title, name: title, widget: string }
+          - { label: Color, name: color, widget: native-color }
           - label: 'Full Page Slider'
             name: 'gallery'
             widget: 'list'
@@ -32,12 +33,6 @@ collections:
               - { name: image, label: Image, widget: image }
               - { name: alt, label: Alt, widget: string }
               - { name: title, label: Title, widget: string, required: true }
-              - {
-                  name: native-color,
-                  label: Menu Color,
-                  widget: native-color,
-                  default: "#ffff"
-              }
 
       - file: 'content/pages/home.en.md'
         label: 'Home Page'

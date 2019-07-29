@@ -1,5 +1,5 @@
 import React from 'react'
-import CMS from 'netlify-cms-app'
+import CMS from 'netlify-cms'
 import './cms-util'
 import { HomePageTemplate } from '../templates/HomePage'
 
