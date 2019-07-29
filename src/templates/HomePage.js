@@ -2,6 +2,7 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout';
 import FullPageSlider from '../components/FullPageSlider';
+import { HomePageSlider } from '../cms/preview-templates/HomePageSlider';
 
 // import PageHeader from '../components/PageHeader'
 // import Content from '../components/Content'
@@ -9,22 +10,27 @@ import FullPageSlider from '../components/FullPageSlider';
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = (data) => {
-  console.log({data});
-  return (
-  <div>
-    <FullPageSlider gallery={data.gallery} />
-  </div>
-)
-  }
+  console.log({ data });
+  const meta = data.frontmatter ? data.frontmatter.meta : false;
+    return (
+      <div>
+        <Layout meta={meta}>
+          {
+            data.frontmatter ?
+            <FullPageSlider gallery={data.gallery} />
+            : <HomePageSlider data={data.gallery} />
+          }
+        </Layout>
+      </div>
+    )
+}
 
 // Export Default HomePage for front-end
 const HomePage = ({ data: { page } }) => {
-  console.log({page});
   return (
-  <Layout meta={page.frontmatter.meta || false}>
-    <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
-  </Layout>
-)}
+      <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
+  )
+}
 
 export default HomePage
 

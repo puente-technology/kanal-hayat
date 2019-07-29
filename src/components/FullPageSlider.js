@@ -46,6 +46,7 @@ export default class FullPageSlider extends Component {
 
   addClass(numOfSlide) {
     this.reset('slides', 'current');
+    console.log({xx: this.getElement});
     this.getElement.slides[numOfSlide].classList.add('current');
   }
 
@@ -147,12 +148,12 @@ export default class FullPageSlider extends Component {
       indicators: [].concat(this._toConsumableArray(document.querySelectorAll('.indicators__item')))
     }
     this.init(this.state.id);
-    this.getElement.nextBtn.addEventListener('click', () => {
-      this.changeSlide(1);
-    });
-    this.getElement.prevBtn.addEventListener('click', () => {
-      this.changeSlide(-1);
-    });
+    // this.getElement.nextBtn.addEventListener('click', () => {
+    //   this.changeSlide(1);
+    // });
+    // this.getElement.prevBtn.addEventListener('click', () => {
+    //   this.changeSlide(-1);
+    // });
   }
 
   render() {

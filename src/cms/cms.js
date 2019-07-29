@@ -1,22 +1,23 @@
 import React from 'react'
 import CMS from 'netlify-cms-app'
-// import './cms-utils'
+import './cms-util'
 
 import { HomePageTemplate } from '../templates/HomePage'
+// console.log({xx: window.localStorage.getItem('netlifySiteURL')})
 
+// CMS.registerPreviewStyle(styles.toString(), { raw: true })
 // if (
 //   window.location.hostname === 'localhost' &&
 //   window.localStorage.getItem('netlifySiteURL')
 // ) {
-//   // CMS.registerPreviewStyle(
-//   //   window.localStorage.getItem('netlifySiteURL') + '/styles.css'
-//   // )
+//   CMS.registerPreviewStyle(
+//     window.localStorage.getItem('netlifySiteURL') + '/templates/HomePageSlider.css'
+//   )
 // } else {
-//   // CMS.registerPreviewStyle('/styles.css')
 // }
 
-CMS.registerPreviewTemplate('home-page', ({ entry }) => {
-  console.log('home-pageee');
+  CMS.registerPreviewTemplate('home-page', ({ entry }) => {
+  console.log('home-pageee', entry.toJS());
   return (
   <HomePageTemplate {...entry.toJS().data} />
 )})

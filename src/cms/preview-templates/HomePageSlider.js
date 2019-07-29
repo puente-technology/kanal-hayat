@@ -1,0 +1,24 @@
+import React from 'react'
+import './HomePageSlider.css'
+
+export const HomePageSlider = (gallery) => {
+  return (
+    <div>
+      {
+        gallery.data.map(g => (
+          <div 
+            className="HomePageSlider"
+            style={{
+              background: `url(${g.image})`,
+              backgroundSize: 'cover',
+              height: '450px',
+              marginBottom: '50px'
+            }}>
+            {g.title}
+          </div>
+        ))
+      }
+    </div>
+  )
+}
+

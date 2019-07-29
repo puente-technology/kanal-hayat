@@ -26,7 +26,7 @@ collections:
           - { label: Slug, name: slug, widget: hidden, default: '' }
           - { label: Title, name: title, widget: string }
           - label: 'Full Page Slider'
-            name: 'full-page-slider'
+            name: 'gallery'
             widget: 'list'
             fields:
               - { name: image, label: Image, widget: image }
