@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
 import { Location } from '@reach/router'
-import styled from 'styled-components'
 import Logo from './Logo'
 
 import './globalStyles.css'
@@ -24,8 +23,6 @@ export class Navigation extends Component {
   render() {
     const { active } = this.state,
       NavLink = ({ to, menuColor, className, children, ...props }) => {
-        const StyledLink = styled(props => <Link {...props} />)`
-          color: ${menuColor} !important;`;
         return (
           <Link
             to={to}
