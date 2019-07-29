@@ -14,13 +14,13 @@ export const HomePageTemplate = (data) => {
   const meta = data.frontmatter ? data.frontmatter.meta : false;
     return (
       <div>
-        <Layout meta={meta}>
           {
             data.frontmatter ?
+        <Layout meta={meta}>
             <FullPageSlider gallery={data.gallery} />
+        </Layout>
             : <HomePageSlider data={data.gallery} />
           }
-        </Layout>
       </div>
     )
 }
