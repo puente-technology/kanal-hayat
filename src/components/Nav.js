@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
 import { Location } from '@reach/router'
+import styled from 'styled-components'
 import Logo from './Logo'
 
 import './globalStyles.css'
@@ -22,19 +23,25 @@ export class Navigation extends Component {
 
   render() {
     const { active } = this.state,
-      NavLink = ({ to, className, children, ...props }) => (
-        <Link
-          to={to}
-          className={`NavLink ${
-            to === this.state.currentPath ? 'active' : ''
-            } ${className || ''}`}
-          onClick={this.handleLinkClick}
-          {...props}
-        >
-          {children}
-        </Link>
-      )
-console.log({xx: this.props.menuColor});
+      NavLink = ({ to, menuColor, className, children, ...props }) => {
+        const StyledLink = styled(props => <Link {...props} />)`
+          color: ${menuColor} !important;`;
+        return (
+          <StyledLink
+            to={to}
+            className={`NavLink ${
+              to === this.state.currentPath ? 'active' : ''
+              } ${className || ''}`}
+            onClick={this.handleLinkClick}
+            style={{ color: menuColor }}
+            {...props}
+          >
+            {children}
+          </StyledLink>
+        )
+      }
+    const { menuColor } = this.props;
+    console.log({ xx: this.props.menuColor });
     return (
       <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
         <div className="Nav--Container container">
@@ -42,10 +49,10 @@ console.log({xx: this.props.menuColor});
             <Logo />
           </Link>
           <div className="Nav--Links">
-            <NavLink to="/">Yayın Akışı</NavLink>
-            <NavLink to="/components/">Öğren</NavLink>
-            <NavLink to="/default/">Kanal Hayat Hakkında</NavLink>
-            <NavLink to="/contact/">İletişim</NavLink>
+            <NavLink menuColor={menuColor} to="/">Yayın Akışı</NavLink>
+            <NavLink menuColor={menuColor} to="/components/">Öğren</NavLink>
+            <NavLink menuColor={menuColor} to="/default/">Kanal Hayat Hakkında</NavLink>
+            <NavLink menuColor={menuColor} to="/contact/">İletişim</NavLink>
             <div style={{ display: 'none' }} className="styled-select">
               <select defaultValue="0">
                 <option value="0">Türkçe</option>
