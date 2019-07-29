@@ -27,7 +27,7 @@ export class Navigation extends Component {
         const StyledLink = styled(props => <Link {...props} />)`
           color: ${menuColor} !important;`;
         return (
-          <StyledLink
+          <Link
             to={to}
             className={`NavLink ${
               to === this.state.currentPath ? 'active' : ''
@@ -36,7 +36,7 @@ export class Navigation extends Component {
             {...props}
           >
             {children}
-          </StyledLink>
+          </Link>
         )
       }
     const { menuColor } = this.props;
