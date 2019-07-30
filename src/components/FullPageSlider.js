@@ -167,10 +167,19 @@ export default class FullPageSlider extends Component {
                 <div id="slide" key={i} className="slide" data-slide-id={i}>
                   <img className="slide__img" src={g.image} alt={g.alt} />
                   <div className="slide__caption">
+                    <span className="slide__caption--program">
+                      Gerçeğin Sesi
+                    </span>
+                    <span className="slide__caption--program-time">
+                      Her gün 14:00 - 15:00
+                    </span>
+                    <hr className="slide__caption--line" />
                     <span className="slide__caption--title">
                       {g.title}
                     </span>
-                    <span className="slide__caption--text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam assumenda nostrum quisquam voluptatem consectetur dolore, necessitatibus doloribus temporibus, enim animi adipisci architecto ipsum, labore corporis! Quaerat doloribus consequatur ex blanditiis?</span>
+                    <span className="slide__caption--text">
+                      <button className="slide__caption--btn" type="button">Programa Git</button>
+                    </span>
                   </div>
                 </div>
               ))

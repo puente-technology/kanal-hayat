@@ -2,7 +2,6 @@
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 
-import 'modern-normalize/modern-normalize.css'
 import './globalStyles.css'
 import Nav from './Nav';
 
