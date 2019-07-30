@@ -17,7 +17,7 @@ export const HomePageTemplate = (data) => {
           {
             data.frontmatter ?
         <Layout meta={meta}>
-            <FullPageSlider gallery={data.gallery} />
+            <FullPageSlider autoSlide gallery={data.gallery} slideTime={5000} />
         </Layout>
             : <HomePageSlider data={data.gallery} />
           }
@@ -53,6 +53,9 @@ export const pageQuery = graphql`
           title
           align
           color
+          programName
+          programTime
+          programURL
         }
       }
     }

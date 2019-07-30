@@ -12,20 +12,27 @@ gallery:
     image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
     title: Tevrat'ın Müjdelediği Mesih
     name: YR Test
+    programName: Gerçeğin Sesi
     programTime: Her gün 14:00 - 15:00
     programURL: 'https://google.com'
     color: "light"
     align: "left"
   - alt: umbrellas
     image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
-    title: a bunch of umbrellas
+    title: Ali'nin Öyküsü
     color: "light"
     align: "center"
+    programName: Düşten Öte
+    programTime: Her gün 14:00 - 15:00
+    programURL: 'https://google.com'
   - alt: yellow ice cream
     image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
-    title: Yellow Ice Cream
+    title: Pusula
     color: "dark"
     align: "right"
+    programName: Kızıldeniz'den Geçiş
+    programTime: Her gün 14:00 - 15:00
+    programURL: 'https://google.com'
 ---
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
