@@ -165,6 +165,8 @@ body {
       height: 1px;
       background-color: #ffff;
       width: 254px;
+      margin-right: 0;
+      margin-left: 0;
     }
     .slide__caption--btn {
       border: white 1px solid;

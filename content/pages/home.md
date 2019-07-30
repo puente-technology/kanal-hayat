@@ -10,7 +10,7 @@ meta:
 gallery:
   - alt: yellow rope image
     image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
-    title: Yellow Rope
+    title: Tevrat'ın Müjdelediği Mesih
     name: YR Test
     programTime: Her gün 14:00 - 15:00
     programURL: 'https://google.com'
