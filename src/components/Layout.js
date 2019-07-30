@@ -6,7 +6,7 @@ import 'modern-normalize/modern-normalize.css'
 import './globalStyles.css'
 import Nav from './Nav';
 
-export default ({ children, meta, title, menuColor }) => {
+export default ({ children, meta, title, color, align }) => {
   return (
     <Fragment>
       <Helmet>
@@ -17,7 +17,7 @@ export default ({ children, meta, title, menuColor }) => {
         {/* Add font link tags here */}
       </Helmet>
       <div className="MainDiv">
-        <Nav menuColor={menuColor} />
+        <Nav color={color} align={align} />
         {children}
       </div>
     </Fragment>

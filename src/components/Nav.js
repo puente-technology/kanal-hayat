@@ -4,7 +4,7 @@ import { Location } from '@reach/router'
 import Logo from './Logo'
 
 import './globalStyles.css'
-import './Nav.css'
+import './Nav.scss'
 
 export class Navigation extends Component {
   state = {
@@ -22,13 +22,15 @@ export class Navigation extends Component {
 
   render() {
     const { active } = this.state,
-      NavLink = ({ to, menuColor, className, children, ...props }) => {
+      NavLink = ({ to, color, align, className, children, ...props }) => {
         return (
           <Link
             to={to}
             className={`NavLink ${
               to === this.state.currentPath ? 'active' : ''
-              } ${className || ''}`}
+              } ${className || ''}
+              ${color === 'light' ? 'white' : 'black'}
+              `}
             onClick={this.handleLinkClick}
             {...props}
           >
@@ -36,8 +38,7 @@ export class Navigation extends Component {
           </Link>
         )
       }
-    const { menuColor } = this.props;
-    console.log({ xx: this.props.menuColor });
+    const { color, align } = this.props;
     return (
       <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
         <div className="Nav--Container container">
@@ -45,10 +46,10 @@ export class Navigation extends Component {
             <Logo />
           </Link>
           <div className="Nav--Links">
-            <NavLink menuColor={menuColor} to="/">Yayın Akışı</NavLink>
-            <NavLink menuColor={menuColor} to="/components/">Öğren</NavLink>
-            <NavLink menuColor={menuColor} to="/default/">Kanal Hayat Hakkında</NavLink>
-            <NavLink menuColor={menuColor} to="/contact/">İletişim</NavLink>
+            <NavLink color={color} align={align} to="/">Yayın Akışı</NavLink>
+            <NavLink color={color} align={align} to="/components/">Öğren</NavLink>
+            <NavLink color={color} align={align} to="/default/">Kanal Hayat Hakkında</NavLink>
+            <NavLink color={color} align={align} to="/contact/">İletişim</NavLink>
             <div style={{ display: 'none' }} className="styled-select">
               <select defaultValue="0">
                 <option value="0">Türkçe</option>
@@ -63,6 +64,6 @@ export class Navigation extends Component {
   }
 }
 
-export default (menuColor) => (
-  <Location>{route => <Navigation menuColor={menuColor} {...route} />}</Location>
+export default (color, align) => (
+  <Location>{route => <Navigation color={color} align={align} {...route} />}</Location>
 )

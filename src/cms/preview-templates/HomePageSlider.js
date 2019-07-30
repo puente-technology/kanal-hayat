@@ -7,7 +7,11 @@ export const HomePageSlider = (gallery) => {
     <div>
       {
         gallery.data.map((g, i) => (
-          <Layout menuColor={g.menuColor} key={i}>
+          <Layout 
+            color={g.color}
+            align={g.align}
+            key={i}
+          >
             <div
               className="HomePageSlider"
               style={{
