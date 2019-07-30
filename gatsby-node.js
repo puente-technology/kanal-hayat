@@ -43,6 +43,7 @@ exports.createPages = ({ actions, graphql }) => {
       console.log(`Creating ${pagesToCreate.length} ${contentType}`)
 
       pagesToCreate.forEach((page, index) => {
+        console.log(page.node.frontmatter.template)
         const id = page.node.id
         createPage({
           // page slug set in md frontmatter

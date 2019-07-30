@@ -32,24 +32,20 @@ collections:
               - { name: image, label: Image, widget: image }
               - { name: alt, label: Alt, widget: string }
               - { name: title, label: Title, widget: string, required: true }
-
-          - file: 'content/pages/home.en.md'
-            label: 'Home Page'
-            name: 'home-page'
+  - name: 'statics'
+    label: 'Static Footer'
+    delete: false
+    editor:
+      preview: true
+    files:
+      - file: 'content/pages/static.md'
+        label: 'Static Info'
+        name: 'static-info'
+        fields:
+          - { label: Footer Program Info, name: staticInfo, widget: string }
+          - label: 'Static Info Footer'
+            name: 'static-info'
+            widget: 'list'
             fields:
-              - {label: "Locale", name: "locale", widget: "hidden", default: "en"}
-              - {
-                  label: Template,
-                  name: template,
-                  widget: hidden,
-                  default: HomePage,
-                }
-              - { label: Slug, name: slug, widget: hidden, default: '' }
-              - { label: Title, name: title, widget: string }
-              - label: 'Full Page Slider'
-                name: 'full-page-slider'
-                widget: 'list'
-                fields:
-                  - { name: image, label: Image, widget: image }
-                  - { name: alt, label: Alt, widget: string }
-                  - { name: title, label: Title, widget: string, required: true }
+              - { name: programName, label: Program, widget: string }
+              - { name: link, label: Link, widget: string }

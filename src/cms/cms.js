@@ -4,6 +4,7 @@ import CMS from 'netlify-cms-app'
 
 import { HomePageTemplate } from '../templates/HomePage'
 
+
 // if (
 //   window.location.hostname === 'localhost' &&
 //   window.localStorage.getItem('netlifySiteURL')
