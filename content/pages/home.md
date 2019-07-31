@@ -27,10 +27,10 @@ gallery:
     programURL: 'https://google.com'
   - alt: yellow ice cream
     image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
-    title: Pusula
+    title: Kızıldeniz'den Geçiş
     color: "dark"
     align: "right"
-    programName: Kızıldeniz'den Geçiş
+    programName: Pusula
     programTime: Her gün 14:00 - 15:00
     programURL: 'https://google.com'
 ---

@@ -312,10 +312,20 @@ body {
   line-height: 25px;
   &.light {
     border: white 1px solid;
+    color: white;
   }
   &.dark {
     border: black 1px solid;
+    color: black;
   }
+}
+
+.slide__footer--scroll {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 .indicators {
@@ -338,11 +348,14 @@ body {
   justify-content: center;
   position: absolute;
   bottom: 2rem;
+  right: 70px;
 }
 .indicators__item {
   display: block;
-  width: 3rem;
-  height: 0.7rem;
+  height: 10px;
+  border: 5px solid rgba(255, 255, 255, 0.5);
+  border-radius: 5px;
+  width: 32px;
   background: rgba(0, 0, 0, 0.5);
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;

@@ -16,7 +16,6 @@ export default ({ children, meta, title, color, align }) => {
         {/* Add font link tags here */}
       </Helmet>
       <div className="MainDiv">
-        <Nav color={color} align={align} />
         {children}
       </div>
     </Fragment>
