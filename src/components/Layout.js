@@ -3,7 +3,7 @@ import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 
 import './globalStyles.css'
-import Nav from './Nav';
+// import Nav from './Nav';
 
 export default ({ children, meta, title, color, align }) => {
   return (
