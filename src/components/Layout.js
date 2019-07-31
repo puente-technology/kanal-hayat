@@ -4,9 +4,8 @@ import Helmet from 'react-helmet'
 import PageFooter from '../components/PageFooter';
 import MobileAppLink from '../components/MobileAppLink'
 
-import 'modern-normalize/modern-normalize.css'
 import './globalStyles.css'
-import Nav from './Nav';
+// import Nav from './Nav';
 
 export default ({ children, meta, title, color, align }) => {
   return (

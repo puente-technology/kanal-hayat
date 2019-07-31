@@ -7,12 +7,12 @@ import { HomePageSlider } from '../cms/preview-templates/HomePageSlider';
 // Export Template for use in CMS preview
 export const HomePageTemplate = (data) => {
   console.log({ data });
-  const meta = data.frontmatter ? data.frontmatter.meta : false;
+  // const meta = data.frontmatter ? data.frontmatter.meta : false;
     return (
       <div>
           {
             data.frontmatter ?
-            <FullPageSlider gallery={data.gallery} />
+            <FullPageSlider autoSlide gallery={data.gallery} slideTime={5000} />
             : <HomePageSlider data={data.gallery} />
           }
       </div>
@@ -49,6 +49,9 @@ export const pageQuery = graphql`
           title
           align
           color
+          programName
+          programTime
+          programURL
         }
       }
     }

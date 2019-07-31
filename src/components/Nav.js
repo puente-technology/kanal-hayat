@@ -29,7 +29,6 @@ export class Navigation extends Component {
             className={`NavLink ${
               to === this.state.currentPath ? 'active' : ''
               } ${className || ''}
-              ${color === 'light' ? 'white' : 'black'}
               `}
             onClick={this.handleLinkClick}
             {...props}
@@ -39,13 +38,14 @@ export class Navigation extends Component {
         )
       }
     const { color, align } = this.props;
+    console.log({ color });
     return (
       <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
         <div className="Nav--Container container">
           <Link to="/" onClick={this.handleLinkClick}>
             <Logo />
           </Link>
-          <div className="Nav--Links">
+          <div className={`Nav--Links ${color.color}`}>
             <NavLink color={color} align={align} to="/">Yayın Akışı</NavLink>
             <NavLink color={color} align={align} to="/components/">Öğren</NavLink>
             <NavLink color={color} align={align} to="/default/">Kanal Hayat Hakkında</NavLink>

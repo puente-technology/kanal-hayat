@@ -2,7 +2,8 @@ import React, { Component, Fragment } from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 
-import './FullPageSlider.css'
+import './FullPageSlider.scss'
+import Nav from './Nav';
 
 export const query = graphql`
   fragment FullPageSlider on MarkdownRemark {
@@ -46,7 +47,7 @@ export default class FullPageSlider extends Component {
 
   addClass(numOfSlide) {
     this.reset('slides', 'current');
-    console.log({xx: this.getElement});
+    console.log({ xx: this.getElement });
     this.getElement.slides[numOfSlide].classList.add('current');
   }
 
@@ -165,24 +166,28 @@ export default class FullPageSlider extends Component {
             {
               gallery.map((g, i) => (
                 <div id="slide" key={i} className="slide" data-slide-id={i}>
-                  <img className="slide__img" src={g.image} alt={g.alt} />
-                  <div className="slide__caption">
-                    <span className="slide__caption--title">
-                      {g.title}
-                    </span>
-                    <span className="slide__caption--text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam assumenda nostrum quisquam voluptatem consectetur dolore, necessitatibus doloribus temporibus, enim animi adipisci architecto ipsum, labore corporis! Quaerat doloribus consequatur ex blanditiis?</span>
+                  <Nav key={i} color={g.color} />
+                    <img className="slide__img" src={g.image} alt={g.alt} />
+                    <div className={`slide__caption ${g.color} ${g.align}`}>
+                      <span className="slide__caption--program">
+                        {g.programName}
+                      </span>
+                      <span className="slide__caption--program-time">
+                        {g.programTime}
+                      </span>
+                      <hr className={`slide__caption--line ${g.color}`} />
+                      <span className="slide__caption--title">
+                        {g.title}
+                      </span>
+                      <span className="slide__caption--text">
+                        <button className={`slide__caption--btn ${g.color}`} type="button">Programa Git</button>
+                      </span>
+                    </div>
+                    {/* <img src="images/ScrollIcon.png" className="slide__footer--scroll" /> */}
                   </div>
-                </div>
               ))
             }
           </div>
-
-          <a href="#0" className="slider__btn slider__btn--prev" data-slide="prev">
-            <i className="fa fa-chevron-left" aria-hidden="true"></i>
-          </a>
-          <a href="#1" className="slider__btn slider__btn--next" data-slide="next">
-            <i className="fa fa-chevron-right" aria-hidden="true"></i>
-          </a>
 
           <div className="indicators">
             <ul className="indicators__list">
