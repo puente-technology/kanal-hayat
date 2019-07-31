@@ -104,8 +104,8 @@ export class PageFooter extends Component {
                       </a>
                     </p>
                   ))
-                  return programItems
                 }
+                return programItems
               })
             }
             </div>

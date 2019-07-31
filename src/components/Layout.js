@@ -16,7 +16,7 @@ export default ({ children, meta, title, color, align }) => {
         <link rel="dns-prefetch" href="https://ucarecdn.com" />
         <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" />
       </Helmet>
-      <Nav color={color} align={align} />
+      {/* <Nav color={color} align={align} /> */}
       <div className="MainDiv">
         {children}
       </div>
