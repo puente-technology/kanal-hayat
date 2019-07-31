@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { StaticQuery, graphql } from 'gatsby'
 import PropTypes from 'prop-types';
 
-import './PageFooter.css';
+import './PageFooter.styles.css';
 
 const youtubeIcon = require('../../../public/images/youtube.svg');
 const twitterIcon = require('../../../public/images/twitter.svg');
@@ -31,15 +31,12 @@ export default () => (
   <StaticQuery
     query={graphql`
     query MyQuery {
-      allMarkdownRemark {
+      allSettingsYaml {
         edges {
           node {
-            frontmatter {
-              title
-              program {
-                link
-                programName
-              }
+            program {
+              link
+              programName
             }
           }
         }
@@ -47,7 +44,7 @@ export default () => (
     }
     `}
     render={(data) => (
-      <PageFooter edges={data.allMarkdownRemark.edges }/>
+      <PageFooter edges={data.allSettingsYaml.edges }/>
     )}
   />
 )
@@ -99,8 +96,8 @@ export class PageFooter extends Component {
             {
               Object.entries(edges).map(([index, obj]) => {
                 let programItems
-                if(obj.node.frontmatter.program) {
-                  programItems = obj.node.frontmatter.program.map((item , index) => (
+                if(obj.node.program) {
+                  programItems = obj.node.program.map((item , index) => (
                     <p key={index} className="menuContentStyle">
                       <a href={`/${item.link}`} key={index} >  
                         {item.programName}
@@ -116,7 +113,7 @@ export class PageFooter extends Component {
         </div>
         <div className="footerInfo">
           <div className="copyRightInfo">
-            Telif hakkı 2019 © Kanal Hayat. Tüm hakları saklıdır.  Gizlilik Politikası
+            Telif hakkı 2019 © Kanal Hayat. Tüm hakları saklıdır.
           </div>
           {/* <div className="languageSelection">
             Turkce Ingilizce

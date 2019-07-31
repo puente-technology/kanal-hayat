@@ -71,11 +71,10 @@ collections:
     editor:
       preview: true
     files:
-      - file: 'content/pages/static.md'
+      - file: 'content/settings/global.yml'
         label: 'Static Info'
         name: 'static-info'
         fields:
-          - { label: Footer Program Info, name: staticInfo, widget: string }
           - label: 'Static Info Footer'
             name: 'static-info'
             widget: 'list'
