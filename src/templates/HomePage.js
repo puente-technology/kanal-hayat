@@ -1,6 +1,6 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import Layout from '../components/Layout';
+// import Layout from '../components/Layout';
 import FullPageSlider from '../components/FullPageSlider';
 import { HomePageSlider } from '../cms/preview-templates/HomePageSlider';
 
@@ -11,7 +11,7 @@ import { HomePageSlider } from '../cms/preview-templates/HomePageSlider';
 // Export Template for use in CMS preview
 export const HomePageTemplate = (data) => {
   console.log({ data });
-  const meta = data.frontmatter ? data.frontmatter.meta : false;
+  // const meta = data.frontmatter ? data.frontmatter.meta : false;
     return (
       <div>
           {
