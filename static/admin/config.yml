@@ -65,3 +65,20 @@ collections:
               - { name: image, label: Image, widget: image }
               - { name: alt, label: Alt, widget: string }
               - { name: title, label: Title, widget: string, required: true }
+  - name: 'statics'
+    label: 'Static Footer'
+    delete: false
+    editor:
+      preview: true
+    files:
+      - file: 'content/pages/static.md'
+        label: 'Static Info'
+        name: 'static-info'
+        fields:
+          - { label: Footer Program Info, name: staticInfo, widget: string }
+          - label: 'Static Info Footer'
+            name: 'static-info'
+            widget: 'list'
+            fields:
+              - { name: programName, label: Program, widget: string }
+              - { name: link, label: Link, widget: string }

@@ -1,12 +1,8 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import Layout from '../components/Layout';
+import Layout from '../components/LayoutComponent'
 import FullPageSlider from '../components/FullPageSlider';
 import { HomePageSlider } from '../cms/preview-templates/HomePageSlider';
-
-// import PageHeader from '../components/PageHeader'
-// import Content from '../components/Content'
-// import Layout from '../components/Layout'
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = (data) => {
@@ -28,9 +24,10 @@ export const HomePageTemplate = (data) => {
 // Export Default HomePage for front-end
 const HomePage = ({ data: { page } }) => {
   return (
-      <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
-  )
-}
+  <Layout>
+    <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
+  </Layout>
+)}
 
 export default HomePage
 
