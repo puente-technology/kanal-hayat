@@ -39,8 +39,8 @@ program1:
     bgImage: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
     thumbnailTitle: Programlar
     thumbnails:
-      - image: '/images/thumbnailTemp.svg'
-      - image: '/images/thumbnailTemp.svg'
+      - image: '/images/thumbnailTemp.png'
+      - image: '/images/thumbnailTemp.png'
 ---
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
