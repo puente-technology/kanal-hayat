@@ -3,6 +3,7 @@ import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 import PageFooter from '../components/PageFooter';
 import MobileAppLink from '../components/MobileAppLink'
+import FriendSiteBanner from '../components/FrinedSiteBanner'
 
 import 'modern-normalize/modern-normalize.css'
 import './globalStyles.css'
@@ -20,9 +21,10 @@ export default ({ children, meta, title, color, align }) => {
       <Nav color={color} align={align} />
       <div className="MainDiv">
         {children}
+        <FriendSiteBanner/>
+        <MobileAppLink />
+        <PageFooter />
       </div>
-      <MobileAppLink />
-      <PageFooter />
     </Fragment>
   )
 }

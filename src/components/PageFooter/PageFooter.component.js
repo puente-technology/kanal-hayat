@@ -30,8 +30,8 @@ const icons = {
 export default () => (
   <StaticQuery
     query={graphql`
-    query MyQuery {
-      allSettingsYaml {
+    query PageFooter {
+      allFooterBannerYaml {
         edges {
           node {
             program {
@@ -44,7 +44,7 @@ export default () => (
     }
     `}
     render={(data) => (
-      <PageFooter edges={data.allSettingsYaml.edges }/>
+      <PageFooter edges={data.allFooterBannerYaml.edges }/>
     )}
   />
 )

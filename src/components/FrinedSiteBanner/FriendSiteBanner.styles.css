@@ -1,0 +1,64 @@
+.friendSiteBannerContainer {
+  height: 375px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.sideDiv {
+  height: 375px;
+  width: 100%;
+  background: linear-gradient(270deg, #DDE6F5 0%, #EBF0F9 82.96%, rgba(246, 247, 252, 0) 100.81%);
+}
+
+.imageStyle {
+  height: 375px;
+  width: 566px;
+  float: left;
+}
+
+.logoStyle {
+  width: 284px;
+  height: 116px;
+  margin-top: 30px;
+  margin-bottom: 46px;
+}
+
+.header {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center;
+  color: #3D3D3D;
+  margin-bottom: 10px;
+}
+
+.content {
+  font-family: Muli;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 19px;
+  text-align: center;
+  color: #3D3D3D;
+  margin-bottom: 15px;
+  width: 495px;
+  margin: auto auto 22px;
+  max-height: 60px;
+  overflow-y: scroll;
+}
+
+.button {
+  background-color: Transparent;
+  width: 250px;
+  height: 45px;
+  border: 1px solid #3D3D3D;
+  box-sizing: border-box;
+  font-family: Segoe UI;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  color: #3D3D3D;
+}
