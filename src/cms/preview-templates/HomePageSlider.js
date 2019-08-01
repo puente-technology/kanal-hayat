@@ -13,7 +13,8 @@ export const HomePageSlider = (gallery) => {
                 background: `url(${g.image})`,
                 backgroundSize: 'cover',
                 height: '450px',
-                marginBottom: '50px'
+                marginBottom: '50px',
+                position: 'relative',
               }}>
               <Nav key={i} color={g.color} />
               {g.title}

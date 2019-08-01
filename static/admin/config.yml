@@ -85,7 +85,7 @@ collections:
     editor:
       preview: true
     files:
-      - file: 'content/footerBanner/footerBanner.yml'
+      - file: 'content/components/footerBanner/footerBanner.yml'
         label: 'Footer Banner'
         name: 'footer-banner-info'
         fields:
@@ -102,7 +102,7 @@ collections:
     editor:
       preview: true
     files:
-      - file: 'content/friendSiteBanner/friendSiteBanner.yml'
+      - file: 'content/components/friendSiteBanner/friendSiteBanner.yml'
         label: 'Friend Site Banner'
         name: 'friendSiteBanner'
         fields:
