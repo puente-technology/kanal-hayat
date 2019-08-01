@@ -1,0 +1,27 @@
+.program-container {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-style: normal;
+  font-family: Nunito;
+}
+
+.ProgrammeTitle {
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 38px;
+  text-transform: uppercase;
+}
+
+.ProgrammeContent {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.ProgrammeThumbnailTitle {
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 25px;
+}

@@ -44,6 +44,19 @@ collections:
                   widget: "select",
                   options: ["dark", "light"]
                 }
+          - label: Program I
+            name: program1
+            widget: object
+            fields:
+              - { name: title, label: Başlık, widget: string }
+              - { name: content, label: İçerik, widget: text }
+              - { name: bgImage, label: Arka Plan, widget: image }
+              - { name: thumbnailTitle, label: Başlık - II, widget: string }
+              - label: Küçük Resimler
+                name: thumbnails
+                widget: 'list'
+                fields:
+                  - { name: image, label: Resim, widget: image }
 
       - file: 'content/pages/home.en.md'
         label: 'Home Page'

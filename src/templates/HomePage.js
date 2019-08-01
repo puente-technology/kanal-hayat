@@ -3,10 +3,11 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import FullPageSlider from '../components/FullPageSlider';
 import { HomePageSlider } from '../cms/preview-templates/HomePageSlider';
+import ProgrammeHomePage from '../components/ProgrammeHomePage';
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = (data) => {
-  console.log({ data });
+  console.log({ xxx: data.program1[0] });
   // const meta = data.frontmatter ? data.frontmatter.meta : false;
     return (
       <div>
@@ -15,13 +16,13 @@ export const HomePageTemplate = (data) => {
             <FullPageSlider autoSlide gallery={data.gallery} slideTime={5000} />
             : <HomePageSlider data={data.gallery} />
           }
+          <ProgrammeHomePage {...data.program1[0]} />
       </div>
     )
 }
 
 // Export Default HomePage for front-end
 const HomePage = ({ data: { page } }) => {
-  console.log('hmmmm', page);
   return (
   <Layout >
     <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
@@ -52,6 +53,15 @@ export const pageQuery = graphql`
           programName
           programTime
           programURL
+        }
+        program1 {
+          title
+          content
+          bgImage
+          thumbnailTitle
+          thumbnails {
+            image
+          }
         }
       }
     }
