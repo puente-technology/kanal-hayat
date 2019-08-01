@@ -3,7 +3,6 @@ import './HomePageSlider.css'
 import Layout from '../../components/Layout';
 
 export const HomePageSlider = (gallery) => {
-  console.log('galery', gallery)
   return (
     <div>
       {
