@@ -1,0 +1,12 @@
+color: "light"
+imageObj:
+  - alt: Image
+    image: 'http://localhost:8000/images/km.png'
+    title: Yellow Rope
+logo:
+  - alt: logo
+    image: 'https://www.kitabimukaddes.com/images/logos/1/Kitab-i_Mukaddes_Sirketi.png?t=1467272107'
+    title: Yellow Rope
+header: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+content: consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+buttonText: Siteye Git

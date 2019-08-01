@@ -1,8 +1,9 @@
 // https://fonts.googleapis.com/css?family=Nunito
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
-import PageFooter from '../components/PageFooter';
-import MobileAppLink from '../components/MobileAppLink'
+import PageFooter from './PageFooter';
+import MobileAppLink from './MobileAppLink'
+import FriendSiteBanner from './FriendSiteBanner'
 
 import './globalStyles.css'
 // import Nav from './Nav';
@@ -19,9 +20,10 @@ export default ({ children, meta, title, color, align }) => {
       {/* <Nav color={color} align={align} /> */}
       <div className="MainDiv">
         {children}
+        <FriendSiteBanner/>
+        <MobileAppLink />
+        <PageFooter />
       </div>
-      <MobileAppLink />
-      <PageFooter />
     </Fragment>
   )
 }

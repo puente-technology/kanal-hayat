@@ -1,0 +1,124 @@
+.footerBanner {
+  background: #34B5CF;
+  height: 293px;
+  position: absolute;
+  width: 100%;
+}
+.bannerHeader {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  margin-top: 28px;
+}
+
+.menuHeader {
+  margin-left: 68px;
+}
+
+.menuTextStyle {
+  margin-bottom: 10px;
+  text-align: left;
+  font-family: Segoe UI;
+  font-size: 24px;
+  line-height: 32px;
+  color: white
+}
+
+.menuContentStyle {
+  margin-bottom: 6px;
+  text-align: left;
+  font-family: Nunito;
+  font-size: 16px;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.registerColumn {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  align-items: center;
+}
+
+.emailInput {
+  width: 284px;
+  height: 35px;
+  background: #34b5cf;
+  border: 1px solid #FFFF;
+  padding-left: 10px;
+  margin-bottom: 14px;
+  color: white !important;
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+}
+.emailInput::placeholder {
+  color: white !important;
+}
+.register-btn {
+  width: 284px;
+  height: 35px;
+  background: #0B8CA7;
+  border: none;
+  color: white;
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.mostViewedCol {
+  margin-bottom: 10px;
+  text-align: left;
+  font-family: Segoe UI;
+  font-size: 24px;
+  line-height: 32px;
+  color: white;
+  padding-right: 68px;
+}
+
+.footerInfo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 28px;
+}
+
+.copyRightInfo {
+  padding-top: 10px;
+  color: white;
+  margin-left: 43px;
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+}
+
+.languageSelection {
+  padding-top: 10px;
+  color: white;
+  margin-left: 300px;
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+}
+
+.iconsColmStyle {
+  margin-right: 50px;
+}
+
+.iconStyle {
+  margin-right: 16px;
+}
+
