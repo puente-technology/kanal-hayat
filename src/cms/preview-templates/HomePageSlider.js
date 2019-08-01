@@ -7,8 +7,6 @@ export const HomePageSlider = (gallery) => {
     <div>
       {
         gallery.data.map((g, i) => (
-          <Fragment>
-            <Nav key={i} color={g.color} />
             <div
               className="HomePageSlider"
               style={{
@@ -17,9 +15,9 @@ export const HomePageSlider = (gallery) => {
                 height: '450px',
                 marginBottom: '50px'
               }}>
+              <Nav key={i} color={g.color} />
               {g.title}
             </div>
-          </Fragment>
         ))
       }
     </div>
