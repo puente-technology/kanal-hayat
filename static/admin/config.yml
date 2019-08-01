@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: puente-technology-design/kanal-hayat # Path to your GitLab repository 
+  repo: puente-technology-design/kanal-hayat/tree/develop
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
