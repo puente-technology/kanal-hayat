@@ -27,7 +27,7 @@ export default ({ title, content, bgImage, thumbnailTitle, thumbnails }) => {
         <div className="ProgrammeThumbnails">
           {
             thumbnails.map((thumb, i) => (
-              <div className="ProgrammeThumbnail">
+              <div key={i} className="ProgrammeThumbnail">
                 <img src={thumb.image} width={280} height={150} />
               </div>
             ))
