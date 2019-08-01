@@ -15,7 +15,10 @@ export const HomePageTemplate = (data) => {
             <FullPageSlider autoSlide gallery={data.gallery} slideTime={5000} />
             : <HomePageSlider data={data.gallery} />
           }
-          <ProgrammeHomePage {...data.program1[0]} />
+          {
+            data.program1 && data.program1.length > 0 &&
+            <ProgrammeHomePage {...data.program1[0]} />
+          }
       </div>
     )
 }
