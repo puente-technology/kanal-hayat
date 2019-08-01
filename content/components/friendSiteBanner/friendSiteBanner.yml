@@ -1,7 +1,7 @@
 color: "light"
 imageObj:
   - alt: Image
-    image: 'http://localhost:8000/images/km.png'
+    image: 'images/km.png'
     title: Yellow Rope
 logo:
   - alt: logo
