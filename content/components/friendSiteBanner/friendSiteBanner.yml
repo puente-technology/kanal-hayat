@@ -1,8 +1,7 @@
-template: HomePage
 color: "light"
 imageObj:
   - alt: Image
-    image: 'https://troybrewer.com/wp-content/uploads/2019/07/ian-espinosa-3apYxXtVO4I-unsplash.jpg'
+    image: 'http://localhost:8000/images/km.png'
     title: Yellow Rope
 logo:
   - alt: logo

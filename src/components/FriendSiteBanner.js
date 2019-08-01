@@ -46,10 +46,10 @@ export class FriendSiteBanner extends Component {
     const { edges } = this.props;
     return (
       <div className="friendSiteBannerContainer">
-        <div>
+        <div className="background">
           <img className="imageStyle" alt={edges[0].node.imageObj[0].alt} src={edges[0].node.imageObj[0].image} />
         </div>
-        <div className="sideDiv">
+        <div className="logoDiv">
           <img className="logoStyle" alt={edges[0].node.logo[0].alt} src={edges[0].node.logo[0].image} />
           <p className="header">
             {edges[0].node.header}
@@ -61,6 +61,18 @@ export class FriendSiteBanner extends Component {
             {edges[0].node.buttonText}
           </button>
         </div>
+        {/* <div className="sideDiv">
+          <img className="logoStyle" alt={edges[0].node.logo[0].alt} src={edges[0].node.logo[0].image} />
+          <p className="header">
+            {edges[0].node.header}
+          </p>
+          <p className="content">
+            {edges[0].node.content}
+          </p>
+          <button className="button">
+            {edges[0].node.buttonText}
+          </button>
+        </div> */}
       </div>
     )
   }

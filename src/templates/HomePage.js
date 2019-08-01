@@ -8,11 +8,11 @@ import { HomePageSlider } from '../cms/preview-templates/HomePageSlider';
 export const HomePageTemplate = (data) => {
     return (
       <div>
-          {
-            data.frontmatter ?
-            <FullPageSlider gallery={data.gallery} />
-            : <HomePageSlider data={data.gallery} />
-          }
+        {
+          data.frontmatter ?
+          <FullPageSlider gallery={data.gallery} />
+          : <HomePageSlider data={data.gallery} />
+        }
       </div>
     )
 }
