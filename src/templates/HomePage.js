@@ -8,6 +8,7 @@ import ProgrammeHomePage from '../components/ProgrammeHomePage';
 // Export Template for use in CMS preview
 export const HomePageTemplate = (data) => {
   // const meta = data.frontmatter ? data.frontmatter.meta : false;
+  console.log({data});
     return (
       <div>
           {
