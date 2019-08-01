@@ -8,6 +8,7 @@ export const HomePageSlider = (gallery) => {
       {
         gallery.data.map((g, i) => (
             <div
+              key={i}
               className="HomePageSlider"
               style={{
                 background: `url(${g.image})`,
@@ -16,7 +17,7 @@ export const HomePageSlider = (gallery) => {
                 marginBottom: '50px',
                 position: 'relative',
               }}>
-              <Nav key={i} color={g.color} />
+              <Nav color={g.color} />
               {g.title}
             </div>
         ))
