@@ -25,13 +25,13 @@ export default ({ title, content, bgImage, thumbnailTitle, thumbnails }) => {
           {thumbnailTitle}
         </div>
         <div className="ProgrammeThumbnails">
-          {
+          {/* {
             thumbnails.map((thumb, i) => (
               <div key={i} className="ProgrammeThumbnail">
                 <img src={thumb.image} width={280} height={150} />
               </div>
             ))
-          }
+          } */}
         </div>
       </div>
     </div>
