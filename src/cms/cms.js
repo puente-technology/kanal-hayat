@@ -20,7 +20,6 @@ import { HomePageTemplate } from '../templates/HomePage'
 // }
 
   CMS.registerPreviewTemplate('home-page', ({ entry }) => {
-  console.log('home-pageee', entry.toJS());
   return (
   <HomePageTemplate {...entry.toJS().data} />
 )})

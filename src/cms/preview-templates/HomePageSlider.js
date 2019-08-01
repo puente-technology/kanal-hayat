@@ -1,29 +1,24 @@
 import React from 'react'
 import './HomePageSlider.css'
-import Layout from '../../components/Layout';
+import Nav from '../../components/Nav';
 
 export const HomePageSlider = (gallery) => {
-  console.log('galery', gallery)
   return (
     <div>
       {
         gallery.data.map((g, i) => (
-          <Layout
-            color={g.color}
-            align={g.align}
-            key={i}
-          >
             <div
               className="HomePageSlider"
               style={{
                 background: `url(${g.image})`,
                 backgroundSize: 'cover',
                 height: '450px',
-                marginBottom: '50px'
+                marginBottom: '50px',
+                position: 'relative',
               }}>
+              <Nav key={i} color={g.color} />
               {g.title}
             </div>
-          </Layout>
         ))
       }
     </div>
