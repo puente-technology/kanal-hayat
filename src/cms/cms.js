@@ -3,6 +3,10 @@ import CMS from 'netlify-cms-app'
 import './cms-util'
 import { HomePageTemplate } from '../templates/HomePage'
 
+import PgaeFooter from '../components/PageFooter';
+import MobileAppLink from '../components/MobileAppLink';
+import FriendSiteBanner from '../components/FriendSiteBanner';
+
 // import * as NativeColorWidget from 'netlify-cms-widget-native-color'
 // CMS.registerWidget('native-color', NativeColorWidget.Control)
 
@@ -22,4 +26,23 @@ import { HomePageTemplate } from '../templates/HomePage'
   CMS.registerPreviewTemplate('home-page', ({ entry }) => {
   return (
   <HomePageTemplate {...entry.toJS().data} />
+)})
+
+CMS.registerPreviewTemplate('foterBanner', ({ entry }) => {
+  console.log('asdasd', entry.toJS());
+  return (
+  <PgaeFooter />
+)})
+
+CMS.registerPreviewTemplate('friendSiteBanner', ({ entry }) => {
+  console.log('asdasd', entry.toJS());
+  return (
+  <FriendSiteBanner />
+)})
+
+
+CMS.registerPreviewTemplate('mobile-link', ({ entry }) => {
+  console.log('asdasd', entry.toJS());
+  return (
+  <MobileAppLink />
 )})
