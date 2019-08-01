@@ -26,10 +26,10 @@ export class MobileAppLink extends Component {
             consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
           </p>
           <div className="googlePlayStyle">
-            <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+            <a rel="noopener noreferrer" href="https://www.google.com" target="_blank">
               <img alt='googleplay' key='googleplay' src={googlePlay} style={{paddingRight: '24px'}}/>
             </a>
-            <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+            <a rel="noopener noreferrer" href="https://www.google.com" target="_blank">
               <img alt='appstore' key='appstore' src={appStore}/>
             </a>
           </div>

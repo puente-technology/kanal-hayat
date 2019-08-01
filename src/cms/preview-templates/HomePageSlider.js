@@ -8,7 +8,7 @@ export const HomePageSlider = (gallery) => {
     <div>
       {
         gallery.data.map((g, i) => (
-          <Layout 
+          <Layout
             color={g.color}
             align={g.align}
             key={i}

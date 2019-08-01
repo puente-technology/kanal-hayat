@@ -13,8 +13,13 @@
 .Nav--Links {
   display: flex;
   align-items: center;
-  color: white;
   margin-left: 94px;
+  &.light {
+    color: white !important;
+  }
+  &.dark {
+    color: black !important;
+  }
 }
 
 .Nav .Logo {
@@ -53,12 +58,6 @@
   font-family: Nunito;
   font-size: 14px;
   line-height: 18px;
-  &.white {
-    color: white !important;
-  }
-  &.black {
-    color: black !important;
-  }
 }
 
 .NavLink:hover,
