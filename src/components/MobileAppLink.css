@@ -13,7 +13,7 @@
 }
 
 .googlePlayStyle {
-  padding-top: 54px;
+  text-align: center
 }
 
 .firstText {
@@ -23,6 +23,7 @@
   text-align: center;
   color: #3D3D3D;
   margin-top: 77px;
+  margin-bottom: 5px;
 }
 
 .secondText {
@@ -33,7 +34,7 @@
   line-height: 33px;
   text-align: center;
   color: #3D3D3D;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 .thirdText {
@@ -44,6 +45,6 @@
   line-height: 25px;
   text-align: center;
   color: #3D3D3D;
-  margin-bottom: 10px;
+  margin-bottom: 54px;
   width: 436px;
 }
