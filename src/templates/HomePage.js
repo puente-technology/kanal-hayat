@@ -6,8 +6,6 @@ import { HomePageSlider } from '../cms/preview-templates/HomePageSlider';
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = (data) => {
-  console.log({ data });
-  const meta = data.frontmatter ? data.frontmatter.meta : false;
     return (
       <div>
           {
@@ -21,7 +19,6 @@ export const HomePageTemplate = (data) => {
 
 // Export Default HomePage for front-end
 const HomePage = ({ data: { page } }) => {
-  console.log('hmmmm', page);
   return (
   <Layout >
     <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />

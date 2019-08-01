@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { StaticQuery, graphql } from 'gatsby'
 import PropTypes from 'prop-types';
-import './FriendSiteBanner.styles.css';
+import './FriendSiteBanner.css';
 
 export default () => (
   <StaticQuery
@@ -44,7 +44,6 @@ export class FriendSiteBanner extends Component {
 
   render() {
     const { edges } = this.props;
-    console.log(edges);
     return (
       <div className="friendSiteBannerContainer">
         <div>

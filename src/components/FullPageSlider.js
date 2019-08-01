@@ -46,7 +46,6 @@ export default class FullPageSlider extends Component {
 
   addClass(numOfSlide) {
     this.reset('slides', 'current');
-    console.log({xx: this.getElement});
     this.getElement.slides[numOfSlide].classList.add('current');
   }
 

@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 
-import './MobileAppLink.styles.css';
+import './MobileAppLink.css';
 
-const googlePlay = require('../../../public/images/googleplay.svg');
-const appStore = require('../../../public/images/appstore.svg');
-const qrCode = require('../../../public/images/qrcode.svg');
-const phone = require('../../../public/images/phone.svg');
+const googlePlay = require('../../static/images/googleplay.svg');
+const appStore = require('../../static/images/appstore.svg');
+const qrCode = require('../../static/images/qrcode.svg');
+const phone = require('../../static/images/phone.svg');
 
 export class MobileAppLink extends Component {
 
@@ -26,10 +26,10 @@ export class MobileAppLink extends Component {
             consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
           </p>
           <div className="googlePlayStyle">
-            <a href="https://www.google.com" target="_blank">
+            <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
               <img alt='googleplay' key='googleplay' src={googlePlay} style={{paddingRight: '24px'}}/>
             </a>
-            <a href="https://www.google.com" target="_blank">
+            <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
               <img alt='appstore' key='appstore' src={appStore}/>
             </a>
           </div>

@@ -2,13 +2,13 @@ import React, { Component } from 'react';
 import { StaticQuery, graphql } from 'gatsby'
 import PropTypes from 'prop-types';
 
-import './PageFooter.styles.css';
+import './PageFooter.css';
 
-const youtubeIcon = require('../../../public/images/youtube.svg');
-const twitterIcon = require('../../../public/images/twitter.svg');
-const instagramIcon = require('../../../public/images/instagram.svg');
-const locationIcon = require('../../../public/images/location.svg');
-const facebookIcon = require('../../../public/images/facebook.svg');
+const youtubeIcon = require('../../static/images/youtube.svg');
+const twitterIcon = require('../../static/images/twitter.svg');
+const instagramIcon = require('../../static/images/instagram.svg');
+const locationIcon = require('../../static/images/location.svg');
+const facebookIcon = require('../../static/images/facebook.svg');
 
 const menuItems = {
   izle: 'Izle',
@@ -106,6 +106,7 @@ export class PageFooter extends Component {
                   ))
                   return programItems
                 }
+                return null
               })
             }
             </div>

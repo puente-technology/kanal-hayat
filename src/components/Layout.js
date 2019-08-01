@@ -1,9 +1,9 @@
 // https://fonts.googleapis.com/css?family=Nunito
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
-import PageFooter from '../components/PageFooter';
-import MobileAppLink from '../components/MobileAppLink'
-import FriendSiteBanner from '../components/FrinedSiteBanner'
+import PageFooter from './PageFooter';
+import MobileAppLink from './MobileAppLink'
+import FriendSiteBanner from './FriendSiteBanner'
 
 import 'modern-normalize/modern-normalize.css'
 import './globalStyles.css'
