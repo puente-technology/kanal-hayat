@@ -1,17 +1,14 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import './HomePageSlider.css'
-import Layout from '../../components/Layout';
+import Nav from '../../components/Nav';
 
 export const HomePageSlider = (gallery) => {
   return (
     <div>
       {
         gallery.data.map((g, i) => (
-          <Layout
-            color={g.color}
-            align={g.align}
-            key={i}
-          >
+          <Fragment>
+            <Nav key={i} color={g.color} />
             <div
               className="HomePageSlider"
               style={{
@@ -22,7 +19,7 @@ export const HomePageSlider = (gallery) => {
               }}>
               {g.title}
             </div>
-          </Layout>
+          </Fragment>
         ))
       }
     </div>
