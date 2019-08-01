@@ -1,0 +1,53 @@
+.program-container {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-style: normal;
+  font-family: Nunito;
+  height: 100vh;
+}
+
+.Programme{
+  color: white;
+  height: 100%;
+  padding-top: 80px;
+  padding-bottom: 55px;
+  padding-left: 65px;
+  width: 575px;
+  text-align: justify;
+}
+
+.ProgrammeTitle {
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 38px;
+  text-transform: uppercase;
+}
+
+.ProgrammeContent {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  padding-top: 27px;
+}
+
+.ProgrammeThumbnailTitle {
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 25px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+.ProgrammeThumbnails {
+  display: flex;
+  flex-direction: row;
+}
+
+.ProgrammeThumbnail {
+  &:not(:first-child) {
+    margin-left: 13px;
+  }
+  margin-right: 13px;
+}
