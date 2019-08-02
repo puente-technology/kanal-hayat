@@ -7,6 +7,11 @@ import ProgrammeHomePage from '../components/ProgrammeHomePage';
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = (data) => {
+  console.log({program1: data.program1});
+  let program = data.program1;
+  if (Array.isArray(data.program1)) {
+    program = data.program1[0];
+  }
   return (
     <div>
         {
@@ -15,8 +20,8 @@ export const HomePageTemplate = (data) => {
           : <HomePageSlider data={data.gallery} />
         }
         {
-          data.program1 && data.program1.length > 0 &&
-          <ProgrammeHomePage {...data.program1[0]} />
+          data.program1 &&
+          <ProgrammeHomePage {...program} />
         }
     </div>
   )
