@@ -11,7 +11,7 @@ export default (data) => {
     const tempData = data.data;
   return (
     <div
-      style={{ background: `url(${data.bgImage}) no-repeat center center` }}
+      style={{ background: `url(${tempData.bgImage}) no-repeat center center` }}
       className="program-container">
       <div className="Programme">
         <div className="ProgrammeTitle">
