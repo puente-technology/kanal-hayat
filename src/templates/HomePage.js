@@ -20,7 +20,7 @@ export const HomePageTemplate = (data) => {
           : <HomePageSlider data={data.gallery} />
         }
         {
-          data.program1 &&
+          program &&
           <ProgrammeHomePage {...program} />
         }
     </div>

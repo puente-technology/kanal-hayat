@@ -50,6 +50,7 @@ collections:
             fields:
               - { name: title, label: Başlık, widget: string }
               - { name: content, label: İçerik, widget: string }
+              - { name: bgImage, label: Test, widget: image }
               - { name: thumbnailTitle, label: Başlık - II, widget: string }
               - label: Küçük Resimler
                 name: thumbnails
