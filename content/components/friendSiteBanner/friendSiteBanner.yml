@@ -1,7 +1,7 @@
 color: "light"
 imageObj:
   - alt: Image
-    image: 'images/km.png'
+    image: 'https://i.ibb.co/xHDqcZm/km.png'
     title: Yellow Rope
 logo:
   - alt: logo
