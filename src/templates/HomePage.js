@@ -21,7 +21,7 @@ export const HomePageTemplate = (data) => {
         }
         {
           program &&
-          <ProgrammeHomePage {...program} />
+              <ProgrammeHomePage data={program} />
         }
     </div>
   )
