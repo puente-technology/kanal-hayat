@@ -2,10 +2,7 @@ import React from 'react'
 import CMS from 'netlify-cms-app'
 import './cms-util'
 import { HomePageTemplate } from '../templates/HomePage'
-
-import PgaeFooter from '../components/PageFooter';
-import MobileAppLink from '../components/MobileAppLink';
-import FriendSiteBanner from '../components/FriendSiteBanner';
+import { FooterBanner } from './preview-templates/FooterBanner'
 
 // import * as NativeColorWidget from 'netlify-cms-widget-native-color'
 // CMS.registerWidget('native-color', NativeColorWidget.Control)
@@ -23,26 +20,12 @@ import FriendSiteBanner from '../components/FriendSiteBanner';
 // } else {
 // }
 
-  CMS.registerPreviewTemplate('home-page', ({ entry }) => {
+CMS.registerPreviewTemplate('home-page', ({ entry }) => {
   return (
   <HomePageTemplate {...entry.toJS().data} />
 )})
 
-CMS.registerPreviewTemplate('foterBanner', ({ entry }) => {
-  console.log('asdasd', entry.toJS());
+CMS.registerPreviewTemplate('footer-banner-info', ({ entry }) => {
   return (
-  <PgaeFooter />
-)})
-
-CMS.registerPreviewTemplate('friendSiteBanner', ({ entry }) => {
-  console.log('asdasd', entry.toJS());
-  return (
-  <FriendSiteBanner />
-)})
-
-
-CMS.registerPreviewTemplate('mobile-link', ({ entry }) => {
-  console.log('asdasd', entry.toJS());
-  return (
-  <MobileAppLink />
+  <FooterBanner {...entry.toJS().data }/>
 )})

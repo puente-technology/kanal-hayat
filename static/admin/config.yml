@@ -90,7 +90,7 @@ collections:
         name: 'footer-banner-info'
         fields:
           - label: 'Footer Banner'
-            name: 'footer-banner-info'
+            name: 'program'
             widget: 'list'
             fields:
               - { name: programName, label: Program, widget: string }
