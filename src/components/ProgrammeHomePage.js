@@ -2,36 +2,35 @@ import React from 'react'
 
 import './ProgrammeHomePage.scss'
 
-export default ({ title, content, bgImage, thumbnailTitle, thumbnails }) => {
-  console.log({
-    title,
-    content,
-    bgImage,
-    thumbnailTitle,
-    thumbnails
-  });
+export default (data) => {
+  console.log(
+    's',
+    {
+      data
+    });
+    const tempData = data.data;
   return (
     <div
-      style={{ background: `url(${bgImage}) no-repeat center center` }}
+      style={{ background: `url(${tempData.bgImage}) no-repeat center center` }}
       className="program-container">
       <div className="Programme">
         <div className="ProgrammeTitle">
-          {title}
+          {tempData.title}
         </div>
         <div className="ProgrammeContent">
-          {content}
+          {tempData.content}
         </div>
         <div className="ProgrammeThumbnailTitle">
-          {thumbnailTitle}
+          {tempData.thumbnailTitle}
         </div>
         <div className="ProgrammeThumbnails">
-          {/* {
-            thumbnails.map((thumb, i) => (
+          {
+            tempData.thumbnails.map((thumb, i) => (
               <div key={i} className="ProgrammeThumbnail">
                 <img src={thumb.image} width={280} height={150} />
               </div>
             ))
-          } */}
+          }
         </div>
       </div>
     </div>
