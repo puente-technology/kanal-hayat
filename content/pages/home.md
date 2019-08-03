@@ -4,14 +4,6 @@ slug: ''
 title: Tevrat'ın Müjdelediği Mesih
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
 subtitle: Humberto
-program1:
-  - title: Joyse Meyer / YAZAR
-    content: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Natus error sit voluptatem accusantium doloremque laudantium.
-    bgImage: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
-    thumbnailTitle: Programlar
-    thumbnails:
-      - image: '/images/thumbnailTemp.png'
-      - image: '/images/thumbnailTemp.png'
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
@@ -41,6 +33,14 @@ gallery:
     programName: Pusula
     programTime: Her gün 14:00 - 15:00
     programURL: 'https://google.com'
+program1:
+    title: Joyse Meyer / YAZAR
+    content: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Natus error sit voluptatem accusantium doloremque laudantium.
+    bgImage: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
+    thumbnailTitle: Programlar
+    thumbnails:
+      - image: '/images/thumbnailTemp.png'
+      - image: '/images/thumbnailTemp.png'
 ---
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
