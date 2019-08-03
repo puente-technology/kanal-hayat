@@ -32,7 +32,7 @@ CMS.registerPreviewTemplate('footer-banner-info', ({ entry }) => {
   <FooterBanner {...entry.toJS().data }/>
 )})
 
-CMS.registerPreviewTemplate('friendSiteBanner', ({ entry }) => {
+CMS.registerPreviewTemplate('friend-site-banner', ({ entry }) => {
   return (
   <FriendSiteBanner {...entry.toJS().data }/>
 )})

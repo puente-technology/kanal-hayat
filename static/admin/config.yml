@@ -1,8 +1,8 @@
 backend:
   name: github
   repo: puente-technology-design/kanal-hayat
-
-media_folder: "static/images/uploads"
+  branch: develop
+media_folder: "static/images"
 public_folder: "/images/uploads"
  
 collections:
@@ -104,7 +104,7 @@ collections:
     files:
       - file: 'content/components/friendSiteBanner/friendSiteBanner.yml'
         label: 'Friend Site Banner'
-        name: 'friendSiteBanner'
+        name: 'friend-site-banner'
         fields:
           - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
           - { label: Template, name: template, widget: hidden, default: HomePage}
