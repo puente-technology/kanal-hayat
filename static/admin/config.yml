@@ -44,15 +44,15 @@ collections:
                   widget: "select",
                   options: ["dark", "light"]
                 }
-          - label: Program 1
-            name: 'program'
-            widget: 'list'
+          - label: 'Program 1'
+            name: 'program1'
+            widget: 'object'
             fields:
               - { name: title, label: Başlık, widget: string }
-              - { name: content, label: İçerik, widget: string }
+              - { name: content, label: İçerik, widget: text }
               - { name: bgImage, label: Resim, widget: image }
               - { name: thumbnailTitle, label: Başlık - II, widget: string }
-              - label: Küçük Resimler
+              - label: 'Küçük Resimler'
                 name: 'thumbnails'
                 widget: 'list'
                 fields:
@@ -78,15 +78,15 @@ collections:
               - { name: image, label: Image, widget: image }
               - { name: alt, label: Alt, widget: string }
               - { name: title, label: Title, widget: string, required: true }
-          - label: Program 1
-            name: 'program'
-            widget: 'list'
+          - label: 'Program 1'
+            name: 'program1'
+            widget: 'object'
             fields:
               - { name: title, label: Başlık, widget: string }
-              - { name: content, label: İçerik, widget: string }
+              - { name: content, label: İçerik, widget: text }
               - { name: bgImage, label: Resim, widget: image }
               - { name: thumbnailTitle, label: Başlık - II, widget: string }
-              - label: Küçük Resimler
+              - label: 'Küçük Resimler'
                 name: 'thumbnails'
                 widget: 'list'
                 fields:
