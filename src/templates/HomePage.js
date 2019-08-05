@@ -7,7 +7,7 @@ import ProgrammeHomePage from '../components/ProgrammeHomePage';
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = (data) => {
-  console.log({program1: data.program1});
+  console.log({program1: data});
   let program = data.program1;
   if (Array.isArray(data.program1)) {
     program = data.program1[0];
