@@ -64,6 +64,8 @@ export const pageQuery = graphql`
           title
           content
           bgImage
+          color
+          align
           thumbnailTitle
           thumbnails {
             image

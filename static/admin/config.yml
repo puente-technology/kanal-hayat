@@ -52,6 +52,18 @@ collections:
               - { name: content, label: İçerik, widget: text }
               - { name: bgImage, label: Resim, widget: image }
               - { name: thumbnailTitle, label: Başlık - II, widget: string }
+              - {
+                  label: "Align",
+                  name: "align",
+                  widget: "select",
+                  options: ["left", "right"]
+                }
+              - {
+                  label: "Text Color",
+                  name: "color",
+                  widget: "select",
+                  options: ["dark", "light"]
+                }
               - label: 'Küçük Resimler'
                 name: 'thumbnails'
                 widget: 'list'
@@ -86,6 +98,18 @@ collections:
               - { name: content, label: İçerik, widget: text }
               - { name: bgImage, label: Resim, widget: image }
               - { name: thumbnailTitle, label: Başlık - II, widget: string }
+              - {
+                  label: "Align",
+                  name: "align",
+                  widget: "select",
+                  options: ["left", "right"]
+                }
+              - {
+                  label: "Text Color",
+                  name: "color",
+                  widget: "select",
+                  options: ["dark", "light"]
+                }
               - label: 'Küçük Resimler'
                 name: 'thumbnails'
                 widget: 'list'
