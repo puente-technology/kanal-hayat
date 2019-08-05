@@ -17,6 +17,16 @@ program1:
   thumbnails:
     - image: '/images/thumbnailTemp.png'
     - image: '/images/thumbnailTemp.png'
+program2:
+  title: 2Joyse Meyer / YAZAR
+  content: 2Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Natus error sit voluptatem accusantium doloremque laudantium.
+  bgImage: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
+  color: "light"
+  align: "left"
+  thumbnailTitle: Programlar2
+  thumbnails:
+    - image: '/images/thumbnailTemp.png'
+    - image: '/images/thumbnailTemp.png'
 gallery:
   - alt: yellow rope image
     image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'

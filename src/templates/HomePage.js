@@ -4,13 +4,18 @@ import Layout from '../components/Layout'
 import FullPageSlider from '../components/FullPageSlider';
 import { HomePageSlider } from '../cms/preview-templates/HomePageSlider';
 import ProgrammeHomePage from '../components/ProgrammeHomePage';
+import FriendSiteBanner from '../components/FriendSiteBanner';
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = (data) => {
   console.log({program1: data});
   let program = data.program1;
+  let program2 = data.program2;
   if (Array.isArray(data.program1)) {
     program = data.program1[0];
+  }
+  if (Array.isArray(data.program2)) {
+    program2 = data.program2[0];
   }
   return (
     <div>
@@ -23,6 +28,11 @@ export const HomePageTemplate = (data) => {
           program &&
               <ProgrammeHomePage data={program} />
         }
+        <FriendSiteBanner/>
+        {
+          program2 &&
+              <ProgrammeHomePage data={program2} />
+        }
     </div>
   )
 }
@@ -32,6 +42,8 @@ const HomePage = ({ data: { page } }) => {
   return (
   <Layout >
     <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
+    <FriendSiteBanner/>
+
   </Layout>
 )}
 
@@ -61,6 +73,17 @@ export const pageQuery = graphql`
           programURL
         }
         program1 {
+          title
+          content
+          bgImage
+          color
+          align
+          thumbnailTitle
+          thumbnails {
+            image
+          }
+        }
+        program2 {
           title
           content
           bgImage
