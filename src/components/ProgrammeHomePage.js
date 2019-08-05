@@ -3,12 +3,7 @@ import React from 'react'
 import './ProgrammeHomePage.scss'
 
 export default (data) => {
-  console.log(
-    's',
-    {
-      data
-    });
-    const tempData = data.data;
+  const tempData = data.data;
   return (
     <div
       style={{ background: `url(${tempData.bgImage}) no-repeat center` }}
