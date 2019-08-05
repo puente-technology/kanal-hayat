@@ -9,13 +9,24 @@
 }
 
 .Programme{
-  color: white;
   height: 100%;
   padding-top: 80px;
   padding-bottom: 55px;
-  padding-left: 65px;
   width: 575px;
   text-align: justify;
+  position: absolute;
+  &.light {
+    color: white;
+  }
+  &.dark {
+    color: black;
+  }
+  &.right {
+    right: 65px;
+  }
+  &.left {
+    left: 65px;
+  }
 }
 
 .ProgrammeTitle {
