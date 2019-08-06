@@ -1,14 +1,15 @@
 // https://fonts.googleapis.com/css?family=Nunito
 import React, { Fragment } from 'react'
-import Helmet from 'react-helmet'
-import PageFooter from './PageFooter';
+import Helmet from 'react-helmet';
+import PropTypes from 'prop-types';
+import PageFooterQ from './PageFooter';
 import MobileAppLink from './MobileAppLink'
 // import FriendSiteBanner from './FriendSiteBanner'
 import './globalStyles.css'
 // import Nav from './Nav';
 
-export default ({
-  children, meta, title, color, align,
+const Layout = ({
+  children, title,
 }) => (
   <Fragment>
     <Helmet>
@@ -21,7 +22,15 @@ export default ({
     <div className="MainDiv">
       {children}
       <MobileAppLink />
-      <PageFooter />
+      <PageFooterQ />
     </div>
   </Fragment>
 )
+
+Layout.propTypes = {
+  children: PropTypes.any,
+  // meta: PropTypes.any,
+  title: PropTypes.any,
+}
+
+export default Layout;

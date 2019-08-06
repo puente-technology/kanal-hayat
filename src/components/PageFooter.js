@@ -96,9 +96,9 @@ export class PageFooter extends Component {
               Object.entries(edges).map(([index, obj]) => {
                 let programItems
                 if (obj.node.program) {
-                  programItems = obj.node.program.map((item, index) => (
-                    <p key={index} className="menuContentStyle">
-                      <a href={`/${item.link}`} key={index}>
+                  programItems = obj.node.program.map((item, index2) => (
+                    <p key={`${index}${index2}`} className="menuContentStyle">
+                      <a href={`/${item.link}`} key={index2}>
                         {item.programName}
                       </a>
                     </p>

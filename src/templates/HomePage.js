@@ -1,5 +1,6 @@
 import React from 'react'
 import { graphql } from 'gatsby'
+import PropTypes from 'prop-types';
 import Layout from '../components/Layout'
 import FullPageSlider from '../components/FullPageSlider';
 import HomePageSlider from '../cms/preview-templates/HomePageSlider';
@@ -8,14 +9,13 @@ import FriendSiteBanner from '../components/FriendSiteBanner';
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = (data) => {
-  console.log({ program1: data });
   let program = data.program1;
   let { program2 } = data;
   if (Array.isArray(data.program1)) {
-    program = data.program1[0];
+    [program] = data.program1;
   }
   if (Array.isArray(data.program2)) {
-    program2 = data.program2[0];
+    [program2] = data.program2;
   }
   return (
     <div>
@@ -45,6 +45,10 @@ const HomePage = ({ data: { page } }) => (
 
   </Layout>
 )
+
+HomePage.propTypes = {
+  data: PropTypes.any,
+}
 
 export default HomePage
 
