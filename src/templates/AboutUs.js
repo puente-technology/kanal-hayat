@@ -9,13 +9,11 @@ export const AboutUsPageTemplate = (data) => (
 )
 
 // Export Default HomePage for front-end
-const AboutUsPage = ({ data: { page } }) => {
-  return (
-    <LayoutComp >
-      <AboutUs {...page} {...page.frontmatter} />
-    </LayoutComp>
-  )
-}
+const AboutUsPage = ({ data: { page } }) => (
+  <LayoutComp>
+    <AboutUs {...page} {...page.frontmatter} />
+  </LayoutComp>
+)
 
 export default AboutUsPage;
 

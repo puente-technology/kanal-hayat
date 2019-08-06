@@ -1,0 +1,58 @@
+{
+  "extends": "eslint-config-airbnb",
+  "env": {
+    "browser": true,
+    "node": true,
+    "mocha": true
+  },
+  "rules": {
+    "import/no-extraneous-dependencies": ["error", {"devDependencies": ["**/*.test.js", "tests/**"]}],
+    "react/no-array-index-key": 0,
+    "react/require-default-props": 0,
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "react/jsx-no-bind": [
+      2,
+      {
+        "ignoreRefs": false,
+        "allowArrowFunctions": false,
+        "allowBind": false
+      }
+    ],
+    "jsx-a11y/anchor-is-valid": [ "error", {
+      "components": [ "Link" ],
+      "specialLink": [ "to" ]
+    }],
+    "react/forbid-prop-types": [0, {
+      "forbid": [],
+      "checkContextTypes": true,
+      "checkChildContextTypes": true
+    }],
+    "semi": 0,
+    "no-param-reassign": [2, { "props": false }],
+    "no-undef": [1],
+    "no-underscore-dangle": [0],
+  },
+  "parser": "babel-eslint",
+  "plugins": [
+    "react",
+    "import"
+  ],
+  "settings": {
+    "import/parser": "babel-eslint",
+    "import/resolve": {
+      "moduleDirectory": [
+        "node_modules",
+        "src"
+      ]
+    }
+  },
+  "globals": {
+    "__DEVELOPMENT__": true,
+    "__CLIENT__": true,
+    "__SERVER__": true,
+    "__DISABLE_SSR__": true,
+    "__DEVTOOLS__": true,
+    "socket": true,
+    "webpackIsomorphicTools": true
+  }
+}

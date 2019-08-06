@@ -10,62 +10,61 @@ const menuItems = {
   canli: 'CANLI İZLE',
 }
 
-export const FooterBanner = (data) => {
-  return (
-    <div className="footerBanner">
-      <div className="bannerHeader">
-        <div className="menuHeader">
-          <p className="menuTextStyle">
+const FooterBanner = data => (
+  <div className="footerBanner">
+    <div className="bannerHeader">
+      <div className="menuHeader">
+        <p className="menuTextStyle">
             Menü
-          </p>
-          <div>
+        </p>
+        <div>
           {
             Object.entries(menuItems).map(([key, val]) => (
               <p key={key} className="menuContentStyle">
-                <a href={`/${key}`} key={key} >  
+                <a href={`/${key}`} key={key}>
                   {val}
                 </a>
               </p>
             ))
           }
-          </div>
+        </div>
 
-        </div>
-        <div className="registerColumn">
-          <p className="menuTextStyle">
+      </div>
+      <div className="registerColumn">
+        <p className="menuTextStyle">
             Kayıt Olun!
-          </p>
-          <input className="emailInput" type="text" name="email" placeholder="E-mail"/>
-          <button  type="submit" className="register-btn">
+        </p>
+        <input className="emailInput" type="text" name="email" placeholder="E-mail" />
+        <button type="submit" className="register-btn">
             Kayıt Ol
-          </button>
-        </div>
-        <div>
-          <p className="mostViewedCol">
+        </button>
+      </div>
+      <div>
+        <p className="mostViewedCol">
             En Çok İzlenen
-          </p>
-          <div>
+        </p>
+        <div>
           {
             Object.entries(data.program).map(([index, obj]) => (
               <p key={index} className="menuContentStyle">
-                <a href={`/${obj.link}`} key={index} >  
+                <a href={`/${obj.link}`} key={index}>
                   {obj.programName}
                 </a>
               </p>
             ))
           }
-          </div>
         </div>
-      </div>
-      <div className="footerInfo">
-        <div className="copyRightInfo">
-          Telif hakkı 2019 © Kanal Hayat. Tüm hakları saklıdır.
-        </div>
-        {/* <div className="languageSelection">
-          Turkce Ingilizce
-        </div> */}
       </div>
     </div>
-  )
-}
+    <div className="footerInfo">
+      <div className="copyRightInfo">
+          Telif hakkı 2019 © Kanal Hayat. Tüm hakları saklıdır.
+      </div>
+      {/* <div className="languageSelection">
+          Turkce Ingilizce
+        </div> */}
+    </div>
+  </div>
+)
 
+export default FooterBanner;

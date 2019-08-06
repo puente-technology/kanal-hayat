@@ -2,7 +2,7 @@ import React from 'react'
 import './HeaderBanner.css'
 import Nav from '../../components/Nav';
 
-export const HeaderBanner = (data) => {
+const HeaderBanner = (data) => {
   return (
     <div>
        {
@@ -23,3 +23,5 @@ export const HeaderBanner = (data) => {
     </div>
   )
 }
+
+export default HeaderBanner

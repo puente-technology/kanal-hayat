@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-bind */
 import React, { Component } from 'react';
 import { StaticQuery, graphql } from 'gatsby'
 import PropTypes from 'prop-types';
@@ -24,7 +25,7 @@ const icons = {
   location: locationIcon,
   facebook: facebookIcon,
   twitter: twitterIcon,
-  instagram: instagramIcon
+  instagram: instagramIcon,
 }
 
 export default () => (
@@ -43,21 +44,19 @@ export default () => (
       }
     }
     `}
-    render={(data) => (
-      <PageFooter edges={data.allFooterBannerYaml.edges }/>
+    render={data => (
+      <PageFooter edges={data.allFooterBannerYaml.edges} />
     )}
   />
 )
 
 
 export class PageFooter extends Component {
-
   static propTypes = {
     edges: PropTypes.any.isRequired,
   };
 
   render() {
-
     const { edges } = this.props;
     return (
       <div className="footerBanner">
@@ -67,10 +66,10 @@ export class PageFooter extends Component {
               Menü
             </p>
             <div>
-            {
+              {
               Object.entries(menuItems).map(([key, val]) => (
                 <p key={key} className="menuContentStyle">
-                  <a href={`/${key}`} key={key} >  
+                  <a href={`/${key}`} key={key}>
                     {val}
                   </a>
                 </p>
@@ -83,8 +82,8 @@ export class PageFooter extends Component {
             <p className="menuTextStyle">
               Kayıt Olun!
             </p>
-            <input className="emailInput" type="text" name="email" placeholder="E-mail"/>
-            <button  type="submit" className="register-btn">
+            <input className="emailInput" type="text" name="email" placeholder="E-mail" />
+            <button type="submit" className="register-btn">
               Kayıt Ol
             </button>
           </div>
@@ -93,13 +92,13 @@ export class PageFooter extends Component {
               En Çok İzlenen
             </p>
             <div>
-            {
+              {
               Object.entries(edges).map(([index, obj]) => {
                 let programItems
-                if(obj.node.program) {
-                  programItems = obj.node.program.map((item , index) => (
+                if (obj.node.program) {
+                  programItems = obj.node.program.map((item, index) => (
                     <p key={index} className="menuContentStyle">
-                      <a href={`/${item.link}`} key={index} >  
+                      <a href={`/${item.link}`} key={index}>
                         {item.programName}
                       </a>
                     </p>
@@ -121,7 +120,7 @@ export class PageFooter extends Component {
           <div className="iconsColmStyle">
             {
               Object.entries(icons).map(([key, val]) => (
-                <img alt={key} className="iconStyle" key={key} src={val}/>
+                <img alt={key} className="iconStyle" key={key} src={val} />
               ))
             }
           </div>

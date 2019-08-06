@@ -1,11 +1,11 @@
 import React from 'react'
 import './Logo.css'
 
- const Logo = () => (
+const Logo = () => (
   <div
     className="Logo"
     style={{
-      backgroundImage: `url(/images/logo.svg)`
+      backgroundImage: 'url(/images/logo.svg)',
     }}
   />
 )

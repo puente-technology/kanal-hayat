@@ -2,9 +2,9 @@ import React from 'react'
 import CMS from 'netlify-cms-app'
 import './cms-util'
 import { HomePageTemplate } from '../templates/HomePage'
-import { FooterBanner } from './preview-templates/FooterBanner'
-import { FriendSiteBanner } from './preview-templates/FriendSiteBanner'
-import { HeaderBanner } from './preview-templates/HeaderBanner'
+import FooterBanner from './preview-templates/FooterBanner'
+import FriendSiteBanner from './preview-templates/FriendSiteBanner'
+import HeaderBanner from './preview-templates/HeaderBanner'
 import { AboutUsPageTemplate } from '../templates/AboutUs'
 
 

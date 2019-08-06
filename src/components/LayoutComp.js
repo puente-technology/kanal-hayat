@@ -11,16 +11,16 @@ export default ({ children }) => {
   return (
     <Fragment>
       <Helmet>
-        <link href="https://ucarecdn.com" rel="preconnect" crossorigin />
+        <link href="https://ucarecdn.com" rel="preconnect" crossOrigin />
         <link rel="dns-prefetch" href="https://ucarecdn.com" />
         <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" />
       </Helmet>
       {/* <Nav color={color} align={align} /> */}
       <div className="MainDiv">
-      <HeaderBanner data={children.props.title}/>
+        <HeaderBanner data={children.props.title} />
         {children}
-      <MobileAppLink />
-      <PageFooter />
+        <MobileAppLink />
+        <PageFooter />
       </div>
     </Fragment>
   )

@@ -1,7 +1,7 @@
 import React from 'react'
 import './FriendSiteBanner.css'
 
-export const FriendSiteBanner = (data) => {
+const FriendSiteBanner = (data) => {
   if (data.imageObj.length) {
     return (
       <div className="friendSiteBannerContainer">
@@ -16,12 +16,14 @@ export const FriendSiteBanner = (data) => {
           <p className="content">
             {data.content || ''}
           </p>
-          <button className="button">
+          <button type="button" className="button">
             {data.buttonText || ''}
           </button>
         </div>
       </div>
     )
   }
+  return <React.Fragment></React.Fragment>;
 }
 
+export default FriendSiteBanner;

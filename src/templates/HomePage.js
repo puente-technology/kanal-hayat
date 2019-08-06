@@ -2,15 +2,15 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import FullPageSlider from '../components/FullPageSlider';
-import { HomePageSlider } from '../cms/preview-templates/HomePageSlider';
+import HomePageSlider from '../cms/preview-templates/HomePageSlider';
 import ProgrammeHomePage from '../components/ProgrammeHomePage';
 import FriendSiteBanner from '../components/FriendSiteBanner';
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = (data) => {
-  console.log({program1: data});
+  console.log({ program1: data });
   let program = data.program1;
-  let program2 = data.program2;
+  let { program2 } = data;
   if (Array.isArray(data.program1)) {
     program = data.program1[0];
   }
@@ -19,33 +19,32 @@ export const HomePageTemplate = (data) => {
   }
   return (
     <div>
-        {
-          data.frontmatter ?
-          <FullPageSlider autoSlide gallery={data.gallery} slideTime={5000} />
-          : <HomePageSlider data={data.gallery} />
+      {
+          data.frontmatter
+            ? <FullPageSlider autoSlide gallery={data.gallery} slideTime={5000} />
+            : <HomePageSlider data={data.gallery} />
         }
-        {
-          program &&
-              <ProgrammeHomePage data={program} />
+      {
+          program
+              && <ProgrammeHomePage data={program} />
         }
-        <FriendSiteBanner/>
-        {
-          program2 &&
-              <ProgrammeHomePage data={program2} />
+      <FriendSiteBanner />
+      {
+          program2
+              && <ProgrammeHomePage data={program2} />
         }
     </div>
   )
 }
 
 // Export Default HomePage for front-end
-const HomePage = ({ data: { page } }) => {
-  return (
-  <Layout >
+const HomePage = ({ data: { page } }) => (
+  <Layout>
     <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
-    <FriendSiteBanner/>
+    <FriendSiteBanner />
 
   </Layout>
-)}
+)
 
 export default HomePage
 
