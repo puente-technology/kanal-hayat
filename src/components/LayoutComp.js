@@ -8,7 +8,6 @@ import HeaderBanner from './HeaderBanner';
 import './globalStyles.css'
 
 export default ({ children }) => {
-  console.log(children);
   return (
     <Fragment>
       <Helmet>

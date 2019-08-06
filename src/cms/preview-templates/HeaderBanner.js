@@ -1,26 +1,27 @@
 import React from 'react'
 import './HeaderBanner.css'
+import Nav from '../../components/Nav';
 
 const HeaderBanner = (data) => {
-  console.log(data);
   return (
-    <div />
-    // <div className="headerBanner">
-    //     <Nav />
-    //     <div style={{ position: 'relative' }}>
-    //         {
-    //           edges[0].node.list.map((items, index) => (
-    //             <img key={index} className="imageBackground" src={items.image} alt={title}/>
-    //           ))
-    //         }
-    //       <div className="headerText">
-    //         <p style={{paddingTop: '40px'}}>
-    //           {title.data}
-    //         </p>
-    //       </div>
-    //     </div>
-    //   </div>
+    <div>
+       {
+        data.list.map((items, index) => (
+          <div className="headerBanner">
+            <Nav color='light' />
+            <div style={{ position: 'relative' }}>      
+              <img key={index} className="imageBackground" src={items.image} alt={items.title}/>
+              <div className="headerText">
+                <p style={{paddingTop: '40px'}}>
+                  {items.title}
+                </p>
+              </div>
+            </div>
+          </div>
+        ))
+       }
+    </div>
   )
 }
 
-export default HeaderBanner;
+export default HeaderBanner

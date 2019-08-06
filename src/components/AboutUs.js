@@ -11,7 +11,7 @@ export class AboutUs extends Component {
   };
 
   render() {
-    const { edges, content, featuredImage, title } = this.props;
+    const { content, featuredImage } = this.props;
     return (
       <div className="about-us">
         <div className="imageContainer">
