@@ -4,18 +4,16 @@ import LayoutComp from '../components/LayoutComp'
 import AboutUs from '../components/AboutUs'
 
 // Export Template for use in CMS preview
-export const HomePageTemplate = (data) => (
-  <AboutUsPage data={data}/>
+export const HomePageTemplate = data => (
+  <AboutUsPage data={data} />
 )
 
 // Export Default HomePage for front-end
-const AboutUsPage = ({ data: { page } }) => {
-  return (
-    <LayoutComp >
-      <AboutUs {...page} {...page.frontmatter} />
-    </LayoutComp>
-  )
-}
+const AboutUsPage = ({ data: { page } }) => (
+  <LayoutComp>
+    <AboutUs {...page} {...page.frontmatter} />
+  </LayoutComp>
+)
 
 export default AboutUsPage;
 

@@ -19,98 +19,31 @@ export const query = graphql`
 
 export default class FullPageSlider extends Component {
   state = {
-    loaded: false,
-    isOpen: false,
     sliderImages: [],
-    index: 0,
     id: 0,
-    autoPlayInterval: void 0,
   }
 
   getElement = {};
 
-  _toConsumableArray(arr) {
-    if (Array.isArray(arr)) {
-      for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) {
-        arr2[i] = arr[i];
-      }
-      return arr2;
+  componentDidMount() {
+    this.getElement = {
+      wrapper: document.getElementById('wrapper'),
+      slides: [].concat(this._toConsumableArray(document.querySelectorAll('#slide'))),
+      currentSlide: document.querySelector('.slide.current'),
+      nextBtn: document.querySelector('.slider__btn--next'),
+      prevBtn: document.querySelector('.slider__btn--prev'),
+      indicators: [].concat(this._toConsumableArray(document.querySelectorAll('.indicators__item'))),
     }
-    return Array.from(arr);
-  }
-
-  isOpen(isOpen, index) {
-    if (typeof index === 'undefined') index = 0
-    this.setState({ isOpen, index })
-  }
-
-  addClass(numOfSlide) {
-    this.reset('slides', 'current');
-    this.getElement.slides[numOfSlide].classList.add('current');
-  }
-
-  reset(elems, className) {
-    this.getElement[elems].forEach((elem) => {
-      elem.classList.remove(className);
-    });
-  }
-
-  changeSlide(num) {
-    const lastSlide = this.getElement.slides.length - 1;
-    let currentSlide = this.state.id + num;
-    if (currentSlide > lastSlide) {
-      currentSlide = 0;
-    }
-    if (currentSlide < 0) {
-      currentSlide = lastSlide;
-    }
-    this.setState({ id: currentSlide });
-    this.addClass(currentSlide);
-    this.changeIndicator(currentSlide);
-  }
-
-  changeIndicator(id) {
-    this.reset('indicators', 'active');
-    this.getElement.indicators[id].classList.add('active');
-  }
-
-  autoPlay() {
-    const { autoSlide, slideTime } = this.props;
-    if (autoSlide) {
-      this.setState({
-        autoPlayInterval: setInterval(() => {
-          this.changeSlide(1);
-        }, slideTime),
-      })
-    }
-  }
-
-  stopAutoPlay() {
-    document.getElementById('slider').addEventListener('mouseenter', () => {
-      clearInterval(this.state.autoPlayInterval);
-    });
-    document.getElementById('slider').addEventListener('mouseleave', () => {
-      this.autoPlay();
-    });
-  }
-
-  clickIndicator() {
-    this.getElement.indicators.forEach((indicator) => {
-      indicator.addEventListener('click', (e) => {
-        this.reset('indicators', 'active');
-        e.target.classList.add('active');
-        const currIndicator = e.target.dataset.slideTo * 1;
-        this.setState({ id: currIndicator });
-        this.addClass(currIndicator);
-      });
-    });
+    const { id } = this.state;
+    this.init(id);
   }
 
   getImageInfo = (img, index) => fetch(`${img.image}-/json/`)
     .then(res => res.json())
     .then(
       (result) => {
-        const newImagesArr = [...this.state.sliderImages]
+        const { sliderImages } = this.state;
+        const newImagesArr = [...sliderImages]
         newImagesArr[index] = {
           src: img.image,
           title: img.title,
@@ -128,31 +61,66 @@ export default class FullPageSlider extends Component {
       },
     )
 
+  _toConsumableArray = (arr) => {
+    if (Array.isArray(arr)) {
+      for (let i = 0, arr2 = Array(arr.length); i < arr.length; i += 1) {
+        arr2[i] = arr[i];
+      }
+      return arr2;
+    }
+    return Array.from(arr);
+  }
+
+  reset = (elems, className) => {
+    this.getElement[elems].forEach((elem) => {
+      elem.classList.remove(className);
+    });
+  }
+
+  changeSlide = (num) => {
+    const { id } = this.state;
+    const lastSlide = this.getElement.slides.length - 1;
+    let currentSlide = id + num;
+    if (currentSlide > lastSlide) {
+      currentSlide = 0;
+    }
+    if (currentSlide < 0) {
+      currentSlide = lastSlide;
+    }
+    this.setState({ id: currentSlide });
+    this.addClass(currentSlide);
+    this.changeIndicator(currentSlide);
+  }
+
+  changeIndicator = (id) => {
+    this.reset('indicators', 'active');
+    this.getElement.indicators[id].classList.add('active');
+  }
+
+  addClass = (numOfSlide) => {
+    this.reset('slides', 'current');
+    this.getElement.slides[numOfSlide].classList.add('current');
+  }
+
   init(id) {
     this.addClass(id);
     this.changeIndicator(id);
     this.clickIndicator();
     this.autoPlay();
-    this.stopAutoPlay();
   }
 
-  componentDidMount() {
-    this.getElement = {
-      wrapper: document.getElementById('wrapper'),
-      slides: [].concat(this._toConsumableArray(document.querySelectorAll('#slide'))),
-      currentSlide: document.querySelector('.slide.current'),
-      nextBtn: document.querySelector('.slider__btn--next'),
-      prevBtn: document.querySelector('.slider__btn--prev'),
-      indicators: [].concat(this._toConsumableArray(document.querySelectorAll('.indicators__item'))),
-    }
-    this.init(this.state.id);
-    // this.getElement.nextBtn.addEventListener('click', () => {
-    //   this.changeSlide(1);
-    // });
-    // this.getElement.prevBtn.addEventListener('click', () => {
-    //   this.changeSlide(-1);
-    // });
+  clickIndicator() {
+    this.getElement.indicators.forEach((indicator) => {
+      indicator.addEventListener('click', (e) => {
+        this.reset('indicators', 'active');
+        e.target.classList.add('active');
+        const currIndicator = e.target.dataset.slideTo * 1;
+        this.setState({ id: currIndicator });
+        this.addClass(currIndicator);
+      });
+    });
   }
+
 
   render() {
     const { gallery } = this.props
@@ -204,6 +172,4 @@ export default class FullPageSlider extends Component {
 
 FullPageSlider.propTypes = {
   gallery: PropTypes.array,
-  slideTime: PropTypes.number,
-  autoSlide: PropTypes.bool,
 }

@@ -6,7 +6,7 @@ import Nav from './Nav';
 
 import './HaederBanner.css';
 
-export default ( asd ) => (
+export default asd => (
   <StaticQuery
     query={graphql`
     query HeaderBanner {
@@ -22,15 +22,14 @@ export default ( asd ) => (
       }
     }
     `}
-    render={(data) => (
-      <HeaderBanner edges={data.allHeaderBannerYaml.edges } title={asd}/>
+    render={data => (
+      <HeaderBanner edges={data.allHeaderBannerYaml.edges} title={asd} />
     )}
   />
 )
 
 
 export class HeaderBanner extends Component {
-
   static propTypes = {
     edges: PropTypes.any.isRequired,
     title: PropTypes.any.isRequired,
@@ -42,18 +41,18 @@ export class HeaderBanner extends Component {
       <div className="headerBanner">
         <Nav color="light" />
         <div style={{ position: 'relative' }}>
-            {
+          {
               edges[0].node.list.map((items, index) => {
                 console.log(edges)
-              if(items.title === title.data) {
-                return (
-                  <img key={index} className="imageBackground" src={items.image} alt={title}/>
+                if (items.title === title.data) {
+                  return (
+                    <img key={index} className="imageBackground" src={items.image} alt={title} />
                   )
                 }
               })
             }
           <div className="headerText">
-            <p style={{paddingTop: '40px'}}>
+            <p style={{ paddingTop: '40px' }}>
               {title.data}
             </p>
           </div>

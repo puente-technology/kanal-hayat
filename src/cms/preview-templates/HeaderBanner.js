@@ -1,12 +1,10 @@
 import React from 'react'
 import './HeaderBanner.css'
 
-export const HeaderBanner = (data) => {
+const HeaderBanner = (data) => {
   console.log(data);
   return (
-    <div>
-      
-    </div>
+    <div />
     // <div className="headerBanner">
     //     <Nav />
     //     <div style={{ position: 'relative' }}>
@@ -25,3 +23,4 @@ export const HeaderBanner = (data) => {
   )
 }
 
+export default HeaderBanner;
