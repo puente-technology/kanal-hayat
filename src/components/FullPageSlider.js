@@ -106,7 +106,7 @@ export default class FullPageSlider extends Component {
     this.addClass(id);
     this.changeIndicator(id);
     this.clickIndicator();
-    this.autoPlay();
+    // this.autoPlay();
   }
 
   clickIndicator() {

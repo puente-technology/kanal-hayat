@@ -2,7 +2,7 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import FullPageSlider from '../components/FullPageSlider';
-import { HomePageSlider } from '../cms/preview-templates/HomePageSlider';
+import HomePageSlider from '../cms/preview-templates/HomePageSlider';
 import ProgrammeHomePage from '../components/ProgrammeHomePage';
 import FriendSiteBanner from '../components/FriendSiteBanner';
 
