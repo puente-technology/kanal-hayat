@@ -1,13 +1,14 @@
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
-import PageFooter from './PageFooter';
+import PropTypes from 'prop-types';
+import PageFooterQ from './PageFooter';
 import MobileAppLink from './MobileAppLink'
 // import FriendSiteBanner from './FriendSiteBanner'
 import HeaderBanner from './HeaderBanner';
 
 import './globalStyles.css'
 
-export default ({ children }) => (
+const LayoutComp = ({ children }) => (
   <Fragment>
     <Helmet>
       <link href="https://ucarecdn.com" rel="preconnect" crossOrigin />
@@ -19,7 +20,13 @@ export default ({ children }) => (
       <HeaderBanner data={children.props.title} />
       {children}
       <MobileAppLink />
-      <PageFooter />
+      <PageFooterQ />
     </div>
   </Fragment>
 )
+
+LayoutComp.propTypes = {
+  children: PropTypes.any,
+}
+
+export default LayoutComp;

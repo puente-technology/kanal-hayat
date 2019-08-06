@@ -1,5 +1,6 @@
 import React from 'react'
 import { graphql } from 'gatsby'
+import PropTypes from 'prop-types'
 import LayoutComp from '../components/LayoutComp'
 import AboutUs from '../components/AboutUs'
 
@@ -14,6 +15,10 @@ const AboutUsPage = ({ data: { page } }) => (
     <AboutUs {...page} {...page.frontmatter} />
   </LayoutComp>
 )
+
+AboutUsPage.propTypes = {
+  data: PropTypes.any,
+}
 
 export default AboutUsPage;
 
