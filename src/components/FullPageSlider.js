@@ -31,7 +31,7 @@ export default class FullPageSlider extends Component {
       currentSlide: document.querySelector('.slide.current'),
       nextBtn: document.querySelector('.slider__btn--next'),
       prevBtn: document.querySelector('.slider__btn--prev'),
-      indicators: [].concat(this._toConsumableArray(document.querySelectorAll('.indicators__item')))
+      indicators: [].concat(this._toConsumableArray(document.querySelectorAll('.indicators__item'))),
     }
     const { id } = this.state;
     this.init(id);

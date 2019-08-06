@@ -7,21 +7,19 @@ import HeaderBanner from './HeaderBanner';
 
 import './globalStyles.css'
 
-export default ({ children }) => {
-  return (
-    <Fragment>
-      <Helmet>
-        <link href="https://ucarecdn.com" rel="preconnect" crossOrigin />
-        <link rel="dns-prefetch" href="https://ucarecdn.com" />
-        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" />
-      </Helmet>
-      {/* <Nav color={color} align={align} /> */}
-      <div className="MainDiv">
-        <HeaderBanner data={children.props.title} />
-        {children}
-        <MobileAppLink />
-        <PageFooter />
-      </div>
-    </Fragment>
-  )
-}
+export default ({ children }) => (
+  <Fragment>
+    <Helmet>
+      <link href="https://ucarecdn.com" rel="preconnect" crossOrigin />
+      <link rel="dns-prefetch" href="https://ucarecdn.com" />
+      <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" />
+    </Helmet>
+    {/* <Nav color={color} align={align} /> */}
+    <div className="MainDiv">
+      <HeaderBanner data={children.props.title} />
+      {children}
+      <MobileAppLink />
+      <PageFooter />
+    </div>
+  </Fragment>
+)

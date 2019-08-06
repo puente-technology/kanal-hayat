@@ -4,7 +4,6 @@ import PropTypes from 'prop-types';
 import './AboutUs.css'
 
 export class AboutUs extends Component {
-
   static propTypes = {
     edges: PropTypes.any.isRequired,
     title: PropTypes.any.isRequired,
@@ -15,8 +14,8 @@ export class AboutUs extends Component {
     return (
       <div className="about-us">
         <div className="imageContainer">
-          <img style={{ position: 'relative' }} src={featuredImage} alt='Content Image'/>
-          <div className="gradientDiv"/>
+          <img style={{ position: 'relative' }} src={featuredImage} alt="Content Image" />
+          <div className="gradientDiv" />
         </div>
         <div className="contentContainer">
           <div className="contentAbout">
