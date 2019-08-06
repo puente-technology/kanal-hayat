@@ -1,34 +1,54 @@
 import React from 'react'
 import { graphql } from 'gatsby'
+import PropTypes from 'prop-types';
 import Layout from '../components/Layout'
 import FullPageSlider from '../components/FullPageSlider';
-import { HomePageSlider } from '../cms/preview-templates/HomePageSlider';
+import HomePageSlider from '../cms/preview-templates/HomePageSlider';
 import ProgrammeHomePage from '../components/ProgrammeHomePage';
+import FriendSiteBanner from '../components/FriendSiteBanner';
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = (data) => {
+  let program = data.program1;
+  let { program2 } = data;
+  if (Array.isArray(data.program1)) {
+    [program] = data.program1;
+  }
+  if (Array.isArray(data.program2)) {
+    [program2] = data.program2;
+  }
   return (
     <div>
-        {
-          data.frontmatter ?
-          <FullPageSlider autoSlide gallery={data.gallery} slideTime={5000} />
-          : <HomePageSlider data={data.gallery} />
+      {
+          data.frontmatter
+            ? <FullPageSlider autoSlide gallery={data.gallery} slideTime={5000} />
+            : <HomePageSlider data={data.gallery} />
         }
-        {
-          data.program1 && data.program1.length > 0 &&
-          <ProgrammeHomePage {...data.program1[0]} />
+      {
+          program
+              && <ProgrammeHomePage data={program} />
+        }
+      <FriendSiteBanner />
+      {
+          program2
+              && <ProgrammeHomePage data={program2} />
         }
     </div>
   )
 }
 
 // Export Default HomePage for front-end
-const HomePage = ({ data: { page } }) => {
-  return (
-  <Layout >
+const HomePage = ({ data: { page } }) => (
+  <Layout>
     <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
+    <FriendSiteBanner />
+
   </Layout>
-)}
+)
+
+HomePage.propTypes = {
+  data: PropTypes.any,
+}
 
 export default HomePage
 
@@ -59,6 +79,19 @@ export const pageQuery = graphql`
           title
           content
           bgImage
+          color
+          align
+          thumbnailTitle
+          thumbnails {
+            image
+          }
+        }
+        program2 {
+          title
+          content
+          bgImage
+          color
+          align
           thumbnailTitle
           thumbnails {
             image

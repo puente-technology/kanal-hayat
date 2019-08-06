@@ -19,30 +19,33 @@ export const query = graphql`
 
 export default class FullPageSlider extends Component {
   state = {
-    loaded: false,
-    isOpen: false,
-    sliderImages: [],
-    index: 0,
     id: 0,
-    autoPlayInterval: void 0,
   }
 
   getElement = {};
 
-  _toConsumableArray(arr) {
+  componentDidMount() {
+    this.getElement = {
+      wrapper: document.getElementById('wrapper'),
+      slides: [].concat(this._toConsumableArray(document.querySelectorAll('#slide'))),
+      currentSlide: document.querySelector('.slide.current'),
+      nextBtn: document.querySelector('.slider__btn--next'),
+      prevBtn: document.querySelector('.slider__btn--prev'),
+      indicators: [].concat(this._toConsumableArray(document.querySelectorAll('.indicators__item'))),
+    }
+    const { id } = this.state;
+    this.init(id);
+  }
+
+  _toConsumableArray = (arr) => {
     if (Array.isArray(arr)) {
-      for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) {
+      const arr2 = Array(arr.length)
+      for (let i = 0; i < arr.length; i += 1) {
         arr2[i] = arr[i];
       }
       return arr2;
-    } else {
-      return Array.from(arr);
     }
-  }
-
-  isOpen(isOpen, index) {
-    if (typeof index === 'undefined') index = 0
-    this.setState({ isOpen, index })
+    return Array.from(arr);
   }
 
   addClass(numOfSlide) {
@@ -57,8 +60,9 @@ export default class FullPageSlider extends Component {
   }
 
   changeSlide(num) {
-    var lastSlide = this.getElement.slides.length - 1;
-    var currentSlide = this.state.id + num;
+    const { id } = this.state;
+    const lastSlide = this.getElement.slides.length - 1;
+    let currentSlide = id + num;
     if (currentSlide > lastSlide) {
       currentSlide = 0;
     }
@@ -78,21 +82,10 @@ export default class FullPageSlider extends Component {
   autoPlay() {
     const { autoSlide, slideTime } = this.props;
     if (autoSlide) {
-      this.setState({
-        autoPlayInterval: setInterval(() => {
-          this.changeSlide(1);
-        }, slideTime)
-      })
+      setInterval(() => {
+        this.changeSlide(1);
+      }, slideTime)
     }
-  }
-
-  stopAutoPlay() {
-    document.getElementById('slider').addEventListener('mouseenter', () => {
-      clearInterval(this.state.autoPlayInterval);
-    });
-    document.getElementById('slider').addEventListener('mouseleave', () => {
-      this.autoPlay();
-    });
   }
 
   clickIndicator() {
@@ -100,60 +93,18 @@ export default class FullPageSlider extends Component {
       indicator.addEventListener('click', (e) => {
         this.reset('indicators', 'active');
         e.target.classList.add('active');
-        var currIndicator = e.target.dataset.slideTo * 1;
+        const currIndicator = e.target.dataset.slideTo * 1;
         this.setState({ id: currIndicator });
         this.addClass(currIndicator);
       });
     });
   }
 
-  getImageInfo = (img, index) =>
-    fetch(img.image + '-/json/')
-      .then(res => res.json())
-      .then(
-        result => {
-          const newImagesArr = [...this.state.sliderImages]
-          newImagesArr[index] = {
-            src: img.image,
-            title: img.title,
-            w: result.width,
-            h: result.height
-          }
-          this.setState({
-            sliderImages: newImagesArr
-          })
-          return true
-        },
-        error => {
-          console.log(error)
-          return false
-        }
-      )
-
   init(id) {
     this.addClass(id);
     this.changeIndicator(id);
     this.clickIndicator();
     this.autoPlay();
-    this.stopAutoPlay();
-  }
-
-  componentDidMount() {
-    this.getElement = {
-      wrapper: document.getElementById('wrapper'),
-      slides: [].concat(this._toConsumableArray(document.querySelectorAll('#slide'))),
-      currentSlide: document.querySelector('.slide.current'),
-      nextBtn: document.querySelector('.slider__btn--next'),
-      prevBtn: document.querySelector('.slider__btn--prev'),
-      indicators: [].concat(this._toConsumableArray(document.querySelectorAll('.indicators__item')))
-    }
-    this.init(this.state.id);
-    // this.getElement.nextBtn.addEventListener('click', () => {
-    //   this.changeSlide(1);
-    // });
-    // this.getElement.prevBtn.addEventListener('click', () => {
-    //   this.changeSlide(-1);
-    // });
   }
 
   render() {
@@ -166,24 +117,24 @@ export default class FullPageSlider extends Component {
               gallery.map((g, i) => (
                 <div id="slide" key={i} className="slide" data-slide-id={i}>
                   <Nav key={i} color={g.color} />
-                    <img className="slide__img" src={g.image} alt={g.alt} />
-                    <div className={`slide__caption ${g.color} ${g.align}`}>
-                      <span className="slide__caption--program">
-                        {g.programName}
-                      </span>
-                      <span className="slide__caption--program-time">
-                        {g.programTime}
-                      </span>
-                      <hr className={`slide__caption--line ${g.color}`} />
-                      <span className="slide__caption--title">
-                        {g.title}
-                      </span>
-                      <span className="slide__caption--text">
-                        <button className={`slide__caption--btn ${g.color}`} type="button">Programa Git</button>
-                      </span>
-                    </div>
-                    {/* <img src="images/ScrollIcon.png" className="slide__footer--scroll" /> */}
+                  <img className="slide__img" src={g.image} alt={g.alt} />
+                  <div className={`slide__caption ${g.color} ${g.align}`}>
+                    <span className="slide__caption--program">
+                      {g.programName}
+                    </span>
+                    <span className="slide__caption--program-time">
+                      {g.programTime}
+                    </span>
+                    <hr className={`slide__caption--line ${g.color}`} />
+                    <span className="slide__caption--title">
+                      {g.title}
+                    </span>
+                    <span className="slide__caption--text">
+                      <button className={`slide__caption--btn ${g.color}`} type="button">Programa Git</button>
+                    </span>
                   </div>
+                  {/* <img src="images/ScrollIcon.png" className="slide__footer--scroll" /> */}
+                </div>
               ))
             }
           </div>
@@ -193,7 +144,7 @@ export default class FullPageSlider extends Component {
               {
                 gallery.map((g, i) => {
                   const isFirst = i === 0;
-                  return <li key={i} className={`indicators__item ${isFirst ? 'active' : ''}`} data-slide-to={i}></li>
+                  return <li key={i} className={`indicators__item ${isFirst ? 'active' : ''}`} data-slide-to={i} />
                 })
               }
             </ul>
