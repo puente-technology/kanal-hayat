@@ -2,7 +2,6 @@ import React from 'react'
 import './FriendSiteBanner.css'
 
 export const FriendSiteBanner = (data) => {
-  console.log(data);
   if (data.imageObj.length) {
     return (
       <div className="friendSiteBannerContainer">

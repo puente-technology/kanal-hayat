@@ -223,12 +223,12 @@ collections:
           - { label: Title, name: title, widget: string }
           - label: 'Content'
             name: 'content'
-            widget: 'list'
+            widget: 'object'
             fields:
               - { name: introduction, label: Intorduction, widget: string }
-              - name: frekansInfo
-                label: Frekans Info
-                widget: 'list'
+              - label: Frekans Info
+                name: frekansInfo
+                widget: 'object'
                 fields:
                   - { name: dogu, label: Dogu, widget: string }
                   - { name: dikey, label: Dikey, widget: string }
