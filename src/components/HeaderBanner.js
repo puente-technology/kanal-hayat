@@ -40,10 +40,11 @@ export class HeaderBanner extends Component {
     const { edges, title } = this.props;
     return (
       <div className="headerBanner">
-        <Nav />
+        <Nav color="light" />
         <div style={{ position: 'relative' }}>
             {
               edges[0].node.list.map((items, index) => {
+                console.log(edges)
               if(items.title === title.data) {
                 return (
                   <img key={index} className="imageBackground" src={items.image} alt={title}/>

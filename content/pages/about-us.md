@@ -2,7 +2,7 @@
 template: AboutUs
 slug: 'about-us'
 locale: en
-title: About Us
+title: KANAL HAYAT HAKKINDA
 featuredImage: 'https://wp-media.patheos.com/blogs/sites/1216/2019/05/art-blur-bright-2081128.jpg'
 content:
   introduction:

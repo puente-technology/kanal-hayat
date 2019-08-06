@@ -5,7 +5,7 @@ import './MobileAppLink.css';
 const googlePlay = require('../../static/images/googleplay.svg');
 const appStore = require('../../static/images/appstore.svg');
 const qrCode = require('../../static/images/qrcode.svg');
-const phone = require('../../static/images/phone.svg');
+// const phone = require('../../static/images/phone.svg');
 
 export class MobileAppLink extends Component {
 
