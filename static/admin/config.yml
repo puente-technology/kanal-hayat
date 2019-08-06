@@ -157,7 +157,24 @@ collections:
             fields:
               - { name: programName, label: Program, widget: string }
               - { name: link, label: Link, widget: string }
-    
+
+  - name: 'headerBanner'
+    label: 'Header Banner'
+    delete: false
+    editor:
+      preview: true
+    files:
+      - file: 'content/components/headerBanner/headerBanner.yml'
+        label: 'Header Banner'
+        name: 'header-banner-info'
+        fields:
+          - label: 'Header Banner'
+            name: 'list'
+            widget: 'list'
+            fields:
+              - { name: image, label: Image, widget: image }
+              - { name: title, label: Title, widget: string }
+
   - name: 'friendSiteBanner'
     label: 'Friend Site Banner'
     delete: false
@@ -188,3 +205,36 @@ collections:
           - { name: header, label: Header Name, widget: string }
           - { name: content, label: Content, widget: string }
           - { name: buttonText, label: Button Text, widget: string }
+
+  - name: 'about-us'
+    label: 'About Us'
+    delete: false
+    editor:
+      preview: true
+    files:
+      - file: 'content/pages/about-us.md'
+        label: 'About Us'
+        name: 'about-us'
+        fields:
+          - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
+          - { label: Template, name: template, widget: hidden}
+          - { label: 'Image', name: 'featuredImage', widget: 'image'}
+          - { label: Slug, name: slug, widget: hidden, default: '' }
+          - { label: Title, name: title, widget: string }
+          - label: 'Content'
+            name: 'content'
+            widget: 'list'
+            fields:
+              - { name: introduction, label: Intorduction, widget: string }
+              - name: frekansInfo
+                label: Frekans Info
+                widget: 'list'
+                fields:
+                  - { name: dogu, label: Dogu, widget: string }
+                  - { name: dikey, label: Dikey, widget: string }
+                  - { name: saniye, label: Sembol/Saniye, widget: string }
+                  - { name: fec, label: Fec, widget: string }
+              - { name: about, label: About, widget: string }
+              - { name: contactInfo, label: Contact Info, widget: string }
+              - { name: footerInfo, label: Footer Info, widget: string }
+

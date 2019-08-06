@@ -3,7 +3,7 @@ import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 import PageFooter from './PageFooter';
 import MobileAppLink from './MobileAppLink'
-
+// import FriendSiteBanner from './FriendSiteBanner'
 import './globalStyles.css'
 // import Nav from './Nav';
 
