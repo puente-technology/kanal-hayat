@@ -32,6 +32,8 @@ export default asd => (
 
 const HeaderBanner = (props) => {
   const { edges, title } = props;
+
+
   
   return (
     <div className="headerBanner">
