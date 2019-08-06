@@ -1,27 +1,27 @@
-// https://fonts.googleapis.com/css?family=Nunito
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
 import PageFooter from './PageFooter';
 import MobileAppLink from './MobileAppLink'
-import FriendSiteBanner from './FriendSiteBanner'
-import './globalStyles.css'
-// import Nav from './Nav';
+// import FriendSiteBanner from './FriendSiteBanner'
+import HeaderBanner from './HeaderBanner';
 
-export default ({ children, meta, title, color, align }) => {
+import './globalStyles.css'
+
+export default ({ children }) => {
+  console.log(children);
   return (
     <Fragment>
       <Helmet>
-        {title}
         <link href="https://ucarecdn.com" rel="preconnect" crossorigin />
         <link rel="dns-prefetch" href="https://ucarecdn.com" />
         <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" />
       </Helmet>
       {/* <Nav color={color} align={align} /> */}
       <div className="MainDiv">
+      <HeaderBanner data={children.props.title}/>
         {children}
-        <FriendSiteBanner/>
-        <MobileAppLink />
-        <PageFooter />
+      <MobileAppLink />
+      <PageFooter />
       </div>
     </Fragment>
   )

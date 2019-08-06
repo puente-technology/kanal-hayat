@@ -35,7 +35,7 @@ export class MobileAppLink extends Component {
           </div>
         </div>
         <div>
-          <img alt='phone' key='phone' src={phone}/>
+          {/* <img alt='phone' key='phone' src={phone}/> */}
         </div>
       </div>
      

@@ -1,0 +1,30 @@
+.headerBanner {
+  width: 100%;
+  background: #F9F9F9;
+  height: 450px;
+}
+
+.imageBackground {
+  position: relative;
+  width: auto;
+  height: auto;
+  width: 100%;
+  max-height: 450px;
+}
+
+.headerText {
+  text-align: center;
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 118.5%;
+  text-transform: uppercase;
+  color: white;
+  height:100px;
+  width: 100%;
+  bottom: 0;
+  position: absolute;
+  background: linear-gradient(0deg, #000000 0.24%, rgba(0, 0, 0, 0) 99.8%);
+}
+

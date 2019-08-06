@@ -4,6 +4,7 @@ import './cms-util'
 import { HomePageTemplate } from '../templates/HomePage'
 import { FooterBanner } from './preview-templates/FooterBanner'
 import { FriendSiteBanner } from './preview-templates/FriendSiteBanner'
+import { HeaderBanner } from './preview-templates/HeaderBanner'
 
 
 // import * as NativeColorWidget from 'netlify-cms-widget-native-color'
@@ -35,4 +36,9 @@ CMS.registerPreviewTemplate('footer-banner-info', ({ entry }) => {
 CMS.registerPreviewTemplate('friend-site-banner', ({ entry }) => {
   return (
   <FriendSiteBanner {...entry.toJS().data }/>
+)})
+
+CMS.registerPreviewTemplate('header-banner-info', ({ entry }) => {
+  return (
+  <HeaderBanner {...entry.toJS().data }/>
 )})

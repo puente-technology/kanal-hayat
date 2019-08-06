@@ -1,0 +1,78 @@
+.about-us {
+  display: flex;
+  flex-direction: row;
+  height: 768px;
+}
+
+.imageContainer {
+  width: 551px;
+  height: 768px;
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.gradientDiv {
+  background: linear-gradient(270deg, #FFF 0.1%, #FFF 10.6%, rgba(255, 255, 255, 0) 100%);
+  position: absolute;
+  height: 100%;
+  width: 211px;
+}
+.contentContainer {
+  position: relative;
+  background: #FFF;
+  width: 100%;
+}
+.contentAbout{
+  width: 618px;
+  height: 720px;
+  margin-top: 37px;
+  margin-left: 24px;
+}
+.contenIntroductionText {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  color: #3D3D3D;
+}
+
+.contenFrekansText {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  color: #3D3D3D;
+  margin-top: 24px;
+}
+.contenFrekans {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  color: #3D3D3D;
+}
+
+.contenAboutText {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  color: #3D3D3D;
+  margin-top: 24px;
+}
+
+.contenContactText {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  color: #3D3D3D;
+  margin-top: 24px;
+}
+
