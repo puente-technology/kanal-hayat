@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-bind */
 import React, { Component } from 'react';
 import { StaticQuery, graphql } from 'gatsby'
 import PropTypes from 'prop-types';
@@ -29,15 +30,14 @@ export default () => (
       }
     }
     `}
-    render={(data) => (
-      <FriendSiteBanner edges={data.allFriendSiteBannerYaml.edges }/>
+    render={data => (
+      <FriendSiteBanner edges={data.allFriendSiteBannerYaml.edges} />
     )}
   />
 )
 
 
 export class FriendSiteBanner extends Component {
-
   static propTypes = {
     edges: PropTypes.any.isRequired,
   };
