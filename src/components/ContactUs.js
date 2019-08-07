@@ -52,6 +52,7 @@ const ContactUsPage = (props) => {
       </div>
       <div className="form">
         <form name="contact" method="POST" data-netlify="true">
+          <input type="hidden" name="form-name" value="contact" />
           <p className="formHeader">
             İletişim Formu
           </p>
