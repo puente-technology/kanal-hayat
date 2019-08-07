@@ -11,12 +11,15 @@ import FriendSiteBanner from '../components/FriendSiteBanner';
 export const HomePageTemplate = (data) => {
   let program = data.program1;
   let { program2 } = data;
+  console.log(data);
   if (Array.isArray(data.program1)) {
     [program] = data.program1;
   }
   if (Array.isArray(data.program2)) {
     [program2] = data.program2;
   }
+  console.log(program2);
+
   return (
     <div>
       {
