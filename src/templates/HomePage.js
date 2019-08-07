@@ -11,28 +11,31 @@ import FriendSiteBanner from '../components/FriendSiteBanner';
 export const HomePageTemplate = (data) => {
   let program = data.program1;
   let { program2 } = data;
+  console.log(data);
   if (Array.isArray(data.program1)) {
     [program] = data.program1;
   }
   if (Array.isArray(data.program2)) {
     [program2] = data.program2;
   }
+  console.log(program2);
+
   return (
     <div>
       {
-          data.frontmatter
-            ? <FullPageSlider autoSlide gallery={data.gallery} slideTime={5000} />
-            : <HomePageSlider data={data.gallery} />
-        }
+        data.frontmatter
+          ? <FullPageSlider autoSlide gallery={data.gallery} slideTime={5000} />
+          : <HomePageSlider data={data.gallery} />
+      }
       {
-          program
-              && <ProgrammeHomePage data={program} />
-        }
+        program
+        && <ProgrammeHomePage data={program} />
+      }
       <FriendSiteBanner />
       {
-          program2
-              && <ProgrammeHomePage data={program2} />
-        }
+        program2
+        && <ProgrammeHomePage data={program2} />
+      }
     </div>
   )
 }
@@ -41,8 +44,6 @@ export const HomePageTemplate = (data) => {
 const HomePage = ({ data: { page } }) => (
   <Layout>
     <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
-    <FriendSiteBanner />
-
   </Layout>
 )
 
