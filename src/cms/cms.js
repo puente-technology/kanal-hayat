@@ -6,6 +6,8 @@ import FooterBanner from './preview-templates/FooterBanner'
 import FriendSiteBanner from './preview-templates/FriendSiteBanner'
 import HeaderBanner from './preview-templates/HeaderBanner'
 import { AboutUsPageTemplate } from '../templates/AboutUs'
+import { ContactUsTemplate } from '../templates/ContactUs'
+
 
 
 // import * as NativeColorWidget from 'netlify-cms-widget-native-color'
@@ -48,3 +50,9 @@ CMS.registerPreviewTemplate('about-us', ({ entry }) => {
   return (
   <AboutUsPageTemplate {...entry.toJS().data }/>
 )})
+
+CMS.registerPreviewTemplate('contact-us', ({ entry }) => {
+  return (
+  <ContactUsTemplate {...entry.toJS().data }/>
+)})
+

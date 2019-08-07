@@ -263,7 +263,7 @@ collections:
               - { name: contactInfo, label: Contact Info, widget: string }
               - { name: footerInfo, label: Footer Info, widget: string }
 
- - name: 'contact-us'
+  - name: 'contact-us'
     label: 'Contact Us'
     delete: false
     editor:
