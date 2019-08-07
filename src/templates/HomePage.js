@@ -20,19 +20,19 @@ export const HomePageTemplate = (data) => {
   return (
     <div>
       {
-          data.frontmatter
-            ? <FullPageSlider autoSlide gallery={data.gallery} slideTime={5000} />
-            : <HomePageSlider data={data.gallery} />
-        }
+        data.frontmatter
+          ? <FullPageSlider autoSlide gallery={data.gallery} slideTime={5000} />
+          : <HomePageSlider data={data.gallery} />
+      }
       {
-          program
-              && <ProgrammeHomePage data={program} />
-        }
+        program
+        && <ProgrammeHomePage data={program} />
+      }
       <FriendSiteBanner />
       {
-          program2
-              && <ProgrammeHomePage data={program2} />
-        }
+        program2
+        && <ProgrammeHomePage data={program2} />
+      }
     </div>
   )
 }
@@ -41,8 +41,6 @@ export const HomePageTemplate = (data) => {
 const HomePage = ({ data: { page } }) => (
   <Layout>
     <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
-    <FriendSiteBanner />
-
   </Layout>
 )
 
