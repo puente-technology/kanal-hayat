@@ -286,11 +286,12 @@ collections:
     label: 'Program'
     create: true
     files:
-      - file: 'content/events/events.md'
+      - file: 'content/pages/events.md'
         label: 'Yayın Akışı'
-        name: 'eventList'
-        widget: 'list'
+        name: 'events'
+        # widget: 'list'
         fields: 
+            - { label: Slug, name: slug, widget: hidden, default: '' }
             - { name: title, label: Program, widget: text }
             - { name: subtitle, label: 'Alt Başlık', widget: text }
             - label: 'Zaman'
