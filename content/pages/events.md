@@ -1,5 +1,6 @@
 ---
 slug: events
+locale: tr
 eventList:
   - subtitle: Bizden Biri
     time:
