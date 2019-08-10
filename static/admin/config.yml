@@ -281,3 +281,31 @@ collections:
           - { label: Email, name: email, widget: string }
           - { label: Address, name: address, widget: string }
           - { label: Header, name: header, widget: string }
+
+  - name: 'events'
+    label: 'Program'
+    create: true
+    files:
+      - file: 'content/pages/events.md'
+        label: 'Yayın Akışı'
+        name: 'events'
+        # widget: 'list'
+        fields: 
+            - { label: Slug, name: slug, widget: hidden, default: '' }
+            - { name: title, label: Program, widget: text }
+            - { name: subtitle, label: 'Alt Başlık', widget: text }
+            - label: 'Zaman'
+              name: 'time'
+              widget: 'object'
+              fields:
+                - { name: startTimeH, label: 'Başlama Saati', widget: number }
+                - { name: startTimeM, label: 'Başlama Dakikası', widget: number }
+                - {
+                    label: 'Yayın Günleri',
+                    name: 'days',
+                    widget: 'select',
+                    options: ['Pazartesi', 'Salı', 'Çarşamba', 'Perşembe', 'Cuma', 'Cumartesi', 'Pazar'],
+                    multiple: true,
+                  }
+
+  
