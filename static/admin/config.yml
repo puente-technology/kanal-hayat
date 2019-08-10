@@ -283,11 +283,11 @@ collections:
           - { label: Header, name: header, widget: string }
 
   - name: 'events'
-    label: 'Yayın Akışı'
+    label: 'Program'
     create: true
     files:
       - file: 'content/events/events.md'
-        label: 'Akış'
+        label: 'Yayın Akışı'
         name: 'eventList'
         widget: 'list'
         fields: 
@@ -299,16 +299,12 @@ collections:
               fields:
                 - { name: startTimeH, label: 'Başlama Saati', widget: number }
                 - { name: startTimeM, label: 'Başlama Dakikası', widget: number }
-            - label: 'Günler'
-              name: 'days'
-              widget: 'object'
-              fields: 
-                - {label: "Pazartesi", name: "monday", widget: "boolean"}
-                - {label: "Salı", name: "tuesday", widget: "boolean"}
-                - {label: "Çarşamba", name: "wednesday", widget: "boolean"}
-                - {label: "Perşembe", name: "thursday", widget: "boolean"}
-                - {label: "Cuma", name: "friday", widget: "boolean"}
-                - {label: "Cumartesi", name: "saturday", widget: "boolean"}
-                - {label: "Pazar", name: "sunday", widget: "boolean"}
+                - {
+                    label: 'Yayın Günleri',
+                    name: 'days',
+                    widget: 'select',
+                    options: ['Pazartesi', 'Salı', 'Çarşamba', 'Perşembe', 'Cuma', 'Cumartesi', 'Pazar'],
+                    multiple: true,
+                  }
 
   
