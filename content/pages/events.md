@@ -6,13 +6,13 @@ eventList:
   - subtitle: Bizden Biri
     time:
       days:
-        - Pazartesi
-        - Salı
-        - Çarşamba
-        - Perşembe
-        - Cuma
-        - Cumartesi
-        - Pazar
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
+        - 0
       startTimeH: 11
       startTimeM: 0
     title: Belgesel
