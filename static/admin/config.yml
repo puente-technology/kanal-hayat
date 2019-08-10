@@ -284,7 +284,6 @@ collections:
 
   - name: 'events'
     label: 'Program'
-    create: true
     files:
       - file: 'content/pages/events.md'
         label: 'Yayın Akışı'

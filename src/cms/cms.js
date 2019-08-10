@@ -7,7 +7,7 @@ import FriendSiteBanner from './preview-templates/FriendSiteBanner'
 import HeaderBanner from './preview-templates/HeaderBanner'
 import { AboutUsPageTemplate } from '../templates/AboutUs'
 import { ContactUsTemplate } from '../templates/ContactUs'
-import EventsPage from '../templates/Events';
+import EventsPage from '../templates/EventsPage';
 
 
 
