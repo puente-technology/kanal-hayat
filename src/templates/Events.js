@@ -20,4 +20,20 @@ const EventsPage = () => (
 //   data: PropTypes.any,
 // }
 
+// export const pageQuery = graphql`
+// query Events($id: String!, $locale: String) {
+//   page: markdownRemark(id: { eq: $id }, frontmatter: { locale: { eq: $locale }}) {
+//     html
+//     frontmatter {
+//       template
+//       address
+//       email
+//       header
+//       telefon
+//       title
+//     }
+//   }
+// }
+// `
+
 export default EventsPage;
