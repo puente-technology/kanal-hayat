@@ -1,6 +1,7 @@
 ---
 slug: events
 locale: tr
+template: EventsPage
 eventList:
   - subtitle: Bizden Biri
     time:
