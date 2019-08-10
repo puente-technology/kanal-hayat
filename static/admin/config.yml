@@ -284,31 +284,31 @@ collections:
 
   - name: 'events'
     label: 'Yayın Akışı'
+    create: true
     files:
       - file: 'content/events/events.md'
+        label: 'Akış'
+        name: 'eventList'
+        widget: 'list'
         fields: 
-          - label: 'Pazartesi'
-            name: 'monday'
-            widget: 'list'
-            fields:
-              - { name: title, label: Program, widget: text }
-              - { name: subtitle, label: 'Alt Başlık', widget: text }
-              - label: 'Zaman'
-                name: 'time'
-                widget: 'object'
-                fields:
-                  - { name: startTimeH, label: 'Başlama Saati', widget: number }
-                  - { name: startTimeM, label: 'Başlama Dakikası', widget: number }
-              - label: 'Günler'
-                name: 'days'
-                widget: 'object'
-                fields: 
-                  - {label: "Pazartesi", name: "monday", widget: "boolean"}
-                  - {label: "Salı", name: "tuesday", widget: "boolean"}
-                  - {label: "Çarşamba", name: "wednesday", widget: "boolean"}
-                  - {label: "Perşembe", name: "thursday", widget: "boolean"}
-                  - {label: "Cuma", name: "friday", widget: "boolean"}
-                  - {label: "Cumartesi", name: "saturday", widget: "boolean"}
-                  - {label: "Pazar", name: "sunday", widget: "boolean"}
+            - { name: title, label: Program, widget: text }
+            - { name: subtitle, label: 'Alt Başlık', widget: text }
+            - label: 'Zaman'
+              name: 'time'
+              widget: 'object'
+              fields:
+                - { name: startTimeH, label: 'Başlama Saati', widget: number }
+                - { name: startTimeM, label: 'Başlama Dakikası', widget: number }
+            - label: 'Günler'
+              name: 'days'
+              widget: 'object'
+              fields: 
+                - {label: "Pazartesi", name: "monday", widget: "boolean"}
+                - {label: "Salı", name: "tuesday", widget: "boolean"}
+                - {label: "Çarşamba", name: "wednesday", widget: "boolean"}
+                - {label: "Perşembe", name: "thursday", widget: "boolean"}
+                - {label: "Cuma", name: "friday", widget: "boolean"}
+                - {label: "Cumartesi", name: "saturday", widget: "boolean"}
+                - {label: "Pazar", name: "sunday", widget: "boolean"}
 
-    
+  
