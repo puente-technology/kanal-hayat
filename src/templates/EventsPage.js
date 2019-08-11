@@ -10,14 +10,11 @@ import Events from '../components/Events';
 // )
 
 // Export Default HomePage for front-end
-const EventsPage = ({ data: { page } }) => {
-  console.log({ page });
-  return (
-    <LayoutComp>
-      <Events />
-    </LayoutComp>
-  )
-}
+const EventsPage = ({ data: { page } }) => (
+  <LayoutComp>
+    <Events eventList={page.frontmatter.eventList} />
+  </LayoutComp>
+)
 
 EventsPage.propTypes = {
   data: PropTypes.any,

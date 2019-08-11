@@ -36,7 +36,7 @@ export const eventWeek = () => {
     result.push({
       date: tempDate.toEventDateFormat(),
       day: tempDate.toEventDayFormat(),
-      isActive: today.getDate() === tempDate.getDate(),
+      nthDayOfWeek: tempDate.getDay().toString(),
     })
   }
   return result;

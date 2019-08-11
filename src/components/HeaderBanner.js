@@ -43,7 +43,7 @@ const HeaderBanner = (props) => {
                 <img key={index} className="imageBackground" src={items.image} alt={title} />
               )
             }
-            return <React.Fragment></React.Fragment>
+            return <React.Fragment key={index}></React.Fragment>
           })
         }
         <div className="headerText">
