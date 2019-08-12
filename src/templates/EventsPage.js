@@ -3,16 +3,26 @@ import { graphql } from 'gatsby'
 import PropTypes from 'prop-types'
 import LayoutComp from '../components/LayoutComp'
 import Events from '../components/Events';
+import EventsPreviewTemplate from '../cms/preview-templates/Events';
 
 // Export Template for use in CMS preview
-// export const ContactUsTemplate = data => (
-//   <ContactUsPage {...data} />
-// )
+export const EventsTemplate = data => {
+  console.log({ data });
+  return (
+    <React.Fragment>
+      {
+        data.frontmatter
+          ? <Events eventList={data.eventList} />
+          : <EventsPreviewTemplate eventList={data.eventList} />
+      }
+    </React.Fragment>
+  )
+}
 
 // Export Default HomePage for front-end
 const EventsPage = ({ data: { page } }) => (
   <LayoutComp>
-    <Events eventList={page.frontmatter.eventList} />
+    <EventsTemplate {...page} />
   </LayoutComp>
 )
 
@@ -29,8 +39,7 @@ query Events($id: String!, $locale: String) {
         subtitle
         time {
           days
-          startTimeH
-          startTimeM
+          startTime
         }
       }
     }

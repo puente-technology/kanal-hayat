@@ -13,8 +13,7 @@ eventList:
         - 5
         - 6
         - 0
-      startTimeH: 12
-      startTimeM: 0
+      startTime: 12:00
     title: Futbol
   - subtitle: Bizden Biri
     time:
@@ -26,22 +25,8 @@ eventList:
         - 5
         - 6
         - 0
-      startTimeH: 11
-      startTimeM: 0
+      startTime: 11:00
     title: Belgesel
-  - subtitle: AS Roma
-    time:
-      days:
-        - 1
-        - 2
-        - 3
-        - 4
-        - 5
-        - 6
-        - 0
-      startTimeH: 13
-      startTimeM: 0
-    title: Futbol
   - subtitle: Joyce Meyer
     time:
       days:
@@ -50,8 +35,7 @@ eventList:
         - 3
         - 4
         - 5
-      startTimeH: 12
-      startTimeM: 0
+      startTime: 10:00
     title: Türkmen Saati    
 ---
 

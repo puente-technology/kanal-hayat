@@ -7,7 +7,7 @@ import FriendSiteBanner from './preview-templates/FriendSiteBanner'
 import HeaderBanner from './preview-templates/HeaderBanner'
 import { AboutUsPageTemplate } from '../templates/AboutUs'
 import { ContactUsTemplate } from '../templates/ContactUs'
-import EventsPage from '../templates/EventsPage';
+import EventsPage, { EventsTemplate } from '../templates/EventsPage';
 
 
 
@@ -57,8 +57,8 @@ CMS.registerPreviewTemplate('contact-us', ({ entry }) => {
   <ContactUsTemplate {...entry.toJS().data }/>
 )})
 
-CMS.registerPreviewTemplate('eventList', ({ entry }) => {
+CMS.registerPreviewTemplate('event-page', ({ entry }) => {
   return (
-  <EventsPage {...entry.toJS().data }/>
+  <EventsTemplate {...entry.toJS().data }/>
 )})
 

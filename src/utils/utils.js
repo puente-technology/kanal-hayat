@@ -21,6 +21,16 @@ Date.prototype.toEventDayFormat = function () {
   return dayNames[dayIndex];
 }
 
+export const days = {
+  MONDAY: 1,
+  TUESDAY: 2,
+  WEDNESDAY: 3,
+  THURSDAY: 4,
+  FRIDAY: 5,
+  SATURDAY: 6,
+  SUNDAY: 0,
+}
+
 export const eventWeek = () => {
   const result = [];
   const today = new Date();
@@ -40,6 +50,20 @@ export const eventWeek = () => {
     })
   }
   return result;
+}
+
+export const sortTimeString = (x, y) => {
+  if (x.time.startTime > y.time.startTime) {
+    return 1
+  }
+  return -1
+}
+
+export const sortDateandTimeString = (x, y) => {
+  if (x.time.startTime > y.time.startTime) {
+    return 1
+  }
+  return -1
 }
 
 
