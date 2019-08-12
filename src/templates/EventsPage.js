@@ -6,7 +6,7 @@ import Events from '../components/Events';
 import EventsPreviewTemplate from '../cms/preview-templates/Events';
 
 // Export Template for use in CMS preview
-export const EventsTemplate = data => {
+export const EventsTemplate = (data) => {
   console.log({ data });
   return (
     <React.Fragment>

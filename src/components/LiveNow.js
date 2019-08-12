@@ -45,7 +45,7 @@ const LiveNow = (props) => {
       .some(d => d === parseInt(firstLoadedDay, 10))
       && event.time.startTime >= new Date().toLocaleTimeString())
     const filteredList = filtered.sort((sortTimeString)
-    console.log({ filteredList });
+    // console.log({ filteredList });
 
   }
 
