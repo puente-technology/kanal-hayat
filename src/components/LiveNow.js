@@ -1,9 +1,9 @@
 /* eslint-disable react/jsx-no-bind */
 import React from 'react';
-import PropTypes from 'prop-types';
+// import PropTypes from 'prop-types';
 
 import { StaticQuery, graphql } from 'gatsby'
-import { sortTimeString } from '../utils/utils';
+// import { sortTimeString } from '../utils/utils';
 
 export default () => (
   <StaticQuery
