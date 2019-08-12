@@ -1,7 +1,5 @@
 ---
 slug: events
-locale: tr
-template: EventsPage
 eventList:
   - subtitle: Besiktas JK
     time:
