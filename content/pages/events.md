@@ -13,7 +13,7 @@ eventList:
         - 5
         - 6
         - 0
-      startTime: 12:00
+      startTime: "12:00"
     title: Futbol
   - subtitle: Bizden Biri
     time:
@@ -25,7 +25,7 @@ eventList:
         - 5
         - 6
         - 0
-      startTime: 11:00
+      startTime: "11:00"
     title: Belgesel
   - subtitle: Joyce Meyer
     time:
@@ -35,7 +35,7 @@ eventList:
         - 3
         - 4
         - 5
-      startTime: 10:00
+      startTime: "10:00"
     title: Türkmen Saati    
 ---
 
