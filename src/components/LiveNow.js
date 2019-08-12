@@ -33,21 +33,19 @@ export default () => (
 
 const LiveNow = (props) => {
   console.log({ props });
-  const {
-    eventList,
-  } = props;
+  // const {
+  //   eventList,
+  // } = props;
 
-  console.log({eventList});
-  if (eventList) {
-    const firstLoadedDay = new Date().getDay().toString()
-    // const { eventList } = data;
-    const filtered = eventList.filter(event => event.time.days
-      .some(d => d === parseInt(firstLoadedDay, 10))
-      && event.time.startTime >= new Date().toLocaleTimeString())
-    const filteredList = filtered.sort((sortTimeString)
-    // console.log({ filteredList });
-
-  }
+  // console.log({eventList});
+  // if (eventList) {
+  //   const firstLoadedDay = new Date().getDay().toString()
+  //   // const { eventList } = data;
+  //   const filtered = eventList.filter(event => event.time.days
+  //     .some(d => d === parseInt(firstLoadedDay, 10))
+  //     && event.time.startTime >= new Date().toLocaleTimeString())
+  //   const filteredList = filtered.sort((sortTimeString)
+  // }
 
   return (
     <div className="contact-us">
@@ -56,6 +54,6 @@ const LiveNow = (props) => {
   )
 }
 
-LiveNow.propTypes = {
-  eventList: PropTypes.any,
-}
+// LiveNow.propTypes = {
+//   eventList: PropTypes.any,
+// }
