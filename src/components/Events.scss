@@ -12,7 +12,62 @@
   text-align: center;
   color: rgba(61, 61, 61, 0.3);
   margin-right: 75px;
+  border: none;
+  cursor: pointer;
   &.active {
     color: #3D3D3D;
   }
+}
+
+.Event-Container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  flex-wrap: wrap;
+}
+
+.Event-Programme {
+  border-left: 1px solid rgba(61, 61, 61, 0.4);
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  width: 974px;
+}
+
+.Event-Time {
+  width: 175px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 44px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #3D3D3D;
+}
+
+.Event-Name {
+  align-items: center;
+  height: 80px;
+  width: 807px;
+  padding-left: 38px;
+  font-family: Nunito;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: uppercase;
+  color: #3D3D3D;
+}
+
+.Event-Title {
+  padding-top: 18px;
+  font-weight: bold;
+}
+
+.Event-Subtitle {
+  font-size: 14px;
 }

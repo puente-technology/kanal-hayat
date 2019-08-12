@@ -284,31 +284,63 @@ collections:
 
   - name: 'events'
     label: 'Program'
-    create: true
     files:
       - file: 'content/pages/events.md'
         label: 'Yayın Akışı'
-        name: 'events'
+        name: 'event-page'
         # widget: 'list'
         fields:
-            - { label: Slug, name: slug, widget: hidden, default: '' }
-            - label: 'Akış'
-              name: 'eventList'
-              widget: 'list'
-              fields:
+          - { label: Slug, name: slug, widget: hidden, default: '' }
+          - label: 'Akış'
+            name: 'eventList'
+            widget: 'list'
+            fields:
               - { name: title, label: Program, widget: text }
               - { name: subtitle, label: 'Alt Başlık', widget: text }
               - label: 'Zaman'
                 name: 'time'
                 widget: 'object'
                 fields:
-                  - { name: startTimeH, label: 'Başlama Saati', widget: number }
-                  - { name: startTimeM, label: 'Başlama Dakikası', widget: number }
+                  - {
+                      name: startTime,
+                      label: 'Başlama Saati',
+                      widget: string,
+                      pattern: ['/(?:[01]\d|2[0123]):(?:[012345]\d)/g', 'Must be in HH:MM'],
+                    }
                   - {
                       label: 'Yayın Günleri',
                       name: 'days',
                       widget: 'select',
-                      options: ['Pazartesi', 'Salı', 'Çarşamba', 'Perşembe', 'Cuma', 'Cumartesi', 'Pazar'],
+                      options: [
+                        {
+                          label: 'Pazartesi',
+                          value: 1
+                        },
+                        {
+                          label: 'Salı',
+                          value: 2
+                        },
+                        {
+                          label: 'Çarşamba',
+                          value: 3
+                        },
+                        {
+                          label: 'Perşembe',
+                          value: 4
+                        },
+                        {
+                          label: 'Cuma',
+                          value: 5
+                        },
+                        {
+                          label: 'Cumartesi',
+                          value: 6
+                        },
+                        {
+                          label: 'Pazar',
+                          value: 0,
+                        }
+                      ],
                       multiple: true,
                     }
 
