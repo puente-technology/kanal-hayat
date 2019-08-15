@@ -1,27 +1,27 @@
 ---
 template: HomePage
 slug: ''
-title: Tevrat'ın Müjdelediği Mesih
+title: Main Slider
 gallery:
   - align: right
     alt: Can Nuroglu
     color: light
-    image: /images/uploads/can-nuroglu2.png
+    image: /images/uploads/slider1.png
     title: Hristiyan Ahlakı
   - align: center
-    alt: umbrellas
-    color: light
-    image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
+    alt: Ali'nin Öyküsü
+    color: dark
+    image: /images/uploads/slider2.png
     title: Ali'nin Öyküsü
   - align: right
-    alt: yellow ice cream
-    color: dark
-    image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
-    title: Kızıldeniz'den Geçiş
+    alt: Labirent
+    color: light
+    image: /images/uploads/slider3.png
+    title: Devam Etmek
 program1:
   align: left
-  bgImage: /images/uploads/can-nuroğlu2.png
-  color: light
+  bgImage: /images/uploads/bigmodulejoycemayer.png
+  color: dark
   content: >-
     Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
     doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
@@ -29,26 +29,26 @@ program1:
     ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
     consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Natus
     error sit voluptatem accusantium doloremque laudantium.
-  thumbnailTitle: Programlar
+  thumbnailTitle: Watch Now!
   thumbnails:
     - image: /images/thumbnailTemp.png
     - image: /images/thumbnailTemp.png
-  title: Joyse Meyer / BIR YAZAR
+  title: Joyce Meyer / YAZAR
 program2:
-  align: left
-  bgImage: /images/uploads/can-nuroğlu2.png
-  color: light
+  align: right
+  bgImage: /images/uploads/bigmodulecannur.png
+  color: dark
   content: >-
-    2Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
     doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
     veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim
     ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
     consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Natus
     error sit voluptatem accusantium doloremque laudantium.
-  thumbnailTitle: Programlar2
+  thumbnailTitle: Watch Now!
   thumbnails:
     - image: /images/thumbnailTemp.png
     - image: /images/thumbnailTemp.png
-  title: Joyse Meyer / BASKA YAZAR
+  title: Can Nuroglu / BASKA YAZAR
 ---
 
