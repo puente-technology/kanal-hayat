@@ -3,9 +3,9 @@ template: HomePage
 slug: ''
 title: Tevrat'ın Müjdelediği Mesih
 gallery:
-  - align: left
+  - align: right
     alt: Can Nuroglu
-    color: dark
+    color: light
     image: /images/uploads/can-nuroğlu2.png
     title: Hristiyan Ahlakı
   - align: center
