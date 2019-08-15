@@ -4,10 +4,10 @@ slug: ''
 title: Tevrat'ın Müjdelediği Mesih
 gallery:
   - align: left
-    alt: Casual Guy
-    color: light
-    image: /images/uploads/adult-casual-facial-expression-1300402.png
-    title: Tevrat'ın Müjdelediği Mesih!
+    alt: Can Nuroglu
+    color: dark
+    image: /images/uploads/can-nuroğlu2.png
+    title: Hristiyan Ahlakı
   - align: center
     alt: umbrellas
     color: light
