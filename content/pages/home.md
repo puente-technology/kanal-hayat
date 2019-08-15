@@ -20,7 +20,7 @@ gallery:
     title: Kızıldeniz'den Geçiş
 program1:
   align: left
-  bgImage: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
+  bgImage: /images/uploads/adult-casual-facial-expression-1300402.png
   color: light
   content: >-
     Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
@@ -36,7 +36,7 @@ program1:
   title: Joyse Meyer / BIR YAZAR
 program2:
   align: left
-  bgImage: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
+  bgImage: /images/uploads/adult-casual-facial-expression-1300402.png
   color: light
   content: >-
     2Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
