@@ -1,9 +1,9 @@
 list:
-  - image: /images/uploads/pageaboutus.png
-    title: KANAL HAYAT HAKKINDA
   - image: /images/uploads/pagecontact.png
+    title: KANAL HAYAT HAKKINDA
+  - image: /images/uploads/pageaboutus.png
     title: İletişim
   - image: 'https://i.ibb.co/xHDqcZm/km.png'
-    title: ASDDD
+    title: Test
   - image: 'https://i.ibb.co/xHDqcZm/km.png'
-    title: ASDDDD
+    title: Test2
