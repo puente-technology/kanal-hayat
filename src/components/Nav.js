@@ -65,7 +65,7 @@ export class Navigation extends Component {
             <Logo />
           </Link>
           <div className={`Nav--Links ${color.color}`}>
-            <NavLink color={color} align={align} to="/">Yayın Akışı</NavLink>
+            <NavLink color={color} align={align} to="/events">Yayın Akışı</NavLink>
             <NavLink color={color} align={align} to="/">Öğren</NavLink>
             <NavLink color={color} align={align} to="/about-us">Kanal Hayat Hakkında</NavLink>
             <NavLink color={color} align={align} to="/contact-us">İletişim</NavLink>
