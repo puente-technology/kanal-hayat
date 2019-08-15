@@ -12,7 +12,7 @@ export const EventsTemplate = (data) => {
     <React.Fragment>
       {
         data.frontmatter
-          ? <Events eventList={data.eventList} />
+          ? <Events eventList={data.frontmatter.eventList} />
           : <EventsPreviewTemplate eventList={data.eventList} />
       }
     </React.Fragment>
