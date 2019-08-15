@@ -4,10 +4,10 @@ slug: ''
 title: Tevrat'ın Müjdelediği Mesih
 gallery:
   - align: left
-    alt: yellow rope image
+    alt: Casual Guy
     color: light
     image: /images/uploads/adult-casual-facial-expression-1300402.png
-    title: Tevrat'ın Müjdelediği Mesih
+    title: Tevrat'ın Müjdelediği Mesih!
   - align: center
     alt: umbrellas
     color: light
@@ -33,7 +33,7 @@ program1:
   thumbnails:
     - image: /images/thumbnailTemp.png
     - image: /images/thumbnailTemp.png
-  title: Joyse Meyer / YAZAR
+  title: Joyse Meyer / BIR YAZAR
 program2:
   align: left
   bgImage: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
@@ -49,6 +49,6 @@ program2:
   thumbnails:
     - image: /images/thumbnailTemp.png
     - image: /images/thumbnailTemp.png
-  title: 2Joyse Meyer / YAZAR
+  title: Joyse Meyer / BASKA YAZAR
 ---
 
