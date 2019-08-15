@@ -6,7 +6,7 @@ gallery:
   - align: right
     alt: Can Nuroglu
     color: light
-    image: /images/uploads/can-nuroğlu2.png
+    image: /images/uploads/can-nuroglu2.png
     title: Hristiyan Ahlakı
   - align: center
     alt: umbrellas
