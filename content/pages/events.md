@@ -86,5 +86,69 @@ eventList:
       endTime: '00:00'
       startTime: '23:00'
     title: Selam
+  - subtitle: Boş
+    time:
+      days:
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 99
+      endTime: '02:00'
+      startTime: '00:00'
+    title: Teletext
+  - subtitle: Boş
+    time:
+      days:
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 99
+        - 6
+      endTime: '04:00'
+      startTime: '02:00'
+    title: Teletext2
+  - subtitle: Boş
+    time:
+      days:
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
+        - 99
+      endTime: '06:00'
+      startTime: '04:00'
+    title: Teletext 3
+  - subtitle: Boş
+    time:
+      days:
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
+        - 99
+      endTime: '08:00'
+      startTime: '06:00'
+    title: Teletext 4
+  - subtitle: Haber
+    time:
+      days:
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
+        - 99
+      endTime: '10:00'
+      startTime: '08:00'
+    title: Günaydın
 ---
 
