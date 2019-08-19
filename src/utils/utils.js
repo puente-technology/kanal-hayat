@@ -28,7 +28,7 @@ export const days = {
   THURSDAY: 4,
   FRIDAY: 5,
   SATURDAY: 6,
-  SUNDAY: 0,
+  SUNDAY: 99,
 }
 
 export const eventWeek = () => {
@@ -43,10 +43,14 @@ export const eventWeek = () => {
   for (let index = 0; index < 7; index += 1) {
     const tempDate = new Date();
     tempDate.setDate(startDay.getDate() + index)
+    let tempNth = tempDate.getDay().toString()
+    if (tempNth === '0') {
+      tempNth = '99'
+    }
     result.push({
       date: tempDate.toEventDateFormat(),
       day: tempDate.toEventDayFormat(),
-      nthDayOfWeek: tempDate.getDay().toString(),
+      nthDayOfWeek: tempNth,
     })
   }
   return result;

@@ -346,7 +346,7 @@ collections:
                         },
                         {
                           label: 'Pazar',
-                          value: 0,
+                          value: 99
                         }
                       ],
                       multiple: true,
