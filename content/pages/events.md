@@ -45,5 +45,15 @@ eventList:
         - 5
       startTime: '17:00'
     title: Humberto
+  - subtitle: Test1
+    time:
+      days:
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+      startTime: '18:00'
+    title: Test
 ---
 
