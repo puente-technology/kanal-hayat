@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import { eventWeek, sortTimeString } from '../utils/utils';
 
 import './Events.scss'
-import LiveNowC from './LiveNow';
+import { LiveNowC } from './LiveNow';
 
 export const query = graphql`
   fragment EventsQ on MarkdownRemark {

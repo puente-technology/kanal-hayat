@@ -41,13 +41,13 @@ export const LiveNowC = (props) => {
   if (eventList) {
     const firstLoadedDay = new Date().getDay().toString()
     // const { eventList } = data;
-    console.log({eventList});
+    console.log({ eventList });
     const timeNow = new Date().toLocaleTimeString()
     const filtered = eventList.filter(event => event.time.days
       .some(d => d === parseInt(firstLoadedDay, 10))
       && (event.time.startTime >= timeNow
-      || (event.time.startTime <= timeNow && event.time.endTime > timeNow)))
-      console.log({filtered});
+        || (event.time.startTime <= timeNow && event.time.endTime > timeNow)))
+    console.log({ filtered });
     const filteredList = filtered.sort((sortTimeString))
     console.log({ filteredList });
   }
