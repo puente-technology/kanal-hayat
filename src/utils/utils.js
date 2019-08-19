@@ -53,6 +53,9 @@ export const eventWeek = () => {
 }
 
 export const sortTimeString = (x, y) => {
+  if (!x.time || y.time) {
+    return -1;
+  }
   if (x.time.startTime > y.time.startTime) {
     return 1
   }
@@ -60,6 +63,9 @@ export const sortTimeString = (x, y) => {
 }
 
 export const sortDateandTimeString = (x, y) => {
+  if (!x.time || y.time) {
+    return -1;
+  }
   if (x.time.startTime > y.time.startTime) {
     return 1
   }

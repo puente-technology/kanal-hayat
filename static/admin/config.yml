@@ -291,12 +291,14 @@ collections:
         # widget: 'list'
         fields:
           - { label: Slug, name: slug, widget: hidden, default: '' }
+          - { label: Title, name: title, widget: hidden }
+          - { label: Template, name: template, widget: hidden }
           - label: 'Akış'
             name: 'eventList'
             widget: 'list'
             fields:
-              - { name: title, label: Program, widget: text }
-              - { name: subtitle, label: 'Alt Başlık', widget: text }
+              - { name: title, label: Program, widget: string }
+              - { name: subtitle, label: 'Alt Başlık', widget: string }
               - label: 'Zaman'
                 name: 'time'
                 widget: 'object'
@@ -305,7 +307,13 @@ collections:
                       name: startTime,
                       label: 'Başlama Saati',
                       widget: string,
-                      pattern: ['/(?:[01]\d|2[0123]):(?:[012345]\d)/g', 'Must be in HH:MM'],
+                      pattern: ['(?:[01]\d|2[0123]):(?:[012345]\d)', "Must be in HH:MM"],
+                    }
+                  - {
+                      name: endTime,
+                      label: 'Bitiş Saati',
+                      widget: string,
+                      pattern: ['(?:[01]\d|2[0123]):(?:[012345]\d)', "Must be in HH:MM"],
                     }
                   - {
                       label: 'Yayın Günleri',

@@ -12,7 +12,7 @@ export const EventsTemplate = (data) => {
     <React.Fragment>
       {
         data.frontmatter
-          ? <Events eventList={data.frontmatter.eventList} />
+          ? <Events title={data.frontmatter.title} eventList={data.frontmatter.eventList} />
           : <EventsPreviewTemplate eventList={data.eventList} />
       }
     </React.Fragment>
@@ -22,7 +22,7 @@ export const EventsTemplate = (data) => {
 // Export Default HomePage for front-end
 const EventsPage = ({ data: { page } }) => (
   <LayoutComp>
-    <EventsTemplate {...page} />
+    <EventsTemplate {...page} {...page.frontmatter} />
   </LayoutComp>
 )
 
@@ -34,6 +34,7 @@ export const pageQuery = graphql`
 query Events($id: String!, $locale: String) {
   page: markdownRemark(id: { eq: $id }, frontmatter: { locale: { eq: $locale }}) {
     frontmatter {
+      title
       eventList {
         title
         subtitle

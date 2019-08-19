@@ -5,10 +5,10 @@ import './Events.css'
 
 const EventsPreviewTemplate = (list) => {
   const { eventList } = list;
+  console.log({ eventList });
   const sorted = eventList.sort(sortTimeString)
-  const times = sorted.map(s => s.time.startTime)
+  const times = sorted.map(s => s.time && s.time.startTime)
   const uniqueTimes = [...new Set(times)]
-  console.log({ sorted });
   return (
     <table id="events">
       <thead>
@@ -29,7 +29,8 @@ const EventsPreviewTemplate = (list) => {
               {
                 Object.values(days).map((value) => {
                   const found = sorted
-                    .find(s => s.time.days.includes(value) && s.time.startTime === time)
+                    .find(s => s.time && s.time.days && s.time.days.includes(value)
+                    && (s.time && s.time.startTime === time))
                   return (
                     <td>
                       {found ? found.title : ''}
