@@ -1,9 +1,9 @@
 list:
-  - title: 'KANAL HAYAT HAKKINDA'
-    image: 'https://images3.alphacoders.com/819/thumb-1920-81915.jpg'
-  - title: 'İletişim'
-    image: 'https://images3.alphacoders.com/819/thumb-1920-81915.jpg'
-  - title: 'ASDDD'
-    image: 'https://i.ibb.co/xHDqcZm/km.png'
-  - title: 'ASDDDD'
-    image: 'https://i.ibb.co/xHDqcZm/km.png'
+  - image: /images/uploads/pagecontact.png
+    title: KANAL HAYAT HAKKINDA
+  - image: /images/uploads/pageaboutus.png
+    title: İletişim
+  - image: 'https://i.ibb.co/xHDqcZm/km.png'
+    title: Test
+  - image: 'https://i.ibb.co/xHDqcZm/km.png'
+    title: Test2
