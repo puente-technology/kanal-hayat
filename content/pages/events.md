@@ -1,6 +1,7 @@
 ---
 slug: events
 template: EventsPage
+title: Yayın Akışı
 eventList:
   - subtitle: Besiktas JK
     time:
