@@ -55,5 +55,15 @@ eventList:
         - 5
       startTime: '18:00'
     title: Test
+  - subtitle: Kitap
+    time:
+      days:
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+      startTime: '19:00'
+    title: Uçurtma Avcısı
 ---
 
