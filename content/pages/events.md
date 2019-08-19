@@ -77,6 +77,12 @@ eventList:
     time:
       days:
         - 10
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
       endTime: '00:00'
       startTime: '23:00'
     title: Selam
