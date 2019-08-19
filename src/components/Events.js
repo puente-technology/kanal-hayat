@@ -1,25 +1,10 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
 import { eventWeek, sortTimeString } from '../utils/utils';
 
 import './Events.scss'
 import { LiveNowC } from './LiveNow';
 
-export const query = graphql`
-  fragment EventsQ on MarkdownRemark {
-    frontmatter {
-      eventList {
-        title
-        subtitle
-        time {
-          days
-          startTime
-        }
-      }
-    }
-  }
-`
 
 class Events extends Component {
   state = {
@@ -55,7 +40,7 @@ class Events extends Component {
     const { activeDay } = this.state;
     return (
       <React.Fragment>
-        <LiveNowC {...this.filteredList} />
+        <LiveNowC eventList={this.filteredList} />
         <div className="Event-Week">
           {
             eventWeek().map((day, i) => (

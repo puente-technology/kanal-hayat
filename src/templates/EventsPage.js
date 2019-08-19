@@ -41,6 +41,7 @@ query Events($id: String!, $locale: String) {
         time {
           days
           startTime
+          endTime
         }
       }
     }

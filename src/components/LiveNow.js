@@ -37,11 +37,11 @@ export const LiveNowC = (props) => {
   const {
     eventList,
   } = props;
+  console.log({ eventList });
 
   if (eventList) {
     const firstLoadedDay = new Date().getDay().toString()
     // const { eventList } = data;
-    console.log({ eventList });
     const timeNow = new Date().toLocaleTimeString()
     const filtered = eventList.filter(event => event.time.days
       .some(d => d === parseInt(firstLoadedDay, 10))
