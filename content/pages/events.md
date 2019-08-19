@@ -1,7 +1,7 @@
 ---
 slug: events
-template: EventsPage
 title: Yayın Akışı
+template: EventsPage
 eventList:
   - subtitle: Besiktas JK
     time:
@@ -13,8 +13,8 @@ eventList:
         - 5
         - 6
         - 0
-      startTime: '12:00'
       endTime: '13:00'
+      startTime: '12:00'
     title: Futbol
   - subtitle: Bizden Biri
     time:
@@ -26,8 +26,8 @@ eventList:
         - 5
         - 6
         - 0
-      startTime: '11:00'
       endTime: '12:00'
+      startTime: '11:00'
     title: Belgesel
   - subtitle: Joyce Meyer
     time:
@@ -37,8 +37,8 @@ eventList:
         - 3
         - 4
         - 5
-      startTime: '10:00'
       endTime: '11:00'
+      startTime: '10:00'
     title: Türkmen Saati
   - subtitle: Coello
     time:
@@ -48,8 +48,8 @@ eventList:
         - 3
         - 4
         - 5
-      startTime: '17:00'
       endTime: '18:00'
+      startTime: '17:00'
     title: Humberto
   - subtitle: Test1
     time:
@@ -59,8 +59,8 @@ eventList:
         - 3
         - 4
         - 5
-      startTime: '18:00'
       endTime: '19:00'
+      startTime: '18:00'
     title: Test
   - subtitle: Kitap
     time:
@@ -70,8 +70,15 @@ eventList:
         - 3
         - 4
         - 5
-      startTime: '19:00'
       endTime: '21:00'
+      startTime: '19:00'
     title: Uçurtma Avcısı
+  - subtitle: Boş
+    time:
+      days:
+        - 10
+      endTime: '00:00'
+      startTime: '23:00'
+    title: Selam
 ---
 
