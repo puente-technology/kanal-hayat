@@ -1,6 +1,7 @@
 .Event-Week {
   display: flex;
   justify-content: center;
+  margin-top: 55px;
 }
 
 .Event {
@@ -15,7 +16,33 @@
   border: none;
   cursor: pointer;
   &.active {
-    color: #3D3D3D;
+    color: #3d3d3d;
+  }
+  &:hover {
+    color: #3d3d3d;
+  }
+}
+
+.Event-Filters {
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+}
+
+.Filter-Button {
+  width: 111px;
+  height: 32px;
+  margin-right: 13px;
+  cursor: pointer;
+  border: 1px solid #34b5cf;
+  box-sizing: border-box;
+  &.active {
+    background: #34b5cf;
+    color: white;
+  }
+  &:hover {
+    background: #34b5cf;
+    color: white;
   }
 }
 
@@ -24,6 +51,11 @@
   justify-content: center;
   margin-top: 50px;
   flex-wrap: wrap;
+}
+
+.Event-SubContainer {
+  height: 550px;
+  overflow-x: auto;
 }
 
 .Event-Programme {
@@ -47,7 +79,10 @@
   line-height: 44px;
   text-align: center;
   text-transform: capitalize;
-  color: #3D3D3D;
+  color: #3d3d3d;
+  &.active {
+    background: #ececec;
+  }
 }
 
 .Event-Name {
@@ -60,7 +95,10 @@
   font-size: 18px;
   line-height: 25px;
   text-transform: uppercase;
-  color: #3D3D3D;
+  color: #3d3d3d;
+  &.active {
+    background: #f9f9f9;
+  }
 }
 
 .Event-Title {

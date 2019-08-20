@@ -13,7 +13,7 @@ eventList:
         - 5
         - 6
         - 0
-      endTime: '13:00'
+      endTime: '17:00'
       startTime: '12:00'
     title: Futbol
   - subtitle: Bizden Biri
