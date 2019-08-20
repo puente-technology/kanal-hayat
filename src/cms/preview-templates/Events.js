@@ -1,7 +1,8 @@
 import React from 'react'
-import { eventWeek, sortTimeString, days } from '../../utils/utils';
+import { eventWeek, sortTimeString } from '../../utils/utils';
 
 import './Events.css'
+import { days } from '../../constants/generics';
 
 const EventsPreviewTemplate = (list) => {
   const { eventList } = list;

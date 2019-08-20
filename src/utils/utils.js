@@ -1,3 +1,5 @@
+import { dayPeriods } from '../constants/generics';
+
 /* eslint-disable func-names */
 // eslint-disable-next-line no-extend-native
 Date.prototype.toEventDateFormat = function () {
@@ -21,16 +23,6 @@ Date.prototype.toEventDayFormat = function () {
   return dayNames[dayIndex];
 }
 
-export const days = {
-  MONDAY: 1,
-  TUESDAY: 2,
-  WEDNESDAY: 3,
-  THURSDAY: 4,
-  FRIDAY: 5,
-  SATURDAY: 6,
-  SUNDAY: 99,
-}
-
 export const eventWeek = () => {
   const result = [];
   const today = new Date();
@@ -50,11 +42,20 @@ export const eventWeek = () => {
     result.push({
       date: tempDate.toEventDateFormat(),
       day: tempDate.toEventDayFormat(),
+      fullDate: tempDate,
       nthDayOfWeek: tempNth,
     })
   }
   return result;
 }
+
+// eslint-disable-next-line no-extend-native
+Date.prototype.addDays = function (days) {
+  const date = new Date(this.valueOf());
+  date.setDate(date.getDate() + days);
+  return date;
+}
+
 
 export const sortTimeString = (x, y) => {
   if (!x.time || !y.time) {
@@ -76,5 +77,11 @@ export const sortDateandTimeString = (x, y) => {
   return -1
 }
 
+export const getDayPeriod = () => {
+  const nowInTime = new Date().toLocaleTimeString()
+  const foundObject = Object.entries(dayPeriods)
+    .find(item => (item[1].startTime < nowInTime && item[1].endTime > nowInTime))
+  return foundObject[1].value
+}
 
 export default '';
