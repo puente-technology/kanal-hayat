@@ -1,6 +1,7 @@
 .Event-Week {
   display: flex;
   justify-content: center;
+  margin-top: 55px;
 }
 
 .Event {
@@ -15,6 +16,9 @@
   border: none;
   cursor: pointer;
   &.active {
+    color: #3d3d3d;
+  }
+  &:hover {
     color: #3d3d3d;
   }
 }
