@@ -92,7 +92,6 @@ export const LiveNowC = (props) => {
             </div>
           ))
         }
-        1
       </div>
     </div>
   )
