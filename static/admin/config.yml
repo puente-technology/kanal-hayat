@@ -366,14 +366,30 @@ collections:
             name: 'categories'
             widget: 'list'
             fields:
-              - { label: Template, name: template, widget: hidden, default: SeriesIndex }
               - { label: Category, name: category, widget: string }
-              - label: "Post Author"
+              - { label: Template, name: template, widget: hidden, default: SeriesIndex }
+
+  - name: seriesSubCategories
+    label: Seri Alt Kategorileri
+    editor:
+      preview: false
+    delete: false
+    files:
+      - file: 'content/categories/categories-sub.md'
+        label: 'Alt Kategoriler'
+        name: 'series-sub-categories'
+        fields:
+          - label: Alt Kategoriler
+            name: 'subCategories'
+            widget: 'list'
+            fields:
+              - { label: Category, name: category, widget: string }
+              - label: "Üst Kategori"
                 name: "parentCategory"
                 widget: "relation"
-                collection: "seriesCategories"
+                collection: "categories"
                 searchFields: ["category"]
                 valueField: "category"
                 displayFields: ["category"]
-                required: false
+ 
 
