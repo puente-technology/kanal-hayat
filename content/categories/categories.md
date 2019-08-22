@@ -1,3 +1,4 @@
 ---
-category: Yayın Akışı
+categories: 
+  - category: Öğreti
 ---

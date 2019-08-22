@@ -356,19 +356,24 @@ collections:
     label: Seri Kategorileri
     editor:
       preview: false
-    folder: content/categories
-    slug: '{{slug}}'
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
-      - { label: Template, name: template, widget: hidden, default: SeriesIndex }
-      - { label: Category, name: category, widget: string }
-      - { label: Subtitle, name: subtitle, widget: string, required: false }
-      - label: "Post Author"
-        name: "author"
-        widget: "relation"
-        collection: "seriesCategories"
-        searchFields: ["category"]
-        valueField: "category"
-        displayFields: ["category"]
-        required: false
+    delete: false
+    files:
+      - file: 'content/categories/categories.md'
+        label: 'Kategoriler'
+        name: 'series-categories'
+        fields:
+          - label: Kategoriler
+            name: 'categories'
+            widget: 'list'
+            fields:
+              - { label: Template, name: template, widget: hidden, default: SeriesIndex }
+              - { label: Category, name: category, widget: string }
+              - label: "Post Author"
+                name: "parentCategory"
+                widget: "relation"
+                collection: "seriesCategories"
+                searchFields: ["category"]
+                valueField: "category"
+                displayFields: ["category"]
+                required: false
 
