@@ -356,40 +356,58 @@ collections:
     label: Seri Kategorileri
     editor:
       preview: false
-    delete: false
-    files:
-      - file: 'content/categories/categories.md'
-        label: 'Kategoriler'
-        name: 'series-categories'
-        fields:
-          - label: Kategoriler
-            name: 'categories'
-            widget: 'list'
-            fields:
-              - { label: Category, name: category, widget: string }
-              - { label: Template, name: template, widget: hidden, default: SeriesIndex }
+    folder: content/categories
+    identifier_field: category
+    slug: '{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: Kategori Adı, name: category, widget: string }
+      - { label: Değer, name: value, widget: string, required: false }
+      - label: "Alt Kategori"
+        name: "subCategory"
+        widget: "relation"
+        collection: "seriesCategories"
+        searchFields: ["category"]
+        valueField: "value"
+        displayFields: ["category"]
+        required: false
 
-  - name: seriesSubCategories
-    label: Seri Alt Kategorileri
+  - name: 'series'
+    label: 'Seriler'
     editor:
-      preview: false
-    delete: false
-    files:
-      - file: 'content/categories/categories-sub.md'
-        label: 'Alt Kategoriler'
-        name: 'series-sub-categories'
+      preview: true
+    folder: content/series
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: Template, name: template, widget: hidden, default: SingleSerie }
+      - { label: Title, name: title, widget: string }
+      - { label: Tarih, name: date, widget: datetime }
+      - {
+          label: Kapak Resmi,
+          name: coverImage,
+          widget: image,
+        }
+      - { label: Sunucu, name: host, widget: string }
+      - { label: Açıklama, name: description, widget: text }
+      - label: "Kategori"
+        name: "category"
+        widget: "relation"
+        collection: "seriesCategories"
+        searchFields: ["category"]
+        valueField: "value"
+        displayFields: ["category"]
+        required: false
+        multiple: true
+      - label: 'Bölümler'
+        name: 'episodes'
+        widget: 'list'
+        required: false
         fields:
-          - label: Alt Kategoriler
-            name: 'subCategories'
-            widget: 'list'
-            fields:
-              - { label: Category, name: category, widget: string }
-              - label: "Üst Kategori"
-                name: "parentCategory"
-                widget: "relation"
-                collection: "categories"
-                searchFields: ["category"]
-                valueField: "category"
-                displayFields: ["category"]
- 
-
+          - label: 'Bölüm Başlığı'
+            name: 'episodeTitle'
+            widget: 'string'
+          - { label: Sunucu, name: host, widget: string }
+          - { name: youtubeURL, label: Youtube URL, widget: youtube, extraInfo: true, APIkey: "AIzaSyAln9Zizqc3_r8zozq4OcmqwwsUOXRJtuE" }
+          
+        

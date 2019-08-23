@@ -6929,6 +6929,11 @@ js-tokens@^3.0.2:
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-3.0.2.tgz#9866df395102130e38f7f996bceb65443209c25b"
   integrity sha1-mGbfOVECEw449/mWvOtlRDIJwls=
 
+js-video-url-parser@^0.2.7:
+  version "0.2.8"
+  resolved "https://registry.yarnpkg.com/js-video-url-parser/-/js-video-url-parser-0.2.8.tgz#a78cd81ef0f7283d2a520015c7382d544ed5d8f0"
+  integrity sha512-/9KwB+7ESNsLOEsB33ol9OpbHHbP1fqhTulH6/ytEaP7rhURDcXrZBo9Gfd7YQtL7xqZWknTbLusYVOY4EAKZA==
+
 js-yaml@^3.10.0, js-yaml@^3.11.0, js-yaml@^3.12.2, js-yaml@^3.13.0, js-yaml@^3.13.1, js-yaml@^3.5.2:
   version "3.13.1"
   resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.13.1.tgz#aff151b30bfdfa8e49e05da22e7415e9dfa37847"
@@ -8217,6 +8222,13 @@ netlify-cms-widget-text@^2.2.3:
   integrity sha512-uMMq5/2n3ISSnm3+qOEq5QFAId7MooTIOl6v/jVZZTPPxFYk6ko9DjGdhjGf/WwACoGD/XzMruZAXwZ3pv3LAQ==
   dependencies:
     react-textarea-autosize "^7.1.0"
+
+"netlify-cms-widget-youtube@git+https://github.com/sercanatx/netlify-cms-widget-youtube.git":
+  version "0.3.0"
+  resolved "git+https://github.com/sercanatx/netlify-cms-widget-youtube.git#12a5e7bd482a1e546ff337331c6ba7bb1ed91e0f"
+  dependencies:
+    js-video-url-parser "^0.2.7"
+    prop-types "^15.6.1"
 
 netlify-cms@^2.9.7:
   version "2.9.7"

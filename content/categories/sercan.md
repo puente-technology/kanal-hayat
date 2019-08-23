@@ -1,5 +1,4 @@
 ---
-template: SeriesIndex
 category: Sercan
 ---
 
