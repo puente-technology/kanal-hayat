@@ -1,6 +1,6 @@
 import React from 'react'
 import CMS from 'netlify-cms-app'
-import youtube from "netlify-cms-widget-youtube";
+import youtube from "netlify-cms-widget-youtube-expanded";
 import './cms-util'
 import { HomePageTemplate } from '../templates/HomePage'
 import FooterBanner from './preview-templates/FooterBanner'
