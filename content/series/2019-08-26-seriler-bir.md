@@ -1,5 +1,5 @@
 ---
-template: SingleSerie
+template: SeriesPageTemplate
 title: Seriler Bir
 publishDate: 'Hafta içi her gün 08:00-10:00'
 coverImage: /images/uploads/bigmodulejoycemayer.png

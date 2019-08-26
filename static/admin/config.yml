@@ -397,7 +397,7 @@ collections:
     identifier_field: slug
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - { label: Template, name: template, widget: hidden, default: SingleSerie }
+      - { label: Template, name: template, widget: hidden, default: SeriesPageTemplate }
       - { label: Title, name: title, widget: string }
       - { label: Yayın Tarihi, name: publishDate, widget: string, hint: "Hafta içi her gün hh:mm-hh:mm" }
       - {
