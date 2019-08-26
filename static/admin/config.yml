@@ -282,6 +282,21 @@ collections:
           - { label: Address, name: address, widget: string }
           - { label: Header, name: header, widget: string }
 
+
+  - name: 'series-page'
+    label: 'Seriler'
+    delete: false
+    editor:
+      preview: true
+    files:
+      - file: 'content/pages/series-page.md'
+        label: 'Seriler'
+        name: 'series-page'
+        fields:
+          - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
+          - { label: Template, name: template, widget: hidden, default: SeriesList }
+          - { label: Slug, name: slug, widget: hidden, default: '' }
+
   - name: 'events'
     label: 'Program'
     files:
@@ -382,7 +397,7 @@ collections:
     fields: # The fields each document in this collection have
       - { label: Template, name: template, widget: hidden, default: SingleSerie }
       - { label: Title, name: title, widget: string }
-      - { label: Tarih, name: date, widget: datetime }
+      - { label: Yayın Tarihi, name: publishDate, widget: string, hint: "Hafta içi her gün hh:mm-hh:mm" }
       - {
           label: Kapak Resmi,
           name: coverImage,
@@ -404,10 +419,9 @@ collections:
         widget: 'list'
         required: false
         fields:
-          - label: 'Bölüm Başlığı'
-            name: 'episodeTitle'
-            widget: 'string'
-          - { label: Sunucu, name: host, widget: string }
           - { name: youtubeURL, label: Youtube URL, widget: youtube, extraInfo: true, APIkey: "AIzaSyAln9Zizqc3_r8zozq4OcmqwwsUOXRJtuE" }
+          - { label: Sunucu, name: host, widget: string }
+          - { label: Hedef Kitle, name: targetGroup, widget: string }
+          - { label: Dil, name: language, widget: string }
           
         
