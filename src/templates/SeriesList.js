@@ -10,11 +10,15 @@ import SeriesList from '../components/SeriesList';
 // )
 
 // Export Default HomePage for front-end
-const SeriesListPage = ({ data: { page } }) => (
-  <LayoutComp>
-    <SeriesList {...page} {...page.frontmatter} />
-  </LayoutComp>
-)
+const SeriesListPage = (data) => {
+  const { edges } = data.data.allMarkdownRemark
+  console.log({ edges });
+  return (
+    <LayoutComp>
+      <SeriesList data={edges} />
+    </LayoutComp>
+  )
+}
 
 SeriesListPage.propTypes = {
   data: PropTypes.any,
@@ -23,9 +27,35 @@ SeriesListPage.propTypes = {
 export default SeriesListPage;
 
 export const pageQuery = graphql`
-query SeriesList($id: String!, $locale: String) {
-  page: markdownRemark(id: { eq: $id }, frontmatter: { locale: { eq: $locale }}) {
-    html
+query SeriesList {
+  allMarkdownRemark(filter: {fields: {contentType: {regex: "/series//"}}}) {
+    edges {
+      node {
+        frontmatter {
+          episodes {
+            host
+            language
+            youtubeURL {
+              viewCount
+              url
+              title
+              tags
+              mediaType
+              imageURL
+              id
+              description
+            }
+            targetGroup
+          }
+          category
+          description
+          host
+          publishDate
+          title
+          coverImage
+        }
+      }
+    }
   }
 }
 `

@@ -1,0 +1,157 @@
+.Series {
+  margin-left: 68px;
+  margin-right: 68px;
+}
+
+.SeriesContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.SerieCard {
+  background-size: cover !important;
+  height: 300px;
+  width: 560px;
+  margin-bottom: 25px;
+  margin-right: 25px;
+  position: relative;
+  border: 0;
+}
+
+.paravan {
+  background-color: rgba(0, 0, 0, 0.6);
+  background-size: cover;
+  height: 300px;
+  width: 560px;
+  border: 0;
+  margin-bottom: 25px;
+  margin-right: 25px;
+  left: 0;
+  top: 0;
+  position: absolute;
+  &:hover {
+    background-color: transparent;
+    cursor: pointer;
+  }
+}
+
+.SpanContainer {
+  position: absolute;
+  bottom: 24px;
+  left: 43px;
+  width: 261px;
+  display: flex;
+  flex-direction: column;
+}
+
+.SerieCardTitle {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 38px;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-align: left;
+}
+
+.SerieCardHost {
+  line-height: 38px;
+  color: #ffffff;
+  text-align: left;
+}
+
+.SerieCardInformation {
+  width: 100%;
+  background: #f3f3f3;
+}
+
+.InformationTitle {
+  margin-top: 35px;
+  margin-left: 68px;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 38px;
+}
+
+.InformationHost {
+  font-size: 18px;
+  margin-left: 68px;
+}
+
+.InformationDesc {
+  margin-top: 25px;
+  margin-left: 70px;
+}
+
+.Episodes {
+  display: flex;
+  margin-left: 68px;
+  margin-top: 30px;
+}
+
+.EpisodesTitle {
+  margin-right: 15px;
+  color: #3d3d3d;
+  font-weight: bold;
+  line-height: 25px;
+}
+
+.EpisodesAll {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  color: #34b5cf;
+  border: 0;
+  background: none;
+  cursor: pointer;
+}
+
+.Episode {
+  margin-left: 68px;
+  margin-top: 15px;
+}
+
+.EpisodeVideo {
+  width: 357px;
+  height: 200px;
+}
+
+.subminititle {
+  font-size: 14px;
+  line-height: 25px;
+  text-transform: capitalize;
+  color: #3d3d3d;
+}
+
+.minicontainer {
+  display: flex;
+  width: 356px;
+  margin-top: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 53px;
+}
+
+.playParavan {
+  background: url("/images/Groupplay.png");
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.details {
+  font-size: 12px;
+}
+
+.list {
+  list-style-type: disc;
+}
+
+.InformationEpisodes {
+  display: flex;
+  overflow-y: auto;
+}

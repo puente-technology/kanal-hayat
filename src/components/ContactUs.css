@@ -41,7 +41,7 @@
 }
 
 .ContactUsHeaderTextStyle {
-  font-family: Nunito;
+  
   font-style: normal;
   font-weight: bold;
   font-size: 21px;
@@ -52,7 +52,7 @@
   display: flex
 }
 .ContactUsInfoTextStyleBold {
-  font-family: Nunito;
+  
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
@@ -61,7 +61,7 @@
 }
 
 .ContactUsInfoTextStyle {
-  font-family: Nunito;
+  
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
@@ -96,7 +96,7 @@
 }
 
 .messageLabel {
-  font-family: Nunito;
+  
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
@@ -106,7 +106,7 @@
 }
 
 ::placeholder {
-  font-family: Nunito;
+  
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
