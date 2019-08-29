@@ -41,7 +41,7 @@ class SeriesList extends Component {
         </div>
         <div className="SeriesContainer">
           {
-            Object.values(data).map(({ node: { frontmatter } }, i) => {
+            data && Object.values(data).map(({ node: { frontmatter } }, i) => {
               if ((expandedDiv === frontmatter.title && (i % 2) === 1) || previous) {
                 return (
                   <React.Fragment>
