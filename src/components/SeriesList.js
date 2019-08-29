@@ -45,7 +45,11 @@ class SeriesList extends Component {
               if ((expandedDiv === frontmatter.title && (i % 2) === 1) || previous) {
                 return (
                   <React.Fragment>
-                    <SerieCard key={i} frontmatter={frontmatter} handleClick={this.handleCardClick} />
+                    <SerieCard
+                      key={i}
+                      frontmatter={frontmatter}
+                      handleClick={this.handleCardClick}
+                    />
                     <SerieInfo frontmatter={previous || frontmatter} />
                   </React.Fragment>
                 )

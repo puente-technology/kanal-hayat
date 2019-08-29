@@ -1,6 +1,5 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import PropTypes from 'prop-types'
 import LayoutComp from '../components/LayoutComp'
 import SeriesList from '../components/SeriesList';
 
@@ -12,16 +11,11 @@ import SeriesList from '../components/SeriesList';
 // Export Default HomePage for front-end
 const SeriesListPage = (data) => {
   const { edges } = data.data.allMarkdownRemark
-  console.log({ edges });
   return (
     <LayoutComp>
       <SeriesList data={edges} />
     </LayoutComp>
   )
-}
-
-SeriesListPage.propTypes = {
-  data: PropTypes.any,
 }
 
 export default SeriesListPage;

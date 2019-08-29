@@ -6,7 +6,6 @@ import './SeriesList.scss'
 
 class SerieCard extends Component {
   handleCardClick = (e) => {
-    console.log({aaa: e.target});
     const { handleClick } = this.props;
     handleClick(e.target.value)
   }
