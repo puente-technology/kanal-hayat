@@ -3,7 +3,7 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import PropTypes from 'prop-types'
 import LayoutComp from '../components/LayoutComp'
-import SeriesList from '../components/SeriesList';
+import SeriesPage from '../components/SeriesPage';
 
 // Export Template for use in CMS preview
 // export const AboutUsPageTemplate = data => (
@@ -13,7 +13,7 @@ import SeriesList from '../components/SeriesList';
 // Export Default HomePage for front-end
 const SeriesPageTemplate = ({ data: { page } }) => (
   <LayoutComp>
-    <SeriesList {...page} {...page.frontmatter} />
+    <SeriesPage {...page} {...page.frontmatter} />
   </LayoutComp>
 )
 
