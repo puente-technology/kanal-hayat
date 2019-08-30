@@ -67,7 +67,6 @@ export default (onClick) => {
       allMarkdownRemark(filter: {fields: {contentType: {regex: "/categories/"}}}) {
         nodes {
           frontmatter {
-            category
             parentCategory
           }
         }

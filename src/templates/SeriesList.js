@@ -47,7 +47,6 @@ query SeriesList {
             }
             targetGroup
           }
-          category
           description
           host
           publishDate
