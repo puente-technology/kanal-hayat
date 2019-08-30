@@ -407,12 +407,13 @@ collections:
       - { label: Sunucu, name: host, widget: string }
       - { label: Açıklama, name: description, widget: text }
       - label: "Kategori"
-        name: "category"
+        name: "selectedCategories"
         widget: "relation"
         collection: "seriesCategories"
         searchFields: ["category"]
         valueField: "category"
         displayFields: ["category"]
+        required: false,
         multiple: true
       - label: 'Bölümler'
         name: 'episodes'

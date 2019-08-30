@@ -47,6 +47,7 @@ query SeriesList {
             }
             targetGroup
           }
+          selectedCategories
           description
           host
           publishDate
