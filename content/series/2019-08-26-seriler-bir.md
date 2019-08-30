@@ -7,6 +7,7 @@ host: Jose Meyer
 description: Test uygulama bir iki
 selectedCategories:
   - Filmler
+  - Belgesel
 episodes:
   - host: Jose Meyer
     language: English
@@ -114,24 +115,11 @@ episodes:
       imageURL: 'https://img.youtube.com/vi/4BBnYPuM2s0/maxresdefault.jpg'
       mediaType: video
       publishedAt: '2018-10-18T23:00:00.000Z'
-      tags:
-        - Flite Test
-        - remote controlled
-        - unmanned
-        - drone
-        - rc
-        - uav
-        - rc hobby
-        - rc shop
-        - a-10
-        - warthog
-        - tank
-        - airsoft
-        - battle
-        - tracer
-        - bb
+      tags: >-
+        Flite Test,remote controlled,unmanned,drone,rc,uav,rc hobby,rc
+        shop,a-10,warthog,tank,airsoft,battle,tracer,bb
       title: A-10 Warthog  VS  Tank - Epic Airsoft Battle
       url: 'https://www.youtube.com/watch?v=4BBnYPuM2s0'
-      viewCount: '8252736'
+      viewCount: 'https://www.youtube.com/watch?v=4BBnYPuM2s0'
 ---
 
