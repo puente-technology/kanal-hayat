@@ -11,9 +11,6 @@ import { ContactUsTemplate } from '../templates/ContactUs'
 import EventsPage, { EventsTemplate } from '../templates/EventsPage';
 
 
-console.log("aaaaaaaaaaaaaaaaaaaaaaaaaa");
-
- console.log({youtubeControl});
 CMS.registerWidget("youtube", youtubeControl, youtubePreview);
 
 CMS.registerPreviewTemplate('home-page', ({ entry }) => {
