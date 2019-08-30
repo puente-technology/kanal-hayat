@@ -13,6 +13,7 @@ episodes:
     language: English
     targetGroup: 4+
     youtubeURL:
+      title: A-10
       description: >-
         Watch how we build the first A-10: https://youtu.be/xiqeote2P2M
 
