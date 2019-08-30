@@ -8,12 +8,12 @@ description: Test uygulama bir iki
 selectedCategories:
   - Filmler
   - Belgesel
+  - Rehberlik
 episodes:
   - host: Jose Meyer
     language: English
     targetGroup: 4+
     youtubeURL:
-      title: A-10
       description: >-
         Watch how we build the first A-10: https://youtu.be/xiqeote2P2M
 
@@ -116,7 +116,8 @@ episodes:
       imageURL: 'https://img.youtube.com/vi/4BBnYPuM2s0/maxresdefault.jpg'
       mediaType: video
       publishedAt: '2018-10-18T23:00:00.000Z'
-      tags: x, y, z
+      tags: 'x, y, z'
+      title: A-10
       url: 'https://www.youtube.com/watch?v=4BBnYPuM2s0'
       viewCount: 'https://www.youtube.com/watch?v=4BBnYPuM2s0'
 ---
