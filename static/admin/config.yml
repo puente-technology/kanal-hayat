@@ -378,13 +378,12 @@ collections:
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: Kategori Adı, name: category, widget: string }
-      - { label: Değer, name: value, widget: string, required: false }
-      - label: "Alt Kategori"
-        name: "subCategory"
+      - label: "Üst Kategori"
+        name: "parentCategory"
         widget: "relation"
         collection: "seriesCategories"
         searchFields: ["category"]
-        valueField: "value"
+        valueField: "category"
         displayFields: ["category"]
         required: false
 
@@ -412,9 +411,8 @@ collections:
         widget: "relation"
         collection: "seriesCategories"
         searchFields: ["category"]
-        valueField: "value"
+        valueField: "category"
         displayFields: ["category"]
-        required: false
         multiple: true
       - label: 'Bölümler'
         name: 'episodes'

@@ -1,12 +1,14 @@
 import React, { Component } from 'react';
-import PropTypes from 'prop-types';
+import PropTypes, { array } from 'prop-types';
 import './SeriesList.scss'
 import SerieCard from './SerieCard';
 import SerieInfo from './SerieInfo';
+import Categories from './Categories';
 
 class SeriesList extends Component {
   state = {
     expandedDiv: '',
+    selectedCategories: [],
   }
 
   handleCardClick = (e) => {
@@ -14,30 +16,45 @@ class SeriesList extends Component {
       expandedDiv: e,
     })
   }
-  // console.log({ data });
-  // const tempArray = Object.values(data);
-  // const resArr;
-  // for (let index = 0; index < tempArray.length; index += 2) {
-  //   if
-  //   const element = tempArray[index];
-  //   const element2 = tempArray[index + 1];
-  //   const template = (
-  //     <div className="row">
-  //       <SerieCard key={i} frontmatter={frontmatter} />
-  //       {element2 && <SerieCard key={i} frontmatter={frontmatter} />}
-  //     </div>
-  //   )
-  //   resArr.push(template)
-  // }
+
+  handleCategoryClick = (newSelectedCats) => {
+    const { selectedCategories } = this.state
+    const tempArr = [];
+    console.log({ newSelectedCats, selectedCategories });
+    if (selectedCategories.length === 0) {
+      tempArr.push(...newSelectedCats);
+    } else {
+      newSelectedCats.forEach((c) => {
+        if (selectedCategories.includes(c)) {
+          tempArr.pop(c);
+        } else {
+          tempArr.push(c);
+        }
+      })
+    }
+    this.setState({
+      selectedCategories: [...selectedCategories, ...tempArr],
+    });
+  }
 
   render() {
-    const { expandedDiv } = this.state;
-    const { data } = this.props;
+    const { expandedDiv, selectedCategories } = this.state;
+    let { data } = this.props;
     let previous = null;
+    console.log({ yyy: data });
+    data = Object.values(data).filter(x => x !== 'Seriler')
+    if (selectedCategories.length > 0) {
+      data = data.filter(d => selectedCategories.includes(d.node.frontmatter.category))
+    }
     return (
       <div className="Series">
         <div className="SeriesListCategories">
-          Categories
+          <Categories onClick={this.handleCategoryClick} />
+        </div>
+        <div className="SeriesListSortAndFilter">
+          <button type="button" className="SortButton">İsim</button>
+          <button type="button" className="SortButton">Tarih</button>
+          <input className="Nav--Search filter" type="text" />
         </div>
         <div className="SeriesContainer">
           {

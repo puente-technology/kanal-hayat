@@ -10,7 +10,13 @@ import SeriesList from '../components/SeriesList';
 
 // Export Default HomePage for front-end
 const SeriesListPage = (data) => {
-  const { edges } = data.data.allMarkdownRemark
+  let { edges } = data.data.allMarkdownRemark
+
+  edges = {
+    // title: edges[0].node && edges[0].node.frontmatter.title,
+    ...edges.filter((x, i) => i !== 0),
+    title: 'Seriler',
+  }
   return (
     <LayoutComp>
       <SeriesList data={edges} />
@@ -22,7 +28,7 @@ export default SeriesListPage;
 
 export const pageQuery = graphql`
 query SeriesList {
-  allMarkdownRemark(filter: {fields: {contentType: {regex: "/series//"}}}) {
+  allMarkdownRemark(filter: {fields: {contentType: {regex: "/series/|/series-page/"}}}) {
     edges {
       node {
         frontmatter {

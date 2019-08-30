@@ -27,6 +27,9 @@ export const pageQuery = graphql`
 query SeriesPageTemplate($id: String!, $locale: String) {
   page: markdownRemark(id: { eq: $id }, frontmatter: { locale: { eq: $locale }}) {
     html
+    frontmatter {
+      title
+    }
   }
 }
 `
