@@ -116,10 +116,7 @@ episodes:
       imageURL: 'https://img.youtube.com/vi/4BBnYPuM2s0/maxresdefault.jpg'
       mediaType: video
       publishedAt: '2018-10-18T23:00:00.000Z'
-      tags:
-        - dude perfect
-        - dude perfect stereotypes
-        - dude perfect water bottle flip
+      tags: x, y, z
       url: 'https://www.youtube.com/watch?v=4BBnYPuM2s0'
       viewCount: 'https://www.youtube.com/watch?v=4BBnYPuM2s0'
 ---
