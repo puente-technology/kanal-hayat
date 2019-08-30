@@ -413,7 +413,7 @@ collections:
         searchFields: ["category"]
         valueField: "category"
         displayFields: ["category"]
-        required: false,
+        required: false
         multiple: true
       - label: 'Bölümler'
         name: 'episodes'
@@ -422,6 +422,7 @@ collections:
         fields:
           - { name: youtubeURL, label: Youtube URL, widget: youtube, extraInfo: true, APIkey: "AIzaSyAln9Zizqc3_r8zozq4OcmqwwsUOXRJtuE" }
           - { label: Sunucu, name: host, widget: string }
+          - { label: Anahtar Kelimeler, name: tags, widget: string }
           - { label: Hedef Kitle, name: targetGroup, widget: string }
           - { label: Dil, name: language, widget: string }
           
