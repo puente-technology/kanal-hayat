@@ -4,7 +4,10 @@ title: Seriler Bir
 publishDate: 'Hafta içi her gün 08:00-10:00'
 coverImage: /images/uploads/bigmodulejoycemayer.png
 host: Jose Meyer
-description: Test uygulama bir iki
+description: >-
+  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+  doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
+  veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 targetGroup: Herkes
 language: '1'
 selectedCategories:
@@ -110,21 +113,6 @@ episodes:
       viewCount: '12823'
   - host: Joyce Meyer
     season: '2'
-    youtubeURL:
-      description: Joyce Meyer
-      id: 3qZ93W9xMM0
-      imageURL: 'https://i.ytimg.com/vi/3qZ93W9xMM0/default.jpg'
-      mediaType: video
-      publishedAt: '2014-08-04T10:02:34.000Z'
-      tags: >-
-        Joyce Meyer (Organization
-        Leader),moods,spirituality,God,Bible,Holy,Truth,inspiration,motivation,success,self-discovery,joyce
-        meyer,joyce meyer sermons,joyce meyer ministries,bible,everyday
-        living,joyce meyer 2016,joyce meyer exposed,spending time with
-        god,marriage,discipline,devil,Jesus,answer,forgiveness,Lord,satan,love,faith,religion,scriptures,pastor,sermon,life,teachings,Joyce
-        Meyer,joyce,gospel
-      title: Joyce Meyer Defeating Bad Moods
-      url: 'https://www.youtube.com/watch?v=3qZ93W9xMM0'
-      viewCount: '2049343'
+    youtubeURL: 'https://www.youtube.com/watch?v=3qZ93W9xMM0'
 ---
 
