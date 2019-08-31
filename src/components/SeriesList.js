@@ -33,8 +33,18 @@ class SeriesList extends Component {
     })
   }
 
+  handleSortByDateClick = () => {
+    this.sortByDate()
+  }
+
   handleSortByClick = () => {
-    this.sortX()
+    this.sortByName()
+  }
+
+  sortByName = () => {
+    const { data } = this.props;
+    const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => a - b)
+    this.setState({ listSeries: res })
   }
 
   handleTextChange = (e) => {
@@ -50,7 +60,8 @@ class SeriesList extends Component {
   }
 
   handleCategoryClick = (newSelectedCats) => {
-    const { selectedCategories } = this.state
+    let { selectedCategories } = this.state
+    console.log({ newSelectedCats, selectedCategories });
     const tempArr = [];
     if (newSelectedCats) {
       if (selectedCategories.length === 0) {
@@ -58,7 +69,7 @@ class SeriesList extends Component {
       } else {
         newSelectedCats.forEach((c) => {
           if (selectedCategories.includes(c)) {
-            selectedCategories.pop(c);
+            selectedCategories = selectedCategories.filter(x => x !== c)
             tempArr.pop(c);
           } else {
             tempArr.push(c);
@@ -69,6 +80,7 @@ class SeriesList extends Component {
     const { data } = this.props;
     let listSeries = this.dataIntoArray(data)
     const temp = [...selectedCategories, ...tempArr]
+    console.log({temp});
     if (temp.length > 0) {
       listSeries = listSeries.filter(d => d.node.frontmatter.selectedCategories
         .some(s => temp.includes(s)))
@@ -80,7 +92,7 @@ class SeriesList extends Component {
     });
   }
 
-  sortX = () => {
+  sortByDate = () => {
     const { data } = this.props;
     const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => {
       const aepisodes = a.node.frontmatter.episodes
@@ -109,7 +121,19 @@ class SeriesList extends Component {
         </div>
         <div className="SeriesListSortAndFilter">
           <button value="title" onClick={this.handleSortByClick} type="button" className="SortButton">İsim</button>
-          <button value="date" type="button" className="SortButton">Tarih</button>
+          <button value="date" onClick={this.handleSortByDateClick} type="button" className="SortButton">Tarih</button>
+          <select className="SortButton">
+            <option value="-99">Dil</option>
+            <option value="0">Türkçe</option>
+            <option value="1">English</option>
+          </select>
+          <select className="SortButton">
+            <option>Hedef Kitle</option>
+            <option>Herkes</option>
+            <option>Çocuk</option>
+            <option>Genç</option>
+            <option>Yetişkin</option>
+          </select>
           <input onChange={this.handleTextChange} className="Nav--Search filter" type="text" />
         </div>
         <div className="SeriesContainer">

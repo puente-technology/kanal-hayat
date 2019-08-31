@@ -20,9 +20,24 @@ class Categories extends Component {
     const { onClick } = this.props;
     if (kids && kids.length > 0) {
       const result = kids.map(r => r.frontmatter.category)
+      result.push(e.target.value)
       onClick.onClick(result)
       return;
     }
+    onClick.onClick([e.target.value])
+  }
+
+  handleSubCategoryClick = (e) => {
+    // const kids = this.listCategories.filter(i => i.frontmatter.parentCategory === e.target.value)
+    // this.setState({
+    //   listSubCategories: kids,
+    // })
+    const { onClick } = this.props;
+    // if (kids && kids.length > 0) {
+    //   const result = kids.map(r => r.frontmatter.category)
+    //   onClick.onClick(result)
+    //   return;
+    // }
     onClick.onClick([e.target.value])
   }
 
@@ -51,7 +66,14 @@ class Categories extends Component {
         <div className="subcateg">
           {
             listSubCategories.map(category => (
-              <button onClick={onClick.onClick} value={category.frontmatter.category} className="category" type="button">{category.frontmatter.category}</button>
+              <button
+                onClick={this.handleSubCategoryClick}
+                value={category.frontmatter.category}
+                className={`category ${onClick.selectedCategories.includes(category.frontmatter.category) ? 'active' : ''}`}
+                type="button"
+              >
+                {category.frontmatter.category}
+              </button>
             ))
           }
         </div>
