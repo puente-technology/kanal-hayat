@@ -5,120 +5,29 @@ publishDate: 'Hafta içi her gün 08:00-10:00'
 coverImage: /images/uploads/bigmodulejoycemayer.png
 host: Jose Meyer
 description: Test uygulama bir iki
+targetGroup: Herkes
+language: '1'
 selectedCategories:
   - Filmler
   - Belgesel
   - Rehberlik
 episodes:
   - host: Jose Meyer
-    language: English
-    targetGroup: 4+
     youtubeURL:
       description: >-
-        Watch how we build the first A-10: https://youtu.be/xiqeote2P2M
-
-        Watch how we built the Tank: https://youtu.be/gyTL4iI65-Y
-
-
-        Flite Test YT Membership: https://goo.gl/LuoNtK
-
-
-        Get notified when the A-10 plans/kit are available:
-        http://bit.ly/FliteTestNewsletter 
-
-
-        Check out Airsoft gear at EVIKE: http://bit.ly/2J2TS6a
-
-        Get a P90: http://bit.ly/HerstalP90
-
-        Get a Tracer Unit: http://bit.ly/XT301Tracer
-
-        Get Glow-in-the-Dark BB's: http://bit.ly/GlowBBs
-
-
-        Giant Razor Blade: http://bit.ly/GoldenEagle13E
-
-
-        Watch our most recent videos: http://bit.ly/newestvids
-
-        Click here to subscribe: http://bit.ly/FliteTestSub
-
-
-        Check out our awesome products: https://www.flitetest.com/Store
-
-
-        Subscribe to our Podcast on iTunes: http://www.flitetest.com/itunes
-
-
-        Thanks to our sponsors for helping making these videos possible. By
-        supporting these companies, you support us:
-
-
-        RC products 
-
-        Horizon Hobby: http://www.horizonhobby.com/
-
-
-        Transmitters
-
-        Spektrum: http://www.spektrumrc.com/
-
-
-        Video gear
-
-        B&H: https://www.bhphotovideo.com/?BI=21129&KBID=20155&DFF=d10-v1-t8-x4
-
-
-        Awesome Gaming/Office Chairs! 
-
-        http://bit.ly/2vrlWNo
-
-
-        New to the hobby? Get started here: https://www.flitetest.com/beginner
-
-
-        Visit our site for more content and to join our community!
-        https://www.flitetest.com/
-
-
-        Follow us on Social Media!!!!!!
-
-        Instagram: @flitetest
-
-        Twitter: @flitetest
-
-        Periscope: @flitetest
-
-        Facebook: https://facebook.com/flitetest
-
-
-        Follow the team on the Instagrams
-
-        @flitetestjb
-
-        @joshuadavidscott
-
-        @zvada
-
-        @austinfurey
-
-        @jeremyandrewdavis
-
-        @tbonedrones
-
-        @andrewturnsdown
-
-        @sidewinderfpv
-
-
-        Music by: David Cutter Music - http://www.davidcuttermusic.co.uk
-      id: 4BBnYPuM2s0
-      imageURL: 'https://img.youtube.com/vi/4BBnYPuM2s0/maxresdefault.jpg'
+        It's time to start being content with who you are and stop comparing
+        yourself to other people. Your value does not come from your status, how
+        much money you have, or what you do for a living.  
+      id: L9r93TmmjTM
+      imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/default.jpg'
       mediaType: video
-      publishedAt: '2018-10-18T23:00:00.000Z'
-      tags: 'x, y, z'
-      title: A-10
-      url: 'https://www.youtube.com/watch?v=4BBnYPuM2s0'
-      viewCount: '123123'
+      publishedAt: '2019-08-03T13:00:03.000Z'
+      tags: >-
+        Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
+        Meyers,camparison,better relationships,relationships frustrations,how to
+        be patient with others
+      title: Stay In Your Own Lane | Joyce Meyer (2019)
+      url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
+      viewCount: '241709'
 ---
 
