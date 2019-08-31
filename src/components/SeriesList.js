@@ -69,12 +69,10 @@ class SeriesList extends Component {
     const { data } = this.props;
     let listSeries = this.dataIntoArray(data)
     const temp = [...selectedCategories, ...tempArr]
-    console.log({temp, listSeries});
     if (temp.length > 0) {
       listSeries = listSeries.filter(d => d.node.frontmatter.selectedCategories
         .some(s => temp.includes(s)))
     }
-    console.log({aaaaaaaa: listSeries});
 
     this.setState({
       selectedCategories: temp,
