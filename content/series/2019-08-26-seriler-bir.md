@@ -5,118 +5,126 @@ publishDate: 'Hafta içi her gün 08:00-10:00'
 coverImage: /images/uploads/bigmodulejoycemayer.png
 host: Jose Meyer
 description: Test uygulama bir iki
+targetGroup: Herkes
+language: '1'
 selectedCategories:
   - Filmler
   - Belgesel
   - Rehberlik
 episodes:
   - host: Jose Meyer
+    season: '1'
     youtubeURL:
       description: >-
-        Watch how we build the first A-10: https://youtu.be/xiqeote2P2M
-
-        Watch how we built the Tank: https://youtu.be/gyTL4iI65-Y
-
-
-        Flite Test YT Membership: https://goo.gl/LuoNtK
-
-
-        Get notified when the A-10 plans/kit are available:
-        http://bit.ly/FliteTestNewsletter 
-
-
-        Check out Airsoft gear at EVIKE: http://bit.ly/2J2TS6a
-
-        Get a P90: http://bit.ly/HerstalP90
-
-        Get a Tracer Unit: http://bit.ly/XT301Tracer
-
-        Get Glow-in-the-Dark BB's: http://bit.ly/GlowBBs
-
-
-        Giant Razor Blade: http://bit.ly/GoldenEagle13E
-
-
-        Watch our most recent videos: http://bit.ly/newestvids
-
-        Click here to subscribe: http://bit.ly/FliteTestSub
-
-
-        Check out our awesome products: https://www.flitetest.com/Store
-
-
-        Subscribe to our Podcast on iTunes: http://www.flitetest.com/itunes
-
-
-        Thanks to our sponsors for helping making these videos possible. By
-        supporting these companies, you support us:
-
-
-        RC products 
-
-        Horizon Hobby: http://www.horizonhobby.com/
-
-
-        Transmitters
-
-        Spektrum: http://www.spektrumrc.com/
-
-
-        Video gear
-
-        B&H: https://www.bhphotovideo.com/?BI=21129&KBID=20155&DFF=d10-v1-t8-x4
-
-
-        Awesome Gaming/Office Chairs! 
-
-        http://bit.ly/2vrlWNo
-
-
-        New to the hobby? Get started here: https://www.flitetest.com/beginner
-
-
-        Visit our site for more content and to join our community!
-        https://www.flitetest.com/
-
-
-        Follow us on Social Media!!!!!!
-
-        Instagram: @flitetest
-
-        Twitter: @flitetest
-
-        Periscope: @flitetest
-
-        Facebook: https://facebook.com/flitetest
-
-
-        Follow the team on the Instagrams
-
-        @flitetestjb
-
-        @joshuadavidscott
-
-        @zvada
-
-        @austinfurey
-
-        @jeremyandrewdavis
-
-        @tbonedrones
-
-        @andrewturnsdown
-
-        @sidewinderfpv
-
-
-        Music by: David Cutter Music - http://www.davidcuttermusic.co.uk
-      id: 4BBnYPuM2s0
-      imageURL: 'https://img.youtube.com/vi/4BBnYPuM2s0/maxresdefault.jpg'
+        It's time to start being content with who you are and stop comparing
+        yourself to other people. Your value does not come from your status, how
+        much money you have, or what you do for a living.  
+      id: L9r93TmmjTM
+      imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/default.jpg'
       mediaType: video
-      publishedAt: '2018-10-18T23:00:00.000Z'
-      tags: 'x, y, z'
-      title: A-10
-      url: 'https://www.youtube.com/watch?v=4BBnYPuM2s0'
-      viewCount: '123123'
+      publishedAt: '2019-08-03T13:00:03.000Z'
+      tags: >-
+        Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
+        Meyers,camparison,better relationships,relationships frustrations,how to
+        be patient with others
+      title: Stay In Your Own Lane | Joyce Meyer (2019)
+      url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
+      viewCount: '241709'
+  - host: Joyce Meyer
+    season: '1'
+    youtubeURL:
+      description: Joyce Meyer Blessed Sermon Stress Management
+      id: OMNHqOiLQ8s
+      imageURL: 'https://i.ytimg.com/vi/OMNHqOiLQ8s/default.jpg'
+      mediaType: video
+      publishedAt: '2017-05-14T19:00:02.000Z'
+      tags: >-
+        Joyce
+        Meyer,JoyceMeyerMinistries,Pastor,New,Sermons,2017,Bishop,Bible,Preacher,Preaching,Ministry,Stress
+        Management
+      title: Joyce Meyer - Stress Management Sermon 2017
+      url: 'https://www.youtube.com/watch?v=OMNHqOiLQ8s'
+      viewCount: '942483'
+  - host: Joyce Meyer
+    season: '1'
+    youtubeURL:
+      description: Joyce Meyer Blessed Sermon Prayers That Get Answered
+      id: p7nHTUyGiuk
+      imageURL: 'https://i.ytimg.com/vi/p7nHTUyGiuk/default.jpg'
+      mediaType: video
+      publishedAt: '2017-05-16T10:00:06.000Z'
+      tags: >-
+        Joyce
+        Meyer,JoyceMeyerMinistries,Pastor,New,Sermons,2017,Bishop,Bible,Preacher,Preaching,Ministry,Prayers
+        That Get Answered
+      title: Joyce Meyer - Prayers That Get Answered Sermon 2017
+      url: 'https://www.youtube.com/watch?v=p7nHTUyGiuk'
+      viewCount: '1525325'
+  - host: Joyce Meyer
+    season: '1'
+    youtubeURL:
+      description: >-
+        Do you need rest? Watch Joyce talk about Psalm 23 and how you are to
+        enter in to the rest of God.
+
+        – – – – – – –
+
+        Follow Joyce:
+
+
+        WEBSITE: https://joycemeyer.org 
+
+        SUBSCRIBE: https://youtube.com/joycemeyerministries
+
+        FACEBOOK: https://facebook.com/JoyceMeyerMinistries/ 
+
+        INSTAGRAM: https://instagram.com/JoyceMeyer/ 
+
+        TWITTER: https://twitter.com/JoyceMeyer/  
+
+        – – – – – – –
+
+        Joyce Meyer, one of the world’s leading practical Bible teachers and New
+        York Times best-selling author, shares encouragement and advice to help
+        us enjoy our daily lives.
+
+
+        With a heart to share Christ and love people, Joyce’s messages help
+        people in all walks of life to grow in their faith, learn to study the
+        Bible, find healing from the wounds of life, get answers to life’s
+        questions and encounter the love of God in a powerful way.
+      id: 4UuYSQ9G-lk
+      imageURL: 'https://i.ytimg.com/vi/4UuYSQ9G-lk/default.jpg'
+      mediaType: video
+      publishedAt: '2019-08-09T10:59:46.000Z'
+      tags: >-
+        joyce meyer bible study,joyce meyer,joyce meyer ministries,joyce meyer
+        youtube,joyce meyer sermons,joyce meyer 2019,joyce meyers 2019,joyce
+        meyer teaching,joyce meyer preaching,joycemeyerministries,enter the rest
+        of god,how to enter the rest of god,psalm 23,joyce meyer psalm 23,joyce
+        meyer rest of god,entering god's rest sermon,he makes me lie down in
+        green pastures,psalm 23 part 2 joyce meyer,i need rest,searching for
+        rest,enter god's rest,god's rest
+      title: Enter the Rest of God | Joyce Meyer
+      url: 'https://www.youtube.com/watch?v=4UuYSQ9G-lk'
+      viewCount: '12823'
+  - host: Joyce Meyer
+    season: '2'
+    youtubeURL:
+      description: Joyce Meyer
+      id: 3qZ93W9xMM0
+      imageURL: 'https://i.ytimg.com/vi/3qZ93W9xMM0/default.jpg'
+      mediaType: video
+      publishedAt: '2014-08-04T10:02:34.000Z'
+      tags: >-
+        Joyce Meyer (Organization
+        Leader),moods,spirituality,God,Bible,Holy,Truth,inspiration,motivation,success,self-discovery,joyce
+        meyer,joyce meyer sermons,joyce meyer ministries,bible,everyday
+        living,joyce meyer 2016,joyce meyer exposed,spending time with
+        god,marriage,discipline,devil,Jesus,answer,forgiveness,Lord,satan,love,faith,religion,scriptures,pastor,sermon,life,teachings,Joyce
+        Meyer,joyce,gospel
+      title: Joyce Meyer Defeating Bad Moods
+      url: 'https://www.youtube.com/watch?v=3qZ93W9xMM0'
+      viewCount: '2049343'
 ---
 
