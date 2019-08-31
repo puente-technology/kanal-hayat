@@ -127,11 +127,11 @@ class SeriesList extends Component {
                   <React.Fragment>
                     <SerieCard
                       key={i}
-                      slug={fields.slug}
                       frontmatter={frontmatter}
                       handleClick={this.handleCardClick}
                     />
                     <SerieInfo
+                      slug={fields.slug}
                       handleCardCloseClick={this.handleCardCloseClick}
                       frontmatter={previous || frontmatter}
                     />

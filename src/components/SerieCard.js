@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 
 import './SeriesList.scss'
-import { Link } from 'gatsby';
 
 
 class SerieCard extends Component {
@@ -18,12 +17,12 @@ class SerieCard extends Component {
 
 
   render() {
-    const { frontmatter, slug } = this.props
+    const { frontmatter } = this.props
     const { isClicked } = this.state
     return (
       <React.Fragment>
-        <Link
-          to={slug}
+        <button
+          type="button"
           style={{
             background: `url(${frontmatter.coverImage})`,
           }}
@@ -44,7 +43,7 @@ class SerieCard extends Component {
               {frontmatter.host}
             </span>
           </div>
-        </Link>
+        </button>
       </React.Fragment>
     )
   }
@@ -53,7 +52,6 @@ class SerieCard extends Component {
 SerieCard.propTypes = {
   frontmatter: PropTypes.any,
   handleClick: PropTypes.func,
-  slug: PropTypes.any,
 }
 
 

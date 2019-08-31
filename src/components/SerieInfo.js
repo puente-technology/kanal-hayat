@@ -1,8 +1,9 @@
 import React from 'react'
+import { Link } from 'gatsby';
 import { nFormatter } from '../utils/utils';
 
 const SerieInfo = (data) => {
-  const { frontmatter, handleCardCloseClick } = data;
+  const { frontmatter, handleCardCloseClick, slug } = data;
   return (
     <div className="SerieCardInformation">
       <button onClick={handleCardCloseClick} type="button" className="Close" />
@@ -17,7 +18,12 @@ const SerieInfo = (data) => {
       </div>
       <div className="Episodes">
         <span className="EpisodesTitle">Bölümler</span>
-        <button className="EpisodesAll" type="button">Tümünü Gör</button>
+        <Link
+          to={slug}
+          className="EpisodesAll"
+        >
+          Tümünü Gör
+        </Link>
       </div>
       <div className="InformationEpisodes">
         {
