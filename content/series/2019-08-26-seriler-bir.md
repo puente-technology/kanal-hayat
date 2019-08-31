@@ -113,6 +113,21 @@ episodes:
       viewCount: '12823'
   - host: Joyce Meyer
     season: '2'
-    youtubeURL: 'https://www.youtube.com/watch?v=3qZ93W9xMM0'
+    youtubeURL:
+      description: Defeating
+      id: 3qZ93W9xMM0
+      imageURL: 'https://i.ytimg.com/vi/3qZ93W9xMM0/default.jpg'
+      mediaType: video
+      publishedAt: '2014-08-04T10:02:34.000Z'
+      tags: >-
+        Joyce Meyer (Organization
+        Leader),moods,spirituality,God,Bible,Holy,Truth,inspiration,motivation,success,self-discovery,joyce
+        meyer,joyce meyer sermons,joyce meyer ministries,bible,everyday
+        living,joyce meyer 2016,joyce meyer exposed,spending time with
+        god,marriage,discipline,devil,Jesus,answer,forgiveness,Lord,satan,love,faith,religion,scriptures,pastor,sermon,life,teachings,Joyce
+        Meyer,joyce,gospel
+      title: Joyce Meyer Defeating Bad Moods
+      url: 'https://www.youtube.com/watch?v=3qZ93W9xMM0'
+      viewCount: '2049467'
 ---
 
