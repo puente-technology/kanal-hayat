@@ -11,8 +11,6 @@ selectedCategories:
   - Rehberlik
 episodes:
   - host: Jose Meyer
-    language: English
-    targetGroup: 4+
     youtubeURL:
       description: >-
         Watch how we build the first A-10: https://youtu.be/xiqeote2P2M

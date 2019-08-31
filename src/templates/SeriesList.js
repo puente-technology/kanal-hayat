@@ -37,7 +37,6 @@ query SeriesList {
         frontmatter {
           episodes {
             host
-            language
             youtubeURL {
               viewCount
               url
@@ -49,8 +48,9 @@ query SeriesList {
               description
               publishedAt
             }
-            targetGroup
           }
+          targetGroup
+          language
           selectedCategories
           description
           host
