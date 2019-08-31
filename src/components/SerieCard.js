@@ -5,14 +5,20 @@ import './SeriesList.scss'
 
 
 class SerieCard extends Component {
+  state = {
+    isClicked: '',
+  }
+
   handleCardClick = (e) => {
-    const { handleClick } = this.props;
+    const { handleClick } = this.props
+    this.setState({ isClicked: '' })
     handleClick(e.target.value)
   }
 
 
   render() {
-    const { frontmatter } = this.props;
+    const { frontmatter } = this.props
+    const { isClicked } = this.state
     return (
       <React.Fragment>
         <button
@@ -21,10 +27,14 @@ class SerieCard extends Component {
             background: `url(${frontmatter.coverImage})`,
           }}
           className="SerieCard"
-          value={frontmatter.title}
-          onClick={this.handleCardClick}
+
         >
-          {/* <div className="paravan" /> */}
+          <button
+            type="button"
+            value={frontmatter.title}
+            onClick={this.handleCardClick}
+            className={`paravan ${isClicked}`}
+          />
           <div className="SpanContainer">
             <span className="SerieCardTitle">
               {frontmatter.title}

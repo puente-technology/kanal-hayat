@@ -9,7 +9,17 @@ class SeriesList extends Component {
   state = {
     expandedDiv: '',
     selectedCategories: [],
+    // sortBy: 'title',
+    listSeries: [],
   }
+
+  componentDidMount() {
+    const { data } = this.props;
+    this.setState({ listSeries: this.dataIntoArray(data) })
+  }
+
+  dataIntoArray = data => (Object.values(data).filter(x => x !== 'Seriler'))
+
 
   handleCardClick = (e) => {
     this.setState({
@@ -17,48 +27,103 @@ class SeriesList extends Component {
     })
   }
 
+  handleCardCloseClick = () => {
+    this.setState({
+      expandedDiv: '',
+    })
+  }
+
+  handleSortByClick = () => {
+    this.sortX()
+  }
+
+  handleTextChange = (e) => {
+    let { listSeries } = this.state;
+    if (e.target.value === '') {
+      const { data } = this.props;
+      listSeries = this.dataIntoArray(data)
+    }
+    const res = listSeries
+      .filter(d => d.node.frontmatter.title.toLowerCase().includes(e.target.value.toLowerCase()))
+
+    this.setState({ listSeries: res, selectedCategories: [] })
+  }
+
   handleCategoryClick = (newSelectedCats) => {
     const { selectedCategories } = this.state
     const tempArr = [];
-    console.log({ newSelectedCats, selectedCategories });
-    if (selectedCategories.length === 0) {
-      tempArr.push(...newSelectedCats);
-    } else {
-      newSelectedCats.forEach((c) => {
-        if (selectedCategories.includes(c)) {
-          tempArr.pop(c);
-        } else {
-          tempArr.push(c);
-        }
-      })
+    if (newSelectedCats) {
+      if (selectedCategories.length === 0) {
+        tempArr.push(...newSelectedCats);
+      } else {
+        newSelectedCats.forEach((c) => {
+          if (selectedCategories.includes(c)) {
+            selectedCategories.pop(c);
+            tempArr.pop(c);
+          } else {
+            tempArr.push(c);
+          }
+        })
+      }
     }
+    const { data } = this.props;
+    let listSeries = this.dataIntoArray(data)
+    const temp = [...selectedCategories, ...tempArr]
+    console.log({temp, listSeries});
+    if (temp.length > 0) {
+      listSeries = listSeries.filter(d => d.node.frontmatter.selectedCategories
+        .some(s => temp.includes(s)))
+    }
+    console.log({aaaaaaaa: listSeries});
+
     this.setState({
-      selectedCategories: [...selectedCategories, ...tempArr],
+      selectedCategories: temp,
+      listSeries,
     });
   }
 
+  sortX = () => {
+    const { data } = this.props;
+    console.log({ hey: data });
+    const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => {
+      const aepisodes = a.node.frontmatter.episodes
+        .map(x => x.youtubeURL.publishedAt).sort((x, y) => (y - x))
+      const bepisodes = b.node.frontmatter.episodes
+        .map(x => x.youtubeURL.publishedAt).sort((x, y) => (y - x))
+      console.log({ aepisodes, bepisodes });
+
+      if (aepisodes[0] > bepisodes[0]) {
+        return -1;
+      }
+      if (aepisodes[0] < bepisodes[0]) {
+        return 1;
+      }
+      return 0;
+    })
+    console.log({ hey2: res });
+
+    // }
+    this.setState({ listSeries: res })
+  }
+
   render() {
-    const { expandedDiv, selectedCategories } = this.state;
-    let { data } = this.props;
+    const { expandedDiv, selectedCategories, listSeries } = this.state;
     let previous = null;
-    console.log({ yyy: data });
-    data = Object.values(data).filter(x => x !== 'Seriler')
-    if (selectedCategories.length > 0) {
-      data = data.filter(d => selectedCategories.includes(d.node.frontmatter.category))
-    }
+    // this.filterByCategory();
+    console.log({ listSeries });
     return (
       <div className="Series">
         <div className="SeriesListCategories">
-          <Categories onClick={this.handleCategoryClick} />
+          <Categories onClick={this.handleCategoryClick} selectedCategories={selectedCategories} />
         </div>
         <div className="SeriesListSortAndFilter">
-          <button type="button" className="SortButton">İsim</button>
-          <button type="button" className="SortButton">Tarih</button>
-          <input className="Nav--Search filter" type="text" />
+          <button value="title" onClick={this.handleSortByClick} type="button" className="SortButton">İsim</button>
+          <button value="date" type="button" className="SortButton">Tarih</button>
+          <input onChange={this.handleTextChange} className="Nav--Search filter" type="text" />
         </div>
         <div className="SeriesContainer">
           {
-            data && Object.values(data).map(({ node: { frontmatter } }, i) => {
+            listSeries.map(({ node: { frontmatter } }, i) => {
               if ((expandedDiv === frontmatter.title && (i % 2) === 1) || previous) {
                 return (
                   <React.Fragment>
@@ -67,7 +132,10 @@ class SeriesList extends Component {
                       frontmatter={frontmatter}
                       handleClick={this.handleCardClick}
                     />
-                    <SerieInfo frontmatter={previous || frontmatter} />
+                    <SerieInfo
+                      handleCardCloseClick={this.handleCardCloseClick}
+                      frontmatter={previous || frontmatter}
+                    />
                   </React.Fragment>
                 )
               }

@@ -2,9 +2,10 @@ import React from 'react'
 import { nFormatter } from '../utils/utils';
 
 const SerieInfo = (data) => {
-  const { frontmatter } = data;
+  const { frontmatter, handleCardCloseClick } = data;
   return (
     <div className="SerieCardInformation">
+      <button onClick={handleCardCloseClick} type="button" className="Close" />
       <div className="InformationTitle">
         {frontmatter.title}
       </div>

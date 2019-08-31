@@ -38,7 +38,14 @@ class Categories extends Component {
       <React.Fragment>
         {
           this.listParentCategories.map(category => (
-            <button onClick={this.handleCategoryClick} value={category.frontmatter.category} className="category" type="button">{category.frontmatter.category}</button>
+            <button
+              onClick={this.handleCategoryClick}
+              value={category.frontmatter.category}
+              className={`category ${onClick.selectedCategories.includes(category.frontmatter.category) ? 'active' : ''}`}
+              type="button"
+            >
+              {category.frontmatter.category}
+            </button>
           ))
         }
         <div className="subcateg">
@@ -78,7 +85,10 @@ export default (onClick) => {
       render={(data) => {
         console.log({ onClick, data });
         return (
-          <Categories nodes={data.allMarkdownRemark.nodes} onClick={onClick} />
+          <Categories
+            nodes={data.allMarkdownRemark.nodes}
+            onClick={onClick}
+          />
         )
       }}
     />

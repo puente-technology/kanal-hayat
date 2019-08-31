@@ -8224,9 +8224,9 @@ netlify-cms-widget-text@^2.2.3:
     react-textarea-autosize "^7.1.0"
 
 netlify-cms-widget-youtube-extended@^0.3.3:
-  version "0.3.20"
-  resolved "https://registry.yarnpkg.com/netlify-cms-widget-youtube-extended/-/netlify-cms-widget-youtube-extended-0.3.20.tgz#99fc4c7a0fe4e657d39a1085a5dbd2e44696140c"
-  integrity sha512-M2oEarJ8mz42LjYgYoCqj3cXOtmz0D5CuE2oKoggvadfYlNzWb9Y5kK4c6WFm8wjWgc20+c4p7xyPDZ7JTcywA==
+  version "0.3.23"
+  resolved "https://registry.yarnpkg.com/netlify-cms-widget-youtube-extended/-/netlify-cms-widget-youtube-extended-0.3.23.tgz#5b9c3395c72d71b3bc02182c02a4bb8501228e0e"
+  integrity sha512-CrWGaE1eOUa1tZXTjjWUSLW6tfeHsx3tw6ZAYvmisDeOaIUJZaBJx0y14d/cZoiR+IJtx9YNv9TeCayy6AMWZA==
   dependencies:
     js-video-url-parser "^0.2.7"
     prop-types "^15.6.1"

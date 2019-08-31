@@ -44,6 +44,7 @@ query SeriesList {
               imageURL
               id
               description
+              publishedAt
             }
             targetGroup
           }

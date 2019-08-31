@@ -119,6 +119,6 @@ episodes:
       tags: 'x, y, z'
       title: A-10
       url: 'https://www.youtube.com/watch?v=4BBnYPuM2s0'
-      viewCount: 'https://www.youtube.com/watch?v=4BBnYPuM2s0'
+      viewCount: '123123'
 ---
 
