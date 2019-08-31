@@ -61,7 +61,6 @@ class SeriesList extends Component {
 
   handleCategoryClick = (newSelectedCats) => {
     let { selectedCategories } = this.state
-    console.log({ newSelectedCats, selectedCategories });
     const tempArr = [];
     if (newSelectedCats) {
       if (selectedCategories.length === 0) {
@@ -80,7 +79,6 @@ class SeriesList extends Component {
     const { data } = this.props;
     let listSeries = this.dataIntoArray(data)
     const temp = [...selectedCategories, ...tempArr]
-    console.log({temp});
     if (temp.length > 0) {
       listSeries = listSeries.filter(d => d.node.frontmatter.selectedCategories
         .some(s => temp.includes(s)))
