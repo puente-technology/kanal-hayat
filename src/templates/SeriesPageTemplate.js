@@ -59,9 +59,10 @@ query SeriesPageTemplate($id: String!, $locale: String) {
       coverImage
       description
       host
+      language
+      targetGroup
       episodes {
         host
-        language
         youtubeURL {
           viewCount
           url
