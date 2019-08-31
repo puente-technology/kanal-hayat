@@ -31,6 +31,9 @@ query SeriesList {
   allMarkdownRemark(filter: {fields: {contentType: {regex: "/series/|/series-page/"}}}) {
     edges {
       node {
+        fields {
+          slug
+        }
         frontmatter {
           episodes {
             host

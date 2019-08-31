@@ -107,8 +107,6 @@ class SeriesList extends Component {
   render() {
     const { expandedDiv, selectedCategories, listSeries } = this.state;
     let previous = null;
-    // this.filterByCategory();
-    console.log({ listSeries });
     return (
       <div className="Series">
         <div className="SeriesListCategories">
@@ -121,12 +119,15 @@ class SeriesList extends Component {
         </div>
         <div className="SeriesContainer">
           {
-            listSeries.map(({ node: { frontmatter } }, i) => {
+            listSeries.map(({ node }, i) => {
+              const { frontmatter, fields } = node
               if ((expandedDiv === frontmatter.title && (i % 2) === 1) || previous) {
+                console.log({ s: fields.slug });
                 return (
                   <React.Fragment>
                     <SerieCard
                       key={i}
+                      slug={fields.slug}
                       frontmatter={frontmatter}
                       handleClick={this.handleCardClick}
                     />
@@ -141,7 +142,12 @@ class SeriesList extends Component {
                 previous = frontmatter;
               }
               return (
-                <SerieCard handleClick={this.handleCardClick} key={i} frontmatter={frontmatter} />
+                <SerieCard
+                  handleClick={this.handleCardClick}
+                  key={i}
+                  frontmatter={frontmatter}
+                  slug={fields.slug}
+                />
               )
             })
           }
