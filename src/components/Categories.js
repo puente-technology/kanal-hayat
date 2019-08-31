@@ -65,11 +65,9 @@ Categories.propTypes = {
   nodes: PropTypes.any,
 }
 
-export default (onClick) => {
-  console.log({ onClick });
-  return (
-    <StaticQuery
-      query={graphql`
+export default onClick => (
+  <StaticQuery
+    query={graphql`
     query CategoriesQ {
       allMarkdownRemark(filter: {fields: {contentType: {regex: "/categories/"}}}) {
         nodes {
@@ -81,16 +79,12 @@ export default (onClick) => {
       }
     }
     `}
-      // eslint-disable-next-line react/jsx-no-bind
-      render={(data) => {
-        console.log({ onClick, data });
-        return (
-          <Categories
-            nodes={data.allMarkdownRemark.nodes}
-            onClick={onClick}
-          />
-        )
-      }}
-    />
-  )
-}
+    // eslint-disable-next-line react/jsx-no-bind
+    render={data => (
+      <Categories
+        nodes={data.allMarkdownRemark.nodes}
+        onClick={onClick}
+      />
+    )}
+  />
+)

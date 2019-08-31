@@ -82,13 +82,11 @@ class SeriesList extends Component {
 
   sortX = () => {
     const { data } = this.props;
-    console.log({ hey: data });
     const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => {
       const aepisodes = a.node.frontmatter.episodes
         .map(x => x.youtubeURL.publishedAt).sort((x, y) => (y - x))
       const bepisodes = b.node.frontmatter.episodes
         .map(x => x.youtubeURL.publishedAt).sort((x, y) => (y - x))
-      console.log({ aepisodes, bepisodes });
 
       if (aepisodes[0] > bepisodes[0]) {
         return -1;
@@ -98,9 +96,6 @@ class SeriesList extends Component {
       }
       return 0;
     })
-    console.log({ hey2: res });
-
-    // }
     this.setState({ listSeries: res })
   }
 
@@ -122,7 +117,6 @@ class SeriesList extends Component {
             listSeries.map(({ node }, i) => {
               const { frontmatter, fields } = node
               if ((expandedDiv === frontmatter.title && (i % 2) === 1) || previous) {
-                console.log({ s: fields.slug });
                 return (
                   <React.Fragment>
                     <SerieCard

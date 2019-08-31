@@ -3,7 +3,13 @@ import { Link } from 'gatsby';
 import { nFormatter } from '../utils/utils';
 
 const SerieInfo = (data) => {
-  const { frontmatter, handleCardCloseClick, slug } = data;
+  const {
+    frontmatter,
+    handleCardCloseClick,
+    slug,
+  } = data;
+  const { episodes } = frontmatter;
+  const limitedEpisodes = episodes.slice(0, 3)
   return (
     <div className="SerieCardInformation">
       <button onClick={handleCardCloseClick} type="button" className="Close" />
@@ -27,7 +33,7 @@ const SerieInfo = (data) => {
       </div>
       <div className="InformationEpisodes">
         {
-          frontmatter.episodes.map(episode => (
+          limitedEpisodes.map(episode => (
             <div className="Episode">
               <div
                 style={{

@@ -8,25 +8,22 @@ import HeaderBanner from './HeaderBanner';
 
 import './globalStyles.css'
 
-const LayoutComp = ({ children }) => {
-  console.log({ aa: children.props });
-  return (
-    <Fragment>
-      <Helmet>
-        <link href="https://ucarecdn.com" rel="preconnect" crossOrigin />
-        <link rel="dns-prefetch" href="https://ucarecdn.com" />
-        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" />
-      </Helmet>
-      {/* <Nav color={color} align={align} /> */}
-      <div className="MainDiv">
-        <HeaderBanner data={children.props.title || children.props.data.title} />
-        {children}
-        <MobileAppLink />
-        <PageFooterQ />
-      </div>
-    </Fragment>
-  )
-}
+const LayoutComp = ({ children }) => (
+  <Fragment>
+    <Helmet>
+      <link href="https://ucarecdn.com" rel="preconnect" crossOrigin />
+      <link rel="dns-prefetch" href="https://ucarecdn.com" />
+      <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" />
+    </Helmet>
+    {/* <Nav color={color} align={align} /> */}
+    <div className="MainDiv">
+      <HeaderBanner data={children.props.title || children.props.data.title} />
+      {children}
+      <MobileAppLink />
+      <PageFooterQ />
+    </div>
+  </Fragment>
+)
 
 LayoutComp.propTypes = {
   children: PropTypes.any,

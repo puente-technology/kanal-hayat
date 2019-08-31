@@ -65,7 +65,6 @@ export const LiveNowC = (props) => {
   if (filteredList.length > 4) {
     filteredList = filteredList.slice(0, 4)
   }
-  console.log({ filteredList });
 
   return (
     <div className="LiveNow">

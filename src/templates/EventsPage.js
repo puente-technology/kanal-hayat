@@ -6,18 +6,15 @@ import Events from '../components/Events';
 import EventsPreviewTemplate from '../cms/preview-templates/Events';
 
 // Export Template for use in CMS preview
-export const EventsTemplate = (data) => {
-  console.log({ data });
-  return (
-    <React.Fragment>
-      {
-        data.frontmatter
-          ? <Events title={data.frontmatter.title} eventList={data.frontmatter.eventList} />
-          : <EventsPreviewTemplate eventList={data.eventList} />
-      }
-    </React.Fragment>
-  )
-}
+export const EventsTemplate = data => (
+  <React.Fragment>
+    {
+      data.frontmatter
+        ? <Events title={data.frontmatter.title} eventList={data.frontmatter.eventList} />
+        : <EventsPreviewTemplate eventList={data.eventList} />
+    }
+  </React.Fragment>
+)
 
 // Export Default HomePage for front-end
 const EventsPage = ({ data: { page } }) => (

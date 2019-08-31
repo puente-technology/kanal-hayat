@@ -32,7 +32,6 @@ export default asd => (
 
 const HeaderBanner = (props) => {
   const { edges, title } = props;
-  console.log({ edges, title });
   return (
     <div className="headerBanner">
       <Nav color="light" />
