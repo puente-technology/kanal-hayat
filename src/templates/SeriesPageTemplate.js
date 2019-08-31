@@ -37,6 +37,18 @@ class SeriesPageTemplate extends Component {
     this.setState({ list })
   }
 
+  handleTextChange = (e) => {
+    // let { list } = this.state;
+    // if (e.target.value === '') {
+    // }
+    const { data: { page } } = this.props
+    const list = page.frontmatter.episodes
+    const res = list
+      .filter(d => d.youtubeURL.title.toLowerCase().includes(e.target.value.toLowerCase()))
+
+    this.setState({ list: res })
+  }
+
   handleNameClick = () => {
     const { list } = this.state
     const tmp = list.sort((a, b) => {
@@ -94,6 +106,7 @@ class SeriesPageTemplate extends Component {
             description={description}
             handleNameClick={this.handleNameClick}
             handleDateClick={this.handleDateClick}
+            handleTextChange={this.handleTextChange}
           />
           <SeriesPage episodes={list} />
           <MobileAppLink />
@@ -172,7 +185,7 @@ const CustomHeaderBanner = (props) => {
           <div className="TextInfoEpisodeBtns">
             <button value="title" onClick={handleNameClick} type="button" className="TextInfoButton">İsim</button>
             <button value="date" onClick={handleDateClick} type="button" className="TextInfoButton">Tarih</button>
-            <input onChange={handleTextChange} className="Nav--Search filter" type="text" />
+            <input onChange={handleTextChange} className="Nav--Search" type="text" />
           </div>
         </div>
       </div>

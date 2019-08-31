@@ -30,7 +30,10 @@ const SeriesPage = (props) => {
             </div>
             <div className="minicontainer">
               <span className="subminititle">
-                {`${episode.youtubeURL.title.slice(0, 25)}: ${episode.youtubeURL.description.slice(0, 25)}`}
+                <span className="title">
+                  {`${episode.youtubeURL.title.slice(0, 25)}: `}
+                </span>
+                {`${episode.youtubeURL.description.slice(0, 25)}`}
               </span>
               <span className="details">
                 <span>
