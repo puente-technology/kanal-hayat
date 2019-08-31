@@ -13,6 +13,7 @@ import { nFormatter } from '../utils/utils';
 // Export Default HomePage for front-end
 const SeriesPage = (props) => {
   const { episodes } = props;
+  console.log({props});
   return (
     <div className="SeriesPage">
       {

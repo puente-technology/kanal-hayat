@@ -1,5 +1,5 @@
 
-import React from 'react'
+import React, { Component } from 'react'
 import { graphql } from 'gatsby'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
@@ -14,34 +14,94 @@ import '../components/SeriesPage.scss'
 // )
 
 // Export Default HomePage for front-end
-const SeriesPageTemplate = ({ data: { page } }) => {
-  const {
-    title,
-    coverImage,
-    host,
-    description,
-  } = page.frontmatter
-  return (
-    <React.Fragment>
-      <Helmet>
-        <link href="https://ucarecdn.com" rel="preconnect" crossOrigin />
-        <link rel="dns-prefetch" href="https://ucarecdn.com" />
-        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" />
-      </Helmet>
-      {/* <Nav color={color} align={align} /> */}
-      <div className="MainDiv">
-        <CustomHeaderBanner
-          image={coverImage}
-          title={title}
-          host={host}
-          description={description}
-        />
-        <SeriesPage {...page} {...page.frontmatter} />
-        <MobileAppLink />
-        <PageFooterQ />
-      </div>
-    </React.Fragment>
-  )
+class SeriesPageTemplate extends Component {
+  state = {
+    list: [],
+  }
+
+  componentDidMount() {
+    const { data: { page } } = this.props
+    const list = page.frontmatter.episodes.sort(
+      (a, b) => {
+        const adate = a.youtubeURL.publishedAt
+        const bdate = b.youtubeURL.publishedAt
+        if (adate < bdate) {
+          return -1;
+        }
+        if (adate > bdate) {
+          return 1;
+        }
+        return 0;
+      },
+    )
+    this.setState({ list })
+  }
+
+  handleNameClick = () => {
+    const { list } = this.state
+    const tmp = list.sort((a, b) => {
+      const atitle = a.youtubeURL.title
+      const btitle = b.youtubeURL.title
+      if (atitle < btitle) {
+        return -1;
+      }
+      if (atitle > btitle) {
+        return 1;
+      }
+      return 0;
+    })
+    this.setState({ list: tmp })
+  }
+
+  handleDateClick = () => {
+    const { list } = this.state
+    const tmp = list.sort((a, b) => {
+      const adate = a.youtubeURL.publishedAt
+      const bdate = b.youtubeURL.publishedAt
+      if (adate < bdate) {
+        return -1;
+      }
+      if (adate > bdate) {
+        return 1;
+      }
+      return 0;
+    })
+    this.setState({ list: tmp })
+  }
+
+  render() {
+    const { data: { page } } = this.props
+    const { list } = this.state
+    const {
+      title,
+      coverImage,
+      host,
+      description,
+    } = page.frontmatter
+    return (
+      <React.Fragment>
+        <Helmet>
+          <link href="https://ucarecdn.com" rel="preconnect" crossOrigin />
+          <link rel="dns-prefetch" href="https://ucarecdn.com" />
+          <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" />
+        </Helmet>
+        {/* <Nav color={color} align={align} /> */}
+        <div className="MainDiv">
+          <CustomHeaderBanner
+            image={coverImage}
+            title={title}
+            host={host}
+            description={description}
+            handleNameClick={this.handleNameClick}
+            handleDateClick={this.handleDateClick}
+          />
+          <SeriesPage episodes={list} />
+          <MobileAppLink />
+          <PageFooterQ />
+        </div>
+      </React.Fragment>
+    )
+  }
 }
 
 SeriesPageTemplate.propTypes = {
@@ -85,7 +145,8 @@ const CustomHeaderBanner = (props) => {
     title,
     host,
     description,
-    handleSortByClick,
+    handleNameClick,
+    handleDateClick,
     handleTextChange,
   } = props
   return (
@@ -109,8 +170,8 @@ const CustomHeaderBanner = (props) => {
             Bölümler
           </div>
           <div className="TextInfoEpisodeBtns">
-            <button value="title" onClick={handleSortByClick} type="button" className="TextInfoButton">İsim</button>
-            <button value="date" type="button" className="TextInfoButton">Tarih</button>
+            <button value="title" onClick={handleNameClick} type="button" className="TextInfoButton">İsim</button>
+            <button value="date" onClick={handleDateClick} type="button" className="TextInfoButton">Tarih</button>
             <input onChange={handleTextChange} className="Nav--Search filter" type="text" />
           </div>
         </div>
@@ -124,6 +185,7 @@ CustomHeaderBanner.propTypes = {
   title: PropTypes.any,
   host: PropTypes.any,
   description: PropTypes.any,
-  handleSortByClick: PropTypes.any,
+  handleNameClick: PropTypes.any,
+  handleDateClick: PropTypes.any,
   handleTextChange: PropTypes.any,
 }
