@@ -1,0 +1,58 @@
+$gray: #f1f1f1;
+$red: #e4330d;
+$black: #212529;
+$radius: 5px;
+$blue: #0056ea;
+$blue-tr: rgba(0, 123, 255, 0.8);
+$gray-tr: rgba(241, 241, 241, 0.8);
+$black-tr: rgba(33, 37, 41, 0.8);
+$black-trtr: rgba(33, 37, 41, 0.5);
+$blue-trtr: rgba(0, 123, 255, 0.5);
+$grey: #7d7d7d;
+$light-blue: #538cb2;
+$primary: $red !default;
+$primary-tr: $red !default;
+$orange: #ffa500;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px
+) !default;
+
+// 6d6e6eff
+// 434444ff
+
+// @font-face {
+//     font-family: "Great Day";
+//     src: url("../../fonts/Great-Day.ttf");
+//     font-stretch: normal;
+//     font-style: normal;
+//     font-weight: 400;
+// }
+
+// @font-face {
+//     font-family: "Source Sans Pro";
+//     src: url("../../fonts/SourceSansPro-Regular.ttf");
+//     font-stretch: normal;
+//     font-style: normal;
+//     font-weight: 400;
+// }
+
+// @font-face {
+//     font-family: "Source Sans Pro";
+//     src: url("../../fonts/SourceSansPro-SemiBold.ttf");
+//     font-stretch: normal;
+//     font-style: normal;
+//     font-weight: 500;
+// }
+
+// @font-face {
+//     font-family: "Source Sans Pro";
+//     src: url("../../fonts/SourceSansPro-ExtraLight.ttf");
+//     font-stretch: normal;
+//     font-style: normal;
+//     font-weight: 100;
+// }

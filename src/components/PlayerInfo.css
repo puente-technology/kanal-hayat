@@ -1,0 +1,60 @@
+.player-info-txt-head {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 34px;
+  color: #FFFFFF;
+}
+
+.player-info-txt {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 24px;
+  line-height: 34px;
+  color: #FFFFFF;
+}
+
+.player-info-header {
+  margin-top: 80px;
+  margin-left: 150px;
+}
+.player-info-contet {
+  width: 900px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: justify;
+  margin-top: 20px;
+  margin-left: 150px
+}
+.player-info-text-bold {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  color: #FFFFFF;
+  margin-right: 6px;
+}
+.player-info-text-lighter {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 14px;
+  line-height: 16px;
+  color: #FFFFFF;
+}
+.player-info-info-div {
+  display: flex;
+}
+
+.player-info-info-div-parent {
+  display: flex;
+  flex-direction: column;
+  margin-left: 150px;
+  margin-top:   30px;
+}
