@@ -5,11 +5,16 @@
   --midGrey: #cacaca;
   --darkGrey: #272727;
   --danger: #ff3d3d;
-  --font-primary: 'Open Sans', sans-serif;
-  --font-system: system-ui; /* postcssPresetEnv */
+  --font-primary: Nunito;
   --borderRadius: 3px;
 }
 
 .MainDiv {
   position: relative;
+}
+
+html{
+  font-family: Nunito;
+  font-style: normal;
+  font-size: 18px;
 }

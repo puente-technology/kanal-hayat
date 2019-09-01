@@ -6,7 +6,7 @@ import FullPageSlider from '../components/FullPageSlider';
 import HomePageSlider from '../cms/preview-templates/HomePageSlider';
 import ProgrammeHomePage from '../components/ProgrammeHomePage';
 import FriendSiteBanner from '../components/FriendSiteBanner';
-// import LiveNow from '../components/LiveNow';
+import LiveNow from '../components/LiveNow';
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = (data) => {
@@ -26,7 +26,7 @@ export const HomePageTemplate = (data) => {
           ? <FullPageSlider autoSlide gallery={data.gallery} slideTime={5000} />
           : <HomePageSlider data={data.gallery} />
       }
-      {/* <LiveNow /> */}
+      <LiveNow />
       {
         program
         && <ProgrammeHomePage data={program} />

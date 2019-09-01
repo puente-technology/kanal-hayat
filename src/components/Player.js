@@ -329,8 +329,8 @@ class Player extends Component {
       props.width = width
       isBigStyle.margin = '30px auto'
     } else {
-      props.height = '10rem';
-      props.width = '26rem';
+      props.height = '8rem';
+      props.width = '16rem';
       reactPlayerStyles.position = 'absolute';
       reactPlayerStyles.bottom = '-10rem';
       reactPlayerStyles.left = '0px';
@@ -404,7 +404,7 @@ class Player extends Component {
             {isBigScreen && (
             <div
               style={{
-                width: props.width, margin: '0 auto', height: '7rem', background: 'black',
+                width: props.width, margin: '0 auto', height: '6rem', background: 'black',
               }}
               className={['container-fluid', 'player-controls-container', props.expand ? 'expanded' : 'collapsed'].join(' ')}
             >

@@ -7,7 +7,7 @@
 	z-index: 5;
 	transition: bottom .2s ease-in;
 	&.collapsed {
-		height: 10rem;
+		height: 8rem;
 		&.show {
 			bottom: 0;
 			
@@ -15,7 +15,7 @@
 		bottom: -10rem;
 	}
 	&.expanded {
-		height:26rem;
+		height: 14rem;
 		bottom: 0;
 	}
 	&.isBig {
@@ -80,7 +80,7 @@
 }
 .player-controls-container {
 	position: absolute;
-	height: 10rem;
+	height: 8rem;
 	bottom: 0;
 	left: 0;
 	right: 0;
@@ -161,13 +161,16 @@
 	height: 3rem;
 	&.isBig {
 		text-align: center;
-		margin: 0.5rem auto;
-		margin-right: 30rem;
+		margin: 0 auto;
+		margin-left: 30rem;
+		left: 0;
+		right: 0;
+		padding-top: 18px
 	}
 }
 .player-controls-svg {
-	width: 24px;
-	height: 24px;
+	width: 32px;
+	height: 32px;
 }
 .player-controls-svg-isBig {
 	width: 24px;
@@ -177,23 +180,21 @@
 	position: relative;
 	width: 100%;
 	height: 1rem;
-	margin-top: 1rem;
 }
 .player-bar-bar {
 	position: absolute;
 	left: 4rem;
 	right: 4rem;
-	height: .5rem;
+	height: 3px;
 	z-index: 1;
 	border-radius: .3rem;
-	top: 30%;
-    margin-top: -.125rem;
-    background-color: darken($gray, 50%);
+	top: 40%;
+  background-color: darken($gray, 50%);
 }
 .player-load-bar {
 	position: absolute;
 	width: 0%;
-	height: .5rem;
+	height: 3px;
 	background-color: darken($gray, 25%);
 	z-index: 1;
 	border-radius: .3rem;
@@ -215,13 +216,15 @@
 	position: absolute;
 	right: 0;
 	line-height: 1;
-	font-size: 1rem;
+	font-size: 18px;
+	margin-right: 18px;
 }
 .player-elapsed {
 	position: absolute;
 	left: 0;
 	line-height: 1;
-	font-size: 1rem;
+	font-size: 18px;
+	margin-left: 18px;
 }
 .player-range {
 	position: absolute;
@@ -247,10 +250,10 @@ $track-border-width: 0px;
 	position: relative;
 	width: 10rem;
 	height: 1rem;
-	margin-top: 5rem;
+	margin-top: 4.2rem;
 	&.isBig {
 		margin-top: 1rem;
-		margin-right: 7rem;
+		margin-right: 3rem;
 	}
 }
 .player-volume-svg {
@@ -269,14 +272,14 @@ $track-border-width: 0px;
 }
 .player-volume-bar {
 	position: absolute;
-	left: 4rem;
-	right: -2rem;
+	left: 2rem;
+	right: 1rem;
 	height: 3px;
 	z-index: 1;
 	border-radius: .3rem;
 	top: 65%;
-    margin-top: -.125rem;
-    background-color: darken($gray, 10%);
+  margin-top: -.125rem;
+  background-color: darken($gray, 10%);
 }
 .player-expand {
 	display: flex;
@@ -444,7 +447,7 @@ $track-border-width: 0px;
 	-ms-flex-positive: 1;
 	flex-grow: 1;
 	max-width: 45%;
-	margin-left: 6rem;
+	margin-left: 5rem;
 	&.expanded {
 		z-index: 1;
 	}
@@ -498,8 +501,9 @@ input[type=range]::-moz-range-thumb {
 }
 .player-screen-control {
 	display: flex;
+	margin-top: 1rem;
 	&.isBig{
-		margin-top: 0.5rem;
+		margin-top: 1rem;
 	}
 }
 
@@ -510,10 +514,10 @@ input[type=range]::-moz-range-thumb {
 	height: 14px
 }
 .elipse-lg {
-	height:14px
+	height: 18px
 }
 .mute {
-	height: 18px
+	height: 14px
 }
 .isBigControls {
 	display: flex;

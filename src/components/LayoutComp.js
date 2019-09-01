@@ -18,7 +18,7 @@ const LayoutComp = ({ children }) => (
     </Helmet>
     {/* <Nav color={color} align={align} /> */}
     <div className="MainDiv">
-      <HeaderBanner data={children.props.title} />
+      <HeaderBanner data={children.props.title || children.props.data.title} />
       {children}
       <MobileAppLink />
       <PageFooterQ />

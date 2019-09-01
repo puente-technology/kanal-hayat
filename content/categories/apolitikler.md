@@ -1,0 +1,5 @@
+---
+category: Apolitikler
+parentCategory: Öğretim
+---
+

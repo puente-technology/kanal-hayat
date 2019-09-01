@@ -1,14 +1,15 @@
 import React from 'react'
-import { eventWeek, sortTimeString, days } from '../../utils/utils';
+import { eventWeek, sortTimeString } from '../../utils/utils';
 
 import './Events.css'
+import { days } from '../../constants/generics';
 
 const EventsPreviewTemplate = (list) => {
   const { eventList } = list;
   const sorted = eventList.sort(sortTimeString)
-  const times = sorted.map(s => s.time.startTime)
+
+  const times = sorted.map(s => s.time && s.time.startTime)
   const uniqueTimes = [...new Set(times)]
-  console.log({ sorted });
   return (
     <table id="events">
       <thead>
@@ -29,7 +30,8 @@ const EventsPreviewTemplate = (list) => {
               {
                 Object.values(days).map((value) => {
                   const found = sorted
-                    .find(s => s.time.days.includes(value) && s.time.startTime === time)
+                    .find(s => s.time && s.time.days && s.time.days.includes(value)
+                    && (s.time && s.time.startTime === time))
                   return (
                     <td>
                       {found ? found.title : ''}
