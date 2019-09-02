@@ -11,6 +11,8 @@ class PlayerInfoExpand extends Component {
   static propTypes = {
     playerProps: PropTypes.any.isRequired,
     onCloseClick: PropTypes.any.isRequired,
+    episodeInfo: PropTypes.any,
+    episodes: PropTypes.any,
   };
 
   constructor(props) {
@@ -19,7 +21,12 @@ class PlayerInfoExpand extends Component {
   }
 
   render() {
-    const { playerProps, onCloseClick } = this.props
+    const {
+      playerProps,
+      onCloseClick,
+      episodeInfo,
+      episodes,
+    } = this.props
     return (
       <div style={{
         width: playerProps.width,

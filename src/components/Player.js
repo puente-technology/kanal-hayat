@@ -192,7 +192,7 @@ class Player extends Component {
     this.setState({ volume: parseFloat(e.target.value) })
   }
 
-  onSeekMouseDown = () => {
+  onSeekMouseDown = (e) => {
     this.setState({ seeking: true })
   }
 
@@ -200,9 +200,9 @@ class Player extends Component {
     this.setState({ played: parseFloat(e.target.value) })
   }
 
-  onSeekMouseUp = () => {
+  onSeekMouseUp = (e) => {
     this.setState({ seeking: false })
-    // this.player.seekTo(parseFloat(e.target.value))
+    this.player.seekTo(parseFloat(e.target.value))
   }
 
   onPlayClick = () => {
@@ -291,9 +291,9 @@ class Player extends Component {
       volume,
       loaded,
     } = this.state;
-    const { episodes, episodeInfo, playing } = this.props;
-    console.log(episodeInfo)
-    console.log(episodes)
+    const { episodes, episodeInfo } = this.props;
+    // console.log(episodeInfo)
+    // console.log(episodes)
     const props = {};
     const reactPlayerStyles = {}
     const isBigStyle = {}
@@ -378,6 +378,7 @@ class Player extends Component {
         >
           <div id="playerBackdrop" className={isBigScreen ? 'player-backdrop-isBig ' : 'player-backdrop'}>
             <ReactPlayer
+              ref={this.ref}
               id="reactPlayer"
               className={props.expand ? 'expanded' : 'collapsed'}
               style={isBigStyle}
@@ -396,7 +397,12 @@ class Player extends Component {
             }
             {
               showinfoBool && (
-                <PlayerInfoExpand playerProps={props} onCloseClick={this.onCloseInfo} />
+                <PlayerInfoExpand
+                  playerProps={props}
+                  onCloseClick={this.onCloseInfo}
+                  episode={episodeInfo}
+                  episodes={episodes}
+                />
               )
             }
             {
@@ -430,7 +436,7 @@ class Player extends Component {
                   remaining={remaining}
                   played={played}
                   loaded={loaded}
-                  onSeekMouseDown={this.onMouseDown}
+                  onSeekMouseDown={this.onSeekMouseDown}
                   onSeekChange={this.onSeekChange}
                   onSeekMouseUp={this.onSeekMouseUp}
                   showProgressThumb={showProgressThumb}
@@ -496,7 +502,7 @@ class Player extends Component {
                       remaining={remaining}
                       played={played}
                       loaded={loaded}
-                      onSeekMouseDown={this.onMouseDown}
+                      onSeekMouseDown={this.onSeekMouseDown}
                       onSeekChange={this.onSeekChange}
                       onSeekMouseUp={this.onSeekMouseUp}
                       showProgressThumb={showProgressThumb}

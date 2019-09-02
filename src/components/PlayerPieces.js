@@ -36,8 +36,8 @@ export const PlayerInfo = ({
           playerProps.expand ? 'player-info-expanded' : 'player-info-collapsed'
           }
         >
-          <div className="player-artist">{`${artist}:  `}</div>
-          <div className="player-title">{title}</div>
+          <div className={playerProps.expand ? 'player-artist' : 'player-artist colapsed'}>{`${artist}`}</div>
+          <div className={playerProps.expand ? 'player-title' : 'player-title colapsed'}>{title}</div>
         </div>
       </div>
     </div>
