@@ -135,7 +135,7 @@ query SeriesPageTemplate($id: String!, $locale: String) {
       language
       targetGroup
       episodes {
-        host
+        guests
         youtubeURL {
           viewCount
           url

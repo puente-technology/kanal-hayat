@@ -138,7 +138,8 @@ class SeriesList extends Component {
           {
             listSeries.map(({ node }, i) => {
               const { frontmatter, fields } = node
-              if ((expandedDiv === frontmatter.title && (i % 2) === 1) || previous) {
+              const isCurrent = (expandedDiv === frontmatter.title && (i % 2) === 1)
+              if (isCurrent || previous) {
                 return (
                   <React.Fragment>
                     <SerieCard
@@ -147,15 +148,15 @@ class SeriesList extends Component {
                       handleClick={this.handleCardClick}
                     />
                     <SerieInfo
-                      slug={fields.slug}
+                      slug={isCurrent ? fields.slug : previous.fields.slug}
                       handleCardCloseClick={this.handleCardCloseClick}
-                      frontmatter={previous || frontmatter}
+                      frontmatter={isCurrent ? frontmatter : previous.frontmatter}
                     />
                   </React.Fragment>
                 )
               }
               if (expandedDiv === frontmatter.title && (i % 2) === 0) {
-                previous = frontmatter;
+                previous = node;
               }
               return (
                 <SerieCard

@@ -15,7 +15,7 @@ selectedCategories:
   - Belgesel
   - Rehberlik
 episodes:
-  - host: Jose Meyer
+  - guests: Micheal Fowler
     season: '1'
     youtubeURL:
       description: >-
@@ -33,7 +33,7 @@ episodes:
       title: Stay In Your Own Lane | Joyce Meyer (2019)
       url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
       viewCount: '241709'
-  - host: Joyce Meyer
+  - guests: John Scherbatsky, Barny Anderson
     season: '1'
     youtubeURL:
       description: Joyce Meyer Blessed Sermon Stress Management
@@ -48,7 +48,7 @@ episodes:
       title: Joyce Meyer - Stress Management Sermon 2017
       url: 'https://www.youtube.com/watch?v=OMNHqOiLQ8s'
       viewCount: '942483'
-  - host: Joyce Meyer
+  - guests: Tim Howard, Ali Veli
     season: '1'
     youtubeURL:
       description: Joyce Meyer Blessed Sermon Prayers That Get Answered
@@ -63,7 +63,7 @@ episodes:
       title: Joyce Meyer - Prayers That Get Answered Sermon 2017
       url: 'https://www.youtube.com/watch?v=p7nHTUyGiuk'
       viewCount: '1525325'
-  - host: Joyce Meyer
+  - guest: Margaret Thatcher, Pascal Nouma
     season: '1'
     youtubeURL:
       description: >-
@@ -111,7 +111,7 @@ episodes:
       title: Enter the Rest of God | Joyce Meyer
       url: 'https://www.youtube.com/watch?v=4UuYSQ9G-lk'
       viewCount: '12823'
-  - host: Joyce Meyer
+  - guests: Robert C. Martin, Alan Turing
     season: '2'
     youtubeURL:
       description: Defeating

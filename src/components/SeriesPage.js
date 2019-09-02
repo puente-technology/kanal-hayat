@@ -37,7 +37,7 @@ class SeriesPage extends Component {
             <div className="Episode">
               <div
                 key={index}
-                onClick={() => this.hanndlePlayClick(index)}
+                onClick={() => this.hanndlePlayClick(index, episode)}
                 style={{
                   background: `url(${episode.youtubeURL.imageURL})`,
                   backgroundSize: 'cover',
