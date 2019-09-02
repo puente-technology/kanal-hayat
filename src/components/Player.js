@@ -49,6 +49,9 @@ class Player extends Component {
     onCollapseClick: PropTypes.func,
     hidePlayer: PropTypes.func,
     showPlayer: PropTypes.func,
+    episodes: PropTypes.any,
+    episodeInfo: PropTypes.any,
+    handleCloseClick: PropTypes.any,
   }
 
   constructor(props) {
@@ -90,6 +93,8 @@ class Player extends Component {
   }
 
   onCloseClick = () => {
+    const { handleCloseClick } = this.props;
+    handleCloseClick()
     this.setState({ isOpen: false })
   }
 
@@ -285,6 +290,9 @@ class Player extends Component {
       volume,
       loaded,
     } = this.state;
+    const { episodes, episodeInfo } = this.props;
+    console.log(episodeInfo)
+    console.log(episodes)
     const props = {};
     const reactPlayerStyles = {}
     const isBigStyle = {}
@@ -292,13 +300,13 @@ class Player extends Component {
     const showProgressThumb = true;
     props.playable = {
       style: reactPlayerStyles,
-      url: 'https://www.youtube.com/watch?v=cWc7vYjgnTs',
+      url: episodeInfo.youtubeURL.url || '',
       show: showBool,
       playerPause: this.playerPause,
       playerPlay: this.playerPlay,
       playing: playingBool,
     }
-    props.url = 'https://www.youtube.com/watch?v=cWc7vYjgnTs';
+    props.url = episodeInfo.youtubeURL.url || ''
     props.show = showBool;
     props.playerPause = this.playerPause
     props.playerPlay = this.playerPlay;

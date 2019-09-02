@@ -22,7 +22,7 @@ const LayoutComp = ({ children }) => (
       {children}
       <MobileAppLink />
       <PageFooterQ />
-      <Player />
+      {/* <Player /> */}
     </div>
   </Fragment>
 )
