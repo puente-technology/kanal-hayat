@@ -56,6 +56,7 @@ class Player extends Component {
 
   constructor(props) {
     super(props);
+    const { playing } = this.props;
     this.state = {
       played: 0,
       loaded: 0,
@@ -64,7 +65,7 @@ class Player extends Component {
       volume: 1,
       fullscreen: false,
       expanding: true,
-      playingBool: false,
+      playingBool: playing,
       showBool: true,
       expandedBoll: false,
       expandBool: false,
@@ -290,7 +291,7 @@ class Player extends Component {
       volume,
       loaded,
     } = this.state;
-    const { episodes, episodeInfo } = this.props;
+    const { episodes, episodeInfo, playing } = this.props;
     console.log(episodeInfo)
     console.log(episodes)
     const props = {};

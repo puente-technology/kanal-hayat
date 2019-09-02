@@ -15,12 +15,12 @@ class SeriesPage extends Component {
     this.state = {
       isOpen: false,
       activeEpisode: null,
+      activeIndex: null,
     };
   }
 
-  hanndlePlayClick = (episode) => {
-    console.log(episode)
-    this.setState({ isOpen: true, activeEpisode: episode })
+  hanndlePlayClick = (index, episode) => {
+    this.setState({ isOpen: true, activeEpisode: episode, activeIndex: index })
   }
 
   handleCloseClick = () => {
@@ -29,7 +29,7 @@ class SeriesPage extends Component {
 
   render() {
     const { episodes } = this.props;
-    const { isOpen, activeEpisode } = this.state;
+    const { isOpen, activeEpisode, activeIndex } = this.state;
     return (
       <div className="SeriesPage">
         {
@@ -37,7 +37,7 @@ class SeriesPage extends Component {
             <div className="Episode">
               <div
                 key={index}
-                onClick={() => this.hanndlePlayClick(episode)}
+                onClick={() => this.hanndlePlayClick(index)}
                 style={{
                   background: `url(${episode.youtubeURL.imageURL})`,
                   backgroundSize: 'cover',
@@ -64,11 +64,12 @@ class SeriesPage extends Component {
                   {/* {frontmatter.channelTitle} */}
                 </span>
               </div>
-              {isOpen && activeEpisode && (
+              {isOpen && activeEpisode && activeIndex === index && (
                 <Player
                   episodes={episodes}
                   episodeInfo={activeEpisode}
                   handleCloseClick={this.handleCloseClick}
+                  playing
                 />
               )}
             </div>
