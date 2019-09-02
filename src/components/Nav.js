@@ -65,6 +65,7 @@ export class Navigation extends Component {
             <Logo />
           </Link>
           <div className={`Nav--Links ${color.color}`}>
+            <NavLink color={color} align={align} to="/series">İzle</NavLink>
             <NavLink color={color} align={align} to="/events">Yayın Akışı</NavLink>
             <NavLink color={color} align={align} to="/">Öğren</NavLink>
             <NavLink color={color} align={align} to="/about-us">Kanal Hayat Hakkında</NavLink>
@@ -75,7 +76,7 @@ export class Navigation extends Component {
               </select>
             </div>
             <button type="button" className="NavWatchNow">CANLI İZLE</button>
-            <input className="Nav--Search" type="text" />
+            <input style={{ display: 'none' }} className="Nav--Search" type="text" />
           </div>
         </div>
       </nav>
