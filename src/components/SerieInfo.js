@@ -9,6 +9,7 @@ const SerieInfo = (data) => {
     slug,
   } = data;
   const { episodes } = frontmatter;
+  console.log({myBbyShotmeDown: frontmatter});
   const limitedEpisodes = episodes.slice(0, 3)
   return (
     <div className="SerieCardInformation">

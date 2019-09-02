@@ -36,7 +36,7 @@ query SeriesList {
         }
         frontmatter {
           episodes {
-            host
+            guests
             youtubeURL {
               viewCount
               url
