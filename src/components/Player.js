@@ -344,8 +344,8 @@ class Player extends Component {
       reactPlayerStyles.left = '0px';
       reactPlayerStyles.zIndex = 10;
     }
-    const title = 'Nessun Dorma';
-    const artist = 'Luciano Pavarotti'
+    const title = episodeInfo.youtubeURL.title;
+    const artist = episodeInfo.host
     const elapsed = duration * played
     const remaining = duration * (1 - played)
 

@@ -64,7 +64,7 @@ class SeriesPage extends Component {
                   {/* {frontmatter.channelTitle} */}
                 </span>
               </div>
-              {isOpen && (
+              {isOpen && activeEpisode && (
                 <Player
                   episodes={episodes}
                   episodeInfo={activeEpisode}
