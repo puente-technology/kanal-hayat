@@ -108,7 +108,7 @@ class SeriesPageTemplate extends Component {
             handleDateClick={this.handleDateClick}
             handleTextChange={this.handleTextChange}
           />
-          <SeriesPage episodes={list} />
+          <SeriesPage episodes={list} frontmatter={page.frontmatter} />
           <MobileAppLink />
           <PageFooterQ />
         </div>
