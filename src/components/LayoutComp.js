@@ -5,7 +5,6 @@ import PageFooterQ from './PageFooter';
 import MobileAppLink from './MobileAppLink'
 // import FriendSiteBanner from './FriendSiteBanner'
 import HeaderBanner from './HeaderBanner';
-import Player from './Player';
 
 import './globalStyles.css'
 
