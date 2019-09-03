@@ -1,5 +1,3 @@
-/* eslint-disable jsx-a11y/click-events-have-key-events */
-/* eslint-disable jsx-a11y/no-static-element-interactions */
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { nFormatter } from '../utils/utils';
@@ -8,6 +6,7 @@ import Player from './Player'
 class SeriesPage extends Component {
   static propTypes = {
     episodes: PropTypes.any.isRequired,
+    frontmatter: PropTypes.any.isRequired,
   };
 
   constructor(props) {
@@ -19,7 +18,8 @@ class SeriesPage extends Component {
     };
   }
 
-  hanndlePlayClick = (index, episode) => {
+  hanndlePlayClick = (e) => {
+    const { episode, index } = JSON.parse(e.target.parentElement.value)
     this.setState({ isOpen: true, activeEpisode: episode, activeIndex: index })
   }
 
@@ -28,16 +28,18 @@ class SeriesPage extends Component {
   }
 
   render() {
-    const { episodes } = this.props;
+    const { episodes, frontmatter } = this.props;
     const { isOpen, activeEpisode, activeIndex } = this.state;
     return (
       <div className="SeriesPage">
         {
           episodes.map((episode, index) => (
             <div className="Episode">
-              <div
+              <button
+                type="button"
                 key={index}
-                onClick={() => this.hanndlePlayClick(index, episode)}
+                value={JSON.stringify({ episode, index })}
+                onClick={this.hanndlePlayClick}
                 style={{
                   background: `url(${episode.youtubeURL.imageURL})`,
                   backgroundSize: 'cover',
@@ -46,7 +48,7 @@ class SeriesPage extends Component {
                 className="EpisodeVideo"
               >
                 <div className="playParavan" />
-              </div>
+              </button>
               <div className="minicontainer">
                 <span className="subminititle">
                   <span className="title">
@@ -69,6 +71,8 @@ class SeriesPage extends Component {
                   episodes={episodes}
                   episodeInfo={activeEpisode}
                   handleCloseClick={this.handleCloseClick}
+                  frontmatter={frontmatter}
+                  playerIndex={index}
                   playing
                 />
               )}

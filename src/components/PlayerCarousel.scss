@@ -12,10 +12,12 @@
 .arrow {
     position: absolute;
     margin-top: 60px;
+    background: transparent;
+    border: none;
 }
 
 .arrow-right {
-    left: 1020px;
+    left: 1004px;
     transform: rotate(180deg);
 }
 
@@ -45,7 +47,6 @@ $level1-left: 60px;
     height: $level1-height;
     width: $level1-width;
     line-height: $level1-height;
-    background-color: #6796E5;
     left: $level-1-left;
     margin-top: 10px;
 }
@@ -54,7 +55,6 @@ $level1-left: 60px;
     height: $level0-height;
     width: $level0-width;
     line-height: $level0-height;
-    background-color: #4EC9E1;
     left: $level0-left;
 }
 
@@ -62,7 +62,6 @@ $level1-left: 60px;
     height: $level1-height;
     width: $level1-width;
     line-height: $level1-height;
-    background-color: #6796E5;
     margin-top: 10px;
     left: $level1-left;
 }
@@ -150,4 +149,36 @@ $level1-left: 60px;
        -moz-user-select: none; 
         -ms-user-select: none;  
             user-select: none;
+}
+
+.playParavan {
+    background: url("/images/Groupplay.png");
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.EpisodeVideoInfo {
+    height: 176px;
+    width: 300px;
+}
+.info {
+    height: 100px;
+    width: 300px;
+    font-size: 12px;
+    position: absolute;
+    top: 120px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.infoDiv {
+    height: 20px;
+}
+
+.infoDivView {
+    height: 20px;
+    display: flex;
 }

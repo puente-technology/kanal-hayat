@@ -52,11 +52,13 @@ class Player extends Component {
     episodes: PropTypes.any,
     episodeInfo: PropTypes.any,
     handleCloseClick: PropTypes.any,
+    frontmatter: PropTypes.any,
+    playerIndex: PropTypes.any,
   }
 
   constructor(props) {
     super(props);
-    const { playing } = this.props;
+    const { playing, episodeInfo, episodes } = this.props;
     this.state = {
       played: 0,
       loaded: 0,
@@ -74,6 +76,8 @@ class Player extends Component {
       isPlayerInfoOpen: true,
       hoverBool: false,
       showinfoBool: false,
+      episodesInfo: episodes,
+      episode: episodeInfo,
     }
 
     document.addEventListener('fullscreenchange', this.onFullScreenChange, false);
@@ -137,6 +141,10 @@ class Player extends Component {
     this.setState({ playingBool: true })
   }
 
+  handleVideoUrlChange = (episodeInfo, episodes) => {
+    this.setState({ episode: episodeInfo, episodesInfo: episodes })
+  }
+
   onProgress = (progress) => {
     const { seeking } = this.state;
     if (progress.played === 1) {
@@ -192,7 +200,7 @@ class Player extends Component {
     this.setState({ volume: parseFloat(e.target.value) })
   }
 
-  onSeekMouseDown = (e) => {
+  onSeekMouseDown = () => {
     this.setState({ seeking: true })
   }
 
@@ -290,10 +298,13 @@ class Player extends Component {
       duration,
       volume,
       loaded,
+      episode,
+      episodesInfo,
     } = this.state;
-    const { episodes, episodeInfo } = this.props;
-    // console.log(episodeInfo)
-    // console.log(episodes)
+    const {
+      frontmatter,
+      playerIndex,
+    } = this.props;
     const props = {};
     const reactPlayerStyles = {}
     const isBigStyle = {}
@@ -301,13 +312,13 @@ class Player extends Component {
     const showProgressThumb = true;
     props.playable = {
       style: reactPlayerStyles,
-      url: episodeInfo.youtubeURL.url || '',
+      url: episode.youtubeURL.url,
       show: showBool,
       playerPause: this.playerPause,
       playerPlay: this.playerPlay,
       playing: playingBool,
     }
-    props.url = episodeInfo.youtubeURL.url || ''
+    props.url = episode.youtubeURL.url;
     props.show = showBool;
     props.playerPause = this.playerPause
     props.playerPlay = this.playerPlay;
@@ -345,8 +356,8 @@ class Player extends Component {
       reactPlayerStyles.left = '0px';
       reactPlayerStyles.zIndex = 10;
     }
-    const title = episodeInfo.youtubeURL.title;
-    const artist = episodeInfo.host
+    const { title } = episode.youtubeURL
+    const artist = frontmatter.host
     const elapsed = duration * played
     const remaining = duration * (1 - played)
 
@@ -400,8 +411,11 @@ class Player extends Component {
                 <PlayerInfoExpand
                   playerProps={props}
                   onCloseClick={this.onCloseInfo}
-                  episode={episodeInfo}
-                  episodes={episodes}
+                  episodeInfo={episode}
+                  episodes={episodesInfo}
+                  frontmatter={frontmatter}
+                  playerIndex={playerIndex}
+                  handleVideoUrlChange={this.handleVideoUrlChange}
                 />
               )
             }

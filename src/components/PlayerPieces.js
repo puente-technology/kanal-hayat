@@ -1,6 +1,3 @@
-/* eslint-disable react/prop-types */
-/* eslint-disable jsx-a11y/click-events-have-key-events */
-/* eslint-disable jsx-a11y/no-noninteractive-element-interactions */
 import React from 'react'
 import PropTypes from 'prop-types';
 import Duration from './Duration'
@@ -47,51 +44,79 @@ export const PlayerInfo = ({
 export const PlayerControls = ({ playerProps, showNextPrev, onPlayClick }) => (
   <div className={playerProps.isBigScreen ? 'player-controls isBig' : 'player-controls'}>
     {
-    showNextPrev
-      ? (
-        <img src={prevVideo} alt="prev" className={playerProps.isBigScreen ? 'player-controls-svg-isBig' : 'player-controls-svg'} onClick={playerProps.playerPrev} style={{ marginLeft: '31px' }} width="27" height="27" />
-      )
-      : <span />
+    showNextPrev && (
+    <button
+      type="button"
+      className={playerProps.isBigScreen ? 'player-controls-svg-isBig' : 'player-controls-svg left'}
+      onClick={playerProps.playerPrev}
+      style={{
+        marginLeft: '31px',
+        paddingTop: '32px',
+        background: `url(${prevVideo}) no-repeat`,
+        backgroundSize: 'cover',
+        border: 'none',
+      }}
+      width="30px"
+      height="36px"
+    />
+    )
   }
     {
     playerProps.playing
       ? (
-        <img
-          alt="PauseIcon"
-          src={pauseSvg}
+        <button
+          type="button"
           className={playerProps.isBigScreen ? 'player-controls-svg-isBig' : 'player-controls-svg'}
           onClick={playerProps.playerPause}
           style={{
-            marginLeft: '10px', marginRight: '10px',
+            marginLeft: '10px',
+            marginRight: '10px',
+            paddingTop: '32px',
+            background: `url(${pauseSvg}) no-repeat`,
+            backgroundSize: 'contain',
+            border: 'none',
           }}
-          width="27"
-          height="27"
-          viewBox="0 0 27 27"
-          fill="none"
+          width="30px"
+          height="36px"
         />
       )
       : (
-        <img
+        <button
+          type="button"
           className={playerProps.isBigScreen ? 'player-controls-svg-isBig' : 'player-controls-svg'}
-          src={playSvg}
-          alt="play"
           onClick={onPlayClick}
           style={{
-            marginLeft: '10px', marginRight: '10px',
+            marginLeft: '10px',
+            marginRight: '10px',
+            paddingTop: '32px',
+            background: `url(${playSvg}) no-repeat`,
+            backgroundSize: 'contain',
+            border: 'none',
           }}
-          width="27"
-          height="27"
-          viewBox="0 0 27 27"
-          fill="none"
+          width="30px"
+          height="36px"
         />
       )
   }
     {
-    showNextPrev
-      ? (
-        <img src={nextVideo} alt="next" className={playerProps.isBigScreen ? 'player-controls-svg-isBig' : 'player-controls-svg'} onClick={playerProps.playerNext} style={{ marginRight: '31px' }} width="27" height="27" />
-      )
-      : <span />
+    showNextPrev && (
+      <button
+        type="button"
+        src={nextVideo}
+        alt="next"
+        className={playerProps.isBigScreen ? 'player-controls-svg-isBig right' : 'player-controls-svg right'}
+        onClick={playerProps.playerNext}
+        style={{
+          marginRight: '31px',
+          paddingTop: '32px',
+          background: `url(${nextVideo}) no-repeat`,
+          backgroundSize: 'contain',
+          border: 'none',
+        }}
+        width="40px"
+        height="36px"
+      />
+    )
   }
   </div>
 )
@@ -104,51 +129,89 @@ export const PlayerButtons = ({
       {
         playerProps.expand
           ? (
-            <img onClick={onExpandClick} className="player-expanded-less" src={expand} alt="Expand Icon" />
+            <button
+              type="button"
+              style={{
+                background: `url(${expand}) no-repeat`,
+                backgroundSize: 'contain',
+                border: 'none',
+              }}
+              onClick={onExpandClick}
+              className="player-expanded-less"
+            />
           )
           : (
 
-            <img onClick={onExpandClick} className="player-expanded-more" src={expand} alt="Expand Icon" />
+            <button
+              type="button"
+              style={{
+                background: `url(${expand}) no-repeat`,
+                backgroundSize: 'contain',
+                border: 'none',
+              }}
+              onClick={onExpandClick}
+              className="player-expanded-more"
+            />
           )
         }
-      <img
-        src={cancelSvg}
-        alt="cancel"
+      <button
+        type="button"
+        style={{
+          background: `url(${cancelSvg}) no-repeat`,
+          backgroundSize: 'contain',
+          border: 'none',
+          minWidth: '27px',
+          minHeight: '20px',
+        }}
         onClick={onCloseClick}
-        style={{ minWidth: '20px', minHeight: '20px' }}
       />
     </div>
     <div className={playerProps.isBigScreen ? 'player-screen-control isBig' : 'player-screen-control'}>
       {
         playerProps.isBigScreen
           ? (
-            <img
-              src={bigScreen}
-              onClick={isBigScreenClick}
-              alt="fullScreen"
-              className="player-volume-path"
+            <button
+              type="button"
               style={{
-                minWidth: '18px', minHeight: 'px', paddingTop: '1.8rem', marginRight: '21px',
+                background: `url(${bigScreen}) no-repeat`,
+                backgroundSize: 'contain',
+                border: 'none',
+                minWidth: '18px',
+                minHeight: 'px',
+                paddingTop: '1.8rem',
+                marginRight: '21px',
               }}
+              onClick={isBigScreenClick}
+              className="player-volume-path"
             />
           ) : (
-            <img
-              src={bigScreen}
-              onClick={isBigScreenClick}
-              alt="fullScreen"
-              className="player-volume-path"
+            <button
+              type="button"
               style={{
-                minWidth: '24px', minHeight: '24px', paddingTop: '1.8rem', marginRight: '15px',
+                background: `url(${bigScreen}) no-repeat`,
+                backgroundSize: 'contain',
+                border: 'none',
+                minWidth: '30px',
+                minHeight: '24px',
+                paddingTop: '1.8rem',
+                marginRight: '15px',
               }}
+              onClick={isBigScreenClick}
+              className="player-volume-path"
             />
           )
       }
-      <img
-        src={fullScreen}
+      <buttom
+        type="buttom"
+        style={{
+          background: `url(${fullScreen}) no-repeat`,
+          backgroundSize: 'contain',
+          border: 'none',
+          minWidth: '20px',
+          minHeight: '20px',
+        }}
         onClick={onFullScreenClick}
-        alt="fullScreen"
         className="player-volume-path"
-        style={{ minWidth: '20px', minHeight: '20px', paddingTop: '1.8rem' }}
       />
     </div>
   </div>
@@ -299,29 +362,48 @@ export const PlayerButtonsBigScreen = ({
       {
         playerProps.isBigScreen
           ? (
-            <img
-              src={bigScreen}
+            <button
+              type="button"
+              style={{
+                background: `url(${bigScreen}) no-repeat`,
+                backgroundSize: 'contain',
+                border: 'none',
+                minWidth: '22px',
+                minHeight: 'px',
+                paddingTop: '0.8rem',
+                marginRight: '21px',
+              }}
               onClick={isBigScreenClick}
-              alt="fullScreen"
               className="player-volume-path"
-              style={{ minWidth: '18px', minHeight: 'px', marginRight: '21px' }}
             />
           ) : (
-            <img
-              src={bigScreen}
+            <button
+              type="button"
+              style={{
+                background: `url(${bigScreen}) no-repeat`,
+                backgroundSize: 'contain',
+                border: 'none',
+                minWidth: '30px',
+                minHeight: '24px',
+                paddingTop: '0.8rem',
+                marginRight: '15px',
+              }}
               onClick={isBigScreenClick}
-              alt="fullScreen"
               className="player-volume-path"
-              style={{ minWidth: '24px', minHeight: '24px', marginRight: '15px' }}
             />
           )
       }
-      <img
-        src={fullScreen}
+      <buttom
+        type="buttom"
+        style={{
+          background: `url(${fullScreen}) no-repeat`,
+          backgroundSize: 'contain',
+          border: 'none',
+          minWidth: '20px',
+          minHeight: '20px',
+        }}
         onClick={onFullScreenClick}
-        alt="fullScreen"
         className="player-volume-path"
-        style={{ minWidth: '20px', minHeight: '20px' }}
       />
     </div>
   </div>
@@ -331,22 +413,33 @@ export const PlayerButtonsBigScreenHover = ({
   onCloseClick, onShowInfo, playerProps, toggleOnHover, toggleOnHoverOut,
 }) => (
   <div onMouseLeave={toggleOnHoverOut} onMouseEnter={toggleOnHover} className="bigScreenInfo" style={{ width: playerProps.width, height: playerProps.height }}>
-    <img
-      src={cancelSvg}
-      alt="cancel"
+    <button
+      type="button"
+      style={{
+        background: `url(${cancelSvg}) no-repeat`,
+        backgroundSize: 'contain',
+        border: 'none',
+        minWidth: '20px',
+        minHeight: '20px',
+        marginBottom: '10px',
+      }}
       onClick={onCloseClick}
-      style={{ minWidth: '20px', minHeight: '20px', marginBottom: '16px' }}
     />
-    <img
-      src={infoSvg}
-      alt="info"
+    <buttom
+      type="buttom"
+      style={{
+        background: `url(${infoSvg}) no-repeat`,
+        backgroundSize: 'contain',
+        border: 'none',
+        minWidth: '20px',
+        minHeight: '20px',
+      }}
       onClick={onShowInfo}
-      style={{ minWidth: '20px', minHeight: '20px' }}
     />
   </div>
 )
 
-PlayerButtonsBigScreenHover.protoType = {
+PlayerButtonsBigScreenHover.propTypes = {
   onCloseClick: PropTypes.any,
   onShowInfo: PropTypes.any,
   playerProps: PropTypes.any,
@@ -354,10 +447,53 @@ PlayerButtonsBigScreenHover.protoType = {
   toggleOnHoverOut: PropTypes.any,
 }
 
-PlayerButtonsBigScreen.protoType = {
+PlayerButtonsBigScreen.propTypes = {
   onFullScreenClick: PropTypes.any,
-  onShowInfo: PropTypes.any,
   playerProps: PropTypes.any,
   isBigScreenClick: PropTypes.any,
-  toggleOnHoverOut: PropTypes.any,
+}
+
+MiniPlayer.propTypes = {
+  title: PropTypes.any,
+  showNextPrev: PropTypes.any,
+  playerProps: PropTypes.any,
+  onPlayClick: PropTypes.any,
+  onShowClick: PropTypes.any,
+}
+PlayerVolume.propTypes = {
+  playerProps: PropTypes.any,
+  volume: PropTypes.any,
+  setVolume: PropTypes.any,
+}
+
+PlayerBar.propTypes = {
+  elapsed: PropTypes.any,
+  remaining: PropTypes.any,
+  played: PropTypes.any,
+  loaded: PropTypes.any,
+  onSeekMouseDown: PropTypes.any,
+  onSeekChange: PropTypes.any,
+  onSeekMouseUp: PropTypes.any,
+  showProgressThumb: PropTypes.any,
+}
+
+PlayerButtons.propTypes = {
+  playerProps: PropTypes.any,
+  onFullScreenClick: PropTypes.any,
+  isBigScreenClick: PropTypes.any,
+  onExpandClick: PropTypes.any,
+  onCloseClick: PropTypes.any,
+}
+
+PlayerControls.propTypes = {
+  playerProps: PropTypes.any,
+  showNextPrev: PropTypes.any,
+  onPlayClick: PropTypes.any,
+}
+
+PlayerInfo.propTypes = {
+  playerProps: PropTypes.any,
+  title: PropTypes.any,
+  artist: PropTypes.any,
+  style: PropTypes.any,
 }

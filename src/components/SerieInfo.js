@@ -1,6 +1,3 @@
-/* eslint-disable jsx-a11y/click-events-have-key-events */
-/* eslint-disable jsx-a11y/no-static-element-interactions */
-
 import React, { Component } from 'react'
 import { Link } from 'gatsby';
 import PropTypes from 'prop-types'
@@ -23,7 +20,8 @@ class SerieInfo extends Component {
     };
   }
 
-  hanndlePlayClick = (episode, index) => {
+  hanndlePlayClick = (e) => {
+    const { episode, index } = JSON.parse(e.target.parentElement.value)
     this.setState({ isOpen: true, activeEpisode: episode, activeIndex: index })
   }
 
@@ -65,8 +63,10 @@ class SerieInfo extends Component {
           {
             limitedEpisodes.map((episode, index) => (
               <div className="Episode">
-                <div
-                  onClick={() => this.hanndlePlayClick(episode, index)}
+                <button
+                  type="button"
+                  value={JSON.stringify({ episode, index })}
+                  onClick={this.hanndlePlayClick}
                   style={{
                     background: `url(${episode.youtubeURL.imageURL})`,
                     backgroundSize: 'cover',
@@ -75,7 +75,7 @@ class SerieInfo extends Component {
                   className="EpisodeVideo"
                 >
                   <div className="playParavan" />
-                </div>
+                </button>
                 <div className="minicontainer">
                   <span className="subminititle">
                     {`${episode.youtubeURL.title.slice(0, 25)}: ${episode.youtubeURL.description.slice(0, 25)}`}
@@ -95,6 +95,8 @@ class SerieInfo extends Component {
                     episodes={episodes}
                     episodeInfo={activeEpisode}
                     handleCloseClick={this.handleCloseClick}
+                    frontmatter={frontmatter}
+                    playerIndex={index}
                     playing
                   />
                 )}

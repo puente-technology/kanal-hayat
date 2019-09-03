@@ -1,5 +1,3 @@
-/* eslint-disable jsx-a11y/click-events-have-key-events */
-/* eslint-disable jsx-a11y/no-noninteractive-element-interactions */
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import './PlayerInfo.css';
@@ -13,6 +11,9 @@ class PlayerInfoExpand extends Component {
     onCloseClick: PropTypes.any.isRequired,
     episodeInfo: PropTypes.any,
     episodes: PropTypes.any,
+    frontmatter: PropTypes.any,
+    playerIndex: PropTypes.any,
+    handleVideoUrlChange: PropTypes.any,
   };
 
   constructor(props) {
@@ -26,6 +27,9 @@ class PlayerInfoExpand extends Component {
       onCloseClick,
       episodeInfo,
       episodes,
+      frontmatter,
+      playerIndex,
+      handleVideoUrlChange,
     } = this.props
     return (
       <div style={{
@@ -40,25 +44,18 @@ class PlayerInfoExpand extends Component {
       >
         <div className="player-info-header">
           <p className="player-info-txt-head">
-            Spoken Talks: Bölüm 1
+            {frontmatter.title}
           </p>
           <p className="player-info-txt">
-            Yeşu: Sahte Tanrılar
+            {episodeInfo.youtubeURL.title}
           </p>
           <p className="player-info-txt">
-            Her Çarşamba
-          </p>
-          <p className="player-info-txt">
-            16.00 - 17.00
+            {frontmatter.publishDate}
           </p>
         </div>
         <div>
           <p className="player-info-contet">
-            Sotto La Loggia hosts scores of albums and improvisations from distinct
-            genres of jazz music from national,
-            regional, and local cultures. Our programme, aired at 9 p.m.
-            every Sunday, will be an essential for all jazz lovers and an instructive project for
-            all those who have just started exploring jazz music. Photo: Jens Thekkeveettil
+            {episodeInfo.youtubeURL.description}
           </p>
         </div>
         <div className="player-info-info-div-parent">
@@ -67,7 +64,7 @@ class PlayerInfoExpand extends Component {
               Host:
             </p>
             <p className="player-info-text-lighter">
-              Yeşua
+              {frontmatter.host}
             </p>
           </div>
           <div className="player-info-info-div">
@@ -75,7 +72,7 @@ class PlayerInfoExpand extends Component {
               Guests:
             </p>
             <p className="player-info-text-lighter">
-              Joyce Meyer
+              {episodeInfo.guests}
             </p>
           </div>
           <div className="player-info-info-div">
@@ -83,7 +80,7 @@ class PlayerInfoExpand extends Component {
               Target Group:
             </p>
             <p className="player-info-text-lighter">
-              Adult, Type:Teaching, Sub Category: Growth, Language: Türkçe-English
+              {frontmatter.targetGroup}
             </p>
           </div>
           <div className="player-info-info-div">
@@ -91,7 +88,7 @@ class PlayerInfoExpand extends Component {
               Keywords:
             </p>
             <p className="player-info-text-lighter">
-              spoken, words, sahte, tanrilar, kanalhayat...
+              {episodeInfo.youtubeURL.tags}
             </p>
           </div>
           <div style={{ marginTop: '30px' }}>
@@ -101,10 +98,28 @@ class PlayerInfoExpand extends Component {
           </div>
         </div>
         <div>
-          <Carousel episodes={[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]} activeEpisode={0} />
+          <Carousel
+            episodes={episodes}
+            activeEpisode={playerIndex}
+            frontmatter={frontmatter}
+            handleVideoUrlChange={handleVideoUrlChange}
+          />
         </div>
-        <div style={{ margin: '300px auto', transform: 'rotate(90deg)' }}>
-          <img width="50px" height="40px" onClick={onCloseClick} src={arrovSvg} alt="closeArrow" />
+        <div style={{ margin: '326px auto', transform: 'rotate(90deg)' }}>
+          <button
+            type="button"
+            width="50px"
+            height="40px"
+            onClick={onCloseClick}
+            style={{
+              background: `url(${arrovSvg})`,
+              backgroundSize: 'cover',
+              backgroundRepeat: 'no-repeat',
+              width: '23px',
+              height: '40px',
+              border: 'none',
+            }}
+          />
         </div>
       </div>
     )

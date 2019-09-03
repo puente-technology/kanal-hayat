@@ -1,10 +1,8 @@
-/* eslint-disable jsx-a11y/click-events-have-key-events */
-/* eslint-disable jsx-a11y/no-static-element-interactions */
 import React, { Component } from 'react';
 import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
 import './PlayerCarousel.scss';
 import PropTypes from 'prop-types';
-
+import { nFormatter } from '../utils/utils';
 
 const arrovSvg = require('../../static/images/expand.svg');
 
@@ -12,6 +10,8 @@ class Carousel extends Component {
   static propTypes = {
     episodes: PropTypes.any.isRequired,
     activeEpisode: PropTypes.any.isRequired,
+    frontmatter: PropTypes.any.isRequired,
+    handleVideoUrlChange: PropTypes.any.isRequired,
   };
 
   constructor(props) {
@@ -27,6 +27,7 @@ class Carousel extends Component {
   }
 
   generateItems() {
+    const { frontmatter, handleVideoUrlChange } = this.props
     const { active, items } = this.state
     const itemsArr = []
     let level
@@ -38,7 +39,15 @@ class Carousel extends Component {
         index = i % items.length
       }
       level = active - i
-      itemsArr.push(<Item key={index} id={items[index]} level={level} />)
+      itemsArr.push(<Item
+        key={index}
+        id={items[index]}
+        level={level}
+        frontmatter={frontmatter}
+        activeEpisode={active}
+        episodes={items}
+        handleVideoUrlChange={handleVideoUrlChange}
+      />)
     }
     return itemsArr
   }
@@ -66,13 +75,13 @@ class Carousel extends Component {
     const { direction } = this.state
     return (
       <div id="carousel" className="noselect">
-        <div className="arrow arrow-left" onClick={this.leftClick}><img src={arrovSvg} alt="LeftArrow" /></div>
+        <button type="button" className="arrow arrow-left" onClick={this.leftClick}><img src={arrovSvg} alt="LeftArrow" /></button>
         <ReactCSSTransitionGroup
           transitionName={direction}
         >
           {this.generateItems()}
         </ReactCSSTransitionGroup>
-        <div className="arrow arrow-right" onClick={this.rightClick}><img src={arrovSvg} alt="RightArrow" /></div>
+        <button type="button" className="arrow arrow-right" onClick={this.rightClick}><img src={arrovSvg} alt="RightArrow" /></button>
       </div>
     )
   }
@@ -82,6 +91,9 @@ class Item extends React.Component {
   static propTypes = {
     level: PropTypes.any.isRequired,
     id: PropTypes.any.isRequired,
+    frontmatter: PropTypes.any,
+    episodes: PropTypes.any,
+    handleVideoUrlChange: PropTypes.any,
   };
 
   constructor(props) {
@@ -90,12 +102,50 @@ class Item extends React.Component {
     }
   }
 
+  handleClick = () => {
+    const {
+      id,
+      episodes,
+      handleVideoUrlChange,
+    } = this.props
+    handleVideoUrlChange(id, episodes)
+  }
+
   render() {
-    const { level, id } = this.props
+    const {
+      level,
+      id,
+      frontmatter,
+    } = this.props
     const className = `item level${level}`
     return (
       <div className={className}>
-        {id}
+        <button
+          type="button"
+          onClick={this.handleClick}
+          style={{
+            background: `url(${id.youtubeURL.imageURL})`,
+            backgroundSize: 'cover',
+            position: 'relative',
+          }}
+          className="EpisodeVideoInfo"
+        />
+        <div className="info">
+          <div className="infoDiv">
+            {`${id.youtubeURL.title.slice(0, 25)}: `}
+          </div>
+          <div className="infoDiv">
+            {frontmatter.host}
+          </div>
+          <div className="infoDivView">
+            <div>
+              Views
+            </div>
+            <div>
+              {`• ${nFormatter(id.youtubeURL.viewCount)}`}
+            </div>
+          </div>
+        </div>
       </div>
     )
   }

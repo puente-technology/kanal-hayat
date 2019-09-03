@@ -50,6 +50,8 @@
 }
 .player-info-info-div {
   display: flex;
+  width: 800px;
+  margin-top: 5px;
 }
 
 .player-info-info-div-parent {
