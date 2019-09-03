@@ -444,7 +444,7 @@ collections:
       preview: false
     folder: content/hosts
     slug: '{{slug}}'
-    identifier_field: slug
+    identifier_field: host
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: Slug, name: slug, widget: hidden, default: '' }

@@ -7,6 +7,24 @@ const { createFilePath } = require('gatsby-source-filesystem')
 
 const locales = require('./src/constants/locales')
 
+/* eslint-disable func-names */
+// eslint-disable-next-line no-extend-native
+String.prototype.turkishtoEnglish = function () {
+  return this.replace('Ğ', 'g')
+    .replace('Ü', 'u')
+    .replace('Ş', 's')
+    .replace('I', 'i')
+    .replace('İ', 'i')
+    .replace('Ö', 'o')
+    .replace('Ç', 'c')
+    .replace('ğ', 'g')
+    .replace('ü', 'u')
+    .replace('ş', 's')
+    .replace('ı', 'i')
+    .replace('ö', 'o')
+    .replace('ç', 'c');
+};
+
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
   return graphql(`
@@ -103,7 +121,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     const parsedFilePath = path.parse(fileNode.relativePath)
 
     if (_.get(node, 'frontmatter.slug')) {
-      slug = `/${node.frontmatter.slug.toLowerCase()}/`
+      slug = `/${node.frontmatter.slug.toLowerCase().turkishtoEnglish()}/`
     } else if (
       // home page gets root slug
       parsedFilePath.name === 'home'
