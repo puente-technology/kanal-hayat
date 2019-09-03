@@ -15,6 +15,7 @@ class SeriesList extends Component {
 
   componentDidMount() {
     const { data } = this.props;
+    console.log({ data });
     this.setState({ listSeries: this.dataIntoArray(data) })
   }
 
@@ -111,6 +112,7 @@ class SeriesList extends Component {
 
   render() {
     const { expandedDiv, selectedCategories, listSeries } = this.state;
+    console.log({ listSeries });
     let previous = null;
     return (
       <div className="Series">
