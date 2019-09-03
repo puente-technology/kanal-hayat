@@ -4,6 +4,7 @@ backend:
   branch: develop
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
+publish_mode: editorial_workflow
  
 collections:
   - name: 'pages'
@@ -284,7 +285,7 @@ collections:
 
 
   - name: 'series-page'
-    label: 'Seriler'
+    label: 'İzle'
     delete: false
     editor:
       preview: false
@@ -296,7 +297,7 @@ collections:
           - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
           - { label: Template, name: template, widget: hidden, default: SeriesList }
           - { label: Slug, name: slug, widget: hidden, default: '' }
-          - { label: Title, name: title, widget: hidden }
+          - { label: Title, name: title, widget: string }
 
   - name: 'events'
     label: 'Program'
