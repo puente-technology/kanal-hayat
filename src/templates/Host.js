@@ -1,6 +1,6 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import PropTypes from 'prop-types'
+// import PropTypes from 'prop-types'
 
 // Export Template for use in CMS preview
 // export const AboutUsPageTemplate = data => (
@@ -8,8 +8,8 @@ import PropTypes from 'prop-types'
 // )
 
 // Export Default HomePage for front-end
-const Host = ({ data: { page } }) => {
-  console.log({ adfsfsfsdf: page });
+const Host = (data) => {
+  console.log({ adfsfsfsdf: data });
   return (
     <div>
       HEY
@@ -17,15 +17,15 @@ const Host = ({ data: { page } }) => {
   )
 }
 
-Host.propTypes = {
-  data: PropTypes.any,
-}
+// Host.propTypes = {
+//   allMarkdownRemark: PropTypes.any,
+// }
 
 export default Host;
 
 export const pageQuery = graphql`
 query Host($slug: String!) {
-  allMarkdownRemark(filter: { fields: { slug: { regex: $slug } }}) {
+  allMarkdownRemark(filter: { fields: { slug: { eq: $slug } }}) {
     nodes {
       frontmatter {
         host

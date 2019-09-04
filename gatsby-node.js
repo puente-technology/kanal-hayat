@@ -68,6 +68,7 @@ exports.createPages = ({ actions, graphql }) => {
         const { id } = page.node
         const { locale } = page.node.frontmatter;
         const slug = page.node.fields.slug.toLowerCase().turkishtoEnglish()
+        console.log({xxxxxxxxx: slug});
         createPage({
           // page slug set in md frontmatter
           path: page.node.fields.slug,
