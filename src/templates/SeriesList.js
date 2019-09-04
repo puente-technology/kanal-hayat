@@ -11,10 +11,9 @@ import SeriesList from '../components/SeriesList';
 // Export Default HomePage for front-end
 const SeriesListPage = (data) => {
   let { edges } = data.data.allMarkdownRemark
-
   edges = {
     // title: edges[0].node && edges[0].node.frontmatter.title,
-    ...edges.filter((x, i) => i !== 0),
+    ...edges.filter(x => x.node.fields.slug !== '/series/'),
     title: 'Seriler',
   }
   return (
