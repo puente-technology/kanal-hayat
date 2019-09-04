@@ -1,12 +1,15 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
+import { connect } from 'react-redux';
 import { nFormatter } from '../utils/utils';
 import Player from './Player'
+import { toggleDarkMode } from '../state/app';
 
 class SeriesPage extends Component {
   static propTypes = {
     episodes: PropTypes.any.isRequired,
     frontmatter: PropTypes.any.isRequired,
+    dispatch: PropTypes.any,
   };
 
   constructor(props) {
@@ -19,8 +22,17 @@ class SeriesPage extends Component {
   }
 
   hanndlePlayClick = (e) => {
+    const { dispatch, episodes, frontmatter } = this.props
     const { episode, index } = JSON.parse(e.target.parentElement.value)
     this.setState({ isOpen: true, activeEpisode: episode, activeIndex: index })
+    dispatch(toggleDarkMode(
+      episode,
+      episodes,
+      true,
+      index,
+      frontmatter,
+      this.handleCloseClick,
+    ))
   }
 
   handleCloseClick = () => {
@@ -84,4 +96,6 @@ class SeriesPage extends Component {
   }
 }
 
-export default SeriesPage;
+export default connect(state => ({
+  test: state,
+}), null)(SeriesPage)

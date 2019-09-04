@@ -1,6 +1,9 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
+import { connect } from 'react-redux';
 import ReactPlayer from 'react-player'
+import { toggleDarkMode } from '../state/app';
+
 import './Player.scss';
 import {
   PlayerInfo,
@@ -54,6 +57,8 @@ class Player extends Component {
     handleCloseClick: PropTypes.any,
     frontmatter: PropTypes.any,
     playerIndex: PropTypes.any,
+    dispatch: PropTypes.any,
+    index: PropTypes.any,
   }
 
   constructor(props) {
@@ -98,8 +103,16 @@ class Player extends Component {
   }
 
   onCloseClick = () => {
-    const { handleCloseClick } = this.props;
+    const { handleCloseClick, dispatch } = this.props;
     handleCloseClick()
+    dispatch(toggleDarkMode(
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+    ))
     this.setState({ isOpen: false })
   }
 
@@ -142,6 +155,20 @@ class Player extends Component {
   }
 
   handleVideoUrlChange = (episodeInfo, episodes) => {
+    const {
+      dispatch,
+      index,
+      frontmatter,
+      handleCloseClick,
+    } = this.props;
+    dispatch(toggleDarkMode(
+      episodeInfo,
+      episodes,
+      true,
+      index,
+      frontmatter,
+      handleCloseClick,
+    ))
     this.setState({ episode: episodeInfo, episodesInfo: episodes })
   }
 
@@ -276,8 +303,18 @@ class Player extends Component {
     return null
   }
 
+  urlChange = () => {
+    const { episodeInfo } = this.props;
+    this.setState({ episode: episodeInfo })
+  }
 
-  componentDidUpdate = () => {}
+
+  componentDidUpdate = (prevPros) => {
+    const { episodeInfo } = this.props;
+    if (episodeInfo.youtubeURL.url !== prevPros.episodeInfo.youtubeURL.url) {
+      this.urlChange()
+    }
+  }
 
   componentDidMount = () => {
   }
@@ -543,4 +580,11 @@ class Player extends Component {
   }
 }
 
-export default Player
+export default connect(state => ({
+  episodeInfo: state.app.episode || null,
+  episodes: state.app.episodes || null,
+  playing: state.app.playing || null,
+  frontmatter: state.app.frontmatter || null,
+  index: state.app.index || null,
+  handleCloseClick: state.app.handleCloseClick || null,
+}), null)(Player)

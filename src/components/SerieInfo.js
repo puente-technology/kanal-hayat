@@ -1,28 +1,39 @@
 import React, { Component } from 'react'
 import { Link } from 'gatsby';
+import { connect } from 'react-redux';
 import PropTypes from 'prop-types'
-import Player from './Player'
 import { nFormatter } from '../utils/utils';
+import { toggleDarkMode } from '../state/app';
+
 
 class SerieInfo extends Component {
   static propTypes = {
     frontmatter: PropTypes.any,
     handleCardCloseClick: PropTypes.any,
     slug: PropTypes.any,
+    dispatch: PropTypes.any,
   };
 
   constructor(props) {
     super(props);
     this.state = {
       isOpen: false,
-      activeEpisode: null,
-      activeIndex: null,
     };
   }
 
   hanndlePlayClick = (e) => {
+    const { dispatch, frontmatter } = this.props
+    const { episodes } = frontmatter;
     const { episode, index } = JSON.parse(e.target.parentElement.value)
-    this.setState({ isOpen: true, activeEpisode: episode, activeIndex: index })
+    this.setState({ isOpen: true })
+    dispatch(toggleDarkMode(
+      episode,
+      episodes,
+      true,
+      index,
+      frontmatter,
+      this.handleCloseClick,
+    ))
   }
 
   handleCloseClick = () => {
@@ -30,7 +41,7 @@ class SerieInfo extends Component {
   }
 
   render() {
-    const { isOpen, activeEpisode, activeIndex } = this.state;
+    const { isOpen } = this.state;
     const {
       frontmatter,
       handleCardCloseClick,
@@ -88,18 +99,9 @@ class SerieInfo extends Component {
                       {`• ${nFormatter(episode.youtubeURL.viewCount)}`}
                     </span>
                     {/* {frontmatter.channelTitle} */}
+                    {isOpen}
                   </span>
                 </div>
-                {isOpen && activeEpisode && activeIndex === index && (
-                  <Player
-                    episodes={episodes}
-                    episodeInfo={activeEpisode}
-                    handleCloseClick={this.handleCloseClick}
-                    frontmatter={frontmatter}
-                    playerIndex={index}
-                    playing
-                  />
-                )}
               </div>
             ))
         }
@@ -108,5 +110,6 @@ class SerieInfo extends Component {
     )
   }
 }
-
-export default SerieInfo;
+export default connect(state => ({
+  test: state,
+}), null)(SerieInfo)
