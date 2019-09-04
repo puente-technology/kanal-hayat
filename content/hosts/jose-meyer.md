@@ -1,5 +1,4 @@
 ---
-slug: ''
 template: Host
 host: Jose Meyer
 coverImage: /images/uploads/joyce-meyermeyer.png

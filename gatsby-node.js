@@ -67,7 +67,7 @@ exports.createPages = ({ actions, graphql }) => {
       pagesToCreate.forEach((page) => {
         const { id } = page.node
         const { locale } = page.node.frontmatter;
-
+        const slug = page.node.fields.slug.toLowerCase().turkishtoEnglish()
         createPage({
           // page slug set in md frontmatter
           path: page.node.fields.slug,
@@ -78,6 +78,7 @@ exports.createPages = ({ actions, graphql }) => {
           context: {
             id,
             locale,
+            slug,
           },
         })
       })
@@ -113,8 +114,6 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   // convert frontmatter images
   // fmImagesToRelative(node)
 
-  // Create smart slugs
-  // https://github.com/Vagr9K/gatsby-advanced-starter/blob/master/gatsby-node.js
   let slug
   if (node.internal.type === 'MarkdownRemark') {
     const fileNode = getNode(node.parent)
@@ -138,7 +137,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       slug = `/${parsedFilePath.dir}/`
     }
     const value = createFilePath({ node, getNode })
-
+    console.log({slug});
     createNodeField({
       node,
       name: 'slug',

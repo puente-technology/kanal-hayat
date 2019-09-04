@@ -447,7 +447,6 @@ collections:
     identifier_field: host
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - { label: Slug, name: slug, widget: hidden, default: '' }
       - { label: Template, name: template, widget: hidden, default: Host }
       - label: "Sunucu"
         name: "host"
