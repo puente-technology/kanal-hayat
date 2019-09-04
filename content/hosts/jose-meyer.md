@@ -2,6 +2,7 @@
 template: Host
 host: Jose Meyer
 coverImage: /images/uploads/joyce-meyermeyer.png
+title: Jose Meyer
 html: >-
   # Jose Meyer
 

@@ -8,7 +8,7 @@ import PropTypes from 'prop-types'
 // )
 
 // Export Default HomePage for front-end
-const HostPage = ({ data: { page } }) => {
+const Host = ({ data: { page } }) => {
   console.log({ adfsfsfsdf: page });
   return (
     <div>
@@ -17,11 +17,11 @@ const HostPage = ({ data: { page } }) => {
   )
 }
 
-HostPage.propTypes = {
+Host.propTypes = {
   data: PropTypes.any,
 }
 
-export default HostPage;
+export default Host;
 
 export const pageQuery = graphql`
 query Host($slug: String!) {

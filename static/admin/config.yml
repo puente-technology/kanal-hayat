@@ -444,10 +444,11 @@ collections:
       preview: false
     folder: content/hosts
     slug: '{{slug}}'
-    identifier_field: host
+    identifier_field: slug
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: Template, name: template, widget: hidden, default: Host }
+      - { label: Title, name: title, widget: string }
       - label: "Sunucu"
         name: "host"
         widget: "relation"
