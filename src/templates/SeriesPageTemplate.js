@@ -1,8 +1,10 @@
 
 import React, { Component } from 'react'
 import { graphql } from 'gatsby'
+import { connect } from 'react-redux';
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
+import Player from '../components/Player';
 import MobileAppLink from '../components/MobileAppLink';
 import PageFooterQ from '../components/PageFooter';
 import SeriesPage from '../components/SeriesPage';
@@ -82,7 +84,16 @@ class SeriesPageTemplate extends Component {
   }
 
   render() {
-    const { data: { page } } = this.props
+    const {
+      data: { page },
+      episode,
+      episodes,
+      playing,
+      frontmatter,
+      index,
+      handleCloseClick,
+    } = this.props
+
     const { list } = this.state
     const {
       title,
@@ -111,6 +122,18 @@ class SeriesPageTemplate extends Component {
           <SeriesPage episodes={list} frontmatter={page.frontmatter} />
           <MobileAppLink />
           <PageFooterQ />
+          {
+            episode && (
+              <Player
+                episodeInfo={episode}
+                episodes={episodes}
+                playing={playing}
+                playerIndex={index}
+                handleCloseClick={handleCloseClick}
+                frontmatter={frontmatter}
+              />
+            )
+          }
         </div>
       </React.Fragment>
     )
@@ -119,9 +142,23 @@ class SeriesPageTemplate extends Component {
 
 SeriesPageTemplate.propTypes = {
   data: PropTypes.any,
+  episode: PropTypes.any,
+  episodes: PropTypes.any,
+  playing: PropTypes.any,
+  frontmatter: PropTypes.any,
+  index: PropTypes.any,
+  handleCloseClick: PropTypes.any,
 }
 
-export default SeriesPageTemplate;
+
+export default connect(state => ({
+  episode: state.app.episode || null,
+  episodes: state.app.episodes || null,
+  playing: state.app.playing || null,
+  frontmatter: state.app.frontmatter || null,
+  index: state.app.index || null,
+  handleCloseClick: state.app.handleCloseClick || null,
+}), null)(SeriesPageTemplate)
 
 export const pageQuery = graphql`
 query SeriesPageTemplate($id: String!, $locale: String) {
