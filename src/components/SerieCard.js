@@ -17,7 +17,7 @@ class SerieCard extends Component {
 
 
   render() {
-    const { frontmatter } = this.props
+    const { frontmatter, value } = this.props
     const { isClicked } = this.state
     return (
       <React.Fragment>
@@ -31,7 +31,7 @@ class SerieCard extends Component {
         >
           <button
             type="button"
-            value={frontmatter.title}
+            value={value}
             onClick={this.handleCardClick}
             className={`paravan ${isClicked}`}
           />
@@ -52,6 +52,7 @@ class SerieCard extends Component {
 SerieCard.propTypes = {
   frontmatter: PropTypes.any,
   handleClick: PropTypes.func,
+  value: PropTypes.any,
 }
 
 
