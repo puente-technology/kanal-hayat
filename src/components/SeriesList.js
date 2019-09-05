@@ -22,6 +22,33 @@ class SeriesList extends Component {
 
   dataIntoArray = data => (Object.values(data).filter(x => x !== 'Seriler'))
 
+  handleLanguageChange = (e) => {
+    console.log({ e: e.target.value });
+    const { value } = e.target
+    let { listSeries } = this.state;
+    const { data } = this.props;
+    listSeries = this.dataIntoArray(data)
+    let res = listSeries;
+    if (value !== '-99') {
+      res = listSeries
+        .filter(d => d.node.frontmatter.language === value)
+    }
+    this.setState({ listSeries: res })
+  }
+
+  handleTargetChange = (e) => {
+    console.log({ e: e.target.value });
+    const { value } = e.target
+    let { listSeries } = this.state;
+    const { data } = this.props;
+    listSeries = this.dataIntoArray(data)
+    let res = listSeries;
+    if (value !== '-99') {
+      res = listSeries
+        .filter(d => d.node.frontmatter.targetGroup === value)
+    }
+    this.setState({ listSeries: res })
+  }
 
   handleCardClick = (e) => {
     this.setState({
@@ -125,7 +152,6 @@ class SeriesList extends Component {
   render() {
     const { expandedDiv, selectedCategories, listSeries } = this.state;
     const renderSeries = []
-    console.log({ expandedDiv, listSeries });
     for (let i = 0; i < listSeries.length; i += 1) {
       const { frontmatter, fields } = listSeries[i].node
       if (i.toString() === expandedDiv) {
@@ -199,13 +225,13 @@ class SeriesList extends Component {
         <div className="SeriesListSortAndFilter">
           <button value="title" onClick={this.handleSortByClick} type="button" className="SortButton">İsim</button>
           <button value="date" onClick={this.handleSortByDateClick} type="button" className="SortButton">Tarih</button>
-          <select className="SortButton">
+          <select onChange={this.handleLanguageChange} className="SortButton">
             <option value="-99">Dil</option>
             <option value="0">Türkçe</option>
             <option value="1">English</option>
           </select>
-          <select className="SortButton">
-            <option>Hedef Kitle</option>
+          <select onChange={this.handleTargetChange} className="SortButton">
+            <option value="-99">Hedef Kitle</option>
             <option>Herkes</option>
             <option>Çocuk</option>
             <option>Genç</option>
