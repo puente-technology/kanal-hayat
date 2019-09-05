@@ -1,12 +1,18 @@
 module.exports = {
   siteMetadata: {
     title: 'Full-Stack Bootcamp',
-    author: 'Andrew Mead'
+    author: 'Andrew Mead',
   },
   plugins: [
     'gatsby-transformer-yaml',
     'gatsby-plugin-sass',
     'gatsby-transformer-remark',
+    {
+      resolve: 'gatsby-plugin-layout',
+      options: {
+        component: require.resolve(`${__dirname}/src/components/deneme`),
+      },
+    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {

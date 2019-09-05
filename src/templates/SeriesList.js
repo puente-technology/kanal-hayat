@@ -21,6 +21,7 @@ const SeriesListPage = (data) => {
     <LayoutComp>
       <SeriesList data={edges} />
     </LayoutComp>
+
   )
 }
 
