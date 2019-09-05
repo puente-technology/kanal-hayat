@@ -16,7 +16,8 @@ class SeriesList extends Component {
   componentDidMount() {
     const { data } = this.props;
     console.log({ data });
-    this.setState({ listSeries: this.dataIntoArray(data) })
+    this.sortByName()
+    // this.setState({ listSeries: this.dataIntoArray(data) })
   }
 
   dataIntoArray = data => (Object.values(data).filter(x => x !== 'Seriler'))
@@ -44,7 +45,18 @@ class SeriesList extends Component {
 
   sortByName = () => {
     const { data } = this.props;
-    const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => a - b)
+    const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => {
+      const atitle = a.node.frontmatter.title
+      const btitle = b.node.frontmatter.title
+      console.log({ atitle, btitle });
+      if (atitle > btitle) {
+        return 1
+      } if (atitle < btitle) {
+        return -1
+      }
+      return 0
+    })
+    console.log({ res });
     this.setState({ listSeries: res })
   }
 
@@ -57,7 +69,7 @@ class SeriesList extends Component {
     const res = listSeries
       .filter(d => d.node.frontmatter.title.toLowerCase().includes(e.target.value.toLowerCase()))
 
-    this.setState({ listSeries: res, selectedCategories: [] })
+    this.setState({ listSeries: res, selectedCategories: [], expandedDiv: '' })
   }
 
   handleCategoryClick = (newSelectedCats) => {
@@ -113,11 +125,11 @@ class SeriesList extends Component {
   render() {
     const { expandedDiv, selectedCategories, listSeries } = this.state;
     const renderSeries = []
-    console.log({ expandedDiv });
+    console.log({ expandedDiv, listSeries });
     for (let i = 0; i < listSeries.length; i += 1) {
       const { frontmatter, fields } = listSeries[i].node
       if (i.toString() === expandedDiv) {
-        if (i % 2 === 0) {
+        if (i % 2 === 0 && listSeries.length > 1) {
           const nextFields = listSeries[i + 1].node.fields
           const nextFronmatter = listSeries[i + 1].node.frontmatter
 
@@ -178,7 +190,7 @@ class SeriesList extends Component {
       }
     }
 
-    console.log({ listSeries });
+    // console.log({ listSeries });
     return (
       <div className="Series">
         <div className="SeriesListCategories">
