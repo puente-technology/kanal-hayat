@@ -23,7 +23,7 @@ episodes:
         yourself to other people. Your value does not come from your status, how
         much money you have, or what you do for a living.  
       id: L9r93TmmjTM
-      imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/default.jpg'
+      imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-08-03T13:00:03.000Z'
       tags: >-
@@ -38,7 +38,7 @@ episodes:
     youtubeURL:
       description: Joyce Meyer Blessed Sermon Stress Management
       id: OMNHqOiLQ8s
-      imageURL: 'https://i.ytimg.com/vi/OMNHqOiLQ8s/default.jpg'
+      imageURL: 'https://i.ytimg.com/vi/OMNHqOiLQ8s/hqdefault.jpg'
       mediaType: video
       publishedAt: '2017-05-14T19:00:02.000Z'
       tags: >-
@@ -53,7 +53,7 @@ episodes:
     youtubeURL:
       description: Joyce Meyer Blessed Sermon Prayers That Get Answered
       id: p7nHTUyGiuk
-      imageURL: 'https://i.ytimg.com/vi/p7nHTUyGiuk/default.jpg'
+      imageURL: 'https://i.ytimg.com/vi/p7nHTUyGiuk/hqdefault.jpg'
       mediaType: video
       publishedAt: '2017-05-16T10:00:06.000Z'
       tags: >-
@@ -97,7 +97,7 @@ episodes:
         Bible, find healing from the wounds of life, get answers to life’s
         questions and encounter the love of God in a powerful way.
       id: 4UuYSQ9G-lk
-      imageURL: 'https://i.ytimg.com/vi/4UuYSQ9G-lk/default.jpg'
+      imageURL: 'https://i.ytimg.com/vi/4UuYSQ9G-lk/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-08-09T10:59:46.000Z'
       tags: >-
@@ -116,7 +116,7 @@ episodes:
     youtubeURL:
       description: Defeating
       id: 3qZ93W9xMM0
-      imageURL: 'https://i.ytimg.com/vi/3qZ93W9xMM0/default.jpg'
+      imageURL: 'https://i.ytimg.com/vi/3qZ93W9xMM0/hqdefault.jpg'
       mediaType: video
       publishedAt: '2014-08-04T10:02:34.000Z'
       tags: >-

@@ -14,7 +14,7 @@ episodes:
     youtubeURL:
       description: Michael Jordan last Game with the Bulls. Legend game for a ring.
       id: WgYj1IH3Y2w
-      imageURL: 'https://i.ytimg.com/vi/WgYj1IH3Y2w/default.jpg'
+      imageURL: 'https://i.ytimg.com/vi/WgYj1IH3Y2w/hqdefault.jpg'
       mediaType: video
       publishedAt: '2017-03-12T13:49:23.000Z'
       tags: 4,5,6
