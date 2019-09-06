@@ -79,13 +79,13 @@ collections:
               - { name: bgImage, label: Resim, widget: image }
               - { name: thumbnailTitle, label: Başlık - II, widget: string }
               - {
-                  label: "Align",
+                  label: "Hizalama",
                   name: "align",
                   widget: "select",
                   options: ["left", "right"]
                 }
               - {
-                  label: "Text Color",
+                  label: "Metin Rengi",
                   name: "color",
                   widget: "select",
                   options: ["dark", "light"]
@@ -94,78 +94,8 @@ collections:
                 name: 'thumbnails'
                 widget: 'list'
                 fields:
-                  - { name: image, label: Resim, widget: image }
-
-      - file: 'content/pages/home.en.md'
-        label: 'Home Page'
-        name: 'home-page'
-        fields:
-          - {label: "Locale", name: "locale", widget: "hidden", default: "en"}
-          - {
-              label: Template,
-              name: template,
-              widget: hidden,
-              default: HomePage,
-            }
-          - { label: Slug, name: slug, widget: hidden, default: '' }
-          - { label: Title, name: title, widget: string }
-          - label: 'Full Page Slider'
-            name: 'full-page-slider'
-            widget: 'list'
-            fields:
-              - { name: image, label: Image, widget: image }
-              - { name: alt, label: Alt, widget: string }
-              - { name: title, label: Title, widget: string, required: true }
-          - label: 'Program 1'
-            name: 'program1'
-            widget: 'object'
-            fields:
-              - { name: title, label: Başlık, widget: string }
-              - { name: content, label: İçerik, widget: text }
-              - { name: bgImage, label: Resim, widget: image }
-              - { name: thumbnailTitle, label: Başlık - II, widget: string }
-              - {
-                  label: "Align",
-                  name: "align",
-                  widget: "select",
-                  options: ["left", "right"]
-                }
-              - {
-                  label: "Text Color",
-                  name: "color",
-                  widget: "select",
-                  options: ["dark", "light"]
-                }
-              - label: 'Küçük Resimler'
-                name: 'thumbnails'
-                widget: 'list'
-                fields:
-                  - { name: image, label: Resim, widget: image }
-          - label: 'Program 2'
-            name: 'program2'
-            widget: 'object'
-            fields:
-              - { name: title, label: Başlık, widget: string }
-              - { name: content, label: İçerik, widget: text }
-              - { name: bgImage, label: Resim, widget: image }
-              - { name: thumbnailTitle, label: Başlık - II, widget: string }
-              - {
-                  label: "Align",
-                  name: "align",
-                  widget: "select",
-                  options: ["left", "right"]
-                }
-              - {
-                  label: "Text Color",
-                  name: "color",
-                  widget: "select",
-                  options: ["dark", "light"]
-                }
-              - label: 'Küçük Resimler'
-                name: 'thumbnails'
-                widget: 'list'
-                fields:
-                  - { name: image, label: Resim, widget: image }
+                  - { name: image, label: Resim, widget: image, required: false  }
+                  - { name: youtubeURL, label: Youtube URL, widget: youtube, extraInfo: true, APIkey: "AIzaSyAln9Zizqc3_r8zozq4OcmqwwsUOXRJtuE", required: false }
 
   - name: 'foterBanner'
     label: 'Footer Banner'

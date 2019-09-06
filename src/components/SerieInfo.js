@@ -79,7 +79,7 @@ class SerieInfo extends Component {
                   value={JSON.stringify({ episode, index })}
                   onClick={this.hanndlePlayClick}
                   style={{
-                    background: `url(${episode.youtubeURL.imageURL})`,
+                    background: `url(${episode.youtubeURL.imageURL}) 50%`,
                     backgroundSize: 'cover',
                     position: 'relative',
                   }}

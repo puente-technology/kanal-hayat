@@ -47,8 +47,7 @@ program2:
     error sit voluptatem accusantium doloremque laudantium.
   thumbnailTitle: Watch Now!
   thumbnails:
-    - image: /images/thumbnailTemp.png
-      youtubeURL:
+    - youtubeURL:
         description: >-
           #Susamam - Şanışer ft. Fuat, Ados, Hayki, Server Uraz, Beta,
           Tahribad-ı İsyan, Sokrat St, Ozbi, Deniz Tekin, Sehabe, Yeis Sensura,

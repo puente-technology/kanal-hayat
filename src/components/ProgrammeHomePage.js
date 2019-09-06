@@ -3,6 +3,7 @@ import './ProgrammeHomePage.scss';
 
 export default (data) => {
   const tempData = data.data;
+  console.log({ tempData });
   return (
     <div
       style={{ background: `url(${tempData.bgImage}) no-repeat center`, backgroundSize: 'cover' }}
@@ -22,12 +23,33 @@ export default (data) => {
           {
             tempData.thumbnails.map((thumb, i) => (
               <div key={i} className="ProgrammeThumbnail">
-                <img
-                  alt={`thumbnail${i}`}
-                  src={thumb.image}
-                  width={280}
-                  height={150}
-                />
+                {
+                  thumb.image
+                    ? (
+                      <img
+                        alt={`thumbnail${i}`}
+                        src={thumb.image}
+                        width={280}
+                        height={150}
+                      />
+                    )
+                    : (
+                      <button
+                        type="button"
+                        style={{
+                          background: `url(${thumb.youtubeURL.imageURL}) 50%`,
+                          backgroundSize: 'cover',
+                          position: 'relative',
+                          width: '280px',
+                          height: '150px',
+                        }}
+                        className="EpisodeVideo"
+                      >
+                        <div className="playParavan" />
+                      </button>
+                    )
+                }
+
               </div>
             ))
           }
