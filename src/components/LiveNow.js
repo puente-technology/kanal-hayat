@@ -20,6 +20,7 @@ export default () => (
               time {
                 days
                 startTime
+                endTime
               }
             }
           }
@@ -53,7 +54,6 @@ export const LiveNowC = (props) => {
   ) => {
     const itemStartTime = `${new Date().toLocaleDateString()} ${startTime}`
     const itemEndTime = `${new Date().toLocaleDateString()} ${endTime}`
-
     return (
       days
         .some(d => d === parseInt(firstLoadedDay, 10)
