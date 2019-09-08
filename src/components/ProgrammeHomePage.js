@@ -25,7 +25,7 @@ export default (data) => {
               <div key={i} className="ProgrammeThumbnail">
                 {
                   thumb.image
-                    ? (
+                    && (
                       <img
                         alt={`thumbnail${i}`}
                         src={thumb.image}
@@ -33,7 +33,9 @@ export default (data) => {
                         height={150}
                       />
                     )
-                    : (
+                }
+                {
+                    thumb.youtubeURL && (
                       <button
                         type="button"
                         style={{
