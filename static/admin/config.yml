@@ -70,6 +70,7 @@ collections:
                 widget: 'list'
                 fields:
                   - { name: image, label: Resim, widget: image }
+                  - { name: youtubeURL, label: Youtube URL, widget: youtube, extraInfo: true, APIkey: "AIzaSyAln9Zizqc3_r8zozq4OcmqwwsUOXRJtuE", required: false, default: null }
           - label: 'Program 2'
             name: 'program2'
             widget: 'object'

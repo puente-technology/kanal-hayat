@@ -48,7 +48,6 @@ class SerieInfo extends Component {
       handleCardCloseClick,
       slug,
     } = this.props;
-    console.log(frontmatter)
     const { episodes } = frontmatter;
     const limitedEpisodes = episodes.slice(0, 3)
     return (

@@ -82,6 +82,16 @@ export const pageQuery = graphql`
           thumbnailTitle
           thumbnails {
             image
+            youtubeURL {
+              description
+              id
+              imageURL
+              publishedAt
+              tags
+              title
+              url
+              viewCount
+            }
           }
         }
         program2 {
@@ -94,10 +104,14 @@ export const pageQuery = graphql`
           thumbnails {
             image
             youtubeURL {
+              description
               id
               imageURL
+              publishedAt
+              tags
               title
               url
+              viewCount
             }
           }
         }

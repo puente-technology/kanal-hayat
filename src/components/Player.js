@@ -441,8 +441,8 @@ class Player extends Component {
       reactPlayerStyles.left = '0px';
       reactPlayerStyles.zIndex = 10;
     }
-    const { title } = episode.youtubeURL
-    const artist = frontmatter.host
+    const { title } = episode.youtubeURL || ''
+    const artist = frontmatter.host || ''
     const elapsed = duration * played
     const remaining = duration * (1 - played)
 
@@ -634,11 +634,11 @@ class Player extends Component {
 }
 
 export default connect(state => ({
-  episodeInfo: state.app.episode || null,
-  episodes: state.app.episodes || null,
-  playing: state.app.playing || null,
-  frontmatter: state.app.frontmatter || null,
-  index: state.app.index || null,
-  handleCloseClick: state.app.handleCloseClick || null,
-  isActive: state.app.isOpen || null,
+  episodeInfo: state.app.episode || '',
+  episodes: state.app.episodes || '',
+  playing: state.app.playing || '',
+  frontmatter: state.app.frontmatter || '',
+  index: state.app.index || '',
+  handleCloseClick: state.app.handleCloseClick || '',
+  isActive: state.app.isOpen || '',
 }), null)(Player)
