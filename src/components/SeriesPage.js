@@ -51,7 +51,7 @@ class SeriesPage extends Component {
                 value={JSON.stringify({ episode, index })}
                 onClick={this.hanndlePlayClick}
                 style={{
-                  background: `url(${episode.youtubeURL.imageURL})`,
+                  background: `url(${episode.youtubeURL.imageURL}) 50%`,
                   position: 'relative',
                 }}
                 className="EpisodeVideo"

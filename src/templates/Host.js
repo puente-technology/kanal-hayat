@@ -38,7 +38,6 @@ const Host = (data) => {
           {
             series.map((serie, key) => (
               <div
-                type="button"
                 key={key}
                 style={{
                   background: `url(${serie.frontmatter.coverImage})`,

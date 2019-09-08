@@ -4,11 +4,11 @@
   -o-background-size: cover;
   background-size: cover;
   font-style: normal;
-  
+
   height: 100vh;
 }
 
-.Programme{
+.Programme {
   height: 100vh;
   padding-top: 80px;
   padding-bottom: 55px;
@@ -54,6 +54,8 @@
 .ProgrammeThumbnails {
   display: flex;
   flex-direction: row;
+  width: 620px;
+  overflow-x: auto;
 }
 
 .ProgrammeThumbnail {

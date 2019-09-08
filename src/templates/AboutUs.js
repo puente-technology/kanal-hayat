@@ -32,7 +32,6 @@ query AboutUs($id: String!, $locale: String) {
       slug
       locale
       featuredImage
-      subtitle
       content {
         about
         contactInfo

@@ -64,7 +64,6 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        subtitle
         featuredImage
         gallery {
           alt
@@ -72,9 +71,7 @@ export const pageQuery = graphql`
           title
           align
           color
-          programName
-          programTime
-          programURL
+
         }
         program1 {
           title
@@ -96,6 +93,12 @@ export const pageQuery = graphql`
           thumbnailTitle
           thumbnails {
             image
+            youtubeURL {
+              id
+              imageURL
+              title
+              url
+            }
           }
         }
       }
