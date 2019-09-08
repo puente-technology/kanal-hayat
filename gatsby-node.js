@@ -7,6 +7,24 @@ const { createFilePath } = require('gatsby-source-filesystem')
 
 const locales = require('./src/constants/locales')
 
+/* eslint-disable func-names */
+// eslint-disable-next-line no-extend-native
+String.prototype.turkishtoEnglish = function () {
+  return this.replace('Ğ', 'g')
+    .replace('Ü', 'u')
+    .replace('Ş', 's')
+    .replace('I', 'i')
+    .replace('İ', 'i')
+    .replace('Ö', 'o')
+    .replace('Ç', 'c')
+    .replace('ğ', 'g')
+    .replace('ü', 'u')
+    .replace('ş', 's')
+    .replace('ı', 'i')
+    .replace('ö', 'o')
+    .replace('ç', 'c');
+};
+
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
   return graphql(`
@@ -49,7 +67,8 @@ exports.createPages = ({ actions, graphql }) => {
       pagesToCreate.forEach((page) => {
         const { id } = page.node
         const { locale } = page.node.frontmatter;
-
+        const slug = page.node.fields.slug.toLowerCase().turkishtoEnglish()
+        console.log({ xxxxxxxxx: slug });
         createPage({
           // page slug set in md frontmatter
           path: page.node.fields.slug,
@@ -60,6 +79,7 @@ exports.createPages = ({ actions, graphql }) => {
           context: {
             id,
             locale,
+            slug,
           },
         })
       })
@@ -95,15 +115,13 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   // convert frontmatter images
   // fmImagesToRelative(node)
 
-  // Create smart slugs
-  // https://github.com/Vagr9K/gatsby-advanced-starter/blob/master/gatsby-node.js
   let slug
   if (node.internal.type === 'MarkdownRemark') {
     const fileNode = getNode(node.parent)
     const parsedFilePath = path.parse(fileNode.relativePath)
 
     if (_.get(node, 'frontmatter.slug')) {
-      slug = `/${node.frontmatter.slug.toLowerCase()}/`
+      slug = `/${node.frontmatter.slug.toLowerCase().turkishtoEnglish()}/`
     } else if (
       // home page gets root slug
       parsedFilePath.name === 'home'
@@ -120,7 +138,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       slug = `/${parsedFilePath.dir}/`
     }
     const value = createFilePath({ node, getNode })
-
+    console.log({ slug });
     createNodeField({
       node,
       name: 'slug',

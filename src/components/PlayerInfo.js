@@ -87,11 +87,11 @@ class PlayerInfoExpand extends Component {
             <p className="player-info-text-bold">
               Keywords:
             </p>
-            <p className="player-info-text-lighter">
+            <p className="player-info-text-lighter" style={{ height: '32px', overflow: 'scroll' }}>
               {episodeInfo.youtubeURL.tags}
             </p>
           </div>
-          <div style={{ marginTop: '30px' }}>
+          <div style={{ marginTop: '20px' }}>
             <p className="player-info-text-bold">
               Bölümler
             </p>
@@ -105,7 +105,7 @@ class PlayerInfoExpand extends Component {
             handleVideoUrlChange={handleVideoUrlChange}
           />
         </div>
-        <div style={{ margin: '326px auto', transform: 'rotate(90deg)' }}>
+        <div style={{ margin: '65px auto', transform: 'rotate(90deg)' }}>
           <button
             type="button"
             width="50px"

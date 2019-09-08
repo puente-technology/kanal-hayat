@@ -1,12 +1,12 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import PropTypes from 'prop-types';
-import Layout from '../components/Layout'
 import FullPageSlider from '../components/FullPageSlider';
 import HomePageSlider from '../cms/preview-templates/HomePageSlider';
 import ProgrammeHomePage from '../components/ProgrammeHomePage';
 import FriendSiteBanner from '../components/FriendSiteBanner';
 import LiveNow from '../components/LiveNow';
+import HomePageLayout from '../components/HomePageLayout';
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = (data) => {
@@ -42,9 +42,9 @@ export const HomePageTemplate = (data) => {
 
 // Export Default HomePage for front-end
 const HomePage = ({ data: { page } }) => (
-  <Layout>
+  <HomePageLayout>
     <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
-  </Layout>
+  </HomePageLayout>
 )
 
 HomePage.propTypes = {

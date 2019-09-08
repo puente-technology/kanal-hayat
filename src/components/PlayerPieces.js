@@ -45,8 +45,6 @@ export const PlayerControls = ({
   playerProps,
   showNextPrev,
   onPlayClick,
-  playerNext,
-  playerPrev,
 }) => (
   <div className={playerProps.isBigScreen ? 'player-controls isBig' : 'player-controls'}>
     {
@@ -431,23 +429,27 @@ export const PlayerButtonsBigScreenHover = ({
         background: `url(${cancelSvg}) no-repeat`,
         backgroundSize: 'contain',
         border: 'none',
-        minWidth: '20px',
-        minHeight: '20px',
-        marginBottom: '10px',
+        minWidth: '30px',
+        minHeight: '50px',
+        marginBottom: '5px',
       }}
       onClick={onCloseClick}
     />
-    <buttom
-      type="buttom"
-      style={{
-        background: `url(${infoSvg}) no-repeat`,
-        backgroundSize: 'contain',
-        border: 'none',
-        minWidth: '20px',
-        minHeight: '20px',
-      }}
-      onClick={onShowInfo}
-    />
+    {
+      !playerProps.showinfoBool && (
+        <buttom
+          type="buttom"
+          style={{
+            background: `url(${infoSvg}) no-repeat`,
+            backgroundSize: 'contain',
+            border: 'none',
+            minWidth: '30px',
+            minHeight: '50px',
+          }}
+          onClick={onShowInfo}
+        />
+      )
+    }
   </div>
 )
 

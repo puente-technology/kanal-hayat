@@ -4,6 +4,7 @@ backend:
   branch: develop
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
+publish_mode: editorial_workflow
  
 collections:
   - name: 'pages'
@@ -282,9 +283,24 @@ collections:
           - { label: Address, name: address, widget: string }
           - { label: Header, name: header, widget: string }
 
+  - name: 'info-page'
+    label: 'Bilgi Edin'
+    delete: false
+    editor:
+      preview: true
+    files:
+      - file: 'content/pages/info-page.md'
+        label: 'Bilgi Edin'
+        name: 'info-page'
+        fields:
+          - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
+          - { label: Template, name: template, widget: hidden}
+          - { label: Slug, name: slug, widget: hidden, default: '' }
+          - { label: Title, name: title, widget: string }
+
 
   - name: 'series-page'
-    label: 'Seriler'
+    label: 'İzle'
     delete: false
     editor:
       preview: false
@@ -296,7 +312,7 @@ collections:
           - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
           - { label: Template, name: template, widget: hidden, default: SeriesList }
           - { label: Slug, name: slug, widget: hidden, default: '' }
-          - { label: Title, name: title, widget: hidden }
+          - { label: Title, name: title, widget: string }
 
   - name: 'events'
     label: 'Program'
@@ -423,7 +439,6 @@ collections:
         searchFields: ["category"]
         valueField: "category"
         displayFields: ["category"]
-        required: false
         multiple: true
       - label: 'Bölümler'
         name: 'episodes'
@@ -436,3 +451,32 @@ collections:
             name: season
             widget: select
             options: ["1",  "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20"]
+
+  - name: hosts
+    label: Sunucular
+    editor:
+      preview: false
+    folder: content/hosts
+    slug: '{{slug}}'
+    identifier_field: slug
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: Template, name: template, widget: hidden, default: Host }
+      - { label: Title, name: title, widget: string }
+      - label: "Sunucu"
+        name: "host"
+        widget: "relation"
+        collection: "series"
+        searchFields: ["host"]
+        valueField: "host"
+        displayFields: ["host"]
+      - {
+        label: Kapak Resmi,
+        name: coverImage,
+        widget: image,
+        }
+      - {
+        label: İçerik,
+        name: html,
+        widget: markdown,
+        }

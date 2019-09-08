@@ -1,36 +1,69 @@
-// https://fonts.googleapis.com/css?family=Nunito
-import React, { Fragment } from 'react'
-import Helmet from 'react-helmet';
+import React, { Fragment, PureComponent } from 'react'
+import { connect } from 'react-redux';
+import Helmet from 'react-helmet'
 import PropTypes from 'prop-types';
-import PageFooterQ from './PageFooter';
-import MobileAppLink from './MobileAppLink'
-// import FriendSiteBanner from './FriendSiteBanner'
-import './globalStyles.css'
-// import Nav from './Nav';
+import Player from './Player';
 
-const Layout = ({
-  children, title,
-}) => (
-  <Fragment>
-    <Helmet>
-      {title}
-      <link href="https://ucarecdn.com" rel="preconnect" crossOrigin />
-      <link rel="dns-prefetch" href="https://ucarecdn.com" />
-      <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" />
-    </Helmet>
-    {/* <Nav color={color} align={align} /> */}
-    <div className="MainDiv">
-      {children}
-      <MobileAppLink />
-      <PageFooterQ />
-    </div>
-  </Fragment>
-)
+class LayoutComp extends PureComponent {
+  static propTypes = {
+    children: PropTypes.any,
+    frontmatter: PropTypes.any,
+    episode: PropTypes.any,
+    episodes: PropTypes.any,
+    playing: PropTypes.any,
+    index: PropTypes.any,
+    handleCloseClick: PropTypes.any,
+  };
 
-Layout.propTypes = {
-  children: PropTypes.any,
-  // meta: PropTypes.any,
-  title: PropTypes.any,
+  constructor(props) {
+    super(props);
+    this.state = {
+    };
+  }
+
+  render() {
+    const {
+      children,
+      episode,
+      episodes,
+      index,
+      frontmatter,
+      handleCloseClick,
+      playing,
+    } = this.props
+    return (
+      <Fragment>
+        <Helmet>
+          <link href="https://ucarecdn.com" rel="preconnect" crossOrigin />
+          <link rel="dns-prefetch" href="https://ucarecdn.com" />
+          <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" />
+        </Helmet>
+        <div className="MainDiv">
+          <Fragment>{children}</Fragment>
+          {
+            episode && (
+              <Player
+                episodeInfo={episode}
+                episodes={episodes}
+                playing={playing}
+                playerIndex={index}
+                handleCloseClick={handleCloseClick}
+                frontmatter={frontmatter}
+              />
+            )
+          }
+        </div>
+      </Fragment>
+    )
+  }
 }
 
-export default Layout;
+export default connect(state => ({
+  episode: state.app.episode || null,
+  episodes: state.app.episodes || null,
+  playing: state.app.playing || null,
+  frontmatter: state.app.frontmatter || null,
+  index: state.app.index || null,
+  handleCloseClick: state.app.handleCloseClick || null,
+  isActive: state.app.isOpen || null,
+}), null)(LayoutComp)

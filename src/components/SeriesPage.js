@@ -44,7 +44,7 @@ class SeriesPage extends Component {
       <div className="SeriesPage">
         {
           episodes.map((episode, index) => (
-            <div className="Episode">
+            <div key={index} className="Episode">
               <button
                 type="button"
                 key={index}
@@ -52,7 +52,6 @@ class SeriesPage extends Component {
                 onClick={this.hanndlePlayClick}
                 style={{
                   background: `url(${episode.youtubeURL.imageURL})`,
-                  backgroundSize: 'cover',
                   position: 'relative',
                 }}
                 className="EpisodeVideo"

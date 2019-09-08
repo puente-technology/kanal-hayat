@@ -15,11 +15,40 @@ class SeriesList extends Component {
 
   componentDidMount() {
     const { data } = this.props;
-    this.setState({ listSeries: this.dataIntoArray(data) })
+    console.log({ data });
+    this.sortByName()
+    // this.setState({ listSeries: this.dataIntoArray(data) })
   }
 
   dataIntoArray = data => (Object.values(data).filter(x => x !== 'Seriler'))
 
+  handleLanguageChange = (e) => {
+    console.log({ e: e.target.value });
+    const { value } = e.target
+    let { listSeries } = this.state;
+    const { data } = this.props;
+    listSeries = this.dataIntoArray(data)
+    let res = listSeries;
+    if (value !== '-99') {
+      res = listSeries
+        .filter(d => d.node.frontmatter.language === value)
+    }
+    this.setState({ listSeries: res })
+  }
+
+  handleTargetChange = (e) => {
+    console.log({ e: e.target.value });
+    const { value } = e.target
+    let { listSeries } = this.state;
+    const { data } = this.props;
+    listSeries = this.dataIntoArray(data)
+    let res = listSeries;
+    if (value !== '-99') {
+      res = listSeries
+        .filter(d => d.node.frontmatter.targetGroup === value)
+    }
+    this.setState({ listSeries: res })
+  }
 
   handleCardClick = (e) => {
     this.setState({
@@ -43,7 +72,18 @@ class SeriesList extends Component {
 
   sortByName = () => {
     const { data } = this.props;
-    const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => a - b)
+    const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => {
+      const atitle = a.node.frontmatter.title
+      const btitle = b.node.frontmatter.title
+      console.log({ atitle, btitle });
+      if (atitle > btitle) {
+        return 1
+      } if (atitle < btitle) {
+        return -1
+      }
+      return 0
+    })
+    console.log({ res });
     this.setState({ listSeries: res })
   }
 
@@ -56,7 +96,7 @@ class SeriesList extends Component {
     const res = listSeries
       .filter(d => d.node.frontmatter.title.toLowerCase().includes(e.target.value.toLowerCase()))
 
-    this.setState({ listSeries: res, selectedCategories: [] })
+    this.setState({ listSeries: res, selectedCategories: [], expandedDiv: '' })
   }
 
   handleCategoryClick = (newSelectedCats) => {
@@ -111,7 +151,72 @@ class SeriesList extends Component {
 
   render() {
     const { expandedDiv, selectedCategories, listSeries } = this.state;
-    let previous = null;
+    const renderSeries = []
+    for (let i = 0; i < listSeries.length; i += 1) {
+      const { frontmatter, fields } = listSeries[i].node
+      if (i.toString() === expandedDiv) {
+        if (i % 2 === 0 && listSeries.length > 1) {
+          const nextFields = listSeries[i + 1].node.fields
+          const nextFronmatter = listSeries[i + 1].node.frontmatter
+
+          renderSeries.push(
+            <React.Fragment>
+              <SerieCard
+                handleClick={this.handleCardClick}
+                key={i}
+                frontmatter={frontmatter}
+                slug={fields.slug}
+                value={i}
+              />
+              <SerieCard
+                handleClick={this.handleCardClick}
+                key={i + 1}
+                frontmatter={nextFronmatter}
+                slug={nextFields.slug}
+                value={i + 1}
+              />
+              <SerieInfo
+                slug={fields.slug}
+                handleCardCloseClick={this.handleCardCloseClick}
+                frontmatter={frontmatter}
+              />
+            </React.Fragment>,
+          )
+          i += 1
+        } else {
+          renderSeries.push(
+            <React.Fragment>
+              <SerieCard
+                handleClick={this.handleCardClick}
+                key={i}
+                frontmatter={frontmatter}
+                slug={fields.slug}
+                value={i}
+              />
+              <SerieInfo
+                slug={fields.slug}
+                handleCardCloseClick={this.handleCardCloseClick}
+                frontmatter={frontmatter}
+              />
+            </React.Fragment>,
+          )
+        }
+      } else {
+        renderSeries.push(
+          <React.Fragment>
+            <SerieCard
+              handleClick={this.handleCardClick}
+              key={i}
+              frontmatter={frontmatter}
+              slug={fields.slug}
+              value={i}
+            />
+          </React.Fragment>,
+        )
+      }
+    }
+
+    // console.log({ listSeries });
     return (
       <div className="Series">
         <div className="SeriesListCategories">
@@ -120,13 +225,13 @@ class SeriesList extends Component {
         <div className="SeriesListSortAndFilter">
           <button value="title" onClick={this.handleSortByClick} type="button" className="SortButton">İsim</button>
           <button value="date" onClick={this.handleSortByDateClick} type="button" className="SortButton">Tarih</button>
-          <select className="SortButton">
+          <select onChange={this.handleLanguageChange} className="SortButton">
             <option value="-99">Dil</option>
             <option value="0">Türkçe</option>
             <option value="1">English</option>
           </select>
-          <select className="SortButton">
-            <option>Hedef Kitle</option>
+          <select onChange={this.handleTargetChange} className="SortButton">
+            <option value="-99">Hedef Kitle</option>
             <option>Herkes</option>
             <option>Çocuk</option>
             <option>Genç</option>
@@ -136,37 +241,7 @@ class SeriesList extends Component {
         </div>
         <div className="SeriesContainer">
           {
-            listSeries.map(({ node }, i) => {
-              const { frontmatter, fields } = node
-              const isCurrent = (expandedDiv === frontmatter.title && (i % 2) === 1)
-              if (isCurrent || previous) {
-                return (
-                  <React.Fragment>
-                    <SerieCard
-                      key={i}
-                      frontmatter={frontmatter}
-                      handleClick={this.handleCardClick}
-                    />
-                    <SerieInfo
-                      slug={isCurrent ? fields.slug : previous.fields.slug}
-                      handleCardCloseClick={this.handleCardCloseClick}
-                      frontmatter={isCurrent ? frontmatter : previous.frontmatter}
-                    />
-                  </React.Fragment>
-                )
-              }
-              if (expandedDiv === frontmatter.title && (i % 2) === 0) {
-                previous = node;
-              }
-              return (
-                <SerieCard
-                  handleClick={this.handleCardClick}
-                  key={i}
-                  frontmatter={frontmatter}
-                  slug={fields.slug}
-                />
-              )
-            })
+            renderSeries.map(x => x)
           }
         </div>
       </div>

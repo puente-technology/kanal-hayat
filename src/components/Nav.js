@@ -65,10 +65,11 @@ export class Navigation extends Component {
             <Logo />
           </Link>
           <div className={`Nav--Links ${color.color}`}>
+            <NavLink color={color} align={align} to="/">Öğren</NavLink>
             <NavLink color={color} align={align} to="/series">İzle</NavLink>
             <NavLink color={color} align={align} to="/events">Yayın Akışı</NavLink>
-            <NavLink color={color} align={align} to="/">Öğren</NavLink>
             <NavLink color={color} align={align} to="/about-us">Kanal Hayat Hakkında</NavLink>
+            <NavLink color={color} align={align} to="/info-page">Bilgi Edin</NavLink>
             <NavLink color={color} align={align} to="/contact-us">İletişim</NavLink>
             <div style={{ display: 'none' }} className="styled-select">
               <select defaultValue="0">

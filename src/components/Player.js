@@ -80,7 +80,7 @@ class Player extends Component {
       isOpen: true,
       isPlayerInfoOpen: true,
       hoverBool: false,
-      showinfoBool: false,
+      showinfoBool: true,
       episodesInfo: episodes,
       episode: episodeInfo,
     }
@@ -221,6 +221,7 @@ class Player extends Component {
     const { seeking } = this.state;
     if (progress.played === 1) {
       this.setState({ playingBool: false })
+      this.playerNext()
     }
     if (seeking) {
       this.setState({
@@ -411,6 +412,7 @@ class Player extends Component {
     props.controls = false;
     props.isBigScreen = isBigScreen
     props.hoverBool = hoverBool
+    props.showinfoBool = showinfoBool
     if (fullscreen) {
       props.height = '100%'
       props.width = '100%'
@@ -426,8 +428,8 @@ class Player extends Component {
       reactPlayerStyles.left = '50%';
       reactPlayerStyles.marginLeft = -Math.round(props.width / 2);
     } else if (isBigScreen) {
-      const width = this.getWidth() - 100
-      const height = this.getHeight() - 100
+      const width = this.getWidth() - 460
+      const height = this.getHeight() - 200
       props.height = height
       props.width = width
       isBigStyle.margin = '30px auto'
@@ -516,7 +518,7 @@ class Player extends Component {
             {isBigScreen && (
             <div
               style={{
-                width: props.width, margin: '0 auto', height: '6rem', background: 'black',
+                width: props.width, margin: '71px auto', height: '6rem', background: 'black',
               }}
               className={['container-fluid', 'player-controls-container', props.expand ? 'expanded' : 'collapsed'].join(' ')}
             >
@@ -539,6 +541,7 @@ class Player extends Component {
                   showProgressThumb={showProgressThumb}
                 />
                 <div className="isBigControls">
+                  <div style={{ width: '25%' }} />
                   <PlayerControls
                     playerProps={props}
                     playerNext={this.playerNext}

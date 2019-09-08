@@ -76,11 +76,14 @@ class Carousel extends Component {
     return (
       <div id="carousel" className="noselect">
         <button type="button" className="arrow arrow-left" onClick={this.leftClick}><img src={arrovSvg} alt="LeftArrow" /></button>
-        <ReactCSSTransitionGroup
-          transitionName={direction}
-        >
-          {this.generateItems()}
-        </ReactCSSTransitionGroup>
+        <div style={{ display: 'flex' }}>
+          <ReactCSSTransitionGroup
+            component={React.Fragment}
+            transitionName={direction}
+          >
+            {this.generateItems()}
+          </ReactCSSTransitionGroup>
+        </div>
         <button type="button" className="arrow arrow-right" onClick={this.rightClick}><img src={arrovSvg} alt="RightArrow" /></button>
       </div>
     )

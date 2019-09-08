@@ -20,6 +20,15 @@ const menuItems = {
   canli: 'CANLI İZLE',
 }
 
+const menuItemsLinks = {
+  izle: 'series',
+  yayinAkisi: 'events',
+  bilgiEdin: 'info-page',
+  aboutKH: 'about-us',
+  contact: 'contact-us',
+  canli: 'canli',
+}
+
 const icons = {
   youtube: youtubeIcon,
   location: locationIcon,
@@ -69,7 +78,7 @@ export class PageFooter extends Component {
               {
               Object.entries(menuItems).map(([key, val]) => (
                 <p key={key} className="menuContentStyle">
-                  <a href={`/${key}`} key={key}>
+                  <a href={`/${menuItemsLinks[key]}`} key={key}>
                     {val}
                   </a>
                 </p>

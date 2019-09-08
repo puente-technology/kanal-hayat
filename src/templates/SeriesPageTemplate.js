@@ -61,7 +61,9 @@ class SeriesPageTemplate extends Component {
       }
       return 0;
     })
-    this.setState({ list: tmp })
+    const newTemp = tmp.map(x => ({ ...x, a: '' }))
+
+    this.setState({ list: newTemp })
   }
 
   handleDateClick = () => {
@@ -77,7 +79,8 @@ class SeriesPageTemplate extends Component {
       }
       return 0;
     })
-    this.setState({ list: tmp })
+    const newTemp = tmp.map(x => ({ ...x, a: '' }))
+    this.setState({ list: newTemp })
   }
 
   render() {
@@ -86,6 +89,7 @@ class SeriesPageTemplate extends Component {
     } = this.props
 
     const { list } = this.state
+
     const {
       title,
       coverImage,
