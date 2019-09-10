@@ -16,8 +16,13 @@
     border: none;
 }
 
+.arrow-left {
+    left: 60px;
+}
+
+
 .arrow-right {
-    left: 1004px;
+    left: 935px;
     transform: rotate(180deg);
 }
 
@@ -30,15 +35,15 @@
 }
 
 $level2-height: 176px;
-$level2-width: 300px;
+$level2-width: 250px;
 $level1-height: 176px;
-$level1-width: 300px;
+$level1-width: 250px;
 $level0-height: 176px;
-$level0-width: 300px;
+$level0-width: 250px;
 
-$level-1-left: 700px;
-$level0-left: 380px;
-$level1-left: 60px;
+$level-1-left: 674px;
+$level0-left: 400px;
+$level1-left: 125px;
 
 
 
@@ -162,7 +167,7 @@ $level1-left: 60px;
 
 .EpisodeVideoInfo {
     height: 176px;
-    width: 300px;
+    width: 250px;
 }
 .info {
     height: 100px;

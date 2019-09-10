@@ -41,7 +41,11 @@ export const PlayerInfo = ({
   </div>
 )
 
-export const PlayerControls = ({ playerProps, showNextPrev, onPlayClick }) => (
+export const PlayerControls = ({
+  playerProps,
+  showNextPrev,
+  onPlayClick,
+}) => (
   <div className={playerProps.isBigScreen ? 'player-controls isBig' : 'player-controls'}>
     {
     showNextPrev && (
@@ -278,7 +282,13 @@ export const PlayerVolume = ({ playerProps, volume, setVolume }) => (
   </div>
 )
 export const MiniPlayer = ({
-  title, showNextPrev, playerProps, onPlayClick, onShowClick,
+  title,
+  showNextPrev,
+  playerProps,
+  onPlayClick,
+  onShowClick,
+  playerPrev,
+  playerNext,
 }) => (
   <div
     id="playerMini"
@@ -289,7 +299,7 @@ export const MiniPlayer = ({
       {
         showNextPrev
           ? (
-            <svg className="mini-player-svg" onClick={playerProps.playerPrev} style={{ minWidth: '24px', minHeight: '24px', marginLeft: '15px' }} width="27" height="27" viewBox="0 0 27 27" fill="none">
+            <svg className="mini-player-svg" onClick={playerPrev} style={{ minWidth: '24px', minHeight: '24px', marginLeft: '15px' }} width="27" height="27" viewBox="0 0 27 27" fill="none">
               <path d="M25.4774 13.5C25.4774 20.4221 19.9796 26 13.2387 26C6.49779 26 1 20.4221 1 13.5C1 6.57793 6.49779 1 13.2387 1C19.9796 1 25.4774 6.57793 25.4774 13.5Z" stroke="white" strokeWidth="2" />
               <rect x="1" y="17.22182" width="3" height="11" rx="1.5" transform="rotate(-45 0 8.22182)" fill="white" />
               <rect x="-7.12134" y="11" width="3" height="11" rx="1.5" transform="rotate(-135 2.12134 10)" fill="white" />
@@ -336,7 +346,7 @@ export const MiniPlayer = ({
       {
         showNextPrev
           ? (
-            <svg className="mini-player-svg" onClick={playerProps.playerNext} style={{ minWidth: '24px', minHeight: '24px' }} width="27" height="27" viewBox="0 0 27 27" fill="none">
+            <svg className="mini-player-svg" onClick={playerNext} style={{ minWidth: '24px', minHeight: '24px' }} width="27" height="27" viewBox="0 0 27 27" fill="none">
               <path d="M25.4774 13.5C25.4774 20.4221 19.9796 26 13.2387 26C6.49779 26 1 20.4221 1 13.5C1 6.57793 6.49779 1 13.2387 1C19.9796 1 25.4774 6.57793 25.4774 13.5Z" stroke="white" strokeWidth="2" />
               <rect x="6.89941" y="-1.87868" width="3" height="11" rx="1.5" transform="rotate(135 9.89941 7.87868)" fill="white" />
               <rect x="17.88808" y="3.4005" width="3" height="11" rx="1.5" transform="rotate(45 7.77808 6.1005)" fill="white" />
@@ -419,23 +429,27 @@ export const PlayerButtonsBigScreenHover = ({
         background: `url(${cancelSvg}) no-repeat`,
         backgroundSize: 'contain',
         border: 'none',
-        minWidth: '20px',
-        minHeight: '20px',
-        marginBottom: '10px',
+        minWidth: '30px',
+        minHeight: '50px',
+        marginBottom: '5px',
       }}
       onClick={onCloseClick}
     />
-    <buttom
-      type="buttom"
-      style={{
-        background: `url(${infoSvg}) no-repeat`,
-        backgroundSize: 'contain',
-        border: 'none',
-        minWidth: '20px',
-        minHeight: '20px',
-      }}
-      onClick={onShowInfo}
-    />
+    {
+      !playerProps.showinfoBool && (
+        <buttom
+          type="buttom"
+          style={{
+            background: `url(${infoSvg}) no-repeat`,
+            backgroundSize: 'contain',
+            border: 'none',
+            minWidth: '30px',
+            minHeight: '50px',
+          }}
+          onClick={onShowInfo}
+        />
+      )
+    }
   </div>
 )
 
@@ -459,6 +473,8 @@ MiniPlayer.propTypes = {
   playerProps: PropTypes.any,
   onPlayClick: PropTypes.any,
   onShowClick: PropTypes.any,
+  playerNext: PropTypes.any,
+  playerPrev: PropTypes.any,
 }
 PlayerVolume.propTypes = {
   playerProps: PropTypes.any,
@@ -489,6 +505,8 @@ PlayerControls.propTypes = {
   playerProps: PropTypes.any,
   showNextPrev: PropTypes.any,
   onPlayClick: PropTypes.any,
+  playerNext: PropTypes.any,
+  playerPrev: PropTypes.any,
 }
 
 PlayerInfo.propTypes = {

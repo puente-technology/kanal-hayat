@@ -44,13 +44,13 @@ class PlayerInfoExpand extends Component {
       >
         <div className="player-info-header">
           <p className="player-info-txt-head">
-            {frontmatter.title}
+            {frontmatter.title || ''}
           </p>
           <p className="player-info-txt">
             {episodeInfo.youtubeURL.title}
           </p>
           <p className="player-info-txt">
-            {frontmatter.publishDate}
+            {frontmatter.publishDate || ''}
           </p>
         </div>
         <div>
@@ -64,7 +64,7 @@ class PlayerInfoExpand extends Component {
               Host:
             </p>
             <p className="player-info-text-lighter">
-              {frontmatter.host}
+              {frontmatter.host || ''}
             </p>
           </div>
           <div className="player-info-info-div">
@@ -80,32 +80,36 @@ class PlayerInfoExpand extends Component {
               Target Group:
             </p>
             <p className="player-info-text-lighter">
-              {frontmatter.targetGroup}
+              {frontmatter.targetGroup || ''}
             </p>
           </div>
           <div className="player-info-info-div">
             <p className="player-info-text-bold">
               Keywords:
             </p>
-            <p className="player-info-text-lighter">
+            <p className="player-info-text-lighter" style={{ height: '32px', overflow: 'scroll' }}>
               {episodeInfo.youtubeURL.tags}
             </p>
           </div>
-          <div style={{ marginTop: '30px' }}>
+          <div style={{ marginTop: '20px' }}>
             <p className="player-info-text-bold">
               Bölümler
             </p>
           </div>
         </div>
         <div>
-          <Carousel
-            episodes={episodes}
-            activeEpisode={playerIndex}
-            frontmatter={frontmatter}
-            handleVideoUrlChange={handleVideoUrlChange}
-          />
+          {
+            episodes.length > 2 && (
+              <Carousel
+                episodes={episodes}
+                activeEpisode={playerIndex}
+                frontmatter={frontmatter}
+                handleVideoUrlChange={handleVideoUrlChange}
+              />
+            )
+          }
         </div>
-        <div style={{ margin: '326px auto', transform: 'rotate(90deg)' }}>
+        <div style={{ margin: '324px auto', transform: 'rotate(90deg)' }}>
           <button
             type="button"
             width="50px"

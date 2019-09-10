@@ -19,5 +19,7 @@ const store = createStore(rootReducer, enhancer);
 
 
 export default ({ element }) => (
-  <Provider store={store}>{element}</Provider>
+  <Provider store={store}>
+    {element}
+  </Provider>
 );

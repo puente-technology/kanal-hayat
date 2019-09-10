@@ -31,23 +31,25 @@ class Carousel extends Component {
     const { active, items } = this.state
     const itemsArr = []
     let level
-    for (let i = active - 1; i < active + 2; i += 1) {
-      let index = i
-      if (i < 0) {
-        index = items.length + i
-      } else if (i >= items.length) {
-        index = i % items.length
+    if (items.lenght > 2) {
+      for (let i = active - 1; i < active + 2; i += 1) {
+        let index = i
+        if (i < 0) {
+          index = items.length + i
+        } else if (i >= items.length) {
+          index = i % items.length
+        }
+        level = active - i
+        itemsArr.push(<Item
+          key={index}
+          id={items[index]}
+          level={level}
+          frontmatter={frontmatter}
+          activeEpisode={active}
+          episodes={items}
+          handleVideoUrlChange={handleVideoUrlChange}
+        />)
       }
-      level = active - i
-      itemsArr.push(<Item
-        key={index}
-        id={items[index]}
-        level={level}
-        frontmatter={frontmatter}
-        activeEpisode={active}
-        episodes={items}
-        handleVideoUrlChange={handleVideoUrlChange}
-      />)
     }
     return itemsArr
   }
@@ -76,11 +78,14 @@ class Carousel extends Component {
     return (
       <div id="carousel" className="noselect">
         <button type="button" className="arrow arrow-left" onClick={this.leftClick}><img src={arrovSvg} alt="LeftArrow" /></button>
-        <ReactCSSTransitionGroup
-          transitionName={direction}
-        >
-          {this.generateItems()}
-        </ReactCSSTransitionGroup>
+        <div style={{ display: 'flex' }}>
+          <ReactCSSTransitionGroup
+            component={React.Fragment}
+            transitionName={direction}
+          >
+            {this.generateItems()}
+          </ReactCSSTransitionGroup>
+        </div>
         <button type="button" className="arrow arrow-right" onClick={this.rightClick}><img src={arrovSvg} alt="RightArrow" /></button>
       </div>
     )
@@ -135,7 +140,7 @@ class Item extends React.Component {
             {`${id.youtubeURL.title.slice(0, 25)}: `}
           </div>
           <div className="infoDiv">
-            {frontmatter.host}
+            {frontmatter.host || ''}
           </div>
           <div className="infoDivView">
             <div>

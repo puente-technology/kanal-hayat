@@ -3,9 +3,8 @@ import Helmet from 'react-helmet'
 import PropTypes from 'prop-types';
 import PageFooterQ from './PageFooter';
 import MobileAppLink from './MobileAppLink'
-import HeaderBanner from './HeaderBanner';
 
-class LayoutComp extends PureComponent {
+class SeriesPageLayout extends PureComponent {
   static propTypes = {
     children: PropTypes.any,
   };
@@ -29,8 +28,7 @@ class LayoutComp extends PureComponent {
         </Helmet>
         {/* <Nav color={color} align={align} /> */}
         <div className="MainDiv">
-          <HeaderBanner data={children.props.title || children.props.data.title} />
-          <Fragment>{children}</Fragment>
+          {children}
           <MobileAppLink />
           <PageFooterQ />
         </div>
@@ -39,4 +37,4 @@ class LayoutComp extends PureComponent {
   }
 }
 
-export default LayoutComp
+export default SeriesPageLayout

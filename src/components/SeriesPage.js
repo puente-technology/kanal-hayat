@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { connect } from 'react-redux';
 import { nFormatter } from '../utils/utils';
-import Player from './Player'
 import { toggleDarkMode } from '../state/app';
 
 class SeriesPage extends Component {
@@ -16,15 +15,13 @@ class SeriesPage extends Component {
     super(props);
     this.state = {
       isOpen: false,
-      activeEpisode: null,
-      activeIndex: null,
     };
   }
 
   hanndlePlayClick = (e) => {
     const { dispatch, episodes, frontmatter } = this.props
     const { episode, index } = JSON.parse(e.target.parentElement.value)
-    this.setState({ isOpen: true, activeEpisode: episode, activeIndex: index })
+    this.setState({ isOpen: true })
     dispatch(toggleDarkMode(
       episode,
       episodes,
@@ -32,6 +29,7 @@ class SeriesPage extends Component {
       index,
       frontmatter,
       this.handleCloseClick,
+      false,
     ))
   }
 
@@ -40,8 +38,8 @@ class SeriesPage extends Component {
   }
 
   render() {
-    const { episodes, frontmatter } = this.props;
-    const { isOpen, activeEpisode, activeIndex } = this.state;
+    const { episodes } = this.props;
+    const { isOpen } = this.state;
     return (
       <div className="SeriesPage">
         {
@@ -75,18 +73,9 @@ class SeriesPage extends Component {
                     {`• ${nFormatter(episode.youtubeURL.viewCount)}`}
                   </span>
                   {/* {frontmatter.channelTitle} */}
+                  {isOpen}
                 </span>
               </div>
-              {isOpen && activeEpisode && activeIndex === index && (
-                <Player
-                  episodes={episodes}
-                  episodeInfo={activeEpisode}
-                  handleCloseClick={this.handleCloseClick}
-                  frontmatter={frontmatter}
-                  playerIndex={index}
-                  playing
-                />
-              )}
             </div>
           ))
         }

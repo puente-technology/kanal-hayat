@@ -68,7 +68,7 @@ exports.createPages = ({ actions, graphql }) => {
         const { id } = page.node
         const { locale } = page.node.frontmatter;
         const slug = page.node.fields.slug.toLowerCase().turkishtoEnglish()
-        console.log({xxxxxxxxx: slug});
+        console.log({ xxxxxxxxx: slug });
         createPage({
           // page slug set in md frontmatter
           path: page.node.fields.slug,
@@ -138,7 +138,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       slug = `/${parsedFilePath.dir}/`
     }
     const value = createFilePath({ node, getNode })
-    console.log({slug});
+    console.log({ slug });
     createNodeField({
       node,
       name: 'slug',

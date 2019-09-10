@@ -3,13 +3,10 @@ import React, { Component } from 'react'
 import { graphql } from 'gatsby'
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types'
-import Helmet from 'react-helmet'
-import Player from '../components/Player';
-import MobileAppLink from '../components/MobileAppLink';
-import PageFooterQ from '../components/PageFooter';
 import SeriesPage from '../components/SeriesPage';
 import Nav from '../components/Nav';
 import '../components/SeriesPage.scss'
+import SeriesPageLayout from '../components/SeriesPageLayout';
 // Export Template for use in CMS preview
 // export const AboutUsPageTemplate = data => (
 //   <AboutUs {...data} />
@@ -89,12 +86,6 @@ class SeriesPageTemplate extends Component {
   render() {
     const {
       data: { page },
-      episode,
-      episodes,
-      playing,
-      frontmatter,
-      index,
-      handleCloseClick,
     } = this.props
 
     const { list } = this.state
@@ -106,52 +97,27 @@ class SeriesPageTemplate extends Component {
       description,
     } = page.frontmatter
     return (
-      <React.Fragment>
-        <Helmet>
-          <link href="https://ucarecdn.com" rel="preconnect" crossOrigin />
-          <link rel="dns-prefetch" href="https://ucarecdn.com" />
-          <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" />
-        </Helmet>
-        {/* <Nav color={color} align={align} /> */}
-        <div className="MainDiv">
-          <CustomHeaderBanner
-            image={coverImage}
-            title={title}
-            host={host}
-            description={description}
-            handleNameClick={this.handleNameClick}
-            handleDateClick={this.handleDateClick}
-            handleTextChange={this.handleTextChange}
-          />
-          <SeriesPage episodes={list} frontmatter={page.frontmatter} />
-          <MobileAppLink />
-          <PageFooterQ />
-          {
-            episode && (
-              <Player
-                episodeInfo={episode}
-                episodes={episodes}
-                playing={playing}
-                playerIndex={index}
-                handleCloseClick={handleCloseClick}
-                frontmatter={frontmatter}
-              />
-            )
-          }
-        </div>
-      </React.Fragment>
+      <SeriesPageLayout>
+        <CustomHeaderBanner
+          image={coverImage}
+          title={title}
+          host={host}
+          description={description}
+          handleNameClick={this.handleNameClick}
+          handleDateClick={this.handleDateClick}
+          handleTextChange={this.handleTextChange}
+        />
+        <SeriesPage episodes={list} frontmatter={page.frontmatter} />
+
+      </SeriesPageLayout>
     )
   }
 }
 
 SeriesPageTemplate.propTypes = {
   data: PropTypes.any,
-  episode: PropTypes.any,
   episodes: PropTypes.any,
-  playing: PropTypes.any,
   frontmatter: PropTypes.any,
-  index: PropTypes.any,
-  handleCloseClick: PropTypes.any,
 }
 
 

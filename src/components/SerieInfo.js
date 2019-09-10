@@ -33,6 +33,7 @@ class SerieInfo extends Component {
       index,
       frontmatter,
       this.handleCloseClick,
+      false,
     ))
   }
 

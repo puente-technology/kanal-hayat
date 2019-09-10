@@ -80,7 +80,7 @@ class Player extends Component {
       isOpen: true,
       isPlayerInfoOpen: true,
       hoverBool: false,
-      showinfoBool: false,
+      showinfoBool: true,
       episodesInfo: episodes,
       episode: episodeInfo,
     }
@@ -95,6 +95,7 @@ class Player extends Component {
     this.playerPause = this.playerPause.bind(this)
     this.isBigScreenClick = this.isBigScreenClick.bind(this)
     this.onCloseClick = this.onCloseClick.bind(this)
+    this.playerNext = this.playerNext.bind(this)
   }
 
   onFullScreenClick = () => {
@@ -102,10 +103,53 @@ class Player extends Component {
     requestFullScreen(ele)
   }
 
+  playerNext = () => {
+    const {
+      index,
+      frontmatter,
+      handleCloseClick,
+      episodes,
+      dispatch,
+    } = this.props;
+    if (index < episodes.length - 1) {
+      dispatch(toggleDarkMode(
+        episodes[index + 1],
+        episodes,
+        true,
+        index + 1,
+        frontmatter,
+        handleCloseClick,
+        false,
+      ))
+    }
+  }
+
+  playerPrev = () => {
+    const {
+      index,
+      frontmatter,
+      handleCloseClick,
+      episodes,
+      dispatch,
+    } = this.props;
+    if (index > 0) {
+      dispatch(toggleDarkMode(
+        episodes[index - 1],
+        episodes,
+        true,
+        index - 1,
+        frontmatter,
+        handleCloseClick,
+        false,
+      ))
+    }
+  }
+
   onCloseClick = () => {
     const { handleCloseClick, dispatch } = this.props;
     handleCloseClick()
     dispatch(toggleDarkMode(
+      null,
       null,
       null,
       null,
@@ -168,6 +212,7 @@ class Player extends Component {
       index,
       frontmatter,
       handleCloseClick,
+      false,
     ))
     this.setState({ episode: episodeInfo, episodesInfo: episodes })
   }
@@ -176,6 +221,7 @@ class Player extends Component {
     const { seeking } = this.state;
     if (progress.played === 1) {
       this.setState({ playingBool: false })
+      this.playerNext()
     }
     if (seeking) {
       this.setState({
@@ -308,7 +354,6 @@ class Player extends Component {
     this.setState({ episode: episodeInfo })
   }
 
-
   componentDidUpdate = (prevPros) => {
     const { episodeInfo } = this.props;
     if (episodeInfo.youtubeURL.url !== prevPros.episodeInfo.youtubeURL.url) {
@@ -359,12 +404,15 @@ class Player extends Component {
     props.show = showBool;
     props.playerPause = this.playerPause
     props.playerPlay = this.playerPlay;
+    props.playerNext = this.playerNext;
+    props.playerPrev = this.playerPrev;
     props.playing = playingBool;
     props.expanded = expandedBoll;
     props.expand = expandBool;
     props.controls = false;
     props.isBigScreen = isBigScreen
     props.hoverBool = hoverBool
+    props.showinfoBool = showinfoBool
     if (fullscreen) {
       props.height = '100%'
       props.width = '100%'
@@ -380,8 +428,8 @@ class Player extends Component {
       reactPlayerStyles.left = '50%';
       reactPlayerStyles.marginLeft = -Math.round(props.width / 2);
     } else if (isBigScreen) {
-      const width = this.getWidth() - 100
-      const height = this.getHeight() - 100
+      const width = this.getWidth() - 460
+      const height = this.getHeight() - 200
       props.height = height
       props.width = width
       isBigStyle.margin = '30px auto'
@@ -393,8 +441,8 @@ class Player extends Component {
       reactPlayerStyles.left = '0px';
       reactPlayerStyles.zIndex = 10;
     }
-    const { title } = episode.youtubeURL
-    const artist = frontmatter.host
+    const { title } = episode.youtubeURL || ''
+    const artist = frontmatter.host || ''
     const elapsed = duration * played
     const remaining = duration * (1 - played)
 
@@ -470,7 +518,7 @@ class Player extends Component {
             {isBigScreen && (
             <div
               style={{
-                width: props.width, margin: '0 auto', height: '6rem', background: 'black',
+                width: props.width, margin: '71px auto', height: '6rem', background: 'black',
               }}
               className={['container-fluid', 'player-controls-container', props.expand ? 'expanded' : 'collapsed'].join(' ')}
             >
@@ -493,8 +541,11 @@ class Player extends Component {
                   showProgressThumb={showProgressThumb}
                 />
                 <div className="isBigControls">
+                  <div style={{ width: '25%' }} />
                   <PlayerControls
                     playerProps={props}
+                    playerNext={this.playerNext}
+                    playerPrev={this.playerPrev}
                     showNextPrev={showNextPrev}
                     onPlayClick={this.onPlayClick}
                   />
@@ -520,6 +571,8 @@ class Player extends Component {
             title={title}
             playerProps={props}
             showNextPrev={showNextPrev}
+            playerNext={this.playerNext}
+            playerPrev={this.playerPrev}
             onPlayClick={this.onPlayClick}
             onShowClick={this.showPlayer}
           />
@@ -581,10 +634,11 @@ class Player extends Component {
 }
 
 export default connect(state => ({
-  episodeInfo: state.app.episode || null,
-  episodes: state.app.episodes || null,
-  playing: state.app.playing || null,
-  frontmatter: state.app.frontmatter || null,
-  index: state.app.index || null,
-  handleCloseClick: state.app.handleCloseClick || null,
+  episodeInfo: state.app.episode || '',
+  episodes: state.app.episodes || '',
+  playing: state.app.playing || '',
+  frontmatter: state.app.frontmatter || '',
+  index: state.app.index || '',
+  handleCloseClick: state.app.handleCloseClick || '',
+  isActive: state.app.isOpen || '',
 }), null)(Player)
