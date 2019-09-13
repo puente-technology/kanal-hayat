@@ -31,11 +31,7 @@ episodes:
         clip is from season 1 episode 10
       publishedAt: '2014-04-10T03:07:29.000Z'
       tags:
-        - Blonde Redhead (Musical Group)
-        - For The Damaged Coda
-        - Rick and Morty
-        - Close Encounters of the Rick-Kind
-        - s1e10
+        Blonde Redhead (Musical Group)
       url: 'https://www.youtube.com/watch?v=XZtfRHkjoYU'
       viewCount: '2434284'
 ---

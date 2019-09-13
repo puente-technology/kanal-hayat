@@ -152,8 +152,7 @@ class SeriesList extends Component {
     } = this.state;
     const { hosts } = this.props
     const renderSeries = []
-
-    for (let i = 0; i < listSeries.length; i += 1) {
+    for (let i = 0; i < listSeries.length - 1; i += 1) {
       const { frontmatter, fields } = listSeries[i].node
       if (i.toString() === expandedDiv) {
         if (i % 2 === 0 && listSeries.length > 1) {

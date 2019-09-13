@@ -28,11 +28,7 @@ episodes:
       mediaType: video
       publishedAt: '2019-07-29T08:30:17.000Z'
       tags:
-        - '#hristiyan'
-        - '#ahlakı'
-        - '#aşk'
-        - '#nedir?'
-        - '#incil'
+          '#hristiyan'
       title: Hristiyanlığın "Aşka" Bakışı Nedir?
       url: 'https://youtu.be/ObNyMNmb-ds'
       viewCount: '503'
@@ -52,12 +48,7 @@ episodes:
       mediaType: video
       publishedAt: '2019-06-17T07:49:56.000Z'
       tags:
-        - '#hristiyanların'
-        - '#ötenazi'
-        - '#ve'
-        - '#intihara'
-        - '#bakış'
-        - '#açısı'
+        'hristiyanların'
       title: Hristiyanların Ötenazi ve İntihara Bakışı
       url: 'https://youtu.be/bVE7oTlONU0'
       viewCount: '511'
@@ -76,12 +67,7 @@ episodes:
       mediaType: video
       publishedAt: '2019-05-30T08:26:51.000Z'
       tags:
-        - '#lanet'
-        - '#hristiyanlık'
-        - '#için'
-        - '#boş'
-        - '#konuşmak'
-        - midir?
+          '#lanet'
       title: Hristiyanlar için Boş Konuşmak bir "Lanet" midir?
       url: 'https://youtu.be/7Zj3eo3NMqo'
       viewCount: '470'
