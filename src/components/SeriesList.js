@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+import { connect } from 'react-redux';
 import './SeriesList.scss'
 import SerieCard from './SerieCard';
 import SerieInfo from './SerieInfo';
@@ -9,21 +10,18 @@ class SeriesList extends Component {
   state = {
     expandedDiv: '',
     selectedCategories: [],
-    // sortBy: 'title',
     listSeries: [],
   }
 
   componentDidMount() {
     const { data } = this.props;
-    console.log({ data });
     this.sortByName()
-    // this.setState({ listSeries: this.dataIntoArray(data) })
+    this.setState({ listSeries: this.dataIntoArray(data) })
   }
 
   dataIntoArray = data => (Object.values(data).filter(x => x !== 'Seriler'))
 
   handleLanguageChange = (e) => {
-    console.log({ e: e.target.value });
     const { value } = e.target
     let { listSeries } = this.state;
     const { data } = this.props;
@@ -37,7 +35,6 @@ class SeriesList extends Component {
   }
 
   handleTargetChange = (e) => {
-    console.log({ e: e.target.value });
     const { value } = e.target
     let { listSeries } = this.state;
     const { data } = this.props;
@@ -75,7 +72,6 @@ class SeriesList extends Component {
     const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => {
       const atitle = a.node.frontmatter.title
       const btitle = b.node.frontmatter.title
-      console.log({ atitle, btitle });
       if (atitle > btitle) {
         return 1
       } if (atitle < btitle) {
@@ -83,7 +79,6 @@ class SeriesList extends Component {
       }
       return 0
     })
-    console.log({ res });
     this.setState({ listSeries: res })
   }
 
@@ -150,8 +145,14 @@ class SeriesList extends Component {
   }
 
   render() {
-    const { expandedDiv, selectedCategories, listSeries } = this.state;
+    const {
+      expandedDiv,
+      selectedCategories,
+      listSeries,
+    } = this.state;
+    const { hosts } = this.props
     const renderSeries = []
+
     for (let i = 0; i < listSeries.length; i += 1) {
       const { frontmatter, fields } = listSeries[i].node
       if (i.toString() === expandedDiv) {
@@ -179,6 +180,7 @@ class SeriesList extends Component {
                 slug={fields.slug}
                 handleCardCloseClick={this.handleCardCloseClick}
                 frontmatter={frontmatter}
+                hosts={hosts}
               />
             </React.Fragment>,
           )
@@ -251,6 +253,10 @@ class SeriesList extends Component {
 
 SeriesList.propTypes = {
   data: PropTypes.any,
+  hosts: PropTypes.any,
 }
 
-export default SeriesList
+export default connect(state => ({
+  test: state,
+  shouldInit: state.app.shouldInit,
+}), null)(SeriesList)

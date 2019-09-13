@@ -59,6 +59,7 @@ class Player extends Component {
     playerIndex: PropTypes.any,
     dispatch: PropTypes.any,
     index: PropTypes.any,
+    durations: PropTypes.any,
   }
 
   constructor(props) {
@@ -110,6 +111,7 @@ class Player extends Component {
       handleCloseClick,
       episodes,
       dispatch,
+      durations,
     } = this.props;
     if (index < episodes.length - 1) {
       dispatch(toggleDarkMode(
@@ -119,6 +121,8 @@ class Player extends Component {
         index + 1,
         frontmatter,
         handleCloseClick,
+        false,
+        durations,
         false,
       ))
     }
@@ -131,6 +135,7 @@ class Player extends Component {
       handleCloseClick,
       episodes,
       dispatch,
+      durations,
     } = this.props;
     if (index > 0) {
       dispatch(toggleDarkMode(
@@ -141,12 +146,14 @@ class Player extends Component {
         frontmatter,
         handleCloseClick,
         false,
+        durations,
+        false,
       ))
     }
   }
 
   onCloseClick = () => {
-    const { handleCloseClick, dispatch } = this.props;
+    const { handleCloseClick, dispatch, durations } = this.props;
     handleCloseClick()
     dispatch(toggleDarkMode(
       null,
@@ -156,6 +163,8 @@ class Player extends Component {
       null,
       null,
       null,
+      durations,
+      false,
     ))
     this.setState({ isOpen: false })
   }
@@ -204,6 +213,7 @@ class Player extends Component {
       index,
       frontmatter,
       handleCloseClick,
+      durations,
     } = this.props;
     dispatch(toggleDarkMode(
       episodeInfo,
@@ -212,6 +222,8 @@ class Player extends Component {
       index,
       frontmatter,
       handleCloseClick,
+      false,
+      durations,
       false,
     ))
     this.setState({ episode: episodeInfo, episodesInfo: episodes })
@@ -641,4 +653,5 @@ export default connect(state => ({
   index: state.app.index || '',
   handleCloseClick: state.app.handleCloseClick || '',
   isActive: state.app.isOpen || '',
+  durations: state.app.durations || '',
 }), null)(Player)

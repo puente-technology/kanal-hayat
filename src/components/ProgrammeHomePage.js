@@ -1,3 +1,5 @@
+/* eslint-disable array-callback-return */
+/* eslint-disable consistent-return */
 import React, { Component } from 'react'
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types'
@@ -8,6 +10,7 @@ class ProgrammeHomePage extends Component {
   static propTypes = {
     data: PropTypes.any,
     dispatch: PropTypes.any,
+    durations: PropTypes.any,
   };
 
   constructor(props) {
@@ -16,9 +19,21 @@ class ProgrammeHomePage extends Component {
     };
   }
 
+  getDuration = (episode) => {
+    const { durations } = this.props
+    if (durations) {
+      const result = durations.map((el) => {
+        if (el[episode.youtubeURL.id]) {
+          return el[episode.youtubeURL.id]
+        }
+      })
+      return result
+    }
+  }
+
   hanndlePlayClick = (e) => {
-    const { dispatch } = this.props;
-    const { thumb, i } = JSON.parse(e.target.parentElement.value)
+    const { dispatch, durations } = this.props;
+    const { thumb, i } = JSON.parse(e.target.value)
     this.setState({ isOpen: true })
     dispatch(toggleDarkMode(
       thumb,
@@ -28,12 +43,15 @@ class ProgrammeHomePage extends Component {
       '',
       this.handleCloseClick,
       false,
+      durations,
+      false,
     ))
   }
 
   handleCloseClick = () => {
     this.setState({ isOpen: false })
   }
+
 
   render() {
     const { data } = this.props;
@@ -83,7 +101,9 @@ class ProgrammeHomePage extends Component {
                           }}
                           className="EpisodeVideo"
                         >
-                          <div className="playParavan" />
+                          <div className="playParavan">
+                            {this.getDuration(thumb)}
+                          </div>
                         </button>
                       )
                   }
@@ -100,4 +120,5 @@ class ProgrammeHomePage extends Component {
 
 export default connect(state => ({
   test: state,
+  durations: state.app.durations,
 }), null)(ProgrammeHomePage)

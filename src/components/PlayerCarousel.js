@@ -31,25 +31,23 @@ class Carousel extends Component {
     const { active, items } = this.state
     const itemsArr = []
     let level
-    if (items.lenght > 2) {
-      for (let i = active - 1; i < active + 2; i += 1) {
-        let index = i
-        if (i < 0) {
-          index = items.length + i
-        } else if (i >= items.length) {
-          index = i % items.length
-        }
-        level = active - i
-        itemsArr.push(<Item
-          key={index}
-          id={items[index]}
-          level={level}
-          frontmatter={frontmatter}
-          activeEpisode={active}
-          episodes={items}
-          handleVideoUrlChange={handleVideoUrlChange}
-        />)
+    for (let i = active - 1; i < active + 2; i += 1) {
+      let index = i
+      if (i < 0) {
+        index = items.length + i
+      } else if (i >= items.length) {
+        index = i % items.length
       }
+      level = active - i
+      itemsArr.push(<Item
+        key={index}
+        id={items[index]}
+        level={level}
+        frontmatter={frontmatter}
+        activeEpisode={active}
+        episodes={items}
+        handleVideoUrlChange={handleVideoUrlChange}
+      />)
     }
     return itemsArr
   }

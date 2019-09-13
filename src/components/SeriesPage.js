@@ -1,3 +1,5 @@
+/* eslint-disable array-callback-return */
+/* eslint-disable consistent-return */
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { connect } from 'react-redux';
@@ -9,6 +11,7 @@ class SeriesPage extends Component {
     episodes: PropTypes.any.isRequired,
     frontmatter: PropTypes.any.isRequired,
     dispatch: PropTypes.any,
+    durations: PropTypes.any,
   };
 
   constructor(props) {
@@ -18,9 +21,25 @@ class SeriesPage extends Component {
     };
   }
 
+  getDuration = (episode) => {
+    const { durations } = this.props
+    const result = durations.map((el) => {
+      if (el[episode.youtubeURL.id]) {
+        return el[episode.youtubeURL.id]
+      }
+    })
+    return result
+  }
+
+
   hanndlePlayClick = (e) => {
-    const { dispatch, episodes, frontmatter } = this.props
-    const { episode, index } = JSON.parse(e.target.parentElement.value)
+    const {
+      dispatch,
+      episodes,
+      frontmatter,
+      durations,
+    } = this.props
+    const { episode, index } = JSON.parse(e.target.value)
     this.setState({ isOpen: true })
     dispatch(toggleDarkMode(
       episode,
@@ -29,6 +48,8 @@ class SeriesPage extends Component {
       index,
       frontmatter,
       this.handleCloseClick,
+      false,
+      durations,
       false,
     ))
   }
@@ -56,7 +77,9 @@ class SeriesPage extends Component {
                 }}
                 className="EpisodeVideo"
               >
-                <div className="playParavan" />
+                <div className="playParavan">
+                  {this.getDuration(episode)}
+                </div>
               </button>
               <div className="minicontainer">
                 <span className="subminititle">
@@ -86,4 +109,5 @@ class SeriesPage extends Component {
 
 export default connect(state => ({
   test: state,
+  durations: state.app.durations,
 }), null)(SeriesPage)
