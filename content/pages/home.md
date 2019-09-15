@@ -31,67 +31,110 @@ program1:
     error sit voluptatem accusantium doloremque laudantium.
   thumbnailTitle: Watch Now!
   thumbnails:
-    - image: /images/thumbnailTemp.png
-    - image: /images/thumbnailTemp.png
-    - youtubeURL:
+    - image: /images/uploads/joyce.jpg
+      youtubeURL:
         description: >-
-          #Susamam - Şanışer ft. Fuat, Ados, Hayki, Server Uraz, Beta,
-          Tahribad-ı İsyan, Sokrat St, Ozbi, Deniz Tekin, Sehabe, Yeis Sensura,
-          Aspova, Defkhan, Aga B, Mirac, Mert Şenel, Kamufle
+          #joycemeyers2019
+
+          #joycemeyer
+
+          #God
+
+          What is Sin? - Part 1
+
+          With God's help, we can become better versions of ourselves. Learn how
+          you can achieve your God-given purpose in life by growing spiritually
+          day by day.
 
 
-          Susma! Instagram’da #Susamam yüz filtresi ile hikâye çekip farkındalık
-          yaratmak için tıkla:
-          https://www.instagram.com/a/r/?effect_id=789446328120410
 
 
-          #Susamam tişörtü al, köy okullarına destek ol!
-          https://www.hollyhood.com.tr/susamam
 
 
-          Spotify: https://spoti.fi/2kmQN9p
 
 
-          Klip Yönetmeni: Sarp Palaur
+          joyce meyers 2019, joyce meyer, joyce meyer 2019, joyce meyers, joyce
+          meyer sermons, 
 
-          Altyapı: Murat Acar
+          joyce meyer sermons 2019, 
 
-          Mix&Mastering: Kadim Tekin
+          joyce meyers 2018, 
 
-          Kapak İllüstrasyon: Aytaç Öztürk
+          joyce meyer right and wrong mindsets, 
 
+          joyce meyers 2019 sermons, Pastor, New, Sacermons, 
 
-          Sidar Yıldırım, Ali Emre Öz, Arda Can (Dijital Dağıtım), Sadık
-          Hazırcı, Yiğit Kalkavan, Berrak Eşbeoğlu, Kaan Yıldırım ve Baret
-          Film'e katkılarından dolayı teşekkür ederiz.
-        id: L5K3IxINr7A
-        imageURL: 'https://i.ytimg.com/vi/L5K3IxINr7A/hqdefault.jpg'
+          Bishop, Bible, Preacher, Preaching, Ministry, god
+        id: wp6H2O2tzhk
+        imageURL: 'https://i.ytimg.com/vi/wp6H2O2tzhk/hqdefault.jpg'
         mediaType: video
-        publishedAt: '2019-09-05T21:01:09.000Z'
-        tags:
-          - şanışer
-          - susamam
-          - fuat
-          - ados
-          - hayki
-          - server uraz
-          - beta
-          - tahribad-ı isyan
-          - Sokrat
-          - Sokrat St
-          - Ozbi
-          - Deniz Tekin
-          - Sehabe
-          - Yeis Sensura
-          - Aspova
-          - Defkhan
-          - Aga B
-          - Mirac
-          - Mert Şenel
-          - Kamufle
-        title: '#SUSAMAM'
-        url: 'https://www.youtube.com/watch?v=L5K3IxINr7A'
-        viewCount: '1929614'
+        publishedAt: '2019-09-01T08:00:13.000Z'
+        tags: >-
+          joyce meyers 2019,joyce meyer,joyce meyer 2019,joyce meyers,joyce
+          meyer sermons,joyce meyer sermons 2019,joyce meyers 2018,joyce meyer
+          right and wrong mindsets,joyce meyers 2019
+          sermons,Pastor,New,Sacermons,Bishop,Bible,Preacher,Preaching,Ministry,god
+        title: Joyce Meyers 2019 - What is Sin? - Part 1
+        url: 'https://www.youtube.com/watch?v=wp6H2O2tzhk'
+        viewCount: '18338'
+    - image: /images/uploads/joyce.jpg
+      youtubeURL:
+        description: >-
+          #joycemeyers2019
+
+          #joycemeyer
+
+          #God
+
+
+
+
+
+
+
+
+
+          joyce meyers 2019, joyce meyer, joyce meyer 2019, joyce meyers, joyce
+          meyer sermons, 
+
+          joyce meyer sermons 2019, 
+
+          joyce meyers 2018, 
+
+          joyce meyer right and wrong mindsets, 
+
+          joyce meyers 2019 sermons, Pastor, New, Sacermons, 
+
+          Bishop, Bible, Preacher, Preaching, Ministry, god
+        id: h1jFsNxT7Hw
+        imageURL: 'https://i.ytimg.com/vi/h1jFsNxT7Hw/hqdefault.jpg'
+        mediaType: video
+        publishedAt: '2019-08-27T08:45:53.000Z'
+        tags: >-
+          joyce meyers 2019,joyce meyer,joyce meyer 2019,joyce meyers,joyce
+          meyer sermons,joyce meyer sermons 2019,joyce meyers 2018,joyce meyer
+          right and wrong mindsets,joyce meyers 2019
+          sermons,Pastor,New,Sacermons,Bishop,Bible,Preacher,Preaching,Ministry,god
+        title: Joyce Meyers 2019 - How Is Your Mental Health?
+        url: 'https://www.youtube.com/watch?v=h1jFsNxT7Hw'
+        viewCount: '55096'
+    - image: /images/uploads/joyce.jpg
+      youtubeURL:
+        description: Joyce Meyer
+        id: wq324Njd1F0
+        imageURL: 'https://i.ytimg.com/vi/wq324Njd1F0/hqdefault.jpg'
+        mediaType: video
+        publishedAt: '2014-08-08T14:15:42.000Z'
+        tags: >-
+          Joyce Meyer (Organization
+          Leader),Bible,Gospel,answers,spirituality,help,Spirit,inspiration,joyce
+          meyer,joyce meyer sermons,joyce meyer ministries,bible,everyday
+          living,confident woman,emotions,joyce meyer 2016,joyce meyer
+          exposed,joyce meyer relationships,spending time with
+          god,marriage,discipline,devil,Jesus,God,answer,truth,forgiveness,satan,evil,hope,love,faith,scriptures,sermon,life,motivation,gospel
+        title: God Hears and Answers by Joyce Meyer
+        url: 'https://www.youtube.com/watch?v=wq324Njd1F0'
+        viewCount: '529458'
   title: Joyce Meyer / YAZAR
 program2:
   align: right
@@ -106,66 +149,60 @@ program2:
     error sit voluptatem accusantium doloremque laudantium.
   thumbnailTitle: Watch Now!
   thumbnails:
-    - youtubeURL:
+    - image: /images/uploads/screen-shot-2019-09-13-at-13.54.33.png
+      youtubeURL:
         description: >-
-          #Susamam - Şanışer ft. Fuat, Ados, Hayki, Server Uraz, Beta,
-          Tahribad-ı İsyan, Sokrat St, Ozbi, Deniz Tekin, Sehabe, Yeis Sensura,
-          Aspova, Defkhan, Aga B, Mirac, Mert Şenel, Kamufle
+          Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+          ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal
+          Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen
+          Kalın.
 
+          http://kanalhayat.tv/
 
-          Susma! Instagram’da #Susamam yüz filtresi ile hikâye çekip farkındalık
-          yaratmak için tıkla:
-          https://www.instagram.com/a/r/?effect_id=789446328120410
+          http://www.youtube.com/kanalhayatplay
 
+          https://www.facebook.com/kanalhayat
 
-          #Susamam tişörtü al, köy okullarına destek ol!
-          https://www.hollyhood.com.tr/susamam
-
-
-          Spotify: https://spoti.fi/2kmQN9p
-
-
-          Klip Yönetmeni: Sarp Palaur
-
-          Altyapı: Murat Acar
-
-          Mix&Mastering: Kadim Tekin
-
-          Kapak İllüstrasyon: Aytaç Öztürk
-
-
-          Sidar Yıldırım, Ali Emre Öz, Arda Can (Dijital Dağıtım), Sadık
-          Hazırcı, Yiğit Kalkavan, Berrak Eşbeoğlu, Kaan Yıldırım ve Baret
-          Film'e katkılarından dolayı teşekkür ederiz.
-        id: L5K3IxINr7A
-        imageURL: 'https://i.ytimg.com/vi/L5K3IxINr7A/hqdefault.jpg'
+          https://twitter.com/kanalhayat
+        id: u-fObA14Ro0
+        imageURL: 'https://i.ytimg.com/vi/u-fObA14Ro0/hqdefault.jpg'
         mediaType: video
-        publishedAt: '2019-09-05T21:01:09.000Z'
-        tags:
-          - şanışer
-          - susamam
-          - fuat
-          - ados
-          - hayki
-          - server uraz
-          - beta
-          - tahribad-ı isyan
-          - Sokrat
-          - Sokrat St
-          - Ozbi
-          - Deniz Tekin
-          - Sehabe
-          - Yeis Sensura
-          - Aspova
-          - Defkhan
-          - Aga B
-          - Mirac
-          - Mert Şenel
-          - Kamufle
-        title: '#SUSAMAM'
-        url: 'https://www.youtube.com/watch?v=L5K3IxINr7A'
-        viewCount: '1929614'
-    - image: /images/thumbnailTemp.png
+        publishedAt: '2019-04-24T14:26:48.000Z'
+        tags: >-
+          hristiyan,ahlakı nedir?,haçlı
+          seferleri,misyonerler,savaşlar,müslümanlar,kudüs,hristiyanlık ve
+          savaş?,incil,savaş ayetleri,ordu,haçlı,haç ve hilal
+          savaşı,tevrat,zebur
+        title: Hristiyan Ahlakı - Hristiyanlık ve Savaşlar
+        url: >-
+          https://www.youtube.com/watch?v=u-fObA14Ro0&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=7
+        viewCount: '462'
+    - image: /images/uploads/screen-shot-2019-09-13-at-13.54.33.png
+      youtubeURL:
+        description: >-
+          Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+          ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal
+          Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen
+          Kalın.
+
+          http://kanalhayat.tv/
+
+          http://www.youtube.com/kanalhayatplay
+
+          https://www.facebook.com/kanalhayat
+
+          https://twitter.com/kanalhayat
+        id: kZn36OuSCqc
+        imageURL: 'https://i.ytimg.com/vi/kZn36OuSCqc/hqdefault.jpg'
+        mediaType: video
+        publishedAt: '2019-04-09T11:36:45.000Z'
+        tags: >-
+          hristiyan,ahlakı,nedir?,hırsızlık,kavramına,bakış açımız
+          ?,incil,ahlak,mübarek,insan olmak
+        title: Hristiyan Ahlakı - Hristiyanlığın "Hırsızlık" Kavramına Bakışı Nedir?
+        url: >-
+          https://www.youtube.com/watch?v=kZn36OuSCqc&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=8
+        viewCount: '374'
   title: Can Nuroglu / BASKA YAZAR
 ---
 
