@@ -37,6 +37,7 @@ class SerieInfo extends PureComponent {
 
   getHostUrl = (hostName) => {
     const { hosts } = this.props
+    console.log(hosts)
     if (hosts) {
       const result = hosts.map((el) => {
         const { fields, frontmatter } = el.node
@@ -49,7 +50,12 @@ class SerieInfo extends PureComponent {
   }
 
   hanndlePlayClick = (e) => {
-    const { dispatch, frontmatter, durations } = this.props
+    const {
+      dispatch,
+      frontmatter,
+      durations,
+      hosts,
+    } = this.props
     const { episodes } = frontmatter
     const { episode, index } = JSON.parse(e.target.value)
     this.setState({ isOpen: true })
@@ -63,6 +69,7 @@ class SerieInfo extends PureComponent {
       false,
       durations,
       false,
+      hosts,
     ))
   }
 
@@ -150,4 +157,5 @@ export default connect(state => ({
   test: state,
   shouldInit: state.app.shouldInit,
   durations: state.app.durations,
+  hosts: state.app.hosts,
 }), null)(SerieInfo)

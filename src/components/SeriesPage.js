@@ -12,6 +12,7 @@ class SeriesPage extends Component {
     frontmatter: PropTypes.any.isRequired,
     dispatch: PropTypes.any,
     durations: PropTypes.any,
+    hosts: PropTypes.any,
   };
 
   constructor(props) {
@@ -38,6 +39,7 @@ class SeriesPage extends Component {
       episodes,
       frontmatter,
       durations,
+      hosts,
     } = this.props
     const { episode, index } = JSON.parse(e.target.value)
     this.setState({ isOpen: true })
@@ -51,6 +53,7 @@ class SeriesPage extends Component {
       false,
       durations,
       false,
+      hosts,
     ))
   }
 
@@ -110,4 +113,5 @@ class SeriesPage extends Component {
 export default connect(state => ({
   test: state,
   durations: state.app.durations,
+  hosts: state.app.hosts,
 }), null)(SeriesPage)

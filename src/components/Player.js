@@ -60,11 +60,18 @@ class Player extends Component {
     dispatch: PropTypes.any,
     index: PropTypes.any,
     durations: PropTypes.any,
+    hosts: PropTypes.any,
+    isCollapsedControl: PropTypes.any,
   }
 
   constructor(props) {
     super(props);
-    const { playing, episodeInfo, episodes } = this.props;
+    const {
+      playing,
+      episodeInfo,
+      episodes,
+      isCollapsedControl,
+    } = this.props;
     this.state = {
       played: 0,
       loaded: 0,
@@ -77,7 +84,7 @@ class Player extends Component {
       showBool: true,
       expandedBoll: false,
       expandBool: false,
-      isBigScreen: false,
+      isBigScreen: !isCollapsedControl,
       isOpen: true,
       isPlayerInfoOpen: true,
       hoverBool: false,
@@ -112,6 +119,7 @@ class Player extends Component {
       episodes,
       dispatch,
       durations,
+      hosts,
     } = this.props;
     if (index < episodes.length - 1) {
       dispatch(toggleDarkMode(
@@ -124,6 +132,7 @@ class Player extends Component {
         false,
         durations,
         false,
+        hosts,
       ))
     }
   }
@@ -136,6 +145,7 @@ class Player extends Component {
       episodes,
       dispatch,
       durations,
+      hosts,
     } = this.props;
     if (index > 0) {
       dispatch(toggleDarkMode(
@@ -148,12 +158,18 @@ class Player extends Component {
         false,
         durations,
         false,
+        hosts,
       ))
     }
   }
 
   onCloseClick = () => {
-    const { handleCloseClick, dispatch, durations } = this.props;
+    const {
+      handleCloseClick,
+      dispatch,
+      durations,
+      hosts,
+    } = this.props;
     handleCloseClick()
     dispatch(toggleDarkMode(
       null,
@@ -165,6 +181,7 @@ class Player extends Component {
       null,
       durations,
       false,
+      hosts,
     ))
     this.setState({ isOpen: false })
   }
@@ -214,6 +231,7 @@ class Player extends Component {
       frontmatter,
       handleCloseClick,
       durations,
+      hosts,
     } = this.props;
     dispatch(toggleDarkMode(
       episodeInfo,
@@ -225,6 +243,7 @@ class Player extends Component {
       false,
       durations,
       false,
+      hosts,
     ))
     this.setState({ episode: episodeInfo, episodesInfo: episodes })
   }
@@ -654,4 +673,5 @@ export default connect(state => ({
   handleCloseClick: state.app.handleCloseClick || '',
   isActive: state.app.isOpen || '',
   durations: state.app.durations || '',
+  hosts: state.app.hosts || '',
 }), null)(Player)

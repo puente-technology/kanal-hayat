@@ -131,6 +131,7 @@ class HomePage extends Component {
   render() {
     const { data, dispatch, shouldInit } = this.props
     const { page } = data
+    const hosts = data.hosts.edges
     const { durationArr } = this.state
     if (shouldInit) {
       setTimeout(() => {
@@ -144,6 +145,7 @@ class HomePage extends Component {
           false,
           durationArr,
           false,
+          hosts,
         ))
       }, 800);
     }
@@ -253,6 +255,19 @@ export const pageQuery = graphql`
                 url
               }
             }
+          }
+        }
+      }
+    }
+    hosts: allMarkdownRemark(filter: {fields: {contentType: {regex: "/hosts/"}}}) {
+      edges {
+        node {
+          fields {
+            slug
+            contentType
+          }
+          frontmatter {
+            host
           }
         }
       }
