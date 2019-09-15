@@ -15,60 +15,104 @@ episodes:
   - guests: Banu Çelik
     season: '1'
     youtubeURL:
-      description: >-
-        Hristiyanlığın "Aşka" Bakışı Nedir?
-
-        Banu Çelik sunumu ve Can Nuroğlu'nun Kutsal Kitap ışığında
-        gerçekleştirdikleri "Hristiyan Ahlakı" programını sayfamızdan takip
-        edebilirsiniz. 
-
-        Esenlikler Dileriz.
       id: ObNyMNmb-ds
       imageURL: 'https://i.ytimg.com/vi/ObNyMNmb-ds/hqdefault.jpg'
       mediaType: video
+      title: Hristiyan Ahlakı - Hristiyanlığın "Aşka" Bakışı Nedir?
+      description: >-
+        Banu Çelik sunumu ve İncil  öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+        ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal Hayat
+        ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
       publishedAt: '2019-07-29T08:30:17.000Z'
       tags:
-          'hristiyan'
-      title: Hristiyanlığın "Aşka" Bakışı Nedir?
-      url: 'https://youtu.be/ObNyMNmb-ds'
-      viewCount: '503'
+        - hristiyan
+        - ahlak
+        - incil
+        - aşka
+        - bakış
+        - açımız
+        - nedir?
+        - aşk nedir?
+        - kelam
+        - seviyorum
+        - aşık oldum
+        - evlilik
+      url: >-
+        https://www.youtube.com/watch?v=ObNyMNmb-ds&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy
+      viewCount: '510'
   - guests: Banu Çelik
     season: '1'
     youtubeURL:
-      description: >-
-        Hristiyanların Ötenazi ve İntihara Bakışı
-
-        Banu Çelik sunumu ve Can Nuroğlu'nun Kutsal Kitap ışığında
-        gerçekleştirdikleri "Hristiyan Ahlakı" programını sayfamızdan takip
-        edebilirsiniz. 
-
-        Esenlikler Dileriz.
       id: bVE7oTlONU0
       imageURL: 'https://i.ytimg.com/vi/bVE7oTlONU0/hqdefault.jpg'
       mediaType: video
+      title: Hristiyan Ahlakı - Hristiyanların Ötenazi ve İntihara Bakışı
+      description: >-
+        Banu Çelik sunumu ve İncil  öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+        ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal Hayat
+        ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
       publishedAt: '2019-06-17T07:49:56.000Z'
       tags:
-          '#hristiyanların'
-      title: Hristiyanların Ötenazi ve İntihara Bakışı
-      url: 'https://youtu.be/bVE7oTlONU0'
-      viewCount: '511'
+        - hristiyan
+        - ahlakı
+        - ötenazi
+        - ve
+        - intihara
+        - bakışı
+        - incil
+        - neden intihar?
+        - hayattan bıktım?
+        - yaşam amacım
+      url: >-
+        https://www.youtube.com/watch?v=bVE7oTlONU0&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=2
+      viewCount: '514'
   - guests: Banu Çelik
     season: '1'
     youtubeURL:
-      description: >-
-        Hristiyanlar için Boş Konuşmak bir "Lanet" midir?
-
-        Can Nuroğlu'nun  Banu Çelik ile birlikte Kutsal Kitap ışığında
-        gerçekleştirdiği
-
-        "Hristiyan Ahlakı" programını sayfamızdan takip edebilirsiniz.
       id: 7Zj3eo3NMqo
       imageURL: 'https://i.ytimg.com/vi/7Zj3eo3NMqo/hqdefault.jpg'
       mediaType: video
+      title: Hristiyan Ahlakı - Hristiyanlar için Boş Konuşmak bir "Lanet" midir?
+      description: >-
+        Banu Çelik sunumu ve İncil  öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+        ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal Hayat
+        ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
       publishedAt: '2019-05-30T08:26:51.000Z'
-      tags: '#lanet,#hristiyanlık,#için,#boş,#konuşmak,midir?'
-      title: Hristiyanlar için Boş Konuşmak bir "Lanet" midir?
-      url: 'https://youtu.be/7Zj3eo3NMqo'
-      viewCount: '470'
+      tags:
+        - hristiyan
+        - ahlakı
+        - nedir?
+        - boş
+        - konuşmak
+        - bir
+        - lanet mi?
+        - incil
+      url: >-
+        https://www.youtube.com/watch?v=7Zj3eo3NMqo&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=3
+      viewCount: '475'
 ---
 
