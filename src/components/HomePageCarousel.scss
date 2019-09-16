@@ -1,12 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster');
 
 #carousel {
-    position: absolute;
     height: 200px;
-    width: 810px;
-    margin: 50px auto;
-    left: -243px;
-    right: 0;
+    width: 600px;
 }
 
 .arrow {
@@ -22,7 +18,7 @@
 
 
 .arrow-right {
-    left: 935px;
+    left: 690px;
     transform: rotate(180deg);
 }
 
@@ -34,35 +30,24 @@
     transition: height 1s, width 1s, left 1s, margin-top 1s, line-height 1s, background-color 1s;
 }
 
-$level2-height: 176px;
-$level2-width: 250px;
-$level1-height: 176px;
-$level1-width: 250px;
 $level0-height: 176px;
 $level0-width: 250px;
+$level1-height: 176px;
+$level1-width: 250px;
 
-$level-1-left: 674px;
-$level0-left: 400px;
-$level1-left: 125px;
+$level0-left: 406px;
+$level1-left: 114px;
 
 
 
-
-.level-1 {
-    height: $level1-height;
-    width: $level1-width;
-    line-height: $level1-height;
-    left: $level-1-left;
-}
-
-.level0 {
+.homeLevel0 {
     height: $level0-height;
     width: $level0-width;
     line-height: $level0-height;
     left: $level0-left;
 }
 
-.level1 {
+.homeLevel1 {
     height: $level1-height;
     width: $level1-width;
     line-height: $level1-height;
@@ -72,10 +57,10 @@ $level1-left: 125px;
 
 .left-enter {
     opacity: 0;
-    left: $level1-left - $level1-width;
-    height: $level1-height - 30;
+    left: $level1-left;
+    height: $level1-height;
     width: $level1-width - 20;
-    line-height: $level1-height - 30;
+    line-height: $level1-height;
 }
 
 .left-enter.left-enter-active {
@@ -89,31 +74,31 @@ $level1-left: 125px;
 
 .left-leave {
     opacity: 1;
-    left: $level-1-left;
+    left: $level0-left;
     height: $level1-height;
     width: $level1-width;
     line-height: $level1-height;
 }
 
 .left-leave.left-leave-active {
-    left: $level-1-left + $level1-width + 20;
+    left: $level0-left + $level1-width;
     opacity: 0;
     height: $level1-height;
     line-height: $level1-height;
-    width: $level1-width - 20;
+    width: $level1-width;
     transition: left 1s, opacity 1s, height 1s, width 1s, margin-top 1s, line-height 1s;
 }
 
 .right-enter {
     opacity: 0;
-    left: $level-1-left + $level1-width;
-    height: $level1-height - 30;
+    left: $level0-left + $level1-width;
+    height: $level1-height;
     width: $level1-width - 20;
-    line-height: $level1-height - 30;
+    line-height: $level1-height;
 }
 
 .right-enter.right-enter-active {
-    left: $level-1-left;
+    left: $level0-left;
     opacity: 1;
     height: $level1-height;
     line-height: $level1-height;
@@ -147,33 +132,14 @@ $level1-left: 125px;
 }
 
 .playParavan {
-    background: url("/images/Groupplay.png");
     position: absolute;
-    width: 100%;
-    height: 100%;
-    background-repeat: no-repeat;
-    background-position: center;
+    width: 60px;
+    height: 14px;
+    background: black;
+    color: white;
+    bottom: 0;
+    float: right;
+    right: 6px;
+    margin-bottom: 3px;
 }
 
-.EpisodeVideoInfo {
-    height: 176px;
-    width: 250px;
-}
-.info {
-    height: 100px;
-    width: 300px;
-    font-size: 12px;
-    position: absolute;
-    top: 120px;
-    text-align: left;
-    padding-left: 20px;
-}
-
-.infoDiv {
-    height: 20px;
-}
-
-.infoDivView {
-    height: 20px;
-    display: flex;
-}
