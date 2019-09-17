@@ -127,15 +127,13 @@ class Item extends React.Component {
   }
 
   hanndlePlayClick = (e) => {
-    console.log('clicked')
-    console.log(e)
     const { dispatch, durations, hosts } = this.props;
-    const { thumb, i } = JSON.parse(e.target.value)
+    const { id, level } = JSON.parse(e.target.value)
     dispatch(toggleDarkMode(
-      thumb,
+      id,
       [],
       true,
-      i,
+      level,
       '',
       this.handleCloseClick,
       false,
@@ -175,7 +173,6 @@ class Item extends React.Component {
       level,
       id,
     } = this.props
-    console.log(id)
     const className = `item homeLevel${level}`
     return (
       <div className={className}>

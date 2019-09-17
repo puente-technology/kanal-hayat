@@ -155,10 +155,9 @@ class SeriesList extends Component {
     for (let i = 0; i < listSeries.length; i += 1) {
       const { frontmatter, fields } = listSeries[i].node
       if (i.toString() === expandedDiv) {
-        if (i % 2 === 0 && listSeries.length > 1) {
+        if (i % 2 === 0 && listSeries.length > 1 && !!listSeries[i + 1]) {
           const nextFields = listSeries[i + 1].node.fields
           const nextFronmatter = listSeries[i + 1].node.frontmatter
-
           renderSeries.push(
             <React.Fragment>
               <SerieCard
@@ -216,8 +215,6 @@ class SeriesList extends Component {
         )
       }
     }
-
-    // console.log({ listSeries });
     return (
       <div className="Series">
         <div className="SeriesListCategories">
