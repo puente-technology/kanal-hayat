@@ -12,7 +12,7 @@ const MobileAppLink = () => (
     <div className="qrCodeStyle">
       <img alt="qrCode" key="qrCode" src={qrCode} />
     </div>
-    <div>
+    <div className="appLink">
       <p className="firstText">
         Kanal Hayat uygulamamızı şimdi indirin!
       </p>

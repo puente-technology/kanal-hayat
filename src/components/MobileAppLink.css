@@ -48,3 +48,38 @@
   margin-bottom: 54px;
   width: 436px;
 }
+
+@media (max-width: 576px) {
+  .containerMobileAppLink {
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .qrCodeStyle {
+    display: none;
+  }
+
+  .firstText {
+    font-size: 15px;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+
+  .secondText {
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  .thirdText {
+    font-size: 13px;
+    margin-bottom: 25px;
+    display: flex;
+    width: auto;
+  }
+
+  .appLink {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}

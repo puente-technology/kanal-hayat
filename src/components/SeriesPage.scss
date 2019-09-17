@@ -70,3 +70,23 @@
   font-weight: bold;
   color: black;
 }
+
+@media (max-width: 576px) {
+  .customHeaderBanner {
+    background-position: right !important;
+  }
+  .SeriesPage {
+    padding-top: 20px;
+    .Episode {
+      margin-left: 21px;
+      margin-right: 21px;
+      width: 100%;
+    }
+    .EpisodeVideo {
+      width: 100%;
+    }
+    .minicontainer {
+      margin-bottom: 20px;
+    }
+  }
+}

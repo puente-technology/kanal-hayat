@@ -75,3 +75,39 @@
   color: #3D3D3D;
   margin: 0 auto;
 }
+
+@media (max-width: 576px) {
+  .friendSiteBannerContainer {
+    height: 304px;
+    display: flex;
+  }
+
+  .imageStyle {
+    height: 304px;
+  }
+
+  .logoDiv {
+    padding-left: 30%;
+    width: auto;
+  }
+
+  .logoStyle {
+    width: 144px;
+    height: 59px;
+  }
+
+  .header {
+    font-size: 15px;
+  }
+
+  .content {
+    font-size: 13px;
+    width: auto;
+  }
+
+  .button {
+    width: 150px;
+    height: 30px;
+    font-size: 13px;
+  }
+}

@@ -96,7 +96,7 @@ export class PageFooter extends Component {
               Kayıt Ol
             </button>
           </div>
-          <div>
+          <div className="rightColumn">
             <p className="mostViewedCol">
               En Çok İzlenen
             </p>

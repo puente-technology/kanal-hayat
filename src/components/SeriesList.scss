@@ -195,10 +195,14 @@
   &.active {
     background: #34B5CF;
     color: white;
+    outline: none;
   }
   &:hover {
     background: #34B5CF;
     color: white;
+  }
+  &:focus {
+    outline: none;
   }
 }
 
@@ -231,4 +235,141 @@
 .subcateg {
   width: 100%;
   margin-left: 257px;
+}
+
+.categoryArrowRight {
+  display: none;
+}
+
+.categoryArrowLeft {
+  display: none;
+}
+
+.right-arrow {
+  width: 20px;
+  height: 20px;
+  &.active {
+    outline: none;
+  }
+  &:focus {
+    outline: none;
+  }
+}
+
+.left-arrow {
+  width: 20px;
+  height: 20px;
+  &.active {
+    outline: none;
+  }
+  &:focus {
+    outline: none;
+  }
+}
+
+@media (max-width: 576px) {
+  .Series {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  
+  .SerieCard {
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  
+  .Close {
+    width: 20px;
+    height: 20px;
+    background-size: 20px;
+    top: 11px;
+    right: 20px;
+  }
+  
+  .paravan {
+    width: 100%;
+  }
+  
+  .SpanContainer {
+    left: 20px;
+  }
+  
+  .SerieCardTitle {
+    font-size: 18px;
+    line-height: 25px;
+  }
+  
+  .SerieCardHost {
+    line-height: 25px;
+  }
+  
+  .InformationTitle {
+    font-size: 18px;
+    line-height: 25px;
+    margin-top: 18px;
+    margin-left: 21px;
+  }
+  
+  .InformationHost {
+    font-size: 13px;
+    margin-left: 21px;
+  }
+  
+  .InformationDesc {
+    font-size: 13px;
+    margin-left: 21px;
+  }
+  
+  .Episodes {
+    margin-left: 21px;
+  }
+  
+  .EpisodesTitle {
+    font-size: 15px;
+  }
+  
+  .EpisodesAll {
+    font-size: 14px;
+  }
+  
+  .Episode {
+    margin-left: 21px;
+  }
+  
+  .SeriesListCategories {
+    flex-wrap: nowrap;
+    overflow: scroll;
+    justify-content: flex-start;
+    padding-left: 15px;
+    margin-right: 30px;
+    margin-left: 30px;
+  }
+  
+  .category {
+    font-size: 13px;
+    &.active {
+      font-size: 18px;
+    }
+  }
+  
+  .SortButton {
+    min-width: 63px;
+    height: 19px;
+    font-size: 11px;
+    line-height: 15px;
+  }
+
+  .categoryArrowRight {
+    display: flex;
+    position: absolute;
+    right: 0px;
+    margin-top: 72px;
+  }
+  .categoryArrowLeft {
+    display: flex;
+    position: absolute;
+    left: 0px;
+    margin-top: 72px;
+    transform: rotate(180deg);
+  }
 }

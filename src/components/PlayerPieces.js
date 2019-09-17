@@ -68,38 +68,42 @@ export const PlayerControls = ({
     {
     playerProps.playing
       ? (
-        <button
-          type="button"
-          className={playerProps.isBigScreen ? 'player-controls-svg-isBig' : 'player-controls-svg'}
-          onClick={playerProps.playerPause}
-          style={{
-            marginLeft: '10px',
-            marginRight: '10px',
-            paddingTop: '32px',
-            background: `url(${pauseSvg}) no-repeat`,
-            backgroundSize: 'contain',
-            border: 'none',
-          }}
-          width="30px"
-          height="36px"
-        />
+        <div className="playPause-button">
+          <button
+            type="button"
+            className={playerProps.isBigScreen ? 'player-controls-svg-isBig' : 'player-controls-svg'}
+            onClick={playerProps.playerPause}
+            style={{
+              marginLeft: '10px',
+              marginRight: '10px',
+              paddingTop: '32px',
+              background: `url(${pauseSvg}) no-repeat`,
+              backgroundSize: 'contain',
+              border: 'none',
+            }}
+            width="30px"
+            height="36px"
+          />
+        </div>
       )
       : (
-        <button
-          type="button"
-          className={playerProps.isBigScreen ? 'player-controls-svg-isBig' : 'player-controls-svg'}
-          onClick={onPlayClick}
-          style={{
-            marginLeft: '10px',
-            marginRight: '10px',
-            paddingTop: '32px',
-            background: `url(${playSvg}) no-repeat`,
-            backgroundSize: 'contain',
-            border: 'none',
-          }}
-          width="30px"
-          height="36px"
-        />
+        <div className="playPause-button">
+          <button
+            type="button"
+            className={playerProps.isBigScreen ? 'player-controls-svg-isBig' : 'player-controls-svg'}
+            onClick={onPlayClick}
+            style={{
+              marginLeft: '10px',
+              marginRight: '10px',
+              paddingTop: '32px',
+              background: `url(${playSvg}) no-repeat`,
+              backgroundSize: 'contain',
+              border: 'none',
+            }}
+            width="30px"
+            height="36px"
+          />
+        </div>
       )
   }
     {

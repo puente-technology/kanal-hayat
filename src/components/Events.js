@@ -6,11 +6,14 @@ import './Events.scss'
 import { LiveNowC } from './LiveNow';
 import { dayPeriods } from '../constants/generics';
 
+const rightArrow = require('../../static/images/right-arrow-black.svg');
 
 class Events extends Component {
   state = {
     activeDay: '1',
     dayPeriod: dayPeriods.ALL.value,
+    scrollWeekPosition: 0,
+    scrollLeftMax: 1,
   }
 
   filteredList = [];
@@ -23,7 +26,7 @@ class Events extends Component {
     const { eventList } = this.props;
     const filtered = eventList.filter(event => event.time.days
       .some(d => d === parseInt(firstLoadedDay, 10)))
-    this.filteredList = filtered.sort(sortTimeString)
+    this.filteredList = filtered.sort(sortTimeString);
   }
 
   handleDateChange = (e) => {
@@ -52,14 +55,36 @@ class Events extends Component {
     this.filteredList = filtered.sort(sortTimeString)
   }
 
+  handleScroll = (e) => {
+    const elem = e.target;
+    const scrollLeftMax = elem.scrollWidth - elem.clientWidth;
+    this.setState(() => ({ scrollLeftMax, scrollWeekPosition: elem.scrollLeft }));
+    // console.log('onScroll', elem.clientWidth);
+    // console.log('onScroll', elem.scrollLeft, elem.scrollHeight, elem.scrollWidth);
+  }
 
   render() {
-    const { activeDay } = this.state;
-    const timeNow = new Date().toLocaleString()
+    const { activeDay, scrollWeekPosition, scrollLeftMax } = this.state;
+    const timeNow = new Date().toLocaleString();
+    // console.log('Scroll Event Week Position : ', scrollWeekPosition, scrollLeftMax);
     return (
       <React.Fragment>
         <LiveNowC eventList={this.filteredList} />
-        <div className="Event-Week">
+        <div className="Event-Week" onScroll={this.handleScroll}>
+          { scrollWeekPosition > 23 && scrollWeekPosition <= scrollLeftMax
+          && (
+          <div className="categoryArrowLeft">
+            <button
+              type="button"
+              style={{
+                background: `url(${rightArrow}) no-repeat`,
+                backgroundSize: 'contain',
+                border: 'none',
+              }}
+              className="left-arrow"
+            />
+          </div>
+          )}
           {
             eventWeek().map((day, i) => (
               <button
@@ -75,6 +100,20 @@ class Events extends Component {
               </button>
             ))
           }
+          { scrollWeekPosition < scrollLeftMax
+          && (
+          <div className="categoryArrowRight">
+            <button
+              type="button"
+              style={{
+                background: `url(${rightArrow}) no-repeat`,
+                backgroundSize: 'contain',
+                border: 'none',
+              }}
+              className="right-arrow"
+            />
+          </div>
+          )}
         </div>
         <div className="Event-Filters">
           {
