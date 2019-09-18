@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: 'DAR KAPIDAN GİRENLER [NEDEN HRİSTİYAN OLDUM?] 9.SEZON'
 publishDate: .
-coverImage: /images/uploads/dar-kapidan-girenler.jpg
+coverImage: /images/uploads/ali-kalkandelen-ii.jpg
 host: Ali Kalkandelen
 description: >-
   Neden Hristiyan Oldum?
