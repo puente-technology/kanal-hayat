@@ -444,5 +444,37 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=bFyqBG8RGYg&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=13&t=0s
       viewCount: '3716'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
+        programını Kanal Hayat ekranından veya sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        Allah'ı tanımak mümkün mü ?
+
+        Allah mı ? Tanrı mı, Fark Eder mi ?
+
+        Allah'ın Özü Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: bUKAAmwGFuE
+      imageURL: 'https://i.ytimg.com/vi/bUKAAmwGFuE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-05-06T10:40:15.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Allah Sevgidir,Can
+        Nuroğlu,Allahı Tanımak
+      title: Allah Sevgidir - Allah Sevgisini Nasıl Gösterir? - 13.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=bUKAAmwGFuE&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=14&t=0s
+      viewCount: '2082'
 ---
 
