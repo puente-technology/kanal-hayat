@@ -114,5 +114,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=_E4NBAuNoQQ&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=6&t=0s
       viewCount: '179'
+  - season: '2'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri - 2.Sezon (6.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      id: d88LF38LzMo
+      imageURL: 'https://i.ytimg.com/vi/d88LF38LzMo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T09:55:11.000Z'
+      tags: 'mana,sohbetleri,içte,olmanın,prensipleri'
+      title: Mânâ Sohbetleri - 2.Sezon - İçte Olmanın Prensipleri
+      url: >-
+        https://www.youtube.com/watch?v=d88LF38LzMo&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=7&t=0s
+      viewCount: '121'
 ---
 
