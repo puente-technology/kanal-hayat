@@ -76,7 +76,7 @@ program1:
         title: Joyce Meyers 2019 - What is Sin? - Part 1
         url: 'https://www.youtube.com/watch?v=wp6H2O2tzhk'
         viewCount: '18338'
-    - image: /images/uploads/joyce.jpg
+    - image: /images/uploads/meyer-2.jpg
       youtubeURL:
         description: >-
           1086 2 Güçlü Düşünceler 2
@@ -100,23 +100,33 @@ program1:
         title: Hayattan Keyif Alın - Güçlü Düşünceler 2
         url: 'https://www.youtube.com/watch?v=NL715li-YOQ'
         viewCount: '90'
-    - image: /images/uploads/joyce.jpg
+    - image: /images/uploads/meyer-2.jpg
       youtubeURL:
-        description: Joyce Meyer
-        id: wq324Njd1F0
-        imageURL: 'https://i.ytimg.com/vi/wq324Njd1F0/hqdefault.jpg'
+        description: >-
+          Tanrı'nın Sözlerini Kendi Sözlerimiz Haline Getirmek - 2
+
+          Hayatan Keyif Alın, Joyce Meyer programlarını sayfamızdan takip
+          edebilirsiniz.
+
+          http://kanalhayat.tv/
+
+          http://www.youtube.com/kanalhayatplay
+
+          https://www.facebook.com/kanalhayat
+
+          https://twitter.com/kanalhayat
+        id: ZRmJP8je89A
+        imageURL: 'https://i.ytimg.com/vi/ZRmJP8je89A/hqdefault.jpg'
         mediaType: video
-        publishedAt: '2014-08-08T14:15:42.000Z'
+        publishedAt: '2019-04-09T11:48:43.000Z'
         tags: >-
-          Joyce Meyer (Organization
-          Leader),Bible,Gospel,answers,spirituality,help,Spirit,inspiration,joyce
-          meyer,joyce meyer sermons,joyce meyer ministries,bible,everyday
-          living,confident woman,emotions,joyce meyer 2016,joyce meyer
-          exposed,joyce meyer relationships,spending time with
-          god,marriage,discipline,devil,Jesus,God,answer,truth,forgiveness,satan,evil,hope,love,faith,scriptures,sermon,life,motivation,gospel
-        title: God Hears and Answers by Joyce Meyer
-        url: 'https://www.youtube.com/watch?v=wq324Njd1F0'
-        viewCount: '529458'
+          hayattan,keyif,alın,geçmişi,geçmişte,bırakmak,kanal
+          hayat,kendi,sözleriniz,haline,getirmek
+        title: >-
+          Hayattan Keyif Alın - Tanrı'nın Sözlerini Kendi Sözlerimiz Haline
+          Getirmek - 2
+        url: 'https://www.youtube.com/watch?v=ZRmJP8je89A&feature=youtu.be'
+        viewCount: '251'
   title: Joyce Meyer / YAZAR
 program2:
   align: right
