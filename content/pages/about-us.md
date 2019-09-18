@@ -1,8 +1,7 @@
 ---
 locale: en
 template: AboutUs
-featuredImage: >-
-  https://wp-media.patheos.com/blogs/sites/1216/2019/05/art-blur-bright-2081128.jpg
+featuredImage: /images/uploads/kanal-hayat.jpg
 slug: about-us
 title: KANAL HAYAT HAKKINDA
 content:
