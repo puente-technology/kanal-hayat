@@ -22,13 +22,12 @@ program1:
   align: left
   bgImage: /images/uploads/bigmodulejoycemayer.png
   color: dark
-  content: >-
-    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-    doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-    veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim
-    ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-    consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Natus
-    error sit voluptatem accusantium doloremque laudantium.
+  content: |-
+    Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından
+    nasıl özgür olur? Kitapları Çok Satan İncil Öğretmeni Joyce
+    Meyer’den, hayatınızdan zevk almanız için teşvik dolu paylaşımlar.
+    Joyce Meyer’i Kanal Hayat ekranlarından ve Youtube kanalımızdan
+    takip edebilirsiniz.
   thumbnailTitle: Watch Now!
   thumbnails:
     - image: /images/uploads/joyce.jpg
