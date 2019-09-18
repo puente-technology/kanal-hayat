@@ -38,5 +38,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=VLmbxYbo7cQ&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=2&t=0s
       viewCount: '192'
+  - season: '2'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri - 2.Sezon (2.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      id: EuLYxeRNZLs
+      imageURL: 'https://i.ytimg.com/vi/EuLYxeRNZLs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-07-13T10:13:12.000Z'
+      tags: 'pratiklerin,yaşamdaki,açılımı,pratiklerine,giriş,mana,sohbetleri,incil'
+      title: Mânâ Sohbetleri - 2.Sezon - Pratiklerin Yaşamdaki Açılımı
+      url: >-
+        https://www.youtube.com/watch?v=EuLYxeRNZLs&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=3&t=0s
+      viewCount: '75'
 ---
 
