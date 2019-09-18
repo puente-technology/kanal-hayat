@@ -100,5 +100,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=HmycEqv92NY&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=4&t=0s
       viewCount: '53'
+  - season: '2'
+    youtubeURL:
+      description: >-
+        Evlilikte Bağışlama 
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: YVI31UdmiZw
+      imageURL: 'https://i.ytimg.com/vi/YVI31UdmiZw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-12T06:57:31.000Z'
+      tags: '#evlilikte,#bağışlama,#hristiyan,#olmak,#aile,#incil'
+      title: Evlilik Sohbetleri - Evlilikte Bağışlama 1 (2-15)
+      url: >-
+        https://www.youtube.com/watch?v=YVI31UdmiZw&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=5&t=0s
+      viewCount: '128'
 ---
 
