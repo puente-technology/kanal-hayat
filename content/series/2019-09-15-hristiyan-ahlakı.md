@@ -120,5 +120,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=xEClGTFBb6c&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=5&t=0s
       viewCount: '488'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+        ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal Hayat
+        ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: nzKz4XjQFnQ
+      imageURL: 'https://i.ytimg.com/vi/nzKz4XjQFnQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-05-06T19:20:55.000Z'
+      tags: >-
+        hristiyan,ahlakı,hristiyanlar,boşanma,konusunda,ne diyor?,aile
+        kurmak,mutlu aile,şiddetli geçimsizlik
+      title: Hristiyan Ahlakı - Hristiyanlar Boşanma Konusunda Ne Diyor?
+      url: >-
+        https://www.youtube.com/watch?v=nzKz4XjQFnQ&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=6&t=0s
+      viewCount: '658'
 ---
 
