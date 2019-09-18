@@ -249,5 +249,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ed5BfiqYM98&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=10&t=0s
       viewCount: '267'
+  - season: '2'
+    youtubeURL:
+      description: >-
+        Evlilikte Kıskançlık Sorunu
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: U8Q3sVoz5p0
+      imageURL: 'https://i.ytimg.com/vi/U8Q3sVoz5p0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-22T10:19:52.000Z'
+      tags: '#evlilikte,#kıskançlık,#sorunu,#sevgi,#püf,#noktalar,#aile,#olmak'
+      title: Evlilik Sohbetleri - Evlilikte Kıskançlık Sorunu -1 (2-06)
+      url: >-
+        https://www.youtube.com/watch?v=U8Q3sVoz5p0&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=11&t=0s
+      viewCount: '205'
 ---
 
