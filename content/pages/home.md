@@ -5,7 +5,7 @@ title: Main Slider
 gallery:
   - align: center
     alt: Hakan Taştan ile
-    color: dark
+    color: light
     image: /images/uploads/dsc01143.jpg
     title: Gerçeğin Sesi
   - align: right
