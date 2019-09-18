@@ -370,5 +370,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=2hcHDFYnWTA&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=15&t=0s
       viewCount: '1288'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+        ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal Hayat
+        ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: UzotzuYs8m0
+      imageURL: 'https://i.ytimg.com/vi/UzotzuYs8m0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-01-22T11:46:08.000Z'
+      tags: >-
+        hristiyan,ahlakına,giriş
+        nedir?,günah,helal,haram,para,faiz,borç,cinsellik,din,müslümanlık,müslüman,ehli
+        sünnet,sahipleri,cemaat,muhammet,Rab,isa mesih kimdir?,incil okdunuz mu?
+      title: Hristiyan Ahlakı - Hristiyan Ahlakına Giriş
+      url: >-
+        https://www.youtube.com/watch?v=UzotzuYs8m0&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=16&t=0s
+      viewCount: '1089'
 ---
 
