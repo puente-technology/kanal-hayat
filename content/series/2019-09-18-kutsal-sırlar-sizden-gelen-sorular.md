@@ -246,5 +246,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=bU772QORdRw&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=9&t=0s
       viewCount: '1767'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Kıtsal sırlar 9. Bölüm soruları
+
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın.
+
+        1- Kutsal kitap konusunda tembelliğim var ne tavsiye edersiniz?
+
+        2- İncil'de günah işleyen gözü çıkarın diyor bunu nasıl anlamalıyız?
+
+        3- İsa son gece Baba beni kurtar diyor. Bu nasıl şey? Babası onu ölüme
+        gönderiyor.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: axaOFKAkMDI
+      imageURL: 'https://i.ytimg.com/vi/axaOFKAkMDI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-07-19T07:21:50.000Z'
+      tags: 'kutsal,sırlar,tembellik,tavsiye,baba,isa'
+      title: Kutsal Sırlar - Bölüm 9
+      url: >-
+        https://www.youtube.com/watch?v=axaOFKAkMDI&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=10&t=0s
+      viewCount: '733'
 ---
 
