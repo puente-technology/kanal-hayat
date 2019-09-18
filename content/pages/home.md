@@ -20,7 +20,7 @@ gallery:
     title: Devam Etmek
 program1:
   align: left
-  bgImage: /images/uploads/bigmodulejoycemayer.png
+  bgImage: /images/uploads/meyer-2.jpg
   color: dark
   content: |-
     Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından
@@ -30,52 +30,33 @@ program1:
     takip edebilirsiniz.
   thumbnailTitle: Watch Now!
   thumbnails:
-    - image: /images/uploads/joyce.jpg
+    - image: /images/uploads/bigmodulejoycemayer.png
       youtubeURL:
         description: >-
-          #joycemeyers2019
+          Tanrı'nın Sözlerini Kendi Sözlerimiz Haline Getirmek - 2
 
-          #joycemeyer
+          Hayatan Keyif Alın, Joyce Meyer programlarını sayfamızdan takip
+          edebilirsiniz.
 
-          #God
+          http://kanalhayat.tv/
 
-          What is Sin? - Part 1
+          http://www.youtube.com/kanalhayatplay
 
-          With God's help, we can become better versions of ourselves. Learn how
-          you can achieve your God-given purpose in life by growing spiritually
-          day by day.
+          https://www.facebook.com/kanalhayat
 
-
-
-
-
-
-
-
-          joyce meyers 2019, joyce meyer, joyce meyer 2019, joyce meyers, joyce
-          meyer sermons, 
-
-          joyce meyer sermons 2019, 
-
-          joyce meyers 2018, 
-
-          joyce meyer right and wrong mindsets, 
-
-          joyce meyers 2019 sermons, Pastor, New, Sacermons, 
-
-          Bishop, Bible, Preacher, Preaching, Ministry, god
-        id: wp6H2O2tzhk
-        imageURL: 'https://i.ytimg.com/vi/wp6H2O2tzhk/hqdefault.jpg'
+          https://twitter.com/kanalhayat
+        id: ZRmJP8je89A
+        imageURL: 'https://i.ytimg.com/vi/ZRmJP8je89A/hqdefault.jpg'
         mediaType: video
-        publishedAt: '2019-09-01T08:00:13.000Z'
+        publishedAt: '2019-04-09T11:48:43.000Z'
         tags: >-
-          joyce meyers 2019,joyce meyer,joyce meyer 2019,joyce meyers,joyce
-          meyer sermons,joyce meyer sermons 2019,joyce meyers 2018,joyce meyer
-          right and wrong mindsets,joyce meyers 2019
-          sermons,Pastor,New,Sacermons,Bishop,Bible,Preacher,Preaching,Ministry,god
-        title: Joyce Meyers 2019 - What is Sin? - Part 1
-        url: 'https://www.youtube.com/watch?v=wp6H2O2tzhk'
-        viewCount: '18338'
+          hayattan,keyif,alın,geçmişi,geçmişte,bırakmak,kanal
+          hayat,kendi,sözleriniz,haline,getirmek
+        title: >-
+          Hayattan Keyif Alın - Tanrı'nın Sözlerini Kendi Sözlerimiz Haline
+          Getirmek - 2
+        url: 'https://www.youtube.com/watch?v=ZRmJP8je89A&feature=youtu.be'
+        viewCount: '251'
     - image: /images/uploads/meyer-2.jpg
       youtubeURL:
         description: >-
