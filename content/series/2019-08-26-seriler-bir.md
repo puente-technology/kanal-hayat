@@ -226,5 +226,53 @@ episodes:
       title: Hristiyan Şeriatı - Kiliselerin Birliği
       url: 'https://youtu.be/BRVU5LD7ggw'
       viewCount: '173'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        63 - İznik konseyi
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: kRDaYpaDEsE
+      imageURL: 'https://i.ytimg.com/vi/kRDaYpaDEsE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-07T19:21:05.000Z'
+      tags: 'iznik,konseyi,şeriat'
+      title: Hristiyan Şeriatı - İznik konseyi
+      url: 'https://youtu.be/kRDaYpaDEsE'
+      viewCount: '236'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        63 - Dili dizginlemek zordur
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: fQaxoc2knuc
+      imageURL: 'https://i.ytimg.com/vi/fQaxoc2knuc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-10T06:46:11.000Z'
+      tags: '#efesliler #yeni #eski #yaşam #kutsal #kitap #kutsal #yaşam'
+      title: Hristiyan Şeriatı - Dili Dizginlemek Zordur
+      url: 'https://youtu.be/fQaxoc2knuc'
+      viewCount: '118'
 ---
 
