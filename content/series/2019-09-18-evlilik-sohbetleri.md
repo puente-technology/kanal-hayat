@@ -486,5 +486,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ogNRrUAdGGc&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=20&t=0s
       viewCount: '34'
+  - season: '2'
+    youtubeURL:
+      description: >-
+        Evliliği Geliştirmek İçin Neler Yapılabilir?
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: HeuKUt2C6sg
+      imageURL: 'https://i.ytimg.com/vi/HeuKUt2C6sg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-17T08:35:57.000Z'
+      tags: >-
+        evlilik,sohbetleri,evliliği,geliştirmek,kelam,incil,kadınlar,erkekler,Ne
+        Yapılabilir?,mutlu aile
+      title: Evlilik Sohbetleri - Evliliği Geliştirmek İçin Neler Yapılabilir? (2-19)
+      url: >-
+        https://www.youtube.com/watch?v=HeuKUt2C6sg&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=21&t=0s
+      viewCount: '67'
 ---
 
