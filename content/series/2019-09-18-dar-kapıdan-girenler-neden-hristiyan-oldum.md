@@ -128,5 +128,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=JrGnSMoFXBk&list=PLCFFCCDDA9D6C2653&index=5&t=0s
       viewCount: '5098'
+  - season: '9'
+    youtubeURL:
+      description: >-
+        Neden Hristiyan Oldum?
+
+        Ali Kalkandelen'in sunumu ve konuklarının katılımıyla gerçekleştirdiği
+        "Dar Kapıdan Girenler" programını sayfamızdan takip
+        edebilirsiniz.Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat.tv
+
+        https://twitter.com/kanalhayat
+      id: eck9YYSAUGU
+      imageURL: 'https://i.ytimg.com/vi/eck9YYSAUGU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-08-02T08:59:00.000Z'
+      tags: '#neden,#hristiyan,#oldum,#dar,#kapıdan,#girenler'
+      title: 'Neden Hristiyan Oldum? Yasemin Tanıklık 2 [9.Sezon 5.Bölüm]'
+      url: >-
+        https://www.youtube.com/watch?v=eck9YYSAUGU&list=PLCFFCCDDA9D6C2653&index=6&t=0s
+      viewCount: '3685'
 ---
 
