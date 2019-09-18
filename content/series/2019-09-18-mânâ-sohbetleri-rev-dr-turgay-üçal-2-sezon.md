@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Mânâ Sohbetleri - Rev.Dr. Turgay Üçal - 2.Sezon
 publishDate: .
-coverImage: /images/uploads/mana.jpg
+coverImage: /images/uploads/turgay-ucal.jpg
 host: Rev.Dr. Turgay Üçal
 description: |-
   Mesih'in Öğrencisi Olmak Ne Demektir?
