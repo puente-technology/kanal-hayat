@@ -1,12 +1,15 @@
-color: "light"
+color: light
 imageObj:
   - alt: Image
-    image: 'https://i.ibb.co/xHDqcZm/km.png'
+    image: /images/uploads/kutsal-kitap-incil.jpg
     title: Yellow Rope
 logo:
   - alt: logo
-    image: 'https://www.kitabimukaddes.com/images/logos/1/Kitab-i_Mukaddes_Sirketi.png?t=1467272107'
+    image: >-
+      https://www.kitabimukaddes.com/images/logos/1/Kitab-i_Mukaddes_Sirketi.png?t=1467272107
     title: Yellow Rope
-header: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-content: consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-buttonText: Siteye Git
+header: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit,'
+content: >-
+  consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+  dolore magna aliqua.
+buttonText: Siteye Git   which page will be add need ASK
