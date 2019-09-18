@@ -321,5 +321,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=5bGe4IZC3GQ&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=13&t=0s
       viewCount: '216'
+  - season: '2'
+    youtubeURL:
+      description: >-
+        Evlilikte Romantizm
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: LJLEBgcLfkM
+      imageURL: 'https://i.ytimg.com/vi/LJLEBgcLfkM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-08T11:37:47.000Z'
+      tags: '#evlilikte,#romantizm,#sevgi,#püf,#noktalar,#aile,#olmak'
+      title: Evlilik Sohbetleri - Evlilikte Romantizm (2-03)
+      url: >-
+        https://www.youtube.com/watch?v=LJLEBgcLfkM&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=14&t=0s
+      viewCount: '272'
 ---
 
