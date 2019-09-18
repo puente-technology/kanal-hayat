@@ -152,5 +152,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=WO65cNLBA0I&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=8&t=0s
       viewCount: '261'
+  - season: '2'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri - 2.Sezon (8.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      id: 6AjwkoMW1T4
+      imageURL: 'https://i.ytimg.com/vi/6AjwkoMW1T4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-09T09:41:51.000Z'
+      tags: 'Tohum,Ağaç,Hardal,Tanesi,ölüm'
+      title: 'Mânâ Sohbetleri - Tohum, Ağaç, Hardal Tanesi, Ölüm'
+      url: >-
+        https://www.youtube.com/watch?v=6AjwkoMW1T4&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=9&t=0s
+      viewCount: '182'
 ---
 
