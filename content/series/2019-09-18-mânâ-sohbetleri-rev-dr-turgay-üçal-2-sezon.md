@@ -76,5 +76,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=bd5D-AYYkGs&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=4&t=0s
       viewCount: '87'
+  - season: '2'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri - 2.Sezon (4.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      id: xLuaJXDZiD4
+      imageURL: 'https://i.ytimg.com/vi/xLuaJXDZiD4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-07-13T10:13:12.000Z'
+      tags: 'olma,için,adımlar,incil,mana,sohbetleri'
+      title: Mânâ Sohbetleri - 2.Sezon - Olma için Adımlar
+      url: >-
+        https://www.youtube.com/watch?v=xLuaJXDZiD4&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=5&t=0s
+      viewCount: '54'
 ---
 
