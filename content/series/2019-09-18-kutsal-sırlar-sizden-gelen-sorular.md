@@ -190,5 +190,39 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=eTtSMQ1w1jo&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=6&t=0s
       viewCount: '832'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Kutsal sırlar 7. Bölüm soruları
+
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın
+
+        1- İçimde çok büyük bir nefret var, bu nefretten nasıl kurtulabilirim?
+
+        2- Annem ile babamı bana yaptıkları eziyetlerden dolayı af edemiyorum,
+        nasıl af edebilirim?
+
+        3- İncilde oruç tutmak varken siz neden tutmuyorsunuz?
+
+        4- incilde dünyanın egemeni derken bizim peygamberimizden bahsediyor,
+        siz neden inkar ediyorsunuz?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: 4W0UZwMt5GY
+      imageURL: 'https://i.ytimg.com/vi/4W0UZwMt5GY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-07-19T07:21:17.000Z'
+      tags: 'kutsal,sırlar,annem,babam,oruç,tutmak,peygamberimiz'
+      title: Kutsal Sırlar - Bölüm 7
+      url: >-
+        https://www.youtube.com/watch?v=4W0UZwMt5GY&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=8&t=0s
+      viewCount: '899'
 ---
 
