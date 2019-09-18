@@ -108,7 +108,7 @@ program1:
           Getirmek - 2
         url: 'https://www.youtube.com/watch?v=ZRmJP8je89A&feature=youtu.be'
         viewCount: '251'
-  title: Joyce Meyer / YAZAR
+  title: Joyce Meyer / Vaiz
 program2:
   align: right
   bgImage: /images/uploads/dsc01005.jpg
