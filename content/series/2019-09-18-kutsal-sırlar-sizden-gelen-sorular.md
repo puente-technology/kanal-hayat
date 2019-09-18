@@ -224,5 +224,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=4W0UZwMt5GY&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=8&t=0s
       viewCount: '899'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: bU772QORdRw
+      imageURL: 'https://i.ytimg.com/vi/bU772QORdRw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-07-26T12:16:05.000Z'
+      tags: 'kutsal,sırlar,sorular,incil,merhamet'
+      title: Kutsal Sirlar - Bolum 8
+      url: >-
+        https://www.youtube.com/watch?v=bU772QORdRw&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=9&t=0s
+      viewCount: '1767'
 ---
 
