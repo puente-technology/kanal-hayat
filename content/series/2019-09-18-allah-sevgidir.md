@@ -124,5 +124,37 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=7Mu9F8XDG9U&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=4&t=0s
       viewCount: '8022'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
+        programını Kanal Hayat ekranından veya sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        Allah'ı tanımak mümkün mü ?
+
+        Allah mı ? Tanrı mı, Fark Eder mi ?
+
+        Allah'ın Özü Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: fMg9AQWY1cQ
+      imageURL: 'https://i.ytimg.com/vi/fMg9AQWY1cQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-03-14T08:29:36.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Allah Sevgidir,Can
+        Nuroğlu,Allahı Tanımak,Allah'ı Nasıl Tanıyabiliriz?
+      title: Allah Sevgidir -  Allah'ı Nasıl Tanıyabiliriz? - 4.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=fMg9AQWY1cQ&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=5&t=0s
+      viewCount: '5244'
 ---
 
