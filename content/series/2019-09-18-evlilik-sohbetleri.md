@@ -393,5 +393,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=JjTw8BCnroI&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=16&t=0s
       viewCount: '324'
+  - season: '2'
+    youtubeURL:
+      description: >-
+        Evlilikte Öfke Sorunu
+
+        Evlilikte Ruh Birliğini Sağlamak
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: V_cwo1MN6V0
+      imageURL: 'https://i.ytimg.com/vi/V_cwo1MN6V0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-07-29T08:45:15.000Z'
+      tags: '#evlilik,#sohbetleri,#öfke,#sorunu,#evlenmek,#hristiyanlık,#aile'
+      title: Evlilik Sohbetleri - Evlilikte Öfke Sorunu (2-04)
+      url: >-
+        https://www.youtube.com/watch?v=V_cwo1MN6V0&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=17&t=0s
+      viewCount: '477'
 ---
 
