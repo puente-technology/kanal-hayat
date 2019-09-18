@@ -148,5 +148,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=0EfT1GNCXzs&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=6&t=0s
       viewCount: '109'
+  - season: '2'
+    youtubeURL:
+      description: >-
+        Nişanlılık Nedir? Nasıl Yaşanmalı?
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: EIF-Asm0i9E
+      imageURL: 'https://i.ytimg.com/vi/EIF-Asm0i9E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-10T06:46:35.000Z'
+      tags: '#evlilikte,#bağışlama,#hristiyan,#olmak,#aile,#incil,#nişanlılık,#nedir?'
+      title: Evlilik Sohbetleri - Nişanlılık Nedir? Nasıl Yaşanmalı? (2-13)
+      url: >-
+        https://www.youtube.com/watch?v=EIF-Asm0i9E&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=7&t=0s
+      viewCount: '124'
 ---
 
