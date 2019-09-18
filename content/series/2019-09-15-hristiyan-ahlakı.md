@@ -222,5 +222,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=kZn36OuSCqc&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=9&t=0s
       viewCount: '375'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+        ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal Hayat
+        ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: 1q-M4SU_ee4
+      imageURL: 'https://i.ytimg.com/vi/1q-M4SU_ee4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-04-02T08:34:36.000Z'
+      tags: >-
+        hristiyan,ahlakı,nedir?,kelam,incil,para,kavramına,bakış,açımız
+        nasıldır?,haram,helal
+      title: Hristiyan Ahlakı - Hristiyanların "Para" Kavramına Bakışı Nasıldır?
+      url: >-
+        https://www.youtube.com/watch?v=1q-M4SU_ee4&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=10&t=0s
+      viewCount: '529'
 ---
 
