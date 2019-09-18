@@ -9,15 +9,15 @@ gallery:
     image: /images/uploads/dsc01008.jpg
     title: Hristiyan Ahlakı
   - align: center
-    alt: Gerçeğin Sesi
+    alt: Hakan Taştan ile
     color: dark
     image: /images/uploads/dsc01143.jpg
-    title: Hakan Taştan ile
+    title: Gerçeğin Sesi
   - align: right
-    alt: Hristiyan Şeriatı
+    alt: Ahmet Güvener ile
     color: light
     image: /images/uploads/_dsc1607.jpg
-    title: Ahmet Güvener ile
+    title: 'Hristiyan Şeriatı '
 program1:
   align: left
   bgImage: /images/uploads/meyer-2.jpg
@@ -181,6 +181,6 @@ program2:
         url: >-
           https://www.youtube.com/watch?v=kZn36OuSCqc&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=8
         viewCount: '374'
-  title: Can Nuroglu / BASKA YAZAR
+  title: Can Nuroglu / YAZAR
 ---
 
