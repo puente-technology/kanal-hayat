@@ -435,5 +435,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=wes4pumjNW4&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=18&t=0s
       viewCount: '267'
+  - season: '2'
+    youtubeURL:
+      description: >-
+        Işıl ve Noyan Çifti (2-01)
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: OoYL-u1a3gc
+      imageURL: 'https://i.ytimg.com/vi/OoYL-u1a3gc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-07-08T10:44:18.000Z'
+      tags: '#evlilik,#sohbetleri,#aile,#olmak'
+      title: Evlilik Sohbetleri - Evlilik Sohbetleri - Işıl ve Noyan Çifti (2-01)
+      url: >-
+        https://www.youtube.com/watch?v=OoYL-u1a3gc&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=19&t=0s
+      viewCount: '372'
 ---
 
