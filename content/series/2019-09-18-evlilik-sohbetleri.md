@@ -369,5 +369,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=F13-7Q6e_B8&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=15&t=0s
       viewCount: '173'
+  - season: '2'
+    youtubeURL:
+      description: >-
+        Erdal ve Nükhet Çiftini Tanıyalım
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: JjTw8BCnroI
+      imageURL: 'https://i.ytimg.com/vi/JjTw8BCnroI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-07-30T07:58:31.000Z'
+      tags: '#evlilik,#sohbetleri,#hristiyan,#aile,#olmak'
+      title: Evlilik Sohbetleri - Erdal ve Nükhet Çiftini Tanıyalım (2-05)
+      url: >-
+        https://www.youtube.com/watch?v=JjTw8BCnroI&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=16&t=0s
+      viewCount: '324'
 ---
 
