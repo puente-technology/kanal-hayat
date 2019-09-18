@@ -322,5 +322,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=f-1rZHKFiNw&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=13&t=0s
       viewCount: '735'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+        ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal Hayat
+        ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: NE9nljDey-g
+      imageURL: 'https://i.ytimg.com/vi/NE9nljDey-g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-02-26T13:20:24.000Z'
+      tags: >-
+        hristiyan,hristiyanlık,isa
+        mesih,isa,kilise,#cinsellik,#pornografiye,bakış,açısı,porno,sex,ilişki
+      title: Hristiyan Ahlakı - Hristiyanların Cinsellik/Pornografiye Bakışı
+      url: >-
+        https://www.youtube.com/watch?v=NE9nljDey-g&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=14&t=0s
+      viewCount: '1344'
 ---
 
