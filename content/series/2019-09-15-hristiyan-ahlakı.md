@@ -145,5 +145,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=nzKz4XjQFnQ&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=6&t=0s
       viewCount: '658'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+        ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal Hayat
+        ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: 403E5hSHEW8
+      imageURL: 'https://i.ytimg.com/vi/403E5hSHEW8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-04-30T11:18:43.000Z'
+      tags: >-
+        hristiyan,ahlakı,nedir?,faiz,kefillik,borç,hakkında,hristiyanlığın,görüşü,incil
+      title: >-
+        Hristiyan Ahlakı - Hristiyanların "Faiz, Kefillik, Borç" Hakkında
+        Görüşleri
+      url: >-
+        https://www.youtube.com/watch?v=403E5hSHEW8&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=7&t=0s
+      viewCount: '813'
 ---
 
