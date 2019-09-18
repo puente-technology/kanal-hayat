@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: 'Dar Kapıdan Girenler [Neden Hristiyan oldum?]'
+title: 'DAR KAPIDAN GİRENLER [NEDEN HRİSTİYAN OLDUM?]'
 publishDate: .
 coverImage: /images/uploads/can-nuroglu2.png
 host: Ali Kalkandelen
