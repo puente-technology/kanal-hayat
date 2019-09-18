@@ -273,5 +273,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=U8Q3sVoz5p0&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=11&t=0s
       viewCount: '205'
+  - season: '2'
+    youtubeURL:
+      description: >-
+        Evlilikte Püf Noktaları
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: 0_9TyEkfkag
+      imageURL: 'https://i.ytimg.com/vi/0_9TyEkfkag/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-20T07:59:38.000Z'
+      tags: '#evlilikte,#püf,#noktalar,#aile,#olmak'
+      title: Evlilik Sohbetleri - Evliliğin Püf Noktaları (2-09)
+      url: >-
+        https://www.youtube.com/watch?v=0_9TyEkfkag&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=12&t=0s
+      viewCount: '207'
 ---
 
