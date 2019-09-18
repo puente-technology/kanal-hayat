@@ -96,5 +96,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=7Zj3eo3NMqo&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=4&t=0s
       viewCount: '481'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+        ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal Hayat
+        ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: xEClGTFBb6c
+      imageURL: 'https://i.ytimg.com/vi/xEClGTFBb6c/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-05-21T12:52:05.000Z'
+      tags: >-
+        hristiyan,ahlakına,göre,aile,nasıl,olmalı?,hristiyanlık,din,kurtuluş,muhammet,peygamber,çocuk,genç
+      title: Hristiyan Ahlakı - Hristiyan Ahlakına göre Aile nasıl olmalı?
+      url: >-
+        https://www.youtube.com/watch?v=xEClGTFBb6c&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=5&t=0s
+      viewCount: '488'
 ---
 
