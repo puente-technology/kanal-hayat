@@ -111,7 +111,7 @@ program1:
   title: Joyce Meyer / YAZAR
 program2:
   align: right
-  bgImage: /images/uploads/bigmodulecannur.png
+  bgImage: /images/uploads/dsc01005.jpg
   color: dark
   content: >-
     Türkiye’de, Türkçe olarak Can Nuroğlu adını kullanan ve asıl adı Jerry
