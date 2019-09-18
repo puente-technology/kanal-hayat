@@ -79,44 +79,27 @@ program1:
     - image: /images/uploads/joyce.jpg
       youtubeURL:
         description: >-
-          #joycemeyers2019
+          1086 2 Güçlü Düşünceler 2
 
-          #joycemeyer
+          Joyce Meyer'in birbirinden farklı konular hakkındaki programlarını
+          Kanal Hayat ekranından veya sayfamızdan takip edebilirsiniz.Esen
+          kalın.
 
-          #God
+          http://kanalhayat.tv/
 
+          http://www.youtube.com/kanalhayatplay
 
+          https://www.facebook.com/kanalhayat
 
-
-
-
-
-
-
-          joyce meyers 2019, joyce meyer, joyce meyer 2019, joyce meyers, joyce
-          meyer sermons, 
-
-          joyce meyer sermons 2019, 
-
-          joyce meyers 2018, 
-
-          joyce meyer right and wrong mindsets, 
-
-          joyce meyers 2019 sermons, Pastor, New, Sacermons, 
-
-          Bishop, Bible, Preacher, Preaching, Ministry, god
-        id: h1jFsNxT7Hw
-        imageURL: 'https://i.ytimg.com/vi/h1jFsNxT7Hw/hqdefault.jpg'
+          https://twitter.com/kanalhayat
+        id: NL715li-YOQ
+        imageURL: 'https://i.ytimg.com/vi/NL715li-YOQ/hqdefault.jpg'
         mediaType: video
-        publishedAt: '2019-08-27T08:45:53.000Z'
-        tags: >-
-          joyce meyers 2019,joyce meyer,joyce meyer 2019,joyce meyers,joyce
-          meyer sermons,joyce meyer sermons 2019,joyce meyers 2018,joyce meyer
-          right and wrong mindsets,joyce meyers 2019
-          sermons,Pastor,New,Sacermons,Bishop,Bible,Preacher,Preaching,Ministry,god
-        title: Joyce Meyers 2019 - How Is Your Mental Health?
-        url: 'https://www.youtube.com/watch?v=h1jFsNxT7Hw'
-        viewCount: '55096'
+        publishedAt: '2019-09-16T05:38:57.000Z'
+        tags: 'hayattan,keyif,alın,güçlü,düşünceler,joyce,meyer'
+        title: Hayattan Keyif Alın - Güçlü Düşünceler 2
+        url: 'https://www.youtube.com/watch?v=NL715li-YOQ'
+        viewCount: '90'
     - image: /images/uploads/joyce.jpg
       youtubeURL:
         description: Joyce Meyer
