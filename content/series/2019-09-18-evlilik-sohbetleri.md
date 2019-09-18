@@ -172,5 +172,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=EIF-Asm0i9E&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=7&t=0s
       viewCount: '124'
+  - season: '2'
+    youtubeURL:
+      description: >-
+        Farklı İnançlara inanan insanların Evliliği Nasıl olur
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: RExphJDtd48
+      imageURL: 'https://i.ytimg.com/vi/RExphJDtd48/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-09T08:28:45.000Z'
+      tags: '#farklı,İnançlara,inanan,insanların,Evliliği,Nasıl,#olur?'
+      title: >-
+        Evlilik Sohbetleri - Farklı İnançlara İnanan İnsanların Evliliği Nasıl
+        Olur (2-12)
+      url: >-
+        https://www.youtube.com/watch?v=RExphJDtd48&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=8&t=0s
+      viewCount: '167'
 ---
 
