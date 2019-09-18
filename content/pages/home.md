@@ -14,10 +14,10 @@ gallery:
     image: /images/uploads/dsc01143.jpg
     title: Hakan Taştan ile
   - align: right
-    alt: Labirent
+    alt: Hristiyan Şeriatı
     color: light
-    image: /images/uploads/slider3.png
-    title: Devam Etmek
+    image: /images/uploads/_dsc1607.jpg
+    title: Ahmet Güvener ile
 program1:
   align: left
   bgImage: /images/uploads/meyer-2.jpg
