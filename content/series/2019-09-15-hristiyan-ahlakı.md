@@ -272,5 +272,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=fWgsC--rmQI&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=11&t=0s
       viewCount: '1446'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+        ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal Hayat
+        ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: b6ZKz3_gepI
+      imageURL: 'https://i.ytimg.com/vi/b6ZKz3_gepI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-03-22T21:44:17.000Z'
+      tags: >-
+        Hristiyanlık,Hristiyan,kürtaj,kürtaja,bakış,açımız,nedir?,günah,çocuk
+        aldırma,çocuk
+      title: Hristiyan Ahlakı - Hristiyanların Kürtaja bakışı nedir?
+      url: >-
+        https://www.youtube.com/watch?v=b6ZKz3_gepI&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=12&t=0s
+      viewCount: '408'
 ---
 
