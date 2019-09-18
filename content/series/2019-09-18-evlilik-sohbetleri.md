@@ -75,5 +75,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=zxNnVn4F4hE&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=3&t=0s
       viewCount: '131'
+  - season: '2'
+    youtubeURL:
+      description: >-
+        Evlilikte Çatışmalar
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini Kanal Hayat ekranlarında veya youtube sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: HmycEqv92NY
+      imageURL: 'https://i.ytimg.com/vi/HmycEqv92NY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-13T06:41:26.000Z'
+      tags: '#evlilikte,#çocuk,#yetiştirmek,#hristiyanlık,#çatışmalar,#kavga'
+      title: Evlilik Sohbetleri - Evlilikte Çatışmalar (2-16)
+      url: >-
+        https://www.youtube.com/watch?v=HmycEqv92NY&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=4&t=0s
+      viewCount: '53'
 ---
 
