@@ -124,5 +124,38 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=nXijphD9Csc&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=4&t=0s
       viewCount: '1742'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın.
+
+        1- Haksız kazanç yapanların hayatı daha rahat, bu neden böyle
+        anlayamıyorum.
+
+        2- Kalbimi kıran arkadaşımı bağışladım, bende onun kalbini kırmış
+        olabilirim. Onu bağışlamam yeterlimi? Ondan özür dilemek istemiyorum.
+
+        3- İncilde İsa, yeryüzüne selamet getirmeye gelmedim, kılıç getirmeye
+        geldim diyor. Açıklarmısınız?
+
+        4- Hz Adem ağaçtan yediği gün öldümü?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: thDsG6OSOUY
+      imageURL: 'https://i.ytimg.com/vi/thDsG6OSOUY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-22T07:14:31.000Z'
+      tags: 'kutsal,sırlar,haksız,kazanç,bağışlamak,özür,dilemek'
+      title: Kutsal Sırlar - Bölüm 4
+      url: >-
+        https://www.youtube.com/watch?v=thDsG6OSOUY&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=5&t=0s
+      viewCount: '1187'
 ---
 
