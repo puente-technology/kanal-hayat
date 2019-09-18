@@ -297,5 +297,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=b6ZKz3_gepI&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=12&t=0s
       viewCount: '408'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+        ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal Hayat
+        ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: f-1rZHKFiNw
+      imageURL: 'https://i.ytimg.com/vi/f-1rZHKFiNw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-03-06T12:55:47.000Z'
+      tags: >-
+        hristiyan
+        ahlakı,nedir?,gerçek,ve,yalan,hakikat,doğruluk,ışık,karanlık,fesat,vesfese
+      title: Hristiyan Ahlakı - Hristiyanlıkta Gerçek ve Yalan
+      url: >-
+        https://www.youtube.com/watch?v=f-1rZHKFiNw&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=13&t=0s
+      viewCount: '735'
 ---
 
