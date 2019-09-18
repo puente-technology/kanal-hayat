@@ -28,7 +28,7 @@ program1:
     Meyer’den, hayatınızdan zevk almanız için teşvik dolu paylaşımlar.
     Joyce Meyer’i Kanal Hayat ekranlarından ve Youtube kanalımızdan
     takip edebilirsiniz.
-  thumbnailTitle: Watch Now!
+  thumbnailTitle: İzlemek için tıklayın!
   thumbnails:
     - image: /images/uploads/bigmodulejoycemayer.png
       youtubeURL:
