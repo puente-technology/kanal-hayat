@@ -220,5 +220,37 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=OcsrDwxwBfU&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=7&t=0s
       viewCount: '3682'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
+        programını Kanal Hayat ekranından veya sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        Allah'ı tanımak mümkün mü ?
+
+        Allah mı ? Tanrı mı, Fark Eder mi ?
+
+        Allah'ın Özü Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: O_KY09xiTpY
+      imageURL: 'https://i.ytimg.com/vi/O_KY09xiTpY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-04-02T12:48:49.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Allah Sevgidir,Can
+        Nuroğlu,Allahı Tanımak
+      title: Allah Sevgidir - Allah Bizi Niçin Yarattı? -7.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=O_KY09xiTpY&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=8&t=0s
+      viewCount: '9325'
 ---
 
