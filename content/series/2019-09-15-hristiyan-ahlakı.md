@@ -73,5 +73,28 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=bVE7oTlONU0&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=3&t=0s
       viewCount: '520'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik sunumu ve İncil  öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+        ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal Hayat
+        ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: 7Zj3eo3NMqo
+      imageURL: 'https://i.ytimg.com/vi/7Zj3eo3NMqo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-05-30T08:26:51.000Z'
+      tags: 'hristiyan,ahlakı,nedir?,boş,konuşmak,bir,lanet mi?,incil'
+      title: Hristiyan Ahlakı - Hristiyanlar için Boş Konuşmak bir "Lanet" midir?
+      url: >-
+        https://www.youtube.com/watch?v=7Zj3eo3NMqo&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=4&t=0s
+      viewCount: '481'
 ---
 
