@@ -124,5 +124,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=YVI31UdmiZw&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=5&t=0s
       viewCount: '128'
+  - season: '2'
+    youtubeURL:
+      description: >-
+        Çocuk Yetiştirmek 
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: 0EfT1GNCXzs
+      imageURL: 'https://i.ytimg.com/vi/0EfT1GNCXzs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-11T07:42:14.000Z'
+      tags: '#hristiyan,#aile,#çocuk,#yetiştirme'
+      title: Evlilik Sohbetleri - Çocuk Yetiştirmek 1 (2-14)
+      url: >-
+        https://www.youtube.com/watch?v=0EfT1GNCXzs&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=6&t=0s
+      viewCount: '109'
 ---
 
