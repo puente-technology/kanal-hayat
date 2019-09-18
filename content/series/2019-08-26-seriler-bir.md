@@ -171,5 +171,30 @@ episodes:
       title: Hristiyan Şeriatı - Müjdecilik Nedir?
       url: 'https://youtu.be/3P3Z0_CXGJs'
       viewCount: '383'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        61 - Mesih'in Sevgisini Anlamak
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: gDEZPkPBv0o
+      imageURL: 'https://i.ytimg.com/vi/gDEZPkPBv0o/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-28T11:38:52.000Z'
+      tags: >-
+        mesihin,sevgisini,anlamak,hristiyan,şeriat,müslüman,kilise,yasa,tevrat,zebur
+      title: Hristiyan Şeriatı - Mesih'in Sevgisini Anlamak
+      url: 'https://youtu.be/gDEZPkPBv0o'
+      viewCount: '226'
 ---
 
