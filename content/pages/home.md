@@ -28,7 +28,7 @@ program1:
     Meyer’den, hayatınızdan zevk almanız için teşvik dolu paylaşımlar.
     Joyce Meyer’i Kanal Hayat ekranlarından ve Youtube kanalımızdan
     takip edebilirsiniz.
-  thumbnailTitle: İzlemek için tıklayın!
+  thumbnailTitle: İzlemek için Tıklayın!
   thumbnails:
     - image: /images/uploads/bigmodulejoycemayer.png
       youtubeURL:
@@ -125,7 +125,7 @@ program2:
     kitapların yazarı olmakla birlikte Kutsal Kitap’ın bölümleriyle ilgili yorum
     kitapları yazmıştır ve yazmaya devam etmektedir. Ayrıca birçok televizyon
     programı yapmıştır ve yeni programları için çekimlere devam edilmektedir.
-  thumbnailTitle: Watch Now!
+  thumbnailTitle: İzlemek için Tıklayın!
   thumbnails:
     - image: /images/uploads/screen-shot-2019-09-13-at-13.54.33.png
       youtubeURL:
