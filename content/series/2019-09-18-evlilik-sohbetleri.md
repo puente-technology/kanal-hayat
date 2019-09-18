@@ -297,5 +297,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=0_9TyEkfkag&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=12&t=0s
       viewCount: '207'
+  - season: '2'
+    youtubeURL:
+      description: >-
+        Evlilikte Sevgi
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: 5bGe4IZC3GQ
+      imageURL: 'https://i.ytimg.com/vi/5bGe4IZC3GQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-15T07:47:19.000Z'
+      tags: '#evlilikte,#sevgi,#püf,#noktalar,#aile,#olmak'
+      title: Evlilik Sohbetleri - Evlilikte Sevgi  (2-08)
+      url: >-
+        https://www.youtube.com/watch?v=5bGe4IZC3GQ&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=13&t=0s
+      viewCount: '216'
 ---
 
