@@ -141,12 +141,18 @@ program2:
   bgImage: /images/uploads/bigmodulecannur.png
   color: dark
   content: >-
-    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-    doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-    veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim
-    ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-    consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Natus
-    error sit voluptatem accusantium doloremque laudantium.
+    Türkiye’de, Türkçe olarak Can Nuroğlu adını kullanan ve asıl adı Jerry
+    Mattix olan yazar, evli ve 3 çocuk babasıdır. Amerika’da Emmaus İncil
+    Üniversitesinde ilahiyat eğitimini tamamlamış olan Nuroğlu yaklaşık 11 yıl
+    Diyarbakır Kilisesinde hizmet edip Kutsal Kitap (Tevrat-Zebur-İncil)
+    öğretmiştir.
+
+
+    Şu an Kıbrıs’ta bulunan Nuroğlu ”Hey Gâvur Anlatsana!”, ”Yeter ki İnsan
+    Olsun!”, ”Allah Sevgidir”, ”Dünyanın Sonu”, “Sorgulayan Gelsin!” adlı
+    kitapların yazarı olmakla birlikte Kutsal Kitap’ın bölümleriyle ilgili yorum
+    kitapları yazmıştır ve yazmaya devam etmektedir. Ayrıca birçok televizyon
+    programı yapmıştır ve yeni programları için çekimlere devam edilmektedir.
   thumbnailTitle: Watch Now!
   thumbnails:
     - image: /images/uploads/screen-shot-2019-09-13-at-13.54.33.png
