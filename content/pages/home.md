@@ -114,8 +114,7 @@ program2:
   bgImage: /images/uploads/dsc01005.jpg
   color: dark
   content: >-
-    Türkiye’de, Türkçe olarak Can Nuroğlu adını kullanan ve asıl adı Jerry
-    Mattix olan yazar, evli ve 3 çocuk babasıdır. Amerika’da Emmaus İncil
+    Yazar olan Can Nuroğlu evli ve 3 çocuk babasıdır. Amerika’da Emmaus İncil
     Üniversitesinde ilahiyat eğitimini tamamlamış olan Nuroğlu yaklaşık 11 yıl
     Diyarbakır Kilisesinde hizmet edip Kutsal Kitap (Tevrat-Zebur-İncil)
     öğretmiştir.
