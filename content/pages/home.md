@@ -6,7 +6,7 @@ gallery:
   - align: right
     alt: Can Nuroglu
     color: light
-    image: /images/uploads/dsc01005.jpg
+    image: /images/uploads/dsc01008.jpg
     title: Hristiyan Ahlakı
   - align: center
     alt: Gerçeğin Sesi
