@@ -208,5 +208,25 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=N-nBVW68prQ&list=PLCFFCCDDA9D6C2653&index=8&t=0s
       viewCount: '2986'
+  - season: '9'
+    youtubeURL:
+      description: >-
+        Neden Hristiyan Oldum?
+
+        Ali Kalkandelen'in sunumu ve konuklarının katılımıyla gerçekleştirdiği
+        "Dar Kapıdan Girenler"
+
+        programını sayfamızdan takip edebilirsiniz.
+      id: 8b52sj79rGc
+      imageURL: 'https://i.ytimg.com/vi/8b52sj79rGc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-09-04T14:04:50.000Z'
+      tags: >-
+        hristiyan,hristiyanlık,#neden
+        #oldum,#neden,#hristiyan,#oldum,#dar,#kapıdan,#girenler,isa mesih,hz isa
+      title: 'Neden Hristiyan Oldum? [9.Sezon 8.Bölüm]'
+      url: >-
+        https://www.youtube.com/watch?v=8b52sj79rGc&list=PLCFFCCDDA9D6C2653&index=9&t=0s
+      viewCount: '391'
 ---
 
