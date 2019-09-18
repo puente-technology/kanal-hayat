@@ -133,5 +133,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=d88LF38LzMo&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=7&t=0s
       viewCount: '121'
+  - season: '2'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri - 2.Sezon (7.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      id: WO65cNLBA0I
+      imageURL: 'https://i.ytimg.com/vi/WO65cNLBA0I/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T09:55:11.000Z'
+      tags: 'toranın,anahtarı,incil,kelam'
+      title: Mânâ Sohbetleri - Tora'nın Anahtarları
+      url: >-
+        https://www.youtube.com/watch?v=WO65cNLBA0I&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=8&t=0s
+      viewCount: '261'
 ---
 
