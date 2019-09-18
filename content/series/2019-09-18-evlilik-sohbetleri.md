@@ -419,5 +419,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=V_cwo1MN6V0&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=17&t=0s
       viewCount: '477'
+  - season: '2'
+    youtubeURL:
+      description: >-
+        Evlilikte Tek Beden Olmak Nasıl Sağlanır?
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.
+      id: wes4pumjNW4
+      imageURL: 'https://i.ytimg.com/vi/wes4pumjNW4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-07-15T17:48:29.000Z'
+      tags: '#evlilik #yaşamı #hristiyanlık'
+      title: Evlilik Sohbetleri - Evlilikte Tek Beden Olmak Nasıl Sağlanır? (2-02)
+      url: >-
+        https://www.youtube.com/watch?v=wes4pumjNW4&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=18&t=0s
+      viewCount: '267'
 ---
 
