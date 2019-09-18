@@ -48,5 +48,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=EhOQ6FrIa28&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=2&t=0s
       viewCount: '118'
+  - season: '2'
+    youtubeURL:
+      description: >-
+        Evlilik ve Kilise Hayatı
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini Kanal Hayat ekranından veya youtube sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: zxNnVn4F4hE
+      imageURL: 'https://i.ytimg.com/vi/zxNnVn4F4hE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-14T09:02:35.000Z'
+      tags: >-
+        evlilik,sohbetleri,kilise,hayatı,hizmet,eşler,hristiyan
+        evlilikleri,mutlu aile
+      title: Evlilik Sohbetleri - Evlilik ve Kilise Hayatı  (2-17)
+      url: >-
+        https://www.youtube.com/watch?v=zxNnVn4F4hE&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=3&t=0s
+      viewCount: '131'
 ---
 
