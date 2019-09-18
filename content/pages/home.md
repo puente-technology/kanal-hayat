@@ -57,7 +57,7 @@ program1:
           Getirmek - 2
         url: 'https://www.youtube.com/watch?v=ZRmJP8je89A&feature=youtu.be'
         viewCount: '251'
-    - image: /images/uploads/meyer-2.jpg
+    - image: /images/uploads/bigmodulejoycemayer.png
       youtubeURL:
         description: >-
           1086 2 Güçlü Düşünceler 2
@@ -81,7 +81,7 @@ program1:
         title: Hayattan Keyif Alın - Güçlü Düşünceler 2
         url: 'https://www.youtube.com/watch?v=NL715li-YOQ'
         viewCount: '90'
-    - image: /images/uploads/meyer-2.jpg
+    - image: /images/uploads/bigmodulejoycemayer.png
       youtubeURL:
         description: >-
           Tanrı'nın Sözlerini Kendi Sözlerimiz Haline Getirmek - 2
