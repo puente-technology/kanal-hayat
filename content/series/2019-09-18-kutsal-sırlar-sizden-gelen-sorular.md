@@ -157,5 +157,38 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=thDsG6OSOUY&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=5&t=0s
       viewCount: '1187'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Kutsal sırlar 5. Bölüm soruları
+
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın.
+
+        1- Bize hakaret edenlere nasıl davranmalıyız?
+
+        2- Çocuklarım çok hırçın ve isyankar, nasıl iyi bir anne olabilirim?
+
+        3- Engizisyonlar hristiyanlığın barışına ve özgürlüğüne örnek
+        verilebilir mi?
+
+        4- Tanrı'yı kimse gördü mü?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: eTtSMQ1w1jo
+      imageURL: 'https://i.ytimg.com/vi/eTtSMQ1w1jo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-22T07:14:45.000Z'
+      tags: 'kutsal,sırlar,tanrıyı,kimse,gördü,mü?,çocuklarım,isyankar,ne yapmalıyım?'
+      title: Kutsal Sırlar - Bölüm 5
+      url: >-
+        https://www.youtube.com/watch?v=eTtSMQ1w1jo&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=6&t=0s
+      viewCount: '832'
 ---
 
