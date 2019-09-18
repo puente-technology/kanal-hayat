@@ -198,5 +198,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=RExphJDtd48&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=8&t=0s
       viewCount: '167'
+  - season: '2'
+    youtubeURL:
+      description: >-
+        Daniel ve Serap Çifti 
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: MoCtAQ2X1Ec
+      imageURL: 'https://i.ytimg.com/vi/MoCtAQ2X1Ec/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-06T07:27:04.000Z'
+      tags: >-
+        mutlu,aile,sırları,evlilik,sohbetleri,hristiyan
+        aileler,kilise,mutluluk,yaşam,aile sırları,türk ailesi
+      title: Evlilik Sohbetleri - Daniel ve Serap Çifti (2-10)
+      url: >-
+        https://www.youtube.com/watch?v=MoCtAQ2X1Ec&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=9&t=0s
+      viewCount: '163'
 ---
 
