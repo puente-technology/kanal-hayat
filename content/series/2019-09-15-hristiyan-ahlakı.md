@@ -171,5 +171,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=403E5hSHEW8&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=7&t=0s
       viewCount: '813'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+        ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal Hayat
+        ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: u-fObA14Ro0
+      imageURL: 'https://i.ytimg.com/vi/u-fObA14Ro0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-04-24T14:26:48.000Z'
+      tags: >-
+        hristiyan,ahlakı nedir?,haçlı
+        seferleri,misyonerler,savaşlar,müslümanlar,kudüs,hristiyanlık ve
+        savaş?,incil,savaş ayetleri,ordu,haçlı,haç ve hilal savaşı,tevrat,zebur
+      title: Hristiyan Ahlakı - Hristiyanlık ve Savaşlar
+      url: >-
+        https://www.youtube.com/watch?v=u-fObA14Ro0&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=8&t=0s
+      viewCount: '464'
 ---
 
