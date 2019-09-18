@@ -347,5 +347,28 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=NE9nljDey-g&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=14&t=0s
       viewCount: '1344'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+        ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal Hayat
+        ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: 2hcHDFYnWTA
+      imageURL: 'https://i.ytimg.com/vi/2hcHDFYnWTA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-02-04T17:18:58.000Z'
+      tags: 'hristiyanlık,hristiyan,isa mesih,isa,evlilik'
+      title: Hristiyan Ahlakı - Hristiyanlık'ta Evlilik
+      url: >-
+        https://www.youtube.com/watch?v=2hcHDFYnWTA&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=15&t=0s
+      viewCount: '1288'
 ---
 
