@@ -3,11 +3,6 @@ template: HomePage
 slug: ''
 title: Main Slider
 gallery:
-  - align: right
-    alt: Can Nuroglu
-    color: light
-    image: /images/uploads/dsc01008.jpg
-    title: Hristiyan Ahlakı
   - align: center
     alt: Hakan Taştan ile
     color: dark
@@ -18,6 +13,11 @@ gallery:
     color: light
     image: /images/uploads/_dsc1607.jpg
     title: 'Hristiyan Şeriatı '
+  - align: right
+    alt: Can Nuroglu
+    color: light
+    image: /images/uploads/dsc01008.jpg
+    title: Hristiyan Ahlakı
 program1:
   align: right
   bgImage: /images/uploads/meyer-2.jpg
