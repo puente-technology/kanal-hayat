@@ -190,5 +190,39 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=eTtSMQ1w1jo&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=6&t=0s
       viewCount: '832'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Kutsal sırlar 6. Bölüm soruları
+
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın.
+
+        1- İki imanlı arasında, biri diğerine ihanet ederse ne yapmalıyız?
+
+        2- Tövbe edip yeni bir hayata başlayınca düzenli olarak kiliseye gitmek
+        şart mı?
+
+        3- Barnabas incilini neden imha etmek istiyorsunuz?
+
+        4- Size göre İsa son peygamber ise neden size sahte peygamberlerden
+        sakının diyor?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: fpACv5JCJzY
+      imageURL: 'https://i.ytimg.com/vi/fpACv5JCJzY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-07-19T07:19:34.000Z'
+      tags: 'kutsal,sırlar,barnabas,incili,imanlı,ihanet,kiliseye,gitmek,şart mı?'
+      title: Kutsal Sırlar - Bölüm 6
+      url: >-
+        https://www.youtube.com/watch?v=fpACv5JCJzY&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=7&t=0s
+      viewCount: '622'
 ---
 
