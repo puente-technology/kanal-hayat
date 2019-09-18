@@ -252,5 +252,37 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=O_KY09xiTpY&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=8&t=0s
       viewCount: '9325'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
+        programını Kanal Hayat ekranından veya sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        Allah'ı tanımak mümkün mü ?
+
+        Allah mı ? Tanrı mı, Fark Eder mi ?
+
+        Allah'ın Özü Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: 7sPRuHassLU
+      imageURL: 'https://i.ytimg.com/vi/7sPRuHassLU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-04-02T12:48:57.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Allah Sevgidir,Can
+        Nuroğlu,Allahı Tanımak
+      title: Allah Sevgidir - Allah'la İnsan Arasındaki İlişki Ne Olmalı? - 8.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=7sPRuHassLU&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=9&t=0s
+      viewCount: '3240'
 ---
 
