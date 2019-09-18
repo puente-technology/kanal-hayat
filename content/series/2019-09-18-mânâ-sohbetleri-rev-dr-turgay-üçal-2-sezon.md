@@ -95,5 +95,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=xLuaJXDZiD4&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=5&t=0s
       viewCount: '54'
+  - season: '2'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri - 2.Sezon (5.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      id: _E4NBAuNoQQ
+      imageURL: 'https://i.ytimg.com/vi/_E4NBAuNoQQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-07-13T10:13:11.000Z'
+      tags: 'masum,sorular,sormak,incil,kelam'
+      title: Mânâ Sohbetleri - 2.Sezon - Masum Sorular Sormak
+      url: >-
+        https://www.youtube.com/watch?v=_E4NBAuNoQQ&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=6&t=0s
+      viewCount: '179'
 ---
 
