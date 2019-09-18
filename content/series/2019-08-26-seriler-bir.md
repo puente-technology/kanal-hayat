@@ -274,5 +274,29 @@ episodes:
       title: Hristiyan Şeriatı - Dili Dizginlemek Zordur
       url: 'https://youtu.be/fQaxoc2knuc'
       viewCount: '118'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        65 - Eski ve Yeni Yaşam
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: CN09ddTiDVA
+      imageURL: 'https://i.ytimg.com/vi/CN09ddTiDVA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-12T06:59:14.000Z'
+      tags: '#eski #yaşam #yeni #rab #ışık #lutüf #kilise'
+      title: Hristiyan Şeriatı - Eski ve Yeni Yaşam
+      url: 'https://youtu.be/CN09ddTiDVA'
+      viewCount: '73'
 ---
 
