@@ -98,5 +98,29 @@ episodes:
       title: Hristiyanlık Şeriatı - Ölümden Yaşama Geçmek
       url: 'https://youtu.be/OCtSTSgpago'
       viewCount: '355'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        58 - Allahın Yeni Topluluğu
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: Y6z9MoL6cEA
+      imageURL: 'https://i.ytimg.com/vi/Y6z9MoL6cEA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-23T06:06:37.000Z'
+      tags: 'allah,yeni,topluluğu,hristiyan,hristiyanca,sevgi,merhamet,lutüf,kilise'
+      title: Hristiyanlık Şeriatı - Allah'ın Yeni Topluluğu - Hristiyan Şeriatı
+      url: 'https://youtu.be/Y6z9MoL6cEA'
+      viewCount: '403'
 ---
 
