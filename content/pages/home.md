@@ -19,9 +19,9 @@ gallery:
     image: /images/uploads/_dsc1607.jpg
     title: 'Hristiyan Şeriatı '
 program1:
-  align: left
+  align: right
   bgImage: /images/uploads/meyer-2.jpg
-  color: dark
+  color: light
   content: |-
     Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından
     nasıl özgür olur? Kitapları Çok Satan İncil Öğretmeni Joyce
