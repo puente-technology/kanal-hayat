@@ -6,13 +6,13 @@ gallery:
   - align: right
     alt: Can Nuroglu
     color: light
-    image: /images/uploads/slider1.png
+    image: /images/uploads/dsc01005.jpg
     title: Hristiyan Ahlakı
   - align: center
-    alt: Ali'nin Öyküsü
+    alt: Gerçeğin Sesi
     color: dark
-    image: /images/uploads/slider2.png
-    title: Ali'nin Öyküsü
+    image: /images/uploads/dsc01143.jpg
+    title: Hakan Taştan ile
   - align: right
     alt: Labirent
     color: light
