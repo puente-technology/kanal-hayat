@@ -189,5 +189,24 @@ episodes:
       title: Mânâ Sohbetleri - Ayık ve Uyanık Olmak nedir?
       url: 'https://youtu.be/fXvcu30QgtE'
       viewCount: '269'
+  - season: '2'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri - 2.Sezon (10.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      id: kTsml0TA21Y
+      imageURL: 'https://i.ytimg.com/vi/kTsml0TA21Y/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-24T07:34:25.000Z'
+      tags: 'kalıcı,olarak,Bütünleşmek'
+      title: Mânâ Sohbetleri - Kalıcı Olanla Bütünleşmek
+      url: >-
+        https://www.youtube.com/watch?v=kTsml0TA21Y&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=11&t=0s
+      viewCount: '99'
 ---
 
