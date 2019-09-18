@@ -224,5 +224,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=MoCtAQ2X1Ec&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=9&t=0s
       viewCount: '163'
+  - season: '2'
+    youtubeURL:
+      description: >-
+        Mutlu Evliliğin Sırları
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: ed5BfiqYM98
+      imageURL: 'https://i.ytimg.com/vi/ed5BfiqYM98/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-30T07:13:07.000Z'
+      tags: >-
+        #mutlu,#evliliğin,#sırları,#evlilikte,#bağışlama,#hristiyan,#olmak,#aile,#incil
+      title: Evlilik Sohbetleri - Mutlu Evliliğin Sırları (2-11)
+      url: >-
+        https://www.youtube.com/watch?v=ed5BfiqYM98&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=10&t=0s
+      viewCount: '267'
 ---
 
