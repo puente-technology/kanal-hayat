@@ -92,5 +92,37 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=SoeCZ5keW2s&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=3&t=0s
       viewCount: '1006'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Kutsal sırlar 3. Bölüm soruları
+
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın.
+
+        1-Ben kendi halimde yaşarken insanlar bana saldırıyor ne yapabilirim?
+
+        2-Hristiyanlıkta içki içmek günahmıdır? Pavlus Timoteusa'a şarap iç
+        diyor.
+
+        3-İncilde İsanın soy ağacı var o zaman İsa'da diğer insanlar gibi
+        değilmidir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: nXijphD9Csc
+      imageURL: 'https://i.ytimg.com/vi/nXijphD9Csc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-22T07:13:33.000Z'
+      tags: 'kutsal,sırlar,hristiyanlık,içki,haram,insanlar,bana,saldırıyor'
+      title: Kutsal Sırlar - Bölüm 3
+      url: >-
+        https://www.youtube.com/watch?v=nXijphD9Csc&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=4&t=0s
+      viewCount: '1742'
 ---
 
