@@ -516,5 +516,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=aKgyZQg8AKw&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=18&t=0s
       viewCount: '681'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Kutsal Sırlar - Bölüm 18
+
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: qrdvnDjnVbc
+      imageURL: 'https://i.ytimg.com/vi/qrdvnDjnVbc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-09-05T05:58:38.000Z'
+      tags: 'kutsal,sırlar'
+      title: Kutsal Sırlar - Bölüm 18
+      url: >-
+        https://www.youtube.com/watch?v=qrdvnDjnVbc&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=19&t=0s
+      viewCount: '539'
 ---
 
