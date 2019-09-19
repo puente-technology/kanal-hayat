@@ -180,5 +180,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=KoGaYufSTBs&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=7&t=0s
       viewCount: '119'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        7-Öfke Kontrolü
+
+        Işık Abla'nın "Kralın Oğulları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: eJUWErBpWYE
+      imageURL: 'https://i.ytimg.com/vi/eJUWErBpWYE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-06T06:15:39.000Z'
+      tags: '#öfke,#kontrolü,#hayat,#sinir,#kızgınlık'
+      title: 7-Öfke Kontrolü
+      url: >-
+        https://www.youtube.com/watch?v=eJUWErBpWYE&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=8&t=0s
+      viewCount: '104'
 ---
 
