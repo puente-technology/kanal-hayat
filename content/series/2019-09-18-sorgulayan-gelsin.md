@@ -156,5 +156,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=1CUwfFSyPkg&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=6&t=0s
       viewCount: '6261'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        İnançla Bilim birbirine aykırı mı? - [Sorgulayan Gelsin 06]
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Sorgulayan
+        Gelsin" programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: fNwGZQqarrQ
+      imageURL: 'https://i.ytimg.com/vi/fNwGZQqarrQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-18T07:19:45.000Z'
+      tags: 'Hristiyan,Hristiyanlık,#inançla,#bilim,#birbirine,#aykırı,#mı?'
+      title: 'İnançla Bilim birbirine aykırı mı? - [Sorgulayan Gelsin 06]'
+      url: >-
+        https://www.youtube.com/watch?v=fNwGZQqarrQ&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=7&t=0s
+      viewCount: '589'
 ---
 
