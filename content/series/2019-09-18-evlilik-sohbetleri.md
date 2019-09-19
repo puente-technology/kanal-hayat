@@ -23,6 +23,7 @@ selectedCategories:
   - Kutsal Kitap Dersleri
 episodes:
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Evlilik ve Para İdaresi 
@@ -49,6 +50,7 @@ episodes:
         https://www.youtube.com/watch?v=EhOQ6FrIa28&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=2&t=0s
       viewCount: '118'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Evlilik ve Kilise Hayatı
@@ -76,6 +78,7 @@ episodes:
         https://www.youtube.com/watch?v=zxNnVn4F4hE&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=3&t=0s
       viewCount: '131'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Evlilikte Çatışmalar
@@ -101,6 +104,7 @@ episodes:
         https://www.youtube.com/watch?v=HmycEqv92NY&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=4&t=0s
       viewCount: '53'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Evlilikte Bağışlama 
@@ -125,6 +129,7 @@ episodes:
         https://www.youtube.com/watch?v=YVI31UdmiZw&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=5&t=0s
       viewCount: '128'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Çocuk Yetiştirmek 
@@ -149,6 +154,7 @@ episodes:
         https://www.youtube.com/watch?v=0EfT1GNCXzs&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=6&t=0s
       viewCount: '109'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Nişanlılık Nedir? Nasıl Yaşanmalı?
@@ -173,6 +179,7 @@ episodes:
         https://www.youtube.com/watch?v=EIF-Asm0i9E&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=7&t=0s
       viewCount: '124'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Farklı İnançlara inanan insanların Evliliği Nasıl olur
@@ -199,6 +206,7 @@ episodes:
         https://www.youtube.com/watch?v=RExphJDtd48&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=8&t=0s
       viewCount: '167'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Daniel ve Serap Çifti 
@@ -225,6 +233,7 @@ episodes:
         https://www.youtube.com/watch?v=MoCtAQ2X1Ec&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=9&t=0s
       viewCount: '163'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Mutlu Evliliğin Sırları
@@ -250,6 +259,7 @@ episodes:
         https://www.youtube.com/watch?v=ed5BfiqYM98&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=10&t=0s
       viewCount: '267'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Evlilikte Kıskançlık Sorunu
@@ -274,6 +284,7 @@ episodes:
         https://www.youtube.com/watch?v=U8Q3sVoz5p0&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=11&t=0s
       viewCount: '205'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Evlilikte Püf Noktaları
@@ -298,6 +309,7 @@ episodes:
         https://www.youtube.com/watch?v=0_9TyEkfkag&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=12&t=0s
       viewCount: '207'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Evlilikte Sevgi
@@ -322,6 +334,7 @@ episodes:
         https://www.youtube.com/watch?v=5bGe4IZC3GQ&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=13&t=0s
       viewCount: '216'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Evlilikte Romantizm
@@ -346,6 +359,7 @@ episodes:
         https://www.youtube.com/watch?v=LJLEBgcLfkM&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=14&t=0s
       viewCount: '272'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Evlilikte İletişim için Püf Noktaları
@@ -370,6 +384,7 @@ episodes:
         https://www.youtube.com/watch?v=F13-7Q6e_B8&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=15&t=0s
       viewCount: '173'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Erdal ve Nükhet Çiftini Tanıyalım
@@ -394,6 +409,7 @@ episodes:
         https://www.youtube.com/watch?v=JjTw8BCnroI&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=16&t=0s
       viewCount: '324'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Evlilikte Öfke Sorunu
@@ -420,6 +436,7 @@ episodes:
         https://www.youtube.com/watch?v=V_cwo1MN6V0&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=17&t=0s
       viewCount: '477'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Evlilikte Tek Beden Olmak Nasıl Sağlanır?
@@ -436,6 +453,7 @@ episodes:
         https://www.youtube.com/watch?v=wes4pumjNW4&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=18&t=0s
       viewCount: '267'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Işıl ve Noyan Çifti (2-01)
@@ -460,6 +478,7 @@ episodes:
         https://www.youtube.com/watch?v=OoYL-u1a3gc&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=19&t=0s
       viewCount: '372'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Evlilikte Çocuk Yetiştirmek
@@ -487,6 +506,7 @@ episodes:
         https://www.youtube.com/watch?v=ogNRrUAdGGc&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=20&t=0s
       viewCount: '34'
   - season: '2'
+    guests: ''
     youtubeURL:
       description: >-
         Evliliği Geliştirmek İçin Neler Yapılabilir?

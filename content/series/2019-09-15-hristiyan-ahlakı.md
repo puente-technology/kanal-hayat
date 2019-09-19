@@ -24,6 +24,7 @@ selectedCategories:
   - Kutsal Kitap Dersleri
 episodes:
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil  öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -49,6 +50,7 @@ episodes:
         https://www.youtube.com/watch?v=ObNyMNmb-ds&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=2&t=0s
       viewCount: '521'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil  öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -74,6 +76,7 @@ episodes:
         https://www.youtube.com/watch?v=bVE7oTlONU0&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=3&t=0s
       viewCount: '520'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil  öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -97,6 +100,7 @@ episodes:
         https://www.youtube.com/watch?v=7Zj3eo3NMqo&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=4&t=0s
       viewCount: '481'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -121,6 +125,7 @@ episodes:
         https://www.youtube.com/watch?v=xEClGTFBb6c&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=5&t=0s
       viewCount: '488'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -146,6 +151,7 @@ episodes:
         https://www.youtube.com/watch?v=nzKz4XjQFnQ&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=6&t=0s
       viewCount: '658'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -172,6 +178,7 @@ episodes:
         https://www.youtube.com/watch?v=403E5hSHEW8&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=7&t=0s
       viewCount: '813'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -198,6 +205,7 @@ episodes:
         https://www.youtube.com/watch?v=u-fObA14Ro0&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=8&t=0s
       viewCount: '464'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -223,6 +231,7 @@ episodes:
         https://www.youtube.com/watch?v=kZn36OuSCqc&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=9&t=0s
       viewCount: '375'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -248,6 +257,7 @@ episodes:
         https://www.youtube.com/watch?v=1q-M4SU_ee4&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=10&t=0s
       viewCount: '529'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -273,6 +283,7 @@ episodes:
         https://www.youtube.com/watch?v=fWgsC--rmQI&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=11&t=0s
       viewCount: '1446'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -298,6 +309,7 @@ episodes:
         https://www.youtube.com/watch?v=b6ZKz3_gepI&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=12&t=0s
       viewCount: '408'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -323,6 +335,7 @@ episodes:
         https://www.youtube.com/watch?v=f-1rZHKFiNw&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=13&t=0s
       viewCount: '735'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -348,6 +361,7 @@ episodes:
         https://www.youtube.com/watch?v=NE9nljDey-g&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=14&t=0s
       viewCount: '1344'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -371,6 +385,7 @@ episodes:
         https://www.youtube.com/watch?v=2hcHDFYnWTA&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=15&t=0s
       viewCount: '1288'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap

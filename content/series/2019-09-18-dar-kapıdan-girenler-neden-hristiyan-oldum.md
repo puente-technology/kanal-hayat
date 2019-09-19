@@ -23,6 +23,7 @@ selectedCategories:
   - Tanıklıklar
 episodes:
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -38,7 +39,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
-      duration: 'PT28M52S'
+      duration: PT28M52S
       id: UJgtgnlNibU
       imageURL: 'https://i.ytimg.com/vi/UJgtgnlNibU/hqdefault.jpg'
       mediaType: video
@@ -49,6 +50,7 @@ episodes:
         https://www.youtube.com/watch?v=UJgtgnlNibU&list=PLCFFCCDDA9D6C2653&index=2&t=0s
       viewCount: '4637'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -65,7 +67,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: aj_VEsZPu00
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/aj_VEsZPu00/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-07-15T18:45:19.000Z'
@@ -77,6 +78,7 @@ episodes:
         https://www.youtube.com/watch?v=aj_VEsZPu00&list=PLCFFCCDDA9D6C2653&index=3&t=0s
       viewCount: '4484'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -93,7 +95,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: BA67SfFv3Ms
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/BA67SfFv3Ms/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-07-19T21:59:22.000Z'
@@ -105,6 +106,7 @@ episodes:
         https://www.youtube.com/watch?v=BA67SfFv3Ms&list=PLCFFCCDDA9D6C2653&index=4&t=0s
       viewCount: '4093'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -121,7 +123,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: JrGnSMoFXBk
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/JrGnSMoFXBk/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-08-02T08:58:16.000Z'
@@ -133,6 +134,7 @@ episodes:
         https://www.youtube.com/watch?v=JrGnSMoFXBk&list=PLCFFCCDDA9D6C2653&index=5&t=0s
       viewCount: '5098'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -149,7 +151,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: eck9YYSAUGU
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/eck9YYSAUGU/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-08-02T08:59:00.000Z'
@@ -159,6 +160,7 @@ episodes:
         https://www.youtube.com/watch?v=eck9YYSAUGU&list=PLCFFCCDDA9D6C2653&index=6&t=0s
       viewCount: '3685'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -175,7 +177,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: Fx9delnvFvU
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/Fx9delnvFvU/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-08-07T08:54:05.000Z'
@@ -188,6 +189,7 @@ episodes:
         https://www.youtube.com/watch?v=Fx9delnvFvU&list=PLCFFCCDDA9D6C2653&index=7&t=0s
       viewCount: '4174'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -204,7 +206,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: N-nBVW68prQ
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/N-nBVW68prQ/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-12-01T20:04:27.000Z'
@@ -216,6 +217,7 @@ episodes:
         https://www.youtube.com/watch?v=N-nBVW68prQ&list=PLCFFCCDDA9D6C2653&index=8&t=0s
       viewCount: '2986'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -225,7 +227,6 @@ episodes:
 
         programını sayfamızdan takip edebilirsiniz.
       id: 8b52sj79rGc
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/8b52sj79rGc/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-09-04T14:04:50.000Z'
@@ -237,6 +238,7 @@ episodes:
         https://www.youtube.com/watch?v=8b52sj79rGc&list=PLCFFCCDDA9D6C2653&index=9&t=0s
       viewCount: '391'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -253,7 +255,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: VKoAz2yLhTw
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/VKoAz2yLhTw/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-11-22T15:34:51.000Z'
@@ -265,6 +266,7 @@ episodes:
         https://www.youtube.com/watch?v=VKoAz2yLhTw&list=PLCFFCCDDA9D6C2653&index=10&t=0s
       viewCount: '1589'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -281,7 +283,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: t_lk02bIxjk
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/t_lk02bIxjk/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-12-01T22:15:55.000Z'
@@ -293,6 +294,7 @@ episodes:
         https://www.youtube.com/watch?v=t_lk02bIxjk&list=PLCFFCCDDA9D6C2653&index=11&t=0s
       viewCount: '3006'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -309,7 +311,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: PQRIUpMmBGs
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/PQRIUpMmBGs/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-02-14T08:34:32.000Z'
@@ -321,6 +322,7 @@ episodes:
         https://www.youtube.com/watch?v=PQRIUpMmBGs&list=PLCFFCCDDA9D6C2653&index=12&t=0s
       viewCount: '606'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -337,7 +339,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: kWyDjjt5EW8
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/kWyDjjt5EW8/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-02-14T08:34:51.000Z'
@@ -349,6 +350,7 @@ episodes:
         https://www.youtube.com/watch?v=kWyDjjt5EW8&list=PLCFFCCDDA9D6C2653&index=13&t=0s
       viewCount: '4643'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -365,7 +367,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: rdSKiVKFqY8
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/rdSKiVKFqY8/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-12-22T20:17:59.000Z'
@@ -377,6 +378,7 @@ episodes:
         https://www.youtube.com/watch?v=rdSKiVKFqY8&list=PLCFFCCDDA9D6C2653&index=14&t=0s
       viewCount: '1772'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -393,7 +395,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: WVEQi-vw0gA
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/WVEQi-vw0gA/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-01-02T10:26:38.000Z'
@@ -405,6 +406,7 @@ episodes:
         https://www.youtube.com/watch?v=WVEQi-vw0gA&list=PLCFFCCDDA9D6C2653&index=15&t=0s
       viewCount: '2054'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -421,7 +423,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: Swru9TlQz5w
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/Swru9TlQz5w/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-02-14T08:34:07.000Z'
@@ -433,6 +434,7 @@ episodes:
         https://www.youtube.com/watch?v=Swru9TlQz5w&list=PLCFFCCDDA9D6C2653&index=16&t=0s
       viewCount: '1911'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -449,7 +451,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: RL18wYNr3MA
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/RL18wYNr3MA/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-02-14T08:33:44.000Z'
@@ -461,6 +462,7 @@ episodes:
         https://www.youtube.com/watch?v=RL18wYNr3MA&list=PLCFFCCDDA9D6C2653&index=17&t=0s
       viewCount: '1395'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -477,7 +479,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: wQuDtFk1_qo
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/wQuDtFk1_qo/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-12-18T20:49:04.000Z'
@@ -489,6 +490,7 @@ episodes:
         https://www.youtube.com/watch?v=wQuDtFk1_qo&list=PLCFFCCDDA9D6C2653&index=18&t=0s
       viewCount: '2043'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -505,7 +507,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: M4klEojRM0M
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/M4klEojRM0M/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-02-14T08:33:10.000Z'
@@ -517,6 +518,7 @@ episodes:
         https://www.youtube.com/watch?v=M4klEojRM0M&list=PLCFFCCDDA9D6C2653&index=19&t=0s
       viewCount: '2163'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -533,7 +535,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: '-mLHbYj-jHY'
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/-mLHbYj-jHY/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-01-22T18:21:53.000Z'
@@ -545,6 +546,7 @@ episodes:
         https://www.youtube.com/watch?v=-mLHbYj-jHY&list=PLCFFCCDDA9D6C2653&index=20&t=0s
       viewCount: '2186'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -561,7 +563,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: u9GzifAm9Ds
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/u9GzifAm9Ds/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-12-07T20:17:42.000Z'
@@ -573,6 +574,7 @@ episodes:
         https://www.youtube.com/watch?v=u9GzifAm9Ds&list=PLCFFCCDDA9D6C2653&index=21&t=0s
       viewCount: '4643'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -589,7 +591,6 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: mTJXaknNUWQ
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/mTJXaknNUWQ/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-01-17T06:40:41.000Z'
@@ -600,6 +601,7 @@ episodes:
         https://www.youtube.com/watch?v=mTJXaknNUWQ&list=PLCFFCCDDA9D6C2653&index=22&t=0s
       viewCount: '2923'
   - season: '9'
+    guests: ''
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -615,8 +617,8 @@ episodes:
         https://www.facebook.com/kanalhayat.tv
 
         https://twitter.com/kanalhayat
+      duration: ''
       id: PwHhXNwo4A4
-      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/PwHhXNwo4A4/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-12-01T20:10:10.000Z'

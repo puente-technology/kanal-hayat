@@ -33,6 +33,7 @@ selectedCategories:
   - Rehberlik
 episodes:
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
@@ -63,6 +64,7 @@ episodes:
         https://www.youtube.com/watch?v=kLnCr8ntL5w&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=2&t=0s
       viewCount: '2197'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Kutsal sırlar 2. Bölüm soruları
@@ -93,6 +95,7 @@ episodes:
         https://www.youtube.com/watch?v=SoeCZ5keW2s&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=3&t=0s
       viewCount: '1006'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Kutsal sırlar 3. Bölüm soruları
@@ -125,6 +128,7 @@ episodes:
         https://www.youtube.com/watch?v=nXijphD9Csc&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=4&t=0s
       viewCount: '1742'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
@@ -158,6 +162,7 @@ episodes:
         https://www.youtube.com/watch?v=thDsG6OSOUY&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=5&t=0s
       viewCount: '1187'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Kutsal sırlar 5. Bölüm soruları
@@ -191,6 +196,7 @@ episodes:
         https://www.youtube.com/watch?v=eTtSMQ1w1jo&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=6&t=0s
       viewCount: '832'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Kutsal sırlar 6. Bölüm soruları
@@ -225,6 +231,7 @@ episodes:
         https://www.youtube.com/watch?v=fpACv5JCJzY&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=7&t=0s
       viewCount: '622'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Kutsal sırlar 7. Bölüm soruları
@@ -259,6 +266,7 @@ episodes:
         https://www.youtube.com/watch?v=4W0UZwMt5GY&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=8&t=0s
       viewCount: '899'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
@@ -281,6 +289,7 @@ episodes:
         https://www.youtube.com/watch?v=bU772QORdRw&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=9&t=0s
       viewCount: '1767'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Kıtsal sırlar 9. Bölüm soruları
@@ -312,6 +321,7 @@ episodes:
         https://www.youtube.com/watch?v=axaOFKAkMDI&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=9
       viewCount: '739'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Kıtsal sırlar 10. Bölüm soruları
@@ -343,6 +353,7 @@ episodes:
         https://www.youtube.com/watch?v=NL6AcMzGyNk&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=10
       viewCount: '743'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Kıtsal sırlar 11. Bölüm soruları
@@ -367,6 +378,7 @@ episodes:
         https://www.youtube.com/watch?v=im1OTyE5QNQ&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=11
       viewCount: '1457'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
@@ -397,6 +409,7 @@ episodes:
         https://www.youtube.com/watch?v=Q4GUwUEpUMw&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=12
       viewCount: '912'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Kutsal Sırlar - Bölüm 13
@@ -421,6 +434,7 @@ episodes:
         https://www.youtube.com/watch?v=rpaVDD256_w&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=13
       viewCount: '567'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Kutsal Sırlar - Bölüm 14
@@ -445,6 +459,7 @@ episodes:
         https://www.youtube.com/watch?v=KKY_NgXv_XE&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=15&t=0s
       viewCount: '501'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Kutsal Sırlar - Bölüm 15
@@ -469,6 +484,7 @@ episodes:
         https://www.youtube.com/watch?v=SxFuzy94NB0&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=16&t=0s
       viewCount: '611'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Kutsal Sırlar - Bölüm 16
@@ -493,6 +509,7 @@ episodes:
         https://www.youtube.com/watch?v=hKZ-94YnaPs&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=17&t=0s
       viewCount: '548'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Kutsal Sırlar - Bölüm 17
@@ -517,6 +534,7 @@ episodes:
         https://www.youtube.com/watch?v=aKgyZQg8AKw&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=18&t=0s
       viewCount: '681'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Kutsal Sırlar - Bölüm 18
@@ -541,6 +559,7 @@ episodes:
         https://www.youtube.com/watch?v=qrdvnDjnVbc&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=19&t=0s
       viewCount: '539'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Kutsal Sırlar - Bölüm 19
@@ -565,6 +584,7 @@ episodes:
         https://www.youtube.com/watch?v=DBd89oY4Iik&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=20&t=0s
       viewCount: '475'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Kutsal Sırlar - Bölüm 20
