@@ -208,5 +208,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=7AsaBI01hyM&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=8&t=0s
       viewCount: '1594'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Kutsal Kitap’a güvenebilir miyiz? - [Sorgulayan Gelsin 08]
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Sorgulayan
+        Gelsin" programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: IJ-iJzdGypA
+      imageURL: 'https://i.ytimg.com/vi/IJ-iJzdGypA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-04T05:47:51.000Z'
+      tags: >-
+        Hristiyan,Hristiyanlık,#kutsal,Kitap’a,güvenebilir,miyiz?,Sorgulayan,Gelsin
+      title: 'Kutsal Kitap’a güvenebilir miyiz? - [Sorgulayan Gelsin 08]'
+      url: >-
+        https://www.youtube.com/watch?v=IJ-iJzdGypA&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=9&t=0s
+      viewCount: '1525'
 ---
 
