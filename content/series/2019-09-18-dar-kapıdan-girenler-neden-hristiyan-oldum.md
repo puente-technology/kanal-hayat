@@ -38,7 +38,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
-      duration: PT28M52S
+      duration: 'PT28M52S'
       id: UJgtgnlNibU
       imageURL: 'https://i.ytimg.com/vi/UJgtgnlNibU/hqdefault.jpg'
       mediaType: video
@@ -65,7 +65,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: aj_VEsZPu00
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/aj_VEsZPu00/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-07-15T18:45:19.000Z'
@@ -93,7 +93,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: BA67SfFv3Ms
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/BA67SfFv3Ms/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-07-19T21:59:22.000Z'
@@ -121,7 +121,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: JrGnSMoFXBk
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/JrGnSMoFXBk/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-08-02T08:58:16.000Z'
@@ -149,7 +149,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: eck9YYSAUGU
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/eck9YYSAUGU/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-08-02T08:59:00.000Z'
@@ -175,7 +175,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: Fx9delnvFvU
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/Fx9delnvFvU/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-08-07T08:54:05.000Z'
@@ -204,7 +204,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: N-nBVW68prQ
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/N-nBVW68prQ/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-12-01T20:04:27.000Z'
@@ -225,7 +225,7 @@ episodes:
 
         programını sayfamızdan takip edebilirsiniz.
       id: 8b52sj79rGc
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/8b52sj79rGc/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-09-04T14:04:50.000Z'
@@ -253,7 +253,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: VKoAz2yLhTw
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/VKoAz2yLhTw/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-11-22T15:34:51.000Z'
@@ -281,7 +281,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: t_lk02bIxjk
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/t_lk02bIxjk/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-12-01T22:15:55.000Z'
@@ -309,7 +309,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: PQRIUpMmBGs
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/PQRIUpMmBGs/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-02-14T08:34:32.000Z'
@@ -337,7 +337,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: kWyDjjt5EW8
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/kWyDjjt5EW8/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-02-14T08:34:51.000Z'
@@ -365,7 +365,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: rdSKiVKFqY8
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/rdSKiVKFqY8/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-12-22T20:17:59.000Z'
@@ -393,7 +393,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: WVEQi-vw0gA
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/WVEQi-vw0gA/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-01-02T10:26:38.000Z'
@@ -421,7 +421,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: Swru9TlQz5w
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/Swru9TlQz5w/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-02-14T08:34:07.000Z'
@@ -449,7 +449,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: RL18wYNr3MA
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/RL18wYNr3MA/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-02-14T08:33:44.000Z'
@@ -477,7 +477,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: wQuDtFk1_qo
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/wQuDtFk1_qo/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-12-18T20:49:04.000Z'
@@ -505,7 +505,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: M4klEojRM0M
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/M4klEojRM0M/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-02-14T08:33:10.000Z'
@@ -533,7 +533,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: '-mLHbYj-jHY'
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/-mLHbYj-jHY/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-01-22T18:21:53.000Z'
@@ -561,7 +561,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: u9GzifAm9Ds
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/u9GzifAm9Ds/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-12-07T20:17:42.000Z'
@@ -589,7 +589,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: mTJXaknNUWQ
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/mTJXaknNUWQ/hqdefault.jpg'
       mediaType: video
       publishedAt: '2019-01-17T06:40:41.000Z'
@@ -616,7 +616,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: PwHhXNwo4A4
-      duration: PT28M52S
+      duration: 'PT28M52S'
       imageURL: 'https://i.ytimg.com/vi/PwHhXNwo4A4/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-12-01T20:10:10.000Z'

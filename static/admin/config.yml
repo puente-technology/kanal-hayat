@@ -377,7 +377,7 @@ collections:
         required: false
         fields:
           - { name: youtubeURL, label: Youtube URL, widget: youtube, extraInfo: true, APIkey: "AIzaSyAln9Zizqc3_r8zozq4OcmqwwsUOXRJtuE" }
-          - { label: Konuklar, name: guests, widget: string, required: false }
+          - { label: Konuklar, name: guests, widget: string, required: false, default: '' }
           - label: Sezon
             name: season
             widget: select
