@@ -129,7 +129,11 @@ class HomePage extends Component {
   }
 
   render() {
-    const { data, dispatch, shouldInit } = this.props
+    const {
+      data,
+      dispatch,
+      shouldInit,
+    } = this.props
     const { page } = data
     const hosts = data.hosts.edges
     const { durationArr } = this.state
@@ -146,6 +150,7 @@ class HomePage extends Component {
           durationArr,
           false,
           hosts,
+          false,
         ))
       }, 800);
     }

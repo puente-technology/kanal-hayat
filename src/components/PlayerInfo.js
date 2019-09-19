@@ -29,12 +29,10 @@ class PlayerInfoExpand extends Component {
 
   getHostUrl = (hostName) => {
     const { hosts } = this.props
-    console.log(hosts)
     if (hosts) {
       const result = hosts.map((el) => {
         const { fields, frontmatter } = el.node
         if (frontmatter.host === hostName) {
-          console.log(fields.slug)
           return fields.slug
         }
       })

@@ -61,7 +61,7 @@ class Player extends Component {
     index: PropTypes.any,
     durations: PropTypes.any,
     hosts: PropTypes.any,
-    isCollapsedControl: PropTypes.any,
+    isBigScreen: PropTypes.any,
   }
 
   constructor(props) {
@@ -70,7 +70,6 @@ class Player extends Component {
       playing,
       episodeInfo,
       episodes,
-      isCollapsedControl,
     } = this.props;
     this.state = {
       played: 0,
@@ -84,7 +83,7 @@ class Player extends Component {
       showBool: true,
       expandedBoll: false,
       expandBool: false,
-      isBigScreen: !isCollapsedControl,
+      isBigScreenState: false,
       isOpen: true,
       isPlayerInfoOpen: true,
       hoverBool: false,
@@ -120,6 +119,7 @@ class Player extends Component {
       dispatch,
       durations,
       hosts,
+      isBigScreen,
     } = this.props;
     if (index < episodes.length - 1) {
       dispatch(toggleDarkMode(
@@ -133,6 +133,7 @@ class Player extends Component {
         durations,
         false,
         hosts,
+        isBigScreen,
       ))
     }
   }
@@ -146,6 +147,7 @@ class Player extends Component {
       dispatch,
       durations,
       hosts,
+      isBigScreen,
     } = this.props;
     if (index > 0) {
       dispatch(toggleDarkMode(
@@ -159,6 +161,7 @@ class Player extends Component {
         durations,
         false,
         hosts,
+        isBigScreen,
       ))
     }
   }
@@ -169,6 +172,7 @@ class Player extends Component {
       dispatch,
       durations,
       hosts,
+      isBigScreen,
     } = this.props;
     handleCloseClick()
     dispatch(toggleDarkMode(
@@ -182,14 +186,15 @@ class Player extends Component {
       durations,
       false,
       hosts,
+      isBigScreen,
     ))
     this.setState({ isOpen: false })
   }
 
   isBigScreenClick = () => {
-    const { isBigScreen, isPlayerInfoOpen } = this.state
+    const { isBigScreenState, isPlayerInfoOpen } = this.state
     this.setState({
-      isBigScreen: !isBigScreen,
+      isBigScreenState: !isBigScreenState,
       isPlayerInfoOpen: !isPlayerInfoOpen,
       expandBool: false,
     })
@@ -232,6 +237,7 @@ class Player extends Component {
       handleCloseClick,
       durations,
       hosts,
+      isBigScreen,
     } = this.props;
     dispatch(toggleDarkMode(
       episodeInfo,
@@ -244,6 +250,7 @@ class Player extends Component {
       durations,
       false,
       hosts,
+      isBigScreen,
     ))
     this.setState({ episode: episodeInfo, episodesInfo: episodes })
   }
@@ -385,8 +392,43 @@ class Player extends Component {
     this.setState({ episode: episodeInfo })
   }
 
+  handleBigScreen = () => {
+    this.setState({
+      isBigScreenState: false,
+      isPlayerInfoOpen: true,
+      expandBool: false,
+    })
+  }
+
   componentDidUpdate = (prevPros) => {
-    const { episodeInfo } = this.props;
+    const {
+      episodeInfo,
+      isBigScreen,
+      dispatch,
+      episodes,
+      index,
+      frontmatter,
+      handleCloseClick,
+      durations,
+      hosts,
+    } = this.props;
+    if (prevPros.isBigScreen !== isBigScreen && !prevPros.isBigScreen) {
+      dispatch(toggleDarkMode(
+        episodeInfo,
+        episodes,
+        true,
+        index,
+        frontmatter,
+        handleCloseClick,
+        false,
+        durations,
+        false,
+        hosts,
+        false,
+      ))
+      this.handleBigScreen()
+    }
+
     if (episodeInfo.youtubeURL.url !== prevPros.episodeInfo.youtubeURL.url) {
       this.urlChange()
     }
@@ -401,7 +443,7 @@ class Player extends Component {
       showBool,
       expandedBoll,
       expandBool,
-      isBigScreen,
+      isBigScreenState,
       isOpen,
       isPlayerInfoOpen,
       hoverBool,
@@ -417,6 +459,7 @@ class Player extends Component {
     const {
       frontmatter,
       playerIndex,
+      hosts,
     } = this.props;
     const props = {};
     const reactPlayerStyles = {}
@@ -441,7 +484,7 @@ class Player extends Component {
     props.expanded = expandedBoll;
     props.expand = expandBool;
     props.controls = false;
-    props.isBigScreen = isBigScreen
+    props.isBigScreen = isBigScreenState
     props.hoverBool = hoverBool
     props.showinfoBool = showinfoBool
     if (fullscreen) {
@@ -458,7 +501,7 @@ class Player extends Component {
       reactPlayerStyles.marginTop = -Math.round(props.height / 2);
       reactPlayerStyles.left = '50%';
       reactPlayerStyles.marginLeft = -Math.round(props.width / 2);
-    } else if (isBigScreen) {
+    } else if (isBigScreenState) {
       const width = this.getWidth() - 460
       const height = this.getHeight() - 200
       props.height = height
@@ -503,7 +546,7 @@ class Player extends Component {
             props.isBigScreen ? 'isBig' : '',
           ].join(' ')}
         >
-          <div id="playerBackdrop" className={isBigScreen ? 'player-backdrop-isBig ' : 'player-backdrop'}>
+          <div id="playerBackdrop" className={isBigScreenState ? 'player-backdrop-isBig ' : 'player-backdrop'}>
             <ReactPlayer
               ref={this.ref}
               id="reactPlayer"
@@ -512,7 +555,7 @@ class Player extends Component {
               {...props}
             />
             {
-              isBigScreen && (
+              isBigScreenState && (
                 <div
                   onMouseLeave={this.toggleOnHoverOut}
                   onMouseEnter={this.toggleOnHover}
@@ -546,7 +589,7 @@ class Player extends Component {
                 />
               )
               }
-            {isBigScreen && (
+            {isBigScreenState && (
             <div
               style={{
                 width: props.width, margin: '71px auto', height: '6rem', background: 'black',
@@ -624,6 +667,7 @@ class Player extends Component {
                     playerProps={props}
                     title={title}
                     artist={artist}
+                    hosts={hosts}
                     style={props.expand ? { visibility: ' hidden' } : {}}
                   />
                   <div className="col player-control-container">
@@ -674,4 +718,5 @@ export default connect(state => ({
   isActive: state.app.isOpen || '',
   durations: state.app.durations || '',
   hosts: state.app.hosts || '',
+  isBigScreen: state.app.isBigScreen,
 }), null)(Player)

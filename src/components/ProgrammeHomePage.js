@@ -34,7 +34,11 @@ class ProgrammeHomePage extends Component {
   }
 
   hanndlePlayClick = (e) => {
-    const { dispatch, durations, hosts } = this.props;
+    const {
+      dispatch,
+      durations,
+      hosts,
+    } = this.props;
     const { thumb, i } = JSON.parse(e.target.value)
     this.setState({ isOpen: true })
     dispatch(toggleDarkMode(
@@ -48,6 +52,7 @@ class ProgrammeHomePage extends Component {
       durations,
       false,
       hosts,
+      false,
     ))
   }
 

@@ -9,6 +9,11 @@ import Categories from './Categories';
 const rightArrow = require('../../static/images/right-arrow-black.svg');
 
 class SeriesList extends Component {
+  constructor(props) {
+    super(props)
+    this.myRef = React.createRef();
+  }
+
   state = {
     expandedDiv: '',
     selectedCategories: [],
