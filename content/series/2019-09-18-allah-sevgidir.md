@@ -29,6 +29,7 @@ selectedCategories:
   - Rehberlik
 episodes:
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
@@ -61,6 +62,7 @@ episodes:
         https://www.youtube.com/watch?v=67BAgDpLo04&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=2&t=0s
       viewCount: '7355'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
@@ -93,6 +95,7 @@ episodes:
         https://www.youtube.com/watch?v=LAGCJejkJuU&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=3&t=0s
       viewCount: '5274'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
@@ -125,6 +128,7 @@ episodes:
         https://www.youtube.com/watch?v=7Mu9F8XDG9U&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=4&t=0s
       viewCount: '8022'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
@@ -157,6 +161,7 @@ episodes:
         https://www.youtube.com/watch?v=fMg9AQWY1cQ&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=5&t=0s
       viewCount: '5244'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
@@ -189,6 +194,7 @@ episodes:
         https://www.youtube.com/watch?v=UGz-6SwKUyE&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=6&t=0s
       viewCount: '1150'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
@@ -221,6 +227,7 @@ episodes:
         https://www.youtube.com/watch?v=OcsrDwxwBfU&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=7&t=0s
       viewCount: '3682'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
@@ -253,6 +260,7 @@ episodes:
         https://www.youtube.com/watch?v=O_KY09xiTpY&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=8&t=0s
       viewCount: '9325'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
@@ -285,6 +293,7 @@ episodes:
         https://www.youtube.com/watch?v=7sPRuHassLU&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=9&t=0s
       viewCount: '3240'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
@@ -317,6 +326,7 @@ episodes:
         https://www.youtube.com/watch?v=hOZPLNoxMTE&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=10&t=0s
       viewCount: '1401'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
@@ -349,6 +359,7 @@ episodes:
         https://www.youtube.com/watch?v=U6xYzUQysys&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=11&t=0s
       viewCount: '2520'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
@@ -381,6 +392,7 @@ episodes:
         https://www.youtube.com/watch?v=h3WZD9kVz04&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=12&t=0s
       viewCount: '2406'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
@@ -413,6 +425,7 @@ episodes:
         https://www.youtube.com/watch?v=bFyqBG8RGYg&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=13&t=0s
       viewCount: '3716'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
@@ -445,6 +458,7 @@ episodes:
         https://www.youtube.com/watch?v=bFyqBG8RGYg&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=13&t=0s
       viewCount: '3716'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
@@ -477,6 +491,7 @@ episodes:
         https://www.youtube.com/watch?v=bUKAAmwGFuE&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=14&t=0s
       viewCount: '2082'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
@@ -509,6 +524,7 @@ episodes:
         https://www.youtube.com/watch?v=jgF0IM8ReFQ&list=PLQfi14V3hH0LlUviAlK_c7UOl7P4davtr&index=15&t=0s
       viewCount: '1094'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"

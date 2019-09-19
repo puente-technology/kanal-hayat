@@ -24,6 +24,7 @@ selectedCategories:
   - Rehberlik
 episodes:
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         55 Seçilmişlik ve Dua
@@ -48,6 +49,7 @@ episodes:
       url: 'https://youtu.be/WxBiFjMSpDg'
       viewCount: '465'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         56 - Hristiyanlarda Namaz Var mı?
@@ -74,6 +76,7 @@ episodes:
       url: 'https://youtu.be/_AycyGx4js0'
       viewCount: '701'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         57 - Ölümden Yaşama Geçmek
@@ -99,6 +102,7 @@ episodes:
       url: 'https://youtu.be/OCtSTSgpago'
       viewCount: '355'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         58 - Allahın Yeni Topluluğu
@@ -123,6 +127,7 @@ episodes:
       url: 'https://youtu.be/Y6z9MoL6cEA'
       viewCount: '403'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         60 - Kurtuluşumuzun Güvencesi
@@ -147,6 +152,7 @@ episodes:
       url: 'https://youtu.be/f5lNPajMtxw'
       viewCount: '338'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         59 - Müjdecilik Nedir?
@@ -172,6 +178,7 @@ episodes:
       url: 'https://youtu.be/3P3Z0_CXGJs'
       viewCount: '383'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         61 - Mesih'in Sevgisini Anlamak
@@ -197,6 +204,7 @@ episodes:
       url: 'https://youtu.be/gDEZPkPBv0o'
       viewCount: '226'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         Kiliselerin birliği
@@ -227,6 +235,7 @@ episodes:
       url: 'https://youtu.be/BRVU5LD7ggw'
       viewCount: '173'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         63 - İznik konseyi
@@ -251,6 +260,7 @@ episodes:
       url: 'https://youtu.be/kRDaYpaDEsE'
       viewCount: '236'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         63 - Dili dizginlemek zordur
@@ -275,6 +285,7 @@ episodes:
       url: 'https://youtu.be/fQaxoc2knuc'
       viewCount: '118'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: >-
         65 - Eski ve Yeni Yaşam

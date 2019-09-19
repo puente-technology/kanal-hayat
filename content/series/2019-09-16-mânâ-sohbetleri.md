@@ -11,6 +11,7 @@ selectedCategories:
   - Öğretim
 episodes:
   - season: '1'
+    guests: ''
     youtubeURL:
       description: |-
         "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
@@ -30,6 +31,7 @@ episodes:
         https://www.youtube.com/watch?v=gAZXHL8FIbE&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=4&t=0s
       viewCount: '304'
   - season: '1'
+    guests: ''
     youtubeURL:
       description: |-
         "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
