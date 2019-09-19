@@ -206,5 +206,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=eJUWErBpWYE&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=8&t=0s
       viewCount: '104'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        8- Stres
+
+        Işık Abla'nın "Kralın Oğulları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: iRqULkT6llk
+      imageURL: 'https://i.ytimg.com/vi/iRqULkT6llk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-06T06:15:47.000Z'
+      tags: '#başarılı,#baba,#kimdir?,#kralın,#oğulları,#sevmek,#stress'
+      title: 8- Stres
+      url: >-
+        https://www.youtube.com/watch?v=iRqULkT6llk&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=9&t=0s
+      viewCount: '229'
 ---
 
