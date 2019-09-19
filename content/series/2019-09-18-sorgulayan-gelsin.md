@@ -103,5 +103,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=4nHDUYumjIQ&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=4&t=0s
       viewCount: '1847'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Hayat evrim sonucu mu oluştu? - [Sorgulayan Gelsin 04]
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Sorgulayan
+        Gelsin" programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: RQKNduC2fnE
+      imageURL: 'https://i.ytimg.com/vi/RQKNduC2fnE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-02T04:59:49.000Z'
+      tags: 'Hristiyan,Hristiyanlık,#hayat,#evrim,#sonucu,#mu?,#oluştu'
+      title: 'Hayat evrim sonucu mu oluştu? - [Sorgulayan Gelsin 04]'
+      url: >-
+        https://www.youtube.com/watch?v=RQKNduC2fnE&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=5&t=0s
+      viewCount: '785'
 ---
 
