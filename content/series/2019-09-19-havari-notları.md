@@ -163,5 +163,39 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=9Ijlpkm02rw&list=PLQfi14V3hH0IevVIVLEVoW8N9WUJykBu7&index=5&t=0s
       viewCount: '1312'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        “Öğrenci” sözcüğü, öğrenen ya da izleyen birisinden söz etmekte
+        kullanılır. “Elçi” sözcüğü ise, “gönderilen” anlamına gelir. İsa
+        yeryüzündeyken, O’nu izleyen on iki kişiye öğrenciler adı veriliyordu.
+        Bu on iki öğrenci, İsa Mesih’i izledi, O’ndan öğrendi ve O’nun
+        tarafından eğitildi. İsa dirilip göğe alındıktan sonra öğrencilerini
+        Kendi tanıkları olmak üzere gönderdi.
+         (Matta 28:18-20)
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Havari Notları"
+        programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat.tv
+
+        https://twitter.com/kanalhayat
+      id: QzWP27YsJyg
+      imageURL: 'https://i.ytimg.com/vi/QzWP27YsJyg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-29T14:04:50.000Z'
+      tags: >-
+        hristiyanlık,hristiyan,havari,notları,isa
+        mesih,diyarbakır,öğrenci,efendimiz
+        isa,kelam,incil,öğrenen,peygamber,salih,ameller
+      title: 'Havari Notları - Musa ve İsrail halkı: Mısır''dan Çıkış 1.Kısım'
+      url: >-
+        https://www.youtube.com/watch?v=QzWP27YsJyg&list=PLQfi14V3hH0IevVIVLEVoW8N9WUJykBu7&index=6&t=0s
+      viewCount: '1501'
 ---
 
