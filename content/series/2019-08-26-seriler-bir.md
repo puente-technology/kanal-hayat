@@ -23,8 +23,8 @@ selectedCategories:
   - Belgesel
   - Rehberlik
 episodes:
-  - season: '1'
-    guests: ''
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         55 Seçilmişlik ve Dua
@@ -40,6 +40,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M20S
       id: WxBiFjMSpDg
       imageURL: 'https://i.ytimg.com/vi/WxBiFjMSpDg/hqdefault.jpg'
       mediaType: video
@@ -47,9 +48,9 @@ episodes:
       tags: 'seçilmişlik,hristiyan,şeriatı,dua'
       title: Hristiyanlık Şeriatı - Seçilmişlik ve Dua
       url: 'https://youtu.be/WxBiFjMSpDg'
-      viewCount: '465'
-  - season: '1'
-    guests: ''
+      viewCount: '470'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         56 - Hristiyanlarda Namaz Var mı?
@@ -67,6 +68,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M19S
       id: _AycyGx4js0
       imageURL: 'https://i.ytimg.com/vi/_AycyGx4js0/hqdefault.jpg'
       mediaType: video
@@ -74,9 +76,9 @@ episodes:
       tags: '#isa,#mesih,#namaz,#hristiyanlık,#var,#mı'
       title: Hristiyanlık Şeriatı - Hristiyanlarda Namaz Var mı?
       url: 'https://youtu.be/_AycyGx4js0'
-      viewCount: '701'
-  - season: '1'
-    guests: ''
+      viewCount: '703'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         57 - Ölümden Yaşama Geçmek
@@ -92,6 +94,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M10S
       id: OCtSTSgpago
       imageURL: 'https://i.ytimg.com/vi/OCtSTSgpago/hqdefault.jpg'
       mediaType: video
@@ -100,9 +103,9 @@ episodes:
         #ölümden,#yaşama,#geçmek,#hristiyan,#şeriatı,#kudüs,#müslüman,#ahlak,#isa,#mesih
       title: Hristiyanlık Şeriatı - Ölümden Yaşama Geçmek
       url: 'https://youtu.be/OCtSTSgpago'
-      viewCount: '355'
-  - season: '1'
-    guests: ''
+      viewCount: '356'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         58 - Allahın Yeni Topluluğu
@@ -118,6 +121,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M46S
       id: Y6z9MoL6cEA
       imageURL: 'https://i.ytimg.com/vi/Y6z9MoL6cEA/hqdefault.jpg'
       mediaType: video
@@ -125,9 +129,9 @@ episodes:
       tags: 'allah,yeni,topluluğu,hristiyan,hristiyanca,sevgi,merhamet,lutüf,kilise'
       title: Hristiyanlık Şeriatı - Allah'ın Yeni Topluluğu - Hristiyan Şeriatı
       url: 'https://youtu.be/Y6z9MoL6cEA'
-      viewCount: '403'
-  - season: '1'
-    guests: ''
+      viewCount: '404'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         60 - Kurtuluşumuzun Güvencesi
@@ -143,6 +147,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M14S
       id: f5lNPajMtxw
       imageURL: 'https://i.ytimg.com/vi/f5lNPajMtxw/hqdefault.jpg'
       mediaType: video
@@ -150,9 +155,9 @@ episodes:
       tags: 'kurtuluş,güvencesi,şeriatı'
       title: Hristiyan Şeriatı - Kurtuluşumuzun Güvencesi - Hristiyan Şeriatı
       url: 'https://youtu.be/f5lNPajMtxw'
-      viewCount: '338'
-  - season: '1'
-    guests: ''
+      viewCount: '340'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         59 - Müjdecilik Nedir?
@@ -168,6 +173,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M29S
       id: 3P3Z0_CXGJs
       imageURL: 'https://i.ytimg.com/vi/3P3Z0_CXGJs/hqdefault.jpg'
       mediaType: video
@@ -176,9 +182,9 @@ episodes:
         #efes,#kilise,#müjde,#müjdecilik,#tebliğ,#müslümanlar,#misyonerler,#kuran,#incil
       title: Hristiyan Şeriatı - Müjdecilik Nedir?
       url: 'https://youtu.be/3P3Z0_CXGJs'
-      viewCount: '383'
-  - season: '1'
-    guests: ''
+      viewCount: '387'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         61 - Mesih'in Sevgisini Anlamak
@@ -194,6 +200,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT26M42S
       id: gDEZPkPBv0o
       imageURL: 'https://i.ytimg.com/vi/gDEZPkPBv0o/hqdefault.jpg'
       mediaType: video
@@ -202,9 +209,9 @@ episodes:
         mesihin,sevgisini,anlamak,hristiyan,şeriat,müslüman,kilise,yasa,tevrat,zebur
       title: Hristiyan Şeriatı - Mesih'in Sevgisini Anlamak
       url: 'https://youtu.be/gDEZPkPBv0o'
-      viewCount: '226'
-  - season: '1'
-    guests: ''
+      viewCount: '232'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Kiliselerin birliği
@@ -224,6 +231,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M10S
       id: BRVU5LD7ggw
       imageURL: 'https://i.ytimg.com/vi/BRVU5LD7ggw/hqdefault.jpg'
       mediaType: video
@@ -233,9 +241,9 @@ episodes:
         mesih
       title: Hristiyan Şeriatı - Kiliselerin Birliği
       url: 'https://youtu.be/BRVU5LD7ggw'
-      viewCount: '173'
-  - season: '1'
-    guests: ''
+      viewCount: '175'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         63 - İznik konseyi
@@ -251,6 +259,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT22M20S
       id: kRDaYpaDEsE
       imageURL: 'https://i.ytimg.com/vi/kRDaYpaDEsE/hqdefault.jpg'
       mediaType: video
@@ -258,9 +267,9 @@ episodes:
       tags: 'iznik,konseyi,şeriat'
       title: Hristiyan Şeriatı - İznik konseyi
       url: 'https://youtu.be/kRDaYpaDEsE'
-      viewCount: '236'
-  - season: '1'
-    guests: ''
+      viewCount: '237'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         63 - Dili dizginlemek zordur
@@ -276,6 +285,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT28M47S
       id: fQaxoc2knuc
       imageURL: 'https://i.ytimg.com/vi/fQaxoc2knuc/hqdefault.jpg'
       mediaType: video
@@ -283,9 +293,9 @@ episodes:
       tags: '#efesliler #yeni #eski #yaşam #kutsal #kitap #kutsal #yaşam'
       title: Hristiyan Şeriatı - Dili Dizginlemek Zordur
       url: 'https://youtu.be/fQaxoc2knuc'
-      viewCount: '118'
-  - season: '1'
-    guests: ''
+      viewCount: '122'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         65 - Eski ve Yeni Yaşam
@@ -301,6 +311,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M4S
       id: CN09ddTiDVA
       imageURL: 'https://i.ytimg.com/vi/CN09ddTiDVA/hqdefault.jpg'
       mediaType: video
@@ -308,6 +319,6 @@ episodes:
       tags: '#eski #yaşam #yeni #rab #ışık #lutüf #kilise'
       title: Hristiyan Şeriatı - Eski ve Yeni Yaşam
       url: 'https://youtu.be/CN09ddTiDVA'
-      viewCount: '73'
+      viewCount: '77'
 ---
 
