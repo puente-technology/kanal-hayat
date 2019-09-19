@@ -113,5 +113,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Ufq8rmr7V90&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6&index=4&t=0s
       viewCount: '9354'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Hey Gavur! Anlatsana... 4- Hristiyanlıkta Mesih'in Kimliği
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur!
+        Anlatsana." programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: B-TXrmlAFc0
+      imageURL: 'https://i.ytimg.com/vi/B-TXrmlAFc0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-03-12T14:00:39.000Z'
+      tags: >-
+        Kutsal,hristiyanlık,ahiret,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,kutsal ruh,isa
+        mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
+        butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
+        Hayat,Pusula,kiyamet gunu,gavur,carmih
+      title: 4- Hristiyanlıkta Mesih'in Kimliği
+      url: >-
+        https://www.youtube.com/watch?v=B-TXrmlAFc0&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6&index=5&t=0s
+      viewCount: '5334'
 ---
 
