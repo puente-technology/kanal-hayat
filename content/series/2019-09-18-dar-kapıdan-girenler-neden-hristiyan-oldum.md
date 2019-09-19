@@ -39,7 +39,6 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
-      duration: PT28M52S
       id: UJgtgnlNibU
       imageURL: 'https://i.ytimg.com/vi/UJgtgnlNibU/hqdefault.jpg'
       mediaType: video
@@ -617,7 +616,6 @@ episodes:
         https://www.facebook.com/kanalhayat.tv
 
         https://twitter.com/kanalhayat
-      duration: ''
       id: PwHhXNwo4A4
       imageURL: 'https://i.ytimg.com/vi/PwHhXNwo4A4/hqdefault.jpg'
       mediaType: video
