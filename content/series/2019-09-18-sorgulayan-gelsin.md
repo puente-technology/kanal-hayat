@@ -77,5 +77,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=OB6eboZImbQ&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=3&t=0s
       viewCount: '2089'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Tanrı’nın varlığını kanıtlamak mümkün mü? - [Sorgulayan Gelsin 03]
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Sorgulayan
+        Gelsin" programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat.tv
+
+        https://twitter.com/kanalhayat
+      id: 4nHDUYumjIQ
+      imageURL: 'https://i.ytimg.com/vi/4nHDUYumjIQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-24T06:16:37.000Z'
+      tags: 'Hristiyan,Hristiyanlık,#tanrının,#varlığını,#kanıtlamak,#mümkün,#mü'
+      title: 'Tanrı’nın varlığını kanıtlamak mümkün mü? - [Sorgulayan Gelsin 03]'
+      url: >-
+        https://www.youtube.com/watch?v=4nHDUYumjIQ&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=4&t=0s
+      viewCount: '1847'
 ---
 
