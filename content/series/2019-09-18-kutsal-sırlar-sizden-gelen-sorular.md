@@ -420,5 +420,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=rpaVDD256_w&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=13
       viewCount: '567'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Kutsal Sırlar - Bölüm 14
+
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: KKY_NgXv_XE
+      imageURL: 'https://i.ytimg.com/vi/KKY_NgXv_XE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-09-05T05:56:12.000Z'
+      tags: 'kutsal,sırlar,sizden,gelen,sorular'
+      title: Kutsal Sırlar - Bölüm 14
+      url: >-
+        https://www.youtube.com/watch?v=KKY_NgXv_XE&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=15&t=0s
+      viewCount: '501'
 ---
 
