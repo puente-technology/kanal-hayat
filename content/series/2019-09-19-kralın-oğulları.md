@@ -287,7 +287,7 @@ episodes:
   - season: '1'
     youtubeURL:
       description: >-
-        11-  Yalan Söylemek
+        11- Yalan Söylemek
 
         Işık Abla'nın "Kralın Oğulları" programını sayfamızdan takip
         edebilirsiniz.
