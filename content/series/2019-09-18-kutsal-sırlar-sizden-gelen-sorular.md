@@ -396,5 +396,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Q4GUwUEpUMw&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=12
       viewCount: '912'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Kutsal Sırlar - Bölüm 13
+
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: rpaVDD256_w
+      imageURL: 'https://i.ytimg.com/vi/rpaVDD256_w/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-09-05T05:55:44.000Z'
+      tags: 'kutsal,sırlar,sizden,gelen,sorular'
+      title: Kutsal Sırlar - Bölüm 13
+      url: >-
+        https://www.youtube.com/watch?v=rpaVDD256_w&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=13
+      viewCount: '567'
 ---
 
