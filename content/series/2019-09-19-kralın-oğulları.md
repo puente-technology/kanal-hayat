@@ -310,5 +310,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=pGHVV-Y6Ou8&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=12&t=0s
       viewCount: '278'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        12-  Yalanlara İnanmak
+
+        Işık Abla'nın "Kralın Oğulları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: gvspRfJbdXo
+      imageURL: 'https://i.ytimg.com/vi/gvspRfJbdXo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-06T06:16:21.000Z'
+      tags: '#yalanlara,#inanmak,#kralın,#oğulları'
+      title: 12-  Yalanlara İnanmak
+      url: >-
+        https://www.youtube.com/watch?v=gvspRfJbdXo&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=13&t=0s
+      viewCount: '432'
 ---
 
