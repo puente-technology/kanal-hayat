@@ -23,8 +23,8 @@ selectedCategories:
   - Rehberlik
   - Kutsal Kitap Dersleri
 episodes:
-  - season: '1'
-    guests: ''
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil  öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -38,6 +38,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M21S
       id: ObNyMNmb-ds
       imageURL: 'https://i.ytimg.com/vi/ObNyMNmb-ds/hqdefault.jpg'
       mediaType: video
@@ -48,9 +49,9 @@ episodes:
       title: Hristiyan Ahlakı - Hristiyanlığın "Aşka" Bakışı Nedir?
       url: >-
         https://www.youtube.com/watch?v=ObNyMNmb-ds&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=2&t=0s
-      viewCount: '521'
-  - season: '1'
-    guests: ''
+      viewCount: '525'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil  öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -64,6 +65,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT25M37S
       id: bVE7oTlONU0
       imageURL: 'https://i.ytimg.com/vi/bVE7oTlONU0/hqdefault.jpg'
       mediaType: video
@@ -74,9 +76,9 @@ episodes:
       title: Hristiyan Ahlakı - Hristiyanların Ötenazi ve İntihara Bakışı
       url: >-
         https://www.youtube.com/watch?v=bVE7oTlONU0&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=3&t=0s
-      viewCount: '520'
-  - season: '1'
-    guests: ''
+      viewCount: '521'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil  öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -90,6 +92,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M18S
       id: 7Zj3eo3NMqo
       imageURL: 'https://i.ytimg.com/vi/7Zj3eo3NMqo/hqdefault.jpg'
       mediaType: video
@@ -98,9 +101,9 @@ episodes:
       title: Hristiyan Ahlakı - Hristiyanlar için Boş Konuşmak bir "Lanet" midir?
       url: >-
         https://www.youtube.com/watch?v=7Zj3eo3NMqo&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=4&t=0s
-      viewCount: '481'
-  - season: '1'
-    guests: ''
+      viewCount: '482'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -114,6 +117,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M25S
       id: xEClGTFBb6c
       imageURL: 'https://i.ytimg.com/vi/xEClGTFBb6c/hqdefault.jpg'
       mediaType: video
@@ -124,8 +128,8 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=xEClGTFBb6c&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=5&t=0s
       viewCount: '488'
-  - season: '1'
-    guests: ''
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -139,6 +143,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT28M6S
       id: nzKz4XjQFnQ
       imageURL: 'https://i.ytimg.com/vi/nzKz4XjQFnQ/hqdefault.jpg'
       mediaType: video
@@ -149,9 +154,9 @@ episodes:
       title: Hristiyan Ahlakı - Hristiyanlar Boşanma Konusunda Ne Diyor?
       url: >-
         https://www.youtube.com/watch?v=nzKz4XjQFnQ&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=6&t=0s
-      viewCount: '658'
-  - season: '1'
-    guests: ''
+      viewCount: '659'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -165,6 +170,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT26M51S
       id: 403E5hSHEW8
       imageURL: 'https://i.ytimg.com/vi/403E5hSHEW8/hqdefault.jpg'
       mediaType: video
@@ -176,9 +182,9 @@ episodes:
         Görüşleri
       url: >-
         https://www.youtube.com/watch?v=403E5hSHEW8&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=7&t=0s
-      viewCount: '813'
-  - season: '1'
-    guests: ''
+      viewCount: '815'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -192,6 +198,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT25M56S
       id: u-fObA14Ro0
       imageURL: 'https://i.ytimg.com/vi/u-fObA14Ro0/hqdefault.jpg'
       mediaType: video
@@ -203,9 +210,9 @@ episodes:
       title: Hristiyan Ahlakı - Hristiyanlık ve Savaşlar
       url: >-
         https://www.youtube.com/watch?v=u-fObA14Ro0&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=8&t=0s
-      viewCount: '464'
-  - season: '1'
-    guests: ''
+      viewCount: '465'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -219,6 +226,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT26M38S
       id: kZn36OuSCqc
       imageURL: 'https://i.ytimg.com/vi/kZn36OuSCqc/hqdefault.jpg'
       mediaType: video
@@ -229,9 +237,9 @@ episodes:
       title: Hristiyan Ahlakı - Hristiyanlığın "Hırsızlık" Kavramına Bakışı Nedir?
       url: >-
         https://www.youtube.com/watch?v=kZn36OuSCqc&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=9&t=0s
-      viewCount: '375'
-  - season: '1'
-    guests: ''
+      viewCount: '376'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -245,6 +253,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT25M51S
       id: 1q-M4SU_ee4
       imageURL: 'https://i.ytimg.com/vi/1q-M4SU_ee4/hqdefault.jpg'
       mediaType: video
@@ -255,9 +264,9 @@ episodes:
       title: Hristiyan Ahlakı - Hristiyanların "Para" Kavramına Bakışı Nasıldır?
       url: >-
         https://www.youtube.com/watch?v=1q-M4SU_ee4&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=10&t=0s
-      viewCount: '529'
-  - season: '1'
-    guests: ''
+      viewCount: '530'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -271,6 +280,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT28M22S
       id: fWgsC--rmQI
       imageURL: 'https://i.ytimg.com/vi/fWgsC--rmQI/hqdefault.jpg'
       mediaType: video
@@ -281,9 +291,9 @@ episodes:
       title: Hristiyan Ahlakı - Hristiyanların Eşcinsellere Bakışı Nedir?
       url: >-
         https://www.youtube.com/watch?v=fWgsC--rmQI&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=11&t=0s
-      viewCount: '1446'
-  - season: '1'
-    guests: ''
+      viewCount: '1451'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -297,6 +307,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT28M12S
       id: b6ZKz3_gepI
       imageURL: 'https://i.ytimg.com/vi/b6ZKz3_gepI/hqdefault.jpg'
       mediaType: video
@@ -307,9 +318,9 @@ episodes:
       title: Hristiyan Ahlakı - Hristiyanların Kürtaja bakışı nedir?
       url: >-
         https://www.youtube.com/watch?v=b6ZKz3_gepI&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=12&t=0s
-      viewCount: '408'
-  - season: '1'
-    guests: ''
+      viewCount: '409'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -323,6 +334,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT26M42S
       id: f-1rZHKFiNw
       imageURL: 'https://i.ytimg.com/vi/f-1rZHKFiNw/hqdefault.jpg'
       mediaType: video
@@ -333,9 +345,9 @@ episodes:
       title: Hristiyan Ahlakı - Hristiyanlıkta Gerçek ve Yalan
       url: >-
         https://www.youtube.com/watch?v=f-1rZHKFiNw&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=13&t=0s
-      viewCount: '735'
-  - season: '1'
-    guests: ''
+      viewCount: '738'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -349,6 +361,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT26M29S
       id: NE9nljDey-g
       imageURL: 'https://i.ytimg.com/vi/NE9nljDey-g/hqdefault.jpg'
       mediaType: video
@@ -359,9 +372,9 @@ episodes:
       title: Hristiyan Ahlakı - Hristiyanların Cinsellik/Pornografiye Bakışı
       url: >-
         https://www.youtube.com/watch?v=NE9nljDey-g&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=14&t=0s
-      viewCount: '1344'
-  - season: '1'
-    guests: ''
+      viewCount: '1349'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -375,6 +388,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M37S
       id: 2hcHDFYnWTA
       imageURL: 'https://i.ytimg.com/vi/2hcHDFYnWTA/hqdefault.jpg'
       mediaType: video
@@ -383,9 +397,9 @@ episodes:
       title: Hristiyan Ahlakı - Hristiyanlık'ta Evlilik
       url: >-
         https://www.youtube.com/watch?v=2hcHDFYnWTA&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=15&t=0s
-      viewCount: '1288'
-  - season: '1'
-    guests: ''
+      viewCount: '1291'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
@@ -399,6 +413,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M11S
       id: UzotzuYs8m0
       imageURL: 'https://i.ytimg.com/vi/UzotzuYs8m0/hqdefault.jpg'
       mediaType: video
@@ -410,6 +425,6 @@ episodes:
       title: Hristiyan Ahlakı - Hristiyan Ahlakına Giriş
       url: >-
         https://www.youtube.com/watch?v=UzotzuYs8m0&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=16&t=0s
-      viewCount: '1089'
+      viewCount: '1090'
 ---
 
