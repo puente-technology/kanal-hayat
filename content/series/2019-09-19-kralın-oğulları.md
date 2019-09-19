@@ -102,5 +102,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=kDx8NhlCoD0&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=4&t=0s
       viewCount: '1161'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        4-  İşinizde Nasıl Başarılı Olabilirsiniz?
+
+        Işık Abla'nın "Kralın Oğulları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: zFR_lv-kfqs
+      imageURL: 'https://i.ytimg.com/vi/zFR_lv-kfqs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-06T06:15:13.000Z'
+      tags: '#başarılı,#baba,#kimdir?,#kralın,#oğulları,#sevmek'
+      title: 4-  İşinizde Nasıl Başarılı Olabilirsiniz?
+      url: >-
+        https://www.youtube.com/watch?v=zFR_lv-kfqs&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=5&t=0s
+      viewCount: '285'
 ---
 
