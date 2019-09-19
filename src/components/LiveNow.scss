@@ -77,3 +77,23 @@
     justify-content: center;
   }
 }
+
+@media (max-width: 576px) {
+  .LiveNow--Title {
+    font-size: 15px;
+    padding-left: 32px;
+    padding-top: 28px;
+  }
+  
+  .LiveNow--Item {
+    font-size: 15px;
+  }
+  
+  .Item-Header {
+    font-size: 15px;
+  }
+  
+  .Item-Time {
+    font-size: 21px;
+  }
+}

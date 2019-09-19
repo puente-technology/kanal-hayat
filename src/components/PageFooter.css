@@ -122,3 +122,59 @@
   margin-right: 16px;
 }
 
+@media (max-width: 576px) {
+  .footerBanner {
+    height: 355px;
+  }
+
+  .bannerHeader {
+    justify-content: center;
+  }
+
+  .menuHeader {
+    display: none;
+  }
+
+  .menuTextStyle {
+    font-size: 16px;
+  }
+
+  .registerColumn {
+    font-size: 13px;
+  }
+
+  .emailInput {
+    font-size: 13px;
+    width: 220px;
+    height: 30px;
+  }
+  
+  .register-btn {
+    font-size: 13px;
+    width: 150px;
+    height: 30px;
+  }
+
+  .footerInfo {
+    flex-direction: column-reverse;
+    align-items: center;
+    margin-top: 50px;
+  }
+
+  .copyRightInfo {
+    margin-left: 0;
+    width: 200px;
+    text-align: center;
+  }
+
+  .iconsColmStyle {
+    display: flex;
+    align-items: center;
+    margin-right: 0;
+    margin-bottom: 23px;
+  }
+
+  .rightColumn {
+    display: none;
+  }
+}

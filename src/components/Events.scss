@@ -18,9 +18,13 @@
   cursor: pointer;
   &.active {
     color: #3d3d3d;
+    outline: none;
   }
   &:hover {
     color: #3d3d3d;
+  }
+  &:focus {
+    outline: none;
   }
 }
 
@@ -57,6 +61,7 @@
 .Event-SubContainer {
   height: 550px;
   overflow-x: auto;
+  margin-bottom: 20px;
 }
 
 .Event-Programme {
@@ -109,4 +114,61 @@
 
 .Event-Subtitle {
   font-size: 14px;
+}
+
+@media (max-width: 576px) {
+  .Event-Week {
+    justify-content: flex-start;
+    overflow: scroll;
+    padding-left: 23px;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-bottom: 20px;
+    .categoryArrowRight {
+      margin-top: 16px;
+    }
+    .categoryArrowLeft {
+      margin-top: 16px;
+    }
+  }
+  
+  .Event {
+    font-size: 18px;
+    line-height: 25px;
+    margin-right: 35px;
+    white-space: nowrap;
+  }
+  
+  .Event-Filters {
+    padding-left: 23px;
+    margin-top: 25px;
+  }
+  
+  .Filter-Button {
+    width: 58px;
+    height: 19px;
+  }
+  
+  .Event-SubContainer {
+    margin-right: 30px;
+  }
+  
+  .Event-Programme {
+    margin-left: 23px;
+  }
+  
+  .Event-Time {
+    font-size: 15px;
+    line-height: 20px;
+  }
+  
+  .Event-Name {
+    font-size: 13px;
+    line-height: 16px;
+    padding-left: 0;
+  }
+  
+  .Event-Subtitle {
+    font-size: 10px;
+  }
 }
