@@ -468,5 +468,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=SxFuzy94NB0&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=16&t=0s
       viewCount: '611'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Kutsal Sırlar - Bölüm 16
+
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: hKZ-94YnaPs
+      imageURL: 'https://i.ytimg.com/vi/hKZ-94YnaPs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-09-05T05:57:34.000Z'
+      tags: 'kutsal,sırlar,incil,müslümanlar,sorular'
+      title: Kutsal Sırlar - Bölüm 16
+      url: >-
+        https://www.youtube.com/watch?v=hKZ-94YnaPs&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=17&t=0s
+      viewCount: '548'
 ---
 
