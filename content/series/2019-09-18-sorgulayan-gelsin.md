@@ -129,5 +129,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=RQKNduC2fnE&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=5&t=0s
       viewCount: '785'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Tanrı neden kötülüğe izin verir? - [Sorgulayan Gelsin 05]
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Sorgulayan
+        Gelsin" programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: 1CUwfFSyPkg
+      imageURL: 'https://i.ytimg.com/vi/1CUwfFSyPkg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-13T16:58:03.000Z'
+      tags: >-
+        Hristiyan,Hristiyanlık,#hayat,#evrim,#sonucu,#mu?,#oluştu,#kötülüğe,#neden,#izin,#verir?
+      title: 'Tanrı neden kötülüğe izin verir? - [Sorgulayan Gelsin 05]'
+      url: >-
+        https://www.youtube.com/watch?v=1CUwfFSyPkg&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=6&t=0s
+      viewCount: '6261'
 ---
 
