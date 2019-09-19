@@ -1,10 +1,21 @@
 ---
 template: SeriesPageTemplate
 title: Sorgulayan Gelsin
-publishDate: 'Hafta içi her gün 14:30-15:00'
-coverImage: /images/uploads/sorgulayangelsin.jpg
+publishDate: .
+coverImage: /images/uploads/sorgulayan.png
 host: Can Nuroğlu
-description: Can Nuroğlu ile Sorgulayan Gelsin
+description: >-
+  Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Sorgulayan Gelsin"
+  programını Kanal Hayat ekranlarından veya youtube sayfamızdan takip
+  edebilirsiniz.Esen Kalın.
+
+  http://kanalhayat.tv/
+
+  http://www.youtube.com/kanalhayatplay
+
+  https://www.facebook.com/kanalhayat
+
+  https://twitter.com/kanalhayat
 targetGroup: Herkes
 language: '0'
 selectedCategories:
@@ -36,8 +47,9 @@ episodes:
       tags: >-
         Hristiyan,Hristiyanlık,#sorgulayan,#gelsin,#tanrıyı,#sorgulamak,#günah,#mı?
       title: 'Tanrı''yı sorgulamak günah mı? - [Sorgulayan Gelsin 01]'
-      url: 'https://youtu.be/5Qe7222lmbA'
-      viewCount: '6765'
+      url: >-
+        https://www.youtube.com/watch?v=5Qe7222lmbA&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=2&t=0s
+      viewCount: '6777'
   - season: '1'
     youtubeURL:
       description: >-
@@ -62,8 +74,9 @@ episodes:
       tags: >-
         Hristiyan,Hristiyanlık,#sorgulayan,#gelsin,#tanrıyı,#sorgulamak,#günah,#mı?,#tanrıya,#inanmak,#mantık
       title: 'Tanrı’ya inanmak mantıklı mı? - [Sorgulayan Gelsin 02]'
-      url: 'https://youtu.be/OB6eboZImbQ'
-      viewCount: '2075'
+      url: >-
+        https://www.youtube.com/watch?v=OB6eboZImbQ&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=3&t=0s
+      viewCount: '2089'
   - season: '1'
     youtubeURL:
       description: >-
@@ -87,8 +100,9 @@ episodes:
       publishedAt: '2017-11-24T06:16:37.000Z'
       tags: 'Hristiyan,Hristiyanlık,#tanrının,#varlığını,#kanıtlamak,#mümkün,#mü'
       title: 'Tanrı’nın varlığını kanıtlamak mümkün mü? - [Sorgulayan Gelsin 03]'
-      url: 'https://youtu.be/4nHDUYumjIQ'
-      viewCount: '1840'
+      url: >-
+        https://www.youtube.com/watch?v=4nHDUYumjIQ&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=4&t=0s
+      viewCount: '1847'
   - season: '1'
     youtubeURL:
       description: >-
@@ -112,8 +126,9 @@ episodes:
       publishedAt: '2017-12-02T04:59:49.000Z'
       tags: 'Hristiyan,Hristiyanlık,#hayat,#evrim,#sonucu,#mu?,#oluştu'
       title: 'Hayat evrim sonucu mu oluştu? - [Sorgulayan Gelsin 04]'
-      url: 'https://youtu.be/RQKNduC2fnE'
-      viewCount: '784'
+      url: >-
+        https://www.youtube.com/watch?v=RQKNduC2fnE&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=5&t=0s
+      viewCount: '785'
   - season: '1'
     youtubeURL:
       description: >-
@@ -138,8 +153,9 @@ episodes:
       tags: >-
         Hristiyan,Hristiyanlık,#hayat,#evrim,#sonucu,#mu?,#oluştu,#kötülüğe,#neden,#izin,#verir?
       title: 'Tanrı neden kötülüğe izin verir? - [Sorgulayan Gelsin 05]'
-      url: 'https://youtu.be/1CUwfFSyPkg'
-      viewCount: '6251'
+      url: >-
+        https://www.youtube.com/watch?v=1CUwfFSyPkg&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=6&t=0s
+      viewCount: '6261'
   - season: '1'
     youtubeURL:
       description: >-
@@ -163,8 +179,9 @@ episodes:
       publishedAt: '2017-12-18T07:19:45.000Z'
       tags: 'Hristiyan,Hristiyanlık,#inançla,#bilim,#birbirine,#aykırı,#mı?'
       title: 'İnançla Bilim birbirine aykırı mı? - [Sorgulayan Gelsin 06]'
-      url: 'https://youtu.be/fNwGZQqarrQ'
-      viewCount: '588'
+      url: >-
+        https://www.youtube.com/watch?v=fNwGZQqarrQ&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=7&t=0s
+      viewCount: '589'
   - season: '1'
     youtubeURL:
       description: >-
@@ -188,8 +205,9 @@ episodes:
       publishedAt: '2017-12-29T14:03:43.000Z'
       tags: 'Hristiyan,Hristiyanlık,#din,#insanların,#afyonu,#mu?,#sorgulayan,#gelsin'
       title: 'Din insanların afyonu mudur? - [Sorgulayan Gelsin 07]'
-      url: 'https://youtu.be/7AsaBI01hyM'
-      viewCount: '1592'
+      url: >-
+        https://www.youtube.com/watch?v=7AsaBI01hyM&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=8&t=0s
+      viewCount: '1594'
   - season: '1'
     youtubeURL:
       description: >-
@@ -214,7 +232,8 @@ episodes:
       tags: >-
         Hristiyan,Hristiyanlık,#kutsal,Kitap’a,güvenebilir,miyiz?,Sorgulayan,Gelsin
       title: 'Kutsal Kitap’a güvenebilir miyiz? - [Sorgulayan Gelsin 08]'
-      url: 'https://youtu.be/IJ-iJzdGypA'
-      viewCount: '1519'
+      url: >-
+        https://www.youtube.com/watch?v=IJ-iJzdGypA&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=9&t=0s
+      viewCount: '1525'
 ---
 
