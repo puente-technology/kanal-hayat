@@ -162,6 +162,7 @@ class SeriesList extends Component {
       scrollLeftMax,
       scrollLeftPosition,
     } = this.state;
+    const { hosts } = this.props
     const renderSeries = []
     for (let i = 0; i < listSeries.length; i += 1) {
       const { frontmatter, fields } = listSeries[i].node
