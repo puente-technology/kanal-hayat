@@ -311,7 +311,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
-      duration: PT27M4S
+      duration: ''
       id: CN09ddTiDVA
       imageURL: 'https://i.ytimg.com/vi/CN09ddTiDVA/hqdefault.jpg'
       mediaType: video
@@ -319,6 +319,6 @@ episodes:
       tags: '#eski #yaşam #yeni #rab #ışık #lutüf #kilise'
       title: Hristiyan Şeriatı - Eski ve Yeni Yaşam
       url: 'https://youtu.be/CN09ddTiDVA'
-      viewCount: '77'
+      viewCount: '73'
 ---
 
