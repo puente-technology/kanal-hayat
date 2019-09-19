@@ -1,41 +1,86 @@
-import React from 'react'
+import React, { PureComponent } from 'react'
 import { graphql, Link } from 'gatsby'
+import { connect } from 'react-redux';
+import PropTypes from 'prop-types'
 import Nav from '../components/Nav';
 import Content from '../components/Content';
+import { toggleDarkMode } from '../state/app';
+
 
 import './Host.scss'
 
-// Export Template for use in CMS preview
-// export const AboutUsPageTemplate = data => (
-//   <AboutUs {...data} />
-// )
+class Host extends PureComponent {
+  static propTypes = {
+    data: PropTypes.any,
+    dispatch: PropTypes.any,
+    durations: PropTypes.any,
+    hosts: PropTypes.any,
+    episode: PropTypes.any,
+    episodes: PropTypes.any,
+    handleCloseClick: PropTypes.any,
+    frontmatter: PropTypes.any,
+  };
 
-// Export Default HomePage for front-end
-const Host = (data) => {
-  const hostArr = data.data.host.nodes
-  const { frontmatter } = hostArr[0]
-  const hostName = frontmatter.host
-  const seriesArr = data.data.series.nodes
-  const series = seriesArr.filter(x => x.frontmatter.host === hostName)
+  constructor(props) {
+    super(props);
+    this.state = {
+    };
+  }
 
-  return (
-    <React.Fragment>
-      <div
-        style={{ background: `url(${frontmatter.coverImage})` }}
-        className="HostContainer"
-      >
-        <Nav color="light" />
-      </div>
-      <div className="HostDescription">
-        <Content source={frontmatter.html} />
-      </div>
-      <div className="HostSeries">
-        <span className="HostTile">
-          PROGRAMLAR
-          <img alt="Programlar" src="/images/Polygondown.png" />
-        </span>
+  componentDidMount() {
+    const {
+      dispatch,
+      durations,
+      hosts,
+      episode,
+      episodes,
+      handleCloseClick,
+      frontmatter,
+    } = this.props
+
+    dispatch(toggleDarkMode(
+      episode,
+      episodes,
+      true,
+      '',
+      frontmatter,
+      handleCloseClick,
+      false,
+      durations,
+      false,
+      hosts,
+      true,
+    ))
+  }
+
+
+  render() {
+    const {
+      data,
+    } = this.props
+    const hostArr = data.host.nodes
+    const { frontmatter } = hostArr[0]
+    const hostName = frontmatter.host
+    const seriesArr = data.series.nodes
+    const series = seriesArr.filter(x => x.frontmatter.host === hostName)
+    return (
+      <React.Fragment>
+        <div
+          style={{ background: `url(${frontmatter.coverImage})` }}
+          className="HostContainer"
+        >
+          <Nav color="light" />
+        </div>
+        <div className="HostDescription">
+          <Content source={frontmatter.html} />
+        </div>
         <div className="HostSeries">
-          {
+          <span className="HostTile">
+          PROGRAMLAR
+            <img alt="Programlar" src="/images/Polygondown.png" />
+          </span>
+          <div className="HostSeries">
+            {
             series.map((serie, key) => (
               <div
                 key={key}
@@ -65,17 +110,24 @@ const Host = (data) => {
 
             ))
           }
+          </div>
         </div>
-      </div>
-    </React.Fragment>
-  )
+      </React.Fragment>
+    )
+  }
 }
 
-// Host.propTypes = {
-//   allMarkdownRemark: PropTypes.any,
-// }
+export default connect(state => ({
+  shouldInit: state.app.shouldInit,
+  durations: state.app.durations,
+  hosts: state.app.hosts,
+  episode: state.app.episode,
+  episodes: state.app.episodes,
+  handleCloseClick: state.app.handleCloseClick,
+  frontmatter: state.app.frontmatter,
 
-export default Host;
+}), null)(Host)
+
 
 export const pageQuery = graphql`
 query Host($slug: String!) {

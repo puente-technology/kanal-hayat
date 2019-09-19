@@ -23,6 +23,17 @@ class SerieInfo extends PureComponent {
     this.state = {
       isOpen: false,
     };
+    this.myRef = React.createRef();
+  }
+
+  componentDidMount() {
+    if (this.myRef.current) {
+      console.log(this.myRef)
+      this.myRef.current.scrollIntoView({
+        behavior: 'smooth',
+        block: 'start',
+      });
+    }
   }
 
   getDuration = (episode) => {
@@ -37,7 +48,6 @@ class SerieInfo extends PureComponent {
 
   getHostUrl = (hostName) => {
     const { hosts } = this.props
-    console.log(hosts)
     if (hosts) {
       const result = hosts.map((el) => {
         const { fields, frontmatter } = el.node
@@ -70,6 +80,7 @@ class SerieInfo extends PureComponent {
       durations,
       false,
       hosts,
+      false,
     ))
   }
 
@@ -87,7 +98,7 @@ class SerieInfo extends PureComponent {
     const { episodes } = frontmatter;
     const limitedEpisodes = episodes.slice(0, 3)
     return (
-      <div className="SerieCardInformation">
+      <div ref={this.myRef} className="SerieCardInformation">
         <button onClick={handleCardCloseClick} type="button" className="Close" />
         <div className="InformationTitle">
           {frontmatter.title}
@@ -132,7 +143,7 @@ class SerieInfo extends PureComponent {
                 </button>
                 <div className="minicontainer">
                   <span className="subminititle">
-                    {`${episode.youtubeURL.title.slice(0, 25)}: ${episode.youtubeURL.description.slice(0, 25)}`}
+                    {`${episode.youtubeURL.title}`}
                   </span>
                   <span className="details">
                     <span>

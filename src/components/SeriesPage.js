@@ -54,6 +54,7 @@ class SeriesPage extends Component {
       durations,
       false,
       hosts,
+      false,
     ))
   }
 

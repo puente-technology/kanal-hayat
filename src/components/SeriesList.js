@@ -7,6 +7,11 @@ import SerieInfo from './SerieInfo';
 import Categories from './Categories';
 
 class SeriesList extends Component {
+  constructor(props) {
+    super(props)
+    this.myRef = React.createRef();
+  }
+
   state = {
     expandedDiv: '',
     selectedCategories: [],

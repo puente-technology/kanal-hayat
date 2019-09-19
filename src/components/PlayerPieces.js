@@ -1,5 +1,8 @@
+/* eslint-disable array-callback-return */
+/* eslint-disable consistent-return */
 import React from 'react'
 import PropTypes from 'prop-types';
+import { Link } from 'gatsby';
 import Duration from './Duration'
 
 
@@ -20,8 +23,20 @@ const infoSvg = require('../../static/images/info.svg')
 
 const ShowIcon = 'M7 0L13.9282 8.25H0.0717969L7 0Z'
 
+const getHostUrl = (hostName, hosts) => {
+  if (hosts) {
+    const result = hosts.map((el) => {
+      const { fields, frontmatter } = el.node
+      if (frontmatter.host === hostName) {
+        return fields.slug
+      }
+    })
+    return result
+  }
+}
+
 export const PlayerInfo = ({
-  playerProps, title, artist, style,
+  playerProps, title, artist, style, hosts,
 }) => (
   <div className="col-auto player-info" style={style}>
     <div className="row">
@@ -33,7 +48,13 @@ export const PlayerInfo = ({
           playerProps.expand ? 'player-info-expanded' : 'player-info-collapsed'
           }
         >
-          <div className={playerProps.expand ? 'player-artist' : 'player-artist colapsed'}>{`${artist}`}</div>
+          <div className={playerProps.expand ? 'player-artist' : 'player-artist colapsed'}>
+            <Link
+              to={getHostUrl(artist, hosts)}
+            >
+              {artist}
+            </Link>
+          </div>
           <div className={playerProps.expand ? 'player-title' : 'player-title colapsed'}>{title}</div>
         </div>
       </div>
@@ -423,33 +444,35 @@ export const PlayerButtonsBigScreenHover = ({
   onCloseClick, onShowInfo, playerProps, toggleOnHover, toggleOnHoverOut,
 }) => (
   <div onMouseLeave={toggleOnHoverOut} onMouseEnter={toggleOnHover} className="bigScreenInfo" style={{ width: playerProps.width, height: playerProps.height }}>
-    <button
-      type="button"
-      style={{
-        background: `url(${cancelSvg}) no-repeat`,
-        backgroundSize: 'contain',
-        border: 'none',
-        minWidth: '30px',
-        minHeight: '50px',
-        marginBottom: '5px',
-      }}
-      onClick={onCloseClick}
-    />
-    {
-      !playerProps.showinfoBool && (
-        <buttom
-          type="buttom"
-          style={{
-            background: `url(${infoSvg}) no-repeat`,
-            backgroundSize: 'contain',
-            border: 'none',
-            minWidth: '30px',
-            minHeight: '50px',
-          }}
-          onClick={onShowInfo}
-        />
-      )
-    }
+    <div style={{ display: 'flex', flexDirection: 'column' }}>
+      <button
+        type="button"
+        style={{
+          background: `url(${cancelSvg}) no-repeat`,
+          backgroundSize: 'contain',
+          border: 'none',
+          minWidth: '30px',
+          minHeight: '50px',
+          marginBottom: '5px',
+        }}
+        onClick={onCloseClick}
+      />
+      {
+        !playerProps.showinfoBool && (
+          <buttom
+            type="buttom"
+            style={{
+              background: `url(${infoSvg}) no-repeat`,
+              backgroundSize: 'contain',
+              border: 'none',
+              minWidth: '30px',
+              minHeight: '50px',
+            }}
+            onClick={onShowInfo}
+          />
+        )
+      }
+    </div>
   </div>
 )
 
@@ -514,4 +537,5 @@ PlayerInfo.propTypes = {
   title: PropTypes.any,
   artist: PropTypes.any,
   style: PropTypes.any,
+  hosts: PropTypes.any,
 }

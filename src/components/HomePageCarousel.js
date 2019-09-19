@@ -127,7 +127,11 @@ class Item extends React.Component {
   }
 
   hanndlePlayClick = (e) => {
-    const { dispatch, durations, hosts } = this.props;
+    const {
+      dispatch,
+      durations,
+      hosts,
+    } = this.props;
     const { id, level } = JSON.parse(e.target.value)
     dispatch(toggleDarkMode(
       id,
@@ -140,6 +144,7 @@ class Item extends React.Component {
       durations,
       false,
       hosts,
+      false,
     ))
   }
 
