@@ -294,5 +294,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=2F2K9fCocVk&list=PLQfi14V3hH0IevVIVLEVoW8N9WUJykBu7&index=9&t=0s
       viewCount: '819'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        “Öğrenci” sözcüğü, öğrenen ya da izleyen birisinden söz etmekte
+        kullanılır. “Elçi” sözcüğü ise, “gönderilen” anlamına gelir. İsa
+        yeryüzündeyken, O’nu izleyen on iki kişiye öğrenciler adı veriliyordu.
+        Bu on iki öğrenci, İsa Mesih’i izledi, O’ndan öğrendi ve O’nun
+        tarafından eğitildi. İsa dirilip göğe alındıktan sonra öğrencilerini
+        Kendi tanıkları olmak üzere gönderdi.
+         (Matta 28:18-20)
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Havari Notları"
+        programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat.tv
+
+        https://twitter.com/kanalhayat
+      id: olzl7llrPRs
+      imageURL: 'https://i.ytimg.com/vi/olzl7llrPRs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-09-19T11:02:39.000Z'
+      tags: 'eski antlaşma,ahit,malaki,peygamber,kutsal,kitap,kurtuluş,havari,notları'
+      title: 'Havari Notları - Eski Antlaşma: Malaki Peygamber'
+      url: >-
+        https://www.youtube.com/watch?v=olzl7llrPRs&list=PLQfi14V3hH0IevVIVLEVoW8N9WUJykBu7&index=10&t=0s
+      viewCount: '514'
 ---
 
