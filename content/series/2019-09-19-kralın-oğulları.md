@@ -50,5 +50,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=B7cQ9sWj-gw&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=2&t=0s
       viewCount: '1214'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        2- Sevmeyi Öğrenmek
+
+        Işık Abla'nın "Kralın Oğulları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: lmCOf_FmRZw
+      imageURL: 'https://i.ytimg.com/vi/lmCOf_FmRZw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-06T06:14:56.000Z'
+      tags: '#baba,#kimdir?,#kralın,#oğulları,#sevmek'
+      title: 2- Sevmeyi Öğrenmek
+      url: >-
+        https://www.youtube.com/watch?v=lmCOf_FmRZw&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=3&t=0s
+      viewCount: '614'
 ---
 
