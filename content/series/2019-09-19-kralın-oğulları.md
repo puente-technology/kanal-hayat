@@ -284,5 +284,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=VfTkrClx9p0&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=11&t=0s
       viewCount: '814'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        11-  Yalan Söylemek
+
+        Işık Abla'nın "Kralın Oğulları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: pGHVV-Y6Ou8
+      imageURL: 'https://i.ytimg.com/vi/pGHVV-Y6Ou8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-06T06:16:14.000Z'
+      tags: '#yalan,#söylemek,#kralın,#oğulları,#aile,#evlilik,#çiftler'
+      title: 11-  Yalan Söylemek
+      url: >-
+        https://www.youtube.com/watch?v=pGHVV-Y6Ou8&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=12&t=0s
+      viewCount: '278'
 ---
 
