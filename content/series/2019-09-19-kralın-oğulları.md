@@ -128,5 +128,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=zFR_lv-kfqs&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=5&t=0s
       viewCount: '285'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        5-  İyi İletişim Kurmayı Öğrenmek
+
+        Işık Abla'nın "Kralın Oğulları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: jcLd7-SY0rQ
+      imageURL: 'https://i.ytimg.com/vi/jcLd7-SY0rQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-06T06:15:23.000Z'
+      tags: '#başarılı,#baba,#kimdir?,#kralın,#oğulları,#sevmek'
+      title: 5-  İyi İletişim Kurmayı Öğrenmek
+      url: >-
+        https://www.youtube.com/watch?v=jcLd7-SY0rQ&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=6&t=0s
+      viewCount: '657'
 ---
 
