@@ -206,5 +206,38 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=wF7x5bFV8Lg&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6&index=7&t=0s
       viewCount: '23567'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Hey Gavur! Anlatsana...
+
+        7- Hristiyanlığın İslam'a bakışı
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur!
+        Anlatsana." programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: 5Q_1qY_kKg4
+      imageURL: 'https://i.ytimg.com/vi/5Q_1qY_kKg4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-04-04T21:06:29.000Z'
+      tags: >-
+        Kutsal,hristiyanlık,ahiret,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,kutsal ruh,isa
+        mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
+        butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
+        Hayat,Pusula,kiyamet gunu,gavur
+      title: 7- Hristiyanlığın İslam'a bakışı
+      url: >-
+        https://www.youtube.com/watch?v=5Q_1qY_kKg4&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6&index=8&t=0s
+      viewCount: '63264'
 ---
 
