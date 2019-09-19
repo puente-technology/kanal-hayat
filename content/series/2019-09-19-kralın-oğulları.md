@@ -258,5 +258,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=CEn5ZF6a7ks&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=10&t=0s
       viewCount: '539'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        10- Gerçek Bir Adam Olmak
+
+        Işık Abla'nın "Kralın Oğulları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: VfTkrClx9p0
+      imageURL: 'https://i.ytimg.com/vi/VfTkrClx9p0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-06T06:16:02.000Z'
+      tags: '#adam,#olmak,#gerçek'
+      title: 10- Gerçek Bir Adam Olmak
+      url: >-
+        https://www.youtube.com/watch?v=VfTkrClx9p0&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=11&t=0s
+      viewCount: '814'
 ---
 
