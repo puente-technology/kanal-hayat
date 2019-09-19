@@ -540,5 +540,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=qrdvnDjnVbc&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=19&t=0s
       viewCount: '539'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Kutsal Sırlar - Bölüm 19
+
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: DBd89oY4Iik
+      imageURL: 'https://i.ytimg.com/vi/DBd89oY4Iik/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-09-05T05:58:59.000Z'
+      tags: 'kutsal,sırlar,incil,kelam,kitap,türkiye'
+      title: Kutsal Sırlar - Bölüm 19
+      url: >-
+        https://www.youtube.com/watch?v=DBd89oY4Iik&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=20&t=0s
+      viewCount: '475'
 ---
 
