@@ -5,16 +5,29 @@ const initialState = {
   handleCloseClick: '',
   frontmatter: '',
   index: '',
-  isOpen: true,
-
+  isOpen: false,
+  durations: '',
+  shouldInit: true,
+  hosts: '',
 };
 
 const TOGGLE_DARKMODE = 'TOGGLE_DARKMODE';
 
 export const toggleDarkMode = (
-  episode, episodes, playing, index, frontmatter, handleCloseClick, isOpen,
+  episode, episodes, playing, index,
+  frontmatter, handleCloseClick, isOpen, durations, shouldInit, hosts,
 ) => ({
-  type: TOGGLE_DARKMODE, episode, episodes, playing, index, frontmatter, handleCloseClick, isOpen,
+  type: TOGGLE_DARKMODE,
+  episode,
+  episodes,
+  playing,
+  index,
+  frontmatter,
+  handleCloseClick,
+  isOpen,
+  durations,
+  shouldInit,
+  hosts,
 });
 
 export default (state = initialState, action) => {
@@ -29,6 +42,9 @@ export default (state = initialState, action) => {
         index: action.index,
         handleCloseClick: action.handleCloseClick,
         isOpen: action.isOpen,
+        durations: action.durations,
+        shouldInit: action.shouldInit,
+        hosts: action.hosts,
       };
     default:
       return state;

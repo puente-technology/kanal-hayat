@@ -6,166 +6,181 @@ gallery:
   - align: right
     alt: Can Nuroglu
     color: light
-    image: /images/uploads/slider1.png
+    image: /images/uploads/dsc01008.jpg
     title: Hristiyan Ahlakı
   - align: center
-    alt: Ali'nin Öyküsü
+    alt: Gerçeğin Sesi
     color: dark
-    image: /images/uploads/slider2.png
-    title: Ali'nin Öyküsü
+    image: /images/uploads/dsc01143.jpg
+    title: Hakan Taştan ile
   - align: right
-    alt: Labirent
+    alt: Hristiyan Şeriatı
     color: light
-    image: /images/uploads/slider3.png
-    title: Devam Etmek
+    image: /images/uploads/_dsc1607.jpg
+    title: Ahmet Güvener ile
 program1:
   align: left
-  bgImage: /images/uploads/bigmodulejoycemayer.png
+  bgImage: /images/uploads/meyer-2.jpg
   color: dark
-  content: >-
-    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-    doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-    veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim
-    ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-    consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Natus
-    error sit voluptatem accusantium doloremque laudantium.
-  thumbnailTitle: Watch Now!
+  content: |-
+    Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından
+    nasıl özgür olur? Kitapları Çok Satan İncil Öğretmeni Joyce
+    Meyer’den, hayatınızdan zevk almanız için teşvik dolu paylaşımlar.
+    Joyce Meyer’i Kanal Hayat ekranlarından ve Youtube kanalımızdan
+    takip edebilirsiniz.
+  thumbnailTitle: İzlemek için Tıklayın!
   thumbnails:
-    - image: /images/thumbnailTemp.png
-    - image: /images/thumbnailTemp.png
-    - youtubeURL:
+    - image: /images/uploads/bigmodulejoycemayer.png
+      youtubeURL:
         description: >-
-          #Susamam - Şanışer ft. Fuat, Ados, Hayki, Server Uraz, Beta,
-          Tahribad-ı İsyan, Sokrat St, Ozbi, Deniz Tekin, Sehabe, Yeis Sensura,
-          Aspova, Defkhan, Aga B, Mirac, Mert Şenel, Kamufle
+          Tanrı'nın Sözlerini Kendi Sözlerimiz Haline Getirmek - 2
 
+          Hayatan Keyif Alın, Joyce Meyer programlarını sayfamızdan takip
+          edebilirsiniz.
 
-          Susma! Instagram’da #Susamam yüz filtresi ile hikâye çekip farkındalık
-          yaratmak için tıkla:
-          https://www.instagram.com/a/r/?effect_id=789446328120410
+          http://kanalhayat.tv/
 
+          http://www.youtube.com/kanalhayatplay
 
-          #Susamam tişörtü al, köy okullarına destek ol!
-          https://www.hollyhood.com.tr/susamam
+          https://www.facebook.com/kanalhayat
 
-
-          Spotify: https://spoti.fi/2kmQN9p
-
-
-          Klip Yönetmeni: Sarp Palaur
-
-          Altyapı: Murat Acar
-
-          Mix&Mastering: Kadim Tekin
-
-          Kapak İllüstrasyon: Aytaç Öztürk
-
-
-          Sidar Yıldırım, Ali Emre Öz, Arda Can (Dijital Dağıtım), Sadık
-          Hazırcı, Yiğit Kalkavan, Berrak Eşbeoğlu, Kaan Yıldırım ve Baret
-          Film'e katkılarından dolayı teşekkür ederiz.
-        id: L5K3IxINr7A
-        imageURL: 'https://i.ytimg.com/vi/L5K3IxINr7A/hqdefault.jpg'
+          https://twitter.com/kanalhayat
+        id: ZRmJP8je89A
+        imageURL: 'https://i.ytimg.com/vi/ZRmJP8je89A/hqdefault.jpg'
         mediaType: video
-        publishedAt: '2019-09-05T21:01:09.000Z'
-        tags:
-          - şanışer
-          - susamam
-          - fuat
-          - ados
-          - hayki
-          - server uraz
-          - beta
-          - tahribad-ı isyan
-          - Sokrat
-          - Sokrat St
-          - Ozbi
-          - Deniz Tekin
-          - Sehabe
-          - Yeis Sensura
-          - Aspova
-          - Defkhan
-          - Aga B
-          - Mirac
-          - Mert Şenel
-          - Kamufle
-        title: '#SUSAMAM'
-        url: 'https://www.youtube.com/watch?v=L5K3IxINr7A'
-        viewCount: '1929614'
+        publishedAt: '2019-04-09T11:48:43.000Z'
+        tags: >-
+          hayattan,keyif,alın,geçmişi,geçmişte,bırakmak,kanal
+          hayat,kendi,sözleriniz,haline,getirmek
+        title: >-
+          Hayattan Keyif Alın - Tanrı'nın Sözlerini Kendi Sözlerimiz Haline
+          Getirmek - 2
+        url: 'https://www.youtube.com/watch?v=ZRmJP8je89A&feature=youtu.be'
+        viewCount: '251'
+    - image: /images/uploads/bigmodulejoycemayer.png
+      youtubeURL:
+        description: >-
+          1086 2 Güçlü Düşünceler 2
+
+          Joyce Meyer'in birbirinden farklı konular hakkındaki programlarını
+          Kanal Hayat ekranından veya sayfamızdan takip edebilirsiniz.Esen
+          kalın.
+
+          http://kanalhayat.tv/
+
+          http://www.youtube.com/kanalhayatplay
+
+          https://www.facebook.com/kanalhayat
+
+          https://twitter.com/kanalhayat
+        id: NL715li-YOQ
+        imageURL: 'https://i.ytimg.com/vi/NL715li-YOQ/hqdefault.jpg'
+        mediaType: video
+        publishedAt: '2019-09-16T05:38:57.000Z'
+        tags: 'hayattan,keyif,alın,güçlü,düşünceler,joyce,meyer'
+        title: Hayattan Keyif Alın - Güçlü Düşünceler 2
+        url: 'https://www.youtube.com/watch?v=NL715li-YOQ'
+        viewCount: '90'
+    - image: /images/uploads/bigmodulejoycemayer.png
+      youtubeURL:
+        description: >-
+          Tanrı'nın Sözlerini Kendi Sözlerimiz Haline Getirmek - 2
+
+          Hayatan Keyif Alın, Joyce Meyer programlarını sayfamızdan takip
+          edebilirsiniz.
+
+          http://kanalhayat.tv/
+
+          http://www.youtube.com/kanalhayatplay
+
+          https://www.facebook.com/kanalhayat
+
+          https://twitter.com/kanalhayat
+        id: ZRmJP8je89A
+        imageURL: 'https://i.ytimg.com/vi/ZRmJP8je89A/hqdefault.jpg'
+        mediaType: video
+        publishedAt: '2019-04-09T11:48:43.000Z'
+        tags: >-
+          hayattan,keyif,alın,geçmişi,geçmişte,bırakmak,kanal
+          hayat,kendi,sözleriniz,haline,getirmek
+        title: >-
+          Hayattan Keyif Alın - Tanrı'nın Sözlerini Kendi Sözlerimiz Haline
+          Getirmek - 2
+        url: 'https://www.youtube.com/watch?v=ZRmJP8je89A&feature=youtu.be'
+        viewCount: '251'
   title: Joyce Meyer / YAZAR
 program2:
   align: right
-  bgImage: /images/uploads/bigmodulecannur.png
+  bgImage: /images/uploads/dsc01005.jpg
   color: dark
   content: >-
-    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-    doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-    veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim
-    ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-    consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Natus
-    error sit voluptatem accusantium doloremque laudantium.
-  thumbnailTitle: Watch Now!
+    Yazar olan Can Nuroğlu evli ve 3 çocuk babasıdır. Amerika’da Emmaus İncil
+    Üniversitesinde ilahiyat eğitimini tamamlamış olan Nuroğlu yaklaşık 11 yıl
+    Diyarbakır Kilisesinde hizmet edip Kutsal Kitap (Tevrat-Zebur-İncil)
+    öğretmiştir.
+
+
+    Şu an Kıbrıs’ta bulunan Nuroğlu ”Hey Gâvur Anlatsana!”, ”Yeter ki İnsan
+    Olsun!”, ”Allah Sevgidir”, ”Dünyanın Sonu”, “Sorgulayan Gelsin!” adlı
+    kitapların yazarı olmakla birlikte Kutsal Kitap’ın bölümleriyle ilgili yorum
+    kitapları yazmıştır ve yazmaya devam etmektedir. Ayrıca birçok televizyon
+    programı yapmıştır ve yeni programları için çekimlere devam edilmektedir.
+  thumbnailTitle: İzlemek için Tıklayın!
   thumbnails:
-    - youtubeURL:
+    - image: /images/uploads/screen-shot-2019-09-13-at-13.54.33.png
+      youtubeURL:
         description: >-
-          #Susamam - Şanışer ft. Fuat, Ados, Hayki, Server Uraz, Beta,
-          Tahribad-ı İsyan, Sokrat St, Ozbi, Deniz Tekin, Sehabe, Yeis Sensura,
-          Aspova, Defkhan, Aga B, Mirac, Mert Şenel, Kamufle
+          Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+          ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal
+          Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen
+          Kalın.
 
+          http://kanalhayat.tv/
 
-          Susma! Instagram’da #Susamam yüz filtresi ile hikâye çekip farkındalık
-          yaratmak için tıkla:
-          https://www.instagram.com/a/r/?effect_id=789446328120410
+          http://www.youtube.com/kanalhayatplay
 
+          https://www.facebook.com/kanalhayat
 
-          #Susamam tişörtü al, köy okullarına destek ol!
-          https://www.hollyhood.com.tr/susamam
-
-
-          Spotify: https://spoti.fi/2kmQN9p
-
-
-          Klip Yönetmeni: Sarp Palaur
-
-          Altyapı: Murat Acar
-
-          Mix&Mastering: Kadim Tekin
-
-          Kapak İllüstrasyon: Aytaç Öztürk
-
-
-          Sidar Yıldırım, Ali Emre Öz, Arda Can (Dijital Dağıtım), Sadık
-          Hazırcı, Yiğit Kalkavan, Berrak Eşbeoğlu, Kaan Yıldırım ve Baret
-          Film'e katkılarından dolayı teşekkür ederiz.
-        id: L5K3IxINr7A
-        imageURL: 'https://i.ytimg.com/vi/L5K3IxINr7A/hqdefault.jpg'
+          https://twitter.com/kanalhayat
+        id: u-fObA14Ro0
+        imageURL: 'https://i.ytimg.com/vi/u-fObA14Ro0/hqdefault.jpg'
         mediaType: video
-        publishedAt: '2019-09-05T21:01:09.000Z'
-        tags:
-          - şanışer
-          - susamam
-          - fuat
-          - ados
-          - hayki
-          - server uraz
-          - beta
-          - tahribad-ı isyan
-          - Sokrat
-          - Sokrat St
-          - Ozbi
-          - Deniz Tekin
-          - Sehabe
-          - Yeis Sensura
-          - Aspova
-          - Defkhan
-          - Aga B
-          - Mirac
-          - Mert Şenel
-          - Kamufle
-        title: '#SUSAMAM'
-        url: 'https://www.youtube.com/watch?v=L5K3IxINr7A'
-        viewCount: '1929614'
-    - image: /images/thumbnailTemp.png
+        publishedAt: '2019-04-24T14:26:48.000Z'
+        tags: >-
+          hristiyan,ahlakı nedir?,haçlı
+          seferleri,misyonerler,savaşlar,müslümanlar,kudüs,hristiyanlık ve
+          savaş?,incil,savaş ayetleri,ordu,haçlı,haç ve hilal
+          savaşı,tevrat,zebur
+        title: Hristiyan Ahlakı - Hristiyanlık ve Savaşlar
+        url: >-
+          https://www.youtube.com/watch?v=u-fObA14Ro0&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=7
+        viewCount: '462'
+    - image: /images/uploads/screen-shot-2019-09-13-at-13.54.33.png
+      youtubeURL:
+        description: >-
+          Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+          ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal
+          Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen
+          Kalın.
+
+          http://kanalhayat.tv/
+
+          http://www.youtube.com/kanalhayatplay
+
+          https://www.facebook.com/kanalhayat
+
+          https://twitter.com/kanalhayat
+        id: kZn36OuSCqc
+        imageURL: 'https://i.ytimg.com/vi/kZn36OuSCqc/hqdefault.jpg'
+        mediaType: video
+        publishedAt: '2019-04-09T11:36:45.000Z'
+        tags: >-
+          hristiyan,ahlakı,nedir?,hırsızlık,kavramına,bakış açımız
+          ?,incil,ahlak,mübarek,insan olmak
+        title: Hristiyan Ahlakı - Hristiyanlığın "Hırsızlık" Kavramına Bakışı Nedir?
+        url: >-
+          https://www.youtube.com/watch?v=kZn36OuSCqc&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=8
+        viewCount: '374'
   title: Can Nuroglu / BASKA YAZAR
 ---
 

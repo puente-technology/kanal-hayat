@@ -10,6 +10,7 @@ import SeriesList from '../components/SeriesList';
 
 // Export Default HomePage for front-end
 const SeriesListPage = (data) => {
+  const hosts = data.data.hosts.edges
   let { edges } = data.data.allMarkdownRemark
   edges = {
     // title: edges[0].node && edges[0].node.frontmatter.title,
@@ -18,7 +19,7 @@ const SeriesListPage = (data) => {
   }
   return (
     <LayoutComp>
-      <SeriesList data={edges} />
+      <SeriesList data={edges} hosts={hosts} />
     </LayoutComp>
 
   )
@@ -57,6 +58,19 @@ query SeriesList {
           publishDate
           title
           coverImage
+        }
+      }
+    }
+  }
+  hosts: allMarkdownRemark(filter: {fields: {contentType: {regex: "/hosts/"}}}) {
+    edges {
+      node {
+        fields {
+          slug
+          contentType
+        }
+        frontmatter {
+          host
         }
       }
     }

@@ -1,7 +1,12 @@
+/* eslint-disable array-callback-return */
+/* eslint-disable consistent-return */
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+import { connect } from 'react-redux';
+import { Link } from 'gatsby';
 import './PlayerInfo.css';
 import Carousel from './PlayerCarousel';
+
 
 const arrovSvg = require('../../static/images/expand.svg');
 
@@ -14,11 +19,27 @@ class PlayerInfoExpand extends Component {
     frontmatter: PropTypes.any,
     playerIndex: PropTypes.any,
     handleVideoUrlChange: PropTypes.any,
+    hosts: PropTypes.any,
   };
 
   constructor(props) {
     super(props);
     this.state = {};
+  }
+
+  getHostUrl = (hostName) => {
+    const { hosts } = this.props
+    console.log(hosts)
+    if (hosts) {
+      const result = hosts.map((el) => {
+        const { fields, frontmatter } = el.node
+        if (frontmatter.host === hostName) {
+          console.log(fields.slug)
+          return fields.slug
+        }
+      })
+      return result
+    }
   }
 
   render() {
@@ -64,7 +85,11 @@ class PlayerInfoExpand extends Component {
               Host:
             </p>
             <p className="player-info-text-lighter">
-              {frontmatter.host || ''}
+              <Link
+                to={this.getHostUrl(frontmatter.host)}
+              >
+                {frontmatter.host || ''}
+              </Link>
             </p>
           </div>
           <div className="player-info-info-div">
@@ -130,4 +155,7 @@ class PlayerInfoExpand extends Component {
   }
 }
 
-export default PlayerInfoExpand;
+export default connect(state => ({
+  test: state,
+  hosts: state.app.hosts,
+}), null)(PlayerInfoExpand)

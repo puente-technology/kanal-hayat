@@ -49,6 +49,7 @@ class LayoutComp extends PureComponent {
                 playerIndex={index}
                 handleCloseClick={handleCloseClick}
                 frontmatter={frontmatter}
+                isCollapsedControl
               />
             )
           }

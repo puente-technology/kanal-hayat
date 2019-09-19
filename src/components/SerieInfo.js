@@ -1,4 +1,6 @@
-import React, { Component } from 'react'
+/* eslint-disable array-callback-return */
+/* eslint-disable consistent-return */
+import React, { PureComponent } from 'react'
 import { Link } from 'gatsby';
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types'
@@ -6,12 +8,14 @@ import { nFormatter } from '../utils/utils';
 import { toggleDarkMode } from '../state/app';
 
 
-class SerieInfo extends Component {
+class SerieInfo extends PureComponent {
   static propTypes = {
     frontmatter: PropTypes.any,
     handleCardCloseClick: PropTypes.any,
     slug: PropTypes.any,
     dispatch: PropTypes.any,
+    durations: PropTypes.any,
+    hosts: PropTypes.any,
   };
 
   constructor(props) {
@@ -21,10 +25,39 @@ class SerieInfo extends Component {
     };
   }
 
+  getDuration = (episode) => {
+    const { durations } = this.props
+    const result = durations.map((el) => {
+      if (el[episode.youtubeURL.id]) {
+        return el[episode.youtubeURL.id]
+      }
+    })
+    return result
+  }
+
+  getHostUrl = (hostName) => {
+    const { hosts } = this.props
+    console.log(hosts)
+    if (hosts) {
+      const result = hosts.map((el) => {
+        const { fields, frontmatter } = el.node
+        if (frontmatter.host === hostName) {
+          return fields.slug
+        }
+      })
+      return result
+    }
+  }
+
   hanndlePlayClick = (e) => {
-    const { dispatch, frontmatter } = this.props
-    const { episodes } = frontmatter;
-    const { episode, index } = JSON.parse(e.target.parentElement.value)
+    const {
+      dispatch,
+      frontmatter,
+      durations,
+      hosts,
+    } = this.props
+    const { episodes } = frontmatter
+    const { episode, index } = JSON.parse(e.target.value)
     this.setState({ isOpen: true })
     dispatch(toggleDarkMode(
       episode,
@@ -34,6 +67,9 @@ class SerieInfo extends Component {
       frontmatter,
       this.handleCloseClick,
       false,
+      durations,
+      false,
+      hosts,
     ))
   }
 
@@ -57,7 +93,11 @@ class SerieInfo extends Component {
           {frontmatter.title}
         </div>
         <div className="InformationHost">
-          {frontmatter.host}
+          <Link
+            to={this.getHostUrl(frontmatter.host)}
+          >
+            {frontmatter.host}
+          </Link>
         </div>
         <div className="InformationDesc">
           {frontmatter.description.slice(0, 500)}
@@ -86,7 +126,9 @@ class SerieInfo extends Component {
                   }}
                   className="EpisodeVideo"
                 >
-                  <div className="playParavan" />
+                  <div className="playParavan">
+                    {this.getDuration(episode)}
+                  </div>
                 </button>
                 <div className="minicontainer">
                   <span className="subminititle">
@@ -94,7 +136,7 @@ class SerieInfo extends Component {
                   </span>
                   <span className="details">
                     <span>
-                      KanalHayat
+                    KanalHayat
                     </span>
                     <span style={{ paddingLeft: '15px' }}>
                       {`• ${nFormatter(episode.youtubeURL.viewCount)}`}
@@ -113,4 +155,7 @@ class SerieInfo extends Component {
 }
 export default connect(state => ({
   test: state,
+  shouldInit: state.app.shouldInit,
+  durations: state.app.durations,
+  hosts: state.app.hosts,
 }), null)(SerieInfo)

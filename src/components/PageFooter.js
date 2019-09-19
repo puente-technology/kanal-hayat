@@ -20,6 +20,13 @@ const menuItems = {
   canli: 'CANLI İZLE',
 }
 
+const iconsLink = {
+  youtube: 'https://www.youtube.com/user/kanalhayatplay',
+  twitter: 'https://twitter.com/kanalhayat',
+  facebook: 'https://www.facebook.com/kanalhayat',
+}
+
+
 const menuItemsLinks = {
   izle: 'series',
   yayinAkisi: 'events',
@@ -129,7 +136,9 @@ export class PageFooter extends Component {
           <div className="iconsColmStyle">
             {
               Object.entries(icons).map(([key, val]) => (
-                <img alt={key} className="iconStyle" key={key} src={val} />
+                <a href={iconsLink[key]} rel="noopener noreferrer" target="_blank">
+                  <img alt={key} className="iconStyle" key={key} src={val} />
+                </a>
               ))
             }
           </div>

@@ -53,7 +53,6 @@ $level1-left: 125px;
     width: $level1-width;
     line-height: $level1-height;
     left: $level-1-left;
-    margin-top: 10px;
 }
 
 .level0 {
@@ -67,7 +66,6 @@ $level1-left: 125px;
     height: $level1-height;
     width: $level1-width;
     line-height: $level1-height;
-    margin-top: 10px;
     left: $level1-left;
 }
 
@@ -78,7 +76,6 @@ $level1-left: 125px;
     height: $level1-height - 30;
     width: $level1-width - 20;
     line-height: $level1-height - 30;
-    margin-top: 40px;
 }
 
 .left-enter.left-enter-active {
@@ -87,7 +84,6 @@ $level1-left: 125px;
     height: $level1-height;
     width: $level1-width;
     line-height: $level1-height;
-    margin-top: 10px;
     transition: left 1s, opacity 1s, height 1s, width 1s, margin-top 1s, line-height 1s;
 }
 
@@ -97,15 +93,13 @@ $level1-left: 125px;
     height: $level1-height;
     width: $level1-width;
     line-height: $level1-height;
-    margin-top: 25px;
 }
 
 .left-leave.left-leave-active {
     left: $level-1-left + $level1-width + 20;
     opacity: 0;
-    height: $level1-height - 30;
-    line-height: 120px;
-    margin-top: 40px;
+    height: $level1-height;
+    line-height: $level1-height;
     width: $level1-width - 20;
     transition: left 1s, opacity 1s, height 1s, width 1s, margin-top 1s, line-height 1s;
 }
@@ -116,14 +110,12 @@ $level1-left: 125px;
     height: $level1-height - 30;
     width: $level1-width - 20;
     line-height: $level1-height - 30;
-    margin-top: 40px;
 }
 
 .right-enter.right-enter-active {
     left: $level-1-left;
     opacity: 1;
     height: $level1-height;
-    margin-top: 10px;
     line-height: $level1-height;
     width: $level1-width;
     transition: left 1s, opacity 1s, height 1s, width 1s, margin-top 1s, line-height 1s;
@@ -133,7 +125,6 @@ $level1-left: 125px;
     left: $level1-left;
     height: $level1-height;
     opacity: 1;
-    margin-top: 25px;
     line-height: $level1-height;
     width: $level1-width;
 }
@@ -141,10 +132,9 @@ $level1-left: 125px;
 .right-leave.right-leave-active {
     left: $level1-width - $level1-width - 20;
     opacity: 0;
-    height: $level1-height - 30;
+    height: $level1-height;
     width: $level1-width - 20;
-    line-height: $level1-height - 30;
-    margin-top: 25px;
+    line-height: $level1-height;
     transition: left 1s, opacity 1s, height 1s, width 1s, margin-top 1s, line-height 1s;
 }
 
