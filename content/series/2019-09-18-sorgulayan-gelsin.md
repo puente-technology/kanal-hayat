@@ -182,5 +182,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=fNwGZQqarrQ&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=7&t=0s
       viewCount: '589'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Din insanların afyonu mudur? - [Sorgulayan Gelsin 07]
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Sorgulayan
+        Gelsin" programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: 7AsaBI01hyM
+      imageURL: 'https://i.ytimg.com/vi/7AsaBI01hyM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-29T14:03:43.000Z'
+      tags: 'Hristiyan,Hristiyanlık,#din,#insanların,#afyonu,#mu?,#sorgulayan,#gelsin'
+      title: 'Din insanların afyonu mudur? - [Sorgulayan Gelsin 07]'
+      url: >-
+        https://www.youtube.com/watch?v=7AsaBI01hyM&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=8&t=0s
+      viewCount: '1594'
 ---
 
