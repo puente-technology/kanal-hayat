@@ -3,25 +3,25 @@ template: HomePage
 slug: ''
 title: Main Slider
 gallery:
+  - align: center
+    alt: Hakan Taştan ile
+    color: light
+    image: /images/uploads/dsc01143.jpg
+    title: Gerçeğin Sesi
+  - align: right
+    alt: Ahmet Güvener ile
+    color: light
+    image: /images/uploads/_dsc1607.jpg
+    title: 'Hristiyan Şeriatı '
   - align: right
     alt: Can Nuroglu
     color: light
     image: /images/uploads/dsc01008.jpg
     title: Hristiyan Ahlakı
-  - align: center
-    alt: Gerçeğin Sesi
-    color: dark
-    image: /images/uploads/dsc01143.jpg
-    title: Hakan Taştan ile
-  - align: right
-    alt: Hristiyan Şeriatı
-    color: light
-    image: /images/uploads/_dsc1607.jpg
-    title: Ahmet Güvener ile
 program1:
-  align: left
-  bgImage: /images/uploads/meyer-2.jpg
-  color: dark
+  align: right
+  bgImage: /images/uploads/joyce-meyer-3.jpg
+  color: light
   content: |-
     Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından
     nasıl özgür olur? Kitapları Çok Satan İncil Öğretmeni Joyce
@@ -30,7 +30,7 @@ program1:
     takip edebilirsiniz.
   thumbnailTitle: İzlemek için Tıklayın!
   thumbnails:
-    - image: /images/uploads/bigmodulejoycemayer.png
+    - image: /images/uploads/joyce-meyer-3.jpg
       youtubeURL:
         description: >-
           Tanrı'nın Sözlerini Kendi Sözlerimiz Haline Getirmek - 2
@@ -57,7 +57,7 @@ program1:
           Getirmek - 2
         url: 'https://www.youtube.com/watch?v=ZRmJP8je89A&feature=youtu.be'
         viewCount: '251'
-    - image: /images/uploads/bigmodulejoycemayer.png
+    - image: /images/uploads/joyce-meyer-3.jpg
       youtubeURL:
         description: >-
           1086 2 Güçlü Düşünceler 2
@@ -81,7 +81,7 @@ program1:
         title: Hayattan Keyif Alın - Güçlü Düşünceler 2
         url: 'https://www.youtube.com/watch?v=NL715li-YOQ'
         viewCount: '90'
-    - image: /images/uploads/bigmodulejoycemayer.png
+    - image: /images/uploads/joyce-meyer-3.jpg
       youtubeURL:
         description: >-
           Tanrı'nın Sözlerini Kendi Sözlerimiz Haline Getirmek - 2
@@ -108,7 +108,7 @@ program1:
           Getirmek - 2
         url: 'https://www.youtube.com/watch?v=ZRmJP8je89A&feature=youtu.be'
         viewCount: '251'
-  title: Joyce Meyer / YAZAR
+  title: Joyce Meyer / Vaiz
 program2:
   align: right
   bgImage: /images/uploads/dsc01005.jpg
@@ -181,6 +181,6 @@ program2:
         url: >-
           https://www.youtube.com/watch?v=kZn36OuSCqc&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=8
         viewCount: '374'
-  title: Can Nuroglu / BASKA YAZAR
+  title: Can Nuroglu / YAZAR
 ---
 
