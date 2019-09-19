@@ -239,5 +239,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=5Q_1qY_kKg4&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6&index=8&t=0s
       viewCount: '63264'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Hey Gavur! Anlatsana...8- Hristiyanlıkta Kıyamet, Ahiret, Yargı Günü
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur!
+        Anlatsana." programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: Zs5y3xWQ6l8
+      imageURL: 'https://i.ytimg.com/vi/Zs5y3xWQ6l8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-04-16T11:20:21.000Z'
+      tags: >-
+        hristiyan,isa mesih,incil,hz isa,hristiyanlık,kilise,vaftiz,kutsal
+        kitap,tevrat,zebur,kutsal ruh,Rab,Kurdistan,Darwin,güçlü erman,zekeriya
+        butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
+        Hayat,Pusula,kiyamet gunu,gavur
+      title: '8- Hristiyanlıkta Kıyamet, Ahiret, Yargı Günü'
+      url: >-
+        https://www.youtube.com/watch?v=Zs5y3xWQ6l8&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6&index=9&t=0s
+      viewCount: '22772'
 ---
 
