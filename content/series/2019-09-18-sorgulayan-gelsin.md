@@ -50,5 +50,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=5Qe7222lmbA&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=2&t=0s
       viewCount: '6777'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Tanrı’ya inanmak mantıklı mı? - [Sorgulayan Gelsin 02]
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Sorgulayan
+        Gelsin" programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: OB6eboZImbQ
+      imageURL: 'https://i.ytimg.com/vi/OB6eboZImbQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-13T06:28:27.000Z'
+      tags: >-
+        Hristiyan,Hristiyanlık,#sorgulayan,#gelsin,#tanrıyı,#sorgulamak,#günah,#mı?,#tanrıya,#inanmak,#mantık
+      title: 'Tanrı’ya inanmak mantıklı mı? - [Sorgulayan Gelsin 02]'
+      url: >-
+        https://www.youtube.com/watch?v=OB6eboZImbQ&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=3&t=0s
+      viewCount: '2089'
 ---
 
