@@ -232,5 +232,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=iRqULkT6llk&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=9&t=0s
       viewCount: '229'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        9- Bir Erkek Çocuğu Nasıl Adam Olur?
+
+        Işık Abla'nın "Kralın Oğulları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: CEn5ZF6a7ks
+      imageURL: 'https://i.ytimg.com/vi/CEn5ZF6a7ks/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-06T06:15:54.000Z'
+      tags: '#adam,#olmak,#başarılı,#baba,#kimdir?,#kralın,#oğulları,#sevmek,#stress'
+      title: 9- Bir Erkek Çocuğu Nasıl Adam Olur?
+      url: >-
+        https://www.youtube.com/watch?v=CEn5ZF6a7ks&list=PLQfi14V3hH0JfN7t3z6YGo05whGsD3-zA&index=10&t=0s
+      viewCount: '539'
 ---
 
