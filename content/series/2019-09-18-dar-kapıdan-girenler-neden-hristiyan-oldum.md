@@ -281,6 +281,7 @@ episodes:
 
         https://twitter.com/kanalhayat
       id: t_lk02bIxjk
+      duration: PT28M52S
       imageURL: 'https://i.ytimg.com/vi/t_lk02bIxjk/hqdefault.jpg'
       mediaType: video
       publishedAt: '2018-12-01T22:15:55.000Z'
