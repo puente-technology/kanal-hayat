@@ -10,8 +10,8 @@ language: '0'
 selectedCategories:
   - Öğretim
 episodes:
-  - season: '1'
-    guests: ''
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: |-
         "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
@@ -21,6 +21,7 @@ episodes:
         http://www.youtube.com/kanalhayatplay
         https://www.facebook.com/kanalhayat
         https://twitter.com/kanalhayat
+      duration: PT27M52S
       id: gAZXHL8FIbE
       imageURL: 'https://i.ytimg.com/vi/gAZXHL8FIbE/hqdefault.jpg'
       mediaType: video
@@ -29,9 +30,9 @@ episodes:
       title: Mânâ Sohbetleri - Yol'un İlkeleri
       url: >-
         https://www.youtube.com/watch?v=gAZXHL8FIbE&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=4&t=0s
-      viewCount: '304'
-  - season: '1'
-    guests: ''
+      viewCount: '307'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: |-
         "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
@@ -41,6 +42,7 @@ episodes:
         http://www.youtube.com/kanalhayatplay
         https://www.facebook.com/kanalhayat
         https://twitter.com/kanalhayat
+      duration: PT27M52S
       id: gAZXHL8FIbE
       imageURL: 'https://i.ytimg.com/vi/gAZXHL8FIbE/hqdefault.jpg'
       mediaType: video
@@ -49,6 +51,6 @@ episodes:
       title: Mânâ Sohbetleri - Yol'un İlkeleri
       url: >-
         https://www.youtube.com/watch?v=gAZXHL8FIbE&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=4&t=0s
-      viewCount: '304'
+      viewCount: '307'
 ---
 
