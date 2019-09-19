@@ -54,5 +54,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Ui3sELeZ8vE&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6&index=2&t=0s
       viewCount: '38548'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Hey Gavur! Anlatsana... 2-Misyonerler ve Hristiyanların Çıkardığı
+        Savaşlar
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur!
+        Anlatsana." programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: 5OaUWWmnzSQ
+      imageURL: 'https://i.ytimg.com/vi/5OaUWWmnzSQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-02-10T18:58:28.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 2-Misyonerler ve Hristiyanların Çıkardığı Savaşlar
+      url: >-
+        https://www.youtube.com/watch?v=5OaUWWmnzSQ&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6&index=3&t=0s
+      viewCount: '5988'
 ---
 
