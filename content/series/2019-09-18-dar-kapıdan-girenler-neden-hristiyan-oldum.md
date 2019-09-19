@@ -614,7 +614,6 @@ episodes:
         https://www.facebook.com/kanalhayat.tv
 
         https://twitter.com/kanalhayat
-      duration: ''
       id: PwHhXNwo4A4
       duration: PT28M52S
       imageURL: 'https://i.ytimg.com/vi/PwHhXNwo4A4/hqdefault.jpg'
