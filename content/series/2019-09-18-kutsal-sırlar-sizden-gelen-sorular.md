@@ -342,5 +342,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=NL6AcMzGyNk&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=10
       viewCount: '743'
+  - season: '1'
+    youtubeURL:
+      description: >-
+        Kıtsal sırlar 11. Bölüm soruları
+
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      id: im1OTyE5QNQ
+      imageURL: 'https://i.ytimg.com/vi/im1OTyE5QNQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-07-19T07:22:26.000Z'
+      tags: 'kutsal,sırlar,kanal,hayat'
+      title: Kutsal Sırlar - Bölüm 11
+      url: >-
+        https://www.youtube.com/watch?v=im1OTyE5QNQ&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=11
+      viewCount: '1457'
 ---
 
