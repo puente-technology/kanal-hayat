@@ -3,151 +3,129 @@ template: HomePage
 slug: ''
 title: Main Slider
 gallery:
+  - align: center
+    alt: Hakan Taştan ile
+    color: light
+    image: /images/uploads/dsc01143.jpg
+    title: Gerçeğin Sesi
+  - align: right
+    alt: Ahmet Güvener ile
+    color: light
+    image: /images/uploads/_dsc1607.jpg
+    title: 'Hristiyan Şeriatı '
   - align: right
     alt: Can Nuroglu
     color: light
-    image: /images/uploads/slider1.png
+    image: /images/uploads/dsc01008.jpg
     title: Hristiyan Ahlakı
-  - align: center
-    alt: Ali'nin Öyküsü
-    color: dark
-    image: /images/uploads/slider2.png
-    title: Ali'nin Öyküsü
-  - align: right
-    alt: Labirent
-    color: light
-    image: /images/uploads/slider3.png
-    title: Devam Etmek
 program1:
-  align: left
-  bgImage: /images/uploads/bigmodulejoycemayer.png
-  color: dark
-  content: >-
-    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-    doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-    veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim
-    ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-    consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Natus
-    error sit voluptatem accusantium doloremque laudantium.
-  thumbnailTitle: Watch Now!
+  align: right
+  bgImage: /images/uploads/joyce-meyer-3.jpg
+  color: light
+  content: |-
+    Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından
+    nasıl özgür olur? Kitapları Çok Satan İncil Öğretmeni Joyce
+    Meyer’den, hayatınızdan zevk almanız için teşvik dolu paylaşımlar.
+    Joyce Meyer’i Kanal Hayat ekranlarından ve Youtube kanalımızdan
+    takip edebilirsiniz.
+  thumbnailTitle: İzlemek için Tıklayın!
   thumbnails:
-    - image: /images/uploads/joyce.jpg
+    - image: /images/uploads/joyce-meyer-3.jpg
       youtubeURL:
         description: >-
-          #joycemeyers2019
+          Tanrı'nın Sözlerini Kendi Sözlerimiz Haline Getirmek - 2
 
-          #joycemeyer
+          Hayatan Keyif Alın, Joyce Meyer programlarını sayfamızdan takip
+          edebilirsiniz.
 
-          #God
+          http://kanalhayat.tv/
 
-          What is Sin? - Part 1
+          http://www.youtube.com/kanalhayatplay
 
-          With God's help, we can become better versions of ourselves. Learn how
-          you can achieve your God-given purpose in life by growing spiritually
-          day by day.
+          https://www.facebook.com/kanalhayat
 
-
-
-
-
-
-
-
-          joyce meyers 2019, joyce meyer, joyce meyer 2019, joyce meyers, joyce
-          meyer sermons, 
-
-          joyce meyer sermons 2019, 
-
-          joyce meyers 2018, 
-
-          joyce meyer right and wrong mindsets, 
-
-          joyce meyers 2019 sermons, Pastor, New, Sacermons, 
-
-          Bishop, Bible, Preacher, Preaching, Ministry, god
-        id: wp6H2O2tzhk
-        imageURL: 'https://i.ytimg.com/vi/wp6H2O2tzhk/hqdefault.jpg'
+          https://twitter.com/kanalhayat
+        id: ZRmJP8je89A
+        imageURL: 'https://i.ytimg.com/vi/ZRmJP8je89A/hqdefault.jpg'
         mediaType: video
-        publishedAt: '2019-09-01T08:00:13.000Z'
+        publishedAt: '2019-04-09T11:48:43.000Z'
         tags: >-
-          joyce meyers 2019,joyce meyer,joyce meyer 2019,joyce meyers,joyce
-          meyer sermons,joyce meyer sermons 2019,joyce meyers 2018,joyce meyer
-          right and wrong mindsets,joyce meyers 2019
-          sermons,Pastor,New,Sacermons,Bishop,Bible,Preacher,Preaching,Ministry,god
-        title: Joyce Meyers 2019 - What is Sin? - Part 1
-        url: 'https://www.youtube.com/watch?v=wp6H2O2tzhk'
-        viewCount: '18338'
-    - image: /images/uploads/joyce.jpg
+          hayattan,keyif,alın,geçmişi,geçmişte,bırakmak,kanal
+          hayat,kendi,sözleriniz,haline,getirmek
+        title: >-
+          Hayattan Keyif Alın - Tanrı'nın Sözlerini Kendi Sözlerimiz Haline
+          Getirmek - 2
+        url: 'https://www.youtube.com/watch?v=ZRmJP8je89A&feature=youtu.be'
+        viewCount: '251'
+    - image: /images/uploads/joyce-meyer-3.jpg
       youtubeURL:
         description: >-
-          #joycemeyers2019
+          1086 2 Güçlü Düşünceler 2
 
-          #joycemeyer
+          Joyce Meyer'in birbirinden farklı konular hakkındaki programlarını
+          Kanal Hayat ekranından veya sayfamızdan takip edebilirsiniz.Esen
+          kalın.
 
-          #God
+          http://kanalhayat.tv/
 
+          http://www.youtube.com/kanalhayatplay
 
+          https://www.facebook.com/kanalhayat
 
-
-
-
-
-
-
-          joyce meyers 2019, joyce meyer, joyce meyer 2019, joyce meyers, joyce
-          meyer sermons, 
-
-          joyce meyer sermons 2019, 
-
-          joyce meyers 2018, 
-
-          joyce meyer right and wrong mindsets, 
-
-          joyce meyers 2019 sermons, Pastor, New, Sacermons, 
-
-          Bishop, Bible, Preacher, Preaching, Ministry, god
-        id: h1jFsNxT7Hw
-        imageURL: 'https://i.ytimg.com/vi/h1jFsNxT7Hw/hqdefault.jpg'
+          https://twitter.com/kanalhayat
+        id: NL715li-YOQ
+        imageURL: 'https://i.ytimg.com/vi/NL715li-YOQ/hqdefault.jpg'
         mediaType: video
-        publishedAt: '2019-08-27T08:45:53.000Z'
-        tags: >-
-          joyce meyers 2019,joyce meyer,joyce meyer 2019,joyce meyers,joyce
-          meyer sermons,joyce meyer sermons 2019,joyce meyers 2018,joyce meyer
-          right and wrong mindsets,joyce meyers 2019
-          sermons,Pastor,New,Sacermons,Bishop,Bible,Preacher,Preaching,Ministry,god
-        title: Joyce Meyers 2019 - How Is Your Mental Health?
-        url: 'https://www.youtube.com/watch?v=h1jFsNxT7Hw'
-        viewCount: '55096'
-    - image: /images/uploads/joyce.jpg
+        publishedAt: '2019-09-16T05:38:57.000Z'
+        tags: 'hayattan,keyif,alın,güçlü,düşünceler,joyce,meyer'
+        title: Hayattan Keyif Alın - Güçlü Düşünceler 2
+        url: 'https://www.youtube.com/watch?v=NL715li-YOQ'
+        viewCount: '90'
+    - image: /images/uploads/joyce-meyer-3.jpg
       youtubeURL:
-        description: Joyce Meyer
-        id: wq324Njd1F0
-        imageURL: 'https://i.ytimg.com/vi/wq324Njd1F0/hqdefault.jpg'
+        description: >-
+          Tanrı'nın Sözlerini Kendi Sözlerimiz Haline Getirmek - 2
+
+          Hayatan Keyif Alın, Joyce Meyer programlarını sayfamızdan takip
+          edebilirsiniz.
+
+          http://kanalhayat.tv/
+
+          http://www.youtube.com/kanalhayatplay
+
+          https://www.facebook.com/kanalhayat
+
+          https://twitter.com/kanalhayat
+        id: ZRmJP8je89A
+        imageURL: 'https://i.ytimg.com/vi/ZRmJP8je89A/hqdefault.jpg'
         mediaType: video
-        publishedAt: '2014-08-08T14:15:42.000Z'
+        publishedAt: '2019-04-09T11:48:43.000Z'
         tags: >-
-          Joyce Meyer (Organization
-          Leader),Bible,Gospel,answers,spirituality,help,Spirit,inspiration,joyce
-          meyer,joyce meyer sermons,joyce meyer ministries,bible,everyday
-          living,confident woman,emotions,joyce meyer 2016,joyce meyer
-          exposed,joyce meyer relationships,spending time with
-          god,marriage,discipline,devil,Jesus,God,answer,truth,forgiveness,satan,evil,hope,love,faith,scriptures,sermon,life,motivation,gospel
-        title: God Hears and Answers by Joyce Meyer
-        url: 'https://www.youtube.com/watch?v=wq324Njd1F0'
-        viewCount: '529458'
-  title: Joyce Meyer / YAZAR
+          hayattan,keyif,alın,geçmişi,geçmişte,bırakmak,kanal
+          hayat,kendi,sözleriniz,haline,getirmek
+        title: >-
+          Hayattan Keyif Alın - Tanrı'nın Sözlerini Kendi Sözlerimiz Haline
+          Getirmek - 2
+        url: 'https://www.youtube.com/watch?v=ZRmJP8je89A&feature=youtu.be'
+        viewCount: '251'
+  title: Joyce Meyer / Vaiz
 program2:
   align: right
-  bgImage: /images/uploads/bigmodulecannur.png
+  bgImage: /images/uploads/dsc01005.jpg
   color: dark
   content: >-
-    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-    doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-    veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim
-    ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-    consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Natus
-    error sit voluptatem accusantium doloremque laudantium.
-  thumbnailTitle: Watch Now!
+    Yazar olan Can Nuroğlu evli ve 3 çocuk babasıdır. Amerika’da Emmaus İncil
+    Üniversitesinde ilahiyat eğitimini tamamlamış olan Nuroğlu yaklaşık 11 yıl
+    Diyarbakır Kilisesinde hizmet edip Kutsal Kitap (Tevrat-Zebur-İncil)
+    öğretmiştir.
+
+
+    Şu an Kıbrıs’ta bulunan Nuroğlu ”Hey Gâvur Anlatsana!”, ”Yeter ki İnsan
+    Olsun!”, ”Allah Sevgidir”, ”Dünyanın Sonu”, “Sorgulayan Gelsin!” adlı
+    kitapların yazarı olmakla birlikte Kutsal Kitap’ın bölümleriyle ilgili yorum
+    kitapları yazmıştır ve yazmaya devam etmektedir. Ayrıca birçok televizyon
+    programı yapmıştır ve yeni programları için çekimlere devam edilmektedir.
+  thumbnailTitle: İzlemek için Tıklayın!
   thumbnails:
     - image: /images/uploads/screen-shot-2019-09-13-at-13.54.33.png
       youtubeURL:
@@ -203,6 +181,6 @@ program2:
         url: >-
           https://www.youtube.com/watch?v=kZn36OuSCqc&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=8
         viewCount: '374'
-  title: Can Nuroglu / BASKA YAZAR
+  title: Can Nuroglu / YAZAR
 ---
 

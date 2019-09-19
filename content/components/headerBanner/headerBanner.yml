@@ -1,15 +1,15 @@
 list:
-  - image: /images/uploads/pagecontact.png
+  - image: /images/uploads/hakkımızda-header.jpg
     title: KANAL HAYAT HAKKINDA
-  - image: /images/uploads/pageaboutus.png
+  - image: /images/uploads/iletişim.jpg
     title: İletişim
   - image: 'https://i.ibb.co/xHDqcZm/km.png'
     title: Test
   - image: 'https://i.ibb.co/xHDqcZm/km.png'
     title: Test2
-  - image: /images/uploads/audience-bg.png
+  - image: /images/uploads/yayın-akışı.jpg
     title: Yayın Akışı
   - image: /images/uploads/pageaboutus.png
     title: Seriler
-  - image: /images/uploads/bible.png
+  - image: /images/uploads/kutsal-kitap-incil.jpg
     title: BİLGİ EDİN

@@ -6,6 +6,8 @@ import SerieCard from './SerieCard';
 import SerieInfo from './SerieInfo';
 import Categories from './Categories';
 
+const rightArrow = require('../../static/images/right-arrow-black.svg');
+
 class SeriesList extends Component {
   constructor(props) {
     super(props)
@@ -16,6 +18,8 @@ class SeriesList extends Component {
     expandedDiv: '',
     selectedCategories: [],
     listSeries: [],
+    scrollLeftPosition: 0,
+    scrollLeftMax: 1,
   }
 
   componentDidMount() {
@@ -149,11 +153,19 @@ class SeriesList extends Component {
     this.setState({ listSeries: res })
   }
 
+  handleScroll = (e) => {
+    const elem = e.target;
+    const scrollLeftMax = elem.scrollWidth - elem.clientWidth;
+    this.setState(() => ({ scrollLeftMax, scrollLeftPosition: elem.scrollLeft }));
+  }
+
   render() {
     const {
       expandedDiv,
       selectedCategories,
       listSeries,
+      scrollLeftMax,
+      scrollLeftPosition,
     } = this.state;
     const { hosts } = this.props
     const renderSeries = []
@@ -222,8 +234,36 @@ class SeriesList extends Component {
     }
     return (
       <div className="Series">
-        <div className="SeriesListCategories">
+        <div className="SeriesListCategories" onScroll={this.handleScroll}>
+          { scrollLeftPosition > 20 && scrollLeftPosition <= scrollLeftMax
+          && (
+          <div className="categoryArrowLeft">
+            <button
+              type="button"
+              style={{
+                background: `url(${rightArrow}) no-repeat`,
+                backgroundSize: 'contain',
+                border: 'none',
+              }}
+              className="left-arrow"
+            />
+          </div>
+          )}
           <Categories onClick={this.handleCategoryClick} selectedCategories={selectedCategories} />
+          { scrollLeftPosition < scrollLeftMax
+          && (
+          <div className="categoryArrowRight">
+            <button
+              type="button"
+              style={{
+                background: `url(${rightArrow}) no-repeat`,
+                backgroundSize: 'contain',
+                border: 'none',
+              }}
+              className="right-arrow"
+            />
+          </div>
+          )}
         </div>
         <div className="SeriesListSortAndFilter">
           <button value="title" onClick={this.handleSortByClick} type="button" className="SortButton">İsim</button>

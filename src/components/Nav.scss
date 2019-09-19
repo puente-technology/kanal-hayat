@@ -2,11 +2,13 @@
   position: absolute;
   top: 0;
   z-index: 1;
+  width: 100%
 }
 
 .Nav--Container {
   display: flex;
   align-items: center;
+  justify-content: center;
   height: 6rem;
 }
 
@@ -56,7 +58,7 @@
   border-bottom: 2px solid;
   border-bottom-color: transparent;
   padding-top: 3px;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 18px;
 }
 
