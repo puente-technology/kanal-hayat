@@ -88,9 +88,8 @@ class SeriesPage extends Component {
               <div className="minicontainer">
                 <span className="subminititle">
                   <span className="title">
-                    {`${episode.youtubeURL.title.slice(0, 25)}: `}
+                    {`${episode.youtubeURL.title}`}
                   </span>
-                  {`${episode.youtubeURL.description.slice(0, 25)}`}
                 </span>
                 <span className="details">
                   <span>
