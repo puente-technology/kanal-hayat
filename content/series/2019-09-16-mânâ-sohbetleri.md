@@ -42,7 +42,7 @@ episodes:
         http://www.youtube.com/kanalhayatplay
         https://www.facebook.com/kanalhayat
         https://twitter.com/kanalhayat
-      duration: PT27M52S
+      duration: ''
       id: gAZXHL8FIbE
       imageURL: 'https://i.ytimg.com/vi/gAZXHL8FIbE/hqdefault.jpg'
       mediaType: video
@@ -51,6 +51,6 @@ episodes:
       title: Mânâ Sohbetleri - Yol'un İlkeleri
       url: >-
         https://www.youtube.com/watch?v=gAZXHL8FIbE&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=4&t=0s
-      viewCount: '307'
+      viewCount: '304'
 ---
 
