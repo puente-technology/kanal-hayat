@@ -19,8 +19,8 @@ gallery:
     image: /images/uploads/dsc01008.jpg
     title: Hristiyan Ahlakı
 program1:
-  align: right
-  bgImage: /images/uploads/joyce-meyer-3.jpg
+  align: left
+  bgImage: /images/uploads/bigmodulejoycemayer.png
   color: light
   content: |-
     Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından
