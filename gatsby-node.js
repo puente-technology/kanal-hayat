@@ -130,7 +130,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       slug = '/'
     } else if (_.get(node, 'frontmatter.title')) {
       slug = `/${_.kebabCase(parsedFilePath.dir)}/${_.kebabCase(
-        node.frontmatter.title,
+        node.frontmatter.title.turkishtoEnglish(),
       )}/`
     } else if (parsedFilePath.dir === '') {
       slug = `/${parsedFilePath.name}/`
