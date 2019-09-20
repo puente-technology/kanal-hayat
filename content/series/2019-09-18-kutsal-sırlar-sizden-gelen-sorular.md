@@ -32,8 +32,8 @@ selectedCategories:
   - Öğretim
   - Rehberlik
 episodes:
-  - season: '1'
-    guests: ''
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
@@ -54,6 +54,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT26M59S
       id: kLnCr8ntL5w
       imageURL: 'https://i.ytimg.com/vi/kLnCr8ntL5w/hqdefault.jpg'
       mediaType: video
@@ -62,9 +63,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 1
       url: >-
         https://www.youtube.com/watch?v=kLnCr8ntL5w&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=2&t=0s
-      viewCount: '2197'
-  - season: '1'
-    guests: ''
+      viewCount: '2200'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Kutsal sırlar 2. Bölüm soruları
@@ -85,6 +86,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT24M55S
       id: SoeCZ5keW2s
       imageURL: 'https://i.ytimg.com/vi/SoeCZ5keW2s/hqdefault.jpg'
       mediaType: video
@@ -93,9 +95,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 2
       url: >-
         https://www.youtube.com/watch?v=SoeCZ5keW2s&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=3&t=0s
-      viewCount: '1006'
-  - season: '1'
-    guests: ''
+      viewCount: '1007'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Kutsal sırlar 3. Bölüm soruları
@@ -118,6 +120,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M11S
       id: nXijphD9Csc
       imageURL: 'https://i.ytimg.com/vi/nXijphD9Csc/hqdefault.jpg'
       mediaType: video
@@ -126,9 +129,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 3
       url: >-
         https://www.youtube.com/watch?v=nXijphD9Csc&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=4&t=0s
-      viewCount: '1742'
-  - season: '1'
-    guests: ''
+      viewCount: '1743'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
@@ -152,6 +155,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT26M3S
       id: thDsG6OSOUY
       imageURL: 'https://i.ytimg.com/vi/thDsG6OSOUY/hqdefault.jpg'
       mediaType: video
@@ -160,9 +164,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 4
       url: >-
         https://www.youtube.com/watch?v=thDsG6OSOUY&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=5&t=0s
-      viewCount: '1187'
-  - season: '1'
-    guests: ''
+      viewCount: '1188'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Kutsal sırlar 5. Bölüm soruları
@@ -186,6 +190,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT25M2S
       id: eTtSMQ1w1jo
       imageURL: 'https://i.ytimg.com/vi/eTtSMQ1w1jo/hqdefault.jpg'
       mediaType: video
@@ -194,9 +199,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 5
       url: >-
         https://www.youtube.com/watch?v=eTtSMQ1w1jo&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=6&t=0s
-      viewCount: '832'
-  - season: '1'
-    guests: ''
+      viewCount: '841'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Kutsal sırlar 6. Bölüm soruları
@@ -221,6 +226,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT23M44S
       id: fpACv5JCJzY
       imageURL: 'https://i.ytimg.com/vi/fpACv5JCJzY/hqdefault.jpg'
       mediaType: video
@@ -229,9 +235,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 6
       url: >-
         https://www.youtube.com/watch?v=fpACv5JCJzY&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=7&t=0s
-      viewCount: '622'
-  - season: '1'
-    guests: ''
+      viewCount: '624'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Kutsal sırlar 7. Bölüm soruları
@@ -256,6 +262,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT25M34S
       id: 4W0UZwMt5GY
       imageURL: 'https://i.ytimg.com/vi/4W0UZwMt5GY/hqdefault.jpg'
       mediaType: video
@@ -264,9 +271,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 7
       url: >-
         https://www.youtube.com/watch?v=4W0UZwMt5GY&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=8&t=0s
-      viewCount: '899'
-  - season: '1'
-    guests: ''
+      viewCount: '901'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
@@ -279,6 +286,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT26M28S
       id: bU772QORdRw
       imageURL: 'https://i.ytimg.com/vi/bU772QORdRw/hqdefault.jpg'
       mediaType: video
@@ -287,9 +295,9 @@ episodes:
       title: Kutsal Sirlar - Bolum 8
       url: >-
         https://www.youtube.com/watch?v=bU772QORdRw&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=9&t=0s
-      viewCount: '1767'
-  - season: '1'
-    guests: ''
+      viewCount: '1770'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Kıtsal sırlar 9. Bölüm soruları
@@ -311,6 +319,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT25M25S
       id: axaOFKAkMDI
       imageURL: 'https://i.ytimg.com/vi/axaOFKAkMDI/hqdefault.jpg'
       mediaType: video
@@ -319,9 +328,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 9
       url: >-
         https://www.youtube.com/watch?v=axaOFKAkMDI&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=9
-      viewCount: '739'
-  - season: '1'
-    guests: ''
+      viewCount: '740'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Kıtsal sırlar 10. Bölüm soruları
@@ -343,6 +352,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M18S
       id: NL6AcMzGyNk
       imageURL: 'https://i.ytimg.com/vi/NL6AcMzGyNk/hqdefault.jpg'
       mediaType: video
@@ -351,9 +361,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 10
       url: >-
         https://www.youtube.com/watch?v=NL6AcMzGyNk&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=10
-      viewCount: '743'
-  - season: '1'
-    guests: ''
+      viewCount: '744'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Kıtsal sırlar 11. Bölüm soruları
@@ -368,6 +378,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT25M9S
       id: im1OTyE5QNQ
       imageURL: 'https://i.ytimg.com/vi/im1OTyE5QNQ/hqdefault.jpg'
       mediaType: video
@@ -376,9 +387,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 11
       url: >-
         https://www.youtube.com/watch?v=im1OTyE5QNQ&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=11
-      viewCount: '1457'
-  - season: '1'
-    guests: ''
+      viewCount: '1459'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
@@ -399,6 +410,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT26M15S
       id: Q4GUwUEpUMw
       imageURL: 'https://i.ytimg.com/vi/Q4GUwUEpUMw/hqdefault.jpg'
       mediaType: video
@@ -407,9 +419,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 12
       url: >-
         https://www.youtube.com/watch?v=Q4GUwUEpUMw&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=12
-      viewCount: '912'
-  - season: '1'
-    guests: ''
+      viewCount: '913'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Kutsal Sırlar - Bölüm 13
@@ -424,6 +436,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT25M16S
       id: rpaVDD256_w
       imageURL: 'https://i.ytimg.com/vi/rpaVDD256_w/hqdefault.jpg'
       mediaType: video
@@ -432,9 +445,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 13
       url: >-
         https://www.youtube.com/watch?v=rpaVDD256_w&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=13
-      viewCount: '567'
-  - season: '1'
-    guests: ''
+      viewCount: '568'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Kutsal Sırlar - Bölüm 14
@@ -449,6 +462,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT25M2S
       id: KKY_NgXv_XE
       imageURL: 'https://i.ytimg.com/vi/KKY_NgXv_XE/hqdefault.jpg'
       mediaType: video
@@ -457,9 +471,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 14
       url: >-
         https://www.youtube.com/watch?v=KKY_NgXv_XE&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=15&t=0s
-      viewCount: '501'
-  - season: '1'
-    guests: ''
+      viewCount: '502'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Kutsal Sırlar - Bölüm 15
@@ -474,6 +488,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT25M57S
       id: SxFuzy94NB0
       imageURL: 'https://i.ytimg.com/vi/SxFuzy94NB0/hqdefault.jpg'
       mediaType: video
@@ -482,9 +497,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 15
       url: >-
         https://www.youtube.com/watch?v=SxFuzy94NB0&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=16&t=0s
-      viewCount: '611'
-  - season: '1'
-    guests: ''
+      viewCount: '612'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Kutsal Sırlar - Bölüm 16
@@ -499,6 +514,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT25M53S
       id: hKZ-94YnaPs
       imageURL: 'https://i.ytimg.com/vi/hKZ-94YnaPs/hqdefault.jpg'
       mediaType: video
@@ -507,9 +523,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 16
       url: >-
         https://www.youtube.com/watch?v=hKZ-94YnaPs&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=17&t=0s
-      viewCount: '548'
-  - season: '1'
-    guests: ''
+      viewCount: '549'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Kutsal Sırlar - Bölüm 17
@@ -524,6 +540,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT26M21S
       id: aKgyZQg8AKw
       imageURL: 'https://i.ytimg.com/vi/aKgyZQg8AKw/hqdefault.jpg'
       mediaType: video
@@ -532,9 +549,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 17
       url: >-
         https://www.youtube.com/watch?v=aKgyZQg8AKw&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=18&t=0s
-      viewCount: '681'
-  - season: '1'
-    guests: ''
+      viewCount: '682'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Kutsal Sırlar - Bölüm 18
@@ -549,6 +566,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT25M23S
       id: qrdvnDjnVbc
       imageURL: 'https://i.ytimg.com/vi/qrdvnDjnVbc/hqdefault.jpg'
       mediaType: video
@@ -557,9 +575,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 18
       url: >-
         https://www.youtube.com/watch?v=qrdvnDjnVbc&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=19&t=0s
-      viewCount: '539'
-  - season: '1'
-    guests: ''
+      viewCount: '540'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Kutsal Sırlar - Bölüm 19
@@ -574,6 +592,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT26M15S
       id: DBd89oY4Iik
       imageURL: 'https://i.ytimg.com/vi/DBd89oY4Iik/hqdefault.jpg'
       mediaType: video
@@ -582,9 +601,9 @@ episodes:
       title: Kutsal Sırlar - Bölüm 19
       url: >-
         https://www.youtube.com/watch?v=DBd89oY4Iik&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=20&t=0s
-      viewCount: '475'
-  - season: '1'
-    guests: ''
+      viewCount: '476'
+  - guests: ''
+    season: '1'
     youtubeURL:
       description: >-
         Kutsal Sırlar - Bölüm 20
@@ -599,6 +618,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT24M38S
       id: 4RYRyDwEfXA
       imageURL: 'https://i.ytimg.com/vi/4RYRyDwEfXA/hqdefault.jpg'
       mediaType: video
@@ -607,6 +627,6 @@ episodes:
       title: Kutsal Sırlar - Bölüm 20
       url: >-
         https://www.youtube.com/watch?v=4RYRyDwEfXA&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=21&t=0s
-      viewCount: '690'
+      viewCount: '691'
 ---
 

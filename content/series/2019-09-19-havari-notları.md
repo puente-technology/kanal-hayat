@@ -53,6 +53,7 @@ episodes:
         https://www.facebook.com/kanalhayat.tv
 
         https://twitter.com/kanalhayat
+      duration: PT29M28S
       id: 4DnXSbx6u6s
       imageURL: 'https://i.ytimg.com/vi/4DnXSbx6u6s/hqdefault.jpg'
       mediaType: video
@@ -61,7 +62,7 @@ episodes:
       title: Havari Notları - İnsan Nasıl Yaratıldı - Yaratılış 1. Kısım
       url: >-
         https://www.youtube.com/watch?v=4DnXSbx6u6s&list=PLQfi14V3hH0IevVIVLEVoW8N9WUJykBu7&index=2&t=0s
-      viewCount: '3920'
+      viewCount: '3932'
   - season: '1'
     youtubeURL:
       description: >-
@@ -84,6 +85,7 @@ episodes:
         https://www.facebook.com/kanalhayat.tv
 
         https://twitter.com/kanalhayat
+      duration: PT30M3S
       id: 6E6nT2IgalM
       imageURL: 'https://i.ytimg.com/vi/6E6nT2IgalM/hqdefault.jpg'
       mediaType: video
@@ -94,7 +96,7 @@ episodes:
       title: Havari Notları - İnsan Nasıl Bozuldu? - Yaratılış 2. Kısım
       url: >-
         https://www.youtube.com/watch?v=6E6nT2IgalM&list=PLQfi14V3hH0IevVIVLEVoW8N9WUJykBu7&index=3&t=0s
-      viewCount: '1842'
+      viewCount: '1844'
   - season: '1'
     youtubeURL:
       description: >-
@@ -119,6 +121,7 @@ episodes:
         https://www.facebook.com/kanalhayat.tv
 
         https://twitter.com/kanalhayat
+      duration: PT30M2S
       id: FkodqZgmz8g
       imageURL: 'https://i.ytimg.com/vi/FkodqZgmz8g/hqdefault.jpg'
       mediaType: video
@@ -129,7 +132,7 @@ episodes:
       title: Havari Notları - Nuh Tufanı'ndan Sonra Ne Oldu? - Yaratılış 3. Kısım
       url: >-
         https://www.youtube.com/watch?v=FkodqZgmz8g&list=PLQfi14V3hH0IevVIVLEVoW8N9WUJykBu7&index=4&t=0s
-      viewCount: '3659'
+      viewCount: '3668'
   - season: '1'
     youtubeURL:
       description: >-
@@ -152,6 +155,7 @@ episodes:
         https://www.facebook.com/kanalhayat.tv
 
         https://twitter.com/kanalhayat
+      duration: PT29M30S
       id: 9Ijlpkm02rw
       imageURL: 'https://i.ytimg.com/vi/9Ijlpkm02rw/hqdefault.jpg'
       mediaType: video
@@ -162,7 +166,7 @@ episodes:
       title: Havari Notları - Yakup'un Soyu - Yaratılış 4. Kısım
       url: >-
         https://www.youtube.com/watch?v=9Ijlpkm02rw&list=PLQfi14V3hH0IevVIVLEVoW8N9WUJykBu7&index=5&t=0s
-      viewCount: '1312'
+      viewCount: '1316'
   - season: '1'
     youtubeURL:
       description: >-
@@ -185,6 +189,7 @@ episodes:
         https://www.facebook.com/kanalhayat.tv
 
         https://twitter.com/kanalhayat
+      duration: PT28M35S
       id: QzWP27YsJyg
       imageURL: 'https://i.ytimg.com/vi/QzWP27YsJyg/hqdefault.jpg'
       mediaType: video
@@ -196,7 +201,7 @@ episodes:
       title: 'Havari Notları - Musa ve İsrail halkı: Mısır''dan Çıkış 1.Kısım'
       url: >-
         https://www.youtube.com/watch?v=QzWP27YsJyg&list=PLQfi14V3hH0IevVIVLEVoW8N9WUJykBu7&index=6&t=0s
-      viewCount: '1501'
+      viewCount: '1503'
   - season: '1'
     youtubeURL:
       description: >-
@@ -221,6 +226,7 @@ episodes:
         https://www.facebook.com/kanalhayat.tv
 
         https://twitter.com/kanalhayat
+      duration: PT29M51S
       id: ifGNxLA_GAA
       imageURL: 'https://i.ytimg.com/vi/ifGNxLA_GAA/hqdefault.jpg'
       mediaType: video
@@ -230,7 +236,7 @@ episodes:
       title: 'Havari Notları - Musa ve 10 Bela: Mısır''dan Çıkış 2.Kısım'
       url: >-
         https://www.youtube.com/watch?v=ifGNxLA_GAA&list=PLQfi14V3hH0IevVIVLEVoW8N9WUJykBu7&index=7&t=0s
-      viewCount: '799'
+      viewCount: '802'
   - season: '1'
     youtubeURL:
       description: >-
@@ -253,6 +259,7 @@ episodes:
         https://www.facebook.com/kanalhayat.tv
 
         https://twitter.com/kanalhayat
+      duration: PT29M52S
       id: 4Sj2_zyDphA
       imageURL: 'https://i.ytimg.com/vi/4Sj2_zyDphA/hqdefault.jpg'
       mediaType: video
@@ -262,7 +269,7 @@ episodes:
       title: 'Havari Notları - Musa ve 10 Emir: Mısır''dan Çıkış 3.Kısım'
       url: >-
         https://www.youtube.com/watch?v=4Sj2_zyDphA&list=PLQfi14V3hH0IevVIVLEVoW8N9WUJykBu7&index=8&t=0s
-      viewCount: '1635'
+      viewCount: '1639'
   - season: '1'
     youtubeURL:
       description: >-
@@ -285,6 +292,7 @@ episodes:
         https://www.facebook.com/kanalhayat.tv
 
         https://twitter.com/kanalhayat
+      duration: PT29M53S
       id: 2F2K9fCocVk
       imageURL: 'https://i.ytimg.com/vi/2F2K9fCocVk/hqdefault.jpg'
       mediaType: video
@@ -293,7 +301,7 @@ episodes:
       title: 'Havari Notları - Musa ve Tapınak: Mısır''dan ÇIkış 4.Kısım'
       url: >-
         https://www.youtube.com/watch?v=2F2K9fCocVk&list=PLQfi14V3hH0IevVIVLEVoW8N9WUJykBu7&index=9&t=0s
-      viewCount: '819'
+      viewCount: '820'
   - season: '1'
     youtubeURL:
       description: >-
@@ -316,6 +324,7 @@ episodes:
         https://www.facebook.com/kanalhayat.tv
 
         https://twitter.com/kanalhayat
+      duration: PT28M21S
       id: olzl7llrPRs
       imageURL: 'https://i.ytimg.com/vi/olzl7llrPRs/hqdefault.jpg'
       mediaType: video
@@ -324,6 +333,6 @@ episodes:
       title: 'Havari Notları - Eski Antlaşma: Malaki Peygamber'
       url: >-
         https://www.youtube.com/watch?v=olzl7llrPRs&list=PLQfi14V3hH0IevVIVLEVoW8N9WUJykBu7&index=10&t=0s
-      viewCount: '514'
+      viewCount: '515'
 ---
 

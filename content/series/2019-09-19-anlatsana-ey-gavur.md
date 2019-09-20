@@ -40,6 +40,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT26M8S
       id: Ui3sELeZ8vE
       imageURL: 'https://i.ytimg.com/vi/Ui3sELeZ8vE/hqdefault.jpg'
       mediaType: video
@@ -53,7 +54,7 @@ episodes:
       title: 1- İncil Değişti mi?
       url: >-
         https://www.youtube.com/watch?v=Ui3sELeZ8vE&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6&index=2&t=0s
-      viewCount: '38548'
+      viewCount: '38568'
   - season: '1'
     youtubeURL:
       description: >-
@@ -72,6 +73,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT28M18S
       id: 5OaUWWmnzSQ
       imageURL: 'https://i.ytimg.com/vi/5OaUWWmnzSQ/hqdefault.jpg'
       mediaType: video
@@ -81,7 +83,7 @@ episodes:
       title: 2-Misyonerler ve Hristiyanların Çıkardığı Savaşlar
       url: >-
         https://www.youtube.com/watch?v=5OaUWWmnzSQ&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6&index=3&t=0s
-      viewCount: '5988'
+      viewCount: '5993'
   - season: '1'
     youtubeURL:
       description: >-
@@ -99,6 +101,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT28M46S
       id: Ufq8rmr7V90
       imageURL: 'https://i.ytimg.com/vi/Ufq8rmr7V90/hqdefault.jpg'
       mediaType: video
@@ -112,7 +115,7 @@ episodes:
       title: 3- Hristiyanlıkta Tanrı'nın Kimliği
       url: >-
         https://www.youtube.com/watch?v=Ufq8rmr7V90&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6&index=4&t=0s
-      viewCount: '9354'
+      viewCount: '9362'
   - season: '1'
     youtubeURL:
       description: >-
@@ -130,6 +133,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT29M17S
       id: B-TXrmlAFc0
       imageURL: 'https://i.ytimg.com/vi/B-TXrmlAFc0/hqdefault.jpg'
       mediaType: video
@@ -143,7 +147,7 @@ episodes:
       title: 4- Hristiyanlıkta Mesih'in Kimliği
       url: >-
         https://www.youtube.com/watch?v=B-TXrmlAFc0&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6&index=5&t=0s
-      viewCount: '5334'
+      viewCount: '5339'
   - season: '1'
     youtubeURL:
       description: >-
@@ -161,6 +165,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M50S
       id: wHEozNYEmhk
       imageURL: 'https://i.ytimg.com/vi/wHEozNYEmhk/hqdefault.jpg'
       mediaType: video
@@ -174,7 +179,7 @@ episodes:
       title: 5- Hristiyanlıkta Kurtuluş
       url: >-
         https://www.youtube.com/watch?v=wHEozNYEmhk&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6&index=6&t=0s
-      viewCount: '4278'
+      viewCount: '4279'
   - season: '1'
     youtubeURL:
       description: >-
@@ -192,6 +197,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT28M5S
       id: wF7x5bFV8Lg
       imageURL: 'https://i.ytimg.com/vi/wF7x5bFV8Lg/hqdefault.jpg'
       mediaType: video
@@ -205,7 +211,7 @@ episodes:
       title: 6- Hristiyan Ahlakı ve İbadeti
       url: >-
         https://www.youtube.com/watch?v=wF7x5bFV8Lg&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6&index=7&t=0s
-      viewCount: '23567'
+      viewCount: '23581'
   - season: '1'
     youtubeURL:
       description: >-
@@ -225,6 +231,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT25M22S
       id: 5Q_1qY_kKg4
       imageURL: 'https://i.ytimg.com/vi/5Q_1qY_kKg4/hqdefault.jpg'
       mediaType: video
@@ -238,7 +245,7 @@ episodes:
       title: 7- Hristiyanlığın İslam'a bakışı
       url: >-
         https://www.youtube.com/watch?v=5Q_1qY_kKg4&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6&index=8&t=0s
-      viewCount: '63264'
+      viewCount: '63307'
   - season: '1'
     youtubeURL:
       description: >-
@@ -256,6 +263,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT28M21S
       id: Zs5y3xWQ6l8
       imageURL: 'https://i.ytimg.com/vi/Zs5y3xWQ6l8/hqdefault.jpg'
       mediaType: video
@@ -268,6 +276,6 @@ episodes:
       title: '8- Hristiyanlıkta Kıyamet, Ahiret, Yargı Günü'
       url: >-
         https://www.youtube.com/watch?v=Zs5y3xWQ6l8&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6&index=9&t=0s
-      viewCount: '22772'
+      viewCount: '22785'
 ---
 
