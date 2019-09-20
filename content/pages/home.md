@@ -112,8 +112,8 @@ program1:
   title: Joyce Meyer / Vaiz
 program2:
   align: right
-  bgImage: /images/uploads/dsc01005.jpg
-  color: dark
+  bgImage: /images/uploads/can-abi-main-page.jpg
+  color: light
   content: >-
     Yazar olan Can Nuroğlu evli ve 3 çocuk babasıdır. Amerika’da Emmaus İncil
     Üniversitesinde ilahiyat eğitimini tamamlamış olan Nuroğlu yaklaşık 11 yıl
