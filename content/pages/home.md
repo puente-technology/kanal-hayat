@@ -20,7 +20,7 @@ gallery:
     title: Hristiyan Ahlakı
 program1:
   align: left
-  bgImage: /images/uploads/222.jpg
+  bgImage: /images/uploads/meyerrr.jpg
   color: light
   content: |-
     Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından
