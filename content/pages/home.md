@@ -8,7 +8,7 @@ gallery:
     color: light
     image: /images/uploads/dsc01143.jpg
     title: Gerçeğin Sesi
-  - align: right
+  - align: center
     alt: Ahmet Güvener ile
     color: light
     image: /images/uploads/_dsc1607.jpg
@@ -96,6 +96,7 @@ program1:
           https://www.facebook.com/kanalhayat
 
           https://twitter.com/kanalhayat
+        duration: ''
         id: ZRmJP8je89A
         imageURL: 'https://i.ytimg.com/vi/ZRmJP8je89A/hqdefault.jpg'
         mediaType: video
@@ -170,6 +171,7 @@ program2:
           https://www.facebook.com/kanalhayat
 
           https://twitter.com/kanalhayat
+        duration: ''
         id: kZn36OuSCqc
         imageURL: 'https://i.ytimg.com/vi/kZn36OuSCqc/hqdefault.jpg'
         mediaType: video
