@@ -618,7 +618,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
-      duration: PT24M38S
+      duration: ''
       id: 4RYRyDwEfXA
       imageURL: 'https://i.ytimg.com/vi/4RYRyDwEfXA/hqdefault.jpg'
       mediaType: video
@@ -627,6 +627,6 @@ episodes:
       title: Kutsal Sırlar - Bölüm 20
       url: >-
         https://www.youtube.com/watch?v=4RYRyDwEfXA&list=PLQfi14V3hH0JldjbGCIkr3SNK9gE7tweN&index=21&t=0s
-      viewCount: '691'
+      viewCount: '690'
 ---
 
