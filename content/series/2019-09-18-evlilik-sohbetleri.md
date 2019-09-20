@@ -22,8 +22,8 @@ selectedCategories:
   - Öğretim
   - Kutsal Kitap Dersleri
 episodes:
-  - season: '2'
-    guests: ''
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Evlilik ve Para İdaresi 
@@ -38,6 +38,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M34S
       id: EhOQ6FrIa28
       imageURL: 'https://i.ytimg.com/vi/EhOQ6FrIa28/hqdefault.jpg'
       mediaType: video
@@ -48,9 +49,9 @@ episodes:
       title: Evlilik Sohbetleri - Evlilik ve Para İdaresi 1 (2-18)
       url: >-
         https://www.youtube.com/watch?v=EhOQ6FrIa28&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=2&t=0s
-      viewCount: '118'
-  - season: '2'
-    guests: ''
+      viewCount: '137'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Evlilik ve Kilise Hayatı
@@ -66,6 +67,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M9S
       id: zxNnVn4F4hE
       imageURL: 'https://i.ytimg.com/vi/zxNnVn4F4hE/hqdefault.jpg'
       mediaType: video
@@ -76,9 +78,9 @@ episodes:
       title: Evlilik Sohbetleri - Evlilik ve Kilise Hayatı  (2-17)
       url: >-
         https://www.youtube.com/watch?v=zxNnVn4F4hE&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=3&t=0s
-      viewCount: '131'
-  - season: '2'
-    guests: ''
+      viewCount: '136'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Evlilikte Çatışmalar
@@ -94,6 +96,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M44S
       id: HmycEqv92NY
       imageURL: 'https://i.ytimg.com/vi/HmycEqv92NY/hqdefault.jpg'
       mediaType: video
@@ -102,9 +105,9 @@ episodes:
       title: Evlilik Sohbetleri - Evlilikte Çatışmalar (2-16)
       url: >-
         https://www.youtube.com/watch?v=HmycEqv92NY&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=4&t=0s
-      viewCount: '53'
-  - season: '2'
-    guests: ''
+      viewCount: '57'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Evlilikte Bağışlama 
@@ -119,6 +122,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M28S
       id: YVI31UdmiZw
       imageURL: 'https://i.ytimg.com/vi/YVI31UdmiZw/hqdefault.jpg'
       mediaType: video
@@ -127,9 +131,9 @@ episodes:
       title: Evlilik Sohbetleri - Evlilikte Bağışlama 1 (2-15)
       url: >-
         https://www.youtube.com/watch?v=YVI31UdmiZw&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=5&t=0s
-      viewCount: '128'
-  - season: '2'
-    guests: ''
+      viewCount: '132'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Çocuk Yetiştirmek 
@@ -144,6 +148,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT28M10S
       id: 0EfT1GNCXzs
       imageURL: 'https://i.ytimg.com/vi/0EfT1GNCXzs/hqdefault.jpg'
       mediaType: video
@@ -152,9 +157,9 @@ episodes:
       title: Evlilik Sohbetleri - Çocuk Yetiştirmek 1 (2-14)
       url: >-
         https://www.youtube.com/watch?v=0EfT1GNCXzs&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=6&t=0s
-      viewCount: '109'
-  - season: '2'
-    guests: ''
+      viewCount: '114'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Nişanlılık Nedir? Nasıl Yaşanmalı?
@@ -169,6 +174,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT26M59S
       id: EIF-Asm0i9E
       imageURL: 'https://i.ytimg.com/vi/EIF-Asm0i9E/hqdefault.jpg'
       mediaType: video
@@ -177,9 +183,9 @@ episodes:
       title: Evlilik Sohbetleri - Nişanlılık Nedir? Nasıl Yaşanmalı? (2-13)
       url: >-
         https://www.youtube.com/watch?v=EIF-Asm0i9E&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=7&t=0s
-      viewCount: '124'
-  - season: '2'
-    guests: ''
+      viewCount: '127'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Farklı İnançlara inanan insanların Evliliği Nasıl olur
@@ -194,6 +200,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT26M58S
       id: RExphJDtd48
       imageURL: 'https://i.ytimg.com/vi/RExphJDtd48/hqdefault.jpg'
       mediaType: video
@@ -204,9 +211,9 @@ episodes:
         Olur (2-12)
       url: >-
         https://www.youtube.com/watch?v=RExphJDtd48&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=8&t=0s
-      viewCount: '167'
-  - season: '2'
-    guests: ''
+      viewCount: '178'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Daniel ve Serap Çifti 
@@ -221,6 +228,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M41S
       id: MoCtAQ2X1Ec
       imageURL: 'https://i.ytimg.com/vi/MoCtAQ2X1Ec/hqdefault.jpg'
       mediaType: video
@@ -231,9 +239,9 @@ episodes:
       title: Evlilik Sohbetleri - Daniel ve Serap Çifti (2-10)
       url: >-
         https://www.youtube.com/watch?v=MoCtAQ2X1Ec&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=9&t=0s
-      viewCount: '163'
-  - season: '2'
-    guests: ''
+      viewCount: '166'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Mutlu Evliliğin Sırları
@@ -248,6 +256,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M48S
       id: ed5BfiqYM98
       imageURL: 'https://i.ytimg.com/vi/ed5BfiqYM98/hqdefault.jpg'
       mediaType: video
@@ -257,9 +266,9 @@ episodes:
       title: Evlilik Sohbetleri - Mutlu Evliliğin Sırları (2-11)
       url: >-
         https://www.youtube.com/watch?v=ed5BfiqYM98&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=10&t=0s
-      viewCount: '267'
-  - season: '2'
-    guests: ''
+      viewCount: '268'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Evlilikte Kıskançlık Sorunu
@@ -274,6 +283,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M38S
       id: U8Q3sVoz5p0
       imageURL: 'https://i.ytimg.com/vi/U8Q3sVoz5p0/hqdefault.jpg'
       mediaType: video
@@ -282,9 +292,9 @@ episodes:
       title: Evlilik Sohbetleri - Evlilikte Kıskançlık Sorunu -1 (2-06)
       url: >-
         https://www.youtube.com/watch?v=U8Q3sVoz5p0&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=11&t=0s
-      viewCount: '205'
-  - season: '2'
-    guests: ''
+      viewCount: '206'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Evlilikte Püf Noktaları
@@ -299,6 +309,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M38S
       id: 0_9TyEkfkag
       imageURL: 'https://i.ytimg.com/vi/0_9TyEkfkag/hqdefault.jpg'
       mediaType: video
@@ -307,9 +318,9 @@ episodes:
       title: Evlilik Sohbetleri - Evliliğin Püf Noktaları (2-09)
       url: >-
         https://www.youtube.com/watch?v=0_9TyEkfkag&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=12&t=0s
-      viewCount: '207'
-  - season: '2'
-    guests: ''
+      viewCount: '210'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Evlilikte Sevgi
@@ -324,6 +335,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M
       id: 5bGe4IZC3GQ
       imageURL: 'https://i.ytimg.com/vi/5bGe4IZC3GQ/hqdefault.jpg'
       mediaType: video
@@ -332,9 +344,9 @@ episodes:
       title: Evlilik Sohbetleri - Evlilikte Sevgi  (2-08)
       url: >-
         https://www.youtube.com/watch?v=5bGe4IZC3GQ&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=13&t=0s
-      viewCount: '216'
-  - season: '2'
-    guests: ''
+      viewCount: '220'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Evlilikte Romantizm
@@ -349,6 +361,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M28S
       id: LJLEBgcLfkM
       imageURL: 'https://i.ytimg.com/vi/LJLEBgcLfkM/hqdefault.jpg'
       mediaType: video
@@ -357,9 +370,9 @@ episodes:
       title: Evlilik Sohbetleri - Evlilikte Romantizm (2-03)
       url: >-
         https://www.youtube.com/watch?v=LJLEBgcLfkM&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=14&t=0s
-      viewCount: '272'
-  - season: '2'
-    guests: ''
+      viewCount: '276'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Evlilikte İletişim için Püf Noktaları
@@ -374,6 +387,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT28M3S
       id: F13-7Q6e_B8
       imageURL: 'https://i.ytimg.com/vi/F13-7Q6e_B8/hqdefault.jpg'
       mediaType: video
@@ -382,9 +396,9 @@ episodes:
       title: Evlilik Sohbetleri - Evlilikte İletişim için Püf Noktaları (2-07)
       url: >-
         https://www.youtube.com/watch?v=F13-7Q6e_B8&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=15&t=0s
-      viewCount: '173'
-  - season: '2'
-    guests: ''
+      viewCount: '174'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Erdal ve Nükhet Çiftini Tanıyalım
@@ -399,6 +413,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT26M49S
       id: JjTw8BCnroI
       imageURL: 'https://i.ytimg.com/vi/JjTw8BCnroI/hqdefault.jpg'
       mediaType: video
@@ -407,9 +422,9 @@ episodes:
       title: Evlilik Sohbetleri - Erdal ve Nükhet Çiftini Tanıyalım (2-05)
       url: >-
         https://www.youtube.com/watch?v=JjTw8BCnroI&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=16&t=0s
-      viewCount: '324'
-  - season: '2'
-    guests: ''
+      viewCount: '326'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Evlilikte Öfke Sorunu
@@ -426,6 +441,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M38S
       id: V_cwo1MN6V0
       imageURL: 'https://i.ytimg.com/vi/V_cwo1MN6V0/hqdefault.jpg'
       mediaType: video
@@ -434,15 +450,16 @@ episodes:
       title: Evlilik Sohbetleri - Evlilikte Öfke Sorunu (2-04)
       url: >-
         https://www.youtube.com/watch?v=V_cwo1MN6V0&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=17&t=0s
-      viewCount: '477'
-  - season: '2'
-    guests: ''
+      viewCount: '481'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Evlilikte Tek Beden Olmak Nasıl Sağlanır?
 
         Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
         sohbetlerini sayfamızdan takip edebilirsiniz.
+      duration: PT27M16S
       id: wes4pumjNW4
       imageURL: 'https://i.ytimg.com/vi/wes4pumjNW4/hqdefault.jpg'
       mediaType: video
@@ -451,9 +468,9 @@ episodes:
       title: Evlilik Sohbetleri - Evlilikte Tek Beden Olmak Nasıl Sağlanır? (2-02)
       url: >-
         https://www.youtube.com/watch?v=wes4pumjNW4&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=18&t=0s
-      viewCount: '267'
-  - season: '2'
-    guests: ''
+      viewCount: '269'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Işıl ve Noyan Çifti (2-01)
@@ -468,6 +485,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M16S
       id: OoYL-u1a3gc
       imageURL: 'https://i.ytimg.com/vi/OoYL-u1a3gc/hqdefault.jpg'
       mediaType: video
@@ -476,9 +494,9 @@ episodes:
       title: Evlilik Sohbetleri - Evlilik Sohbetleri - Işıl ve Noyan Çifti (2-01)
       url: >-
         https://www.youtube.com/watch?v=OoYL-u1a3gc&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=19&t=0s
-      viewCount: '372'
-  - season: '2'
-    guests: ''
+      viewCount: '375'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Evlilikte Çocuk Yetiştirmek
@@ -493,6 +511,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M34S
       id: ogNRrUAdGGc
       imageURL: 'https://i.ytimg.com/vi/ogNRrUAdGGc/hqdefault.jpg'
       mediaType: video
@@ -504,9 +523,9 @@ episodes:
       title: Evlilik Sohbetleri - Evlilikte Çocuk Yetiştirmek (2-20)
       url: >-
         https://www.youtube.com/watch?v=ogNRrUAdGGc&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=20&t=0s
-      viewCount: '34'
-  - season: '2'
-    guests: ''
+      viewCount: '50'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Evliliği Geliştirmek İçin Neler Yapılabilir?
@@ -521,6 +540,7 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
+      duration: PT27M43S
       id: HeuKUt2C6sg
       imageURL: 'https://i.ytimg.com/vi/HeuKUt2C6sg/hqdefault.jpg'
       mediaType: video
@@ -531,6 +551,6 @@ episodes:
       title: Evlilik Sohbetleri - Evliliği Geliştirmek İçin Neler Yapılabilir? (2-19)
       url: >-
         https://www.youtube.com/watch?v=HeuKUt2C6sg&list=PLQfi14V3hH0Lb4k_CyHqBzAdZJ8XiSvET&index=21&t=0s
-      viewCount: '67'
+      viewCount: '74'
 ---
 
