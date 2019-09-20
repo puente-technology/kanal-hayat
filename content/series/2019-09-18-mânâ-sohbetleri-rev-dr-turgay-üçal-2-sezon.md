@@ -29,6 +29,7 @@ episodes:
         http://www.youtube.com/kanalhayatplay
         https://www.facebook.com/kanalhayat
         https://twitter.com/kanalhayat
+      duration: PT28M49S
       id: VLmbxYbo7cQ
       imageURL: 'https://i.ytimg.com/vi/VLmbxYbo7cQ/hqdefault.jpg'
       mediaType: video
@@ -37,7 +38,7 @@ episodes:
       title: Mânâ Sohbetleri - 2.Sezon - Olma Pratiklerine Giriş
       url: >-
         https://www.youtube.com/watch?v=VLmbxYbo7cQ&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=2&t=0s
-      viewCount: '192'
+      viewCount: '195'
   - season: '2'
     youtubeURL:
       description: |-
@@ -48,6 +49,7 @@ episodes:
         http://www.youtube.com/kanalhayatplay
         https://www.facebook.com/kanalhayat
         https://twitter.com/kanalhayat
+      duration: PT29M14S
       id: EuLYxeRNZLs
       imageURL: 'https://i.ytimg.com/vi/EuLYxeRNZLs/hqdefault.jpg'
       mediaType: video
@@ -56,7 +58,7 @@ episodes:
       title: Mânâ Sohbetleri - 2.Sezon - Pratiklerin Yaşamdaki Açılımı
       url: >-
         https://www.youtube.com/watch?v=EuLYxeRNZLs&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=3&t=0s
-      viewCount: '75'
+      viewCount: '76'
   - season: '2'
     youtubeURL:
       description: |-
@@ -67,6 +69,7 @@ episodes:
         http://www.youtube.com/kanalhayatplay
         https://www.facebook.com/kanalhayat
         https://twitter.com/kanalhayat
+      duration: PT28M43S
       id: bd5D-AYYkGs
       imageURL: 'https://i.ytimg.com/vi/bd5D-AYYkGs/hqdefault.jpg'
       mediaType: video
@@ -86,6 +89,7 @@ episodes:
         http://www.youtube.com/kanalhayatplay
         https://www.facebook.com/kanalhayat
         https://twitter.com/kanalhayat
+      duration: PT29M47S
       id: xLuaJXDZiD4
       imageURL: 'https://i.ytimg.com/vi/xLuaJXDZiD4/hqdefault.jpg'
       mediaType: video
@@ -94,7 +98,7 @@ episodes:
       title: Mânâ Sohbetleri - 2.Sezon - Olma için Adımlar
       url: >-
         https://www.youtube.com/watch?v=xLuaJXDZiD4&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=5&t=0s
-      viewCount: '54'
+      viewCount: '55'
   - season: '2'
     youtubeURL:
       description: |-
@@ -105,6 +109,7 @@ episodes:
         http://www.youtube.com/kanalhayatplay
         https://www.facebook.com/kanalhayat
         https://twitter.com/kanalhayat
+      duration: PT29M56S
       id: _E4NBAuNoQQ
       imageURL: 'https://i.ytimg.com/vi/_E4NBAuNoQQ/hqdefault.jpg'
       mediaType: video
@@ -113,7 +118,7 @@ episodes:
       title: Mânâ Sohbetleri - 2.Sezon - Masum Sorular Sormak
       url: >-
         https://www.youtube.com/watch?v=_E4NBAuNoQQ&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=6&t=0s
-      viewCount: '179'
+      viewCount: '180'
   - season: '2'
     youtubeURL:
       description: |-
@@ -124,6 +129,7 @@ episodes:
         http://www.youtube.com/kanalhayatplay
         https://www.facebook.com/kanalhayat
         https://twitter.com/kanalhayat
+      duration: PT29M35S
       id: d88LF38LzMo
       imageURL: 'https://i.ytimg.com/vi/d88LF38LzMo/hqdefault.jpg'
       mediaType: video
@@ -132,7 +138,7 @@ episodes:
       title: Mânâ Sohbetleri - 2.Sezon - İçte Olmanın Prensipleri
       url: >-
         https://www.youtube.com/watch?v=d88LF38LzMo&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=7&t=0s
-      viewCount: '121'
+      viewCount: '122'
   - season: '2'
     youtubeURL:
       description: |-
@@ -143,6 +149,7 @@ episodes:
         http://www.youtube.com/kanalhayatplay
         https://www.facebook.com/kanalhayat
         https://twitter.com/kanalhayat
+      duration: PT29M43S
       id: WO65cNLBA0I
       imageURL: 'https://i.ytimg.com/vi/WO65cNLBA0I/hqdefault.jpg'
       mediaType: video
@@ -162,6 +169,7 @@ episodes:
         http://www.youtube.com/kanalhayatplay
         https://www.facebook.com/kanalhayat
         https://twitter.com/kanalhayat
+      duration: PT29M45S
       id: 6AjwkoMW1T4
       imageURL: 'https://i.ytimg.com/vi/6AjwkoMW1T4/hqdefault.jpg'
       mediaType: video
@@ -181,6 +189,7 @@ episodes:
         http://www.youtube.com/kanalhayatplay
         https://www.facebook.com/kanalhayat
         https://twitter.com/kanalhayat
+      duration: PT29M4S
       id: fXvcu30QgtE
       imageURL: 'https://i.ytimg.com/vi/fXvcu30QgtE/hqdefault.jpg'
       mediaType: video
@@ -188,7 +197,7 @@ episodes:
       tags: 'ayık,ve,uyanık,olmak,nedir?'
       title: Mânâ Sohbetleri - Ayık ve Uyanık Olmak nedir?
       url: 'https://youtu.be/fXvcu30QgtE'
-      viewCount: '269'
+      viewCount: '272'
   - season: '2'
     youtubeURL:
       description: |-
@@ -199,6 +208,7 @@ episodes:
         http://www.youtube.com/kanalhayatplay
         https://www.facebook.com/kanalhayat
         https://twitter.com/kanalhayat
+      duration: PT29M29S
       id: kTsml0TA21Y
       imageURL: 'https://i.ytimg.com/vi/kTsml0TA21Y/hqdefault.jpg'
       mediaType: video
@@ -207,6 +217,6 @@ episodes:
       title: Mânâ Sohbetleri - Kalıcı Olanla Bütünleşmek
       url: >-
         https://www.youtube.com/watch?v=kTsml0TA21Y&list=PLQfi14V3hH0Kxtt_9cPvm_US9RumoHWCl&index=11&t=0s
-      viewCount: '99'
+      viewCount: '101'
 ---
 
