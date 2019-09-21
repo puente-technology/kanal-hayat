@@ -227,5 +227,18 @@ episodes:
       title: Evlilik & Öfke
       url: 'https://youtu.be/6pFOQpXWtec'
       viewCount: '377'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Evlilik Sohbetleri - Bölum 13
+      duration: PT27M55S
+      id: Nlo8CcLmaJQ
+      imageURL: 'https://i.ytimg.com/vi/Nlo8CcLmaJQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-02T05:00:34.000Z'
+      tags: 'evlilik,sohbetleri,şiddet'
+      title: Evlilik'te Şiddet
+      url: 'https://youtu.be/Nlo8CcLmaJQ'
+      viewCount: '205'
 ---
 
