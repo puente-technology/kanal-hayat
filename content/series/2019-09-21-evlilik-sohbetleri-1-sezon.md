@@ -266,5 +266,18 @@ episodes:
       title: Evlilikte Roller - 1
       url: 'https://youtu.be/QUPSH0wM0zs'
       viewCount: '163'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Evlilik Sohbetleri - Bölum 16
+      duration: PT28M48S
+      id: UM3yhynroq8
+      imageURL: 'https://i.ytimg.com/vi/UM3yhynroq8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-18T07:30:10.000Z'
+      tags: 'evlilik,sohbetleri,roller'
+      title: Evlilikte Roller - 2
+      url: 'https://youtu.be/UM3yhynroq8'
+      viewCount: '165'
 ---
 
