@@ -278,5 +278,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=xn9D_8ZT0oM&list=PLQfi14V3hH0JddI2DibX3bd5ZgqNvUcAO&index=9&t=0s
       viewCount: '560'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik ve konuklarıyla birlikte farklı konularda kelam temelinde
+        gerçekleştirdiği "Derin Değişim" programını sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        Adanmış Hayatlar
+
+        Kaygılı Bir Kadın Marta
+
+        İncil'deki Samiriyeli Kadın..
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M29S
+      id: 8AVTjA5QsmY
+      imageURL: 'https://i.ytimg.com/vi/8AVTjA5QsmY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-11-03T09:23:50.000Z'
+      tags: 'derin,bir,değişim,rut,rab,yokluktan,berekete,kavuşturuyor'
+      title: 'RUT : RAB YOKLUKTAN BEREKETE KAVUŞTURUR'
+      url: >-
+        https://www.youtube.com/watch?v=8AVTjA5QsmY&list=PLQfi14V3hH0JddI2DibX3bd5ZgqNvUcAO&index=10&t=0s
+      viewCount: '486'
 ---
 
