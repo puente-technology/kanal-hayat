@@ -74,5 +74,26 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=t0eMqamzg04&list=PLQfi14V3hH0LbddOIa6oa292ZxHygA6oK&index=3&t=0s
       viewCount: '809'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Evlilik için ilk Adım
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.
+
+        Rab yaşamınızı,ailenizi ve evliliklerinizi bereketlesin. Amin.Esen
+        Kalın.
+      duration: PT27M48S
+      id: 6tuL2_tf23I
+      imageURL: 'https://i.ytimg.com/vi/6tuL2_tf23I/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T09:29:16.000Z'
+      tags: '#evlilik,#ilk,#adım,#mutlu,#aile,#iletişim'
+      title: Tek Beden Olmak - 2
+      url: >-
+        https://www.youtube.com/watch?v=6tuL2_tf23I&list=PLQfi14V3hH0LbddOIa6oa292ZxHygA6oK&index=4&t=0s
+      viewCount: '329'
 ---
 
