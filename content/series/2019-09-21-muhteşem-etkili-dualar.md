@@ -53,5 +53,22 @@ episodes:
       title: MEZMUR 2- MUHTEŞEM ERKILI DUALAR
       url: 'https://youtu.be/RBdzMvls36w'
       viewCount: '265'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Muhteşem Etkili Dualar serimize 3. Mezmur ile devam ediyoruz! Bu
+        öğretinin Tanrı'ya nasıl güveneceğinizi göstermesi için dua ve umut
+        ediyorum. Tanrı tarafından verilmiş her günde, O karşılaştığınız tüm
+        durumlarda sizi koruyacaktır!
+      duration: PT8M57S
+      id: dAoGaDOsc5g
+      imageURL: 'https://i.ytimg.com/vi/dAoGaDOsc5g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-01-17T18:57:42.000Z'
+      tags: 'dua,etkili,muhteşem'
+      title: Muhteşem Etkili Dualar 3
+      url: 'https://youtu.be/dAoGaDOsc5g'
+      viewCount: '423'
 ---
 
