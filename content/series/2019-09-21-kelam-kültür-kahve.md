@@ -885,5 +885,37 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=WHsOe077QrQ&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=14&t=0s
       viewCount: '6493'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Sezon 01 Bölüm 03
+
+        Hristiyan Olmanın Zorlukları
+
+        Hristiyan olmak zor mu? Peki ya Türkiye’de bir Hristiyan olmak?
+        Zorluklar ve sıkıntılar karşısında ne yapmalıyız? Kelam Kültür Kahve’de
+        bu hafta, ‘Hristiyan Olmanın Zorlukları’ hakkında konuşuyoruz!
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT30M34S
+      id: fSCcUVoIEQw
+      imageURL: 'https://i.ytimg.com/vi/fSCcUVoIEQw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-09-22T17:40:58.000Z'
+      tags: >-
+        inanç,gençlik,Hristiyan,Cinsellik,Şüphe,Depresyon,Eşcinsellik,Sigara,Alkol,Alışılmış
+        Kötülük,Bağımlılık,Kürtaj,Zenginlik,Kanal Hayat,gençler,hz
+        isa,homolar,ibadet
+      title: 'Hristiyan Olmanın Zorlukları [Kelam Kültür Kahve 03]'
+      url: >-
+        https://www.youtube.com/watch?v=fSCcUVoIEQw&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=15&t=0s
+      viewCount: '38569'
 ---
 
