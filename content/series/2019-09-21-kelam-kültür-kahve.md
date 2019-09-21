@@ -490,5 +490,96 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Ck6ashQQ6XM&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=6&t=0s
       viewCount: '2112'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Din ve Bilim Çelişir mi? İnsanın ve dünyanın yaratılışı hakkında din ve
+        bilim çelişiyor mu? Ya da, tek bir doğru var ve bizler bu doğruyu birden
+        fazlaymış gibi mi gösteriyoruz? Peki ya evrim? Kelam Kültür Kahve’de bu
+        hafta, "Din ve Bilim" konusuyla sizlerleyiz.
+
+
+        ======================
+
+
+        ''KELAM KÜLTÜR KAHVE'' PROGRAMINDA NE YAPIYORUZ?
+
+
+        Kelam Kültür Kahve programımızda pek çok insanın konuşmaktan kaçındığı
+        konular da dahil olmak üzere birçok konuyu açıkça konuşuyoruz.
+        İnanıyoruz ki bazı konularda farklı düşüncelere sahip olsak da, tam bir
+        dürüstlük ve arkadaşlık alanı yaratarak, bu konuları sağlıklı bir
+        tartışma ortamında paylaşabilir ve birlikte bu konulara Kutsal Kitap’ın
+        ışığını tutabiliriz.
+
+
+        ====================== 
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        Programda çıkan gençlerin hikayeleri, kamera arkası görüntüleri, ilahi
+        akorları ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz.
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        - İnancını Sorgula! - Spoken Word
+
+        https://youtu.be/3TBKF577Ino
+
+
+        - Acaba #9 - Tanrı’yı Tanıyabilir miyiz?
+
+        https://youtu.be/T0QKamxtWp8
+
+
+        - Kayra - Gözlerimi Dağlara Kaldırıyorum [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/vWPJKP06tJY
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT30M55S
+      id: 01lMeBxDjhg
+      imageURL: 'https://i.ytimg.com/vi/01lMeBxDjhg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-15T13:59:54.000Z'
+      tags: >-
+        Hristiyan,Hristiyanlık,Kelam,Kültür,Kahve,Gençlik,İsa,Mesih,Kutsal,Kitap,Tartışma,Programı,Humberto,Damla,Selami,Çiğdem,Elif,Batuhan,Sorgula,Araştır,Tanrı,Allah,Gerçek,Din,bilim,ilişki,Nedir,umut
+        kalesi,kilise,inanc,evrim,mitoloji,incil,kuran,sümer,3k
+      title: 'Din & Bilim Çelişir mi? [Kelam Kültür Kahve]'
+      url: >-
+        https://www.youtube.com/watch?v=01lMeBxDjhg&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=7&t=0s
+      viewCount: '3215'
 ---
 
