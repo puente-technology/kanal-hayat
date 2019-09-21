@@ -161,5 +161,22 @@ episodes:
       title: Muhteşem Etkili Dualar 23
       url: 'https://youtu.be/SEmV9N_WwHA'
       viewCount: '254'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Muhteşem Etkili Dualar serimize 24. Mezmur ile devam ediyoruz! Bu
+        mezmuru çok seviyorum. Çünkü Tek ve Bir olan Tanrı'yı yüceltiyor ve
+        övüyor. Dua ediyorum ki, hizmet ettiğimiz Tanrı’nın Kralların Kralı ve
+        Rablerin Rabbi olduğunu bilerek cesaretle dolun.
+      duration: PT20M10S
+      id: 20zcUIDh098
+      imageURL: 'https://i.ytimg.com/vi/20zcUIDh098/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-03-13T17:57:46.000Z'
+      tags: 'muhteşem,etkili,dua'
+      title: Muhteşem Etkili Dualar 24
+      url: 'https://youtu.be/20zcUIDh098'
+      viewCount: '490'
 ---
 
