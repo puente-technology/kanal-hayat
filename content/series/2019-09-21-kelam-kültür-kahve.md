@@ -581,5 +581,119 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=01lMeBxDjhg&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=7&t=0s
       viewCount: '3215'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dünyada birçok din ve felsefe vardır. Yüzeysel olarak hepsi güzel
+        ahlakı, iyiliği, barışı, sevgiyi öğretse de, özünde bütün bu dinler ve
+        felsefeler aslında birbirinden çok farklıdır. Kelam Kültür Kahve’nin
+        yeni sezonun ilk bölümünde, bu inanışlardan sadece biri olan,
+        "Hristiyanlık"  hakkında tartışıyoruz.
+
+
+        Hiç İncil okudunuz mu? Ücretsiz İncil için;
+
+        https://www.kutsalkitap.org/ucretsiz-incil/
+
+
+        ======================
+
+
+        Merak edenler için önceki sezondan birkaç bölüm:
+
+
+        - Şüphe [Kelam Kültür Kahve]
+
+        https://youtu.be/QsVAjKBT71E
+
+
+        - Hristiyan Olmanın Zorlukları [Kelam Kültür Kahve]
+
+        https://youtu.be/fSCcUVoIEQw
+
+
+        ======================
+
+
+        ''KELAM KÜLTÜR KAHVE'' PROGRAMINDA NE YAPIYORUZ?
+
+
+        Kelam Kültür Kahve programımızda pek çok insanın konuşmaktan kaçındığı
+        konular da dahil olmak üzere birçok konuyu açıkça konuşuyoruz.
+        İnanıyoruz ki bazı konularda farklı düşüncelere sahip olsak da, tam bir
+        dürüstlük ve arkadaşlık alanı yaratarak, bu konuları sağlıklı bir
+        tartışma ortamında paylaşabilir ve birlikte bu konulara Kutsal Kitap’ın
+        ışığını tutabiliriz.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        Programda çıkan gençlerin hikayeleri, kamera arkası görüntüleri, ilahi
+        akorları ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        Manolya - Gör O’nun Yüce Sevgisini [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/3q2W4kCwLxg
+
+
+        Acaba #8 - Özde Hristiyanlık
+
+        https://youtu.be/x8CATcq8oJ0
+
+
+        İsa Tanrı mı?  [Kelam Kültür Kahve]
+
+        https://youtu.be/GGckSJSMfng
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT33M56S
+      id: EsPXzC_Ty7Y
+      imageURL: 'https://i.ytimg.com/vi/EsPXzC_Ty7Y/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-08T20:08:48.000Z'
+      tags: >-
+        Hristiyan,Hristiyanlık,Kelam,Kültür,Kahve,Gençlik,İsa,Mesih,Kutsal,Kitap,Tartışma,programı,Humberto,Damla,Selami,Çiğdem,Selin,Elif,Batuhan,sorgula,araştır,Tanrı,Allah,Gerçek,Hristiyan
+        olmak,Hristiyanlık nedir,Nedir,din,inanc,kilise,incil,mesih,3k,umut
+        kalesi
+      title: 'Hristiyanlık Nedir? [Kelam Kültür Kahve]'
+      url: >-
+        https://www.youtube.com/watch?v=EsPXzC_Ty7Y&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=8&t=0s
+      viewCount: '8673'
 ---
 
