@@ -95,5 +95,26 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=6tuL2_tf23I&list=PLQfi14V3hH0LbddOIa6oa292ZxHygA6oK&index=4&t=0s
       viewCount: '329'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Evlilikte İletişim 
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.
+
+        Rab yaşamınızı,ailenizi ve evliliklerinizi bereketlesin. Amin.Esen
+        Kalın.
+      duration: PT28M57S
+      id: hI22JRf101Y
+      imageURL: 'https://i.ytimg.com/vi/hI22JRf101Y/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T09:29:55.000Z'
+      tags: '#evlilik,#ilk,#adım,#mutlu,#aile,#iletişim'
+      title: Evlilikte İletişim - 1
+      url: >-
+        https://www.youtube.com/watch?v=hI22JRf101Y&list=PLQfi14V3hH0LbddOIa6oa292ZxHygA6oK&index=5&t=0s
+      viewCount: '469'
 ---
 
