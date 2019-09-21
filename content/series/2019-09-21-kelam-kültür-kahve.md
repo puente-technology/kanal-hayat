@@ -981,5 +981,39 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=QsVAjKBT71E&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=17&t=0s
       viewCount: '4456'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Sezon 01 Bölüm 01
+
+        Cinsellik & Hristiyanlık
+
+        Hristiyan biri, Hristiyan olmayan birisiyle ilişkide olabilir mi?
+        Hristiyanların ilişkilerinde ne gibi faktörler etkindir? Evlilik öncesi
+        cinsellik konusunda Kutsal Kitap ne diyor? Bunlara ve daha fazlasına
+        yanıt  verdiğimiz Kelam Kültür Kahve’nin, ‘’Cinsellik ve Hristiyanlık’’
+        bölümüyle bu hafta karşınızdayız!
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M13S
+      id: GVTv3l00K9Y
+      imageURL: 'https://i.ytimg.com/vi/GVTv3l00K9Y/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-09-22T17:04:42.000Z'
+      tags: >-
+        inanç,gençlik,Hristiyan,Cinsellik,Şüphe,Depresyon,Eşcinsellik,Sigara,Alkol,Alışılmış
+        Kötülük,Bağımlılık,Kürtaj,Zenginlik,Kanal Hayat,gençler,hz
+        isa,homolar,ibadet
+      title: 'Cinsellik [Kelam Kültür Kahve 01]'
+      url: >-
+        https://www.youtube.com/watch?v=GVTv3l00K9Y&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=18&t=0s
+      viewCount: '10418'
 ---
 
