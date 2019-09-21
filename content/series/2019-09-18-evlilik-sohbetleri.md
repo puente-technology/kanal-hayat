@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: Evlilik Sohbetleri
+title: EVLİLİK SOHBETLERİ
 publishDate: .
 coverImage: /images/uploads/evlilik-sohbetleri.png
 host: Ali ve Pervin Kalkandelen ile
