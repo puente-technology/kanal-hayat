@@ -340,5 +340,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=_lUDB3mAt-k&list=PLQfi14V3hH0JddI2DibX3bd5ZgqNvUcAO&index=11&t=0s
       viewCount: '210'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik ve konuklarıyla birlikte farklı konularda kelam temelinde
+        gerçekleştirdiği "Derin Değişim" programını sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        Adanmış Hayatlar
+
+        Kaygılı Bir Kadın Marta
+
+        İncil'deki Samiriyeli Kadın..
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M3S
+      id: Ra_kscVootM
+      imageURL: 'https://i.ytimg.com/vi/Ra_kscVootM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-08-07T08:55:12.000Z'
+      tags: 'derin,değişim,rut,senin,tanrın,benim,tanrım,olacak,hristiyan kadınlar'
+      title: 'RUT - SENİN TANRIN BENİM TANRIM OLACAK [2]'
+      url: >-
+        https://www.youtube.com/watch?v=Ra_kscVootM&list=PLQfi14V3hH0JddI2DibX3bd5ZgqNvUcAO&index=12&t=0s
+      viewCount: '65'
 ---
 
