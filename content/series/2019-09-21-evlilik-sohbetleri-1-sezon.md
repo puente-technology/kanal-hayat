@@ -48,5 +48,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=RF-ycXxlqkw&list=PLQfi14V3hH0LbddOIa6oa292ZxHygA6oK&index=2&t=0s
       viewCount: '1556'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Tek Beden Olmak 
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M51S
+      id: t0eMqamzg04
+      imageURL: 'https://i.ytimg.com/vi/t0eMqamzg04/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T09:29:01.000Z'
+      tags: '#evlilik,#ilk,#adım,#mutlu,#aile,#iletişim,#tek,#beden,#olmak'
+      title: Tek Beden Olmak - 1
+      url: >-
+        https://www.youtube.com/watch?v=t0eMqamzg04&list=PLQfi14V3hH0LbddOIa6oa292ZxHygA6oK&index=3&t=0s
+      viewCount: '809'
 ---
 
