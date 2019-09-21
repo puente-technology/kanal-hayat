@@ -823,5 +823,37 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=igeBqk_Tnsc&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=12&t=0s
       viewCount: '1616'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Sezon 01 Bölüm 06
+
+        Sigara, Alkol ve Kumar Günah mı?
+
+        Hristiyanlık’ta sigara, alkol, kumar günah mı? Peki ya dövme yaptırmak
+        günah mı? Kutsal Kitap bu konularda ne diyor? Bu haftaki Kelam Kültür
+        Kahve’de bunları ve daha fazlasını konuşuyoruz!
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT36M38S
+      id: tmU3Ar1l6Ms
+      imageURL: 'https://i.ytimg.com/vi/tmU3Ar1l6Ms/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-15T12:15:11.000Z'
+      tags: >-
+        inanç,gençlik,Hristiyan,Cinsellik,Şüphe,Depresyon,Eşcinsellik,Sigara,Alkol,Alışılmış
+        Kötülük,Bağımlılık,Kürtaj,Zenginlik,Kanal Hayat,gençler,hz
+        isa,homolar,ibadet
+      title: 'Sigara - Alkol - Kumar [Kelam Kültür Kahve 06]'
+      url: >-
+        https://www.youtube.com/watch?v=tmU3Ar1l6Ms&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=13&t=0s
+      viewCount: '4095'
 ---
 
