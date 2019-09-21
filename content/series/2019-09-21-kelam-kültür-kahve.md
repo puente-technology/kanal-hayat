@@ -400,5 +400,95 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=qCR_7BXr1H4&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=5&t=0s
       viewCount: '2169'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        ''Affetmek büyüklüktür'' denilir. Peki gerçekten affetmek nedir?  Bizde
+        ya da sevdiğimiz birinde derin yaralar bırakmış birini affedebilir mi
+        insan? Kelam Kültür Kahve’de bu hafta, "Affetmek" konusuyla sizlerleyiz.
+
+
+        ======================
+
+
+        ''KELAM KÜLTÜR KAHVE'' PROGRAMINDA NE YAPIYORUZ?
+
+
+        Kelam Kültür Kahve programımızda pek çok insanın konuşmaktan kaçındığı
+        konular da dahil olmak üzere birçok konuyu açıkça konuşuyoruz.
+        İnanıyoruz ki bazı konularda farklı düşüncelere sahip olsak da, tam bir
+        dürüstlük ve arkadaşlık alanı yaratarak, bu konuları sağlıklı bir
+        tartışma ortamında paylaşabilir ve birlikte bu konulara Kutsal Kitap’ın
+        ışığını tutabiliriz.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        Programda çıkan gençlerin hikayeleri, kamera arkası görüntüleri, ilahi
+        akorları ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        Tanrı İyiyse Neden Acı Var? [Kelam Kültür Kahve]
+
+        https://youtu.be/SMFCsw9NeVs
+
+
+        Nasıl Bir Sevgi Bu [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/8GzXRAF1B1E
+
+
+        Acaba #15 - Hristiyanlığı Hiç Duymadılarsa?
+
+        https://youtu.be/O5ir3KtvaA4
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT33M4S
+      id: Ck6ashQQ6XM
+      imageURL: 'https://i.ytimg.com/vi/Ck6ashQQ6XM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-22T14:04:16.000Z'
+      tags: >-
+        Hristiyan,Hristiyanlık,Kelam,Kültür,Kahve,Gençlik,İsa,Mesih,Kutsal,Kitap,Tartışma,Programı,Humberto,Damla,Selami,Çiğdem,Selin,Batuhan,Sorgula,Araştır,Tanrı,Allah,Gerçek,Din,İlişki,Affetmek,Bağışlamak,Nedir,Çarmıh,incil,kilise,ortodoks,katolik,protestan,3k,umut
+        kalesi,isus christos,özür dilemek
+      title: 'Her Şeyi Affetmeli miyiz? [Kelam Kültür Kahve]'
+      url: >-
+        https://www.youtube.com/watch?v=Ck6ashQQ6XM&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=6&t=0s
+      viewCount: '2112'
 ---
 
