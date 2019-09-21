@@ -917,5 +917,38 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=fSCcUVoIEQw&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=15&t=0s
       viewCount: '38569'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Sezon 01 Bölüm 04
+
+        Depresyon & İntihar / Hristiyanların Depresyona Bakışı
+
+        Hristiyanların depresyona bakış açısı nedir? Hristiyanların depresyona
+        girmesi yanlış mı? Depresyondaysak ne yapabiliriz, Tanrı’dan nasıl güç
+        alabiliriz? Bu hafta yepyeni bir Kelam Kültür Kahve’de, bunları ve daha
+        fazlasını tartışıyoruz!
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT30M20S
+      id: aeKDgBF_Vm0
+      imageURL: 'https://i.ytimg.com/vi/aeKDgBF_Vm0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-09-22T17:40:42.000Z'
+      tags: >-
+        inanç,gençlik,Hristiyan,Cinsellik,Şüphe,Depresyon,Eşcinsellik,Sigara,Alkol,Alışılmış
+        Kötülük,Bağımlılık,Kürtaj,Zenginlik,Kanal Hayat,gençler,hz
+        isa,homolar,ibadet
+      title: 'Depresyon ve İntihar [Kelam Kültür Kahve 04]'
+      url: >-
+        https://www.youtube.com/watch?v=aeKDgBF_Vm0&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=16&t=0s
+      viewCount: '2666'
 ---
 
