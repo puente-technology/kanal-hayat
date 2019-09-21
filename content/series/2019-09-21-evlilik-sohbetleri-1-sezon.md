@@ -279,5 +279,18 @@ episodes:
       title: Evlilikte Roller - 2
       url: 'https://youtu.be/UM3yhynroq8'
       viewCount: '165'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Evlilik Sohbetleri - Bölum 17
+      duration: PT28M33S
+      id: isKTu44UgB8
+      imageURL: 'https://i.ytimg.com/vi/isKTu44UgB8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-29T14:08:32.000Z'
+      tags: 'evlilik,sohbetleri,roller,çocuk,yetiştirme'
+      title: Evlilik ve Çocuk yetiştirme
+      url: 'https://youtu.be/isKTu44UgB8'
+      viewCount: '233'
 ---
 
