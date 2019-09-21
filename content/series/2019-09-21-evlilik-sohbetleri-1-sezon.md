@@ -305,5 +305,18 @@ episodes:
       title: Çocuklara Ceza Yöntemleri
       url: 'https://youtu.be/71tSthlFNrE'
       viewCount: '653'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Evlilik Sohbetleri - Bölüm 19
+      duration: PT28M58S
+      id: 7T9FWkViSiM
+      imageURL: 'https://i.ytimg.com/vi/7T9FWkViSiM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-17T12:40:04.000Z'
+      tags: 'evlilik,sohbetleri,zina,aldatma,üzerine sohbet'
+      title: Evlilikte Zina ve Aldatma üzerine..
+      url: 'https://youtu.be/7T9FWkViSiM'
+      viewCount: '814'
 ---
 
