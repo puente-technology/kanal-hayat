@@ -253,5 +253,18 @@ episodes:
       title: Evlilikte Bağışlamanın Önemi
       url: 'https://youtu.be/MrQ1_kNlfgA'
       viewCount: '322'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Evlilik Sohbetleri - Bölum 15
+      duration: PT24M24S
+      id: QUPSH0wM0zs
+      imageURL: 'https://i.ytimg.com/vi/QUPSH0wM0zs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-13T16:56:00.000Z'
+      tags: 'evlilik,sohbetleri,bağışlama,önemlidir,roller'
+      title: Evlilikte Roller - 1
+      url: 'https://youtu.be/QUPSH0wM0zs'
+      viewCount: '163'
 ---
 
