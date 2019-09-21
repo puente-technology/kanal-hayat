@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Kelam Kültür Kahve
 publishDate: .
-coverImage: /images/uploads/kelam-kültür-kahve.png
+coverImage: /images/uploads/33517743_1700860566645797_8200231498901618688_n.png
 host: Humberto Coello
 description: >-
   Kelam Kültür ve Kahve Hristiyan bakış açısıyla farklı konuları birbirinden
