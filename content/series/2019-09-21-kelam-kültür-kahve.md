@@ -306,5 +306,99 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=UnPRcgwAa-k&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=4&t=0s
       viewCount: '2901'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Hristiyanlar büyücülüğe nasıl bakar? Büyücülük günah mıdır? Peki ya bize
+        büyü yapılırsa? Cin ve Cin çağırma nedir? Kelam Kültür Kahve’de bu
+        hafta, ''Büyücülük'' konusuyla sizlerleyiz.
+
+
+        ======================
+
+
+        ''KELAM KÜLTÜR KAHVE'' PROGRAMINDA NE YAPIYORUZ?
+
+
+        Kelam Kültür Kahve programımızda pek çok insanın konuşmaktan kaçındığı
+        konular da dahil olmak üzere birçok konuyu açıkça konuşuyoruz.
+        İnanıyoruz ki bazı konularda farklı düşüncelere sahip olsak da, tam bir
+        dürüstlük ve arkadaşlık alanı yaratarak, bu konuları sağlıklı bir
+        tartışma ortamında paylaşabilir ve birlikte bu konulara Kutsal Kitap’ın
+        ışığını tutabiliriz.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ:
+
+
+        Programda çıkan gençlerin hikayeleri, kamera arkası görüntüleri, ilahi
+        akorları ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz.
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        - Acaba #14 - Büyücülük, Wiccanlar ve Astroloji
+
+        https://youtu.be/d4hLr8mxf5w
+
+
+        - Michal - Umudumu Rab’be Bağlıyorum [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/8rzxOEysntM
+
+
+        - Sahte Tanrılar - Spoken Word 
+
+        https://youtu.be/H6NLbt6fvlo
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT31M20S
+      id: qCR_7BXr1H4
+      imageURL: 'https://i.ytimg.com/vi/qCR_7BXr1H4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-29T13:59:42.000Z'
+      tags: >-
+        hristiyan,hristiyanlık,christian,christianity,kelam,kültür,kahve,isa,Jesus,Mesih,Kutsal
+        Kitap,Bible,Gençlik,Programı,Büyücülük,Büyü,Cin,Muska,Musallat,İsa,Cin
+        Çıkarma,Çıkarma,Pro,Şeytan,çağırma,cin çağırma,şeytan
+        çıkarma,sihirli,kutsal,Aşk İçin Büyü Günah Mı?,papaz büyüsü,Büyü Yapmak
+        Günah Mı,umut kalesi,kelam kültür
+        kahve,3k,humberto,tanri,allah,incil,kilise,inanc
+      title: 'Büyücülük & Hristiyanlık [Kelam Kültür Kahve]'
+      url: >-
+        https://www.youtube.com/watch?v=qCR_7BXr1H4&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=5&t=0s
+      viewCount: '2169'
 ---
 
