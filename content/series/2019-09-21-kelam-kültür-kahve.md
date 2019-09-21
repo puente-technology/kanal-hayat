@@ -950,5 +950,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=aeKDgBF_Vm0&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=16&t=0s
       viewCount: '2666'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Sezon 01 Bölüm 02
+
+        Şüphe / İnancımızdan Şüphe Duymak
+
+        İnancımızdan hiç şüphe duyduk mu? Şüphe duymamız yanlış mı? Şüphe
+        duyunca ne yapmalıyız? Bu sorulara ve daha fazlasına yanıt verdiğimiz bu
+        haftaki Kelam Kültür Kahve bölümümüz sizlerle!
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT34M
+      id: QsVAjKBT71E
+      imageURL: 'https://i.ytimg.com/vi/QsVAjKBT71E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-09-22T17:04:54.000Z'
+      tags: >-
+        inanç,gençlik,Hristiyan,Cinsellik,Şüphe,Depresyon,Eşcinsellik,Sigara,Alkol,Alışılmış
+        Kötülük,Bağımlılık,Kürtaj,Zenginlik,Kanal Hayat
+      title: 'Şüphe [Kelam Kültür Kahve 02]'
+      url: >-
+        https://www.youtube.com/watch?v=QsVAjKBT71E&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=17&t=0s
+      viewCount: '4456'
 ---
 
