@@ -169,5 +169,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=A69MxzC_6cM&list=PLQfi14V3hH0LbddOIa6oa292ZxHygA6oK&index=8&t=0s
       viewCount: '104'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Evlilik Sohbetleri - Bölum 9
+      duration: PT29M8S
+      id: vTuE4fLLT_c
+      imageURL: 'https://i.ytimg.com/vi/vTuE4fLLT_c/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-23T06:39:47.000Z'
+      tags: 'evlilik,sohbetleri,aşk,iletişim'
+      title: Evlilik ve Aşk - 1
+      url: 'https://youtu.be/vTuE4fLLT_c'
+      viewCount: '196'
 ---
 
