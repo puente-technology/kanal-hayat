@@ -4,18 +4,14 @@ title: Sorgulayan Gelsin
 publishDate: .
 coverImage: /images/uploads/sorgulayan.png
 host: Can Nuroğlu
-description: >-
-  Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Sorgulayan Gelsin"
-  programını Kanal Hayat ekranlarından veya youtube sayfamızdan takip
-  edebilirsiniz.Esen Kalın.
-
-  http://kanalhayat.tv/
-
-  http://www.youtube.com/kanalhayatplay
-
-  https://www.facebook.com/kanalhayat
-
-  https://twitter.com/kanalhayat
+description: |
+  Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği 
+  "Sorgulayan Gelsin" programını Kanal Hayat ekranlarından 
+  veya youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+  Tanrı'yı Sorgulamak Günah Mı ?
+  Tanrı'nın Varlığını Kanıtlamak Mümkün Mü?
+  Hayat Evrim Sonucu Mu Oluştu?
+  Tanrı Neden Kötülüğe İzin Veriyor?..
 targetGroup: Herkes
 language: '0'
 selectedCategories:
