@@ -563,5 +563,39 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=KywdTVlzlAc&list=PLQfi14V3hH0JddI2DibX3bd5ZgqNvUcAO&index=18&t=0s
       viewCount: '244'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik ve konuklarıyla birlikte farklı konularda kelam temelinde
+        gerçekleştirdiği "Derin Değişim" programını sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        Adanmış Hayatlar
+
+        Kaygılı Bir Kadın Marta
+
+        İncil'deki Samiriyeli Kadın..
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M57S
+      id: s_5lpniajPM
+      imageURL: 'https://i.ytimg.com/vi/s_5lpniajPM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-05-25T16:34:40.000Z'
+      tags: >-
+        tam bir
+        teslimiyet,meryem,derin,değişim,iman,ile,yüzleşmek,erdemli,kadınlar,isa
+        mesih,hristiyan kadınlar,kaygılı,bir kadın,marta
+      title: Derin Değişim - TAM BİR TESLİMİYET – MERYEM
+      url: >-
+        https://www.youtube.com/watch?v=s_5lpniajPM&list=PLQfi14V3hH0JddI2DibX3bd5ZgqNvUcAO&index=19&t=0s
+      viewCount: '277'
 ---
 
