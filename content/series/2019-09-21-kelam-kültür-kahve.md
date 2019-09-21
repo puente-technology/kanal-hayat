@@ -726,5 +726,37 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=8mhS3xfdLdM&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=9&t=0s
       viewCount: '1823'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Sezon 01 Bölüm 09
+
+        Kürtaj & Hristiyanlık / Hristiyanların Kürtaja Bakışı
+
+        Hristiyanlar olarak kürtaja bakışımız nedir? Kutsal Kitap bu konuda bir
+        şey der mi? Bir Hristiyan kürtajı bir seçenek olarak düşünebilir mi?
+        Kelam Kültür Kahve’de bu hafta, ‘Kürtaj’ hakkında konuşuyoruz.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT30M18S
+      id: 9Fr4YK1S-CQ
+      imageURL: 'https://i.ytimg.com/vi/9Fr4YK1S-CQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-02T10:48:48.000Z'
+      tags: >-
+        inanç,gençlik,Hristiyan,Cinsellik,Şüphe,Depresyon,Eşcinsellik,Sigara,Alkol,Alışılmış
+        Kötülük,Bağımlılık,Kürtaj,Zenginlik,Kanal Hayat,gençler,hz
+        isa,homolar,ibadet
+      title: 'Kürtaj [Kelam Kültür Kahve 09]'
+      url: >-
+        https://www.youtube.com/watch?v=9Fr4YK1S-CQ&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=10&t=0s
+      viewCount: '1200'
 ---
 
