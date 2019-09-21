@@ -309,5 +309,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=8AVTjA5QsmY&list=PLQfi14V3hH0JddI2DibX3bd5ZgqNvUcAO&index=10&t=0s
       viewCount: '486'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik ve konuklarıyla birlikte farklı konularda kelam temelinde
+        gerçekleştirdiği "Derin Değişim" programını sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        Adanmış Hayatlar
+
+        Kaygılı Bir Kadın Marta
+
+        İncil'deki Samiriyeli Kadın..
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M47S
+      id: _lUDB3mAt-k
+      imageURL: 'https://i.ytimg.com/vi/_lUDB3mAt-k/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-09-17T07:19:53.000Z'
+      tags: 'itaatin,ve,iyiliğin,güçlü,etkisi,derin,değişim,incil,hristiyan kadınlar'
+      title: 'RUT : İTAATİN ve İYİLİĞİN GÜÇLÜ ETKİSİ'
+      url: >-
+        https://www.youtube.com/watch?v=_lUDB3mAt-k&list=PLQfi14V3hH0JddI2DibX3bd5ZgqNvUcAO&index=11&t=0s
+      viewCount: '210'
 ---
 
