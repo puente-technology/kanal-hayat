@@ -214,5 +214,18 @@ episodes:
       title: Beş Sevgi Dili
       url: 'https://youtu.be/oWpMsK8QjAM'
       viewCount: '1915'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Evlilik Sohbetleri - Bölum 12
+      duration: PT28M29S
+      id: 6pFOQpXWtec
+      imageURL: 'https://i.ytimg.com/vi/6pFOQpXWtec/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-24T06:27:26.000Z'
+      tags: 'evlilik,öfke,sohbetleri'
+      title: Evlilik & Öfke
+      url: 'https://youtu.be/6pFOQpXWtec'
+      viewCount: '377'
 ---
 
