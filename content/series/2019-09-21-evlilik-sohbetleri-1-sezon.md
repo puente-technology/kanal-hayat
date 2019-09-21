@@ -240,5 +240,18 @@ episodes:
       title: Evlilik'te Şiddet
       url: 'https://youtu.be/Nlo8CcLmaJQ'
       viewCount: '205'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Evlilik Sohbetleri - Bölum 14
+      duration: PT28M17S
+      id: MrQ1_kNlfgA
+      imageURL: 'https://i.ytimg.com/vi/MrQ1_kNlfgA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-04T06:12:38.000Z'
+      tags: 'evlilik,sohbetleri,bağışlama,önemlidir'
+      title: Evlilikte Bağışlamanın Önemi
+      url: 'https://youtu.be/MrQ1_kNlfgA'
+      viewCount: '322'
 ---
 
