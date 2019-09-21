@@ -371,5 +371,38 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Ra_kscVootM&list=PLQfi14V3hH0JddI2DibX3bd5ZgqNvUcAO&index=12&t=0s
       viewCount: '65'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik ve konuklarıyla birlikte farklı konularda kelam temelinde
+        gerçekleştirdiği "Derin Değişim" programını sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        Adanmış Hayatlar
+
+        Kaygılı Bir Kadın Marta
+
+        İncil'deki Samiriyeli Kadın..
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M46S
+      id: b-Fmh4MfXQg
+      imageURL: 'https://i.ytimg.com/vi/b-Fmh4MfXQg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-07-19T22:00:51.000Z'
+      tags: >-
+        acı,çekerken,rab,nerdesin,derin,değişim,rabbin,ayakları,dibindeki,bir
+        kadın,meryem
+      title: 'RUT : ACI ÇEKERKEN RAB NEREDESİN? [1]'
+      url: >-
+        https://www.youtube.com/watch?v=b-Fmh4MfXQg&list=PLQfi14V3hH0JddI2DibX3bd5ZgqNvUcAO&index=13&t=0s
+      viewCount: '351'
 ---
 
