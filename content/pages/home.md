@@ -128,7 +128,7 @@ program2:
     programı yapmıştır ve yeni programları için çekimlere devam edilmektedir.
   thumbnailTitle: İzlemek için Tıklayın!
   thumbnails:
-    - image: /images/uploads/screen-shot-2019-09-13-at-13.54.33.png
+    - image: /images/uploads/sorgulayan-gelsi̇n.png
       youtubeURL:
         description: >-
           Tanrı'yı sorgulamak günah mı? - [Sorgulayan Gelsin 01]
@@ -156,7 +156,7 @@ program2:
         url: >-
           https://www.youtube.com/watch?v=5Qe7222lmbA&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=2&t=0s
         viewCount: '6791'
-    - image: /images/uploads/screen-shot-2019-09-13-at-13.54.33.png
+    - image: /images/uploads/sorgulayan-gelsi̇n.png
       youtubeURL:
         description: >-
           Kutsal Kitap’a güvenebilir miyiz? - [Sorgulayan Gelsin 08]
