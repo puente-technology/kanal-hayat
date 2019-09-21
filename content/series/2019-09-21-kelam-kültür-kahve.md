@@ -790,5 +790,38 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=9rPn0E00ruA&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=11&t=0s
       viewCount: '854'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Sezon 01 Bölüm 07
+
+        Alışılmış Kötülük / Alıştığımız Kötülükler Nelerdir?
+
+        Alıştığımız kötülükler nelerdir? Küfür, iddia, faiz gibi şeyler yanlış
+        mıdır? Bir Hristiyan küfürlü müzik dinleyebilir mi? Ya da cinsel
+        içerikli bir film izleyebilir mi? Kelam Kültür Kahve’nin bu haftaki
+        bölümünde bu konuları konuşuyoruz!
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT32M2S
+      id: igeBqk_Tnsc
+      imageURL: 'https://i.ytimg.com/vi/igeBqk_Tnsc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-15T12:15:30.000Z'
+      tags: >-
+        inanç,gençlik,Hristiyan,Cinsellik,Şüphe,Depresyon,Eşcinsellik,Sigara,Alkol,Alışılmış
+        Kötülük,Bağımlılık,Kürtaj,Zenginlik,Kanal Hayat,gençler,hz
+        isa,homolar,ibadet
+      title: 'Alışılmış Kötülük [Kelam Kültür Kahve 07]'
+      url: >-
+        https://www.youtube.com/watch?v=igeBqk_Tnsc&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=12&t=0s
+      viewCount: '1616'
 ---
 
