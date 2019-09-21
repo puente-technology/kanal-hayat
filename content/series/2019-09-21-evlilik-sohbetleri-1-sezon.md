@@ -201,5 +201,18 @@ episodes:
       title: Evlilik ve Aşk - 2
       url: 'https://youtu.be/sdVXu5yuxHY'
       viewCount: '240'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Evlilik Sohbetleri - Bölum 11
+      duration: PT28M55S
+      id: oWpMsK8QjAM
+      imageURL: 'https://i.ytimg.com/vi/oWpMsK8QjAM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-06T16:10:14.000Z'
+      tags: 'evlilik sohbetleri,beş,sevgi,dili'
+      title: Beş Sevgi Dili
+      url: 'https://youtu.be/oWpMsK8QjAM'
+      viewCount: '1915'
 ---
 
