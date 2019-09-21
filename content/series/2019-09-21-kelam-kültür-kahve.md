@@ -855,5 +855,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=tmU3Ar1l6Ms&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=13&t=0s
       viewCount: '4095'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Eşcinsel & Hristiyan Olabilir miyim?
+
+        Eşcinsellik günah mı? Peki eşcinsel biri Hristiyan olabilir mi? Kutsal
+        Kitap bu konu hakkında neler diyor? Bu haftaki Kelam Kültür Kahve’de
+        bunları konuşuyoruz.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M31S
+      id: WHsOe077QrQ
+      imageURL: 'https://i.ytimg.com/vi/WHsOe077QrQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-09-22T17:41:21.000Z'
+      tags: >-
+        inanç,gençlik,Hristiyan,Cinsellik,Şüphe,Depresyon,Eşcinsellik,Sigara,Alkol,Alışılmış
+        Kötülük,Bağımlılık,Kürtaj,Zenginlik,Kanal Hayat,gençler,hz
+        isa,homolar,ibadet
+      title: 'Eşcinsellik [Kelam Kültür Kahve 05]'
+      url: >-
+        https://www.youtube.com/watch?v=WHsOe077QrQ&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=14&t=0s
+      viewCount: '6493'
 ---
 
