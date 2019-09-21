@@ -182,5 +182,24 @@ episodes:
       title: Evlilik ve Aşk - 1
       url: 'https://youtu.be/vTuE4fLLT_c'
       viewCount: '196'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Evlilik ve Aşk - 2
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+      duration: PT28M28S
+      id: sdVXu5yuxHY
+      imageURL: 'https://i.ytimg.com/vi/sdVXu5yuxHY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-06T10:00:05.000Z'
+      tags: '#evlilik,#için,#aşk'
+      title: Evlilik ve Aşk - 2
+      url: 'https://youtu.be/sdVXu5yuxHY'
+      viewCount: '240'
 ---
 
