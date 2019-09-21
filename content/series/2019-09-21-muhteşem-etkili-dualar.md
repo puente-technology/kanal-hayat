@@ -142,5 +142,24 @@ episodes:
       title: Muhteşem Etkili Dualar 20
       url: 'https://youtu.be/xkzHUPOtzM8'
       viewCount: '397'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Muhteşem Etkili Dualar serimize 23. Mezmur ile devam ediyoruz! Bu
+        öğretişle, Tanrı'yla olan ilişkinizde büyümeniz için dua ediyorum. Size,
+        içinde bulunduğunuz durum ne olursa olsun, hala bir Tanrı çocuğu
+        olduğunuzu hatırlatmak istiyorum. Tanrı gerçekten sizinle ilgileniyor.
+        Bu, sürekli olarak Tanrı'yı ​​yüceltmemiz gereken bir şeydir. O iyi bir
+        Tanrı’dır!
+      duration: PT15M27S
+      id: SEmV9N_WwHA
+      imageURL: 'https://i.ytimg.com/vi/SEmV9N_WwHA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-03-04T18:58:14.000Z'
+      tags: 'muhteşem,etkili,dua'
+      title: Muhteşem Etkili Dualar 23
+      url: 'https://youtu.be/SEmV9N_WwHA'
+      viewCount: '254'
 ---
 
