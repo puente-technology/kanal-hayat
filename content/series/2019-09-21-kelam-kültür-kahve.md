@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Kelam Kültür Kahve
 publishDate: .
-coverImage: /images/uploads/kelam-kültür-kahve.png
+coverImage: /images/uploads/33517743_1700860566645797_8200231498901618688_n.png
 host: Humberto Coello
 description: >-
   Kelam Kültür ve Kahve Hristiyan bakış açısıyla farklı konuları birbirinden
@@ -10,7 +10,7 @@ description: >-
   edebilirsiniz.
 
   Esen Kalın.
-targetGroup: Herkes
+targetGroup: Genç
 language: '0'
 selectedCategories:
   - Tartışma
@@ -19,7 +19,188 @@ selectedCategories:
   - Öğretim
 episodes:
   - guests: ''
-    season: '1'
+    season: '2'
+    youtubeURL:
+      description: >-
+        ''Affetmek büyüklüktür'' denilir. Peki gerçekten affetmek nedir?  Bizde
+        ya da sevdiğimiz birinde derin yaralar bırakmış birini affedebilir mi
+        insan? Kelam Kültür Kahve’de bu hafta, "Affetmek" konusuyla sizlerleyiz.
+
+
+        ======================
+
+
+        ''KELAM KÜLTÜR KAHVE'' PROGRAMINDA NE YAPIYORUZ?
+
+
+        Kelam Kültür Kahve programımızda pek çok insanın konuşmaktan kaçındığı
+        konular da dahil olmak üzere birçok konuyu açıkça konuşuyoruz.
+        İnanıyoruz ki bazı konularda farklı düşüncelere sahip olsak da, tam bir
+        dürüstlük ve arkadaşlık alanı yaratarak, bu konuları sağlıklı bir
+        tartışma ortamında paylaşabilir ve birlikte bu konulara Kutsal Kitap’ın
+        ışığını tutabiliriz.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        Programda çıkan gençlerin hikayeleri, kamera arkası görüntüleri, ilahi
+        akorları ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        Tanrı İyiyse Neden Acı Var? [Kelam Kültür Kahve]
+
+        https://youtu.be/SMFCsw9NeVs
+
+
+        Nasıl Bir Sevgi Bu [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/8GzXRAF1B1E
+
+
+        Acaba #15 - Hristiyanlığı Hiç Duymadılarsa?
+
+        https://youtu.be/O5ir3KtvaA4
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT33M4S
+      id: Ck6ashQQ6XM
+      imageURL: 'https://i.ytimg.com/vi/Ck6ashQQ6XM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-22T14:04:16.000Z'
+      tags: >-
+        Hristiyan,Hristiyanlık,Kelam,Kültür,Kahve,Gençlik,İsa,Mesih,Kutsal,Kitap,Tartışma,Programı,Humberto,Damla,Selami,Çiğdem,Selin,Batuhan,Sorgula,Araştır,Tanrı,Allah,Gerçek,Din,İlişki,Affetmek,Bağışlamak,Nedir,Çarmıh,incil,kilise,ortodoks,katolik,protestan,3k,umut
+        kalesi,isus christos,özür dilemek
+      title: 'Her Şeyi Affetmeli miyiz? [Kelam Kültür Kahve]'
+      url: >-
+        https://www.youtube.com/watch?v=Ck6ashQQ6XM&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=6&t=0s
+      viewCount: '2112'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Din ve Bilim Çelişir mi? İnsanın ve dünyanın yaratılışı hakkında din ve
+        bilim çelişiyor mu? Ya da, tek bir doğru var ve bizler bu doğruyu birden
+        fazlaymış gibi mi gösteriyoruz? Peki ya evrim? Kelam Kültür Kahve’de bu
+        hafta, "Din ve Bilim" konusuyla sizlerleyiz.
+
+
+        ======================
+
+
+        ''KELAM KÜLTÜR KAHVE'' PROGRAMINDA NE YAPIYORUZ?
+
+
+        Kelam Kültür Kahve programımızda pek çok insanın konuşmaktan kaçındığı
+        konular da dahil olmak üzere birçok konuyu açıkça konuşuyoruz.
+        İnanıyoruz ki bazı konularda farklı düşüncelere sahip olsak da, tam bir
+        dürüstlük ve arkadaşlık alanı yaratarak, bu konuları sağlıklı bir
+        tartışma ortamında paylaşabilir ve birlikte bu konulara Kutsal Kitap’ın
+        ışığını tutabiliriz.
+
+
+        ====================== 
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        Programda çıkan gençlerin hikayeleri, kamera arkası görüntüleri, ilahi
+        akorları ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz.
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        - İnancını Sorgula! - Spoken Word
+
+        https://youtu.be/3TBKF577Ino
+
+
+        - Acaba #9 - Tanrı’yı Tanıyabilir miyiz?
+
+        https://youtu.be/T0QKamxtWp8
+
+
+        - Kayra - Gözlerimi Dağlara Kaldırıyorum [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/vWPJKP06tJY
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT30M55S
+      id: 01lMeBxDjhg
+      imageURL: 'https://i.ytimg.com/vi/01lMeBxDjhg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-15T13:59:54.000Z'
+      tags: >-
+        Hristiyan,Hristiyanlık,Kelam,Kültür,Kahve,Gençlik,İsa,Mesih,Kutsal,Kitap,Tartışma,Programı,Humberto,Damla,Selami,Çiğdem,Elif,Batuhan,Sorgula,Araştır,Tanrı,Allah,Gerçek,Din,bilim,ilişki,Nedir,umut
+        kalesi,kilise,inanc,evrim,mitoloji,incil,kuran,sümer,3k
+      title: 'Din & Bilim Çelişir mi? [Kelam Kültür Kahve]'
+      url: >-
+        https://www.youtube.com/watch?v=01lMeBxDjhg&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=7&t=0s
+      viewCount: '3215'
+  - guests: ''
+    season: '2'
     youtubeURL:
       description: >-
         Adalet, son zamanlarda televizyon ve sosyal medya aracılığıyla adından
@@ -111,7 +292,7 @@ episodes:
         https://www.youtube.com/watch?v=J0KA0_eIkuQ&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=2&t=0s
       viewCount: '1955'
   - guests: ''
-    season: '1'
+    season: '2'
     youtubeURL:
       description: >-
         Kelam Kültür Kahve'de bu hafta, "İşte Benim Tarzım, Gardolap Savaşları,
@@ -310,281 +491,6 @@ episodes:
     season: '1'
     youtubeURL:
       description: >-
-        Hristiyanlar büyücülüğe nasıl bakar? Büyücülük günah mıdır? Peki ya bize
-        büyü yapılırsa? Cin ve Cin çağırma nedir? Kelam Kültür Kahve’de bu
-        hafta, ''Büyücülük'' konusuyla sizlerleyiz.
-
-
-        ======================
-
-
-        ''KELAM KÜLTÜR KAHVE'' PROGRAMINDA NE YAPIYORUZ?
-
-
-        Kelam Kültür Kahve programımızda pek çok insanın konuşmaktan kaçındığı
-        konular da dahil olmak üzere birçok konuyu açıkça konuşuyoruz.
-        İnanıyoruz ki bazı konularda farklı düşüncelere sahip olsak da, tam bir
-        dürüstlük ve arkadaşlık alanı yaratarak, bu konuları sağlıklı bir
-        tartışma ortamında paylaşabilir ve birlikte bu konulara Kutsal Kitap’ın
-        ışığını tutabiliriz.
-
-
-        ======================
-
-
-        SOSYAL MEDYA HESAPLARIMIZ:
-
-
-        Programda çıkan gençlerin hikayeleri, kamera arkası görüntüleri, ilahi
-        akorları ve daha fazlası için ► https://www.umutkalesi.com
-
-
-        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
-
-
-        Twitter’da ► http://twitter.com/umutkalesimedia 
-
-
-        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
-
-
-        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
-        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
-        iletişime geçebilirsiniz.
-
-
-        ======================
-
-
-        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
-
-
-        - Acaba #14 - Büyücülük, Wiccanlar ve Astroloji
-
-        https://youtu.be/d4hLr8mxf5w
-
-
-        - Michal - Umudumu Rab’be Bağlıyorum [Akustik | Hristiyan İlahisi]
-
-        https://youtu.be/8rzxOEysntM
-
-
-        - Sahte Tanrılar - Spoken Word 
-
-        https://youtu.be/H6NLbt6fvlo
-
-
-        ======================
-
-
-        UMUT KALESİ KİMDİR?
-
-
-        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
-        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
-        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
-        söyleşilerin yer aldığı Youtube kanalıdır.
-      duration: PT31M20S
-      id: qCR_7BXr1H4
-      imageURL: 'https://i.ytimg.com/vi/qCR_7BXr1H4/hqdefault.jpg'
-      mediaType: video
-      publishedAt: '2017-12-29T13:59:42.000Z'
-      tags: >-
-        hristiyan,hristiyanlık,christian,christianity,kelam,kültür,kahve,isa,Jesus,Mesih,Kutsal
-        Kitap,Bible,Gençlik,Programı,Büyücülük,Büyü,Cin,Muska,Musallat,İsa,Cin
-        Çıkarma,Çıkarma,Pro,Şeytan,çağırma,cin çağırma,şeytan
-        çıkarma,sihirli,kutsal,Aşk İçin Büyü Günah Mı?,papaz büyüsü,Büyü Yapmak
-        Günah Mı,umut kalesi,kelam kültür
-        kahve,3k,humberto,tanri,allah,incil,kilise,inanc
-      title: 'Büyücülük & Hristiyanlık [Kelam Kültür Kahve]'
-      url: >-
-        https://www.youtube.com/watch?v=qCR_7BXr1H4&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=5&t=0s
-      viewCount: '2169'
-  - guests: ''
-    season: '1'
-    youtubeURL:
-      description: >-
-        ''Affetmek büyüklüktür'' denilir. Peki gerçekten affetmek nedir?  Bizde
-        ya da sevdiğimiz birinde derin yaralar bırakmış birini affedebilir mi
-        insan? Kelam Kültür Kahve’de bu hafta, "Affetmek" konusuyla sizlerleyiz.
-
-
-        ======================
-
-
-        ''KELAM KÜLTÜR KAHVE'' PROGRAMINDA NE YAPIYORUZ?
-
-
-        Kelam Kültür Kahve programımızda pek çok insanın konuşmaktan kaçındığı
-        konular da dahil olmak üzere birçok konuyu açıkça konuşuyoruz.
-        İnanıyoruz ki bazı konularda farklı düşüncelere sahip olsak da, tam bir
-        dürüstlük ve arkadaşlık alanı yaratarak, bu konuları sağlıklı bir
-        tartışma ortamında paylaşabilir ve birlikte bu konulara Kutsal Kitap’ın
-        ışığını tutabiliriz.
-
-
-        ======================
-
-
-        SOSYAL MEDYA HESAPLARIMIZ: 
-
-
-        Programda çıkan gençlerin hikayeleri, kamera arkası görüntüleri, ilahi
-        akorları ve daha fazlası için ► https://www.umutkalesi.com
-
-
-        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
-
-
-        Twitter’da ► http://twitter.com/umutkalesimedia 
-
-
-        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
-
-
-        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
-        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
-        iletişime geçebilirsiniz
-
-
-        ======================
-
-
-        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
-
-
-        Tanrı İyiyse Neden Acı Var? [Kelam Kültür Kahve]
-
-        https://youtu.be/SMFCsw9NeVs
-
-
-        Nasıl Bir Sevgi Bu [Akustik | Hristiyan İlahisi]
-
-        https://youtu.be/8GzXRAF1B1E
-
-
-        Acaba #15 - Hristiyanlığı Hiç Duymadılarsa?
-
-        https://youtu.be/O5ir3KtvaA4
-
-
-        ======================
-
-
-        UMUT KALESİ KİMDİR?
-
-
-        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
-        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
-        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
-        söyleşilerin yer aldığı Youtube kanalıdır.
-      duration: PT33M4S
-      id: Ck6ashQQ6XM
-      imageURL: 'https://i.ytimg.com/vi/Ck6ashQQ6XM/hqdefault.jpg'
-      mediaType: video
-      publishedAt: '2017-12-22T14:04:16.000Z'
-      tags: >-
-        Hristiyan,Hristiyanlık,Kelam,Kültür,Kahve,Gençlik,İsa,Mesih,Kutsal,Kitap,Tartışma,Programı,Humberto,Damla,Selami,Çiğdem,Selin,Batuhan,Sorgula,Araştır,Tanrı,Allah,Gerçek,Din,İlişki,Affetmek,Bağışlamak,Nedir,Çarmıh,incil,kilise,ortodoks,katolik,protestan,3k,umut
-        kalesi,isus christos,özür dilemek
-      title: 'Her Şeyi Affetmeli miyiz? [Kelam Kültür Kahve]'
-      url: >-
-        https://www.youtube.com/watch?v=Ck6ashQQ6XM&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=6&t=0s
-      viewCount: '2112'
-  - guests: ''
-    season: '1'
-    youtubeURL:
-      description: >-
-        Din ve Bilim Çelişir mi? İnsanın ve dünyanın yaratılışı hakkında din ve
-        bilim çelişiyor mu? Ya da, tek bir doğru var ve bizler bu doğruyu birden
-        fazlaymış gibi mi gösteriyoruz? Peki ya evrim? Kelam Kültür Kahve’de bu
-        hafta, "Din ve Bilim" konusuyla sizlerleyiz.
-
-
-        ======================
-
-
-        ''KELAM KÜLTÜR KAHVE'' PROGRAMINDA NE YAPIYORUZ?
-
-
-        Kelam Kültür Kahve programımızda pek çok insanın konuşmaktan kaçındığı
-        konular da dahil olmak üzere birçok konuyu açıkça konuşuyoruz.
-        İnanıyoruz ki bazı konularda farklı düşüncelere sahip olsak da, tam bir
-        dürüstlük ve arkadaşlık alanı yaratarak, bu konuları sağlıklı bir
-        tartışma ortamında paylaşabilir ve birlikte bu konulara Kutsal Kitap’ın
-        ışığını tutabiliriz.
-
-
-        ====================== 
-
-
-        SOSYAL MEDYA HESAPLARIMIZ: 
-
-
-        Programda çıkan gençlerin hikayeleri, kamera arkası görüntüleri, ilahi
-        akorları ve daha fazlası için ► https://www.umutkalesi.com
-
-
-        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
-
-
-        Twitter’da ► http://twitter.com/umutkalesimedia 
-
-
-        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
-
-
-        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
-        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
-        iletişime geçebilirsiniz.
-
-
-        ======================
-
-
-        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
-
-
-        - İnancını Sorgula! - Spoken Word
-
-        https://youtu.be/3TBKF577Ino
-
-
-        - Acaba #9 - Tanrı’yı Tanıyabilir miyiz?
-
-        https://youtu.be/T0QKamxtWp8
-
-
-        - Kayra - Gözlerimi Dağlara Kaldırıyorum [Akustik | Hristiyan İlahisi]
-
-        https://youtu.be/vWPJKP06tJY
-
-
-        ======================
-
-
-        UMUT KALESİ KİMDİR?
-
-
-        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
-        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
-        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
-        söyleşilerin yer aldığı Youtube kanalıdır.
-      duration: PT30M55S
-      id: 01lMeBxDjhg
-      imageURL: 'https://i.ytimg.com/vi/01lMeBxDjhg/hqdefault.jpg'
-      mediaType: video
-      publishedAt: '2017-12-15T13:59:54.000Z'
-      tags: >-
-        Hristiyan,Hristiyanlık,Kelam,Kültür,Kahve,Gençlik,İsa,Mesih,Kutsal,Kitap,Tartışma,Programı,Humberto,Damla,Selami,Çiğdem,Elif,Batuhan,Sorgula,Araştır,Tanrı,Allah,Gerçek,Din,bilim,ilişki,Nedir,umut
-        kalesi,kilise,inanc,evrim,mitoloji,incil,kuran,sümer,3k
-      title: 'Din & Bilim Çelişir mi? [Kelam Kültür Kahve]'
-      url: >-
-        https://www.youtube.com/watch?v=01lMeBxDjhg&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=7&t=0s
-      viewCount: '3215'
-  - guests: ''
-    season: '1'
-    youtubeURL:
-      description: >-
         Dünyada birçok din ve felsefe vardır. Yüzeysel olarak hepsi güzel
         ahlakı, iyiliği, barışı, sevgiyi öğretse de, özünde bütün bu dinler ve
         felsefeler aslında birbirinden çok farklıdır. Kelam Kültür Kahve’nin
@@ -695,6 +601,100 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=EsPXzC_Ty7Y&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=8&t=0s
       viewCount: '8673'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Hristiyanlar büyücülüğe nasıl bakar? Büyücülük günah mıdır? Peki ya bize
+        büyü yapılırsa? Cin ve Cin çağırma nedir? Kelam Kültür Kahve’de bu
+        hafta, ''Büyücülük'' konusuyla sizlerleyiz.
+
+
+        ======================
+
+
+        ''KELAM KÜLTÜR KAHVE'' PROGRAMINDA NE YAPIYORUZ?
+
+
+        Kelam Kültür Kahve programımızda pek çok insanın konuşmaktan kaçındığı
+        konular da dahil olmak üzere birçok konuyu açıkça konuşuyoruz.
+        İnanıyoruz ki bazı konularda farklı düşüncelere sahip olsak da, tam bir
+        dürüstlük ve arkadaşlık alanı yaratarak, bu konuları sağlıklı bir
+        tartışma ortamında paylaşabilir ve birlikte bu konulara Kutsal Kitap’ın
+        ışığını tutabiliriz.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ:
+
+
+        Programda çıkan gençlerin hikayeleri, kamera arkası görüntüleri, ilahi
+        akorları ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz.
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        - Acaba #14 - Büyücülük, Wiccanlar ve Astroloji
+
+        https://youtu.be/d4hLr8mxf5w
+
+
+        - Michal - Umudumu Rab’be Bağlıyorum [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/8rzxOEysntM
+
+
+        - Sahte Tanrılar - Spoken Word 
+
+        https://youtu.be/H6NLbt6fvlo
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT31M20S
+      id: qCR_7BXr1H4
+      imageURL: 'https://i.ytimg.com/vi/qCR_7BXr1H4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-29T13:59:42.000Z'
+      tags: >-
+        hristiyan,hristiyanlık,christian,christianity,kelam,kültür,kahve,isa,Jesus,Mesih,Kutsal
+        Kitap,Bible,Gençlik,Programı,Büyücülük,Büyü,Cin,Muska,Musallat,İsa,Cin
+        Çıkarma,Çıkarma,Pro,Şeytan,çağırma,cin çağırma,şeytan
+        çıkarma,sihirli,kutsal,Aşk İçin Büyü Günah Mı?,papaz büyüsü,Büyü Yapmak
+        Günah Mı,umut kalesi,kelam kültür
+        kahve,3k,humberto,tanri,allah,incil,kilise,inanc
+      title: 'Büyücülük & Hristiyanlık [Kelam Kültür Kahve]'
+      url: >-
+        https://www.youtube.com/watch?v=qCR_7BXr1H4&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=5&t=0s
+      viewCount: '2169'
   - guests: ''
     season: '1'
     youtubeURL:
