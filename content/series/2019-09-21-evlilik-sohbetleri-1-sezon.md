@@ -318,5 +318,18 @@ episodes:
       title: Evlilikte Zina ve Aldatma üzerine..
       url: 'https://youtu.be/7T9FWkViSiM'
       viewCount: '814'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Evlilik Sohbetleri - Bölüm 20
+      duration: PT25M30S
+      id: UfkddvWivII
+      imageURL: 'https://i.ytimg.com/vi/UfkddvWivII/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-22T11:41:46.000Z'
+      tags: 'evlilik,sohbetleri,tanıklığımız'
+      title: Evlilikteki Tanıklığımız
+      url: 'https://youtu.be/UfkddvWivII'
+      viewCount: '444'
 ---
 
