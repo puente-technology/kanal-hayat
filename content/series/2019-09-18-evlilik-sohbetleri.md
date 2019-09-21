@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: Evlilik Sohbetleri
 publishDate: .
 coverImage: /images/uploads/evlilik-sohbetleri.png
-host: Ali ve Pervin Kalkandelen
+host: Ali ve Pervin Kalkandelen ile
 description: |-
   Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla 
   evlilik hakkındaki sohbetlerini sayfamızdan takip edebilirsiniz.
