@@ -70,5 +70,22 @@ episodes:
       title: Muhteşem Etkili Dualar 3
       url: 'https://youtu.be/dAoGaDOsc5g'
       viewCount: '423'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Muhteşem Etkili Dualar serimize 4. Mezmur ile devam ediyoruz! Bazen
+        Tanrı'nın sessizliği O'nun orada olmadığı anlamına gelmez. Tanrı her
+        zaman arka planda çalışır ve mükemmel zamanı bilir. O'na güven ve dua
+        etmekten vazgeçme! O'nu aramaya devam et.
+      duration: PT10M10S
+      id: FooR1rhVgT0
+      imageURL: 'https://i.ytimg.com/vi/FooR1rhVgT0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-01-24T15:57:48.000Z'
+      tags: 'muhteşem,etkili,dua'
+      title: Muhteşem Etkili Dualar 4
+      url: 'https://youtu.be/FooR1rhVgT0'
+      viewCount: '411'
 ---
 
