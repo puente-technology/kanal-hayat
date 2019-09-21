@@ -695,5 +695,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=EsPXzC_Ty7Y&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=8&t=0s
       viewCount: '8673'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Sezon 01 Bölüm 10  Zenginlik
+
+        Zengin olmak iyi bir şey mi? Maddi zenginlik mi daha önemli, zengin bir
+        yüreğe sahip olmak mı? Hristiyan biri maddi olarak zenginse, ne gibi
+        sorumluluklara sahiptir? Bu hafta Kelam Kültür Kahve’de bunları
+        konuşuyoruz!
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT30M25S
+      id: 8mhS3xfdLdM
+      imageURL: 'https://i.ytimg.com/vi/8mhS3xfdLdM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-02T10:49:13.000Z'
+      tags: >-
+        inanç,gençlik,Hristiyan,Cinsellik,Şüphe,Depresyon,Eşcinsellik,Sigara,Alkol,Alışılmış
+        Kötülük,Bağımlılık,Kürtaj,Zenginlik,Kanal Hayat,hz
+        isa,homolar,ibadet,gençler
+      title: 'Zenginlik [Kelam Kültür Kahve 10]'
+      url: >-
+        https://www.youtube.com/watch?v=8mhS3xfdLdM&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=9&t=0s
+      viewCount: '1823'
 ---
 
