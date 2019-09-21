@@ -152,5 +152,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=s_5lpniajPM&list=PLQfi14V3hH0JddI2DibX3bd5ZgqNvUcAO&index=5&t=0s
       viewCount: '277'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik ve konuklarıyla birlikte farklı konularda kelam temelinde
+        gerçekleştirdiği "Derin Değişim" programını sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        Adanmış Hayatlar
+
+        Kaygılı Bir Kadın Marta
+
+        İncil'deki Samiriyeli Kadın..
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M6S
+      id: pWLROHx6QZ8
+      imageURL: 'https://i.ytimg.com/vi/pWLROHx6QZ8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-07-15T18:46:58.000Z'
+      tags: 'incildeki,samiriyeli,kadın,incil,hristiyan kadınlar,SAMİRİYELİ,HİKAYESİ'
+      title: Derin Değişim - İNCİLDEKİ SAMİRİYELİ KADININ HİKAYESİ
+      url: >-
+        https://www.youtube.com/watch?v=pWLROHx6QZ8&list=PLQfi14V3hH0JddI2DibX3bd5ZgqNvUcAO&index=6&t=0s
+      viewCount: '207'
 ---
 
