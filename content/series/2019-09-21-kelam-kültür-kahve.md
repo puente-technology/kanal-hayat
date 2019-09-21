@@ -6,8 +6,8 @@ coverImage: /images/uploads/kelam-kültür-kahve.png
 host: Humberto Coello
 description: >-
   Kelam Kültür ve Kahve Hristiyan bakış açısıyla farklı konuları birbirinden
-  farklı konuklarla gerçekleştirdikleri bu keyifli programı sayfamızdan takip
-  edebilirsiniz.
+  farklı konuklarla gerçekleştirdikleri bu keyifli programı Kanal Hayat
+  ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
 
   Esen Kalın.
 targetGroup: Genç
