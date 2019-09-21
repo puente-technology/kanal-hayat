@@ -203,5 +203,108 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=RhLNj5q-g8U&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=3&t=0s
       viewCount: '1566'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Yaşadığımız toplumda kadının ve erkeğin rolü nedir? En önemlisi,
+        Tanrı'nın bakış açısına göre kadın ve erkek eşit midir? Kelam Kültür
+        Kahve'de bu hafta, "Kadın-Erkek Eşitliği" konusunu konuşuyoruz. 
+
+
+        ======================
+
+
+        MERAKLISI İÇİN;
+
+
+        "Kadının değeri" hakkında daha detaylı bilgi için, Umut Kalesi'nde
+        yayınlanan makalemize bakabilirsiniz ►
+        https://umutkalesi.com/degerimizin-olcusu/
+
+
+        ======================
+
+
+        ''KELAM KÜLTÜR KAHVE'' PROGRAMINDA NE YAPIYORUZ?
+
+
+        Kelam Kültür Kahve programımızda pek çok insanın konuşmaktan kaçındığı
+        konular da dahil olmak üzere birçok konuyu açıkça konuşuyoruz.
+        İnanıyoruz ki bazı konularda farklı düşüncelere sahip olsak da, tam bir
+        dürüstlük ve arkadaşlık alanı yaratarak, bu konuları sağlıklı bir
+        tartışma ortamında paylaşabilir ve birlikte bu konulara Kutsal Kitap’ın
+        ışığını tutabiliriz.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        Programda çıkan gençlerin hikayeleri, kamera arkası görüntüleri, ilahi
+        akorları ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        - Acaba #11 - Hristiyanlık’ta Evlilik Öncesi Cinsel İlişki Günah mı?
+
+        https://youtu.be/W6fzd9nrVk4
+
+
+        - Kayra - Zamanın Öncesinde [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/0-kRVSZATrs
+
+
+        - Hristiyanlığa Göre Kadının Yetkisi [Kelam Kültür Kahve]
+
+        https://youtu.be/neXfFRr12Ow
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT32M6S
+      id: UnPRcgwAa-k
+      imageURL: 'https://i.ytimg.com/vi/UnPRcgwAa-k/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-05T14:29:54.000Z'
+      tags: >-
+        Kadın,Erkek,hristiyan,hristiyanlık,eşit,eşitlik,adalet,adil,yaşam,ilişki,iletişim,isa,mesih,jesus,Christian,woman,female,male,man,incil,tevrat,türk,Tanrı,God,fendi,yendi,kadının
+        fendi erkeği yendi,erkekler ağlamaz,kadın erkek
+        ilişkisi,feminizim,Selin,Selami,Humberto,Çiğdem,Batuhan,Kelam,Kültür,Kahve,Damla,feminist,3k,umut
+        kalesi
+      title: 'Kadın & Erkek Eşit mi? [Kelam Kültür Kahve]'
+      url: >-
+        https://www.youtube.com/watch?v=UnPRcgwAa-k&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=4&t=0s
+      viewCount: '2901'
 ---
 
