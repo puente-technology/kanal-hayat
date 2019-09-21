@@ -292,5 +292,18 @@ episodes:
       title: Evlilik ve Çocuk yetiştirme
       url: 'https://youtu.be/isKTu44UgB8'
       viewCount: '233'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Evlilik Sohbetleri - Bölum 18
+      duration: PT29M22S
+      id: 71tSthlFNrE
+      imageURL: 'https://i.ytimg.com/vi/71tSthlFNrE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-04T05:49:58.000Z'
+      tags: 'evlilik,sohbetleri,çocuk,ceza,yöntemleri'
+      title: Çocuklara Ceza Yöntemleri
+      url: 'https://youtu.be/71tSthlFNrE'
+      viewCount: '653'
 ---
 
