@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: Main Slider
 gallery:
-  - align: center
+  - align: left
     alt: Hakan Taştan ile
     color: light
     image: /images/uploads/hakan-tastan.jpg
