@@ -6,7 +6,7 @@ gallery:
   - align: center
     alt: Hakan Taştan ile
     color: light
-    image: /images/uploads/dsc01143.jpg
+    image: /images/uploads/hakan-tastan.jpg
     title: Gerçeğin Sesi
   - align: center
     alt: Ahmet Güvener ile
