@@ -758,5 +758,37 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=9Fr4YK1S-CQ&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=10&t=0s
       viewCount: '1200'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Sezon 01 Bölüm 08
+
+        Bağımlılık / Bağımlılıklar & Hristiyanlık
+
+        Bağımlılık nedir? Hristiyanlık’ta bağımlılık günah mı? Peki şu an bir
+        şeye bağımlıysak, ne yapmalıyız? Kelam Kültür Kahve’de bu hafta bu
+        sorular ve çok daha fazlası tartışılıyor!
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M58S
+      id: 9rPn0E00ruA
+      imageURL: 'https://i.ytimg.com/vi/9rPn0E00ruA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-15T12:16:19.000Z'
+      tags: >-
+        inanç,gençlik,Hristiyan,Cinsellik,Şüphe,Depresyon,Eşcinsellik,Sigara,Alkol,Alışılmış
+        Kötülük,Bağımlılık,Kürtaj,Zenginlik,Kanal Hayat,gençler,hz
+        isa,homolar,ibadet
+      title: 'Bağımlılık [Kelam Kültür Kahve 08]'
+      url: >-
+        https://www.youtube.com/watch?v=9rPn0E00ruA&list=PLQfi14V3hH0JppgRMI4ljgIqKSUFdiau7&index=11&t=0s
+      viewCount: '854'
 ---
 
