@@ -4,16 +4,13 @@ title: Evlilik Sohbetleri
 publishDate: .
 coverImage: /images/uploads/evlilik-sohbetleri.png
 host: Ali ve Pervin Kalkandelen
-description: >-
-  Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
-  sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
-
+description: |-
+  Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla 
+  evlilik hakkındaki sohbetlerini sayfamızdan takip edebilirsiniz.
+  Esen Kalın.
   http://kanalhayat.tv/
-
   http://www.youtube.com/kanalhayatplay
-
   https://www.facebook.com/kanalhayat
-
   https://twitter.com/kanalhayat
 targetGroup: Herkes
 language: '0'
