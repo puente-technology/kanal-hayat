@@ -116,5 +116,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=hI22JRf101Y&list=PLQfi14V3hH0LbddOIa6oa292ZxHygA6oK&index=5&t=0s
       viewCount: '469'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Evlilik Sohbetleri - Bölum 6
+      duration: PT28M50S
+      id: AbzJrbPvvE4
+      imageURL: 'https://i.ytimg.com/vi/AbzJrbPvvE4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-09T09:40:02.000Z'
+      tags: 'evlilik,sohbetleri,iletişim,hristiyan evliliği'
+      title: Evlilikte İletişim - 2
+      url: 'https://youtu.be/AbzJrbPvvE4'
+      viewCount: '184'
 ---
 
