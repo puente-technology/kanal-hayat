@@ -124,5 +124,23 @@ episodes:
       title: Muhteşem Etkili Dualar 6
       url: 'https://youtu.be/LfKRvDLuNVA'
       viewCount: '173'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Muhteşem Etkili Dualar serimize 20. Mezmur ile devam ediyoruz!
+        Bazılarının güveni insanlarda, işte, parada, hatta yönetimlerdedir. Ama
+        benim güvenim Tanrı'dadır! Bugün sizleri her şeyde O’na güvenmeniz için
+        teşvik etmek istiyorum. Tanrı, her şeyi yarattı ve her şey O’nun
+        kontrolündedir. O zaman neden O'na güvenmeyelim!
+      duration: PT13M45S
+      id: xkzHUPOtzM8
+      imageURL: 'https://i.ytimg.com/vi/xkzHUPOtzM8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-03-01T19:58:12.000Z'
+      tags: 'muhteşem,etkili,dua'
+      title: Muhteşem Etkili Dualar 20
+      url: 'https://youtu.be/xkzHUPOtzM8'
+      viewCount: '397'
 ---
 
