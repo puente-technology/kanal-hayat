@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: Hristiyan Şeriatı
 publishDate: .
 coverImage: /images/uploads/_dsc1607.jpg
-host: Ahmet Güvener
+host: Ahmet Güvener ile
 description: >-
   Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör Ender
   Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı" programını
