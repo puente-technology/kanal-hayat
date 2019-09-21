@@ -106,5 +106,23 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=9ZSpEzN-snc&list=PLQfi14V3hH0JU6G_xawtgUygzym83ODdq&index=6&t=0s
       viewCount: '363'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Muhteşem Etkili Dualar serimize 6. Mezmur ile devam ediyoruz!   Şu anda
+        nasıl bir karanlıkta olursanız olun, Tanrı ışıktır ve O’nda karanlığa
+        hiç yer yoktur. Tanrı’da umudumuz var. Tanrı bizim kurtarıcımızdır ve O
+        sizi bugün her şeyden özgür kılabilir. Tek yapmanız gereken kalbinizi
+        açmak ve İsa'ya EVET demek!
+      duration: PT6M37S
+      id: LfKRvDLuNVA
+      imageURL: 'https://i.ytimg.com/vi/LfKRvDLuNVA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-02-28T21:05:35.000Z'
+      tags: 'muhteşem,etkili,dualar'
+      title: Muhteşem Etkili Dualar 6
+      url: 'https://youtu.be/LfKRvDLuNVA'
+      viewCount: '173'
 ---
 
