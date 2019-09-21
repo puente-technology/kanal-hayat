@@ -247,5 +247,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=bn1SInCSUvk&list=PLQfi14V3hH0JddI2DibX3bd5ZgqNvUcAO&index=8&t=0s
       viewCount: '156'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Banu Çelik ve konuklarıyla birlikte farklı konularda kelam temelinde
+        gerçekleştirdiği "Derin Değişim" programını sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        Adanmış Hayatlar
+
+        Kaygılı Bir Kadın Marta
+
+        İncil'deki Samiriyeli Kadın..
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M9S
+      id: xn9D_8ZT0oM
+      imageURL: 'https://i.ytimg.com/vi/xn9D_8ZT0oM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-05-14T19:47:09.000Z'
+      tags: 'derin,değişim,rabbin,ayakları,dibindeki,bir kadın,meryem'
+      title: 'Derin Değişim - RAB’BİN AYAKLARI DİBİNDE BİR KADIN: MERYEM'
+      url: >-
+        https://www.youtube.com/watch?v=xn9D_8ZT0oM&list=PLQfi14V3hH0JddI2DibX3bd5ZgqNvUcAO&index=9&t=0s
+      viewCount: '560'
 ---
 
