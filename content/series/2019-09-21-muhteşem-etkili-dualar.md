@@ -87,5 +87,24 @@ episodes:
       title: Muhteşem Etkili Dualar 4
       url: 'https://youtu.be/FooR1rhVgT0'
       viewCount: '411'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Muhteşem Etkili Dualar serimize 5. Mezmur ile devam ediyoruz!  Tanrı
+        iyidir, bu yüzden O'nun içinde hiçbir kötülük yoktur. Bu gerçek
+        sayesinde, O’na her zaman ve her durumda güvenebileceğimizi biliyoruz!
+        Bu basitçe kontrolün O’nda olmasına izin vermek ve her şeyin üstündeki
+        iradesini aramak anlamına gelir.
+      duration: PT9M14S
+      id: 9ZSpEzN-snc
+      imageURL: 'https://i.ytimg.com/vi/9ZSpEzN-snc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-01-31T15:58:47.000Z'
+      tags: 'muhteşem,etkili,dua'
+      title: Muhteşem Etkili Dualar 5
+      url: >-
+        https://www.youtube.com/watch?v=9ZSpEzN-snc&list=PLQfi14V3hH0JU6G_xawtgUygzym83ODdq&index=6&t=0s
+      viewCount: '363'
 ---
 
