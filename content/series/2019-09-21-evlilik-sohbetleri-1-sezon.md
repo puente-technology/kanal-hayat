@@ -149,5 +149,25 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=A69MxzC_6cM&list=PLQfi14V3hH0LbddOIa6oa292ZxHygA6oK&index=8&t=0s
       viewCount: '104'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Evlilikte Çatışma - 2
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+      duration: PT28M38S
+      id: A69MxzC_6cM
+      imageURL: 'https://i.ytimg.com/vi/A69MxzC_6cM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-23T06:39:48.000Z'
+      tags: '#evlilikte,#çatışma,#evlilik,#sohbetleri'
+      title: Evlilikte Çatışma - 2
+      url: >-
+        https://www.youtube.com/watch?v=A69MxzC_6cM&list=PLQfi14V3hH0LbddOIa6oa292ZxHygA6oK&index=8&t=0s
+      viewCount: '104'
 ---
 
