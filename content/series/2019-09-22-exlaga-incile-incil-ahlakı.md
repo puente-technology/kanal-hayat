@@ -534,5 +534,18 @@ episodes:
       title: 'SOND XWARİN Û ŞAHDEYİYA DEREWÎN - Yalan Şahitlik ve Yemin Etmek [25]'
       url: 'https://youtu.be/5vXiNZxtyUg'
       viewCount: '125'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M48S
+      id: 5vXiNZxtyUg
+      imageURL: 'https://i.ytimg.com/vi/5vXiNZxtyUg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-04-02T19:26:03.000Z'
+      tags: 'yalan,şahitlik'
+      title: 'SOND XWARİN Û ŞAHDEYİYA DEREWÎN - Yalan Şahitlik ve Yemin Etmek [25]'
+      url: 'https://youtu.be/5vXiNZxtyUg'
+      viewCount: '125'
 ---
 
