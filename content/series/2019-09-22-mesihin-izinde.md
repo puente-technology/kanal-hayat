@@ -200,5 +200,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=AMoOqF3VUfg&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=8&t=0s
       viewCount: '1985'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        5. Bölüm İsa Havarilerini Seçiyor
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Mesih'in İzinde"
+        programını sayfamızdan takip edebilirsiniz. Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M4S
+      id: vrAWlOjrkXU
+      imageURL: 'https://i.ytimg.com/vi/vrAWlOjrkXU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-10-27T08:53:18.000Z'
+      tags: '#isa,#ve,#tanrının,#yasası,#mesihin,#izinde,#müslüman,#hz'
+      title: 8. Bölüm İsa ve Tanrı'nın Yasası
+      url: >-
+        https://www.youtube.com/watch?v=vrAWlOjrkXU&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=9&t=0s
+      viewCount: '635'
 ---
 
