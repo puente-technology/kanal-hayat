@@ -358,5 +358,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Bn2yvZPVVpk&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=13&t=0s
       viewCount: '164'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT29M54S
+      id: AnfvV7F-Cwc
+      imageURL: 'https://i.ytimg.com/vi/AnfvV7F-Cwc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-24T06:28:43.000Z'
+      tags: 'hristiyan,incil'
+      title: 'ALÎKARİYÊ BİKİN - Yoksullara Yardım [13]'
+      url: >-
+        https://www.youtube.com/watch?v=AnfvV7F-Cwc&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=14&t=0s
+      viewCount: '168'
 ---
 
