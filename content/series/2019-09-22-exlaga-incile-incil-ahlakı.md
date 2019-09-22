@@ -344,5 +344,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=QyLD6fhdMao&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=12&t=0s
       viewCount: '119'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT29M47S
+      id: Bn2yvZPVVpk
+      imageURL: 'https://i.ytimg.com/vi/Bn2yvZPVVpk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-06T10:01:00.000Z'
+      tags: 'hristiyan,incil'
+      title: 'EMRÊ HERÎ MEZİN -Tanrı''nın En Büyük Buyruğu Nedir? [12]'
+      url: >-
+        https://www.youtube.com/watch?v=Bn2yvZPVVpk&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=13&t=0s
+      viewCount: '164'
 ---
 
