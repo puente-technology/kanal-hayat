@@ -759,5 +759,40 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=KOaOAybtV30&list=PLQfi14V3hH0JvB-AyxcUTkeh_ze0pqEBT&index=22&t=0s
       viewCount: '153'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsa Mesih'in Doğumu, Soy Ağacı, Çocukluğu ve diğer birçok konunun ele
+        alındığı  "Eşsiz Mesih" programını Kanal Hayat Ekranlarında ve youtube
+        sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        1-İsa Mesih Kimdir?
+
+        2-İsa Mesih'in Soyağacı
+
+        3-İsa Mesih'in Çocukluğu
+
+        4-İsa Mesih'in Vaftizi
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M23S
+      id: RNWXvScBUYM
+      imageURL: 'https://i.ytimg.com/vi/RNWXvScBUYM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-23T09:35:58.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi
+      title: 23. Bölüm Yüce Görev
+      url: >-
+        https://www.youtube.com/watch?v=RNWXvScBUYM&list=PLQfi14V3hH0JvB-AyxcUTkeh_ze0pqEBT&index=23&t=0s
+      viewCount: '77'
 ---
 
