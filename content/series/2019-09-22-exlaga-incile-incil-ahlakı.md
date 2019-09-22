@@ -427,5 +427,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=sqeLcY122xs&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=18&t=0s
       viewCount: '93'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT27M45S
+      id: UrFiGbMeY1k
+      imageURL: 'https://i.ytimg.com/vi/UrFiGbMeY1k/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-29T14:08:40.000Z'
+      tags: hristiyan
+      title: 'DAYİN Û SENDİN - Almak yada Vermek [18]'
+      url: >-
+        https://www.youtube.com/watch?v=UrFiGbMeY1k&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=19&t=0s
+      viewCount: '102'
 ---
 
