@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: Hristiyan Şeriatı
+title: HRİSTİYAN ŞERİATI
 publishDate: .
 coverImage: /images/uploads/_dsc1607.jpg
 host: Ahmet Güvener ile
