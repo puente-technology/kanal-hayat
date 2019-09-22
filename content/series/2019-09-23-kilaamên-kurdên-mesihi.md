@@ -140,5 +140,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=BehWPkEximk&list=PLQfi14V3hH0KdJbKUKfX8Vp6228qG-z3C&index=10&t=0s
       viewCount: '893'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Şaban OK Kürtçe Dilinde Hristiyan İlahiler
+      duration: PT2M34S
+      id: RQpSmyQXQ20
+      imageURL: 'https://i.ytimg.com/vi/RQpSmyQXQ20/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-06T09:37:06.000Z'
+      tags: 'kürtçe,ilahi,van'
+      title: Hristiyan İlahiler (Kürtçe Dilinde) - Tu Bikevî Tengasiyê - Şaban Ok
+      url: >-
+        https://www.youtube.com/watch?v=RQpSmyQXQ20&list=PLQfi14V3hH0KdJbKUKfX8Vp6228qG-z3C&index=11&t=0s
+      viewCount: '291'
 ---
 
