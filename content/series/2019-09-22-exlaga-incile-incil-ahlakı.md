@@ -1,0 +1,49 @@
+---
+template: SeriesPageTemplate
+title: EXLAG'A İNCİL'E  (İNCİL AHLAKI)
+publishDate: .
+coverImage: /images/uploads/i̇nci̇l-ahlaki.png
+host: Ender Peker ile
+description: |-
+  Pastör Ender Peker'in  sunumuyla (Kürtçe Dilinde) gerçekleştirdiği
+  "EHLAQA ÎNCÎLÊ - İncil Ahlakı" programını Kanal Hayat ekranlarından  
+  veya youtube sayfamızdan takip edebilirsiniz.
+  Esen Kalın.
+targetGroup: Herkes
+language: '0'
+selectedCategories:
+  - Kutsal Kitap Dersleri
+  - Rehberlik
+  - Öğretim
+episodes:
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        EHLAQA ÎNCÎLÊ - İncil Ahlakına Giriş [01]
+
+        Pastör Ender Peker'in  sunumuyla (Kürtçe Dilinde) gerçekleştirdiği
+        "EHLAQA ÎNCÎLÊ - İncil Ahlakı" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT30M35S
+      id: 2UhlIk8A9tw
+      imageURL: 'https://i.ytimg.com/vi/2UhlIk8A9tw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-07-13T10:08:14.000Z'
+      tags: 'hristiyan,incil,#kürtçe,#dilinde,#kurmanci,#piroz,#incile'
+      title: 'EHLAQA ÎNCÎLÊ - İncil Ahlakına Giriş [01]'
+      url: >-
+        https://www.youtube.com/watch?v=2UhlIk8A9tw&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=2&t=0s
+      viewCount: '1111'
+---
+
