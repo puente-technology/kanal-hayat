@@ -45,5 +45,34 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=2UhlIk8A9tw&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=2&t=0s
       viewCount: '1111'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        AŞTÎWAZBİN - Barışsever Olun [2]
+
+        Pastör Ender Peker'in  sunumuyla (Kürtçe Dilinde) gerçekleştirdiği
+        "EHLAQA ÎNCÎLÊ - İncil Ahlakı" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M37S
+      id: u6uo6bVlVag
+      imageURL: 'https://i.ytimg.com/vi/u6uo6bVlVag/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-07-13T10:08:14.000Z'
+      tags: 'hristiyan,incil,#kürtçe,#dilinde,#kurmanci,#piroz,#incile,AŞTÎWAZBİN'
+      title: 'AŞTÎWAZBİN - Barışsever Olun [2]'
+      url: >-
+        https://www.youtube.com/watch?v=u6uo6bVlVag&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=3&t=0s
+      viewCount: '357'
 ---
 
