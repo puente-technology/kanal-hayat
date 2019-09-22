@@ -483,5 +483,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=9o9gBuqy9Mg&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=21&t=0s
       viewCount: '141'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Ne Mutlu - Mezmurlar 1.Bölüm (Süryani Dilinde)
+
+        Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
+        Sbartho Du mgalyun" progmını sayfamızdan takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M14S
+      id: PvkeRO_8Fvk
+      imageURL: 'https://i.ytimg.com/vi/PvkeRO_8Fvk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-29T06:21:40.000Z'
+      tags: '#mesih,#kurtuluş,#süryani,#dilinde,#sonsuz,#yaşam,#ne,#mutlular'
+      title: Ne Mutlular - Mezmurlar 1.Bölüm (Süryani Dilinde)
+      url: >-
+        https://www.youtube.com/watch?v=PvkeRO_8Fvk&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=22&t=0s
+      viewCount: '77'
 ---
 
