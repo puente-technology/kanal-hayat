@@ -1,15 +1,15 @@
-color: light
+color: dark
 imageObj:
   - alt: Image
-    image: /images/uploads/kelam.jpg
+    image: /images/uploads/kk-friend-banner.jpg
     title: Yellow Rope
 logo:
   - alt: logo
     image: >-
       https://www.kitabimukaddes.com/images/logos/1/Kitab-i_Mukaddes_Sirketi.png?t=1467272107
     title: Yellow Rope
-header: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit,'
+header: 'Hiç İncil okudunuz mu ? '
 content: >-
   consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
   dolore magna aliqua.
-buttonText: Siteye Git   which page will be add need ASK
+buttonText: 'https://www.kitabimukaddes.com/?sl=tr'

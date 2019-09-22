@@ -3,19 +3,11 @@ template: SeriesPageTemplate
 title: Hristiyan Şeriatı
 publishDate: .
 coverImage: /images/uploads/_dsc1607.jpg
-host: Ahmet Güvener
-description: >-
-  Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör Ender
-  Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı" programını
-  sayfamızdan takip edebilirsiniz.Esen Kalın.
-
-  http://kanalhayat.tv/
-
-  http://www.youtube.com/kanalhayatplay
-
-  https://www.facebook.com/kanalhayat
-
-  https://twitter.com/kanalhayat
+host: Ahmet Güvener ile
+description: |-
+  Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile 
+  Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+  programını sayfamızdan takip edebilirsiniz.Esen Kalın.
 targetGroup: Herkes
 language: '0'
 selectedCategories:
