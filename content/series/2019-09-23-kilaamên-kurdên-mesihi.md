@@ -83,5 +83,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=0xA805yoRZU&list=PLQfi14V3hH0KdJbKUKfX8Vp6228qG-z3C&index=6&t=0s
       viewCount: '1075'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Şaban OK Kürtçe Dilinde Hristiyan İlahiler
+      duration: PT5M11S
+      id: Qtwwdjeds9U
+      imageURL: 'https://i.ytimg.com/vi/Qtwwdjeds9U/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-06T09:30:30.000Z'
+      tags: 'kürtçe,ilahi,iki'
+      title: Hristiyan İlahiler (Kürtçe Dilinde) - Çima Xemgîn Î Canê Min? - Şaban Ok
+      url: >-
+        https://www.youtube.com/watch?v=Qtwwdjeds9U&list=PLQfi14V3hH0KdJbKUKfX8Vp6228qG-z3C&index=7&t=0s
+      viewCount: '1410'
 ---
 
