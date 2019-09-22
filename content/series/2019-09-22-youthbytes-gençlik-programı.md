@@ -136,5 +136,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=n7hOkzRlxaA&list=PLQfi14V3hH0JIZ1Cp6wIt7Icit6ofEO4U&index=6&t=0s
       viewCount: '1115'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        YouthBytes Gençlik Programı 5.Bölüm
+        İntihar Etmek Neden Çekicidir?
+        Ölümün Ötesinde Ne var ? 
+        Dilimizi Tutmak Neden Zor?
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M31S
+      id: n7hOkzRlxaA
+      imageURL: 'https://i.ytimg.com/vi/n7hOkzRlxaA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-15T12:48:26.000Z'
+      tags: >-
+        inanç,gençlik,gençler,Hristiyan,intihar,Depresyon,Bağımlılık,Kanal
+        Hayat,Chad Daniel,hz isa,ibadet
+      title: YouthBytes Gençlik Programı - Rugby Nedir?
+      url: >-
+        https://www.youtube.com/watch?v=n7hOkzRlxaA&list=PLQfi14V3hH0JIZ1Cp6wIt7Icit6ofEO4U&index=6&t=0s
+      viewCount: '1115'
 ---
 
