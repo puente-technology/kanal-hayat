@@ -1,12 +1,11 @@
-title: static
 program:
-  - programName: Hristiyan Ahlâkı
-    link: link 1
-  - programName: Kilisenin Doğuşu
-    link: link 2
-  - programName: Hristiyan Ahlâkı
-    link: link 3
-  - programName: Kilisenin Doğuşu
-    link: link 4
-  - programName: Hristiyan Ahlâkı
-    link: link 5
+  - link: link 1
+    programName: 'Dar Kapıdan Girenler [Neden Hristiyan Oldum ?] 9.SEZON'
+  - link: link 2
+    programName: Anlatsana Ey Gavur
+  - link: link 3
+    programName: Hristiyan Ahlâkı
+  - link: link 4
+    programName: Hristiyan Şeriatı
+  - link: link 5
+    programName: Gerçeğin Sesi
