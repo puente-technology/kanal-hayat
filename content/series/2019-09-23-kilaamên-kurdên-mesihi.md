@@ -69,5 +69,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Z0OXpg7tauw&list=PLQfi14V3hH0KdJbKUKfX8Vp6228qG-z3C&index=5&t=0s
       viewCount: '403'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Şaban OK Kürtçe Dilinde Hristiyan İlahiler
+      duration: PT3M8S
+      id: 0xA805yoRZU
+      imageURL: 'https://i.ytimg.com/vi/0xA805yoRZU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-06T09:29:54.000Z'
+      tags: 'kürtçe,ilahi'
+      title: Hristiyan İlahiler (Kürtçe Dilinde) - Ey Heval Li Dinayê - Şaban Ok
+      url: >-
+        https://www.youtube.com/watch?v=0xA805yoRZU&list=PLQfi14V3hH0KdJbKUKfX8Vp6228qG-z3C&index=6&t=0s
+      viewCount: '1075'
 ---
 
