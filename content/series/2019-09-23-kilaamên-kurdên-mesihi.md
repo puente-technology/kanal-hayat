@@ -41,5 +41,19 @@ episodes:
       title: 'Hristiyan İlahiler (Kürtçe Dilinde) - İsa Mesih, Yare Mıne - Şaban Ok'
       url: 'https://youtu.be/qrpCEhWhqvU'
       viewCount: '2994'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Şaban OK Kürtçe Dilinde Hristiyan İlahiler
+      duration: PT3M9S
+      id: jH8NAKTb_6Q
+      imageURL: 'https://i.ytimg.com/vi/jH8NAKTb_6Q/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-06T09:28:34.000Z'
+      tags: 'kürtçe,ilahi,van'
+      title: Hristiyan İlahiler (Kürtçe Dilinde) - Her Roj Em Tene Ber Te - Şaban Ok
+      url: >-
+        https://www.youtube.com/watch?v=jH8NAKTb_6Q&list=PLQfi14V3hH0KdJbKUKfX8Vp6228qG-z3C&index=4&t=0s
+      viewCount: '352'
 ---
 
