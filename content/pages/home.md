@@ -57,7 +57,6 @@ program1:
           Getirmek - 2
         url: 'https://www.youtube.com/watch?v=ZRmJP8je89A&feature=youtu.be'
         viewCount: '251'
-        duration: PT27M20S
     - image: /images/uploads/joyce-meyer-3.jpg
       youtubeURL:
         description: >-
@@ -81,7 +80,6 @@ program1:
         tags: 'hayattan,keyif,alın,güçlü,düşünceler,joyce,meyer'
         title: Hayattan Keyif Alın - Güçlü Düşünceler 2
         url: 'https://www.youtube.com/watch?v=NL715li-YOQ'
-        duration: PT27M20S
         viewCount: '90'
     - image: /images/uploads/joyce-meyer-3.jpg
       youtubeURL:
@@ -111,7 +109,6 @@ program1:
           Getirmek - 2
         url: 'https://www.youtube.com/watch?v=ZRmJP8je89A&feature=youtu.be'
         viewCount: '251'
-        duration: PT27M20S
   title: Joyce Meyer / Vaiz
 program2:
   align: right
@@ -189,4 +186,3 @@ program2:
         viewCount: '1528'
   title: Can Nuroglu / YAZAR
 ---
-
