@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import { connect } from 'react-redux';
 import PropTypes from 'prop-types'
 import { toggleDarkMode } from '../state/app';
 import Carousel from './HomePageCarousel';
@@ -46,7 +45,7 @@ class ProgrammeHomePage extends Component {
 
 
   render() {
-    const { data } = this.props;
+    const { data, dispatch, hosts } = this.props;
     const { isOpen } = this.state;
     const tempData = data;
 
@@ -69,6 +68,8 @@ class ProgrammeHomePage extends Component {
             {
               tempData.thumbnails.length > 2 ? (
                 <Carousel
+                  dispatch={dispatch}
+                  hosts={hosts}
                   episodes={tempData.thumbnails}
                   activeEpisode={0}
                 />
@@ -135,6 +136,4 @@ class ProgrammeHomePage extends Component {
   }
 }
 
-export default connect(state => ({
-  test: state,
-}), null)(ProgrammeHomePage)
+export default ProgrammeHomePage

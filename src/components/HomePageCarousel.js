@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
 import PropTypes from 'prop-types';
-import { connect } from 'react-redux';
 import { toggleDarkMode } from '../state/app';
 import './HomePageCarousel.scss';
 import { dateConverter } from '../utils/utils';
@@ -104,6 +103,9 @@ class Carousel extends Component {
     )
   }
 }
+
+export default Carousel
+
 
 class Item extends React.Component {
   static propTypes = {
@@ -208,8 +210,3 @@ class Item extends React.Component {
     )
   }
 }
-
-export default connect(state => ({
-  test: state,
-  hosts: state.app.hosts,
-}), null)(Carousel)

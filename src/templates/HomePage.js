@@ -30,7 +30,7 @@ export const HomePageTemplate = (data) => {
       <LiveNow />
       {
         program
-        && <ProgrammeHomePage data={program} />
+        && <ProgrammeHomePage data={program} hosts={data.hosts} dispatch={data.dispatch} />
       }
       <FriendSiteBanner />
       {
@@ -46,6 +46,7 @@ class HomePage extends Component {
     data: PropTypes.any,
     dispatch: PropTypes.any,
     shouldInit: PropTypes.any,
+    hosts: PropTypes.any,
   };
 
   constructor(props) {
@@ -57,11 +58,19 @@ class HomePage extends Component {
   render() {
     const {
       data,
+      dispatch,
+      hosts,
     } = this.props
     const { page } = data
     return (
       <HomePageLayout>
-        <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
+        <HomePageTemplate
+          {...page}
+          {...page.frontmatter}
+          body={page.html}
+          host={hosts}
+          dispatch={dispatch}
+        />
       </HomePageLayout>
     )
   }
@@ -70,6 +79,7 @@ class HomePage extends Component {
 export default connect(state => ({
   test: state,
   shouldInit: state.app.shouldInit,
+  hosts: state.app.hosts,
 }), null)(HomePage)
 
 export const pageQuery = graphql`
