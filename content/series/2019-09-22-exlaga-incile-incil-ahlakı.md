@@ -400,5 +400,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=2RAc0969ePw&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=16&t=0s
       viewCount: '233'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT29M33S
+      id: 9HMKN4-8csk
+      imageURL: 'https://i.ytimg.com/vi/9HMKN4-8csk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-13T16:56:53.000Z'
+      tags: 'tanrıdan,istemek'
+      title: 'Jİ XWEDA XWASTİN - Tanrıdan İstemek [16]'
+      url: 'https://youtu.be/9HMKN4-8csk'
+      viewCount: '109'
 ---
 
