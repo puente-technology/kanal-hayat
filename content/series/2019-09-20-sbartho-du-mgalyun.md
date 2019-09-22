@@ -511,5 +511,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=PvkeRO_8Fvk&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=22&t=0s
       viewCount: '77'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Sihirbazlık ve Fal Baktırmak (Süryani Dilinde)
+
+        Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
+        Sbartho Du mgalyun" progmını sayfamızdan takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M49S
+      id: M-m6Y8JCYtM
+      imageURL: 'https://i.ytimg.com/vi/M-m6Y8JCYtM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-07T19:20:55.000Z'
+      tags: '#büyücülük #fal #baktırmak #kahve'
+      title: Sihirbazlık ve Fal Baktırmak (Süryani Dilinde)
+      url: >-
+        https://www.youtube.com/watch?v=M-m6Y8JCYtM&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=23&t=0s
+      viewCount: '87'
 ---
 
