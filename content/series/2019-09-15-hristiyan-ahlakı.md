@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: Hristiyan Ahlakı
+title: HRİSTİYAN AHLAKI
 publishDate: .
 coverImage: /images/uploads/can-nuroglu.jpg
 host: Can Nuroğlu ile
