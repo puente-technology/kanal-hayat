@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: Mânâ Sohbetleri
+title: Mânâ SOHBETLERİ
 publishDate: 'Hafta için her gün 10:30-11:00 am'
 coverImage: /images/uploads/mana.jpg
 host: Rev. Dr. Turgay Üçal
@@ -42,7 +42,7 @@ episodes:
         http://www.youtube.com/kanalhayatplay
         https://www.facebook.com/kanalhayat
         https://twitter.com/kanalhayat
-      duration: 'PT27M52S'
+      duration: PT27M52S
       id: gAZXHL8FIbE
       imageURL: 'https://i.ytimg.com/vi/gAZXHL8FIbE/hqdefault.jpg'
       mediaType: video
