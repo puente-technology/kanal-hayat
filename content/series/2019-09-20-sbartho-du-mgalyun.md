@@ -427,5 +427,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=XrdkaWZ3egQ&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=19&t=0s
       viewCount: '151'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Başkalarını Lanetlemek (Süryani Dilinde)
+
+        Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
+        Sbartho Du mgalyun" progmını sayfamızdan takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M12S
+      id: X5Vmea9itjM
+      imageURL: 'https://i.ytimg.com/vi/X5Vmea9itjM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-11T20:20:13.000Z'
+      tags: '#başkalarını,#lanetlemek,#mesih,#kurtuluş,#süryani,#dilinde,#yaşam'
+      title: Başkalarını Lanetlemek (Süryani Dilinde)
+      url: >-
+        https://www.youtube.com/watch?v=X5Vmea9itjM&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=20&t=0s
+      viewCount: '186'
 ---
 
