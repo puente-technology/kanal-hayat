@@ -150,5 +150,12 @@ eventList:
       endTime: '10:00'
       startTime: '08:00'
     title: Günaydın
+  - subtitle: Pazar seli
+    time:
+      days:
+        - 99
+      endTime: '23:00'
+      startTime: '10:00'
+    title: Pazar Günü
 ---
 
