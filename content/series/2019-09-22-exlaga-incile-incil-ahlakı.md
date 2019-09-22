@@ -254,5 +254,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=fB9-cn_QxC8&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=9&t=0s
       viewCount: '170'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        DEREW - Yalan [09]
+
+        Pastör Ender Peker'in  sunumuyla (Kürtçe Dilinde) gerçekleştirdiği
+        "EHLAQA ÎNCÎLÊ - İncil Ahlakı" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M39S
+      id: aRdtt6nVZ5o
+      imageURL: 'https://i.ytimg.com/vi/aRdtt6nVZ5o/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T06:42:06.000Z'
+      tags: >-
+        hristiyan,incil,#kürtçe,#dilinde,#kurmanci,#piroz,#incile,AŞTÎWAZBİN,BAWERÎ,XWEŞBÎNÎ,ÇAV,DİRAN,DADGEHA,NEKİN,KEHYATÎ,FÊKİYA,DEREW
+      title: 'DEREW - Yalan [09]'
+      url: >-
+        https://www.youtube.com/watch?v=aRdtt6nVZ5o&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=10&t=0s
+      viewCount: '87'
 ---
 
