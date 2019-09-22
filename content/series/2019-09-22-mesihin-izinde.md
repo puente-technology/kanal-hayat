@@ -42,5 +42,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=RvVI7zImn6w&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=2&t=0s
       viewCount: '6803'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        2. Bölüm - İsa Vaftiz Oluyor.
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Mesih'in İzinde"
+        programını sayfamızdan takip edebilirsiniz. Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M38S
+      id: a1pc-OHZpyw
+      imageURL: 'https://i.ytimg.com/vi/a1pc-OHZpyw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-10-02T09:11:06.000Z'
+      tags: >-
+        #isa,#vaftiz,#oluyor,#mesihin,#izinde,#müslüman,#hz,#isanın,#son,#gecesi,#kurban,#kurtuluş,#kefaret
+      title: 2. Bölüm - İsa Vaftiz Oluyor
+      url: >-
+        https://www.youtube.com/watch?v=a1pc-OHZpyw&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=3&t=0s
+      viewCount: '2340'
 ---
 
