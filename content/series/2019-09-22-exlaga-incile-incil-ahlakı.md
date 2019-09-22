@@ -441,5 +441,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=UrFiGbMeY1k&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=19&t=0s
       viewCount: '102'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: '[19]'
+      duration: PT27M59S
+      id: gtA_A_zaXvE
+      imageURL: 'https://i.ytimg.com/vi/gtA_A_zaXvE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-04T05:50:05.000Z'
+      tags: Hristiyan
+      title: 'GUHDARKİRİNA RÊBERÊ DÊR’Ê - Büyüklerin Sözünü Dinlemek [19]'
+      url: >-
+        https://www.youtube.com/watch?v=gtA_A_zaXvE&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=20&t=0s
+      viewCount: '238'
 ---
 
