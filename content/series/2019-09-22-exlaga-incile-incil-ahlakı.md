@@ -547,5 +547,18 @@ episodes:
       title: 'SOND XWARİN Û ŞAHDEYİYA DEREWÎN - Yalan Şahitlik ve Yemin Etmek [25]'
       url: 'https://youtu.be/5vXiNZxtyUg'
       viewCount: '125'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT30M28S
+      id: h4mQJ4rG--w
+      imageURL: 'https://i.ytimg.com/vi/h4mQJ4rG--w/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-04-02T19:26:51.000Z'
+      tags: 'göksel,hazine'
+      title: 'XEZNAYA EZMANAN - Göksel Hazine [26]'
+      url: 'https://youtu.be/h4mQJ4rG--w'
+      viewCount: '230'
 ---
 
