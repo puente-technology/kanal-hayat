@@ -50,5 +50,38 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=lIDXDznUtR8&list=PLQfi14V3hH0LykV0CcEwxSP2PiPuGrlKS&index=1
       viewCount: '2836'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Ahmet Güvener'in Kutsal Kitap temelinde gerçekleştirdiği "Mesih'in
+        Meselleri" adlı program da 
+
+        Rab'bin Sözü "İncil"den bölümler ve Mesih'in benzetmelerini sizler için
+        yorumladı.
+
+        Sakın Kaçırmayın..Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M43S
+      id: QUn1bTdgVUQ
+      imageURL: 'https://i.ytimg.com/vi/QUn1bTdgVUQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-01-09T13:15:23.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Asker,isa,Mesih,İncil,Kitap,Baba,Tanrı,günü,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak
+      title: 2. Bölüm  İyi Çoban - Mesih'in Meselleri
+      url: >-
+        https://www.youtube.com/watch?v=QUn1bTdgVUQ&list=PLQfi14V3hH0LykV0CcEwxSP2PiPuGrlKS&index=3&t=0s
+      viewCount: '808'
 ---
 
