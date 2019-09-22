@@ -97,5 +97,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Qtwwdjeds9U&list=PLQfi14V3hH0KdJbKUKfX8Vp6228qG-z3C&index=7&t=0s
       viewCount: '1410'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Şaban OK Kürtçe Dilinde Hristiyan İlahiler
+      duration: PT4M2S
+      id: LpJQ3zlVZ4g
+      imageURL: 'https://i.ytimg.com/vi/LpJQ3zlVZ4g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-06T09:32:05.000Z'
+      tags: 'kürtçe,ilahi,iki'
+      title: >-
+        Hristiyan İlahiler (Kürtçe Dilinde) - Tu Pîroz Î Û Em Navê Te Bilind
+        Dikin - Şaban Ok
+      url: >-
+        https://www.youtube.com/watch?v=LpJQ3zlVZ4g&list=PLQfi14V3hH0KdJbKUKfX8Vp6228qG-z3C&index=8&t=0s
+      viewCount: '731'
 ---
 
