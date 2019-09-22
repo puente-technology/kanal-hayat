@@ -284,5 +284,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=aRdtt6nVZ5o&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=10&t=0s
       viewCount: '87'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        DİLNİZMÎ - Alçakgönüllülük [10]
+
+        Pastör Ender Peker'in  sunumuyla (Kürtçe Dilinde) gerçekleştirdiği
+        "EHLAQA ÎNCÎLÊ - İncil Ahlakı" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT30M16S
+      id: MhQQC2oIreY
+      imageURL: 'https://i.ytimg.com/vi/MhQQC2oIreY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-09T09:43:10.000Z'
+      tags: >-
+        hristiyan,incil,#kürtçe,#dilinde,#kurmanci,#piroz,#incile,AŞTÎWAZBİN,BAWERÎ,XWEŞBÎNÎ,ÇAV,DİRAN,DADGEHA,NEKİN
+      title: 'DİLNİZMÎ - Alçakgönüllülük [10]'
+      url: >-
+        https://www.youtube.com/watch?v=MhQQC2oIreY&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=11&t=0s
+      viewCount: '163'
 ---
 
