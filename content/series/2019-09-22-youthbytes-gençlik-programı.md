@@ -232,5 +232,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=SFEMaqu29jI&list=PLQfi14V3hH0JIZ1Cp6wIt7Icit6ofEO4U&index=10&t=0s
       viewCount: '417'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        YouthBytes Gençlik Programı 10.Bölüm
+        İntihar Etmek Neden Çekicidir?
+        Ölümün Ötesinde Ne var ? 
+        Dilimizi Tutmak Neden Zor?
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M39S
+      id: XixVfPiY86s
+      imageURL: 'https://i.ytimg.com/vi/XixVfPiY86s/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-24T07:36:14.000Z'
+      tags: >-
+        inanç,gençlik,gençler,Hristiyan,intihar,Depresyon,Bağımlılık,Kanal
+        Hayat,Chad Daniel,kosta rika,kurbağa
+      title: YouthBytes Gençlik Programı - Kosta Rika'da Kurbağa Peşinde
+      url: >-
+        https://www.youtube.com/watch?v=XixVfPiY86s&list=PLQfi14V3hH0JIZ1Cp6wIt7Icit6ofEO4U&index=11&t=0s
+      viewCount: '125'
 ---
 
