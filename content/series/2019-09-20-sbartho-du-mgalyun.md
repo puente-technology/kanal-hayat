@@ -242,5 +242,19 @@ episodes:
       title: 08 - Yuhanna Bölüm IV (Süryani Dilinde)
       url: 'https://youtu.be/_ogpfr03YT0'
       viewCount: '83'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: 'Süryanice program [Bölüm 10] - (Türkçe altyazı)'
+      duration: PT27M31S
+      id: 2x8w-GFIOzM
+      imageURL: 'https://i.ytimg.com/vi/2x8w-GFIOzM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-03-27T16:03:49.000Z'
+      tags: 'hristiyan,hristiyanlık'
+      title: Yuhanna - Bölüm V
+      url: >-
+        https://www.youtube.com/watch?v=2x8w-GFIOzM&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=11&t=0s
+      viewCount: '87'
 ---
 
