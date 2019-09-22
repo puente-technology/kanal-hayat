@@ -156,5 +156,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=8t8MI17f1Bs&list=PLQfi14V3hH0KTIX9bEq1XS6L_sAGJ9vJG&index=7&t=0s
       viewCount: '1969'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsa Mesih'i araştıranlar...
+
+        İçimizden Biri - Sosyal hayatta aramızda yaşayan insanların ilginç
+        hikayeleri ve tanıklıklarının paylaşıldığı "İçimizden Biri" programını
+        Kanala Hayat Ekranlarında veya youtube sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT21M35S
+      id: Ut9vZytW5SA
+      imageURL: 'https://i.ytimg.com/vi/Ut9vZytW5SA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-06-30T18:25:08.000Z'
+      tags: >-
+        hristiyan,hz muhammed,hz isa,kiyamet günü,ahiret
+        günü,kıyam,mehdi,mesih,kiliseler,hristiyan oldu
+      title: İçimizden Biri - Duaya verilen yanıt...
+      url: >-
+        https://www.youtube.com/watch?v=Ut9vZytW5SA&list=PLQfi14V3hH0KTIX9bEq1XS6L_sAGJ9vJG&index=8&t=0s
+      viewCount: '1170'
 ---
 
