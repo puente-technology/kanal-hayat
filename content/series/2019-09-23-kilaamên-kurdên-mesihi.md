@@ -113,5 +113,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=LpJQ3zlVZ4g&list=PLQfi14V3hH0KdJbKUKfX8Vp6228qG-z3C&index=8&t=0s
       viewCount: '731'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Şaban OK Kürtçe Dilinde Hristiyan İlahiler
+      duration: PT4M12S
+      id: bExVGbPRrug
+      imageURL: 'https://i.ytimg.com/vi/bExVGbPRrug/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-06T09:34:58.000Z'
+      tags: 'yare,mıne,kürtçe,ilahi'
+      title: Hristiyan İlahiler (Kürtçe Dilinde) - Ewê Li Ser Text Runiştî - Şaban Ok
+      url: 'https://youtu.be/bExVGbPRrug'
+      viewCount: '1269'
 ---
 
