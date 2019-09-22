@@ -70,5 +70,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=LpqZgaADS5E&list=PLQfi14V3hH0KTIX9bEq1XS6L_sAGJ9vJG&index=3&t=0s
       viewCount: '8939'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İçimizden Biri - Sosyal hayatta aramızda yaşayan insanların ilginç
+        hikayeleri ve tanıklıklarının paylaşıldığı "İçimizden Biri" programını
+        Kanala Hayat Ekranlarında veya youtube sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT22M42S
+      id: ckbUBf8x_Fg
+      imageURL: 'https://i.ytimg.com/vi/ckbUBf8x_Fg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-13T09:19:37.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+        stanley,Diyarbakır
+      title: İçimizden Biri - Ruhsal bir yolculuğa çıktım..
+      url: >-
+        https://www.youtube.com/watch?v=ckbUBf8x_Fg&list=PLQfi14V3hH0KTIX9bEq1XS6L_sAGJ9vJG&index=5&t=0s
+      viewCount: '4578'
 ---
 
