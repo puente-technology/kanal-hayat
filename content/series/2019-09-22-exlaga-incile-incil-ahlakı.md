@@ -164,5 +164,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=lMdASxjEjFA&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=6&t=0s
       viewCount: '118'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        DADGEHA HEVDÛ NEKİN - Başkasını Yargılamayın [06]
+
+        Pastör Ender Peker'in  sunumuyla (Kürtçe Dilinde) gerçekleştirdiği
+        "EHLAQA ÎNCÎLÊ - İncil Ahlakı" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M11S
+      id: KzaN1cxrfuA
+      imageURL: 'https://i.ytimg.com/vi/KzaN1cxrfuA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T06:40:42.000Z'
+      tags: >-
+        hristiyan,incil,#kürtçe,#dilinde,#kurmanci,#piroz,#incile,AŞTÎWAZBİN,BAWERÎ,XWEŞBÎNÎ,ÇAV,DİRAN,DADGEHA,NEKİN
+      title: 'DADGEHA HEVDÛ NEKİN - Başkasını Yargılamayın [06]'
+      url: >-
+        https://www.youtube.com/watch?v=KzaN1cxrfuA&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=7&t=0s
+      viewCount: '82'
 ---
 
