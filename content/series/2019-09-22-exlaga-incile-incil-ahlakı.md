@@ -495,5 +495,18 @@ episodes:
       title: 'KAR Û KARKERÎ - İş ve İşçi [22]'
       url: 'https://youtu.be/cds1pQtrJqA'
       viewCount: '262'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M41S
+      id: GxNTMZwTvlA
+      imageURL: 'https://i.ytimg.com/vi/GxNTMZwTvlA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-02-18T08:22:56.000Z'
+      tags: 'dedikodu,incil,kürtçe'
+      title: 'LİPAŞGOTİN - Dedikodu [23]'
+      url: 'https://youtu.be/GxNTMZwTvlA'
+      viewCount: '234'
 ---
 
