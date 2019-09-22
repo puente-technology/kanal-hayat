@@ -49,5 +49,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Xe1YRRMoCxc&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=2&t=0s
       viewCount: '569'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
+        Sbartho 
+
+        Du mgalyun" progmını sayfamızdan takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M39S
+      id: jEPdooYgzFk
+      imageURL: 'https://i.ytimg.com/vi/jEPdooYgzFk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-12-18T20:47:30.000Z'
+      tags: '#büyük,#tufan,#incil'
+      title: 02 Büyük Tufan (Süryanice)
+      url: >-
+        https://www.youtube.com/watch?v=jEPdooYgzFk&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=3&t=0s
+      viewCount: '305'
 ---
 
