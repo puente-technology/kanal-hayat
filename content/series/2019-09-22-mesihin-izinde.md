@@ -95,5 +95,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=3qHTi4po46c&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=4&t=0s
       viewCount: '1769'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        4. Bölüm - İsa Görevine Başlıyor
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Mesih'in İzinde"
+        programını sayfamızdan takip edebilirsiniz. Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M40S
+      id: Uyj3di9addY
+      imageURL: 'https://i.ytimg.com/vi/Uyj3di9addY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-10-02T09:12:21.000Z'
+      tags: '#isa,#görevine,#mesihin,#izinde,#başlıyor,#vaftiz,#oluyor,#müslüman,#hz'
+      title: 4. Bölüm - İsa Görevine Başlıyor
+      url: >-
+        https://www.youtube.com/watch?v=Uyj3di9addY&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=5&t=0s
+      viewCount: '1098'
 ---
 
