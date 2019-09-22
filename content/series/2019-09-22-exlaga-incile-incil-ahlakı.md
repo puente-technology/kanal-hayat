@@ -224,5 +224,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=YKornYsKCBg&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=8&t=0s
       viewCount: '224'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        DAR Û FÊKİYA WÎ - Ağaç ve Meyvesi [08]
+
+        Pastör Ender Peker'in  sunumuyla (Kürtçe Dilinde) gerçekleştirdiği
+        "EHLAQA ÎNCÎLÊ - İncil Ahlakı" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M59S
+      id: fB9-cn_QxC8
+      imageURL: 'https://i.ytimg.com/vi/fB9-cn_QxC8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T06:42:40.000Z'
+      tags: >-
+        hristiyan,incil,#kürtçe,#dilinde,#kurmanci,#piroz,#incile,AŞTÎWAZBİN,BAWERÎ,XWEŞBÎNÎ,ÇAV,DİRAN,DADGEHA,NEKİN,KEHYATÎ,FÊKİYA
+      title: 'DAR Û FÊKİYA WÎ - Ağaç ve Meyvesi [08]'
+      url: >-
+        https://www.youtube.com/watch?v=fB9-cn_QxC8&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=9&t=0s
+      viewCount: '170'
 ---
 
