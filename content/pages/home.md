@@ -45,6 +45,7 @@ program1:
           https://www.facebook.com/kanalhayat
 
           https://twitter.com/kanalhayat
+        duration: PT23M50S
         id: ZRmJP8je89A
         imageURL: 'https://i.ytimg.com/vi/ZRmJP8je89A/hqdefault.jpg'
         mediaType: video
@@ -56,7 +57,7 @@ program1:
           Hayattan Keyif Alın - Tanrı'nın Sözlerini Kendi Sözlerimiz Haline
           Getirmek - 2
         url: 'https://www.youtube.com/watch?v=ZRmJP8je89A&feature=youtu.be'
-        viewCount: '251'
+        viewCount: '253'
     - image: /images/uploads/joyce-meyer-3.jpg
       youtubeURL:
         description: >-
@@ -73,6 +74,7 @@ program1:
           https://www.facebook.com/kanalhayat
 
           https://twitter.com/kanalhayat
+        duration: PT24M9S
         id: NL715li-YOQ
         imageURL: 'https://i.ytimg.com/vi/NL715li-YOQ/hqdefault.jpg'
         mediaType: video
@@ -80,7 +82,7 @@ program1:
         tags: 'hayattan,keyif,alın,güçlü,düşünceler,joyce,meyer'
         title: Hayattan Keyif Alın - Güçlü Düşünceler 2
         url: 'https://www.youtube.com/watch?v=NL715li-YOQ'
-        viewCount: '90'
+        viewCount: '141'
     - image: /images/uploads/joyce-meyer-3.jpg
       youtubeURL:
         description: >-
@@ -96,7 +98,7 @@ program1:
           https://www.facebook.com/kanalhayat
 
           https://twitter.com/kanalhayat
-        duration: ''
+        duration: PT23M50S
         id: ZRmJP8je89A
         imageURL: 'https://i.ytimg.com/vi/ZRmJP8je89A/hqdefault.jpg'
         mediaType: video
@@ -108,7 +110,7 @@ program1:
           Hayattan Keyif Alın - Tanrı'nın Sözlerini Kendi Sözlerimiz Haline
           Getirmek - 2
         url: 'https://www.youtube.com/watch?v=ZRmJP8je89A&feature=youtu.be'
-        viewCount: '251'
+        viewCount: '253'
   title: Joyce Meyer / Vaiz
 program2:
   align: right
@@ -155,7 +157,7 @@ program2:
         title: 'Tanrı''yı sorgulamak günah mı? - [Sorgulayan Gelsin 01]'
         url: >-
           https://www.youtube.com/watch?v=5Qe7222lmbA&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=2&t=0s
-        viewCount: '6791'
+        viewCount: '6796'
     - image: /images/uploads/sorgulayan-gelsi̇n.png
       youtubeURL:
         description: >-
@@ -183,6 +185,7 @@ program2:
         title: 'Kutsal Kitap’a güvenebilir miyiz? - [Sorgulayan Gelsin 08]'
         url: >-
           https://www.youtube.com/watch?v=IJ-iJzdGypA&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=9&t=0s
-        viewCount: '1528'
+        viewCount: '1532'
   title: Can Nuroglu / YAZAR
 ---
+
