@@ -74,5 +74,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=u6uo6bVlVag&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=3&t=0s
       viewCount: '357'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        BAWERÎ Û XWEŞBÎNÎ - İnanç ve Hoşgörü  [03]
+
+        Pastör Ender Peker'in  sunumuyla (Kürtçe Dilinde) gerçekleştirdiği
+        "EHLAQA ÎNCÎLÊ - İncil Ahlakı" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M22S
+      id: Gcrgq8NY4Xk
+      imageURL: 'https://i.ytimg.com/vi/Gcrgq8NY4Xk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-07-13T10:08:13.000Z'
+      tags: >-
+        hristiyan,incil,#kürtçe,#dilinde,#kurmanci,#piroz,#incile,AŞTÎWAZBİN,BAWERÎ,XWEŞBÎNÎ
+      title: 'BAWERÎ Û XWEŞBÎNÎ - İnanç ve Hoşgörü  [03]'
+      url: >-
+        https://www.youtube.com/watch?v=Gcrgq8NY4Xk&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=4&t=0s
+      viewCount: '107'
 ---
 
