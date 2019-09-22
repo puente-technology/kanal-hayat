@@ -386,5 +386,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=3eHiwXER8O8&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=15&t=0s
       viewCount: '83'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Bölüm 15
+      duration: PT27M40S
+      id: 2RAc0969ePw
+      imageURL: 'https://i.ytimg.com/vi/2RAc0969ePw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-04T06:14:28.000Z'
+      tags: 'hristiyan,incil'
+      title: 'HEVBERDAN - Hristiyanlığa göre Boşanmak [15]'
+      url: >-
+        https://www.youtube.com/watch?v=2RAc0969ePw&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=16&t=0s
+      viewCount: '233'
 ---
 
