@@ -174,5 +174,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=g9EL-yi6t9c&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=7&t=0s
       viewCount: '1956'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        7. Bölüm İsa'nın Mesaji Neydi?
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Mesih'in İzinde"
+        programını sayfamızdan takip edebilirsiniz. Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M43S
+      id: AMoOqF3VUfg
+      imageURL: 'https://i.ytimg.com/vi/AMoOqF3VUfg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-10-27T08:49:52.000Z'
+      tags: '#isanın,#mesajı,#neydi,#mesihin,#izinde,#isa,#müslüman,#hz'
+      title: 7. Bölüm İsa'nın Mesaji Neydi?
+      url: >-
+        https://www.youtube.com/watch?v=AMoOqF3VUfg&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=8&t=0s
+      viewCount: '1985'
 ---
 
