@@ -40,5 +40,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=1OH0s17ke24&list=PLQfi14V3hH0JIZ1Cp6wIt7Icit6ofEO4U&index=2&t=0s
       viewCount: '501'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        YouthBytes Gençlik Programı 2.Bölüm
+        İntihar Etmek Neden Çekicidir?
+        Ölümün Ötesinde Ne var ? 
+        Dilimizi Tutmak Neden Zor?
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M31S
+      id: Kh5SXiSAKVo
+      imageURL: 'https://i.ytimg.com/vi/Kh5SXiSAKVo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-15T12:49:15.000Z'
+      tags: >-
+        inanç,gençlik,gençler,Hristiyan,intihar,Depresyon,Bağımlılık,Kanal
+        Hayat,Chad Daniel,hz isa,ibadet
+      title: YouthBytes Gençlik Programı - Ölüm Ötesinde Ne Var? 1
+      url: >-
+        https://www.youtube.com/watch?v=Kh5SXiSAKVo&list=PLQfi14V3hH0JIZ1Cp6wIt7Icit6ofEO4U&index=3&t=0s
+      viewCount: '415'
 ---
 
