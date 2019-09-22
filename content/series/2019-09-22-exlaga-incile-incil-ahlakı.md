@@ -508,5 +508,18 @@ episodes:
       title: 'LİPAŞGOTİN - Dedikodu [23]'
       url: 'https://youtu.be/GxNTMZwTvlA'
       viewCount: '234'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT25M2S
+      id: uBb3aRCKeEc
+      imageURL: 'https://i.ytimg.com/vi/uBb3aRCKeEc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-02-27T14:17:05.000Z'
+      tags: 'hristiyan,hristiyanlık'
+      title: 'RİŞWET - Rüşvet Alanlara İncil Ne Diyor? [24]'
+      url: 'https://youtu.be/uBb3aRCKeEc'
+      viewCount: '358'
 ---
 
