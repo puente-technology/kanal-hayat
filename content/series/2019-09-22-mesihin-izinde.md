@@ -279,5 +279,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=dhEAZ04nL00&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=11&t=0s
       viewCount: '685'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        11. Bölüm İsa'nın Yahudilere Bakışı
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Mesih'in İzinde"
+        programını sayfamızdan takip edebilirsiniz. Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M27S
+      id: nneQC8szjP0
+      imageURL: 'https://i.ytimg.com/vi/nneQC8szjP0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-02T12:14:33.000Z'
+      tags: >-
+        #isanın,#yahudilere,#bakış,#açısı,#mesihin,#izinde,#müslümanlar,#yahudiler
+      title: 11. Bölüm İsa'nın Yahudilere Bakışı
+      url: >-
+        https://www.youtube.com/watch?v=nneQC8szjP0&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=12&t=0s
+      viewCount: '981'
 ---
 
