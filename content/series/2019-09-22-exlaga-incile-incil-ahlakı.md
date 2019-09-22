@@ -573,5 +573,18 @@ episodes:
       title: 'XEZNAYA EZMANAN - Göksel Hazine [26]'
       url: 'https://youtu.be/h4mQJ4rG--w'
       viewCount: '230'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M45S
+      id: PyT5ECsh2tE
+      imageURL: 'https://i.ytimg.com/vi/PyT5ECsh2tE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-05-29T06:56:00.000Z'
+      tags: 'zina,etmek,günahtır'
+      title: Zinakarî  Gunehe - Zina Etmek Günahtır (Kürtçe Program)
+      url: 'https://youtu.be/PyT5ECsh2tE'
+      viewCount: '152'
 ---
 
