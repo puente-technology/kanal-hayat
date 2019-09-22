@@ -104,5 +104,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Gcrgq8NY4Xk&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=4&t=0s
       viewCount: '107'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        ÇAV Bİ ÇAV, DİRAN Bİ DİRAN - Göze Göz Dişe Diş [4]
+
+        Pastör Ender Peker'in  sunumuyla (Kürtçe Dilinde) gerçekleştirdiği
+        "EHLAQA ÎNCÎLÊ - İncil Ahlakı" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M28S
+      id: NaUH6xHuVu8
+      imageURL: 'https://i.ytimg.com/vi/NaUH6xHuVu8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-07-13T10:08:13.000Z'
+      tags: >-
+        hristiyan,incil,#kürtçe,#dilinde,#kurmanci,#piroz,#incile,AŞTÎWAZBİN,BAWERÎ,XWEŞBÎNÎ,ÇAV,DİRAN
+      title: 'ÇAV Bİ ÇAV, DİRAN Bİ DİRAN - Göze Göz Dişe Diş [4]'
+      url: >-
+        https://www.youtube.com/watch?v=NaUH6xHuVu8&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=5&t=0s
+      viewCount: '218'
 ---
 
