@@ -468,5 +468,19 @@ episodes:
       title: 'Jİ DİJMİNÊ HES BİKİN - Düşmanlarınızı Sevin [20]'
       url: 'https://youtu.be/iYGt_6l2Bxo'
       viewCount: '157'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT29M55S
+      id: vFUBrBJZtCQ
+      imageURL: 'https://i.ytimg.com/vi/vFUBrBJZtCQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-17T12:41:53.000Z'
+      tags: hristiyan
+      title: 'JİN Û MALBAT - Kadın ve Aile [21]'
+      url: >-
+        https://www.youtube.com/watch?v=vFUBrBJZtCQ&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=22&t=0s
+      viewCount: '156'
 ---
 
