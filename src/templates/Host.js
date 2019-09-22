@@ -13,7 +13,6 @@ class Host extends PureComponent {
   static propTypes = {
     data: PropTypes.any,
     dispatch: PropTypes.any,
-    durations: PropTypes.any,
     hosts: PropTypes.any,
     episode: PropTypes.any,
     episodes: PropTypes.any,
@@ -30,7 +29,6 @@ class Host extends PureComponent {
   componentDidMount() {
     const {
       dispatch,
-      durations,
       hosts,
       episode,
       episodes,
@@ -45,8 +43,6 @@ class Host extends PureComponent {
       '',
       frontmatter,
       handleCloseClick,
-      false,
-      durations,
       false,
       hosts,
       true,
@@ -118,8 +114,6 @@ class Host extends PureComponent {
 }
 
 export default connect(state => ({
-  shouldInit: state.app.shouldInit,
-  durations: state.app.durations,
   hosts: state.app.hosts,
   episode: state.app.episode,
   episodes: state.app.episodes,

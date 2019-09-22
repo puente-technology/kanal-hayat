@@ -153,6 +153,7 @@ query SeriesPageTemplate($id: String!, $locale: String) {
           id
           description
           publishedAt
+          duration
         }
       }
     }

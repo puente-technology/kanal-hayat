@@ -1,9 +1,7 @@
-/* eslint-disable array-callback-return */
-/* eslint-disable consistent-return */
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { connect } from 'react-redux';
-import { nFormatter } from '../utils/utils';
+import { nFormatter, dateConverter } from '../utils/utils';
 import { toggleDarkMode } from '../state/app';
 
 class SeriesPage extends Component {
@@ -11,7 +9,6 @@ class SeriesPage extends Component {
     episodes: PropTypes.any.isRequired,
     frontmatter: PropTypes.any.isRequired,
     dispatch: PropTypes.any,
-    durations: PropTypes.any,
     hosts: PropTypes.any,
   };
 
@@ -22,23 +19,12 @@ class SeriesPage extends Component {
     };
   }
 
-  getDuration = (episode) => {
-    const { durations } = this.props
-    const result = durations.map((el) => {
-      if (el[episode.youtubeURL.id]) {
-        return el[episode.youtubeURL.id]
-      }
-    })
-    return result
-  }
-
 
   hanndlePlayClick = (e) => {
     const {
       dispatch,
       episodes,
       frontmatter,
-      durations,
       hosts,
     } = this.props
     const { episode, index } = JSON.parse(e.target.value)
@@ -50,8 +36,6 @@ class SeriesPage extends Component {
       index,
       frontmatter,
       this.handleCloseClick,
-      false,
-      durations,
       false,
       hosts,
       false,
@@ -82,7 +66,7 @@ class SeriesPage extends Component {
                 className="EpisodeVideo"
               >
                 <div className="playParavan">
-                  {this.getDuration(episode)}
+                  {dateConverter(episode.youtubeURL.duration)}
                 </div>
               </button>
               <div className="minicontainer">
@@ -112,6 +96,5 @@ class SeriesPage extends Component {
 
 export default connect(state => ({
   test: state,
-  durations: state.app.durations,
   hosts: state.app.hosts,
 }), null)(SeriesPage)

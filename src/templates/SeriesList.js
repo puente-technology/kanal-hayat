@@ -48,6 +48,7 @@ query SeriesList {
               id
               description
               publishedAt
+              duration
             }
           }
           targetGroup

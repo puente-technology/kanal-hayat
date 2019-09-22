@@ -59,7 +59,6 @@ class Player extends Component {
     playerIndex: PropTypes.any,
     dispatch: PropTypes.any,
     index: PropTypes.any,
-    durations: PropTypes.any,
     hosts: PropTypes.any,
     isBigScreen: PropTypes.any,
   }
@@ -117,7 +116,6 @@ class Player extends Component {
       handleCloseClick,
       episodes,
       dispatch,
-      durations,
       hosts,
       isBigScreen,
     } = this.props;
@@ -129,8 +127,6 @@ class Player extends Component {
         index + 1,
         frontmatter,
         handleCloseClick,
-        false,
-        durations,
         false,
         hosts,
         isBigScreen,
@@ -145,7 +141,6 @@ class Player extends Component {
       handleCloseClick,
       episodes,
       dispatch,
-      durations,
       hosts,
       isBigScreen,
     } = this.props;
@@ -158,8 +153,6 @@ class Player extends Component {
         frontmatter,
         handleCloseClick,
         false,
-        durations,
-        false,
         hosts,
         isBigScreen,
       ))
@@ -170,7 +163,6 @@ class Player extends Component {
     const {
       handleCloseClick,
       dispatch,
-      durations,
       hosts,
       isBigScreen,
     } = this.props;
@@ -183,8 +175,6 @@ class Player extends Component {
       null,
       null,
       null,
-      durations,
-      false,
       hosts,
       isBigScreen,
     ))
@@ -235,7 +225,6 @@ class Player extends Component {
       index,
       frontmatter,
       handleCloseClick,
-      durations,
       hosts,
       isBigScreen,
     } = this.props;
@@ -246,8 +235,6 @@ class Player extends Component {
       index,
       frontmatter,
       handleCloseClick,
-      false,
-      durations,
       false,
       hosts,
       isBigScreen,
@@ -409,7 +396,6 @@ class Player extends Component {
       index,
       frontmatter,
       handleCloseClick,
-      durations,
       hosts,
     } = this.props;
     if (prevPros.isBigScreen !== isBigScreen && !prevPros.isBigScreen) {
@@ -420,8 +406,6 @@ class Player extends Component {
         index,
         frontmatter,
         handleCloseClick,
-        false,
-        durations,
         false,
         hosts,
         false,
@@ -716,7 +700,6 @@ export default connect(state => ({
   index: state.app.index || '',
   handleCloseClick: state.app.handleCloseClick || '',
   isActive: state.app.isOpen || '',
-  durations: state.app.durations || '',
   hosts: state.app.hosts || '',
   isBigScreen: state.app.isBigScreen,
 }), null)(Player)

@@ -299,5 +299,4 @@ SeriesList.propTypes = {
 
 export default connect(state => ({
   test: state,
-  shouldInit: state.app.shouldInit,
 }), null)(SeriesList)

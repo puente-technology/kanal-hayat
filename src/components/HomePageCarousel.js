@@ -1,11 +1,10 @@
-/* eslint-disable array-callback-return */
-/* eslint-disable consistent-return */
 import React, { Component } from 'react';
 import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import { toggleDarkMode } from '../state/app';
 import './HomePageCarousel.scss';
+import { dateConverter } from '../utils/utils';
 
 const arrovSvg = require('../../static/images/expand.svg');
 
@@ -15,7 +14,6 @@ class Carousel extends Component {
     activeEpisode: PropTypes.any.isRequired,
     frontmatter: PropTypes.any.isRequired,
     handleVideoUrlChange: PropTypes.any.isRequired,
-    durations: PropTypes.any,
     hosts: PropTypes.any,
     dispatch: PropTypes.any,
   };
@@ -36,7 +34,6 @@ class Carousel extends Component {
     const {
       frontmatter,
       handleVideoUrlChange,
-      durations,
       hosts,
       dispatch,
     } = this.props
@@ -59,7 +56,6 @@ class Carousel extends Component {
         activeEpisode={active}
         episodes={items}
         handleVideoUrlChange={handleVideoUrlChange}
-        durations={durations}
         hosts={hosts}
         dispatch={dispatch}
       />)
@@ -115,7 +111,6 @@ class Item extends React.Component {
     id: PropTypes.any.isRequired,
     episodes: PropTypes.any,
     handleVideoUrlChange: PropTypes.any,
-    durations: PropTypes.any,
     dispatch: PropTypes.any,
     hosts: PropTypes.any,
   };
@@ -129,7 +124,6 @@ class Item extends React.Component {
   hanndlePlayClick = (e) => {
     const {
       dispatch,
-      durations,
       hosts,
     } = this.props;
     const { id, level } = JSON.parse(e.target.value)
@@ -141,27 +135,12 @@ class Item extends React.Component {
       '',
       this.handleCloseClick,
       false,
-      durations,
-      false,
       hosts,
       false,
     ))
   }
 
   handleCloseClick = () => {
-  }
-
-
-  getDuration = (episode) => {
-    const { durations } = this.props
-    if (durations) {
-      const result = durations.map((el) => {
-        if (el[episode.youtubeURL.id]) {
-          return el[episode.youtubeURL.id]
-        }
-      })
-      return result
-    }
   }
 
   handleClick = () => {
@@ -201,7 +180,7 @@ class Item extends React.Component {
               className="EpisodeVideo"
             >
               <div className="playParavan">
-                {this.getDuration(id)}
+                {dateConverter(id.youtubeURL.duration)}
               </div>
             </button>
           )
@@ -220,7 +199,7 @@ class Item extends React.Component {
               className="EpisodeVideo"
             >
               <div className="playParavan">
-                {this.getDuration(id)}
+                {dateConverter(id.youtubeURL.duration)}
               </div>
             </button>
           )
@@ -232,6 +211,5 @@ class Item extends React.Component {
 
 export default connect(state => ({
   test: state,
-  durations: state.app.durations,
   hosts: state.app.hosts,
 }), null)(Carousel)

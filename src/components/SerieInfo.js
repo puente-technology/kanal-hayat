@@ -4,7 +4,7 @@ import React, { PureComponent } from 'react'
 import { Link } from 'gatsby';
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types'
-import { nFormatter } from '../utils/utils';
+import { nFormatter, dateConverter } from '../utils/utils';
 import { toggleDarkMode } from '../state/app';
 
 
@@ -14,7 +14,6 @@ class SerieInfo extends PureComponent {
     handleCardCloseClick: PropTypes.any,
     slug: PropTypes.any,
     dispatch: PropTypes.any,
-    durations: PropTypes.any,
     hosts: PropTypes.any,
   };
 
@@ -28,22 +27,11 @@ class SerieInfo extends PureComponent {
 
   componentDidMount() {
     if (this.myRef.current) {
-      console.log(this.myRef)
       this.myRef.current.scrollIntoView({
         behavior: 'smooth',
         block: 'start',
       });
     }
-  }
-
-  getDuration = (episode) => {
-    const { durations } = this.props
-    const result = durations.map((el) => {
-      if (el[episode.youtubeURL.id]) {
-        return el[episode.youtubeURL.id]
-      }
-    })
-    return result
   }
 
   getHostUrl = (hostName) => {
@@ -63,7 +51,6 @@ class SerieInfo extends PureComponent {
     const {
       dispatch,
       frontmatter,
-      durations,
       hosts,
     } = this.props
     const { episodes } = frontmatter
@@ -76,8 +63,6 @@ class SerieInfo extends PureComponent {
       index,
       frontmatter,
       this.handleCloseClick,
-      false,
-      durations,
       false,
       hosts,
       false,
@@ -138,7 +123,7 @@ class SerieInfo extends PureComponent {
                   className="EpisodeVideo"
                 >
                   <div className="playParavan">
-                    {this.getDuration(episode)}
+                    {dateConverter(episode.youtubeURL.duration)}
                   </div>
                 </button>
                 <div className="minicontainer">
@@ -166,7 +151,5 @@ class SerieInfo extends PureComponent {
 }
 export default connect(state => ({
   test: state,
-  shouldInit: state.app.shouldInit,
-  durations: state.app.durations,
   hosts: state.app.hosts,
 }), null)(SerieInfo)

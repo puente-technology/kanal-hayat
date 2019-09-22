@@ -1,3 +1,4 @@
+import moment from 'moment'
 import { dayPeriods } from '../constants/generics';
 
 
@@ -73,6 +74,33 @@ Date.prototype.addDays = function (days) {
   const date = new Date(this.valueOf());
   date.setDate(date.getDate() + days);
   return date;
+}
+
+export const dateConverter = (date) => {
+  let time = ''
+  const timeObj = moment.duration(date)._data
+  let hours = timeObj.hours ? timeObj.hours.toString() : ''
+  let minutes = timeObj.minutes ? timeObj.minutes.toString() : ''
+  let seconds = timeObj.seconds ? timeObj.seconds.toString() : ''
+  if (hours) {
+    if (hours.length === 1) {
+      hours = `0${hours}`
+    }
+    time = `${time + hours}:`
+  }
+  if (minutes) {
+    if (minutes.length === 1) {
+      minutes = `0${minutes}`
+    }
+    time = `${time + minutes}:`
+  }
+  if (seconds) {
+    if (seconds.length === 1) {
+      seconds = `0${seconds}`
+    }
+    time = `${time + seconds}`
+  }
+  return time
 }
 
 
