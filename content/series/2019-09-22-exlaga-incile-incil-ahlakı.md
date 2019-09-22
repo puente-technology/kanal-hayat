@@ -455,5 +455,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=gtA_A_zaXvE&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=20&t=0s
       viewCount: '238'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT30M47S
+      id: iYGt_6l2Bxo
+      imageURL: 'https://i.ytimg.com/vi/iYGt_6l2Bxo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-06T17:29:24.000Z'
+      tags: 'Düşmanlarınızı,sevin'
+      title: 'Jİ DİJMİNÊ HES BİKİN - Düşmanlarınızı Sevin [20]'
+      url: 'https://youtu.be/iYGt_6l2Bxo'
+      viewCount: '157'
 ---
 
