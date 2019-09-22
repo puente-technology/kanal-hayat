@@ -595,5 +595,34 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=-JRMkrbe2t0&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=25&t=0s
       viewCount: '68'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Temiz Tohum (Süryani Dilinde)
+
+        Paulus Bartuma'nın sunumu ve Yosef Yoseph'in katılımıyla
+        gerçekleştirilen " Sbartho Du mgalyun" programanı Kanal Hayat
+        ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M32S
+      id: LWZsYxrtukQ
+      imageURL: 'https://i.ytimg.com/vi/LWZsYxrtukQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-13T06:44:59.000Z'
+      tags: 'temiz,tohum,incil,süryani,dilinde,kelam,ne,mutlu'
+      title: Temiz Tohum (Süryani Dilinde)
+      url: >-
+        https://www.youtube.com/watch?v=LWZsYxrtukQ&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=26&t=0s
+      viewCount: '46'
 ---
 
