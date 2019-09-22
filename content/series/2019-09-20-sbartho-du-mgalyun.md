@@ -105,5 +105,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ApvdfvL0eYM&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=4&t=0s
       viewCount: '234'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Bolum 4 - Turkce Altyazili
+      duration: PT27M22S
+      id: PFo4Bd84AMk
+      imageURL: 'https://i.ytimg.com/vi/PFo4Bd84AMk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-01-09T09:48:46.000Z'
+      tags: 'kurtuluş,ve,lutuf'
+      title: Kurtuluş ve Lütuf (Suryanice Program)
+      url: 'https://youtu.be/PFo4Bd84AMk'
+      viewCount: '276'
 ---
 
