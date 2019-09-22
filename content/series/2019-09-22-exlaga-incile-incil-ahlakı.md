@@ -482,5 +482,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=vFUBrBJZtCQ&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=22&t=0s
       viewCount: '156'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT30M13S
+      id: cds1pQtrJqA
+      imageURL: 'https://i.ytimg.com/vi/cds1pQtrJqA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-22T11:41:54.000Z'
+      tags: 'İş,ve,işçi'
+      title: 'KAR Û KARKERÎ - İş ve İşçi [22]'
+      url: 'https://youtu.be/cds1pQtrJqA'
+      viewCount: '262'
 ---
 
