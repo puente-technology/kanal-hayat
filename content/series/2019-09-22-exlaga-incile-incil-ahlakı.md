@@ -372,5 +372,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=AnfvV7F-Cwc&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=14&t=0s
       viewCount: '168'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT29M41S
+      id: 3eHiwXER8O8
+      imageURL: 'https://i.ytimg.com/vi/3eHiwXER8O8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-02T05:05:04.000Z'
+      tags: 'hristiyan,incil'
+      title: 'HÊRS Û MÊRKUJÎ - Öfke ve Cinayet [14]'
+      url: >-
+        https://www.youtube.com/watch?v=3eHiwXER8O8&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=15&t=0s
+      viewCount: '83'
 ---
 
