@@ -413,5 +413,19 @@ episodes:
       title: 'Jİ XWEDA XWASTİN - Tanrıdan İstemek [16]'
       url: 'https://youtu.be/9HMKN4-8csk'
       viewCount: '109'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT29M49S
+      id: sqeLcY122xs
+      imageURL: 'https://i.ytimg.com/vi/sqeLcY122xs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-18T07:31:18.000Z'
+      tags: 'hristiyan,incil'
+      title: 'RÊVEBİRİYANRE HURMET  [17]'
+      url: >-
+        https://www.youtube.com/watch?v=sqeLcY122xs&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=18&t=0s
+      viewCount: '93'
 ---
 
