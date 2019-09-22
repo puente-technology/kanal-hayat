@@ -194,5 +194,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=KzaN1cxrfuA&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=7&t=0s
       viewCount: '82'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        KEHYATÎ - Kahyalık Etmek (07)
+
+        Pastör Ender Peker'in  sunumuyla (Kürtçe Dilinde) gerçekleştirdiği
+        "EHLAQA ÎNCÎLÊ - İncil Ahlakı" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M43S
+      id: YKornYsKCBg
+      imageURL: 'https://i.ytimg.com/vi/YKornYsKCBg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T06:41:22.000Z'
+      tags: >-
+        hristiyan,incil,#kürtçe,#dilinde,#kurmanci,#piroz,#incile,AŞTÎWAZBİN,BAWERÎ,XWEŞBÎNÎ,ÇAV,DİRAN,DADGEHA,NEKİN,KEHYATÎ
+      title: KEHYATÎ - Kahyalık Etmek (07)
+      url: >-
+        https://www.youtube.com/watch?v=YKornYsKCBg&list=PLQfi14V3hH0K5PT_Fu2zZOl15heh4Is4O&index=8&t=0s
+      viewCount: '224'
 ---
 
