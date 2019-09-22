@@ -208,5 +208,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=kBcW06R9nTY&list=PLQfi14V3hH0JIZ1Cp6wIt7Icit6ofEO4U&index=9&t=0s
       viewCount: '101'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        YouthBytes Gençlik Programı 9.Bölüm
+        İntihar Etmek Neden Çekicidir?
+        Ölümün Ötesinde Ne var ? 
+        Dilimizi Tutmak Neden Zor?
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M32S
+      id: SFEMaqu29jI
+      imageURL: 'https://i.ytimg.com/vi/SFEMaqu29jI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-24T07:36:13.000Z'
+      tags: >-
+        inanç,gençlik,gençler,Hristiyan,intihar,Depresyon,Bağımlılık,Kanal
+        Hayat,Chad Daniel,suriye,Sam,Pavlus
+      title: YouthBytes Gençlik Programı - Suriye Şam'da Pavlus'un İzleri
+      url: >-
+        https://www.youtube.com/watch?v=SFEMaqu29jI&list=PLQfi14V3hH0JIZ1Cp6wIt7Icit6ofEO4U&index=10&t=0s
+      viewCount: '417'
 ---
 
