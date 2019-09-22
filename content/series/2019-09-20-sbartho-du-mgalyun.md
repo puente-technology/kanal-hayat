@@ -256,5 +256,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=2x8w-GFIOzM&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=11&t=0s
       viewCount: '87'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SBARTHO DU MGALYUN - 11inci Bölüm
+      duration: PT26M58S
+      id: Z1KzsuaNbjc
+      imageURL: 'https://i.ytimg.com/vi/Z1KzsuaNbjc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-04-02T08:34:37.000Z'
+      tags: 'incil,yuhanna,süryani'
+      title: 'İncil Dersi: Yuhanna - Bölüm VIII (Süryani Dilinde)'
+      url: 'https://youtu.be/Z1KzsuaNbjc'
+      viewCount: '188'
 ---
 
