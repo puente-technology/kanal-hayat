@@ -69,5 +69,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=a1pc-OHZpyw&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=3&t=0s
       viewCount: '2340'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        3. Bölüm - İsa Şeytan Tarafından Deneniyor
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Mesih'in İzinde"
+        programını sayfamızdan takip edebilirsiniz. Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M54S
+      id: 3qHTi4po46c
+      imageURL: 'https://i.ytimg.com/vi/3qHTi4po46c/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-10-02T09:11:42.000Z'
+      tags: '#isa,#şeytan,#tarafından,#deneniyor,#mesihin,#izinde'
+      title: 3. Bölüm - İsa Şeytan Tarafından Deneniyor
+      url: >-
+        https://www.youtube.com/watch?v=3qHTi4po46c&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=4&t=0s
+      viewCount: '1769'
 ---
 
