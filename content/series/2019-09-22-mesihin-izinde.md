@@ -226,5 +226,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=vrAWlOjrkXU&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=9&t=0s
       viewCount: '635'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        9. Bölüm İsa'nın Öğretiş Şekli Neden Farklıydı?
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Mesih'in İzinde"
+        programını sayfamızdan takip edebilirsiniz. Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M38S
+      id: 2UQSDooPW_Q
+      imageURL: 'https://i.ytimg.com/vi/2UQSDooPW_Q/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-10-27T08:53:57.000Z'
+      tags: '#isanın,#öğretiş,#şekli,#neden,#farklıydı,#mesihin,#izinde'
+      title: 9. Bölüm İsa'nın Öğretiş Şekli Neden Farklıydı?
+      url: >-
+        https://www.youtube.com/watch?v=2UQSDooPW_Q&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=10&t=0s
+      viewCount: '536'
 ---
 
