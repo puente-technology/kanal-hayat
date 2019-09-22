@@ -282,5 +282,18 @@ episodes:
       title: 'İsa Dedi Ki: "Size Yer Hazırlamaya Gidiyorum" [12]'
       url: 'https://youtu.be/9XyaJ2b6lGg'
       viewCount: '152'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Süryanice Program
+      duration: PT27M29S
+      id: L6YjQyNjp-U
+      imageURL: 'https://i.ytimg.com/vi/L6YjQyNjp-U/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-04-30T11:19:29.000Z'
+      tags: 'Mesihin,Buyruklarını,Yerine,Getirmek'
+      title: 'Mesihin Buyruklarını Yerine Getirmek [13]'
+      url: 'https://youtu.be/L6YjQyNjp-U'
+      viewCount: '11'
 ---
 
