@@ -351,5 +351,33 @@ episodes:
       title: 15 Ruhsal Körlük
       url: 'https://youtu.be/ZbtFb2VP9dE'
       viewCount: '133'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
+        Sbartho 
+
+        Du mgalyun" progmını  Kanal Hayat ekranlarında ve youtube sayfamızdan
+        takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M20S
+      id: _w8sbRlj-x8
+      imageURL: 'https://i.ytimg.com/vi/_w8sbRlj-x8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-07-08T10:42:07.000Z'
+      tags: 'luka 19,incil,süryani'
+      title: Luka 19. Bölüm (Süryanice İncil Dersi)
+      url: 'https://youtu.be/_w8sbRlj-x8'
+      viewCount: '158'
 ---
 
