@@ -358,5 +358,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=yxgfTsl2i5s&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=15&t=0s
       viewCount: '586'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        15. Bölüm İsa'nın Ölümden Dirilişi
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Mesih'in İzinde"
+        programını sayfamızdan takip edebilirsiniz. Esen Kalın.
+      duration: PT29M51S
+      id: 3iLZRLPold4
+      imageURL: 'https://i.ytimg.com/vi/3iLZRLPold4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-12-16T08:37:30.000Z'
+      tags: >-
+        #isanın,#ölümden,#dirilişi,#mesihin,#izinden,#isa,#vaftiz,#oluyor,#izinde,#müslüman,#hz
+      title: 15. Bölüm İsa'nın Ölümden Dirilişi
+      url: >-
+        https://www.youtube.com/watch?v=3iLZRLPold4&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=16&t=0s
+      viewCount: '1737'
 ---
 
