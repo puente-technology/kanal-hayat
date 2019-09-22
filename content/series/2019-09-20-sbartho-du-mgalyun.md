@@ -77,5 +77,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=jEPdooYgzFk&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=3&t=0s
       viewCount: '305'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
+        Sbartho 
+
+        Du mgalyun" progmını sayfamızdan takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M56S
+      id: ApvdfvL0eYM
+      imageURL: 'https://i.ytimg.com/vi/ApvdfvL0eYM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-01-02T10:25:35.000Z'
+      tags: '#yuhanna,#incil'
+      title: 03 Yuhanna Bölüm I (Süryani Dilinde)
+      url: >-
+        https://www.youtube.com/watch?v=ApvdfvL0eYM&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=4&t=0s
+      viewCount: '234'
 ---
 
