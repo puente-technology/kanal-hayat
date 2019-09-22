@@ -652,5 +652,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=HMnr0NFWgPQ&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=27&t=0s
       viewCount: '56'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Yargılamak (Süryani Dilinde)
+
+        Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
+        Sbartho Du mgalyun" progmını sayfamızdan takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M27S
+      id: hQXd8vTEWts
+      imageURL: 'https://i.ytimg.com/vi/hQXd8vTEWts/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-20T09:05:43.000Z'
+      tags: 'yargılamak,yargı,süryani,dilinde'
+      title: Yargılamak (Süryani Dilinde)
+      url: >-
+        https://www.youtube.com/watch?v=hQXd8vTEWts&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=28&t=0s
+      viewCount: '43'
 ---
 
