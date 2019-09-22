@@ -55,5 +55,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=jH8NAKTb_6Q&list=PLQfi14V3hH0KdJbKUKfX8Vp6228qG-z3C&index=4&t=0s
       viewCount: '352'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Şaban OK Kürtçe Dilinde Hristiyan İlahiler
+      duration: PT3M29S
+      id: Z0OXpg7tauw
+      imageURL: 'https://i.ytimg.com/vi/Z0OXpg7tauw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-06T09:29:11.000Z'
+      tags: 'kürtçe,ilahi,van'
+      title: Hristiyan İlahiler (Kürtçe Dilinde) - Bila Gelan Şa Bibin - Şaban Ok
+      url: >-
+        https://www.youtube.com/watch?v=Z0OXpg7tauw&list=PLQfi14V3hH0KdJbKUKfX8Vp6228qG-z3C&index=5&t=0s
+      viewCount: '403'
 ---
 
