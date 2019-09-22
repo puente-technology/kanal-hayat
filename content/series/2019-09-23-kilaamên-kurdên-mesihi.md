@@ -28,5 +28,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=U81XVVSoyWQ&list=PLQfi14V3hH0KdJbKUKfX8Vp6228qG-z3C&index=2&t=0s
       viewCount: '1674'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Şaban OK Kürtçe Dilinde Hristiyan İlahiler
+      duration: PT4M49S
+      id: qrpCEhWhqvU
+      imageURL: 'https://i.ytimg.com/vi/qrpCEhWhqvU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-06T09:37:43.000Z'
+      tags: 'yare,mıne,kürtçe,ilahi'
+      title: 'Hristiyan İlahiler (Kürtçe Dilinde) - İsa Mesih, Yare Mıne - Şaban Ok'
+      url: 'https://youtu.be/qrpCEhWhqvU'
+      viewCount: '2994'
 ---
 
