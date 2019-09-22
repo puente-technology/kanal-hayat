@@ -1,11 +1,11 @@
 program:
   - link: link 1
-    programName: 'Dar Kapıdan Girenler [Neden Hristiyan Oldum ?] 9.SEZON'
+    programName: 'Dar Kapıdan Girenler [Neden Hristiyan Oldum ?] '
   - link: link 2
     programName: Anlatsana Ey Gavur
-  - link: link 3
-    programName: Hristiyan Ahlâkı
-  - link: link 4
-    programName: Hristiyan Şeriatı
   - link: link 5
     programName: Gerçeğin Sesi
+  - link: link 4
+    programName: Hristiyan Şeriatı
+  - link: link 3
+    programName: Hristiyan Ahlâkı
