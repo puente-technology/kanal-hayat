@@ -306,5 +306,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=nneQC8szjP0&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=12&t=0s
       viewCount: '981'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        12. Bölüm İsa'nın Yargı Günü
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Mesih'in İzinde"
+        programını sayfamızdan takip edebilirsiniz. Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M45S
+      id: zIFtoHV5QfE
+      imageURL: 'https://i.ytimg.com/vi/zIFtoHV5QfE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-12-16T08:36:03.000Z'
+      tags: '#isanın,#yargı,#günü,#mesihin,#izinde'
+      title: 12. Bölüm İsa'nın Yargı Günü
+      url: >-
+        https://www.youtube.com/watch?v=zIFtoHV5QfE&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=13&t=0s
+      viewCount: '1263'
 ---
 
