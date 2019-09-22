@@ -82,8 +82,8 @@ export const dateConverter = (date) => {
   let time = ''
   const timeObj = moment.duration(date)._data
   let hours = timeObj.hours ? timeObj.hours.toString() : ''
-  let minutes = timeObj.minutes ? timeObj.minutes.toString() : ''
-  let seconds = timeObj.seconds ? timeObj.seconds.toString() : ''
+  let minutes = timeObj.minutes ? timeObj.minutes.toString() : '00'
+  let seconds = timeObj.seconds ? timeObj.seconds.toString() : '00'
   if (hours) {
     if (hours.length === 1) {
       hours = `0${hours}`

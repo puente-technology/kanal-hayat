@@ -42,7 +42,7 @@ episodes:
         http://www.youtube.com/kanalhayatplay
         https://www.facebook.com/kanalhayat
         https://twitter.com/kanalhayat
-      duration: ''
+      duration: 'PT27M52S'
       id: gAZXHL8FIbE
       imageURL: 'https://i.ytimg.com/vi/gAZXHL8FIbE/hqdefault.jpg'
       mediaType: video
