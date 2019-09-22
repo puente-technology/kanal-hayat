@@ -208,5 +208,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=LGFOPJ95tp4&list=PLQfi14V3hH0LykV0CcEwxSP2PiPuGrlKS&index=7&t=0s
       viewCount: '300'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Ahmet Güvener'in Kutsal Kitap temelinde gerçekleştirdiği "Mesih'in
+        Meselleri" adlı program da 
+
+        Rab'bin Sözü "İncil"den bölümler ve Mesih'in benzetmelerini sizler için
+        yorumladı.
+
+        Sakın Kaçırmayın..Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M12S
+      id: g5zj9BbZ-UQ
+      imageURL: 'https://i.ytimg.com/vi/g5zj9BbZ-UQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-05-03T08:03:34.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,ahmet guvener
+      title: 7. Bölüm Zengin Budala - Mesih'in Meselleri
+      url: >-
+        https://www.youtube.com/watch?v=g5zj9BbZ-UQ&list=PLQfi14V3hH0LykV0CcEwxSP2PiPuGrlKS&index=8&t=0s
+      viewCount: '565'
 ---
 
