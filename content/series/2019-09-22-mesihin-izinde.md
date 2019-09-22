@@ -148,5 +148,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=fG3doEsloBg&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=6&t=0s
       viewCount: '957'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        6. Bölüm İsa'nın Mucizeleri
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Mesih'in İzinde"
+        programını sayfamızdan takip edebilirsiniz. Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M21S
+      id: g9EL-yi6t9c
+      imageURL: 'https://i.ytimg.com/vi/g9EL-yi6t9c/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-10-27T08:46:31.000Z'
+      tags: '#isanın,#mücizeleri,#mesihin,#izinde,#hz,#şifa,#müslüman'
+      title: 6. Bölüm İsa'nın Mucizeleri
+      url: >-
+        https://www.youtube.com/watch?v=g9EL-yi6t9c&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=7&t=0s
+      viewCount: '1956'
 ---
 
