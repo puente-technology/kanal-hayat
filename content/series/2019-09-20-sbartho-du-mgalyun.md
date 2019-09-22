@@ -118,5 +118,18 @@ episodes:
       title: Kurtuluş ve Lütuf (Suryanice Program)
       url: 'https://youtu.be/PFo4Bd84AMk'
       viewCount: '276'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Sbartho Du Mgalyun - Bölüm 5
+      duration: PT27M16S
+      id: WixpgxeU5yw
+      imageURL: 'https://i.ytimg.com/vi/WixpgxeU5yw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-01-22T09:17:54.000Z'
+      tags: 'tanrının,gözünde,hilesiz,olmak'
+      title: Tanrının Gözünde Hilesiz Olmak (Süryani Dilinde)
+      url: 'https://youtu.be/WixpgxeU5yw'
+      viewCount: '450'
 ---
 
