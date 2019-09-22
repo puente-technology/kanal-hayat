@@ -35,7 +35,7 @@ export const HomePageTemplate = (data) => {
       <FriendSiteBanner />
       {
         program2
-        && <ProgrammeHomePage data={program2} />
+        && <ProgrammeHomePage data={program2} hosts={data.hosts} dispatch={data.dispatch} />
       }
     </div>
   )
