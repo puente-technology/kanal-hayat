@@ -624,5 +624,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=LWZsYxrtukQ&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=26&t=0s
       viewCount: '46'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kutsal Kitap'ta Evlilik ve Boşanma (Süryani Dilinde
+
+        Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
+        Sbartho Du mgalyun" progmını sayfamızdan takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M27S
+      id: HMnr0NFWgPQ
+      imageURL: 'https://i.ytimg.com/vi/HMnr0NFWgPQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-17T07:43:55.000Z'
+      tags: 'kutsal,kitap,evlilik,ve,boşanma,süryani'
+      title: Kutsal Kitap'ta Evlilik ve Boşanma (Süryani Dilinde)
+      url: >-
+        https://www.youtube.com/watch?v=HMnr0NFWgPQ&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=27&t=0s
+      viewCount: '56'
 ---
 
