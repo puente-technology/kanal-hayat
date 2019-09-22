@@ -539,5 +539,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=M-m6Y8JCYtM&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=23&t=0s
       viewCount: '87'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Zenginlik (Süryani Dilinde)
+
+        Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
+        Sbartho Du mgalyun" progmını sayfamızdan takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M25S
+      id: j9VXVC5cCdU
+      imageURL: 'https://i.ytimg.com/vi/j9VXVC5cCdU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-31T11:05:10.000Z'
+      tags: '#incil #zenginlik #yeryüzü #miras #dünya #aile'
+      title: Zenginlik (Süryani Dilinde)
+      url: >-
+        https://www.youtube.com/watch?v=j9VXVC5cCdU&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=24&t=0s
+      viewCount: '115'
 ---
 
