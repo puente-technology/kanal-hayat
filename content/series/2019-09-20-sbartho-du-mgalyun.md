@@ -295,5 +295,33 @@ episodes:
       title: 'Mesihin Buyruklarını Yerine Getirmek [13]'
       url: 'https://youtu.be/L6YjQyNjp-U'
       viewCount: '11'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
+        Sbartho 
+
+        Du mgalyun" progmını  Kanal Hayat ekranlarında ve youtube sayfamızdan
+        takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M25S
+      id: ns9EoXA041g
+      imageURL: 'https://i.ytimg.com/vi/ns9EoXA041g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-07-08T10:33:09.000Z'
+      tags: 'Kuralların,Köleliğinden,Kurtulmak'
+      title: 14 Kuralların Köleliğinden Kurtulmak
+      url: 'https://youtu.be/ns9EoXA041g'
+      viewCount: '67'
 ---
 
