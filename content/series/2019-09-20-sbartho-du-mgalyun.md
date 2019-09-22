@@ -323,5 +323,33 @@ episodes:
       title: 14 Kuralların Köleliğinden Kurtulmak
       url: 'https://youtu.be/ns9EoXA041g'
       viewCount: '67'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
+        Sbartho 
+
+        Du mgalyun" progmını  Kanal Hayat ekranlarında ve youtube sayfamızdan
+        takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M23S
+      id: ZbtFb2VP9dE
+      imageURL: 'https://i.ytimg.com/vi/ZbtFb2VP9dE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-07-15T17:48:41.000Z'
+      tags: 'ruhsal,körlük'
+      title: 15 Ruhsal Körlük
+      url: 'https://youtu.be/ZbtFb2VP9dE'
+      viewCount: '133'
 ---
 
