@@ -160,5 +160,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=5VzRlFM3ve8&list=PLQfi14V3hH0JIZ1Cp6wIt7Icit6ofEO4U&index=7&t=0s
       viewCount: '54'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        YouthBytes Gençlik Programı 7.Bölüm
+        İntihar Etmek Neden Çekicidir?
+        Ölümün Ötesinde Ne var ? 
+        Dilimizi Tutmak Neden Zor?
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M36S
+      id: SxoI_iUS-ms
+      imageURL: 'https://i.ytimg.com/vi/SxoI_iUS-ms/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-24T07:36:12.000Z'
+      tags: >-
+        inanç,gençlik,gençler,Hristiyan,intihar,Depresyon,Bağımlılık,Kanal
+        Hayat,Chad Daniel
+      title: YouthBytes Gençlik Programı - Şeytanın Tuzakları
+      url: >-
+        https://www.youtube.com/watch?v=SxoI_iUS-ms&list=PLQfi14V3hH0JIZ1Cp6wIt7Icit6ofEO4U&index=8&t=0s
+      viewCount: '87'
 ---
 
