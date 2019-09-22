@@ -654,5 +654,40 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=UTuL6J128_I&list=PLQfi14V3hH0JvB-AyxcUTkeh_ze0pqEBT&index=19&t=0s
       viewCount: '447'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsa Mesih'in Doğumu, Soy Ağacı, Çocukluğu ve diğer birçok konunun ele
+        alındığı  "Eşsiz Mesih" programını Kanal Hayat Ekranlarında ve youtube
+        sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        1-İsa Mesih Kimdir?
+
+        2-İsa Mesih'in Soyağacı
+
+        3-İsa Mesih'in Çocukluğu
+
+        4-İsa Mesih'in Vaftizi
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M31S
+      id: 8mG6t2Jv4Us
+      imageURL: 'https://i.ytimg.com/vi/8mG6t2Jv4Us/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-02-20T11:21:50.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi
+      title: 20- Mesih'in Çarmıha Gerilmesi
+      url: >-
+        https://www.youtube.com/watch?v=8mG6t2Jv4Us&list=PLQfi14V3hH0JvB-AyxcUTkeh_ze0pqEBT&index=20&t=0s
+      viewCount: '816'
 ---
 
