@@ -269,5 +269,18 @@ episodes:
       title: 'İncil Dersi: Yuhanna - Bölüm VIII (Süryani Dilinde)'
       url: 'https://youtu.be/Z1KzsuaNbjc'
       viewCount: '188'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SÜRYANİCE PROGRAM - TÜRKÇE ALTYAZI
+      duration: PT27M22S
+      id: 9XyaJ2b6lGg
+      imageURL: 'https://i.ytimg.com/vi/9XyaJ2b6lGg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-04-09T11:40:17.000Z'
+      tags: 'isa,dedi ki,Size,Yer'
+      title: 'İsa Dedi Ki: "Size Yer Hazırlamaya Gidiyorum" [12]'
+      url: 'https://youtu.be/9XyaJ2b6lGg'
+      viewCount: '152'
 ---
 
