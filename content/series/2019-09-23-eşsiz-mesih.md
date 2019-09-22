@@ -339,5 +339,40 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=qXEp67oKWhs&list=PLQfi14V3hH0JvB-AyxcUTkeh_ze0pqEBT&index=10&t=0s
       viewCount: '690'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsa Mesih'in Doğumu, Soy Ağacı, Çocukluğu ve diğer birçok konunun ele
+        alındığı  "Eşsiz Mesih" programını Kanal Hayat Ekranlarında ve youtube
+        sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        1-İsa Mesih Kimdir?
+
+        2-İsa Mesih'in Soyağacı
+
+        3-İsa Mesih'in Çocukluğu
+
+        4-İsa Mesih'in Vaftizi
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M42S
+      id: R6YFyxKtf2o
+      imageURL: 'https://i.ytimg.com/vi/R6YFyxKtf2o/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-02-20T08:37:53.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Incil,Kitap,Baba,Tanri,kiyamet,günü,Allah,depresyon,sifa,bereket,Özgürlük,Hastalik,Bunalim,Esenlik,Rahatlik,Mucize,Hristiyanlik,Iman,Hz.,Isa,peygamber,Ilah,Ruhsal,Protestan,Türk,Hristiyan,Kiyamet,Intihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargi,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Essiz Mesih
+      title: 11- Mesih'in Benzetmeleri
+      url: >-
+        https://www.youtube.com/watch?v=R6YFyxKtf2o&list=PLQfi14V3hH0JvB-AyxcUTkeh_ze0pqEBT&index=11&t=0s
+      viewCount: '157'
 ---
 
