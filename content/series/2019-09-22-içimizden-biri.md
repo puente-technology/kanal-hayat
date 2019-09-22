@@ -128,5 +128,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=6nmxV__FGSc&list=PLQfi14V3hH0KTIX9bEq1XS6L_sAGJ9vJG&index=6&t=0s
       viewCount: '3510'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        SORUNLARINI İSA SAYESİNDE YENDİ..MUTLAKA İZLE!
+
+        İçimizden Biri - Sosyal hayatta aramızda yaşayan insanların ilginç
+        hikayeleri ve tanıklıklarının paylaşıldığı "İçimizden Biri" programını
+        Kanala Hayat Ekranlarında veya youtube sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT17M17S
+      id: 8t8MI17f1Bs
+      imageURL: 'https://i.ytimg.com/vi/8t8MI17f1Bs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-06-30T19:52:02.000Z'
+      tags: 'hz muhammed,hz isa,ahiret günü,kıyamet günü,hristiyanlık,musevilik'
+      title: İçimizden Biri - Sorunlu geçmişten temiz bir geleceğe
+      url: >-
+        https://www.youtube.com/watch?v=8t8MI17f1Bs&list=PLQfi14V3hH0KTIX9bEq1XS6L_sAGJ9vJG&index=7&t=0s
+      viewCount: '1969'
 ---
 
