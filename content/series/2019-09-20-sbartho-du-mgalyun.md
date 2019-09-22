@@ -379,5 +379,25 @@ episodes:
       title: Luka 19. Bölüm (Süryanice İncil Dersi)
       url: 'https://youtu.be/_w8sbRlj-x8'
       viewCount: '158'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Matta 6.Bölüm
+
+        Yosef Yoseph sunumu ve  Paulus Bartuma'nın katılımıyla gerçekleştirilen
+        " Sbartho 
+
+        Du mgalyun" progmını sayfamızdan takip edebilirsiniz.
+      duration: PT27M20S
+      id: YcoJfBARA2M
+      imageURL: 'https://i.ytimg.com/vi/YcoJfBARA2M/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-07-24T09:58:13.000Z'
+      tags: '#dua #incil #rab #isa #mesih'
+      title: Rab'bin Duası (Süryani Dilinde)
+      url: >-
+        https://www.youtube.com/watch?v=YcoJfBARA2M&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=18&t=0s
+      viewCount: '216'
 ---
 
