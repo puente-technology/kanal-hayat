@@ -88,5 +88,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=GYZkWDvablc&list=PLQfi14V3hH0JIZ1Cp6wIt7Icit6ofEO4U&index=4&t=0s
       viewCount: '238'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        YouthBytes Gençlik Programı 4.Bölüm
+        İntihar Etmek Neden Çekicidir?
+        Ölümün Ötesinde Ne var ? 
+        Dilimizi Tutmak Neden Zor?
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M32S
+      id: ghMVxg1eCh0
+      imageURL: 'https://i.ytimg.com/vi/ghMVxg1eCh0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-24T07:36:11.000Z'
+      tags: >-
+        inanç,gençlik,gençler,Hristiyan,intihar,Depresyon,Bağımlılık,Kanal
+        Hayat,Chad Daniel,hz isa,ibadet
+      title: YouthBytes Gençlik Programı - Dilimizi Tutmak Neden Zor?
+      url: >-
+        https://www.youtube.com/watch?v=ghMVxg1eCh0&list=PLQfi14V3hH0JIZ1Cp6wIt7Icit6ofEO4U&index=5&t=0s
+      viewCount: '82'
 ---
 
