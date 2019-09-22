@@ -198,5 +198,41 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=GFXFhwVmKD4&list=PLQfi14V3hH0JvB-AyxcUTkeh_ze0pqEBT&index=6&t=0s
       viewCount: '994'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsa Mesih'in Doğumu, Soy Ağacı, Çocukluğu ve diğer birçok konunun ele
+        alındığı  "Eşsiz Mesih" programını Kanal Hayat Ekranlarında ve youtube
+        sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        1-İsa Mesih Kimdir?
+
+        2-İsa Mesih'in Soyağacı
+
+        3-İsa Mesih'in Çocukluğu
+
+        4-İsa Mesih'in Vaftizi
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M17S
+      id: YvtbLit-KHQ
+      imageURL: 'https://i.ytimg.com/vi/YvtbLit-KHQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-01-16T09:25:53.000Z'
+      tags: >-
+        isa mesih,iman,incil,sevgi,hristiyan,Rab,Kutsal Kitap,Dua,Kanal
+        Hayat,Cennet,Cehennem,Kiyamet,Ahiret,peygamber,bereket,kilise,vaaz,ruhsal,Tanri,inanc,rahip,Pastor
+        (Religious Leadership Title),Noel,Allah,Protestan
+      title: 6- Mesih'in İblis Tarafından Denenmesi
+      url: >-
+        https://www.youtube.com/watch?v=YvtbLit-KHQ&list=PLQfi14V3hH0JvB-AyxcUTkeh_ze0pqEBT&index=7&t=0s
+      viewCount: '868'
 ---
 
