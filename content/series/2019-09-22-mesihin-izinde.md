@@ -252,5 +252,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=2UQSDooPW_Q&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=10&t=0s
       viewCount: '536'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        10. Bölüm İsa'nın Kadınlara Bakışı
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Mesih'in İzinde"
+        programını sayfamızdan takip edebilirsiniz. Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M17S
+      id: dhEAZ04nL00
+      imageURL: 'https://i.ytimg.com/vi/dhEAZ04nL00/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-10-27T08:58:02.000Z'
+      tags: >-
+        #isanın,#kadınlara,#bakışı,#mesihin,#izinde,#isa,#vaftiz,#oluyor,#müslüman,#hz
+      title: 10. Bölüm İsa'nın Kadınlara Bakışı
+      url: >-
+        https://www.youtube.com/watch?v=dhEAZ04nL00&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=11&t=0s
+      viewCount: '685'
 ---
 
