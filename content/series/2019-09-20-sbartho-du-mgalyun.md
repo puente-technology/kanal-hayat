@@ -131,5 +131,33 @@ episodes:
       title: Tanrının Gözünde Hilesiz Olmak (Süryani Dilinde)
       url: 'https://youtu.be/WixpgxeU5yw'
       viewCount: '450'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
+        Sbartho 
+
+        Du mgalyun" progmını  Kanal Hayat ekranlarında ve youtube sayfamızdan
+        takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M21S
+      id: Y9Xmj2MhkZ0
+      imageURL: 'https://i.ytimg.com/vi/Y9Xmj2MhkZ0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-03-08T09:55:24.000Z'
+      tags: 'yeniden,doğmak,nasıl olur?'
+      title: Yeniden Doğmak Nasıl Olur? (Süryanice)
+      url: 'https://youtu.be/Y9Xmj2MhkZ0'
+      viewCount: '268'
 ---
 
