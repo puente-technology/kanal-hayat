@@ -374,5 +374,40 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=R6YFyxKtf2o&list=PLQfi14V3hH0JvB-AyxcUTkeh_ze0pqEBT&index=11&t=0s
       viewCount: '157'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsa Mesih'in Doğumu, Soy Ağacı, Çocukluğu ve diğer birçok konunun ele
+        alındığı  "Eşsiz Mesih" programını Kanal Hayat Ekranlarında ve youtube
+        sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        1-İsa Mesih Kimdir?
+
+        2-İsa Mesih'in Soyağacı
+
+        3-İsa Mesih'in Çocukluğu
+
+        4-İsa Mesih'in Vaftizi
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M48S
+      id: GOiwAiXRG1o
+      imageURL: 'https://i.ytimg.com/vi/GOiwAiXRG1o/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-02-20T08:36:32.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Incil,Kitap,Baba,Tanri,kiyamet,günü,Allah,depresyon,sifa,bereket,Özgürlük,Hastalik,Bunalim,Esenlik,Rahatlik,Mucize,Hristiyanlik,Iman,Hz.,Isa,peygamber,Ilah,Ruhsal,Protestan,Türk,Hristiyan,Kiyamet,Intihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargi,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Essiz Mesih
+      title: 12- Mesih'in Tanrısallığı
+      url: >-
+        https://www.youtube.com/watch?v=GOiwAiXRG1o&list=PLQfi14V3hH0JvB-AyxcUTkeh_ze0pqEBT&index=12&t=0s
+      viewCount: '226'
 ---
 
