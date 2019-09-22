@@ -22,8 +22,10 @@ class Events extends Component {
     this.setState({
       activeDay: new Date().getDay().toString(),
     })
-    const firstLoadedDay = new Date().getDay().toString()
+    let firstLoadedDay = new Date().getDay().toString()
+    if (firstLoadedDay === '0') firstLoadedDay = '99'
     const { eventList } = this.props;
+    console.log({ eventList });
     const filtered = eventList.filter(event => event.time.days
       .some(d => d === parseInt(firstLoadedDay, 10)))
     this.filteredList = filtered.sort(sortTimeString);
