@@ -567,5 +567,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=j9VXVC5cCdU&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=24&t=0s
       viewCount: '115'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Tanrı'nın Adını Boş Yere Ağzına Alma (Süryani Dilinde)
+
+        Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
+        Sbartho Du mgalyun" progmını sayfamızdan takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M45S
+      id: '-JRMkrbe2t0'
+      imageURL: 'https://i.ytimg.com/vi/-JRMkrbe2t0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-11T07:41:52.000Z'
+      tags: '#tanrı #adı #boş #yere #ağzına #alma'
+      title: Tanrı'nın Adını Boş Yere Ağzına Alma (Süryani Dilinde)
+      url: >-
+        https://www.youtube.com/watch?v=-JRMkrbe2t0&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=25&t=0s
+      viewCount: '68'
 ---
 
