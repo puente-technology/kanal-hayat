@@ -399,5 +399,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=YcoJfBARA2M&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=18&t=0s
       viewCount: '216'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Sonsuz Yaşam (Süryani Dilinde)
+
+        Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
+        Sbartho Du mgalyun" progmını sayfamızdan takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M27S
+      id: XrdkaWZ3egQ
+      imageURL: 'https://i.ytimg.com/vi/XrdkaWZ3egQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-07T09:01:57.000Z'
+      tags: '#mesih,#kurtuluş,#süryani,#dilinde,#sonsuz,#yaşam'
+      title: Sonsuz Yaşam (Süryani Dilinde)
+      url: >-
+        https://www.youtube.com/watch?v=XrdkaWZ3egQ&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=19&t=0s
+      viewCount: '151'
 ---
 
