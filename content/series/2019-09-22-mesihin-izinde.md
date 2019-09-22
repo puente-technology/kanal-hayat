@@ -332,5 +332,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=zIFtoHV5QfE&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=13&t=0s
       viewCount: '1263'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        14. Bölüm İsa Öldürülüyor
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Mesih'in İzinde"
+        programını sayfamızdan takip edebilirsiniz. Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M3S
+      id: yxgfTsl2i5s
+      imageURL: 'https://i.ytimg.com/vi/yxgfTsl2i5s/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-12-16T08:36:49.000Z'
+      tags: '#isa,#öldürülüyor,#mesihin,#izinden,#çarmıh,#kurtuluş,#müslümanlar'
+      title: 14. Bölüm İsa Öldürülüyor
+      url: >-
+        https://www.youtube.com/watch?v=yxgfTsl2i5s&list=PLQfi14V3hH0L8DIdDvJOcJHHsYXnwguro&index=15&t=0s
+      viewCount: '586'
 ---
 
