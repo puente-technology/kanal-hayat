@@ -794,5 +794,40 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=RNWXvScBUYM&list=PLQfi14V3hH0JvB-AyxcUTkeh_ze0pqEBT&index=23&t=0s
       viewCount: '77'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsa Mesih'in Doğumu, Soy Ağacı, Çocukluğu ve diğer birçok konunun ele
+        alındığı  "Eşsiz Mesih" programını Kanal Hayat Ekranlarında ve youtube
+        sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        1-İsa Mesih Kimdir?
+
+        2-İsa Mesih'in Soyağacı
+
+        3-İsa Mesih'in Çocukluğu
+
+        4-İsa Mesih'in Vaftizi
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M1S
+      id: 2j6IjCaU7ak
+      imageURL: 'https://i.ytimg.com/vi/2j6IjCaU7ak/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-23T09:35:58.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi
+      title: 24. Bölüm Mesih'in Göğe Yükselişi
+      url: >-
+        https://www.youtube.com/watch?v=2j6IjCaU7ak&list=PLQfi14V3hH0JvB-AyxcUTkeh_ze0pqEBT&index=24&t=0s
+      viewCount: '175'
 ---
 
