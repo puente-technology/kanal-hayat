@@ -100,5 +100,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ckbUBf8x_Fg&list=PLQfi14V3hH0KTIX9bEq1XS6L_sAGJ9vJG&index=5&t=0s
       viewCount: '4578'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İSA İLE KARŞILAŞTI (MUTLAKA İZLE!)
+
+        İçimizden Biri - Sosyal hayatta aramızda yaşayan insanların ilginç
+        hikayeleri ve tanıklıklarının paylaşıldığı "İçimizden Biri" programını
+        Kanala Hayat Ekranlarında veya youtube sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M23S
+      id: 6nmxV__FGSc
+      imageURL: 'https://i.ytimg.com/vi/6nmxV__FGSc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-06-30T19:14:55.000Z'
+      tags: 'hz isa,hz muhammed,oruç,hristiyanlık,müslümanlık,ahiret,kıyamet günü'
+      title: İçimizden Biri - Bir film sayesinde Tanrı'yı tanıdı...
+      url: >-
+        https://www.youtube.com/watch?v=6nmxV__FGSc&list=PLQfi14V3hH0KTIX9bEq1XS6L_sAGJ9vJG&index=6&t=0s
+      viewCount: '3510'
 ---
 
