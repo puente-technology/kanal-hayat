@@ -83,5 +83,37 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=QUn1bTdgVUQ&list=PLQfi14V3hH0LykV0CcEwxSP2PiPuGrlKS&index=3&t=0s
       viewCount: '808'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Ahmet Güvener'in Kutsal Kitap temelinde gerçekleştirdiği "Mesih'in
+        Meselleri" adlı program da 
+
+        Rab'bin Sözü "İncil"den bölümler ve Mesih'in benzetmelerini sizler için
+        yorumladı.
+
+        Sakın Kaçırmayın..Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M56S
+      id: nKLTolp-EeE
+      imageURL: 'https://i.ytimg.com/vi/nKLTolp-EeE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-01-09T13:20:04.000Z'
+      tags: >-
+        BOLUM,03,ASMA,VE,CUBUKLAR,hristiyanlık,ahiret,kıyamet,hz
+        isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+        anlatsana,kutsal ruh,isa mesih,mesih,Rab,Allah,Turkey,Istanbul,Asker
+      title: 3. Bölüm Asma ve Çubuklar - Mesih'in Meselleri
+      url: >-
+        https://www.youtube.com/watch?v=nKLTolp-EeE&list=PLQfi14V3hH0LykV0CcEwxSP2PiPuGrlKS&index=4&t=0s
+      viewCount: '702'
 ---
 
