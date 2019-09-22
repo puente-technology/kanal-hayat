@@ -184,5 +184,29 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=SxoI_iUS-ms&list=PLQfi14V3hH0JIZ1Cp6wIt7Icit6ofEO4U&index=8&t=0s
       viewCount: '87'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        YouthBytes Gençlik Programı 8.Bölüm
+        İntihar Etmek Neden Çekicidir?
+        Ölümün Ötesinde Ne var ? 
+        Dilimizi Tutmak Neden Zor?
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M22S
+      id: kBcW06R9nTY
+      imageURL: 'https://i.ytimg.com/vi/kBcW06R9nTY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-24T07:36:13.000Z'
+      tags: >-
+        inanç,gençlik,gençler,Hristiyan,intihar,Depresyon,Bağımlılık,Kanal
+        Hayat,Chad Daniel
+      title: YouthBytes Gençlik Programı - Kamboçya ve Tanrı'nın Çağrısı
+      url: >-
+        https://www.youtube.com/watch?v=kBcW06R9nTY&list=PLQfi14V3hH0JIZ1Cp6wIt7Icit6ofEO4U&index=9&t=0s
+      viewCount: '101'
 ---
 
