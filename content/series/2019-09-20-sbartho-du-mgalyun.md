@@ -187,5 +187,33 @@ episodes:
       title: Yeniden Doğmak Nasıl Olur? (Süryanice)
       url: 'https://youtu.be/Y9Xmj2MhkZ0'
       viewCount: '268'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Yuhanna Bölüm IV
+
+        Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
+        Sbartho Du mgalyun" progmını sayfamızdan takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M20S
+      id: _ogpfr03YT0
+      imageURL: 'https://i.ytimg.com/vi/_ogpfr03YT0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-05T06:33:53.000Z'
+      tags: '#yuhanna,#incil,#süryanı,#iman'
+      title: 08 - Yuhanna Bölüm IV (Süryani Dilinde)
+      url: >-
+        https://www.youtube.com/watch?v=_ogpfr03YT0&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=9&t=0s
+      viewCount: '83'
 ---
 
