@@ -49,16 +49,18 @@ export const eventWeek = () => {
   const startDay = new Date();
   const nthDayOfWeek = today.getDay();
   const isMonday = nthDayOfWeek === 1;
+  const isSunday = nthDayOfWeek === 0;
   if (!isMonday) {
-    startDay.setDate(today.getDate() - (nthDayOfWeek - 1))
+    if (isSunday) {
+      startDay.setDate(today.getDate() - 6)
+    } else {
+      startDay.setDate(today.getDate() - (nthDayOfWeek - 1))
+    }
   }
   for (let index = 0; index < 7; index += 1) {
     const tempDate = new Date();
     tempDate.setDate(startDay.getDate() + index)
-    let tempNth = tempDate.getDay().toString()
-    if (tempNth === '0') {
-      tempNth = '99'
-    }
+    const tempNth = tempDate.getDay().toString()
     result.push({
       date: tempDate.toEventDateFormat(),
       day: tempDate.toEventDayFormat(),

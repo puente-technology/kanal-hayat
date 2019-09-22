@@ -3,12 +3,12 @@ template: HomePage
 slug: ''
 title: Main Slider
 gallery:
-  - align: center
+  - align: left
     alt: Hakan Taştan ile
     color: light
-    image: /images/uploads/dsc01143.jpg
+    image: /images/uploads/hakan-tastan.jpg
     title: Gerçeğin Sesi
-  - align: right
+  - align: center
     alt: Ahmet Güvener ile
     color: light
     image: /images/uploads/_dsc1607.jpg
@@ -19,8 +19,8 @@ gallery:
     image: /images/uploads/dsc01008.jpg
     title: Hristiyan Ahlakı
 program1:
-  align: right
-  bgImage: /images/uploads/joyce-meyer-3.jpg
+  align: left
+  bgImage: /images/uploads/meyerrr.jpg
   color: light
   content: |-
     Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından
@@ -98,6 +98,7 @@ program1:
           https://www.facebook.com/kanalhayat
 
           https://twitter.com/kanalhayat
+        duration: ''
         id: ZRmJP8je89A
         imageURL: 'https://i.ytimg.com/vi/ZRmJP8je89A/hqdefault.jpg'
         mediaType: video
@@ -114,8 +115,8 @@ program1:
   title: Joyce Meyer / Vaiz
 program2:
   align: right
-  bgImage: /images/uploads/dsc01005.jpg
-  color: dark
+  bgImage: /images/uploads/can-abi-main-page.jpg
+  color: light
   content: >-
     Yazar olan Can Nuroğlu evli ve 3 çocuk babasıdır. Amerika’da Emmaus İncil
     Üniversitesinde ilahiyat eğitimini tamamlamış olan Nuroğlu yaklaşık 11 yıl
@@ -130,13 +131,15 @@ program2:
     programı yapmıştır ve yeni programları için çekimlere devam edilmektedir.
   thumbnailTitle: İzlemek için Tıklayın!
   thumbnails:
-    - image: /images/uploads/screen-shot-2019-09-13-at-13.54.33.png
+    - image: /images/uploads/sorgulayan-gelsi̇n.png
       youtubeURL:
         description: >-
-          Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
-          ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal
-          Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen
-          Kalın.
+          Tanrı'yı sorgulamak günah mı? - [Sorgulayan Gelsin 01]
+
+          Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Sorgulayan
+          Gelsin" programını sayfamızdan takip edebilirsiniz. 
+
+          Esen Kalın.
 
           http://kanalhayat.tv/
 
@@ -145,27 +148,26 @@ program2:
           https://www.facebook.com/kanalhayat
 
           https://twitter.com/kanalhayat
-        id: u-fObA14Ro0
-        imageURL: 'https://i.ytimg.com/vi/u-fObA14Ro0/hqdefault.jpg'
+        duration: PT28M6S
+        id: 5Qe7222lmbA
+        imageURL: 'https://i.ytimg.com/vi/5Qe7222lmbA/hqdefault.jpg'
         mediaType: video
-        publishedAt: '2019-04-24T14:26:48.000Z'
+        publishedAt: '2017-11-01T08:57:18.000Z'
         tags: >-
-          hristiyan,ahlakı nedir?,haçlı
-          seferleri,misyonerler,savaşlar,müslümanlar,kudüs,hristiyanlık ve
-          savaş?,incil,savaş ayetleri,ordu,haçlı,haç ve hilal
-          savaşı,tevrat,zebur
-        title: Hristiyan Ahlakı - Hristiyanlık ve Savaşlar
+          Hristiyan,Hristiyanlık,#sorgulayan,#gelsin,#tanrıyı,#sorgulamak,#günah,#mı?
+        title: 'Tanrı''yı sorgulamak günah mı? - [Sorgulayan Gelsin 01]'
         url: >-
-          https://www.youtube.com/watch?v=u-fObA14Ro0&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=7
-        viewCount: '462'
-        duration: PT27M20S
-    - image: /images/uploads/screen-shot-2019-09-13-at-13.54.33.png
+          https://www.youtube.com/watch?v=5Qe7222lmbA&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=2&t=0s
+        viewCount: '6791'
+    - image: /images/uploads/sorgulayan-gelsi̇n.png
       youtubeURL:
         description: >-
-          Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
-          ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal
-          Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen
-          Kalın.
+          Kutsal Kitap’a güvenebilir miyiz? - [Sorgulayan Gelsin 08]
+
+          Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Sorgulayan
+          Gelsin" programını sayfamızdan takip edebilirsiniz. 
+
+          Esen Kalın.
 
           http://kanalhayat.tv/
 
@@ -174,18 +176,17 @@ program2:
           https://www.facebook.com/kanalhayat
 
           https://twitter.com/kanalhayat
-        id: kZn36OuSCqc
-        imageURL: 'https://i.ytimg.com/vi/kZn36OuSCqc/hqdefault.jpg'
+        duration: PT30M6S
+        id: IJ-iJzdGypA
+        imageURL: 'https://i.ytimg.com/vi/IJ-iJzdGypA/hqdefault.jpg'
         mediaType: video
-        publishedAt: '2019-04-09T11:36:45.000Z'
+        publishedAt: '2018-01-04T05:47:51.000Z'
         tags: >-
-          hristiyan,ahlakı,nedir?,hırsızlık,kavramına,bakış açımız
-          ?,incil,ahlak,mübarek,insan olmak
-        title: Hristiyan Ahlakı - Hristiyanlığın "Hırsızlık" Kavramına Bakışı Nedir?
+          Hristiyan,Hristiyanlık,#kutsal,Kitap’a,güvenebilir,miyiz?,Sorgulayan,Gelsin
+        title: 'Kutsal Kitap’a güvenebilir miyiz? - [Sorgulayan Gelsin 08]'
         url: >-
-          https://www.youtube.com/watch?v=kZn36OuSCqc&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy&index=8
-        viewCount: '374'
-        duration: PT27M20S
+          https://www.youtube.com/watch?v=IJ-iJzdGypA&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=9&t=0s
+        viewCount: '1528'
   title: Can Nuroglu / YAZAR
 ---
 
