@@ -467,5 +467,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=FIQLuH9WxdE&list=PL1D41649BBC232911&index=25&t=0s
       viewCount: '1342'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M2S
+      id: x8jH1mZnb3M
+      imageURL: 'https://i.ytimg.com/vi/x8jH1mZnb3M/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-06-07T09:33:03.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 30. Bölüm - Yaşamımız Boyunca Nasıl Genç Ve Verimli Kalabiliriz?
+      url: >-
+        https://www.youtube.com/watch?v=x8jH1mZnb3M&list=PL1D41649BBC232911&index=28&t=0s
+      viewCount: '776'
 ---
 
