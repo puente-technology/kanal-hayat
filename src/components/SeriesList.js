@@ -31,26 +31,25 @@ class SeriesList extends Component {
 
   dataIntoArray = data => (Object.values(data).filter(x => x !== 'Seriler'))
 
-  handleLanguageChange = (e) => {
-    const { value } = e.target
+  handleLanguageChange = (value) => {
+    const valueType = value === 'Turkce' ? '0' : '1'
     let { listSeries } = this.state;
     const { data } = this.props;
     listSeries = this.dataIntoArray(data)
     let res = listSeries;
-    if (value !== '-99') {
+    if (value !== 'Dil') {
       res = listSeries
-        .filter(d => d.node.frontmatter.language === value)
+        .filter(d => d.node.frontmatter.language === valueType)
     }
     this.setState({ listSeries: res })
   }
 
-  handleTargetChange = (e) => {
-    const { value } = e.target
+  handleTargetChange = (value) => {
     let { listSeries } = this.state;
     const { data } = this.props;
     listSeries = this.dataIntoArray(data)
     let res = listSeries;
-    if (value !== '-99') {
+    if (value !== 'Hedef Kitle') {
       res = listSeries
         .filter(d => d.node.frontmatter.targetGroup === value)
     }
@@ -138,7 +137,6 @@ class SeriesList extends Component {
   sortByDate = () => {
     const { data } = this.props;
     const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => {
-      console.log(a)
       const episodesInfoA = a.node.frontmatter.episodes || []
       const episodesInfoB = b.node.frontmatter.episodes || []
       const aepisodes = episodesInfoA
@@ -269,6 +267,7 @@ class SeriesList extends Component {
           </div>
           )}
         </div>
+
         <div className="SeriesListSortAndFilter">
           <button value="title" onClick={this.handleSortByClick} type="button" className="SortButton">İsim</button>
           <button value="date" onClick={this.handleSortByDateClick} type="button" className="SortButton">Tarih</button>

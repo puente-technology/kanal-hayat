@@ -11,6 +11,9 @@ import './Dropdown.scss';
 class Dropdown extends Component {
   static propTypes = {
     list: PropTypes.array,
+    handleLanguageChange: PropTypes.any,
+    handleTargetChange: PropTypes.any,
+
   };
 
   static defaultProps = {
@@ -59,8 +62,15 @@ class Dropdown extends Component {
   };
 
   chooseItem = (value) => {
+    const { handleLanguageChange, handleTargetChange } = this.props
     const { labelItem } = this.state
     if (labelItem !== value) {
+      if (handleLanguageChange) {
+        handleLanguageChange(value)
+      }
+      if (handleTargetChange) {
+        handleTargetChange(value)
+      }
       this.setState({
         labelItem: value,
       })
