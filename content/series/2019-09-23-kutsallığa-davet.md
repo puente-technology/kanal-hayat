@@ -620,5 +620,30 @@ episodes:
       title: 21. Bölüm Ölümden Yaşama
       url: 'https://youtu.be/4aaT9Kc-xUM'
       viewCount: '71'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M17S
+      id: OtJh6j6zJCs
+      imageURL: 'https://i.ytimg.com/vi/OtJh6j6zJCs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-11-12T13:41:36.000Z'
+      tags: mesih
+      title: 22. Bölüm Mesih Niye Geldi?
+      url: 'https://youtu.be/OtJh6j6zJCs'
+      viewCount: '1202'
 ---
 
