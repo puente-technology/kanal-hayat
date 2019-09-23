@@ -695,5 +695,30 @@ episodes:
       title: 24. Bölüm İsa Günahları Bağışlar
       url: 'https://youtu.be/uKq_Ar4dyaQ'
       viewCount: '205'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M18S
+      id: ccYQxpfY47g
+      imageURL: 'https://i.ytimg.com/vi/ccYQxpfY47g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-11-12T13:42:22.000Z'
+      tags: ruh
+      title: 25. Bölüm İsa Ruhlara Hükmeder
+      url: 'https://youtu.be/ccYQxpfY47g'
+      viewCount: '716'
 ---
 
