@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: Sorgulayan Gelsin
+title: SORGULAYAN GELSİN
 publishDate: .
 coverImage: /images/uploads/sorgulayan.png
 host: Can Nuroğlu
