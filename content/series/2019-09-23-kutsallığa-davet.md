@@ -570,5 +570,30 @@ episodes:
       title: 19. Bölüm  Mesih'le Gelen Lütuf
       url: 'https://youtu.be/pV3rU64fV4Y'
       viewCount: '364'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: 6Mj6ccm-uJc
+      imageURL: 'https://i.ytimg.com/vi/6Mj6ccm-uJc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-08-27T09:13:21.000Z'
+      tags: ayrıcalık
+      title: 20. Bölüm  Mesih'teki Ayrıcalık
+      url: 'https://youtu.be/6Mj6ccm-uJc'
+      viewCount: '458'
 ---
 
