@@ -198,5 +198,36 @@ episodes:
       title: '06.Bölüm: Hz. Davut''a Göre İsa Mesih'
       url: 'https://youtu.be/NGsFC49ipUY'
       viewCount: '1261'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M59S
+      id: j8ycFyxYArc
+      imageURL: 'https://i.ytimg.com/vi/j8ycFyxYArc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-09-24T14:05:10.000Z'
+      tags: >-
+        hristiyan,kilise,peygamber,isa mesih,protestan,katolik,ahiret
+        günü,kıyamet,yargı,günah,hristiyanlık,ahiret,hz isa,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal
+        ruh,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestanlar,zekeriya
+        butros,kirkor ağabaloğlu
+      title: '07. Bölüm: Sonsuz Yaşamın Yolu'
+      url: 'https://youtu.be/j8ycFyxYArc'
+      viewCount: '796'
 ---
 
