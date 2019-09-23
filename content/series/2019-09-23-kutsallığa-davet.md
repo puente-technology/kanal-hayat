@@ -470,5 +470,30 @@ episodes:
       title: '15. Bölüm: Açığa Çıkan Kurtuluş'
       url: 'https://youtu.be/cCIz3FC6_yw'
       viewCount: '661'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M11S
+      id: B69rz3gmO2c
+      imageURL: 'https://i.ytimg.com/vi/B69rz3gmO2c/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-11T09:32:49.000Z'
+      tags: tanrıdan
+      title: '16. Bölüm: Tanrı''dan Doğmak'
+      url: 'https://youtu.be/B69rz3gmO2c'
+      viewCount: '885'
 ---
 
