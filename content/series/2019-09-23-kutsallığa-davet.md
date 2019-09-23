@@ -290,5 +290,35 @@ episodes:
       title: 'Kutsalliga Davet 09. Bölüm: Yaşam Ekmeği'
       url: 'https://youtu.be/vJw8L_sNh64'
       viewCount: '2869'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: JAmuFwNPFeA
+      imageURL: 'https://i.ytimg.com/vi/JAmuFwNPFeA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-09-24T14:35:45.000Z'
+      tags: >-
+        Gucenme,hristiyan,kilise,peygamber,isa mesih,protestan,katolik,ahiret
+        günü,kıyamet,yargı,günah,hristiyanlık,ahiret,hz isa,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal
+        ruh,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestanlar,zekeriya butros
+      title: '10. Bölüm: Tanrı''nın Daveti'
+      url: 'https://youtu.be/JAmuFwNPFeA'
+      viewCount: '641'
 ---
 
