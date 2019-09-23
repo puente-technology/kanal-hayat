@@ -320,5 +320,36 @@ episodes:
       title: '10. Bölüm: Tanrı''nın Daveti'
       url: 'https://youtu.be/JAmuFwNPFeA'
       viewCount: '641'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M57S
+      id: 6T6S5CZRZvI
+      imageURL: 'https://i.ytimg.com/vi/6T6S5CZRZvI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-30T13:36:23.000Z'
+      tags: >-
+        Kutsalliga,Davet,hristiyanlık,ahiret,kıyamet,hz
+        isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+        anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: '11. Bölüm: Göksel Miras'
+      url: 'https://youtu.be/6T6S5CZRZvI'
+      viewCount: '413'
 ---
 
