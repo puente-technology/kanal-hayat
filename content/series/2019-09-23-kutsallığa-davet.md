@@ -427,19 +427,18 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
-      duration: PT27M55S
-      id: 4tu77ONvuXk
-      imageURL: 'https://i.ytimg.com/vi/4tu77ONvuXk/hqdefault.jpg'
+      duration: PT27M56S
+      id: sIZKnAwcMvw
+      imageURL: 'https://i.ytimg.com/vi/sIZKnAwcMvw/hqdefault.jpg'
       mediaType: video
-      publishedAt: '2012-10-30T13:37:16.000Z'
+      publishedAt: '2012-10-30T13:36:51.000Z'
       tags: >-
-        Kutsalliga,Davet,hristiyanlık,ahiret,kıyamet,hz
-        isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
-        anlatsana,kutsal ruh,isa
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
         mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
         stanley,joyce meyer,ışık abla,güçlü erman,protestan,protestanlar
-      title: '13. Bölüm: Ölümsüz Tohum'
-      url: 'https://youtu.be/4tu77ONvuXk'
-      viewCount: '479'
+      title: 14. Bölüm Huzur Diyarına Davet
+      url: 'https://youtu.be/sIZKnAwcMvw'
+      viewCount: '673'
 ---
 
