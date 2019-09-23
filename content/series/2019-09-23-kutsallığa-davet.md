@@ -770,5 +770,30 @@ episodes:
       title: 26. Bölüm Işıkta Yürümek
       url: 'https://youtu.be/2XcGFAE1XPw'
       viewCount: '419'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M11S
+      id: 9o_iBptKWX4
+      imageURL: 'https://i.ytimg.com/vi/9o_iBptKWX4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-11-12T14:08:07.000Z'
+      tags: seçilmek
+      title: 28. Bölüm Mesih'te Seçilmek
+      url: 'https://youtu.be/9o_iBptKWX4'
+      viewCount: '747'
 ---
 
