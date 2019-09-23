@@ -121,15 +121,24 @@
   width: 15rem;
 }
 
+.Nav--XIcon {
+  display: none;
+}
+
 @media (max-width: 600px) {
   .Nav--Container {
-    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
   }
 
   .Nav--MenuButton {
     display: block !important;
-    margin-left: auto;
-    z-index: 1;
+    background-color: transparent;
+    border: none;
+    &:focus {
+      outline: none;
+    }
   }
   .Nav .Logo {
     z-index: 1;
@@ -144,9 +153,20 @@
     top: 0;
     left: 0;
     right: 0;
-    bottom: 0;
     background: white;
     animation: Nav--Links 0.2s ease;
+    margin-left: 0;
+    &.light {
+      color: black !important;
+    }
+    &.dark {
+      color: black !important;
+    }
+    &.side-menu-open {
+      display: flex;
+      padding-top: 44px;
+      padding-bottom: 44px;
+    }
   }
 
   .Nav--Links > * + * {
@@ -164,8 +184,15 @@
   }
 
   .Nav .NavLink {
-    font-size: 2.5rem;
+    font-size: 1rem;
     font-weight: 300;
+    height: 40px;
+    width: fit-content;
+    margin-bottom: 0;
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .Nav .NavLink:nth-of-type(2) {
@@ -201,6 +228,18 @@
   .Nav--GroupLinks .NavLink {
     font-size: 1.5rem;
     width: auto;
+  }
+
+  .Nav--XIcon {
+    display: block;
+    border: none;
+    margin-top: 0;
+    position: absolute;
+    right: 20px;
+    top: 30px;
+    &:focus {
+      outline: none;
+    }
   }
 }
 

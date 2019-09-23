@@ -17,7 +17,7 @@ const ContactUsPage = (props) => {
       <div className="contactInfo">
         <div className="logoContainer">
           <div className="logo">
-            <img src={logo} alt="logo" />
+            <img className="logoImg" src={logo} alt="logo" />
           </div>
         </div>
         <div className="ContactUsHeaderText" style={{ marginTop: '25px' }}>

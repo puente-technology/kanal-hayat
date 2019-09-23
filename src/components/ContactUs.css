@@ -145,3 +145,69 @@
   color: #FFF;
   margin-top: 24px;
 }
+
+@media (max-width: 576px) {
+  .contact-us {
+    flex-direction: column;
+    justify-content: flex-start;
+    height: auto;
+    margin-bottom: 31px;
+  }
+  
+  .contactInfo {
+    width: 100%;
+    padding-top: 0;
+    margin-left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 35px 0px;
+  }
+  
+  .logoImg {
+    width: 118px;
+  }
+  
+  .ContactUsHeaderText{
+    margin-top: 7px !important;
+    height: auto;
+    margin-bottom: 11px;
+  }
+  
+  .ContactUsHeaderTextStyle {
+    font-size: 15px;
+    line-height: 20px;
+    font-family: sans-serif;
+  }
+  .ContactUsInfoText {
+    margin-top: 8px !important;
+  }
+  .ContactUsInfoTextStyleBold {
+    font-size: 13px;
+    line-height: 18px;
+    font-family: sans-serif;
+  }
+  
+  .ContactUsInfoTextStyle {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  
+  .formHeader {
+    text-align: center;
+  }
+  
+  .form {
+    padding-top: 20px;
+    display: flex;
+    padding-left: 15px;
+  }
+  
+  .fieldStyle {
+    width: 250px;
+  }
+  
+  .lineStyle {
+    width: 530px;
+  }
+}

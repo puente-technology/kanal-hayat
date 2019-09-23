@@ -64,3 +64,58 @@
   }
   margin-right: 13px;
 }
+
+.upperPart {
+  display: flex;
+  height: 250px;
+  background-size: 100% auto !important;
+  align-items: center;
+}
+
+.lowerPart {
+  padding-left: 35px;
+  padding-right: 35px;
+  height: 80%;
+}
+
+@media (max-width: 576px) {
+  .program-container {
+    display: flex;
+  }
+  .Programme {
+    padding-top: 0;
+    padding-bottom: 0;
+    background: #cacaca;
+    width: 100%;
+    &.light {
+    }
+    &.dark {
+    }
+    &.right {
+      right: 0;
+      .upperPart {
+        padding-right: 70px;
+        justify-content: flex-end;
+      }
+    }
+    &.left {
+      left: 0;
+      .upperPart {
+        padding-left: 32px;
+      }
+    }
+  }
+  .ProgrammeTitle {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .ProgrammeContent {
+    font-size: 16px;
+  }
+  .ProgrammeThumbnailTitle {
+    font-size: 18px;
+  }
+  .ProgrammeThumbnails {
+    width: 100%;
+  }
+}

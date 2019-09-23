@@ -65,11 +65,11 @@
 }
 
 .Event-Programme {
-  border-left: 1px solid rgba(61, 61, 61, 0.4);
   height: 80px;
   display: flex;
   justify-content: center;
   width: 974px;
+  align-items: center;
 }
 
 .Event-Time {
@@ -114,6 +114,26 @@
 
 .Event-Subtitle {
   font-size: 14px;
+}
+
+.Event-ProgrammeBorder {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.Event-Border {
+  border-left: 1px solid rgba(61, 61, 61, 0.4);
+  height: 80px;
+  position: relative;
+  left: 5px;
+}
+
+.Event-BlueDot {
+  width: 10px;
+  height: 10px;
+  background: #478A95;
+  border-radius: 10px;
 }
 
 @media (max-width: 576px) {

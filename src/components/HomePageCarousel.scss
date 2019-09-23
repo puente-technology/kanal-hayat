@@ -143,3 +143,26 @@ $level1-left: 114px;
     margin-bottom: 3px;
 }
 
+@media (max-width: 576px) {
+    #carousel {
+        width: 100%;
+        margin: 0;
+        left: 0;
+        overflow: hidden;
+    }
+    .arrow-img {
+        width: 25px;
+    }
+    .arrow-left {
+        left: 10px;
+    }
+    .arrow-right {
+        left: 92%;
+    }
+    .homeLevel1 {
+        left: 55px;
+    }
+    .homeLevel0 {
+        left: 345px;
+    }
+}

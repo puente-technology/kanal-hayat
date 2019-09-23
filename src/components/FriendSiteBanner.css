@@ -78,7 +78,7 @@
 
 @media (max-width: 576px) {
   .friendSiteBannerContainer {
-    height: 304px;
+    height: 305px;
     display: flex;
   }
 
@@ -87,13 +87,16 @@
   }
 
   .logoDiv {
-    padding-left: 30%;
     width: auto;
+    align-items: center;
+    padding: 34px 30px 0px 30px;
   }
 
   .logoStyle {
     width: 144px;
     height: 59px;
+    margin: 0;
+    margin-bottom: 30px;
   }
 
   .header {
@@ -106,7 +109,7 @@
   }
 
   .button {
-    width: 150px;
+    width: fit-content;
     height: 30px;
     font-size: 13px;
   }
