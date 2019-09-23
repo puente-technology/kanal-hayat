@@ -670,5 +670,30 @@ episodes:
       title: 23. Bölüm Uluslara Gelen Işık
       url: 'https://youtu.be/tr4ZpQt1MK0'
       viewCount: '186'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M40S
+      id: uKq_Ar4dyaQ
+      imageURL: 'https://i.ytimg.com/vi/uKq_Ar4dyaQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-11-12T13:41:13.000Z'
+      tags: günah
+      title: 24. Bölüm İsa Günahları Bağışlar
+      url: 'https://youtu.be/uKq_Ar4dyaQ'
+      viewCount: '205'
 ---
 
