@@ -645,5 +645,30 @@ episodes:
       title: 22. Bölüm Mesih Niye Geldi?
       url: 'https://youtu.be/OtJh6j6zJCs'
       viewCount: '1202'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M8S
+      id: tr4ZpQt1MK0
+      imageURL: 'https://i.ytimg.com/vi/tr4ZpQt1MK0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-11-12T13:41:57.000Z'
+      tags: ışık
+      title: 23. Bölüm Uluslara Gelen Işık
+      url: 'https://youtu.be/tr4ZpQt1MK0'
+      viewCount: '186'
 ---
 
