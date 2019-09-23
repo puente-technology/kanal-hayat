@@ -351,5 +351,35 @@ episodes:
       title: '11. Bölüm: Göksel Miras'
       url: 'https://youtu.be/6T6S5CZRZvI'
       viewCount: '413'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M25S
+      id: z1OCGMyT7e4
+      imageURL: 'https://i.ytimg.com/vi/z1OCGMyT7e4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-30T13:35:30.000Z'
+      tags: >-
+        Kutsalliga,Davet,hristiyanlık,ahiret,kıyamet,hz
+        isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+        anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestan,protestanlar
+      title: '12. Bölüm: Kutsal Olun'
+      url: 'https://youtu.be/z1OCGMyT7e4'
+      viewCount: '470'
 ---
 
