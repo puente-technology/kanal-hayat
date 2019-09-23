@@ -96,5 +96,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Hs9apqYoSUw&list=PL1D41649BBC232911&index=2&t=0s
       viewCount: '2188'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M35S
+      id: nR9R_xSiUQI
+      imageURL: 'https://i.ytimg.com/vi/nR9R_xSiUQI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-27T07:20:48.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 4.Bölüm - Gerçek İsa
+      url: >-
+        https://www.youtube.com/watch?v=nR9R_xSiUQI&list=PL1D41649BBC232911&index=3&t=0s
+      viewCount: '2346'
 ---
 
