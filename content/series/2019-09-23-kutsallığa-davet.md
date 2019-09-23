@@ -260,5 +260,35 @@ episodes:
       title: '08. Bölüm: İsa Mesih''in Yetkisi'
       url: 'https://youtu.be/v3ZUSJkcIfo'
       viewCount: '731'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M57S
+      id: vJw8L_sNh64
+      imageURL: 'https://i.ytimg.com/vi/vJw8L_sNh64/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-09-24T14:29:36.000Z'
+      tags: >-
+        hristiyan,kilise,peygamber,isa mesih,protestan,katolik,ahiret
+        günü,kıyamet,yargı,günah,hristiyanlık,ahiret,hz isa,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal
+        ruh,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestanlar,zekeriya butros
+      title: 'Kutsalliga Davet 09. Bölüm: Yaşam Ekmeği'
+      url: 'https://youtu.be/vJw8L_sNh64'
+      viewCount: '2869'
 ---
 
