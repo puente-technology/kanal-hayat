@@ -795,5 +795,30 @@ episodes:
       title: 28. Bölüm Mesih'te Seçilmek
       url: 'https://youtu.be/9o_iBptKWX4'
       viewCount: '747'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M23S
+      id: G9VyBC-ZcCI
+      imageURL: 'https://i.ytimg.com/vi/G9VyBC-ZcCI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-11-12T14:08:42.000Z'
+      tags: kazanmak
+      title: 29. Bölüm Mesih'i Kazanmak
+      url: 'https://youtu.be/G9VyBC-ZcCI'
+      viewCount: '323'
 ---
 
