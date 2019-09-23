@@ -720,5 +720,30 @@ episodes:
       title: 25. Bölüm İsa Ruhlara Hükmeder
       url: 'https://youtu.be/ccYQxpfY47g'
       viewCount: '716'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M20S
+      id: 2XcGFAE1XPw
+      imageURL: 'https://i.ytimg.com/vi/2XcGFAE1XPw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-11-12T14:08:47.000Z'
+      tags: ışık
+      title: 26. Bölüm Işıkta Yürümek
+      url: 'https://youtu.be/2XcGFAE1XPw'
+      viewCount: '419'
 ---
 
