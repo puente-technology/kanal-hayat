@@ -495,5 +495,30 @@ episodes:
       title: '16. Bölüm: Tanrı''dan Doğmak'
       url: 'https://youtu.be/B69rz3gmO2c'
       viewCount: '885'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M29S
+      id: 7sbkl5861a8
+      imageURL: 'https://i.ytimg.com/vi/7sbkl5861a8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-11T09:33:17.000Z'
+      tags: mesih
+      title: '17. Bölüm: Mesih İle Paydaşlığa Davet'
+      url: 'https://youtu.be/7sbkl5861a8'
+      viewCount: '572'
 ---
 
