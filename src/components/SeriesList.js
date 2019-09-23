@@ -138,9 +138,12 @@ class SeriesList extends Component {
   sortByDate = () => {
     const { data } = this.props;
     const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => {
-      const aepisodes = a.node.frontmatter.episodes
+      console.log(a)
+      const episodesInfoA = a.node.frontmatter.episodes || []
+      const episodesInfoB = b.node.frontmatter.episodes || []
+      const aepisodes = episodesInfoA
         .map(x => x.youtubeURL.publishedAt).sort((x, y) => (y - x))
-      const bepisodes = b.node.frontmatter.episodes
+      const bepisodes = episodesInfoB
         .map(x => x.youtubeURL.publishedAt).sort((x, y) => (y - x))
 
       if (aepisodes[0] > bepisodes[0]) {
@@ -269,10 +272,8 @@ class SeriesList extends Component {
         <div className="SeriesListSortAndFilter">
           <button value="title" onClick={this.handleSortByClick} type="button" className="SortButton">İsim</button>
           <button value="date" onClick={this.handleSortByDateClick} type="button" className="SortButton">Tarih</button>
-          <Dropdown list={['Dil', 'Turkce', 'English']} />
-          {/* handleLanguageChange */}
-          {/* handleTargetChange */}
-          <Dropdown list={['Hedef Kitle', 'Herkes', 'Çocuk', 'Genç', 'Yetişkin']} />
+          <Dropdown handleLanguageChange={this.handleLanguageChange} list={['Dil', 'Turkce', 'English']} />
+          <Dropdown handleTargetChange={this.handleTargetChange} list={['Hedef Kitle', 'Herkes', 'Çocuk', 'Genç', 'Yetişkin']} />
           <input onChange={this.handleTextChange} className="Nav--Search filter" type="text" />
         </div>
         <div className="SeriesContainer">
