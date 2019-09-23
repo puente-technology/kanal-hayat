@@ -343,5 +343,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=TcFTl-Vi0fI&list=PL1D41649BBC232911&index=15&t=0s
       viewCount: '1683'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M31S
+      id: LtX4vLwlN_8
+      imageURL: 'https://i.ytimg.com/vi/LtX4vLwlN_8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-13T13:26:18.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 17. Bölüm - Şükreden Bir Yürek
+      url: >-
+        https://www.youtube.com/watch?v=LtX4vLwlN_8&list=PL1D41649BBC232911&index=16&t=0s
+      viewCount: '818'
 ---
 
