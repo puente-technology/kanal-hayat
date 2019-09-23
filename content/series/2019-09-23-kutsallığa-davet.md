@@ -595,5 +595,30 @@ episodes:
       title: 20. Bölüm  Mesih'teki Ayrıcalık
       url: 'https://youtu.be/6Mj6ccm-uJc'
       viewCount: '458'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M5S
+      id: 4aaT9Kc-xUM
+      imageURL: 'https://i.ytimg.com/vi/4aaT9Kc-xUM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-11-12T13:40:47.000Z'
+      tags: ölüm
+      title: 21. Bölüm Ölümden Yaşama
+      url: 'https://youtu.be/4aaT9Kc-xUM'
+      viewCount: '71'
 ---
 
