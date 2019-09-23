@@ -1,0 +1,413 @@
+backend:
+  name: github
+  repo: puente-technology-design/kanal-hayat
+  branch: develop
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+publish_mode: editorial_workflow
+ 
+collections:
+  - name: 'pages'
+    label: 'Page'
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: true
+    files:
+      - file: 'content/pages/home.md'
+        label: 'Ana Sayfa'
+        name: 'home-page'
+        fields:
+          - {label: "Locale", name: "locale", widget: "hidden", default: "tr"}
+          - {
+              label: Template,
+              name: template,
+              widget: hidden,
+              default: HomePage,
+            }
+          - { label: Slug, name: slug, widget: hidden, default: '' }
+          - { label: Title, name: title, widget: string }
+          - label: 'Full Page Slider'
+            name: 'gallery'
+            widget: 'list'
+            fields:
+              - { name: image, label: Image, widget: image }
+              - { name: alt, label: Alt, widget: string }
+              - { name: title, label: Title, widget: string, required: true }
+              - {
+                  label: "Align Text",
+                  name: "align",
+                  widget: "select",
+                  options: ["left", "center", "right"]
+                }
+              - {
+                  label: "Text Color",
+                  name: "color",
+                  widget: "select",
+                  options: ["dark", "light"]
+                }
+          - label: 'Program 1'
+            name: 'program1'
+            widget: 'object'
+            fields:
+              - { name: title, label: Başlık, widget: string }
+              - { name: content, label: İçerik, widget: text }
+              - { name: bgImage, label: Resim, widget: image }
+              - { name: thumbnailTitle, label: Başlık - II, widget: string }
+              - {
+                  label: "Align",
+                  name: "align",
+                  widget: "select",
+                  options: ["left", "right"]
+                }
+              - {
+                  label: "Text Color",
+                  name: "color",
+                  widget: "select",
+                  options: ["dark", "light"]
+                }
+              - label: 'Küçük Resimler'
+                name: 'thumbnails'
+                widget: 'list'
+                fields:
+                  - { name: image, label: Resim, widget: image }
+                  - { name: youtubeURL, label: Youtube URL, widget: youtube, extraInfo: true, APIkey: "AIzaSyAln9Zizqc3_r8zozq4OcmqwwsUOXRJtuE", required: false, default: null }
+          - label: 'Program 2'
+            name: 'program2'
+            widget: 'object'
+            fields:
+              - { name: title, label: Başlık, widget: string }
+              - { name: content, label: İçerik, widget: text }
+              - { name: bgImage, label: Resim, widget: image }
+              - { name: thumbnailTitle, label: Başlık - II, widget: string }
+              - {
+                  label: "Hizalama",
+                  name: "align",
+                  widget: "select",
+                  options: ["left", "right"]
+                }
+              - {
+                  label: "Metin Rengi",
+                  name: "color",
+                  widget: "select",
+                  options: ["dark", "light"]
+                }
+              - label: 'Küçük Resimler'
+                name: 'thumbnails'
+                widget: 'list'
+                fields:
+                  - { name: image, label: Resim, widget: image, required: false  }
+                  - { name: youtubeURL, label: Youtube URL, widget: youtube, extraInfo: true, APIkey: "AIzaSyAln9Zizqc3_r8zozq4OcmqwwsUOXRJtuE", required: false }
+
+  - name: 'foterBanner'
+    label: 'Footer Banner'
+    delete: false
+    editor:
+      preview: true
+    files:
+      - file: 'content/components/footerBanner/footerBanner.yml'
+        label: 'Footer Banner'
+        name: 'footer-banner-info'
+        fields:
+          - label: 'Footer Banner'
+            name: 'program'
+            widget: 'list'
+            fields:
+              - { name: programName, label: Program, widget: string }
+              - { name: link, label: Link, widget: string }
+
+  - name: 'headerBanner'
+    label: 'Header Banner'
+    delete: false
+    editor:
+      preview: true
+    files:
+      - file: 'content/components/headerBanner/headerBanner.yml'
+        label: 'Header Banner'
+        name: 'header-banner-info'
+        fields:
+          - label: 'Header Banner'
+            name: 'list'
+            widget: 'list'
+            fields:
+              - { name: image, label: Image, widget: image }
+              - { name: title, label: Title, widget: string }
+
+  - name: 'friendSiteBanner'
+    label: 'Friend Site Banner'
+    delete: false
+    editor:
+      preview: true
+    files:
+      - file: 'content/components/friendSiteBanner/friendSiteBanner.yml'
+        label: 'Friend Site Banner'
+        name: 'friend-site-banner'
+        fields:
+          - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
+          - { label: Template, name: template, widget: hidden, default: HomePage}
+          - { label: "Text Color", name: "color", widget: "select", options: ["dark", "light"]}
+          - label: 'Image'
+            name: 'imageObj'
+            widget: 'list'
+            fields:
+              - { name: image, label: Image, widget: image }
+              - { name: alt, label: Alt, widget: string }
+              - { name: title, label: Title, widget: string, required: true }
+          - label: 'Logo'
+            name: 'logo'
+            widget: 'list'
+            fields:
+              - { name: image, label: Image, widget: image }
+              - { name: alt, label: Alt, widget: string }
+              - { name: title, label: Title, widget: string, required: true }
+          - { name: header, label: Header Name, widget: string }
+          - { name: content, label: Content, widget: string }
+          - { name: buttonText, label: Button Text, widget: string }
+
+  - name: 'about-us'
+    label: 'About Us'
+    delete: false
+    editor:
+      preview: true
+    files:
+      - file: 'content/pages/about-us.md'
+        label: 'About Us'
+        name: 'about-us'
+        fields:
+          - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
+          - { label: Template, name: template, widget: hidden}
+          - { label: 'Image', name: 'featuredImage', widget: 'image'}
+          - { label: Slug, name: slug, widget: hidden, default: '' }
+          - { label: Title, name: title, widget: string }
+          - label: 'Content'
+            name: 'content'
+            widget: 'object'
+            fields:
+              - { name: introduction, label: Intorduction, widget: string }
+              - label: Frekans Info
+                name: frekansInfo
+                widget: 'object'
+                fields:
+                  - { name: dogu, label: Dogu, widget: string }
+                  - { name: dikey, label: Dikey, widget: string }
+                  - { name: saniye, label: Sembol/Saniye, widget: string }
+                  - { name: fec, label: Fec, widget: string }
+              - { name: about, label: About, widget: string }
+              - { name: contactInfo, label: Contact Info, widget: string }
+              - { name: footerInfo, label: Footer Info, widget: string }
+
+  - name: 'contact-us'
+    label: 'Contact Us'
+    delete: false
+    editor:
+      preview: true
+    files:
+      - file: 'content/pages/contact-us.md'
+        label: 'Contact Us'
+        name: 'contact-us'
+        fields:
+          - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
+          - { label: Template, name: template, widget: hidden}
+          - { label: Telefon, name: 'telefon', widget: 'string'}
+          - { label: Slug, name: slug, widget: hidden, default: '' }
+          - { label: Title, name: title, widget: string }
+          - { label: Email, name: email, widget: string }
+          - { label: Address, name: address, widget: string }
+          - { label: Header, name: header, widget: string }
+
+  - name: 'info-page'
+    label: 'Bilgi Edin'
+    delete: false
+    editor:
+      preview: true
+    files:
+      - file: 'content/pages/info-page.md'
+        label: 'Bilgi Edin'
+        name: 'info-page'
+        fields:
+          - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
+          - { label: Template, name: template, widget: hidden}
+          - { label: Slug, name: slug, widget: hidden, default: '' }
+          - { label: Title, name: title, widget: string }
+
+
+  - name: 'series-page'
+    label: 'İzle'
+    delete: false
+    editor:
+      preview: false
+    files:
+      - file: 'content/pages/series-page.md'
+        label: 'Seriler'
+        name: 'series-page'
+        fields:
+          - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
+          - { label: Template, name: template, widget: hidden, default: SeriesList }
+          - { label: Slug, name: slug, widget: hidden, default: '' }
+          - { label: Title, name: title, widget: string }
+
+  - name: 'events'
+    label: 'Program'
+    files:
+      - file: 'content/pages/events.md'
+        label: 'Yayın Akışı'
+        name: 'event-page'
+        # widget: 'list'
+        fields:
+          - { label: Slug, name: slug, widget: hidden, default: '' }
+          - { label: Title, name: title, widget: hidden }
+          - { label: Template, name: template, widget: hidden }
+          - label: 'Akış'
+            name: 'eventList'
+            widget: 'list'
+            fields:
+              - { name: title, label: Program, widget: string }
+              - { name: subtitle, label: 'Alt Başlık', widget: string }
+              - label: 'Zaman'
+                name: 'time'
+                widget: 'object'
+                fields:
+                  - {
+                      name: startTime,
+                      label: 'Başlama Saati',
+                      widget: string,
+                      pattern: ['(?:[01]\d|2[0123]):(?:[012345]\d)', "Must be in HH:MM"],
+                    }
+                  - {
+                      name: endTime,
+                      label: 'Bitiş Saati',
+                      widget: string,
+                      pattern: ['(?:[01]\d|2[0123]):(?:[012345]\d)', "Must be in HH:MM"],
+                    }
+                  - {
+                      label: 'Yayın Günleri',
+                      name: 'days',
+                      widget: 'select',
+                      options: [
+                        {
+                          label: 'Pazartesi',
+                          value: 1
+                        },
+                        {
+                          label: 'Salı',
+                          value: 2
+                        },
+                        {
+                          label: 'Çarşamba',
+                          value: 3
+                        },
+                        {
+                          label: 'Perşembe',
+                          value: 4
+                        },
+                        {
+                          label: 'Cuma',
+                          value: 5
+                        },
+                        {
+                          label: 'Cumartesi',
+                          value: 6
+                        },
+                        {
+                          label: 'Pazar',
+                          value: 99
+                        }
+                      ],
+                      multiple: true,
+                    }
+
+  - name: seriesCategories
+    label: Seri Kategorileri
+    editor:
+      preview: false
+    folder: content/categories
+    identifier_field: category
+    slug: '{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: Kategori Adı, name: category, widget: string }
+      - label: "Üst Kategori"
+        name: "parentCategory"
+        widget: "relation"
+        collection: "seriesCategories"
+        searchFields: ["category"]
+        valueField: "category"
+        displayFields: ["category"]
+        required: false
+
+  - name: 'series'
+    label: 'Seriler'
+    editor:
+      preview: true
+    folder: content/series
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    identifier_field: slug
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: Template, name: template, widget: hidden, default: SeriesPageTemplate }
+      - { label: Title, name: title, widget: string }
+      - { label: Yayın Tarihi, name: publishDate, widget: string, hint: "Hafta içi her gün hh:mm-hh:mm" }
+      - {
+          label: Kapak Resmi,
+          name: coverImage,
+          widget: image,
+        }
+      - { label: Sunucu, name: host, widget: string }
+      - { label: Açıklama, name: description, widget: text }
+      - label: Hedef Kitle
+        name: targetGroup
+        widget: select
+        options: ["Çocuk",  "Genç", "Yetişkin", "Herkes"]
+      - label: Dil
+        name: language
+        widget: select
+        options:
+          - { label: "Türkçe", value: "0" }
+          - { label: "English", value: "1" }
+      - label: "Kategori"
+        name: "selectedCategories"
+        widget: "relation"
+        collection: "seriesCategories"
+        searchFields: ["category"]
+        valueField: "category"
+        displayFields: ["category"]
+        multiple: true
+      - label: 'Bölümler'
+        name: 'episodes'
+        widget: 'list'
+        required: false
+        fields:
+          - { name: youtubeURL, label: Youtube URL, widget: youtube, extraInfo: true, APIkey: "AIzaSyAln9Zizqc3_r8zozq4OcmqwwsUOXRJtuE" }
+          - { label: Konuklar, name: guests, widget: string, required: false, default: '' }
+          - label: Sezon
+            name: season
+            widget: select
+            options: ["1",  "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20"]
+
+  - name: hosts
+    label: Sunucular
+    editor:
+      preview: false
+    folder: content/hosts
+    slug: '{{slug}}'
+    identifier_field: slug
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: Template, name: template, widget: hidden, default: Host }
+      - { label: Title, name: title, widget: string }
+      - label: "Sunucu"
+        name: "host"
+        widget: "relation"
+        collection: "series"
+        searchFields: ["host"]
+        valueField: "host"
+        displayFields: ["host"]
+      - {
+        label: Kapak Resmi,
+        name: coverImage,
+        widget: image,
+        }
+      - {
+        label: İçerik,
+        name: html,
+        widget: markdown,
+        }

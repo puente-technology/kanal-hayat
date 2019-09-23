@@ -1,0 +1,92 @@
+.customHeaderBanner {
+  width: 100%;
+  height: 600px;
+  background-size: cover !important;
+}
+
+.TextInfo {
+  padding-top: 286px;
+  padding-left: 120px;
+}
+
+.TextInfoTitle {
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 44px;
+  color: #ffffff;
+}
+
+.TextInfoHost {
+  font-weight: normal;
+  font-size: 18px;
+  color: #ffffff;
+}
+
+.TextInfoDescription {
+  margin-top: 15px;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  color: #ffffff;
+  height: 98px;;
+}
+
+.TextInfoEpisode {
+  padding-top: 25px;
+}
+
+.TextInfoEpisodeTitle {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+
+.TextInfoEpisodeBtns {
+  display: flex;
+  margin-top: 40px;
+}
+
+.TextInfoButton {
+  background: transparent;
+  font-size: 15px;
+  border-radius: 14px;
+  border: 0.5px solid #ffffff;
+  color: white;
+  margin-right: 15px;
+  font-weight: normal;
+  width: 84px;
+  &.active {
+    background: #dadada;
+  }
+}
+.SeriesPage {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.title {
+  font-weight: bold;
+  color: black;
+}
+
+@media (max-width: 576px) {
+  .customHeaderBanner {
+    background-position: right !important;
+  }
+  .SeriesPage {
+    padding-top: 20px;
+    .Episode {
+      margin-left: 21px;
+      margin-right: 21px;
+      width: 100%;
+    }
+    .EpisodeVideo {
+      width: 100%;
+    }
+    .minicontainer {
+      margin-bottom: 20px;
+    }
+  }
+}

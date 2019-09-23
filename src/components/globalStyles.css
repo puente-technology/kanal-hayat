@@ -1,0 +1,20 @@
+:root {
+  --primary: white;
+  --secondary: #000;
+  --lightGrey: whitesmoke;
+  --midGrey: #cacaca;
+  --darkGrey: #272727;
+  --danger: #ff3d3d;
+  --font-primary: Nunito;
+  --borderRadius: 3px;
+}
+
+.MainDiv {
+  position: relative;
+}
+
+html{
+  font-family: Nunito;
+  font-style: normal;
+  font-size: 18px;
+}

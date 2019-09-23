@@ -1,0 +1,32 @@
+.HostContainer {
+  width: 100%;
+  height: 650px;
+  background-size: cover !important;
+}
+
+.HostDescription {
+  display: flex;
+  justify-content: center;
+}
+
+.Content {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+
+  color: #3d3d3d;
+  width: 555px !important;
+  margin-top: 20px;
+}
+
+.HostSeries {
+  margin-left: 67px;
+  margin-right: 67px;
+  margin-top: 35px;
+}
+
+.HostTile {
+  margin-left: 67px;
+
+}

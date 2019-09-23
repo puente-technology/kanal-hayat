@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+#carousel {
+    height: 200px;
+    width: 600px;
+}
+
+.arrow {
+    position: absolute;
+    margin-top: 60px;
+    background: transparent;
+    border: none;
+}
+
+.arrow-left {
+    left: 60px;
+}
+
+
+.arrow-right {
+    left: 690px;
+    transform: rotate(180deg);
+}
+
+.item {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    transition: height 1s, width 1s, left 1s, margin-top 1s, line-height 1s, background-color 1s;
+}
+
+$level0-height: 176px;
+$level0-width: 250px;
+$level1-height: 176px;
+$level1-width: 250px;
+
+$level0-left: 406px;
+$level1-left: 114px;
+
+
+
+.homeLevel0 {
+    height: $level0-height;
+    width: $level0-width;
+    line-height: $level0-height;
+    left: $level0-left;
+}
+
+.homeLevel1 {
+    height: $level1-height;
+    width: $level1-width;
+    line-height: $level1-height;
+    left: $level1-left;
+}
+
+
+.left-enter {
+    opacity: 0;
+    left: $level1-left;
+    height: $level1-height;
+    width: $level1-width - 20;
+    line-height: $level1-height;
+}
+
+.left-enter.left-enter-active {
+    opacity: 1;
+    left: $level1-left;
+    height: $level1-height;
+    width: $level1-width;
+    line-height: $level1-height;
+    transition: left 1s, opacity 1s, height 1s, width 1s, margin-top 1s, line-height 1s;
+}
+
+.left-leave {
+    opacity: 1;
+    left: $level0-left;
+    height: $level1-height;
+    width: $level1-width;
+    line-height: $level1-height;
+}
+
+.left-leave.left-leave-active {
+    left: $level0-left + $level1-width;
+    opacity: 0;
+    height: $level1-height;
+    line-height: $level1-height;
+    width: $level1-width;
+    transition: left 1s, opacity 1s, height 1s, width 1s, margin-top 1s, line-height 1s;
+}
+
+.right-enter {
+    opacity: 0;
+    left: $level0-left + $level1-width;
+    height: $level1-height;
+    width: $level1-width - 20;
+    line-height: $level1-height;
+}
+
+.right-enter.right-enter-active {
+    left: $level0-left;
+    opacity: 1;
+    height: $level1-height;
+    line-height: $level1-height;
+    width: $level1-width;
+    transition: left 1s, opacity 1s, height 1s, width 1s, margin-top 1s, line-height 1s;
+}
+
+.right-leave {
+    left: $level1-left;
+    height: $level1-height;
+    opacity: 1;
+    line-height: $level1-height;
+    width: $level1-width;
+}
+
+.right-leave.right-leave-active {
+    left: $level1-width - $level1-width - 20;
+    opacity: 0;
+    height: $level1-height;
+    width: $level1-width - 20;
+    line-height: $level1-height;
+    transition: left 1s, opacity 1s, height 1s, width 1s, margin-top 1s, line-height 1s;
+}
+
+.noselect {
+    -webkit-user-select: none; 
+     -khtml-user-select: none; 
+       -moz-user-select: none; 
+        -ms-user-select: none;  
+            user-select: none;
+}
+
+.playParavan {
+    position: absolute;
+    width: 60px;
+    height: 14px;
+    background: black;
+    color: white;
+    bottom: 0;
+    float: right;
+    right: 6px;
+    margin-bottom: 3px;
+}
+

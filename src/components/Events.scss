@@ -1,0 +1,174 @@
+.Event-Week {
+  display: flex;
+  justify-content: center;
+  margin-top: 55px;
+}
+
+.Event {
+  
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 38px;
+  text-align: center;
+  color: rgba(61, 61, 61, 0.3);
+  margin-right: 75px;
+  background: white;
+  border: none;
+  cursor: pointer;
+  &.active {
+    color: #3d3d3d;
+    outline: none;
+  }
+  &:hover {
+    color: #3d3d3d;
+  }
+  &:focus {
+    outline: none;
+  }
+}
+
+.Event-Filters {
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+}
+
+.Filter-Button {
+  width: 111px;
+  height: 32px;
+  margin-right: 13px;
+  cursor: pointer;
+  border: 1px solid #34b5cf;
+  box-sizing: border-box;
+  &.active {
+    background: #34b5cf;
+    color: white;
+  }
+  &:hover {
+    background: #34b5cf;
+    color: white;
+  }
+}
+
+.Event-Container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  flex-wrap: wrap;
+}
+
+.Event-SubContainer {
+  height: 550px;
+  overflow-x: auto;
+  margin-bottom: 20px;
+}
+
+.Event-Programme {
+  border-left: 1px solid rgba(61, 61, 61, 0.4);
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  width: 974px;
+}
+
+.Event-Time {
+  width: 175px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 44px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #3d3d3d;
+  &.active {
+    background: #ececec;
+  }
+}
+
+.Event-Name {
+  align-items: center;
+  height: 80px;
+  width: 807px;
+  padding-left: 38px;
+  
+  font-style: normal;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: uppercase;
+  color: #3d3d3d;
+  &.active {
+    background: #f9f9f9;
+  }
+}
+
+.Event-Title {
+  padding-top: 18px;
+  font-weight: bold;
+}
+
+.Event-Subtitle {
+  font-size: 14px;
+}
+
+@media (max-width: 576px) {
+  .Event-Week {
+    justify-content: flex-start;
+    overflow: scroll;
+    padding-left: 23px;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-bottom: 20px;
+    .categoryArrowRight {
+      margin-top: 16px;
+    }
+    .categoryArrowLeft {
+      margin-top: 16px;
+    }
+  }
+  
+  .Event {
+    font-size: 18px;
+    line-height: 25px;
+    margin-right: 35px;
+    white-space: nowrap;
+  }
+  
+  .Event-Filters {
+    padding-left: 23px;
+    margin-top: 25px;
+  }
+  
+  .Filter-Button {
+    width: 58px;
+    height: 19px;
+  }
+  
+  .Event-SubContainer {
+    margin-right: 30px;
+  }
+  
+  .Event-Programme {
+    margin-left: 23px;
+  }
+  
+  .Event-Time {
+    font-size: 15px;
+    line-height: 20px;
+  }
+  
+  .Event-Name {
+    font-size: 13px;
+    line-height: 16px;
+    padding-left: 0;
+  }
+  
+  .Event-Subtitle {
+    font-size: 10px;
+  }
+}

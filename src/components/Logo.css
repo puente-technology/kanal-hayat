@@ -1,0 +1,11 @@
+.Logo {
+  display: flex;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 40px;
+  width: 120px;
+  align-items: center;
+  justify-content: center;
+  margin-left: 67px;
+}

@@ -1,0 +1,66 @@
+.program-container {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-style: normal;
+
+  height: 100vh;
+}
+
+.Programme {
+  height: 100vh;
+  padding-top: 80px;
+  padding-bottom: 55px;
+  width: 575px;
+  text-align: justify;
+  position: absolute;
+  &.light {
+    color: white;
+  }
+  &.dark {
+    color: black;
+  }
+  &.right {
+    right: 65px;
+  }
+  &.left {
+    left: 65px;
+  }
+}
+
+.ProgrammeTitle {
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 38px;
+  text-transform: uppercase;
+}
+
+.ProgrammeContent {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  padding-top: 27px;
+}
+
+.ProgrammeThumbnailTitle {
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 25px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+.ProgrammeThumbnails {
+  display: flex;
+  flex-direction: row;
+  width: 620px;
+  overflow-x: auto;
+}
+
+.ProgrammeThumbnail {
+  &:not(:first-child) {
+    margin-left: 13px;
+  }
+  margin-right: 13px;
+}

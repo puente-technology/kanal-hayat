@@ -1,0 +1,97 @@
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
+import './Dropdown.scss';
+
+
+class Dropdown extends Component {
+  static propTypes = {
+    list: PropTypes.array,
+  };
+
+  static defaultProps = {
+    list: [],
+  };
+
+  constructor(props) {
+    super(props);
+    this.state = {
+      isOpen: false,
+      labelItem: null,
+      typeDropdown: null,
+    };
+  }
+
+  componentWillMount() {
+    const { list } = this.props;
+    const { label } = list[0];
+    let firstItem = null;
+    if (typeof label !== 'undefined') {
+      this.checkType(false);
+      firstItem = label;
+    } else {
+      this.checkType(true);
+      firstItem = list[0];
+    }
+    this.setState({
+      labelItem: firstItem,
+    });
+  }
+
+  checkType = (value) => {
+    this.setState({
+      typeDropdown: value,
+    });
+  };
+
+  showDropdown = () => {
+    this.setState({ isOpen: true });
+    document.addEventListener('click', this.hideDropdown);
+  };
+
+  hideDropdown = () => {
+    this.setState({ isOpen: false });
+    document.removeEventListener('click', this.hideDropdown);
+  };
+
+  chooseItem = (value) => {
+    const { labelItem } = this.state
+    if (labelItem !== value) {
+      this.setState({
+        labelItem: value,
+      })
+    }
+  };
+
+  renderDataDropDown = (item, index) => {
+    const { typeDropdown } = this.state
+    const { value, label } = typeDropdown ? { value: index, label: item } : item
+    return (
+      <li
+        key={index}
+        value={value}
+        onClick={() => this.chooseItem(label)}
+      >
+        <a>
+          {label}
+        </a>
+      </li>
+    )
+  };
+
+  render() {
+    const { list } = this.props;
+    const { isOpen, labelItem } = this.state
+    return (
+      <div className={`dropdown ${isOpen ? 'open' : ''}`}>
+        <button className="dropdown-toggle" type="button" onClick={this.showDropdown}>
+          {labelItem}
+        </button>
+        <ul className="dropdown-menu">
+          {list.map(this.renderDataDropDown)}
+        </ul>
+      </div>
+    )
+  }
+}
+
+export default Dropdown

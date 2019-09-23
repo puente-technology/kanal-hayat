@@ -1,0 +1,99 @@
+.LiveNow {
+  height: 275px;
+  background: #eaeaea;
+  width: 100%;
+}
+
+.LiveNow--Title {
+  
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 38px;
+  text-transform: capitalize;
+  padding-top: 48px;
+  padding-left: 98px;
+  color: #3d3d3d;
+}
+
+.LiveNow--Line {
+  background: #ffffff;
+  width: 333px;
+  border-top: 1px solid #3d3d3d;
+}
+
+.LiveNow--Events {
+  display: flex;
+  height: 97px;
+  justify-content: center;
+}
+
+.LiveNow--Item {
+  padding-top: 39px;
+  height: 100%;
+  display: flex;
+  
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: uppercase;
+  color: rgba(61, 61, 61, 0.3);
+  font-weight: bold;
+  flex-direction: column;
+  margin-right: 65px;
+}
+
+.Item-Header {
+  
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: bold;
+  &.now {
+    color: #3d3d3d;
+  }
+}
+
+.Item-SubHeader {
+  width: 100%;
+  font-weight: normal;
+  &.now {
+    color: #3d3d3d;
+  }
+}
+
+.Item-Time {
+  line-height: 44px;
+  font-size: 32px;
+  &.now {
+    color: #3d3d3d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  button {
+    width: 114px;
+    height: 30px;
+    background: #bd0000;
+    color: white;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 576px) {
+  .LiveNow--Title {
+    font-size: 15px;
+    padding-left: 32px;
+    padding-top: 28px;
+  }
+  
+  .LiveNow--Item {
+    font-size: 15px;
+  }
+  
+  .Item-Header {
+    font-size: 15px;
+  }
+  
+  .Item-Time {
+    font-size: 21px;
+  }
+}

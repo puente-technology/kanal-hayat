@@ -1,0 +1,147 @@
+.contact-us {
+  height: 500px;
+  width: 100%;
+  background: white;
+  display: flex;
+  justify-content: space-around;
+}
+
+.contactInfo {
+  width: 300px;
+  margin-left: 40px;
+  padding-top: 40px;
+}
+
+.logo {
+  display: flex;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100px;
+  width: 250px;
+  align-items: center;
+  justify-content: center;
+  margin-left: 0;
+}
+.logoText{
+  width: 100px;
+}
+.logoTextStyle {
+  letter-spacing: 10px;
+}
+.logoContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.ContactUsHeaderText{
+  width: 171px;
+  height: 58px;
+}
+
+.ContactUsHeaderTextStyle {
+  
+  font-style: normal;
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 29px;
+  color: #3D3D3D;
+}
+.ContactUsInfoText {
+  display: flex
+}
+.ContactUsInfoTextStyleBold {
+  
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 20px;
+  color: #3D3D3D;
+}
+
+.ContactUsInfoTextStyle {
+  
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 20px;
+  color: #3D3D3D;
+  padding-left: 10px
+}
+
+.formHeader {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 25px;
+  color: #3D3D3D;
+}
+
+.form {
+  padding-top: 50px;
+}
+
+.field {
+  display: flex;
+}
+
+.fieldStyle {
+  border-width: 0 0 0.5px;
+  width: 357px;
+  height: 30px;
+  padding: 6px;
+  /* border: 0.5px solid #3D3D3D; */
+}
+
+.messageLabel {
+  
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 140.62%;
+  color:rgba(61, 61, 61, 0.5);
+  padding-left: 6px;
+}
+
+::placeholder {
+  
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 140.62%;
+  color: #3D3D3D;
+  padding: 5px;
+}
+
+.textAreaStyle {
+  resize: none;
+  border: none;
+  height: 100px;
+  padding-left: 10px;
+}
+
+.textArea {
+  display: flex;
+  flex-direction: column;
+}
+
+.lineStyle {
+  border: 0.5px solid rgba(61, 61, 61, 0.1);
+  width: 749px;
+}
+
+.buttonStyle {
+  background: #34B5CF;
+  border: none;
+  width: 250px;
+  height: 45px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #FFF;
+  margin-top: 24px;
+}
