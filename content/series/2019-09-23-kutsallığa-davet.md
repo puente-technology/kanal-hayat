@@ -545,5 +545,30 @@ episodes:
       title: 18. Bölüm  Göksel Adem
       url: 'https://youtu.be/uGY032fI5UQ'
       viewCount: '262'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M18S
+      id: pV3rU64fV4Y
+      imageURL: 'https://i.ytimg.com/vi/pV3rU64fV4Y/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-08-27T09:12:43.000Z'
+      tags: gelen
+      title: 19. Bölüm  Mesih'le Gelen Lütuf
+      url: 'https://youtu.be/pV3rU64fV4Y'
+      viewCount: '364'
 ---
 
