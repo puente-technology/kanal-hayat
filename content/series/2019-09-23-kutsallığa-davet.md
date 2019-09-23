@@ -820,5 +820,30 @@ episodes:
       title: 29. Bölüm Mesih'i Kazanmak
       url: 'https://youtu.be/G9VyBC-ZcCI'
       viewCount: '323'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M
+      id: hvw1Od2weGU
+      imageURL: 'https://i.ytimg.com/vi/hvw1Od2weGU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-11-12T14:09:01.000Z'
+      tags: tohum
+      title: 30. Bölüm Ölümsüz Tohum
+      url: 'https://youtu.be/hvw1Od2weGU'
+      viewCount: '205'
 ---
 
