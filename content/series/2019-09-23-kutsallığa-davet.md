@@ -520,5 +520,30 @@ episodes:
       title: '17. Bölüm: Mesih İle Paydaşlığa Davet'
       url: 'https://youtu.be/7sbkl5861a8'
       viewCount: '572'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M9S
+      id: uGY032fI5UQ
+      imageURL: 'https://i.ytimg.com/vi/uGY032fI5UQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-08-27T09:15:29.000Z'
+      tags: adem
+      title: 18. Bölüm  Göksel Adem
+      url: 'https://youtu.be/uGY032fI5UQ'
+      viewCount: '262'
 ---
 
