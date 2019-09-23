@@ -105,5 +105,36 @@ episodes:
       title: '03.Bölüm: İsa Mesih''in Gücü'
       url: 'https://youtu.be/-0aHL_6gM-Y'
       viewCount: '3544'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M36S
+      id: tqBLlMuJbko
+      imageURL: 'https://i.ytimg.com/vi/tqBLlMuJbko/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-06-29T09:28:28.000Z'
+      tags: >-
+        hristiyan,kilise,peygamber,isa mesih,protestan,katolik,ahiret
+        günü,kıyamet,yargı,günah,hristiyanlık,ahiret,hz isa,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal
+        ruh,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestanlar,zekeriya
+        butros,kirkor ağabaloğlu
+      title: '04.Bölüm: Tanrı Sözü İsa Mesih'
+      url: 'https://youtu.be/tqBLlMuJbko'
+      viewCount: '2682'
 ---
 
