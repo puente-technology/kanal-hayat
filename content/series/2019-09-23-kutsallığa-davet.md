@@ -440,5 +440,35 @@ episodes:
       title: 14. Bölüm Huzur Diyarına Davet
       url: 'https://youtu.be/sIZKnAwcMvw'
       viewCount: '673'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını
+        Kanala Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M52S
+      id: cCIz3FC6_yw
+      imageURL: 'https://i.ytimg.com/vi/cCIz3FC6_yw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-30T13:37:51.000Z'
+      tags: >-
+        Kutsalliga,Davet,15,hristiyanlık,ahiret,kıyamet,hz
+        isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+        anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestan,protestanlar
+      title: '15. Bölüm: Açığa Çıkan Kurtuluş'
+      url: 'https://youtu.be/cCIz3FC6_yw'
+      viewCount: '661'
 ---
 
