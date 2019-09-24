@@ -257,5 +257,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=2Oh3NIuE9Ac&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=9&t=0s
       viewCount: '649'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        9 - Yusuf Peygamber
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdikleri "Tevrat'ın Müjdelediği
+        Mesih"programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M12S
+      id: eyO3Z6zaQGM
+      imageURL: 'https://i.ytimg.com/vi/eyO3Z6zaQGM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-07-07T07:30:22.000Z'
+      tags: >-
+        #yusuf,#peygamber,#tevratın,#müjdelediği,#mesih,#adem,#ve,#havva,#tevrat,#zebur,#kutsal,#kitap,#müslümanlar,#hz,#namaz,#bereket,#duası
+      title: Tevrat'ın Müjdelediği Mesih - Yusuf Peygamber 9.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=eyO3Z6zaQGM&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=10&t=0s
+      viewCount: '335'
 ---
 
