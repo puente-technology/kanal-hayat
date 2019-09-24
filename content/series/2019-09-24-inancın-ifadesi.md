@@ -61,5 +61,28 @@ episodes:
       title: İnancın İfadesi - Korku 2.Bölüm
       url: 'https://youtu.be/fN88ZzpTFiQ'
       viewCount: '1594'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Serdar Dedeoğlu ve Gülhan ile inancın ifadesini Kanal Hayat
+        ekranlarından veya youtube sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT24M49S
+      id: 8e6zBm_0Olo
+      imageURL: 'https://i.ytimg.com/vi/8e6zBm_0Olo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-04-18T12:34:38.000Z'
+      tags: 'inancın,ifadesi'
+      title: İnancın İfadesi - Doğu Halkları 3.Bölüm
+      url: 'https://youtu.be/8e6zBm_0Olo'
+      viewCount: '464'
 ---
 
