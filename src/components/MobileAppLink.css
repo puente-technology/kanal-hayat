@@ -49,10 +49,15 @@
   width: 436px;
 }
 
+.phone {
+  margin-top: 24px;
+  margin-right: 64px;
+}
+
 @media (max-width: 576px) {
   .containerMobileAppLink {
     height: 300px;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
   }
 
@@ -60,10 +65,17 @@
     display: none;
   }
 
+  .googlePlayStyle {
+    display: flex;
+    flex-direction: column;
+  }
+
   .firstText {
     font-size: 15px;
     margin-bottom: 0;
     margin-top: 0;
+    text-align: left;
+    width: 121px;
   }
 
   .secondText {
@@ -72,14 +84,26 @@
   }
 
   .thirdText {
-    font-size: 13px;
-    margin-bottom: 25px;
-    display: flex;
-    width: auto;
+    display: none;
   }
 
   .appLink {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .googlePlay {
+    padding-right: 0 !important;
+  }
+
+  .phone {
+    margin-right: 0;
+    margin-top: 0;
+    position: relative;
+    top: 180px;
+    right: 30px;
   }
 }

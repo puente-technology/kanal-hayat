@@ -15,39 +15,41 @@ const ContactUsPage = (props) => {
   return (
     <div className="contact-us">
       <div className="contactInfo">
-        <div className="logoContainer">
-          <div className="logo">
-            <img className="logoImg" src={logo} alt="logo" />
+        <div>
+          <div className="logoContainer">
+            <div className="logo">
+              <img className="logoImg" src={logo} alt="logo" />
+            </div>
           </div>
-        </div>
-        <div className="ContactUsHeaderText" style={{ marginTop: '25px' }}>
-          <p className="ContactUsHeaderTextStyle">
-            {header}
-          </p>
-        </div>
-        <div className="ContactUsInfoText" style={{ marginTop: '11px' }}>
-          <p className="ContactUsInfoTextStyleBold">
-            Telefon:
-          </p>
-          <p className="ContactUsInfoTextStyle">
-            {telefon}
-          </p>
-        </div>
-        <div className="ContactUsInfoText" style={{ marginTop: '14px' }}>
-          <p className="ContactUsInfoTextStyleBold">
-            Email:
-          </p>
-          <p className="ContactUsInfoTextStyle">
-            {email}
-          </p>
-        </div>
-        <div className="ContactUsInfoText" style={{ width: '265px', marginTop: '14px' }}>
-          <p className="ContactUsInfoTextStyleBold">
-            Address:
-          </p>
-          <p className="ContactUsInfoTextStyle">
-            {address}
-          </p>
+          <div className="ContactUsHeaderText" style={{ marginTop: '25px' }}>
+            <p className="ContactUsHeaderTextStyle">
+              {header}
+            </p>
+          </div>
+          <div className="ContactUsInfoText" style={{ marginTop: '11px' }}>
+            <p className="ContactUsInfoTextStyleBold">
+              Telefon:
+            </p>
+            <p className="ContactUsInfoTextStyle">
+              {telefon}
+            </p>
+          </div>
+          <div className="ContactUsInfoText" style={{ marginTop: '14px' }}>
+            <p className="ContactUsInfoTextStyleBold">
+              Email:
+            </p>
+            <p className="ContactUsInfoTextStyle">
+              {email}
+            </p>
+          </div>
+          <div className="ContactUsInfoText" style={{ width: '265px', marginTop: '14px' }}>
+            <p className="ContactUsInfoTextStyleBold">
+              Address:
+            </p>
+            <p className="ContactUsInfoTextStyle">
+              {address}
+            </p>
+          </div>
         </div>
       </div>
       <div className="form">

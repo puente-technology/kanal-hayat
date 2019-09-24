@@ -122,6 +122,10 @@
   margin-right: 16px;
 }
 
+.rightColumn {
+  margin-right: 60px;
+}
+
 @media (max-width: 576px) {
   .footerBanner {
     height: 355px;

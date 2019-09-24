@@ -172,6 +172,7 @@
     margin-top: 7px !important;
     height: auto;
     margin-bottom: 11px;
+    width: auto;
   }
   
   .ContactUsHeaderTextStyle {
@@ -209,5 +210,14 @@
   
   .lineStyle {
     width: 530px;
+  }
+
+  .logoContainer {
+    margin-bottom: 18px;
+  }
+
+  .logo {
+    width: auto;
+    height: auto;
   }
 }
