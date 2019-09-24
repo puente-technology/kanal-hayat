@@ -74,5 +74,34 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=kOPBpDn_0A0&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=3&t=0s
       viewCount: '1581'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Romalılar Mektubu II
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "İncil'in
+        Mektupları" programını Kanal Hayat ekranlarından veya youtube
+        sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M29S
+      id: 1jpW9A0ZAy8
+      imageURL: 'https://i.ytimg.com/vi/1jpW9A0ZAy8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-01T08:57:19.000Z'
+      tags: '#incil,#mektuplarına,#giriş,#romalılar'
+      title: İncil'in Öğretisi - Romalılar Mektubu II  3.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=1jpW9A0ZAy8&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=4&t=0s
+      viewCount: '1081'
 ---
 
