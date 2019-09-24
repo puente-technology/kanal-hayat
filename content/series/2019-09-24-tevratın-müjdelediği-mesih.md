@@ -47,5 +47,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=fHm3IbbDGAQ&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=2&t=0s
       viewCount: '3929'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        2 - Günaha Düşüş
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdikleri "Tevrat'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M6S
+      id: lxY8YnRFrJA
+      imageURL: 'https://i.ytimg.com/vi/lxY8YnRFrJA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-04-05T08:26:37.000Z'
+      tags: >-
+        #yusuf,#peygamber,#tevratın,#müjdelediği,#mesih,#günaha,#düşüş,#adem,#ve,#havva,#tevrat,#zebur,#kutsal,#kitap,#müslümanlar,#hz,#namaz,#bereket,#duası
+      title: Tevrat'ın Müjdelediği Mesih - Günaha Düşüş 2.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=lxY8YnRFrJA&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=3&t=0s
+      viewCount: '1464'
 ---
 
