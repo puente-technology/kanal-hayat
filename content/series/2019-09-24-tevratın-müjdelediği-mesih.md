@@ -227,5 +227,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=hOYVvFZtf9I&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=8&t=0s
       viewCount: '423'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        8 - Yakup Peygamber
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdikleri "Tevrat'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M49S
+      id: 2Oh3NIuE9Ac
+      imageURL: 'https://i.ytimg.com/vi/2Oh3NIuE9Ac/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-03T12:19:08.000Z'
+      tags: >-
+        #tevrat,#mesih,#müjde,#yakup,#peygamber,#adem,#ve,#havva,#zebur,#kutsal,#kitap,#müslümanlar,#hz,#namaz,#bereket,#duası
+      title: Tevrat'ın Müjdelediği Mesih -  Yakup Peygamber 8.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=2Oh3NIuE9Ac&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=9&t=0s
+      viewCount: '649'
 ---
 
