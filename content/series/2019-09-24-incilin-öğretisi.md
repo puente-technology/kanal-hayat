@@ -159,5 +159,34 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Xn1Qt6b9En4&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=6&t=0s
       viewCount: '531'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Galatyalılar Mektubu
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "İncil'in
+        Öğretisi" programını Kanal Hayat ekranlarından veya youtube sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M42S
+      id: D6CKQmak0s4
+      imageURL: 'https://i.ytimg.com/vi/D6CKQmak0s4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-01T08:58:12.000Z'
+      tags: '#incil,#mektuplarına,#giriş,#mektubu,#galatyalılar'
+      title: İncil'in Öğretisi - Galatyalılar Mektubu 6.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=D6CKQmak0s4&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=7&t=0s
+      viewCount: '599'
 ---
 
