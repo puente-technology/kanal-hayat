@@ -314,5 +314,28 @@ episodes:
       title: İnancın İfadesi - Uyuşturucu ve Madde Bağımlılığı 13.Bölüm
       url: 'https://youtu.be/3B9HQW-YcSk'
       viewCount: '638'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Serdar Dedeoğlu ve Gülhan ile inancın ifadesini Kanal Hayat
+        ekranlarından veya youtube sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M21S
+      id: 21xvyYbtm44
+      imageURL: 'https://i.ytimg.com/vi/21xvyYbtm44/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-03T06:29:34.000Z'
+      tags: 'eski,yaşam'
+      title: İnancın İfadesi - Eski Yaşam / Yeni Yaşam 14.Bölüm
+      url: 'https://youtu.be/21xvyYbtm44'
+      viewCount: '928'
 ---
 
