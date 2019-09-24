@@ -283,5 +283,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=nBm2p5XKsWw&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=14&t=0s
       viewCount: '2406'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        14. Bölüm Cennet Nasıl Bir Yer?
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği, "Dünyanın Sonu"
+        programını sayfamızdan takip edebilirsiniz.
+
+        Esenlikler Dileriz.
+      duration: PT24M39S
+      id: qnAT2sfx5qE
+      imageURL: 'https://i.ytimg.com/vi/qnAT2sfx5qE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-22T12:34:29.000Z'
+      tags: >-
+        Yecüc,Mecüc,kıyamet,ahiret,isa,incil,mesih,mehdi,Armegeddon,dünyanın
+        sonu,alametler,cennet,cehennem,ateş
+      title: 14. Bölüm Cennet Nasıl Bir Yer?
+      url: >-
+        https://www.youtube.com/watch?v=qnAT2sfx5qE&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=15&t=0s
+      viewCount: '5438'
 ---
 
