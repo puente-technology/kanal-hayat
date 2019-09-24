@@ -157,5 +157,23 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=TuEeaCdKGKg&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=7&t=0s
       viewCount: '3847'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği, "Dünyanın Sonu"
+        programını sayfamızdan takip edebilirsiniz.
+
+        Esenlikler Dileriz.
+      duration: PT25M31S
+      id: L_Lu79nG6MA
+      imageURL: 'https://i.ytimg.com/vi/L_Lu79nG6MA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-04-16T07:31:05.000Z'
+      tags: '666 Sayısı,666,ahiret,kıyamet,son günler,Deccal'
+      title: 7. Bölüm Deccal
+      url: >-
+        https://www.youtube.com/watch?v=L_Lu79nG6MA&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=8&t=0s
+      viewCount: '4642'
 ---
 
