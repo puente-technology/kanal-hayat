@@ -197,5 +197,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=8dQnN615Y-U&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=7&t=0s
       viewCount: '543'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        7 - İbrahim Peygamber 3
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdikleri "Tevrat'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M56S
+      id: hOYVvFZtf9I
+      imageURL: 'https://i.ytimg.com/vi/hOYVvFZtf9I/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-03T12:19:00.000Z'
+      tags: >-
+        #ibrahim,#peygamber,#kutsal,#mesih,#zebur,#müjde,#adem,#ve,#havva,#tevrat,#kitap,#müslümanlar,#hz,#namaz,#bereket,#duası
+      title: Tevrat'ın Müjdelediği Mesih - İbrahim Peygamber 3 - 7.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=hOYVvFZtf9I&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=8&t=0s
+      viewCount: '423'
 ---
 
