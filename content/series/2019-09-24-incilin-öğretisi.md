@@ -331,5 +331,34 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=OaFgGhB5_r4&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=12&t=0s
       viewCount: '488'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İbraniler Mektubu
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "İncil'in
+        Öğretisi" programını Kanal Hayat ekranlarından veya youtube sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M11S
+      id: O8lIY31Y--Q
+      imageURL: 'https://i.ytimg.com/vi/O8lIY31Y--Q/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-12-13T11:07:35.000Z'
+      tags: '#incil,#mektuplarına,#giriş,#mektubu,#ibraniler'
+      title: İncil'in Öğretisi - İbraniler Mektubu 12.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=O8lIY31Y--Q&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=13&t=0s
+      viewCount: '454'
 ---
 
