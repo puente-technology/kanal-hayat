@@ -199,5 +199,28 @@ episodes:
       title: İnancın İfadesi - Hristiyanlıkta Belli başlı Mezhepler neler? 8.Bölüm
       url: 'https://youtu.be/8mMBUeux4Rk'
       viewCount: '13195'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Serdar Dedeoğlu ve Gülhan ile inancın ifadesini Kanal Hayat
+        ekranlarından veya youtube sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M13S
+      id: IKX6ppjV_V8
+      imageURL: 'https://i.ytimg.com/vi/IKX6ppjV_V8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-03T06:27:48.000Z'
+      tags: 'hristiyanlık,hristiyan'
+      title: 'İnancın İfadesi - İsa Mesih, Neden Tek Çare? 9.Bölüm'
+      url: 'https://youtu.be/IKX6ppjV_V8'
+      viewCount: '4312'
 ---
 
