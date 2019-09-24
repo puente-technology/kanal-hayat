@@ -56,5 +56,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=skqiM7xqIxw&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=3&t=0s
       viewCount: '2511'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        3. Bölüm - Son Gün Ne Zaman Olacak?
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği, "Dünyanın Sonu"
+        programını sayfamızdan takip edebilirsiniz.
+
+        Esenlikler Dileriz.
+      duration: PT23M4S
+      id: PgtVhRQaQ9E
+      imageURL: 'https://i.ytimg.com/vi/PgtVhRQaQ9E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-13T08:56:35.000Z'
+      tags: >-
+        Ahiret,kıyamet,son günler,allah,tanrı,deccal,yecüc mecüc,666
+        sayısı,mesşh,mehdi,mehşerin dört atlısı,can nuroğlu,kilise
+      title: 3. Bölüm - Son Gün Ne Zaman Olacak?
+      url: >-
+        https://www.youtube.com/watch?v=PgtVhRQaQ9E&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=4&t=0s
+      viewCount: '1803'
 ---
 
