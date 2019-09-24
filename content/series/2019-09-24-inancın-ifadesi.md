@@ -291,5 +291,28 @@ episodes:
       title: İnancın İfadesi - Yahudi Mezhepler ve İsa 12.Bölüm
       url: 'https://youtu.be/gl7bbb0HRUg'
       viewCount: '2331'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Serdar Dedeoğlu ve Gülhan ile inancın ifadesini Kanal Hayat
+        ekranlarından veya youtube sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M47S
+      id: 3B9HQW-YcSk
+      imageURL: 'https://i.ytimg.com/vi/3B9HQW-YcSk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-03T06:27:24.000Z'
+      tags: uyuşturucu
+      title: İnancın İfadesi - Uyuşturucu ve Madde Bağımlılığı 13.Bölüm
+      url: 'https://youtu.be/3B9HQW-YcSk'
+      viewCount: '638'
 ---
 
