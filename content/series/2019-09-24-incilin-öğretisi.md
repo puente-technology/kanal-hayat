@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: İncil'in Öğretisi
 publishDate: .
-coverImage: /images/uploads/i̇nci̇li̇n-öğreti̇si̇.png
+coverImage: /images/uploads/i̇ncil-öğreti-2.jpg
 host: Can Nuroğlu
 description: >-
   İncil'in Mektuplarına Giriş (01)
@@ -132,5 +132,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=N133AALYWtk&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=5&t=0s
       viewCount: '907'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "İncil'in
+        Öğretisi" programını Kanal Hayat ekranlarından veya youtube sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M33S
+      id: Xn1Qt6b9En4
+      imageURL: 'https://i.ytimg.com/vi/Xn1Qt6b9En4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-01T08:58:03.000Z'
+      tags: '#incil,#mektuplarına,#giriş,#korintliler,#mektubu'
+      title: İncil'in Öğretisi - II Korintliler Mektubu 5.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=Xn1Qt6b9En4&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=6&t=0s
+      viewCount: '531'
 ---
 
