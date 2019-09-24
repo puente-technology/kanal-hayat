@@ -88,5 +88,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=HlqoHfnFfWk&list=PLQfi14V3hH0IHZ-vbD_1Kv-Oe4PgQdU0t&index=6&t=0s
       viewCount: '433'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Sokağın Dili
+      duration: PT29M46S
+      id: Hd6ubwI7Idg
+      imageURL: 'https://i.ytimg.com/vi/Hd6ubwI7Idg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T14:19:03.000Z'
+      tags: 'ibadet,türkiye,destek,para,cami'
+      title: Sokağın Dili - Cami Dışındaki İbadethanelere Devlet Desteği 6.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=Hd6ubwI7Idg&list=PLQfi14V3hH0IHZ-vbD_1Kv-Oe4PgQdU0t&index=7&t=0s
+      viewCount: '113'
 ---
 
