@@ -125,5 +125,34 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=XOVYZb7FHLU&list=PLQfi14V3hH0JYoyxz-bpFPw33zMR3JRm0&index=5&t=0s
       viewCount: '827'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Neden Hristiyan Oldum?
+
+        Ali Kalkandelen'in sunumu ve konuklarının katılımıyla gerçekleştirdiği
+        "Dar Kapıdan Girenler" programını sayfamızdan takip
+        edebilirsiniz.Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M32S
+      id: kGJWOT4CKpA
+      imageURL: 'https://i.ytimg.com/vi/kGJWOT4CKpA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-26T11:45:58.000Z'
+      tags: >-
+        İsa mesih'e inanan müslüman,imanlı,inanlı,isa
+        mesih,mehdi,inanç,hristiyan,hristiyanlık,kilise,tevrat,incil,zebur
+      title: Neden Hristiyan Oldum? - 6. Sezon - 6. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=kGJWOT4CKpA&list=PLQfi14V3hH0JYoyxz-bpFPw33zMR3JRm0&index=6&t=0s
+      viewCount: '635'
 ---
 
