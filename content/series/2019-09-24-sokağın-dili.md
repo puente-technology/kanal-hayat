@@ -116,5 +116,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=IaGddmt7jKo&list=PLQfi14V3hH0IHZ-vbD_1Kv-Oe4PgQdU0t&index=8&t=0s
       viewCount: '123'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Sokağın Dili
+      duration: PT30M3S
+      id: 7QuSUjTr78A
+      imageURL: 'https://i.ytimg.com/vi/7QuSUjTr78A/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T14:19:21.000Z'
+      tags: 'sokak,dili'
+      title: >-
+        Sokağın Dili - Türkiye'de Gayrimüslümler Kendini İfade Edebiliyor mu?
+        8.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=7QuSUjTr78A&list=PLQfi14V3hH0IHZ-vbD_1Kv-Oe4PgQdU0t&index=9&t=0s
+      viewCount: '189'
 ---
 
