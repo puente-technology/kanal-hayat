@@ -176,5 +176,28 @@ episodes:
       title: İnancın İfadesi - Kutsal Kitabın Çınarları 7.Bölüm
       url: 'https://youtu.be/n3Fis5LPkXM'
       viewCount: '980'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Serdar Dedeoğlu ve Gülhan ile inancın ifadesini Kanal Hayat
+        ekranlarından veya youtube sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M50S
+      id: 8mMBUeux4Rk
+      imageURL: 'https://i.ytimg.com/vi/8mMBUeux4Rk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-04-18T12:38:20.000Z'
+      tags: mezhepler
+      title: İnancın İfadesi - Hristiyanlıkta Belli başlı Mezhepler neler? 8.Bölüm
+      url: 'https://youtu.be/8mMBUeux4Rk'
+      viewCount: '13195'
 ---
 
