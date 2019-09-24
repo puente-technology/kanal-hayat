@@ -67,5 +67,34 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=0WkgXmiFrAU&list=PLQfi14V3hH0JYoyxz-bpFPw33zMR3JRm0&index=3&t=0s
       viewCount: '831'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Neden Hristiyan Oldum?
+
+        Ali Kalkandelen'in sunumu ve konuklarının katılımıyla gerçekleştirdiği
+        "Dar Kapıdan Girenler" programını sayfamızdan takip
+        edebilirsiniz.Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M48S
+      id: sDKw9ucE2eM
+      imageURL: 'https://i.ytimg.com/vi/sDKw9ucE2eM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-26T12:11:46.000Z'
+      tags: >-
+        Yecüc,Mecüc,kıyamet,ahiret,isa,incil,mesih,mehdi,Armegeddon,dünyanın
+        sonu,alametler,cennet,cehennem,ateş
+      title: Neden Hristiyan Oldum? - 6. Sezon - 8. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=sDKw9ucE2eM&list=PLQfi14V3hH0JYoyxz-bpFPw33zMR3JRm0&index=4&t=0s
+      viewCount: '831'
 ---
 
