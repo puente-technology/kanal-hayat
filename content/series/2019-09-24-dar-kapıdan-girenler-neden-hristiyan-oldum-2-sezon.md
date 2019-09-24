@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: 'DAR KAPIDAN GİRENLER [NEDEN HRİSTİYAN OLDUM?] 2.SEZON'
 publishDate: .
-coverImage: /images/uploads/6.jpg
+coverImage: /images/uploads/7.jpg
 host: Ali Kalkandelen ile
 description: |
   Neden Hristiyan Oldum?
