@@ -130,5 +130,28 @@ episodes:
       title: İnancın İfadesi - Her şeye Rağmen 5.Bölüm
       url: 'https://youtu.be/DSwu5a7bdsA'
       viewCount: '1533'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Serdar Dedeoğlu ve Gülhan ile inancın ifadesini Kanal Hayat
+        ekranlarından veya youtube sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M41S
+      id: EUcZqXMyndM
+      imageURL: 'https://i.ytimg.com/vi/EUcZqXMyndM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-04-18T12:37:18.000Z'
+      tags: 'hristiyan,hristiyanlık'
+      title: İnancın İfadesi - Yoga ve Meditasyon (Yararlı mı Zararlı mı?) 6.Bölüm
+      url: 'https://youtu.be/EUcZqXMyndM'
+      viewCount: '3051'
 ---
 
