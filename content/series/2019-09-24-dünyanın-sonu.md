@@ -217,5 +217,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=TCyeL2y5zrA&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=11&t=0s
       viewCount: '4392'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        11. Bölum İsrail Kimdir?
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği, "Dünyanın Sonu"
+        programını sayfamızdan takip edebilirsiniz.
+
+        Esenlikler Dileriz.
+      duration: PT26M57S
+      id: '-3KhUhet4dg'
+      imageURL: 'https://i.ytimg.com/vi/-3KhUhet4dg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-22T12:33:47.000Z'
+      tags: >-
+        Yecüc,Mecüc,kıyamet,ahiret,isa,incil,mesih,mehdi,Armegeddon,dünyanın
+        sonu,alametler,İsrail
+      title: 11. Bölum İsrail Kimdir?
+      url: >-
+        https://www.youtube.com/watch?v=-3KhUhet4dg&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=12&t=0s
+      viewCount: '4083'
 ---
 
