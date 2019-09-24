@@ -42,7 +42,6 @@ export class Navigation extends Component {
 
   handleOpenNav = () => {
     const { color } = this.props;
-    console.log('From child open nav', this.props);
     color.openNav();
   }
 

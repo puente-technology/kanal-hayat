@@ -182,7 +182,6 @@ class SeriesList extends Component {
     const { hosts } = this.props
     const renderSeries = []
     const isMobile = windowWidth <= 1305;
-    console.log('IS MOBILE ? ', isMobile);
     for (let i = 0; i < listSeries.length; i += 1) {
       const { frontmatter, fields } = listSeries[i].node
       if (i.toString() === expandedDiv) {
