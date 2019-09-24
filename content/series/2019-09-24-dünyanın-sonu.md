@@ -261,5 +261,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=wHMteLDquMA&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=13&t=0s
       viewCount: '1168'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        13. Bölüm Cehennem Nasıl Bir Yer?
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği, "Dünyanın Sonu"
+        programını sayfamızdan takip edebilirsiniz.
+
+        Esenlikler Dileriz.
+      duration: PT26M46S
+      id: nBm2p5XKsWw
+      imageURL: 'https://i.ytimg.com/vi/nBm2p5XKsWw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-22T12:34:20.000Z'
+      tags: >-
+        Yecüc,Mecüc,kıyamet,ahiret,isa,incil,mesih,mehdi,Armegeddon,dünyanın
+        sonu,alametler,cehennem,cennet
+      title: 13. Bölüm Cehennem Nasıl Bir Yer?
+      url: >-
+        https://www.youtube.com/watch?v=nBm2p5XKsWw&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=14&t=0s
+      viewCount: '2406'
 ---
 
