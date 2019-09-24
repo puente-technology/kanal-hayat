@@ -564,5 +564,34 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=iRHZwgrHFf0&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=20&t=0s
       viewCount: '783'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M12S
+      id: pUG7uDkY8NM
+      imageURL: 'https://i.ytimg.com/vi/pUG7uDkY8NM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-08-25T13:11:29.000Z'
+      tags: >-
+        tevrat,müjde,isa mesih,ahit,kutsal,kanal
+        hayat,musa,peygamber,mezmurlar,zebur
+      title: >-
+        Tevrat'ın Müjdelediği Mesih - Mezmurlar (Zebur)'da İsa Mesih 5 -
+        20.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=pUG7uDkY8NM&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=21&t=0s
+      viewCount: '613'
 ---
 
