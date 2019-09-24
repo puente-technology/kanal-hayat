@@ -245,5 +245,28 @@ episodes:
       title: İnancın İfadesi - Şeytanın Oyunları Nelerdir? 10.Bölüm
       url: 'https://youtu.be/B0xwaHo7-_A'
       viewCount: '2878'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Serdar Dedeoğlu ve Gülhan ile inancın ifadesini Kanal Hayat
+        ekranlarından veya youtube sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M22S
+      id: dKH8yoLwoBc
+      imageURL: 'https://i.ytimg.com/vi/dKH8yoLwoBc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-03T06:28:09.000Z'
+      tags: 'sokak,çocukları'
+      title: İnancın İfadesi - Sokak Çocukları 11.Bölüm
+      url: 'https://youtu.be/dKH8yoLwoBc'
+      viewCount: '416'
 ---
 
