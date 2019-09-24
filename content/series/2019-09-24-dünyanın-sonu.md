@@ -195,5 +195,25 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=IEsOkenJL9E&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=9&t=0s
       viewCount: '10197'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Gizemli 666 sayısı hakkında İNCİL ne diyor? Öğrenelim.
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği, "Dünyanın Sonu"
+        programını sayfamızdan takip edebilirsiniz.
+
+        Esenlikler Dileriz.
+      duration: PT24M43S
+      id: IEsOkenJL9E
+      imageURL: 'https://i.ytimg.com/vi/IEsOkenJL9E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-04-16T08:16:52.000Z'
+      tags: '666 sayisi,666,şeytan,tanrı,ahiret,kıyamet'
+      title: Gizemli 666 sayısı.. Hristiyanlar ne diyor?
+      url: >-
+        https://www.youtube.com/watch?v=IEsOkenJL9E&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=9&t=0s
+      viewCount: '10197'
 ---
 
