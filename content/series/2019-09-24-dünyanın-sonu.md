@@ -78,5 +78,26 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=PgtVhRQaQ9E&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=4&t=0s
       viewCount: '1803'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği, "Dünyanın Sonu"
+        programını sayfamızdan takip edebilirsiniz.
+
+        Esenlikler Dileriz.
+      duration: PT29M53S
+      id: GOD-NhLdrJo
+      imageURL: 'https://i.ytimg.com/vi/GOD-NhLdrJo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-16T08:57:22.000Z'
+      tags: >-
+        Ahiret,kıyamet,son günler,allah,tanrı,deccal,yecüc mecüc,666
+        sayısı,mehdi,mehşerin dört atlısı,can nuroğlu,kilise,Kıyamet
+        Alametleri,#mesih
+      title: 4. Bölüm Kıyamet Alametleri
+      url: >-
+        https://www.youtube.com/watch?v=GOD-NhLdrJo&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=5&t=0s
+      viewCount: '1972'
 ---
 
