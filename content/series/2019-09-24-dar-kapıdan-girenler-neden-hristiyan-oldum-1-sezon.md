@@ -285,5 +285,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=RORKKCPxPjk&list=PLQfi14V3hH0LbhGFHWgN17D9Vu8BzGXw5&index=3&t=0s
       viewCount: '2694'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Neden Hristiyan Oldum?
+
+        Ali Kalkandelen'in sunumu ve konuklarının katılımıyla gerçekleştirdiği
+        "Dar Kapıdan Girenler" programını sayfamızdan takip edebilirsiniz.Esen
+        Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M34S
+      id: g9aPwo-83CQ
+      imageURL: 'https://i.ytimg.com/vi/g9aPwo-83CQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-02-14T11:13:57.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 1. Sezon - 14. Bölüm
+      url: 'https://youtu.be/g9aPwo-83CQ'
+      viewCount: '2869'
 ---
 
