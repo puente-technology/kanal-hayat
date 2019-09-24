@@ -222,5 +222,28 @@ episodes:
       title: 'İnancın İfadesi - İsa Mesih, Neden Tek Çare? 9.Bölüm'
       url: 'https://youtu.be/IKX6ppjV_V8'
       viewCount: '4312'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Serdar Dedeoğlu ve Gülhan ile inancın ifadesini Kanal Hayat
+        ekranlarından veya youtube sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT21M11S
+      id: B0xwaHo7-_A
+      imageURL: 'https://i.ytimg.com/vi/B0xwaHo7-_A/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-04-18T12:39:45.000Z'
+      tags: şeytan
+      title: İnancın İfadesi - Şeytanın Oyunları Nelerdir? 10.Bölüm
+      url: 'https://youtu.be/B0xwaHo7-_A'
+      viewCount: '2878'
 ---
 
