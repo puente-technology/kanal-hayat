@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: İncil'in Öğretisi
+title: İNCİL'İN ÖĞRETİSİ
 publishDate: .
 coverImage: /images/uploads/i̇ncil-öğreti-2.jpg
 host: Can Nuroğlu ile
