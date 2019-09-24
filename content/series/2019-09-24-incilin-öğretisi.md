@@ -273,5 +273,34 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=2u4cMMF_sjw&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=10&t=0s
       viewCount: '417'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Selanikliler Mektubu
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "İncil'in
+        Öğretisi" programını Kanal Hayat ekranlarından veya youtube sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M38S
+      id: Fad0YF-Isog
+      imageURL: 'https://i.ytimg.com/vi/Fad0YF-Isog/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-01T08:58:49.000Z'
+      tags: '#incil,#mektuplarına,#giriş,#mektubu,#selanikliler'
+      title: İncil'in Öğretisi - Selanikliler Mektubu 10.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=Fad0YF-Isog&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=11&t=0s
+      viewCount: '388'
 ---
 
