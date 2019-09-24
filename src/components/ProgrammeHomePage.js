@@ -78,7 +78,6 @@ class ProgrammeHomePage extends Component {
                   {
                     tempData.thumbnails.map((thumb, i) => (
                       <div key={i} className="ProgrammeThumbnail">
-                        {console.log('Thumb', thumb)}
                         {
                           thumb.image
                             ? (
