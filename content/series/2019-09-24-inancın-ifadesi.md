@@ -107,5 +107,28 @@ episodes:
       title: İnancın İfadesi - Mesihsel Bedel 4.Bölüm
       url: 'https://youtu.be/kcc7lfvGMWA'
       viewCount: '857'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Serdar Dedeoğlu ve Gülhan ile inancın ifadesini Kanal Hayat
+        ekranlarından veya youtube sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M51S
+      id: DSwu5a7bdsA
+      imageURL: 'https://i.ytimg.com/vi/DSwu5a7bdsA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-04-18T12:35:42.000Z'
+      tags: 'hristiyanlık,hristiyan'
+      title: İnancın İfadesi - Her şeye Rağmen 5.Bölüm
+      url: 'https://youtu.be/DSwu5a7bdsA'
+      viewCount: '1533'
 ---
 
