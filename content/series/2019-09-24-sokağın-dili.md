@@ -44,5 +44,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=x-ukMPVRfyg&list=PLQfi14V3hH0IHZ-vbD_1Kv-Oe4PgQdU0t&index=3&t=0s
       viewCount: '587'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Sokağın Dili
+      duration: PT29M27S
+      id: gnzo4nols3E
+      imageURL: 'https://i.ytimg.com/vi/gnzo4nols3E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-01-13T08:25:01.000Z'
+      tags: 'sokak,dil,misyoner'
+      title: Sokağın Dili - Türkiye'de Misyonerlik Yapılıyor Mu? 3.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=gnzo4nols3E&list=PLQfi14V3hH0IHZ-vbD_1Kv-Oe4PgQdU0t&index=4&t=0s
+      viewCount: '2604'
 ---
 
