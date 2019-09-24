@@ -3,13 +3,11 @@ template: SeriesPageTemplate
 title: İncil'in Öğretisi
 publishDate: .
 coverImage: /images/uploads/i̇ncil-öğreti-2.jpg
-host: Can Nuroğlu
-description: >-
-  İncil'in Mektuplarına Giriş (01)
-
-  Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "İncil'in Mektupları"
-  programını Kanal Hayat ekranlarından veya youtube sayfamızdan takip
-  edebilirsiniz.
+host: Can Nuroğlu ile
+description: |-
+  Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği 
+  "İncil'in Öğretisi" programını Kanal Hayat ekranlarından
+   veya youtube sayfamızdan takip edebilirsiniz.
 targetGroup: Herkes
 language: '0'
 selectedCategories:
@@ -246,5 +244,34 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=CLX30U_HKAo&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=9&t=0s
       viewCount: '427'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Koloseliler Mektubu
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "İncil'in
+        Öğretisi" programını Kanal Hayat ekranlarından veya youtube sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M11S
+      id: 2u4cMMF_sjw
+      imageURL: 'https://i.ytimg.com/vi/2u4cMMF_sjw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-01T08:58:40.000Z'
+      tags: '#incil,#mektuplarına,#giriş,#mektubu,#koloseliler'
+      title: İncil'in Öğretisi - Koloseliler Mektubu 9.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=2u4cMMF_sjw&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=10&t=0s
+      viewCount: '417'
 ---
 
