@@ -58,5 +58,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=gnzo4nols3E&list=PLQfi14V3hH0IHZ-vbD_1Kv-Oe4PgQdU0t&index=4&t=0s
       viewCount: '2604'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Sokağın Dili
+      duration: PT29M54S
+      id: inIZF7GTu5c
+      imageURL: 'https://i.ytimg.com/vi/inIZF7GTu5c/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-01-13T08:25:01.000Z'
+      tags: 'devlet,cami,ibadethane'
+      title: Sokağın Dili - Devletin Cami Dışında İbadethanelere Bakışı 4.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=inIZF7GTu5c&list=PLQfi14V3hH0IHZ-vbD_1Kv-Oe4PgQdU0t&index=5&t=0s
+      viewCount: '680'
 ---
 
