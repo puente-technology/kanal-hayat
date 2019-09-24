@@ -102,5 +102,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Hd6ubwI7Idg&list=PLQfi14V3hH0IHZ-vbD_1Kv-Oe4PgQdU0t&index=7&t=0s
       viewCount: '113'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Sokağın Dili
+      duration: PT29M9S
+      id: IaGddmt7jKo
+      imageURL: 'https://i.ytimg.com/vi/IaGddmt7jKo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T14:19:13.000Z'
+      tags: 'türkiye,farklı,inançlar'
+      title: Sokağın Dili - Türkiye'de Farklı İbadethane Açmak Kolay mı? 7.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=IaGddmt7jKo&list=PLQfi14V3hH0IHZ-vbD_1Kv-Oe4PgQdU0t&index=8&t=0s
+      viewCount: '123'
 ---
 
