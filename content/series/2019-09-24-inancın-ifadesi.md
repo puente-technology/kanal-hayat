@@ -153,5 +153,28 @@ episodes:
       title: İnancın İfadesi - Yoga ve Meditasyon (Yararlı mı Zararlı mı?) 6.Bölüm
       url: 'https://youtu.be/EUcZqXMyndM'
       viewCount: '3051'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Serdar Dedeoğlu ve Gülhan ile inancın ifadesini Kanal Hayat
+        ekranlarından veya youtube sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M27S
+      id: n3Fis5LPkXM
+      imageURL: 'https://i.ytimg.com/vi/n3Fis5LPkXM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-04-18T12:37:56.000Z'
+      tags: 'hristiyanlık,hristiyan'
+      title: İnancın İfadesi - Kutsal Kitabın Çınarları 7.Bölüm
+      url: 'https://youtu.be/n3Fis5LPkXM'
+      viewCount: '980'
 ---
 
