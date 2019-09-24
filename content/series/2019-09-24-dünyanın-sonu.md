@@ -135,5 +135,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=34TKLpiKFVQ&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=6&t=0s
       viewCount: '4683'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        6. Bölüm Mahşerin Dört Atlısı
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği, "Dünyanın Sonu"
+        programını sayfamızdan takip edebilirsiniz.
+
+        Esenlikler Dileriz.
+      duration: PT25M4S
+      id: TuEeaCdKGKg
+      imageURL: 'https://i.ytimg.com/vi/TuEeaCdKGKg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-24T13:42:46.000Z'
+      tags: >-
+        Mahşerin Dört Atlısı,kıyamet,ahiret,end
+        times,isa,mehdi,yecüc,mecüc,66,can nuroğulu
+      title: 6. Bölüm Mahşerin Dört Atlısı
+      url: >-
+        https://www.youtube.com/watch?v=TuEeaCdKGKg&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=7&t=0s
+      viewCount: '3847'
 ---
 
