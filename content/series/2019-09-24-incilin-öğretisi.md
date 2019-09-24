@@ -103,5 +103,34 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=1jpW9A0ZAy8&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=4&t=0s
       viewCount: '1081'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        I Korintliler Mektubu
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "İncil'in
+        Öğretisi" programını Kanal Hayat ekranlarından veya youtube sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT30M8S
+      id: N133AALYWtk
+      imageURL: 'https://i.ytimg.com/vi/N133AALYWtk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-01T08:57:53.000Z'
+      tags: '#incil,#mektuplarına,#giriş,#korintliler,#mektubu'
+      title: İncil'in Öğretisi - I Korintliler Mektubu 4.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=N133AALYWtk&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=5&t=0s
+      viewCount: '907'
 ---
 
