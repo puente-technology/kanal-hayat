@@ -175,6 +175,7 @@ class Item extends React.Component {
                 backgroundSize: 'cover',
                 width: '280px',
                 height: '150px',
+                backgroundPosition: 'center',
               }}
               src={id.image}
               width={280}
@@ -197,6 +198,7 @@ class Item extends React.Component {
                 position: 'relative',
                 width: '280px',
                 height: '150px',
+                backgroundPosition: 'center',
               }}
               className="EpisodeVideo"
             >

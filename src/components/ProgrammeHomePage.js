@@ -91,6 +91,7 @@ class ProgrammeHomePage extends Component {
                                   backgroundSize: 'cover',
                                   width: '280px',
                                   height: '150px',
+                                  backgroundPosition: 'center',
                                 }}
                                 src={thumb.image}
                                 width={280}
@@ -113,6 +114,7 @@ class ProgrammeHomePage extends Component {
                                   position: 'relative',
                                   width: '280px',
                                   height: '150px',
+                                  backgroundPosition: 'center',
                                 }}
                                 className="EpisodeVideo"
                               >
