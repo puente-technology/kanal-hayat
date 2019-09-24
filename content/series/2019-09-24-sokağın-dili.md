@@ -30,5 +30,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=74StSt7aqC8&list=PLQfi14V3hH0IHZ-vbD_1Kv-Oe4PgQdU0t&index=2&t=0s
       viewCount: '3438'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Sokağın Dili
+      duration: PT30M10S
+      id: x-ukMPVRfyg
+      imageURL: 'https://i.ytimg.com/vi/x-ukMPVRfyg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-01-13T08:25:01.000Z'
+      tags: 'misyoner,kime,denir?'
+      title: Sokağın Dili - Misyoner kime denir? 2.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=x-ukMPVRfyg&list=PLQfi14V3hH0IHZ-vbD_1Kv-Oe4PgQdU0t&index=3&t=0s
+      viewCount: '587'
 ---
 
