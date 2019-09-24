@@ -305,5 +305,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=qnAT2sfx5qE&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=15&t=0s
       viewCount: '5438'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        15: Bölüm  Ölünce Nereye Gidecegiz?
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği, "Dünyanın Sonu"
+        programını sayfamızdan takip edebilirsiniz.
+
+        Esenlikler Dileriz.
+      duration: PT26M56S
+      id: Mbn0YZfaTHk
+      imageURL: 'https://i.ytimg.com/vi/Mbn0YZfaTHk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-26T12:27:45.000Z'
+      tags: >-
+        Yecüc,Mecüc,kıyamet,ahiret,isa,incil,mesih,mehdi,Armegeddon,dünyanın
+        sonu,alametler,cennet,cehennem,ateş
+      title: '15: Bölüm  Ölünce Nereye Gidecegiz?'
+      url: >-
+        https://www.youtube.com/watch?v=Mbn0YZfaTHk&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=16&t=0s
+      viewCount: '1115'
 ---
 
