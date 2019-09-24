@@ -853,5 +853,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=TiadIcpv3lw&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=31&t=0s
       viewCount: '337'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M8S
+      id: aoUHPN1TpJQ
+      imageURL: 'https://i.ytimg.com/vi/aoUHPN1TpJQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-07-13T10:07:09.000Z'
+      tags: 'nuh,tufanı'
+      title: Tevrat'ın Müjdelediği Mesih - Tufan ve Nuh  31.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=aoUHPN1TpJQ&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=32&t=0s
+      viewCount: '98'
 ---
 
