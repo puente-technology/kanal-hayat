@@ -828,5 +828,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=o7kPL86E6rw&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=30&t=0s
       viewCount: '1947'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M14S
+      id: TiadIcpv3lw
+      imageURL: 'https://i.ytimg.com/vi/TiadIcpv3lw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-07-13T10:07:09.000Z'
+      tags: 'sunak,ve,günah'
+      title: Tevrat'ın Müjdelediği Mesih - Sunak ve Günah 30.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=TiadIcpv3lw&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=31&t=0s
+      viewCount: '337'
 ---
 
