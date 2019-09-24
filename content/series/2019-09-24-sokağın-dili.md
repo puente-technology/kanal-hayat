@@ -132,5 +132,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=7QuSUjTr78A&list=PLQfi14V3hH0IHZ-vbD_1Kv-Oe4PgQdU0t&index=9&t=0s
       viewCount: '189'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Sokağın Dili
+      duration: PT29M19S
+      id: Ouy4Jdlka2w
+      imageURL: 'https://i.ytimg.com/vi/Ouy4Jdlka2w/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T14:19:30.000Z'
+      tags: 'gayrimüslümanlar,özgür mü?'
+      title: Sokağın Dili - Türkiye'de Gayrimüslümler Özgür mü? 9.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=Ouy4Jdlka2w&list=PLQfi14V3hH0IHZ-vbD_1Kv-Oe4PgQdU0t&index=10&t=0s
+      viewCount: '200'
 ---
 
