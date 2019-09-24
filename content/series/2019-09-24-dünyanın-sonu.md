@@ -199,21 +199,23 @@ episodes:
     season: '1'
     youtubeURL:
       description: >-
-        Gizemli 666 sayısı hakkında İNCİL ne diyor? Öğrenelim.
+        10. Bölüm  Armageddon Savaşı
 
         Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği, "Dünyanın Sonu"
         programını sayfamızdan takip edebilirsiniz.
 
         Esenlikler Dileriz.
-      duration: PT24M43S
-      id: IEsOkenJL9E
-      imageURL: 'https://i.ytimg.com/vi/IEsOkenJL9E/hqdefault.jpg'
+      duration: PT26M46S
+      id: TCyeL2y5zrA
+      imageURL: 'https://i.ytimg.com/vi/TCyeL2y5zrA/hqdefault.jpg'
       mediaType: video
-      publishedAt: '2015-04-16T08:16:52.000Z'
-      tags: '666 sayisi,666,şeytan,tanrı,ahiret,kıyamet'
-      title: Gizemli 666 sayısı.. Hristiyanlar ne diyor?
+      publishedAt: '2015-05-22T09:42:19.000Z'
+      tags: >-
+        Yecüc,Mecüc,kıyamet,ahiret,isa,incil,mesih,mehdi,Armegeddon,dünyanın
+        sonu,alametler
+      title: 10. Bölüm  Armageddon Savaşı
       url: >-
-        https://www.youtube.com/watch?v=IEsOkenJL9E&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=9&t=0s
-      viewCount: '10197'
+        https://www.youtube.com/watch?v=TCyeL2y5zrA&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=11&t=0s
+      viewCount: '4392'
 ---
 
