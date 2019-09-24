@@ -1,0 +1,44 @@
+---
+template: SeriesPageTemplate
+title: 'DAR KAPIDAN GİRENLER - [NEDEN HRİSTİYAN OLDUM] 6.SEZON'
+publishDate: .
+coverImage: /images/uploads/4.jpg
+host: Ali Kalkandelen ile
+description: |-
+  Ali Kalkandelen'in sunumu ve konuklarının katılımıyla gerçekleştirdiği
+  "Dar Kapıdan Girenler"programını Kanal Hayat ekranlarından veya
+  sayfamızdan takip edebilirsiniz.Esenlik Olsun.
+targetGroup: Herkes
+language: '0'
+selectedCategories:
+  - Tanıklıklar
+episodes:
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Neden Hristiyan Oldum?
+
+        Ali Kalkandelen'in sunumu ve konuklarının katılımıyla gerçekleştirdiği
+        "Dar Kapıdan Girenler" programını sayfamızdan takip
+        edebilirsiniz.Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M51S
+      id: QruZ_LuCS6E
+      imageURL: 'https://i.ytimg.com/vi/QruZ_LuCS6E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-26T12:23:08.000Z'
+      tags: 'dar,kapıdan,girenler,neden,hristiyan,oldum'
+      title: Neden Hristiyan Oldum ? 6. Sezon - 10. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=QruZ_LuCS6E&list=PLQfi14V3hH0JYoyxz-bpFPw33zMR3JRm0&index=2&t=0s
+      viewCount: '1107'
+---
+
