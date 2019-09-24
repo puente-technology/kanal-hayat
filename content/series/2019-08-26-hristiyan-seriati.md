@@ -423,5 +423,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=iM0UxRicoPo&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=16&t=0s
       viewCount: '85'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        70 - Evlilik II
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını Kanal Hayat ekranından veya youtube sayfamızdan takip
+        edebilirsiniz.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT23M58S
+      id: 1fKeWYNyF9g
+      imageURL: 'https://i.ytimg.com/vi/1fKeWYNyF9g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-22T09:46:36.000Z'
+      tags: 'evlilik,hristiyan,şeriat'
+      title: Hristiyan Şeriatı - Evlilik II
+      url: >-
+        https://www.youtube.com/watch?v=1fKeWYNyF9g&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=17&t=0s
+      viewCount: '79'
 ---
 
