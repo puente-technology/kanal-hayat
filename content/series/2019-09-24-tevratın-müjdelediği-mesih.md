@@ -803,5 +803,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=LjO3c8VaaXo&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=29&t=0s
       viewCount: '677'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M35S
+      id: o7kPL86E6rw
+      imageURL: 'https://i.ytimg.com/vi/o7kPL86E6rw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-07-13T10:07:09.000Z'
+      tags: 'Üçlük,Birlik,Nedir?'
+      title: 'Tevrat''ın Müjdelediği Mesih - Üçlük ve Birlik Nedir?  [3] - 29.Bölüm'
+      url: >-
+        https://www.youtube.com/watch?v=o7kPL86E6rw&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=30&t=0s
+      viewCount: '1947'
 ---
 
