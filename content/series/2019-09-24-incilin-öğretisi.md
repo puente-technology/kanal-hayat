@@ -360,5 +360,34 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=O8lIY31Y--Q&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=13&t=0s
       viewCount: '454'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Yakup Mektubu
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "İncil'in
+        Öğretisi" programını Kanal Hayat ekranlarından veya youtube sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M31S
+      id: vUN_Js2gJzE
+      imageURL: 'https://i.ytimg.com/vi/vUN_Js2gJzE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-12-13T11:07:45.000Z'
+      tags: '#incil,#mektuplarına,#giriş,#mektubu,#yakup'
+      title: İncil'in Öğretisi - Yakup Mektubu (13)
+      url: >-
+        https://www.youtube.com/watch?v=vUN_Js2gJzE&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=14&t=0s
+      viewCount: '357'
 ---
 
