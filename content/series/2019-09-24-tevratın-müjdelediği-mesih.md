@@ -674,5 +674,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=FViz3uGvVm4&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=24&t=0s
       viewCount: '758'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M52S
+      id: q1JF7a1jssQ
+      imageURL: 'https://i.ytimg.com/vi/q1JF7a1jssQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-09-06T20:34:14.000Z'
+      tags: >-
+        tevrat,müjde,isa mesih,ahit,kutsal,kanal
+        hayat,musa,peygamber,mezmurlar,zebur
+      title: Tevrat'ın Müjdelediği Mesih - Yeşaya Peygamber 4 - 24.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=q1JF7a1jssQ&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=25&t=0s
+      viewCount: '374'
 ---
 
