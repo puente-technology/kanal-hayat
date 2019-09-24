@@ -302,5 +302,34 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Fad0YF-Isog&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=11&t=0s
       viewCount: '388'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Timoteos ve Titus
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "İncil'in
+        Öğretisi" programını Kanal Hayat ekranlarından veya youtube sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M27S
+      id: OaFgGhB5_r4
+      imageURL: 'https://i.ytimg.com/vi/OaFgGhB5_r4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-01T08:58:57.000Z'
+      tags: '#incil,#mektuplarına,#giriş,#mektubu,Timoteos,Titus'
+      title: İncil'in Öğretisi - Timoteos ve Titus 11.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=OaFgGhB5_r4&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=12&t=0s
+      viewCount: '488'
 ---
 
