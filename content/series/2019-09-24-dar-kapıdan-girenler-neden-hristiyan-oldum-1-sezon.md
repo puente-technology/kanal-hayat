@@ -247,15 +247,15 @@ episodes:
         https://www.facebook.com/kanalhayat
 
         https://twitter.com/kanalhayat
-      duration: PT28M49S
-      id: RORKKCPxPjk
-      imageURL: 'https://i.ytimg.com/vi/RORKKCPxPjk/hqdefault.jpg'
+      duration: PT30M16S
+      id: XzCqMXVQa7I
+      imageURL: 'https://i.ytimg.com/vi/XzCqMXVQa7I/hqdefault.jpg'
       mediaType: video
-      publishedAt: '2012-02-14T11:27:24.000Z'
+      publishedAt: '2012-02-14T11:22:58.000Z'
       tags: >-
         isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
-      title: 1. Sezon - 13. Bölüm
-      url: 'https://youtu.be/RORKKCPxPjk'
-      viewCount: '2694'
+      title: 1. Sezon - 12. Bölüm
+      url: 'https://youtu.be/XzCqMXVQa7I'
+      viewCount: '2681'
 ---
 
