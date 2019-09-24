@@ -167,5 +167,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=YE5JiMVUpXQ&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=6&t=0s
       viewCount: '679'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        6 - İbrahim Peygamber 2
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdikleri "Tevrat'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M38S
+      id: 8dQnN615Y-U
+      imageURL: 'https://i.ytimg.com/vi/8dQnN615Y-U/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-03T12:18:50.000Z'
+      tags: >-
+        #nuh,#peygamber,#tevrat,#mesih,#kutsal,#hz,#zebur,#ibrahim,#adem,#ve,#havva,#kitap,#müslümanlar,#namaz,#bereket,#duası
+      title: Tevrat'ın Müjdelediği Mesih - İbrahim Peygamber 2 - 6.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=8dQnN615Y-U&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=7&t=0s
+      viewCount: '543'
 ---
 
