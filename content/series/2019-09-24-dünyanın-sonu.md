@@ -117,5 +117,23 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=34TKLpiKFVQ&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=6&t=0s
       viewCount: '4683'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği  "Dünyanın Sonu"
+        programını sayfamızdan takip edebilirsiniz.
+
+        Esenlikler Dileriz.
+      duration: PT29M33S
+      id: 34TKLpiKFVQ
+      imageURL: 'https://i.ytimg.com/vi/34TKLpiKFVQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-17T08:35:53.000Z'
+      tags: 'Mesih,mehdi,kıyamet,ahiret,666,şeytan,iblis,tanrı,antikchrist,Turkey'
+      title: 5. Bölüm Mesih'in İkinci Gelişi
+      url: >-
+        https://www.youtube.com/watch?v=34TKLpiKFVQ&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=6&t=0s
+      viewCount: '4683'
 ---
 
