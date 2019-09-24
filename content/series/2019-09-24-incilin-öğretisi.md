@@ -389,5 +389,34 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=vUN_Js2gJzE&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=14&t=0s
       viewCount: '357'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Petrus'un Mektupları
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "İncil'in
+        Öğretisi" programını Kanal Hayat ekranlarından veya youtube sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M14S
+      id: 0tPomUidZok
+      imageURL: 'https://i.ytimg.com/vi/0tPomUidZok/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-12-13T11:07:55.000Z'
+      tags: '#incil,#mektuplarına,#giriş,#mektubu,#petrusun'
+      title: İncil'in Öğretisi - Petrus'un Mektupları (14)
+      url: >-
+        https://www.youtube.com/watch?v=0tPomUidZok&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=15&t=0s
+      viewCount: '295'
 ---
 
