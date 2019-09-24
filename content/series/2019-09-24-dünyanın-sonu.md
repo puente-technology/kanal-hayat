@@ -239,5 +239,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=-3KhUhet4dg&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=12&t=0s
       viewCount: '4083'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        12. Bölüm Kıyamet Günü
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği, "Dünyanın Sonu"
+        programını sayfamızdan takip edebilirsiniz.
+
+        Esenlikler Dileriz.
+      duration: PT25M27S
+      id: wHMteLDquMA
+      imageURL: 'https://i.ytimg.com/vi/wHMteLDquMA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-22T12:34:07.000Z'
+      tags: >-
+        Yecüc,Mecüc,kıyamet,ahiret,isa,incil,mesih,mehdi,Armegeddon,dünyanın
+        sonu,alametler,kıyamet alemetleri
+      title: 12. Bölüm Kıyamet Günü
+      url: >-
+        https://www.youtube.com/watch?v=wHMteLDquMA&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=13&t=0s
+      viewCount: '1168'
 ---
 
