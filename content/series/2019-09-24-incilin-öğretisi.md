@@ -217,5 +217,34 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=qoRLTrsG3TE&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=8&t=0s
       viewCount: '667'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Filipililer Mektubu
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "İncil'in
+        Mektupları" programını Kanal Hayat ekranlarından veya youtube
+        sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M42S
+      id: CLX30U_HKAo
+      imageURL: 'https://i.ytimg.com/vi/CLX30U_HKAo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-01T08:58:31.000Z'
+      tags: '#incil,#mektuplarına,#giriş,#mektubu,#filipililer'
+      title: Eİncil'in Öğretisi - Filipililer Mektubu 8.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=CLX30U_HKAo&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=9&t=0s
+      viewCount: '427'
 ---
 
