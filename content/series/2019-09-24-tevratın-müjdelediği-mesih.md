@@ -751,5 +751,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=4kYcBp0UEDc&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=27&t=0s
       viewCount: '693'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M37S
+      id: VlJZAPJxHMk
+      imageURL: 'https://i.ytimg.com/vi/VlJZAPJxHMk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-07-13T10:07:10.000Z'
+      tags: 'teslis,üçlü,birlik,nedir?'
+      title: >-
+        Tevrat'ın Müjdelediği Mesih -  “Tevhid’te Teslis” Üçlü Birlik nedir?
+        27.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=VlJZAPJxHMk&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=28&t=0s
+      viewCount: '1160'
 ---
 
