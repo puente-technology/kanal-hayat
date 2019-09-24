@@ -36,5 +36,25 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=cm4ipaIeKPQ&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=2&t=0s
       viewCount: '5015'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği  "Dünyanın Sonu"
+        programını sayfamızdan takip edebilirsiniz.
+
+        Esenlikler Dileriz.
+      duration: PT23M11S
+      id: skqiM7xqIxw
+      imageURL: 'https://i.ytimg.com/vi/skqiM7xqIxw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-13T08:58:22.000Z'
+      tags: >-
+        Ahiret,kıyamet,son günler,allah,tanrı,deccal,yecüc mecüc,666
+        sayısı,mesşh,mehdi,mehşerin dört atlısı,can nuroğlu,kilise
+      title: 2. Bölüm Peygamber Kime Denir?
+      url: >-
+        https://www.youtube.com/watch?v=skqiM7xqIxw&list=PLQfi14V3hH0LEw4RqeR0WNTQspN4XEZyV&index=3&t=0s
+      viewCount: '2511'
 ---
 
