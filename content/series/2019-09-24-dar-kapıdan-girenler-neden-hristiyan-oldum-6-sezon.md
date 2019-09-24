@@ -14,7 +14,7 @@ selectedCategories:
   - Tanıklıklar
 episodes:
   - guests: ''
-    season: '1'
+    season: '6'
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -41,7 +41,7 @@ episodes:
         https://www.youtube.com/watch?v=QruZ_LuCS6E&list=PLQfi14V3hH0JYoyxz-bpFPw33zMR3JRm0&index=2&t=0s
       viewCount: '1107'
   - guests: ''
-    season: '1'
+    season: '6'
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
@@ -68,7 +68,7 @@ episodes:
         https://www.youtube.com/watch?v=0WkgXmiFrAU&list=PLQfi14V3hH0JYoyxz-bpFPw33zMR3JRm0&index=3&t=0s
       viewCount: '831'
   - guests: ''
-    season: '1'
+    season: '6'
     youtubeURL:
       description: >-
         Neden Hristiyan Oldum?
