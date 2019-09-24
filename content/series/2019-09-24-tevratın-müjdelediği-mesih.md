@@ -77,5 +77,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=lxY8YnRFrJA&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=3&t=0s
       viewCount: '1464'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        3 - Kabil & Habil
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdikleri "Tevrat'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M23S
+      id: 28IRLkiZrb8
+      imageURL: 'https://i.ytimg.com/vi/28IRLkiZrb8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-07-07T07:29:50.000Z'
+      tags: >-
+        #tevrat,#müjde,#habil,#kabil,#zebur,#adem,#ve,#havva,#kutsal,#kitap,#müslümanlar,#hz,#namaz,#bereket,#duası
+      title: Tevrat'ın Müjdelediği Mesih - Kabil & Habil 3.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=28IRLkiZrb8&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=4&t=0s
+      viewCount: '931'
 ---
 
