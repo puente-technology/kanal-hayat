@@ -230,5 +230,32 @@ episodes:
       title: 1. Sezon - 10. Bölüm
       url: 'https://youtu.be/xJiEwZ3zydc'
       viewCount: '3769'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Neden Hristiyan Oldum?
+
+        Ali Kalkandelen'in sunumu ve konuklarının katılımıyla gerçekleştirdiği
+        "Dar Kapıdan Girenler" programını sayfamızdan takip edebilirsiniz.Esen
+        Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M49S
+      id: RORKKCPxPjk
+      imageURL: 'https://i.ytimg.com/vi/RORKKCPxPjk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-02-14T11:27:24.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 1. Sezon - 13. Bölüm
+      url: 'https://youtu.be/RORKKCPxPjk'
+      viewCount: '2694'
 ---
 
