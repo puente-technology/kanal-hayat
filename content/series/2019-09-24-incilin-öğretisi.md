@@ -188,5 +188,34 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=D6CKQmak0s4&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=7&t=0s
       viewCount: '599'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Efesliler Mektubu
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "İncil'in
+        Öğretisi" programını Kanal Hayat ekranlarından veya youtube sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M49S
+      id: qoRLTrsG3TE
+      imageURL: 'https://i.ytimg.com/vi/qoRLTrsG3TE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-01T08:58:23.000Z'
+      tags: '#incil,#mektuplarına,#giriş,#mektubu,#efesliler'
+      title: İncil'in Öğretisi - Efesliler Mektubu 7.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=qoRLTrsG3TE&list=PLQfi14V3hH0Id-3zTOHpczTEFmb3y5Rj0&index=8&t=0s
+      viewCount: '667'
 ---
 
