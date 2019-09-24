@@ -402,5 +402,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=YlAFO8M6Du0&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=14&t=0s
       viewCount: '275'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M32S
+      id: LA_sC1qHNtI
+      imageURL: 'https://i.ytimg.com/vi/LA_sC1qHNtI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-07-07T07:32:03.000Z'
+      tags: 'tevrat,müjde,isa mesih,ahit,kutsal,kanal hayat,musa,peygamber'
+      title: Tevrat'ın Müjdelediği Mesih - Musa Peygamber 4 - 14.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=LA_sC1qHNtI&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=15&t=0s
+      viewCount: '180'
 ---
 
