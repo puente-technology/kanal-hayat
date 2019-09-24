@@ -268,5 +268,28 @@ episodes:
       title: İnancın İfadesi - Sokak Çocukları 11.Bölüm
       url: 'https://youtu.be/dKH8yoLwoBc'
       viewCount: '416'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Serdar Dedeoğlu ve Gülhan ile inancın ifadesini Kanal Hayat
+        ekranlarından veya youtube sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT24M20S
+      id: gl7bbb0HRUg
+      imageURL: 'https://i.ytimg.com/vi/gl7bbb0HRUg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-03T06:28:20.000Z'
+      tags: yahudi
+      title: İnancın İfadesi - Yahudi Mezhepler ve İsa 12.Bölüm
+      url: 'https://youtu.be/gl7bbb0HRUg'
+      viewCount: '2331'
 ---
 
