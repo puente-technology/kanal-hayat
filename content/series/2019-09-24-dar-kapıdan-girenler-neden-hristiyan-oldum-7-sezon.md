@@ -310,5 +310,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=7Wlwrtu8MDo&list=PLQfi14V3hH0JSvwNy8r-0bZnvqfdydCjH&index=14&t=0s
       viewCount: '3023'
+  - guests: ''
+    season: '7'
+    youtubeURL:
+      description: >-
+        Neden Hristiyan Oldum? [7. Sezon 15. Bölüm]
+
+        Ali Kalkandelen'in sunumu ve konuklarının katılımıyla gerçekleştirdiği
+        "Dar Kapıdan Girenler" programını sayfamızdan takip
+        edebilirsiniz.Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M13S
+      id: k2W8GStVS_g
+      imageURL: 'https://i.ytimg.com/vi/k2W8GStVS_g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-12-15T11:03:08.000Z'
+      tags: 'Hristiyan,Hristiyanlık'
+      title: 'Neden Hristiyan Oldum? [7. Sezon 15. Bölüm]'
+      url: >-
+        https://www.youtube.com/watch?v=k2W8GStVS_g&list=PLQfi14V3hH0JSvwNy8r-0bZnvqfdydCjH&index=15&t=0s
+      viewCount: '4789'
 ---
 
