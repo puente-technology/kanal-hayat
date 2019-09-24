@@ -72,5 +72,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=inIZF7GTu5c&list=PLQfi14V3hH0IHZ-vbD_1Kv-Oe4PgQdU0t&index=5&t=0s
       viewCount: '680'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Sokağın Dili
+      duration: PT30M6S
+      id: HlqoHfnFfWk
+      imageURL: 'https://i.ytimg.com/vi/HlqoHfnFfWk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-01-13T08:25:01.000Z'
+      tags: 'ibadet,türkiye,destek,para'
+      title: >-
+        Sokağın Dili - Türkiye'de ibadethane olarak tek destek camilere midir?
+        5.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=HlqoHfnFfWk&list=PLQfi14V3hH0IHZ-vbD_1Kv-Oe4PgQdU0t&index=6&t=0s
+      viewCount: '433'
 ---
 
