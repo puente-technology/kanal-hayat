@@ -84,5 +84,28 @@ episodes:
       title: İnancın İfadesi - Doğu Halkları 3.Bölüm
       url: 'https://youtu.be/8e6zBm_0Olo'
       viewCount: '464'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Serdar Dedeoğlu ve Gülhan ile inancın ifadesini Kanal Hayat
+        ekranlarından veya youtube sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M55S
+      id: kcc7lfvGMWA
+      imageURL: 'https://i.ytimg.com/vi/kcc7lfvGMWA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-04-18T12:35:08.000Z'
+      tags: mesihsel
+      title: İnancın İfadesi - Mesihsel Bedel 4.Bölüm
+      url: 'https://youtu.be/kcc7lfvGMWA'
+      viewCount: '857'
 ---
 
