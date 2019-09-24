@@ -347,5 +347,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=_p7vSrxKEns&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=12&t=0s
       viewCount: '948'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        12 - Musa Peygamber 2
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdikleri "Tevrat'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M25S
+      id: k9YHmPd2QdM
+      imageURL: 'https://i.ytimg.com/vi/k9YHmPd2QdM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-07-07T07:33:25.000Z'
+      tags: >-
+        #tevrat,#isa,#müjde,#kutsal,#musa,#peygamber,#adem,#ve,#havva,#zebur,#kitap,#müslümanlar,#hz,#namaz,#bereket,#duası
+      title: Tevrat'ın Müjdelediği Mesih -  Musa Peygamber 2 - 12.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=k9YHmPd2QdM&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=13&t=0s
+      viewCount: '377'
 ---
 
