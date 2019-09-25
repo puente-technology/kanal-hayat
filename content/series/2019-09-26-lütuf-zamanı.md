@@ -761,5 +761,30 @@ episodes:
       title: 31. Bölüm  Suçluluk Duygusu
       url: 'https://youtu.be/yxVB2tuIFA8'
       viewCount: '1430'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M38S
+      id: LRBtiSMYaHA
+      imageURL: 'https://i.ytimg.com/vi/LRBtiSMYaHA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-24T07:24:53.000Z'
+      tags: Sıkıntılar
+      title: 32. Bölüm  Sıkıntılar ve Fırsatlar 1
+      url: 'https://youtu.be/LRBtiSMYaHA'
+      viewCount: '341'
 ---
 
