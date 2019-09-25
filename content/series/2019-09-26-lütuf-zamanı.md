@@ -535,5 +535,30 @@ episodes:
       title: 22. Bölüm  Esenliğimizi Korumak
       url: 'https://youtu.be/V6OeMXYGces'
       viewCount: '94'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M47S
+      id: cVWESgW8yso
+      imageURL: 'https://i.ytimg.com/vi/cVWESgW8yso/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-26T08:56:40.000Z'
+      tags: Işık
+      title: 23. Bölüm  Işık ve Aydınlanma
+      url: 'https://youtu.be/cVWESgW8yso'
+      viewCount: '134'
 ---
 
