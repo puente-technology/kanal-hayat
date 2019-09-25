@@ -286,5 +286,18 @@ episodes:
       title: SUHBETÊN KELAMÊ -  BEŞA 21
       url: 'https://youtu.be/zR1oJa2HBws'
       viewCount: '139'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: SUHBETÊN KELAMÊ -  BEŞA 22
+      duration: PT25M1S
+      id: v1X16gH5rjM
+      imageURL: 'https://i.ytimg.com/vi/v1X16gH5rjM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-01T07:59:46.000Z'
+      tags: BEŞA 22
+      title: SUHBETÊN KELAMÊ -  BEŞA 22
+      url: 'https://youtu.be/v1X16gH5rjM'
+      viewCount: '87'
 ---
 
