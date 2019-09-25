@@ -185,5 +185,30 @@ episodes:
       title: 7- Göksel Para
       url: 'https://youtu.be/XN-Qsqd8ySc'
       viewCount: '199'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M46S
+      id: n0bkr1LWSFI
+      imageURL: 'https://i.ytimg.com/vi/n0bkr1LWSFI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-10-27T11:38:32.000Z'
+      tags: korku
+      title: 8-  Korku
+      url: 'https://youtu.be/n0bkr1LWSFI'
+      viewCount: '155'
 ---
 
