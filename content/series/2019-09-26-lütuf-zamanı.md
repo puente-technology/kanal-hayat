@@ -135,5 +135,30 @@ episodes:
       title: 5- Bölüm Düşünceler
       url: 'https://youtu.be/0ezB0PNJe24'
       viewCount: '879'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M15S
+      id: D0t82Z8hjnY
+      imageURL: 'https://i.ytimg.com/vi/D0t82Z8hjnY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-10-26T12:03:10.000Z'
+      tags: esenlik
+      title: 6. Bölüm  Esenlik
+      url: 'https://youtu.be/D0t82Z8hjnY'
+      viewCount: '244'
 ---
 
