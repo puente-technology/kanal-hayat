@@ -82,5 +82,18 @@ episodes:
         Û DAWID [05]
       url: 'https://youtu.be/Pm7rwGihUDk'
       viewCount: '118'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT28M1S
+      id: qHrY1cFvTfQ
+      imageURL: 'https://i.ytimg.com/vi/qHrY1cFvTfQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-29T14:08:23.000Z'
+      tags: armanca
+      title: 'SUHBETEN KELAME - ARMANCA HATINA ÎSA MESÎH YA LI SER DINYAYÊ [06]'
+      url: 'https://youtu.be/qHrY1cFvTfQ'
+      viewCount: '144'
 ---
 
