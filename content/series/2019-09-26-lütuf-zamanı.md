@@ -235,5 +235,30 @@ episodes:
       title: 9-  Kutsal Tanrı
       url: 'https://youtu.be/VSm8UL7w0WU'
       viewCount: '184'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M24S
+      id: nJrWqeWBlp0
+      imageURL: 'https://i.ytimg.com/vi/nJrWqeWBlp0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-02T12:48:18.000Z'
+      tags: lütuf
+      title: 10- Lütuf
+      url: 'https://youtu.be/nJrWqeWBlp0'
+      viewCount: '137'
 ---
 
