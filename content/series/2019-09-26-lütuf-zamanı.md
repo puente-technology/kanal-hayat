@@ -160,5 +160,30 @@ episodes:
       title: 6. Bölüm  Esenlik
       url: 'https://youtu.be/D0t82Z8hjnY'
       viewCount: '244'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M22S
+      id: XN-Qsqd8ySc
+      imageURL: 'https://i.ytimg.com/vi/XN-Qsqd8ySc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-10-27T11:19:51.000Z'
+      tags: para
+      title: 7- Göksel Para
+      url: 'https://youtu.be/XN-Qsqd8ySc'
+      viewCount: '199'
 ---
 
