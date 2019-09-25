@@ -251,5 +251,18 @@ episodes:
       title: 'SUHBETEN KELAME - ŞÎVA CEJNA DERBASBÛNÊ Û ŞÎVA XUDAN [18]'
       url: 'https://youtu.be/tG2LBs_VZQo'
       viewCount: '60'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT27M55S
+      id: c3sHs1ilrbY
+      imageURL: 'https://i.ytimg.com/vi/c3sHs1ilrbY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-06-28T11:51:25.000Z'
+      tags: bendkırın
+      title: 'SUHBETEN KELAME - BENDKIRIN Û XAÇKIRINA ÎSA MESÎH [19]'
+      url: 'https://youtu.be/c3sHs1ilrbY'
+      viewCount: '70'
 ---
 
