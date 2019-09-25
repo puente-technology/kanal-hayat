@@ -39,5 +39,18 @@ episodes:
       title: 'SUHBETEN KELAME - BÛYÎNA ÎSA MESÎH [02]'
       url: 'https://youtu.be/TfkfZAQeUY4'
       viewCount: '238'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT27M57S
+      id: bxjJhYYR-hM
+      imageURL: 'https://i.ytimg.com/vi/bxjJhYYR-hM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-04T06:12:10.000Z'
+      tags: yuhennaye
+      title: 'SUHBETEN KELAME - YUHENNAYÊ ÎMADKAR [03]'
+      url: 'https://youtu.be/bxjJhYYR-hM'
+      viewCount: '65'
 ---
 
