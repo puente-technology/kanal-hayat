@@ -199,5 +199,18 @@ episodes:
       title: 'SUHBETEN KELAME - PIRSA TÊMA ŞEMÎYÊ [14]'
       url: 'https://youtu.be/BQdetn15I9A'
       viewCount: '89'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT28M53S
+      id: 3X8HXu7B410
+      imageURL: 'https://i.ytimg.com/vi/3X8HXu7B410/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-05-01T08:43:51.000Z'
+      tags: pırsa
+      title: 'SUHBETEN KELAME - PIRSA HEBANDINÊ Û XIZMETÎYA NI XWEDÊ RE [15]'
+      url: 'https://youtu.be/3X8HXu7B410'
+      viewCount: '131'
 ---
 
