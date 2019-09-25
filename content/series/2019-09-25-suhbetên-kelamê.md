@@ -325,5 +325,18 @@ episodes:
       title: SUHBETÊN KELAMÊ -  BEŞA 24
       url: 'https://youtu.be/isoAPpg9BS4'
       viewCount: '83'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: SUHBETÊN KELAMÊ -  BEŞA 25
+      duration: PT25M35S
+      id: CbzdPjNvc6c
+      imageURL: 'https://i.ytimg.com/vi/CbzdPjNvc6c/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-03-20T08:21:54.000Z'
+      tags: BEŞA 25
+      title: SUHBETÊN KELAMÊ -  BEŞA 25
+      url: 'https://youtu.be/CbzdPjNvc6c'
+      viewCount: '137'
 ---
 
