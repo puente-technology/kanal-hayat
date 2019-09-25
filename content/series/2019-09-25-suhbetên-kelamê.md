@@ -182,5 +182,18 @@ episodes:
       title: SUHBETÊN KELAMÊ - BEŞA 13
       url: 'https://youtu.be/EEINo9XrTtA'
       viewCount: '117'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: SUHBETÊN KELAMÊ -  BEŞA 14
+      duration: PT22M36S
+      id: eBHXFa69llQ
+      imageURL: 'https://i.ytimg.com/vi/eBHXFa69llQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-22T07:02:10.000Z'
+      tags: BEŞA 14
+      title: SUHBETÊN KELAMÊ -  BEŞA 14
+      url: 'https://youtu.be/eBHXFa69llQ'
+      viewCount: '106'
 ---
 
