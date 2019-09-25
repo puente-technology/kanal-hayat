@@ -156,5 +156,18 @@ episodes:
       title: SUHBETÊN KELAMÊ - BEŞA 11
       url: 'https://youtu.be/p4mRXzpcLW8'
       viewCount: '107'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: SUHBETÊN KELAMÊ - BEŞA 12
+      duration: PT23M54S
+      id: GP46wx-C7Q0
+      imageURL: 'https://i.ytimg.com/vi/GP46wx-C7Q0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-22T07:01:36.000Z'
+      tags: BEŞA 12
+      title: BEŞA 12
+      url: 'https://youtu.be/GP46wx-C7Q0'
+      viewCount: '275'
 ---
 
