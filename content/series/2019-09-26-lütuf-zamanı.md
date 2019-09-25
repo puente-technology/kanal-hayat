@@ -660,5 +660,30 @@ episodes:
       title: 27. Bölüm Minnet ve Mutluluk
       url: 'https://youtu.be/l5H2mChgFzc'
       viewCount: '117'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M15S
+      id: 5dpHdxJVEww
+      imageURL: 'https://i.ytimg.com/vi/5dpHdxJVEww/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-29T11:08:25.000Z'
+      tags: Yaşam
+      title: 28. Bölüm  Onurlu Bir Yaşam
+      url: 'https://youtu.be/5dpHdxJVEww'
+      viewCount: '125'
 ---
 
