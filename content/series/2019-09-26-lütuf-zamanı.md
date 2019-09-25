@@ -60,5 +60,30 @@ episodes:
       title: 2. Bölüm Bağışlama
       url: 'https://youtu.be/CREfCOag6G4'
       viewCount: '517'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M15S
+      id: UPO_RhDk8us
+      imageURL: 'https://i.ytimg.com/vi/UPO_RhDk8us/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-09-08T12:04:10.000Z'
+      tags: seçim
+      title: 3. Bölüm  Doğru Seçim
+      url: 'https://youtu.be/UPO_RhDk8us'
+      viewCount: '554'
 ---
 
