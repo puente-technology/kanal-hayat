@@ -398,5 +398,18 @@ episodes:
       title: 'SUHBETEN KELAME - namNAMEYÊN YUHENNAYÊ ŞANDÎ Û CIHÛDA [29]'
       url: 'https://youtu.be/BQdh4N5Wy9E'
       viewCount: '91'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT27M29S
+      id: _5evdd16Ojs
+      imageURL: 'https://i.ytimg.com/vi/_5evdd16Ojs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-05T09:31:36.000Z'
+      tags: 'kürtçe,dilinde,isa,AŞKERETÎYA,KITÊBA'
+      title: 'SUHBETEN KELAME - KITÊBA AŞKERETÎYA ÎSA MESÎH [30]'
+      url: 'https://youtu.be/_5evdd16Ojs'
+      viewCount: '65'
 ---
 
