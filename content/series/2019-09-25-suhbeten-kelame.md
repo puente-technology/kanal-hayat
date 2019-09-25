@@ -307,5 +307,18 @@ episodes:
         KITÊBA PÎROZ [22]
       url: 'https://youtu.be/PS8V7Pp0lCg'
       viewCount: '81'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT27M25S
+      id: PDjkZTXgNRA
+      imageURL: 'https://i.ytimg.com/vi/PDjkZTXgNRA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-03-08T10:30:21.000Z'
+      tags: şandiyan
+      title: 'SUHBETEN KELAME - KARÊN ŞANDÎYAN [23]'
+      url: 'https://youtu.be/PDjkZTXgNRA'
+      viewCount: '93'
 ---
 
