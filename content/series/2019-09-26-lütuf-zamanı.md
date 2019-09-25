@@ -210,5 +210,30 @@ episodes:
       title: 8-  Korku
       url: 'https://youtu.be/n0bkr1LWSFI'
       viewCount: '155'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M35S
+      id: VSm8UL7w0WU
+      imageURL: 'https://i.ytimg.com/vi/VSm8UL7w0WU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-10-27T11:38:40.000Z'
+      tags: tanrı
+      title: 9-  Kutsal Tanrı
+      url: 'https://youtu.be/VSm8UL7w0WU'
+      viewCount: '184'
 ---
 
