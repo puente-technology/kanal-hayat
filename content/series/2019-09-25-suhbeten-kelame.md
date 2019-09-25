@@ -292,5 +292,20 @@ episodes:
       title: 'SUHBETEN KELAME - TEMÎYA ÎSA MESÎH NI BO MILETAN [21]'
       url: 'https://youtu.be/SRWPvXs19Og'
       viewCount: '232'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT27M45S
+      id: PS8V7Pp0lCg
+      imageURL: 'https://i.ytimg.com/vi/PS8V7Pp0lCg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-03-01T17:05:20.000Z'
+      tags: hatına
+      title: >-
+        SUHBETEN KELAME - HATINA ÎSA MESÎH: CARA DUYÊMIN LI GORÎ NIVISARÊN
+        KITÊBA PÎROZ [22]
+      url: 'https://youtu.be/PS8V7Pp0lCg'
+      viewCount: '81'
 ---
 
