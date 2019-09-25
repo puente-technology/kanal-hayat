@@ -338,5 +338,18 @@ episodes:
       title: SUHBETÊN KELAMÊ -  BEŞA 25
       url: 'https://youtu.be/CbzdPjNvc6c'
       viewCount: '137'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: SUHBETÊN KELAMÊ -  BEŞA 26
+      duration: PT23M2S
+      id: ggevM8_FWGU
+      imageURL: 'https://i.ytimg.com/vi/ggevM8_FWGU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-01T08:01:31.000Z'
+      tags: BEŞA 26
+      title: SUHBETÊN KELAMÊ -  BEŞA 26
+      url: 'https://youtu.be/ggevM8_FWGU'
+      viewCount: '84'
 ---
 
