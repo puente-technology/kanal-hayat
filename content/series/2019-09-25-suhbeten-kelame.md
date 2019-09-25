@@ -333,5 +333,18 @@ episodes:
       title: 'SUHBETEN KELAME - PAWLOSÊ ŞANDÎ Û NAMEYÊN WÎ [24]'
       url: 'https://youtu.be/hdrmv3_JCw8'
       viewCount: '49'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT27M38S
+      id: UKbk22kVzEo
+      imageURL: 'https://i.ytimg.com/vi/UKbk22kVzEo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-05-30T08:27:32.000Z'
+      tags: nameyen
+      title: 'SUHBETEN KELAME - NAMEYÊN PAWLOS NI BWRPIRSÎYARÊN CIVÎNÊ RE [25]'
+      url: 'https://youtu.be/UKbk22kVzEo'
+      viewCount: '56'
 ---
 
