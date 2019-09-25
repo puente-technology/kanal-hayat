@@ -52,5 +52,20 @@ episodes:
       title: 'SUHBETEN KELAME - YUHENNAYÊ ÎMADKAR [03]'
       url: 'https://youtu.be/bxjJhYYR-hM'
       viewCount: '65'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT27M55S
+      id: _ZhksQ4hl_k
+      imageURL: 'https://i.ytimg.com/vi/_ZhksQ4hl_k/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-13T16:54:47.000Z'
+      tags: 'du,bınyata'
+      title: >-
+        SUHBETEN KELAME - DU BINYATA (Kesayetî) ÎSA MESÎH  YA XWEDAYÎ Û ÎNSANÎ
+        [04]
+      url: 'https://youtu.be/_ZhksQ4hl_k'
+      viewCount: '79'
 ---
 
