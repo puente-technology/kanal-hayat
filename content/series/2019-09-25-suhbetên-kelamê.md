@@ -247,5 +247,18 @@ episodes:
       title: SUHBETÊN KELAMÊ -  BEŞA 18
       url: 'https://youtu.be/KyycXRdr73g'
       viewCount: '89'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: SUHBETÊN KELAMÊ - BEŞA 19
+      duration: PT24M30S
+      id: M7wxmQgqrus
+      imageURL: 'https://i.ytimg.com/vi/M7wxmQgqrus/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-22T07:03:45.000Z'
+      tags: BEŞA 19
+      title: SUHBETÊN KELAMÊ - BEŞA 19
+      url: 'https://youtu.be/M7wxmQgqrus'
+      viewCount: '72'
 ---
 
