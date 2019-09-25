@@ -560,5 +560,80 @@ episodes:
       title: 23. Bölüm  Işık ve Aydınlanma
       url: 'https://youtu.be/cVWESgW8yso'
       viewCount: '134'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M19S
+      id: GilWmEpXI44
+      imageURL: 'https://i.ytimg.com/vi/GilWmEpXI44/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-26T08:56:45.000Z'
+      tags: Kurtuluş
+      title: 24. Bölüm  Kurtuluş
+      url: 'https://youtu.be/GilWmEpXI44'
+      viewCount: '112'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M12S
+      id: Q1r2wQAcAVU
+      imageURL: 'https://i.ytimg.com/vi/Q1r2wQAcAVU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-26T08:56:50.000Z'
+      tags: Mesih
+      title: 25. Bölüm  Mesih'de Olmak
+      url: 'https://youtu.be/Q1r2wQAcAVU'
+      viewCount: '224'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M3S
+      id: 8Munrkr132o
+      imageURL: 'https://i.ytimg.com/vi/8Munrkr132o/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-26T09:20:28.000Z'
+      tags: Minnet
+      title: 26. Bölüm  Şifa
+      url: 'https://youtu.be/8Munrkr132o'
+      viewCount: '112'
 ---
 
