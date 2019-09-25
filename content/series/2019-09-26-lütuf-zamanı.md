@@ -510,5 +510,30 @@ episodes:
       title: 20. Bölüm  İman
       url: 'https://youtu.be/BHPtOeN4Fao'
       viewCount: '127'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M17S
+      id: V6OeMXYGces
+      imageURL: 'https://i.ytimg.com/vi/V6OeMXYGces/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-26T08:27:07.000Z'
+      tags: Esenliğimizi
+      title: 22. Bölüm  Esenliğimizi Korumak
+      url: 'https://youtu.be/V6OeMXYGces'
+      viewCount: '94'
 ---
 
