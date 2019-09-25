@@ -435,5 +435,30 @@ episodes:
       title: 17. Bölüm  Yol
       url: 'https://youtu.be/vZCalpMwupw'
       viewCount: '97'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M45S
+      id: Iv9dDst-4_o
+      imageURL: 'https://i.ytimg.com/vi/Iv9dDst-4_o/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T09:54:43.000Z'
+      tags: Çarmıh
+      title: 18. Bölüm  Çarmıh ve İçindeki Güç
+      url: 'https://youtu.be/Iv9dDst-4_o'
+      viewCount: '112'
 ---
 
