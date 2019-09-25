@@ -335,5 +335,30 @@ episodes:
       title: 13. Bölüm  Ruhsal Yetki
       url: 'https://youtu.be/1wPLGWAzdg0'
       viewCount: '81'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M
+      id: DLOEnV0ElZ4
+      imageURL: 'https://i.ytimg.com/vi/DLOEnV0ElZ4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T09:25:30.000Z'
+      tags: Sadakat
+      title: 14. Bölüm Sadakat
+      url: 'https://youtu.be/DLOEnV0ElZ4'
+      viewCount: '83'
 ---
 
