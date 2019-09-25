@@ -372,5 +372,18 @@ episodes:
       title: 'SUHBETEN KELAME - NAMEYA NI ÎBRANÎYAN RE [27]'
       url: 'https://youtu.be/pdCguMVsFZc'
       viewCount: '53'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT27M52S
+      id: _-zEcUvWq9g
+      imageURL: 'https://i.ytimg.com/vi/_-zEcUvWq9g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-07-15T17:48:48.000Z'
+      tags: nameya
+      title: 'SUHBETEN KELAME - NAMEYA AQÛB Û NAMEYÊN PETRÛSÊ ŞANDÎ  [28]'
+      url: 'https://youtu.be/_-zEcUvWq9g'
+      viewCount: '52'
 ---
 
