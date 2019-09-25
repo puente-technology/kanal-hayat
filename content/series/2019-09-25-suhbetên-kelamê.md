@@ -39,5 +39,18 @@ episodes:
       title: 'SUHBETÊN KELAMÊ - BEŞA 2: ADEM Û HEWA “DESPÊKA GUNEHÊ”'
       url: 'https://youtu.be/rJNfhBPCv_Y'
       viewCount: '572'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: 'SUHBETÊN KELAMÊ - BEŞA 2: ADEM Û HEWA “DESPÊKA GUNEHÊ”'
+      duration: PT25M35S
+      id: 1lGfRakyyik
+      imageURL: 'https://i.ytimg.com/vi/1lGfRakyyik/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-25T12:45:28.000Z'
+      tags: beşa 3
+      title: 'BEŞA 3: BIRAKUJÎYA YEKEM: “HABÎL Û QAYÎN”'
+      url: 'https://youtu.be/1lGfRakyyik'
+      viewCount: '306'
 ---
 
