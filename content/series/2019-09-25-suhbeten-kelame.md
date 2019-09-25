@@ -67,5 +67,20 @@ episodes:
         [04]
       url: 'https://youtu.be/_ZhksQ4hl_k'
       viewCount: '79'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT27M40S
+      id: Pm7rwGihUDk
+      imageURL: 'https://i.ytimg.com/vi/Pm7rwGihUDk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-18T07:29:36.000Z'
+      tags: bınyata
+      title: >-
+        SUHBETEN KELAME - BINYATA ÎSA MESÎH YA ÎNSANÎ Û SOZA XWEDÊ KU DA ÎBRAHÎM
+        Û DAWID [05]
+      url: 'https://youtu.be/Pm7rwGihUDk'
+      viewCount: '118'
 ---
 
