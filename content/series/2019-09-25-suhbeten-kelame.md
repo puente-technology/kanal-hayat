@@ -238,5 +238,18 @@ episodes:
       title: 'SUHBETEN KELAME - ISA MESÎH PÊŞDA MIRIN Û ZINDÎBÛNA XWE DIBÊJE [17]'
       url: 'https://youtu.be/p1DmZ_CyZXg'
       viewCount: '59'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT27M3S
+      id: tG2LBs_VZQo
+      imageURL: 'https://i.ytimg.com/vi/tG2LBs_VZQo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-06-18T12:40:51.000Z'
+      tags: siva
+      title: 'SUHBETEN KELAME - ŞÎVA CEJNA DERBASBÛNÊ Û ŞÎVA XUDAN [18]'
+      url: 'https://youtu.be/tG2LBs_VZQo'
+      viewCount: '60'
 ---
 
