@@ -212,5 +212,18 @@ episodes:
       title: 'SUHBETEN KELAME - PIRSA HEBANDINÊ Û XIZMETÎYA NI XWEDÊ RE [15]'
       url: 'https://youtu.be/3X8HXu7B410'
       viewCount: '131'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT26M28S
+      id: KqkvY9vcGsQ
+      imageURL: 'https://i.ytimg.com/vi/KqkvY9vcGsQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-05-07T12:20:10.000Z'
+      tags: temiya
+      title: 'SUHBETEN KELAME - TEMÎYA XWEDÊ YA HERÎ MEZIN YA DIDUYAN [16]'
+      url: 'https://youtu.be/KqkvY9vcGsQ'
+      viewCount: '45'
 ---
 
