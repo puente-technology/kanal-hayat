@@ -85,5 +85,30 @@ episodes:
       title: 3. Bölüm  Doğru Seçim
       url: 'https://youtu.be/UPO_RhDk8us'
       viewCount: '554'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M44S
+      id: tXajKPl5FFw
+      imageURL: 'https://i.ytimg.com/vi/tXajKPl5FFw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-09-09T09:13:49.000Z'
+      tags: dua
+      title: 4. Bölüm  Dua
+      url: 'https://youtu.be/tXajKPl5FFw'
+      viewCount: '954'
 ---
 
