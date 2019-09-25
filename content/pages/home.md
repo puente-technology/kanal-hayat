@@ -20,7 +20,7 @@ gallery:
     title: Hristiyan Ahlakı
 program1:
   align: left
-  bgImage: /images/uploads/meyerrr.jpg
+  bgImage: /images/uploads/joyce-meyer.jpg
   color: light
   content: |-
     Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından
