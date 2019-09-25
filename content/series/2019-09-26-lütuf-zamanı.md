@@ -360,5 +360,30 @@ episodes:
       title: 14. Bölüm Sadakat
       url: 'https://youtu.be/DLOEnV0ElZ4'
       viewCount: '83'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M17S
+      id: e83h8SpKllg
+      imageURL: 'https://i.ytimg.com/vi/e83h8SpKllg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T09:25:56.000Z'
+      tags: Sevinç
+      title: 15. Bölüm  Sevinç
+      url: 'https://youtu.be/e83h8SpKllg'
+      viewCount: '80'
 ---
 
