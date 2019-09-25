@@ -65,5 +65,18 @@ episodes:
       title: 'SUHBETÊN KELAMÊ - BEŞA 4: NUH PÊXEMBER “ TOFANA NUH”'
       url: 'https://youtu.be/Ier7d13Ew7Y'
       viewCount: '398'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: 'SUHBETÊN KELAMÊ -  BEŞA 5: “QULEYA  (KELA) BABÎLÊ”'
+      duration: PT24M8S
+      id: 8csUXFsXaDU
+      imageURL: 'https://i.ytimg.com/vi/8csUXFsXaDU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-22T07:00:33.000Z'
+      tags: beşa 5
+      title: 'SUHBETÊN KELAMÊ -  BEŞA 5: “QULEYA  (KELA) BABÎLÊ”'
+      url: 'https://youtu.be/8csUXFsXaDU'
+      viewCount: '192'
 ---
 
