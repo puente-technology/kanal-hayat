@@ -104,5 +104,18 @@ episodes:
       title: 'SUHBETÊN KELAMÊ - BEŞA 7: MESELEYA LÛT: “SODOM Û GOMORA”'
       url: 'https://youtu.be/D_f2fVqVkco'
       viewCount: '234'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: 'SUHBETÊN KELAMÊ - BEŞA 8: “Kurê ku Hatibû Wad Kirin ÎSHEQ Pêxember”'
+      duration: PT22M44S
+      id: XPKPVY--N-g
+      imageURL: 'https://i.ytimg.com/vi/XPKPVY--N-g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-22T06:59:20.000Z'
+      tags: beşa 8
+      title: 'SUHBETÊN KELAMÊ - BEŞA 8: “Kurê ku Hatibû Wad Kirin ÎSHEQ Pêxember”'
+      url: 'https://youtu.be/XPKPVY--N-g'
+      viewCount: '335'
 ---
 
