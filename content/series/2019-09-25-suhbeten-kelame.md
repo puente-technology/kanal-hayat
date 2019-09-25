@@ -359,5 +359,18 @@ episodes:
       title: 'SUHBETEN KELAME - FEMÎNÊN SEREKE KU HER NAMEYÊN PAWLOS DE HENE [26]'
       url: 'https://youtu.be/-1PE3dxFmXQ'
       viewCount: '69'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT26M45S
+      id: pdCguMVsFZc
+      imageURL: 'https://i.ytimg.com/vi/pdCguMVsFZc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-07-08T10:32:52.000Z'
+      tags: nameya
+      title: 'SUHBETEN KELAME - NAMEYA NI ÎBRANÎYAN RE [27]'
+      url: 'https://youtu.be/pdCguMVsFZc'
+      viewCount: '53'
 ---
 
