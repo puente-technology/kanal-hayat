@@ -685,5 +685,81 @@ episodes:
       title: 28. Bölüm  Onurlu Bir Yaşam
       url: 'https://youtu.be/5dpHdxJVEww'
       viewCount: '125'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M46S
+      id: J3J4fBsSeyc
+      imageURL: 'https://i.ytimg.com/vi/J3J4fBsSeyc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-29T11:08:32.000Z'
+      tags: Sevgi
+      title: 29. Bölüm  Sevgiyle Yapmak
+      url: >-
+        https://www.youtube.com/watch?v=J3J4fBsSeyc&list=PLQfi14V3hH0JH71u5Pplms--sC2W-49vh&index=30&t=0s
+      viewCount: '142'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M38S
+      id: gvHDmPf7mh0
+      imageURL: 'https://i.ytimg.com/vi/gvHDmPf7mh0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-24T06:12:29.000Z'
+      tags: Stres
+      title: 30. Bölüm Stressiz Bir Yaşam
+      url: 'https://youtu.be/gvHDmPf7mh0'
+      viewCount: '650'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M57S
+      id: yxVB2tuIFA8
+      imageURL: 'https://i.ytimg.com/vi/yxVB2tuIFA8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-24T07:24:49.000Z'
+      tags: Suçluluk
+      title: 31. Bölüm  Suçluluk Duygusu
+      url: 'https://youtu.be/yxVB2tuIFA8'
+      viewCount: '1430'
 ---
 
