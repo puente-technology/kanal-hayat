@@ -117,5 +117,18 @@ episodes:
       title: 'SUHBETÊN KELAMÊ - BEŞA 8: “Kurê ku Hatibû Wad Kirin ÎSHEQ Pêxember”'
       url: 'https://youtu.be/XPKPVY--N-g'
       viewCount: '335'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: SUHBETÊN KELAMÊ - BEŞA 9
+      duration: PT23M18S
+      id: i6Lkmmm-0Bs
+      imageURL: 'https://i.ytimg.com/vi/i6Lkmmm-0Bs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-22T06:59:03.000Z'
+      tags: BEŞA 9
+      title: SUHBETÊN KELAMÊ -  BEŞA 9
+      url: 'https://youtu.be/i6Lkmmm-0Bs'
+      viewCount: '389'
 ---
 
