@@ -260,5 +260,30 @@ episodes:
       title: 10- Lütuf
       url: 'https://youtu.be/nJrWqeWBlp0'
       viewCount: '137'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M31S
+      id: HfwilkJzuiw
+      imageURL: 'https://i.ytimg.com/vi/HfwilkJzuiw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-02T12:48:26.000Z'
+      tags: mucizeler
+      title: 11- Mucizeler
+      url: 'https://youtu.be/HfwilkJzuiw'
+      viewCount: '188'
 ---
 
