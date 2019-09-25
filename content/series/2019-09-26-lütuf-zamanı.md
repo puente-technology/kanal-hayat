@@ -110,5 +110,30 @@ episodes:
       title: 4. Bölüm  Dua
       url: 'https://youtu.be/tXajKPl5FFw'
       viewCount: '954'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M31S
+      id: 0ezB0PNJe24
+      imageURL: 'https://i.ytimg.com/vi/0ezB0PNJe24/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-09-09T09:13:53.000Z'
+      tags: düşünceler
+      title: 5- Bölüm Düşünceler
+      url: 'https://youtu.be/0ezB0PNJe24'
+      viewCount: '879'
 ---
 
