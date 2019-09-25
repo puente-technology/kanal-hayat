@@ -78,5 +78,18 @@ episodes:
       title: 'SUHBETÊN KELAMÊ -  BEŞA 5: “QULEYA  (KELA) BABÎLÊ”'
       url: 'https://youtu.be/8csUXFsXaDU'
       viewCount: '192'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: 'SUHBETÊN KELAMÊ - BEŞA 6:  BAVÊ BAWERÎYÊ: “BRAHİM PÊXEMBER”'
+      duration: PT25M30S
+      id: CrT3404WlX8
+      imageURL: 'https://i.ytimg.com/vi/CrT3404WlX8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-22T06:59:34.000Z'
+      tags: beşa 6
+      title: 'SUHBETÊN KELAMÊ - BEŞA 6:  BAVÊ BAWERÎYÊ: “BRAHİM PÊXEMBER”'
+      url: 'https://youtu.be/CrT3404WlX8'
+      viewCount: '268'
 ---
 
