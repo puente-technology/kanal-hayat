@@ -260,5 +260,18 @@ episodes:
       title: SUHBETÊN KELAMÊ - BEŞA 19
       url: 'https://youtu.be/M7wxmQgqrus'
       viewCount: '72'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: SUHBETÊN KELAMÊ -  BEŞA 20
+      duration: PT24M37S
+      id: H2mM_XrVhsc
+      imageURL: 'https://i.ytimg.com/vi/H2mM_XrVhsc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-22T07:04:04.000Z'
+      tags: BEŞA 20
+      title: SUHBETÊN KELAMÊ -  BEŞA 20
+      url: 'https://youtu.be/H2mM_XrVhsc'
+      viewCount: '74'
 ---
 
