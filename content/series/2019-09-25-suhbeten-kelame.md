@@ -264,5 +264,20 @@ episodes:
       title: 'SUHBETEN KELAME - BENDKIRIN Û XAÇKIRINA ÎSA MESÎH [19]'
       url: 'https://youtu.be/c3sHs1ilrbY'
       viewCount: '70'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT27M34S
+      id: nrx2PYSURjo
+      imageURL: 'https://i.ytimg.com/vi/nrx2PYSURjo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-02T05:07:33.000Z'
+      tags: 'mırın,zindıbuna'
+      title: >-
+        SUHBETEN KELAME - MIRIN Û ZINDÎBÛNA ÎSA MESÎH Û ARMANCA WÎ YA ESASÎ 
+        [20]
+      url: 'https://youtu.be/nrx2PYSURjo'
+      viewCount: '132'
 ---
 
