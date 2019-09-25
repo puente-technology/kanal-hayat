@@ -91,5 +91,18 @@ episodes:
       title: 'SUHBETÊN KELAMÊ - BEŞA 6:  BAVÊ BAWERÎYÊ: “BRAHİM PÊXEMBER”'
       url: 'https://youtu.be/CrT3404WlX8'
       viewCount: '268'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: 'SUHBETÊN KELAMÊ - BEŞA 7: MESELEYA LÛT: “SODOM Û GOMORA”'
+      duration: PT25M34S
+      id: D_f2fVqVkco
+      imageURL: 'https://i.ytimg.com/vi/D_f2fVqVkco/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-22T06:59:58.000Z'
+      tags: beşa 7
+      title: 'SUHBETÊN KELAMÊ - BEŞA 7: MESELEYA LÛT: “SODOM Û GOMORA”'
+      url: 'https://youtu.be/D_f2fVqVkco'
+      viewCount: '234'
 ---
 
