@@ -320,5 +320,18 @@ episodes:
       title: 'SUHBETEN KELAME - KARÊN ŞANDÎYAN [23]'
       url: 'https://youtu.be/PDjkZTXgNRA'
       viewCount: '93'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT27M58S
+      id: hdrmv3_JCw8
+      imageURL: 'https://i.ytimg.com/vi/hdrmv3_JCw8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-04-02T08:33:58.000Z'
+      tags: pawlose
+      title: 'SUHBETEN KELAME - PAWLOSÊ ŞANDÎ Û NAMEYÊN WÎ [24]'
+      url: 'https://youtu.be/hdrmv3_JCw8'
+      viewCount: '49'
 ---
 
