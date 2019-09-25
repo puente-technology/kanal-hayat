@@ -225,5 +225,18 @@ episodes:
       title: 'SUHBETEN KELAME - TEMÎYA XWEDÊ YA HERÎ MEZIN YA DIDUYAN [16]'
       url: 'https://youtu.be/KqkvY9vcGsQ'
       viewCount: '45'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT28M37S
+      id: p1DmZ_CyZXg
+      imageURL: 'https://i.ytimg.com/vi/p1DmZ_CyZXg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-05-29T07:55:51.000Z'
+      tags: isa mesih
+      title: 'SUHBETEN KELAME - ISA MESÎH PÊŞDA MIRIN Û ZINDÎBÛNA XWE DIBÊJE [17]'
+      url: 'https://youtu.be/p1DmZ_CyZXg'
+      viewCount: '59'
 ---
 
