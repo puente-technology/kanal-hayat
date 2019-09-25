@@ -385,5 +385,18 @@ episodes:
       title: 'SUHBETEN KELAME - NAMEYA AQÛB Û NAMEYÊN PETRÛSÊ ŞANDÎ  [28]'
       url: 'https://youtu.be/_-zEcUvWq9g'
       viewCount: '52'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT27M30S
+      id: BQdh4N5Wy9E
+      imageURL: 'https://i.ytimg.com/vi/BQdh4N5Wy9E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-29T06:16:45.000Z'
+      tags: 'nameyen,cihuda'
+      title: 'SUHBETEN KELAME - namNAMEYÊN YUHENNAYÊ ŞANDÎ Û CIHÛDA [29]'
+      url: 'https://youtu.be/BQdh4N5Wy9E'
+      viewCount: '91'
 ---
 
