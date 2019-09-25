@@ -346,5 +346,18 @@ episodes:
       title: 'SUHBETEN KELAME - NAMEYÊN PAWLOS NI BWRPIRSÎYARÊN CIVÎNÊ RE [25]'
       url: 'https://youtu.be/UKbk22kVzEo'
       viewCount: '56'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT27M57S
+      id: '-1PE3dxFmXQ'
+      imageURL: 'https://i.ytimg.com/vi/-1PE3dxFmXQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-06-17T07:46:17.000Z'
+      tags: feminen
+      title: 'SUHBETEN KELAME - FEMÎNÊN SEREKE KU HER NAMEYÊN PAWLOS DE HENE [26]'
+      url: 'https://youtu.be/-1PE3dxFmXQ'
+      viewCount: '69'
 ---
 
