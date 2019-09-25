@@ -108,5 +108,18 @@ episodes:
       title: 'SUHBETEN KELAME - CERIBANDINA ÎSA MESÎH [07]'
       url: 'https://youtu.be/zsF_xU8tngk'
       viewCount: '81'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT28M4S
+      id: WFbiFKAJgxg
+      imageURL: 'https://i.ytimg.com/vi/WFbiFKAJgxg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-17T12:39:27.000Z'
+      tags: isa mesih
+      title: 'SUHBETEN KELAME - ŞAGIRTÊN ÎSA MESÎH [08]'
+      url: 'https://youtu.be/WFbiFKAJgxg'
+      viewCount: '66'
 ---
 
