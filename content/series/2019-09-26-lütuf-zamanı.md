@@ -310,5 +310,30 @@ episodes:
       title: 12- Bölüm Ruh ve Benlik
       url: 'https://youtu.be/J0zj5glp8Tw'
       viewCount: '89'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M13S
+      id: 1wPLGWAzdg0
+      imageURL: 'https://i.ytimg.com/vi/1wPLGWAzdg0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T09:25:11.000Z'
+      tags: Ruhsal Yetki
+      title: 13. Bölüm  Ruhsal Yetki
+      url: 'https://youtu.be/1wPLGWAzdg0'
+      viewCount: '81'
 ---
 
