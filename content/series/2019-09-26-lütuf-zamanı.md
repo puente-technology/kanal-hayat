@@ -285,5 +285,30 @@ episodes:
       title: 11- Mucizeler
       url: 'https://youtu.be/HfwilkJzuiw'
       viewCount: '188'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M22S
+      id: J0zj5glp8Tw
+      imageURL: 'https://i.ytimg.com/vi/J0zj5glp8Tw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T09:25:01.000Z'
+      tags: Ruh
+      title: 12- Bölüm Ruh ve Benlik
+      url: 'https://youtu.be/J0zj5glp8Tw'
+      viewCount: '89'
 ---
 
