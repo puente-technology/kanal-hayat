@@ -234,5 +234,18 @@ episodes:
       title: SUHBETÊN KELAMÊ - BEŞA 17
       url: 'https://youtu.be/rPeiXpC_PIw'
       viewCount: '73'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: SUHBETÊN KELAMÊ -  BEŞA 18
+      duration: PT23M25S
+      id: KyycXRdr73g
+      imageURL: 'https://i.ytimg.com/vi/KyycXRdr73g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-22T07:03:33.000Z'
+      tags: BEŞA 18
+      title: SUHBETÊN KELAMÊ -  BEŞA 18
+      url: 'https://youtu.be/KyycXRdr73g'
+      viewCount: '89'
 ---
 
