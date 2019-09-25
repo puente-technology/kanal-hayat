@@ -410,5 +410,30 @@ episodes:
       title: 16. Bölüm  Sözün Gücü
       url: 'https://youtu.be/qER_4Rw0GmQ'
       viewCount: '143'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M23S
+      id: vZCalpMwupw
+      imageURL: 'https://i.ytimg.com/vi/vZCalpMwupw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T09:54:37.000Z'
+      tags: yol
+      title: 17. Bölüm  Yol
+      url: 'https://youtu.be/vZCalpMwupw'
+      viewCount: '97'
 ---
 
