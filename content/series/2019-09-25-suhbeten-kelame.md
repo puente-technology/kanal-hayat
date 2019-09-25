@@ -147,5 +147,18 @@ episodes:
       title: 'SUHBETEN KELAME - ÇEND HÎNKIRINÊN ÎSA MESÎH [10]'
       url: 'https://youtu.be/8P9b0CzlJKs'
       viewCount: '138'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT28M4S
+      id: 9Rem72XJG88
+      imageURL: 'https://i.ytimg.com/vi/9Rem72XJG88/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-02-18T08:22:18.000Z'
+      tags: çend
+      title: 'SUHBETEN KELAME - ÇEND KERAMETÊN ÎSA MESÎH [11]'
+      url: 'https://youtu.be/9Rem72XJG88'
+      viewCount: '167'
 ---
 
