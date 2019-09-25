@@ -169,5 +169,18 @@ episodes:
       title: BEŞA 12
       url: 'https://youtu.be/GP46wx-C7Q0'
       viewCount: '275'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: SUHBETÊN KELAMÊ - BEŞA 13
+      duration: PT24M27S
+      id: EEINo9XrTtA
+      imageURL: 'https://i.ytimg.com/vi/EEINo9XrTtA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-22T07:01:54.000Z'
+      tags: beşa
+      title: SUHBETÊN KELAMÊ - BEŞA 13
+      url: 'https://youtu.be/EEINo9XrTtA'
+      viewCount: '117'
 ---
 
