@@ -14,7 +14,7 @@ selectedCategories:
   - Öğretim
 episodes:
   - guests: ''
-    season: '1'
+    season: '2'
     youtubeURL:
       description: ŞABAN OK İLE KELAM SOHBETLERİ – Bi ŞABAN OK RE SUHBETÊN KELAMÊ
       duration: PT25M5S
@@ -26,5 +26,18 @@ episodes:
       title: 'SUHBETÊN KELAMÊ - BEŞA 1: AFIRANDINA Erd û Ezman'
       url: 'https://youtu.be/E_wf2jqAEGQ'
       viewCount: '1487'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: 'SUHBETÊN KELAMÊ - BEŞA 2: ADEM Û HEWA “DESPÊKA GUNEHÊ”'
+      duration: PT26M1S
+      id: rJNfhBPCv_Y
+      imageURL: 'https://i.ytimg.com/vi/rJNfhBPCv_Y/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T07:38:27.000Z'
+      tags: beşa2
+      title: 'SUHBETÊN KELAMÊ - BEŞA 2: ADEM Û HEWA “DESPÊKA GUNEHÊ”'
+      url: 'https://youtu.be/rJNfhBPCv_Y'
+      viewCount: '572'
 ---
 
