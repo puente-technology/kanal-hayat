@@ -173,5 +173,18 @@ episodes:
       title: 'SUHBETEN KELAME - ÇEND METHELOKÊN (Mesele) ÎSA MESÎH [12]'
       url: 'https://youtu.be/incbmt0Doa8'
       viewCount: '157'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT28M3S
+      id: Ki6uAQoMUK8
+      imageURL: 'https://i.ytimg.com/vi/Ki6uAQoMUK8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-04-02T19:25:15.000Z'
+      tags: pırsa
+      title: 'SUHBETEN KELAME - PIRSA ÎSA MESÎH! GELO EW KÎ YE? [13]'
+      url: 'https://youtu.be/Ki6uAQoMUK8'
+      viewCount: '275'
 ---
 
