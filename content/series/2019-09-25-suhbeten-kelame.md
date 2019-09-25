@@ -134,5 +134,18 @@ episodes:
       title: 'SUHBETEN KELAME - JI GUMEHÊN XWE VEGERIN. PADŞATÎYA EZMANAN NÊZÎKE [09]'
       url: 'https://youtu.be/AwOd5RpO6os'
       viewCount: '87'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT28M24S
+      id: 8P9b0CzlJKs
+      imageURL: 'https://i.ytimg.com/vi/8P9b0CzlJKs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-29T12:24:06.000Z'
+      tags: çend
+      title: 'SUHBETEN KELAME - ÇEND HÎNKIRINÊN ÎSA MESÎH [10]'
+      url: 'https://youtu.be/8P9b0CzlJKs'
+      viewCount: '138'
 ---
 
