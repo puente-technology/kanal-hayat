@@ -364,5 +364,18 @@ episodes:
       title: SUHBETÊN KELAMÊ -  BEŞA 27
       url: 'https://youtu.be/m0N9HnG26kk'
       viewCount: '82'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: SUHBETÊN KELAMÊ -  BEŞA 28
+      duration: PT23M32S
+      id: EXpdhZTFq-g
+      imageURL: 'https://i.ytimg.com/vi/EXpdhZTFq-g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-01T08:02:00.000Z'
+      tags: BEŞA 28
+      title: SUHBETÊN KELAMÊ -  BEŞA 28
+      url: 'https://youtu.be/EXpdhZTFq-g'
+      viewCount: '69'
 ---
 
