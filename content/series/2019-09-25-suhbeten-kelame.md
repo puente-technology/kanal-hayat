@@ -121,5 +121,18 @@ episodes:
       title: 'SUHBETEN KELAME - ŞAGIRTÊN ÎSA MESÎH [08]'
       url: 'https://youtu.be/WFbiFKAJgxg'
       viewCount: '66'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT27M50S
+      id: AwOd5RpO6os
+      imageURL: 'https://i.ytimg.com/vi/AwOd5RpO6os/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-22T11:41:10.000Z'
+      tags: 'jı,gumehen'
+      title: 'SUHBETEN KELAME - JI GUMEHÊN XWE VEGERIN. PADŞATÎYA EZMANAN NÊZÎKE [09]'
+      url: 'https://youtu.be/AwOd5RpO6os'
+      viewCount: '87'
 ---
 
