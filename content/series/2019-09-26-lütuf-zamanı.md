@@ -35,5 +35,30 @@ episodes:
       title: 1. Bölüm   Bakmak ve Görmek
       url: 'https://youtu.be/mHQtWzMQDzM'
       viewCount: '1201'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M34S
+      id: CREfCOag6G4
+      imageURL: 'https://i.ytimg.com/vi/CREfCOag6G4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-09-08T12:04:10.000Z'
+      tags: bağışlama
+      title: 2. Bölüm Bağışlama
+      url: 'https://youtu.be/CREfCOag6G4'
+      viewCount: '517'
 ---
 
