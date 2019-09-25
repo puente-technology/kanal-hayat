@@ -130,5 +130,18 @@ episodes:
       title: SUHBETÊN KELAMÊ -  BEŞA 9
       url: 'https://youtu.be/i6Lkmmm-0Bs'
       viewCount: '389'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: SUHBETÊN KELAMÊ - BEŞA 10
+      duration: PT22M51S
+      id: 9Ery1tmkAjI
+      imageURL: 'https://i.ytimg.com/vi/9Ery1tmkAjI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-06-22T07:01:06.000Z'
+      tags: beşa 10
+      title: SUHBETÊN KELAMÊ - BEŞA 10
+      url: 'https://youtu.be/9Ery1tmkAjI'
+      viewCount: '181'
 ---
 
