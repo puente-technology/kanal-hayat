@@ -26,5 +26,18 @@ episodes:
       title: 'SUHBETEN KELAME - PEYMANA KEVIN PEYMANA NÛ [01]'
       url: 'https://youtu.be/ztcBLUsNHcQ'
       viewCount: '153'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: 'SUHBETEN KELAME - BÛYÎNA ÎSA MESÎH [02]'
+      duration: PT27M22S
+      id: TfkfZAQeUY4
+      imageURL: 'https://i.ytimg.com/vi/TfkfZAQeUY4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-06T18:50:34.000Z'
+      tags: 'kelam,BÛYÎNA'
+      title: 'SUHBETEN KELAME - BÛYÎNA ÎSA MESÎH [02]'
+      url: 'https://youtu.be/TfkfZAQeUY4'
+      viewCount: '238'
 ---
 
