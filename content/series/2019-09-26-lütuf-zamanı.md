@@ -485,5 +485,30 @@ episodes:
       title: 19. Bölüm İbadet
       url: 'https://youtu.be/j3L3xbl_1M0'
       viewCount: '83'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M9S
+      id: BHPtOeN4Fao
+      imageURL: 'https://i.ytimg.com/vi/BHPtOeN4Fao/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T11:04:55.000Z'
+      tags: iman
+      title: 20. Bölüm  İman
+      url: 'https://youtu.be/BHPtOeN4Fao'
+      viewCount: '127'
 ---
 
