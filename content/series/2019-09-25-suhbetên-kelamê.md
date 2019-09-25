@@ -390,5 +390,18 @@ episodes:
       title: SUHBETÊN KELAMÊ -  BEŞA 29
       url: 'https://youtu.be/TqTx6zsy_Qk'
       viewCount: '83'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: SUHBETÊN KELAMÊ -  BEŞA 30
+      duration: PT24M46S
+      id: ji-RkgGQgFw
+      imageURL: 'https://i.ytimg.com/vi/ji-RkgGQgFw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-01T08:02:31.000Z'
+      tags: BEŞA 21
+      title: SUHBETÊN KELAMÊ -  BEŞA 30
+      url: 'https://youtu.be/ji-RkgGQgFw'
+      viewCount: '294'
 ---
 
