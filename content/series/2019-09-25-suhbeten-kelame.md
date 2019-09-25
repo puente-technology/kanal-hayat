@@ -186,5 +186,18 @@ episodes:
       title: 'SUHBETEN KELAME - PIRSA ÎSA MESÎH! GELO EW KÎ YE? [13]'
       url: 'https://youtu.be/Ki6uAQoMUK8'
       viewCount: '275'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT26M23S
+      id: BQdetn15I9A
+      imageURL: 'https://i.ytimg.com/vi/BQdetn15I9A/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-04-18T11:08:01.000Z'
+      tags: pırsa
+      title: 'SUHBETEN KELAME - PIRSA TÊMA ŞEMÎYÊ [14]'
+      url: 'https://youtu.be/BQdetn15I9A'
+      viewCount: '89'
 ---
 
