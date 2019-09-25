@@ -95,5 +95,18 @@ episodes:
       title: 'SUHBETEN KELAME - ARMANCA HATINA ÎSA MESÎH YA LI SER DINYAYÊ [06]'
       url: 'https://youtu.be/qHrY1cFvTfQ'
       viewCount: '144'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT27M45S
+      id: zsF_xU8tngk
+      imageURL: 'https://i.ytimg.com/vi/zsF_xU8tngk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-04T05:49:51.000Z'
+      tags: ceribandiya
+      title: 'SUHBETEN KELAME - CERIBANDINA ÎSA MESÎH [07]'
+      url: 'https://youtu.be/zsF_xU8tngk'
+      viewCount: '81'
 ---
 
