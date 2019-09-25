@@ -279,5 +279,18 @@ episodes:
         [20]
       url: 'https://youtu.be/nrx2PYSURjo'
       viewCount: '132'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: SUHBETEN KELAME -
+      duration: PT27M29S
+      id: SRWPvXs19Og
+      imageURL: 'https://i.ytimg.com/vi/SRWPvXs19Og/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-10-18T12:17:04.000Z'
+      tags: temiya
+      title: 'SUHBETEN KELAME - TEMÎYA ÎSA MESÎH NI BO MILETAN [21]'
+      url: 'https://youtu.be/SRWPvXs19Og'
+      viewCount: '232'
 ---
 
