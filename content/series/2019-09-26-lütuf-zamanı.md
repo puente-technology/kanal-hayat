@@ -635,5 +635,30 @@ episodes:
       title: 26. Bölüm  Şifa
       url: 'https://youtu.be/8Munrkr132o'
       viewCount: '112'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+        Hayat ekranlarından veya 
+
+        youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT15M54S
+      id: l5H2mChgFzc
+      imageURL: 'https://i.ytimg.com/vi/l5H2mChgFzc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-26T09:20:34.000Z'
+      tags: Minnet
+      title: 27. Bölüm Minnet ve Mutluluk
+      url: 'https://youtu.be/l5H2mChgFzc'
+      viewCount: '117'
 ---
 
