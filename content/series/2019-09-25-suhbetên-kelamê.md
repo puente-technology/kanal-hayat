@@ -52,5 +52,18 @@ episodes:
       title: 'BEŞA 3: BIRAKUJÎYA YEKEM: “HABÎL Û QAYÎN”'
       url: 'https://youtu.be/1lGfRakyyik'
       viewCount: '306'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: 'SUHBETÊN KELAMÊ - BEŞA 2: ADEM Û HEWA “DESPÊKA GUNEHÊ”'
+      duration: PT23M28S
+      id: Ier7d13Ew7Y
+      imageURL: 'https://i.ytimg.com/vi/Ier7d13Ew7Y/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-25T12:47:50.000Z'
+      tags: beşa 4
+      title: 'SUHBETÊN KELAMÊ - BEŞA 4: NUH PÊXEMBER “ TOFANA NUH”'
+      url: 'https://youtu.be/Ier7d13Ew7Y'
+      viewCount: '398'
 ---
 
