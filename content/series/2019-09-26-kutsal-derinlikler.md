@@ -115,5 +115,36 @@ episodes:
       title: 1 YUHANNA VE -2 & 3 YUHANNA - IŞIK ABLA ILE KUTSAL DERINLIKLER- 12
       url: 'https://youtu.be/lMwzqzC35-A'
       viewCount: '102'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Ne zaman acı çekersek bizi yardımcı olacak bir Tanrı var! Sıkıntı
+        çekerken nasıl yaşamamız gerektiğini öğrenebilirsiniz!
+      duration: PT28M31S
+      id: ICRvbuvO_58
+      imageURL: 'https://i.ytimg.com/vi/ICRvbuvO_58/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-08-03T18:00:02.000Z'
+      tags: 'IŞIK ABLA,KUTSAL DERINLIKLER'
+      title: 1 PETRUS VE 2 PETRUS- - IŞIK ABLA ILE KUTSAL DERINLIKLER- 11
+      url: 'https://youtu.be/ICRvbuvO_58'
+      viewCount: '122'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        İsa Mesih, meleklerden, peygamberlerden, gelmiş gelecek herkesten
+        üstündür. İbranier kitabı İsa Mesih'i, kurtuluşun kaynağı ve Yüce
+        Başkahin olarak tarif eden bir övgü kitabıdır.
+      duration: PT28M31S
+      id: yH_FliuGYT4
+      imageURL: 'https://i.ytimg.com/vi/yH_FliuGYT4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-08-02T18:00:03.000Z'
+      tags: 'IŞIK ABLA,KUTSAL DERINLIKLER'
+      title: İBRANILER- IŞIK ABLA ILE KUTSAL DERINLIKLER- 10
+      url: 'https://youtu.be/yH_FliuGYT4'
+      viewCount: '133'
 ---
 
