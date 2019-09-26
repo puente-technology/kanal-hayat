@@ -283,5 +283,59 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=PqJNOIA0rVI&list=PL1D41649BBC232911&index=9&t=0s
       viewCount: '2508'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M31S
+      id: EG2OnxUEMAE
+      imageURL: 'https://i.ytimg.com/vi/EG2OnxUEMAE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-01-03T15:09:02.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 11.Bölüm - Reddedilme Bağından Özgür Olmak
+      url: >-
+        https://www.youtube.com/watch?v=EG2OnxUEMAE&list=PL1D41649BBC232911&index=10&t=0s
+      viewCount: '1254'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M31S
+      id: uB0gLuMcwTk
+      imageURL: 'https://i.ytimg.com/vi/uB0gLuMcwTk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-01-04T08:19:07.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 12. Bölüm - Tanrı'nın Sadakati Üzerine Düşünmek
+      url: >-
+        https://www.youtube.com/watch?v=uB0gLuMcwTk&list=PL1D41649BBC232911&index=11&t=0s
+      viewCount: '1154'
 ---
 
