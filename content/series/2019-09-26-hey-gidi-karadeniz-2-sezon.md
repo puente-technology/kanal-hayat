@@ -151,14 +151,27 @@ episodes:
     season: '2'
     youtubeURL:
       description: Açıklama
-      duration: PT29M43S
-      id: qh-7OS-ht3I
-      imageURL: 'https://i.ytimg.com/vi/qh-7OS-ht3I/hqdefault.jpg'
+      duration: PT28M44S
+      id: UcHMKGCuTl4
+      imageURL: 'https://i.ytimg.com/vi/UcHMKGCuTl4/hqdefault.jpg'
       mediaType: video
-      publishedAt: '2015-07-30T16:09:20.000Z'
-      tags: onarılma
-      title: 42. Bölüm Onarılma
-      url: 'https://youtu.be/qh-7OS-ht3I'
-      viewCount: '50'
+      publishedAt: '2015-07-31T07:02:40.000Z'
+      tags: beden alma
+      title: 43. Bölüm Beden Alma
+      url: 'https://youtu.be/UcHMKGCuTl4'
+      viewCount: '54'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M10S
+      id: rFJlHJTKNu8
+      imageURL: 'https://i.ytimg.com/vi/rFJlHJTKNu8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-31T07:03:09.000Z'
+      tags: Evlilik
+      title: 44. Bölüm Tanrı'nın Gözünde Evlilik
+      url: 'https://youtu.be/rFJlHJTKNu8'
+      viewCount: '61'
 ---
 
