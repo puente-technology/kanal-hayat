@@ -588,5 +588,18 @@ episodes:
       title: 28. Bölüm Yalanı Yenin!
       url: 'https://youtu.be/VHaoWnTv8HA'
       viewCount: '103'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M16S
+      id: MM5C59Y7bgo
+      imageURL: 'https://i.ytimg.com/vi/MM5C59Y7bgo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-24T08:31:49.000Z'
+      tags: açgöz
+      title: 29. Bölüm Açgözlülük
+      url: 'https://youtu.be/MM5C59Y7bgo'
+      viewCount: '122'
 ---
 
