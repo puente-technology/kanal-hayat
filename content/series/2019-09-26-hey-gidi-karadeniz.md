@@ -453,5 +453,27 @@ episodes:
       title: 19. Bölüm Balıkçılar
       url: 'https://youtu.be/v1rC4_uf12s'
       viewCount: '76'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+        dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+        yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+        Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+        yanıtlıyor.Sakın kaçırmayın.
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M30S
+      id: JhBA1keFLWQ
+      imageURL: 'https://i.ytimg.com/vi/JhBA1keFLWQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-02-16T13:43:40.000Z'
+      tags: anne
+      title: 20. Bölüm Anne-baba Olmak
+      url: 'https://youtu.be/JhBA1keFLWQ'
+      viewCount: '68'
 ---
 
