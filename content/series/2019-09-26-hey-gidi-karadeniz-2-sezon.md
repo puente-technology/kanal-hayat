@@ -173,5 +173,31 @@ episodes:
       title: 44. Bölüm Tanrı'nın Gözünde Evlilik
       url: 'https://youtu.be/rFJlHJTKNu8'
       viewCount: '61'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M14S
+      id: PUg8UYlsaNQ
+      imageURL: 'https://i.ytimg.com/vi/PUg8UYlsaNQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-31T07:03:36.000Z'
+      tags: Geçişi
+      title: 45. Bölüm İsa’nın Yerimize Geçişi
+      url: 'https://youtu.be/PUg8UYlsaNQ'
+      viewCount: '67'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M31S
+      id: Xb3JRHbx_-g
+      imageURL: 'https://i.ytimg.com/vi/Xb3JRHbx_-g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-31T07:03:56.000Z'
+      tags: İbadet
+      title: 46. Bölüm İbadet
+      url: 'https://youtu.be/Xb3JRHbx_-g'
+      viewCount: '173'
 ---
 
