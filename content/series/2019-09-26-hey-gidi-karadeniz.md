@@ -497,5 +497,18 @@ episodes:
       title: 21. Bölüm Başka İlahların Olmayacak
       url: 'https://youtu.be/Xqu1fHcyzhI'
       viewCount: '80'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M6S
+      id: jvcp7qAnItU
+      imageURL: 'https://i.ytimg.com/vi/jvcp7qAnItU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-23T09:13:07.000Z'
+      tags: 'karadeniz,hemşin,laz,isa mesih'
+      title: 22. Bölüm Tanrı’nın Adını Boş yere Anma!
+      url: 'https://youtu.be/jvcp7qAnItU'
+      viewCount: '52'
 ---
 
