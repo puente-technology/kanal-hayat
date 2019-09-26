@@ -346,5 +346,86 @@ episodes:
       title: Kilisenin Doğuşu -  Pavlus Yargılanır 12.Bölüm
       url: 'https://youtu.be/kMnwW5nPL84'
       viewCount: '368'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        13- Roma Seyahati
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
+        Doğuşu" programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat.tv
+
+        https://twitter.com/kanalhayat
+      duration: PT26M49S
+      id: rgFR2t91mIQ
+      imageURL: 'https://i.ytimg.com/vi/rgFR2t91mIQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-25T13:17:48.000Z'
+      tags: '#kutsal,#kilisenin,#doğuşu,#kilise,#nedir?,#pavlus,#roma,#seyahati'
+      title: Kilisenin Doğuşu - Roma Seyahati 13.Bölüm
+      url: 'https://youtu.be/rgFR2t91mIQ'
+      viewCount: '274'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        14. Kilisenin İlk Üç Yüzyılı
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
+        Doğuşu" programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat.tv
+
+        https://twitter.com/kanalhayat
+      duration: PT28M43S
+      id: 9BRBA0qSlp8
+      imageURL: 'https://i.ytimg.com/vi/9BRBA0qSlp8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-25T13:18:06.000Z'
+      tags: '#kutsal,#kilisenin,#doğuşu,#kilise,#nedir?,Kilisenin,İlk,Üç,Yüzyılı'
+      title: Kilisenin Doğuşu - Kilisenin İlk Üç Yüzyılı 14.Bölüm
+      url: 'https://youtu.be/9BRBA0qSlp8'
+      viewCount: '499'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        14. Kilisenin İlk Üç Yüzyılı
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
+        Doğuşu" programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat.tv
+
+        https://twitter.com/kanalhayat
+      duration: PT28M36S
+      id: FhTDwm1iv44
+      imageURL: 'https://i.ytimg.com/vi/FhTDwm1iv44/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-25T13:18:27.000Z'
+      tags: '#kutsal,#kilisenin,#doğuşu,#kilise,#nedir?,Kilise,Tarihinin,Devamı'
+      title: Kilisenin Doğuşu - Kilise Tarihinin Devamı 15.Bölüm
+      url: 'https://youtu.be/FhTDwm1iv44'
+      viewCount: '498'
 ---
 
