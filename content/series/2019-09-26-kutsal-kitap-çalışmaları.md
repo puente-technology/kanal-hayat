@@ -256,5 +256,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=3juPGPSVdPM&list=PL1D41649BBC232911&index=8&t=0s
       viewCount: '1068'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M31S
+      id: PqJNOIA0rVI
+      imageURL: 'https://i.ytimg.com/vi/PqJNOIA0rVI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-27T07:53:50.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 10.Bölüm - Tanrı kimleri kullanır?
+      url: >-
+        https://www.youtube.com/watch?v=PqJNOIA0rVI&list=PL1D41649BBC232911&index=9&t=0s
+      viewCount: '2508'
 ---
 
