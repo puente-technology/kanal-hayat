@@ -121,5 +121,18 @@ episodes:
       title: 40. Bölüm  Kutsal Ruh
       url: 'https://youtu.be/ks_3ogvLsh0'
       viewCount: '211'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT30M7S
+      id: KaZf1sloxrc
+      imageURL: 'https://i.ytimg.com/vi/KaZf1sloxrc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-30T16:09:13.000Z'
+      tags: yoksulluk
+      title: 41. Bölüm Yoksulluk
+      url: 'https://youtu.be/KaZf1sloxrc'
+      viewCount: '74'
 ---
 
