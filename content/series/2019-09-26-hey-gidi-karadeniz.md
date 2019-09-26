@@ -339,5 +339,28 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=NEyNmHp8g6E&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=15&t=0s
       viewCount: '73'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+        dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+        yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+        Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+        yanıtlıyor.Sakın kaçırmayın.
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT27M41S
+      id: R8FwPgM4siA
+      imageURL: 'https://i.ytimg.com/vi/R8FwPgM4siA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-02-13T07:21:00.000Z'
+      tags: '#isa,Neden,Dünyaya,Geldi?'
+      title: 15. Bölüm İsa Neden Dünyaya Geldi?
+      url: >-
+        https://www.youtube.com/watch?v=R8FwPgM4siA&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=16&t=0s
+      viewCount: '518'
 ---
 
