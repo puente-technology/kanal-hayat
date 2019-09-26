@@ -178,5 +178,28 @@ episodes:
       title: 7. Bölüm Günahkarları Seven Tanrı
       url: 'https://youtu.be/VM-Cpw2HKfE'
       viewCount: '285'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+        dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+        yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+        Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+        yanıtlıyor.Sakın kaçırmayın.
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT27M35S
+      id: r3ziPlNoXYg
+      imageURL: 'https://i.ytimg.com/vi/r3ziPlNoXYg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-11-14T09:14:23.000Z'
+      tags: '#yeniden,#doğmak,Gerek'
+      title: 8. Bölüm Yeniden Doğmak Gerek
+      url: >-
+        https://www.youtube.com/watch?v=r3ziPlNoXYg&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=9&t=0s
+      viewCount: '344'
 ---
 
