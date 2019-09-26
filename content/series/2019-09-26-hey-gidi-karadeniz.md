@@ -627,5 +627,18 @@ episodes:
       title: 31. Bölüm Tembellik ve Çalışkanlık
       url: 'https://youtu.be/HBnLJWpwFsc'
       viewCount: '1524'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M1S
+      id: gz1KeX46ouo
+      imageURL: 'https://i.ytimg.com/vi/gz1KeX46ouo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-24T11:37:53.000Z'
+      tags: neden
+      title: 32. Bölüm Neden Dünyada Kötülük Var?
+      url: 'https://youtu.be/gz1KeX46ouo'
+      viewCount: '291'
 ---
 
