@@ -238,5 +238,32 @@ episodes:
       title: Kilisenin Doğuşu - Kilise Konseyi 8.Bölüm
       url: 'https://youtu.be/OxE4mO5gMuE'
       viewCount: '445'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        9- 2.Müjde Seyahati
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
+        Doğuşu" programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat.tv
+
+        https://twitter.com/kanalhayat
+      duration: PT27M55S
+      id: Y-vObbtyJhg
+      imageURL: 'https://i.ytimg.com/vi/Y-vObbtyJhg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T07:28:33.000Z'
+      tags: '#kutsal,#kilisenin,#doğuşu,#kilise,#nedir?,#müjde,#seyahati'
+      title: Kilisenin Doğuşu - 2.Müjde Seyahati 9.Bölüm
+      url: 'https://youtu.be/Y-vObbtyJhg'
+      viewCount: '331'
 ---
 
