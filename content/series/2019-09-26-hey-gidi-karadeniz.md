@@ -475,5 +475,27 @@ episodes:
       title: 20. Bölüm Anne-baba Olmak
       url: 'https://youtu.be/JhBA1keFLWQ'
       viewCount: '68'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+        dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+        yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+        Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+        yanıtlıyor.Sakın kaçırmayın.
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M3S
+      id: Xqu1fHcyzhI
+      imageURL: 'https://i.ytimg.com/vi/Xqu1fHcyzhI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-20T07:28:03.000Z'
+      tags: ılah
+      title: 21. Bölüm Başka İlahların Olmayacak
+      url: 'https://youtu.be/Xqu1fHcyzhI'
+      viewCount: '80'
 ---
 
