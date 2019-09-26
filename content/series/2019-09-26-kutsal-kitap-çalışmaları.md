@@ -604,5 +604,67 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=jC87il77aog&list=PL1D41649BBC232911&index=20&t=0s
       viewCount: '748'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M39S
+      id: gXc9Iu9BLTw
+      imageURL: 'https://i.ytimg.com/vi/gXc9Iu9BLTw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-06-07T06:48:41.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 22. Bölüm - Hayat Değiştiren Dua
+      url: >-
+        https://www.youtube.com/watch?v=gXc9Iu9BLTw&list=PL1D41649BBC232911&index=21&t=0s
+      viewCount: '2453'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: w0TNLojWDH0
+      imageURL: 'https://i.ytimg.com/vi/w0TNLojWDH0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-06-07T06:49:54.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 23. Bölüm - Zor Zamanlarda Güçlü Olabilmek
+      url: >-
+        https://www.youtube.com/watch?v=w0TNLojWDH0&list=PL1D41649BBC232911&index=22&t=0s
+      viewCount: '1752'
 ---
 
