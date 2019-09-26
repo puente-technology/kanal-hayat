@@ -43,5 +43,18 @@ episodes:
       title: 34. Bölüm Tanri’nın Egemenliği
       url: 'https://youtu.be/Luyrsm54Sfk'
       viewCount: '70'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M
+      id: Ra3-GM6D9QM
+      imageURL: 'https://i.ytimg.com/vi/Ra3-GM6D9QM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-28T07:26:46.000Z'
+      tags: çalışma
+      title: 35. Bölüm Çalışma
+      url: 'https://youtu.be/Ra3-GM6D9QM'
+      viewCount: '52'
 ---
 
