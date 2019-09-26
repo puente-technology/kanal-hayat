@@ -510,5 +510,18 @@ episodes:
       title: 22. Bölüm Tanrı’nın Adını Boş yere Anma!
       url: 'https://youtu.be/jvcp7qAnItU'
       viewCount: '52'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M15S
+      id: 2sl3LEor_Cw
+      imageURL: 'https://i.ytimg.com/vi/2sl3LEor_Cw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-23T09:37:15.000Z'
+      tags: baba
+      title: 23. Bölüm Ana-babana Saygı Göster!
+      url: 'https://youtu.be/2sl3LEor_Cw'
+      viewCount: '25'
 ---
 
