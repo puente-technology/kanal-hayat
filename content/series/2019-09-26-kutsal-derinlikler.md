@@ -245,5 +245,118 @@ episodes:
       title: GALATYALILAR VE EFESLILER -IŞIK ABLA ILE KUTSAL DERINLIKLER- 05
       url: 'https://youtu.be/mVNyDU7enYE'
       viewCount: '490'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Sevgi sabırlıdır, sevgi şefkatlidir. Sevgi kıskanmaz, övünmez,
+        böbürlenmez. Sevgi kaba davranmaz, kendi çıkarını aramaz, kolay kolay
+        öfkelenmez, kötülüğün hesabını tutmaz. Sevgi haksızlığa sevinmez, gerçek
+        olanla sevinir. Sevgi her şeye katlanır, her şeye inanır, her şeyi umut
+        eder, her şeye dayanır.
+         Sevgi asla son bulmaz.”
+
+        Bu sözler belki de Kutsal Kitap’tan en çok alıntı yapılan ayetlerdir. 
+
+        Bu sözler Tanrı’nın sevgisinin en güzel tarifidir ve sevgi ile ilgili
+        bize çok şey öğretir.
+      duration: PT28M31S
+      id: S-oRy1N80Bc
+      imageURL: 'https://i.ytimg.com/vi/S-oRy1N80Bc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-02-16T19:00:02.000Z'
+      tags: dua
+      title: 1 KORINTLILER VE 2 KORINTLILER- IŞIK ABLA ILE KUTSAL DERINLIKLER- 04
+      url: 'https://youtu.be/S-oRy1N80Bc'
+      viewCount: '432'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        “Ama Kutsal Ruh üzerinize inince güç alacaksınız. Yeruşalim’de, bütün
+        Yahudiye ve Samiriye’de ve dünyanın dört bucağında benim tanıklarım
+        olacaksınız.” 
+
+        Kutsal Kitap’ta mucizeler, Tanrı’nın etkinliğiyle ve Kutsal Ruh’un
+        gücüyle dolu bir kitap var. 
+
+        İsa’yı ilk izleyen kişiler bunların hepsini deneyim ettiler. 
+
+        Kutsal Ruh’un gücü insanların üzerine indiğinde, tüm dünyada İsa
+        Mesih’in tanıkları oldular. 
+
+
+        Bu kitap “Elçilerin İşleri” kitabıdır ama aslında “Kutsal Ruh’un İşleri”
+        olarak adlandırılmalıdır.
+
+
+        “Tanrı ise bizi sevdiğini şununla kanıtlıyor: Biz daha günahkârken,
+        Mesih bizim için öldü.” 
+
+        Tüm Kutsal Kitap’taki en büyük konu Tanrı’nın günahkarları kurtarma
+        amacı ve tasarısıdır. Bu tasarıyı en iyi anlatan metin Romalılar
+        mektubudur.
+
+        Bu mektupta adalet, sevgi, aklanma ve kurtuluş anlatılır. Günahın ne
+        olduğu, İsa Mesih’in ne uğruna öldüğü, Tanrı’nın önünde nasıl “doğru”
+        bir insan sayıldığımız tüm gerçekleriyle gözlerimizin önüne serilir.
+      duration: PT28M31S
+      id: JpSr3eY3tDE
+      imageURL: 'https://i.ytimg.com/vi/JpSr3eY3tDE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-02-15T19:00:01.000Z'
+      tags: elçi
+      title: ELÇİLERİN İŞLERİ VE ROMALILAR -IŞIK ABLA ILE KUTSAL DERINLIKLER-03
+      url: 'https://youtu.be/JpSr3eY3tDE'
+      viewCount: '563'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: "Luka bir tarih yazarı ve hekim olarak İsa Mesih'in hayatını araştırır. İsa Mesih’in yaşamı ile ilgili tarihlerin ve olayların kaydını sunar; daha sonra bunları detaylı bir şekilde bize iletir. Luka'nın müjdesini yakından incelemediğimizde Tanrı’nın insanlık için sahip olduğu yüreğini\_göreceğiz.\n\n“Ben iyi çobanım”, “Yol, Gerçek ve Yaşam Ben’im”, “Ben dünyanın ışığıyım” ve “Diriliş ve Yaşam Ben’im”\nBu sözler İsa Mesih’in Yuhanna müjdesinde kendisi için kullanmış olduğu sözlerdir. Bu kitabı benzersiz kılan pek çok nokta vardır. Bugün Yuhanna Müjdesi’ni inceleyeceğiz."
+      duration: PT28M31S
+      id: wC9VC2r4ttk
+      imageURL: 'https://i.ytimg.com/vi/wC9VC2r4ttk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-02-14T18:30:02.000Z'
+      tags: 'MARKOS,KUTSAL DERINLIKLER,IŞIK ABLA'
+      title: LUKA VE YUHANNA- IŞIK ABLA ILE KUTSAL DERINLIKLER- 02
+      url: 'https://youtu.be/wC9VC2r4ttk'
+      viewCount: '1081'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        “Ne mutlu ruhta yoksul olanlara! 
+
+        Çünkü Göklerin Egemenliği onlarındır. 
+
+        Ne mutlu yaslı olanlara! Çünkü onlar teselli edilecekler. 
+
+        Ne mutlu yumuşak huylu olanlara! 
+
+        Çünkü onlar yeryüzünü miras alacaklar. 
+
+        Ne mutlu doğruluğa acıkıp susayanlara! 
+
+        Çünkü onlar doyurulacaklar.”
+          
+        Bu sözler Matta müjdesinde yer alır ve İsa Mesih’in insanlığa açık
+        davetini ifade eder. Matta üzerinde durmamız gereken daha pek çok konu
+        ile doludur. 
+
+
+        “Tanrı’nın Oğlu İsa Mesih’le ilgili Müjde’nin başlangıcı.” Markos’un
+        müjde kitabı bu sözlerle başlar. Bu kitap sevinç, elem, iman ve dahası
+        İsa Mesih’in sözleri bulunmaktadır. Bugün Markos’a göre müjde kitabını
+        inceleyeceğiz.
+      duration: PT28M30S
+      id: om4BodCV-Fk
+      imageURL: 'https://i.ytimg.com/vi/om4BodCV-Fk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-02-13T19:56:55.000Z'
+      tags: 'KUTSAL DERINLIKLER,MATTA'
+      title: MATTA VE MARKOS- IŞIK ABLA ILE KUTSAL DERINLIKLER-01
+      url: 'https://youtu.be/om4BodCV-Fk'
+      viewCount: '1079'
 ---
 
