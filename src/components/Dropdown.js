@@ -13,7 +13,8 @@ class Dropdown extends Component {
     list: PropTypes.array,
     handleLanguageChange: PropTypes.any,
     handleTargetChange: PropTypes.any,
-
+    handleSeasonChange: PropTypes.any,
+    style: PropTypes.any,
   };
 
   static defaultProps = {
@@ -62,14 +63,15 @@ class Dropdown extends Component {
   };
 
   chooseItem = (value) => {
-    const { handleLanguageChange, handleTargetChange } = this.props
+    const { handleLanguageChange, handleTargetChange, handleSeasonChange } = this.props
     const { labelItem } = this.state
     if (labelItem !== value) {
       if (handleLanguageChange) {
         handleLanguageChange(value)
-      }
-      if (handleTargetChange) {
+      } else if (handleTargetChange) {
         handleTargetChange(value)
+      } else if (handleSeasonChange) {
+        handleSeasonChange(value)
       }
       this.setState({
         labelItem: value,
@@ -94,11 +96,11 @@ class Dropdown extends Component {
   };
 
   render() {
-    const { list } = this.props;
+    const { list, style } = this.props;
     const { isOpen, labelItem } = this.state
     return (
       <div className={`dropdown ${isOpen ? 'open' : ''}`}>
-        <button className="dropdown-toggle" type="button" onClick={this.showDropdown}>
+        <button style={style} className="dropdown-toggle" type="button" onClick={this.showDropdown}>
           {labelItem}
         </button>
         <ul className="dropdown-menu">

@@ -45,7 +45,7 @@
 
 .TextInfoEpisodeBtns {
   display: flex;
-  margin-top: 40px;
+  margin-top: 30px;
 }
 
 .TextInfoButton {
@@ -89,4 +89,14 @@
       margin-bottom: 20px;
     }
   }
+}
+
+.TextInfoAndSeason {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.seasonButton {
+  margin-left: 14px
 }
