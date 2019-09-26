@@ -42,5 +42,54 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=jL41nUT_4NI&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=2&t=0s
       viewCount: '1856'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+        dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+        yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+        Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+        yanıtlıyor.Sakın kaçırmayın.
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M18S
+      id: 4kfKy5czeBI
+      imageURL: 'https://i.ytimg.com/vi/4kfKy5czeBI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-09-11T08:29:59.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,İhsan Özbek,Religion (TV
+        Genre)
+      title: 2. Bölüm  Tanrı Beni Duymuyor mu?
+      url: >-
+        https://www.youtube.com/watch?v=4kfKy5czeBI&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=3&t=0s
+      viewCount: '1142'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+        dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+        yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+        Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+        yanıtlıyor.Sakın kaçırmayın.
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT27M
+      id: LzRtWHnkYv8
+      imageURL: 'https://i.ytimg.com/vi/LzRtWHnkYv8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-10-28T13:07:54.000Z'
+      tags: '#kanser'
+      title: 3. Bölüm Kanser
+      url: >-
+        https://www.youtube.com/watch?v=LzRtWHnkYv8&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=4&t=0s
+      viewCount: '249'
 ---
 
