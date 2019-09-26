@@ -337,5 +337,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=uB0gLuMcwTk&list=PL1D41649BBC232911&index=11&t=0s
       viewCount: '1154'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M31S
+      id: _u408hZsoVY
+      imageURL: 'https://i.ytimg.com/vi/_u408hZsoVY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-01-04T08:43:48.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 13. Bölüm - Güvenilir Rehberimiz
+      url: >-
+        https://www.youtube.com/watch?v=_u408hZsoVY&list=PL1D41649BBC232911&index=12&t=0s
+      viewCount: '908'
 ---
 
