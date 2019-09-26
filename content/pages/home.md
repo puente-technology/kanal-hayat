@@ -3,6 +3,11 @@ template: HomePage
 slug: ''
 title: Main Slider
 gallery:
+  - align: right
+    alt: Can Nuroglu
+    color: light
+    image: /images/uploads/dsc01008.jpg
+    title: Hristiyan Ahlakı
   - align: left
     alt: Hakan Taştan ile
     color: light
@@ -13,14 +18,9 @@ gallery:
     color: light
     image: /images/uploads/_dsc1607.jpg
     title: 'Hristiyan Şeriatı '
-  - align: right
-    alt: Can Nuroglu
-    color: light
-    image: /images/uploads/dsc01008.jpg
-    title: Hristiyan Ahlakı
 program1:
   align: left
-  bgImage: /images/uploads/meyerrr.jpg
+  bgImage: /images/uploads/joyce-meyer.jpg
   color: light
   content: |-
     Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından
