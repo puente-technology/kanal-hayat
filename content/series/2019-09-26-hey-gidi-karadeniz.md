@@ -408,5 +408,28 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=QNaKkBLxJMU&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=18&t=0s
       viewCount: '135'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+        dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+        yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+        Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+        yanıtlıyor.Sakın kaçırmayın.
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT27M42S
+      id: e7Ckg6FNf8Y
+      imageURL: 'https://i.ytimg.com/vi/e7Ckg6FNf8Y/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-02-16T13:43:10.000Z'
+      tags: 'Tanrı’yı,Nasıl,Tanıyabiliriz?'
+      title: 18. Bölüm Tanrı’yı Nasıl Tanıyabiliriz?
+      url: >-
+        https://www.youtube.com/watch?v=e7Ckg6FNf8Y&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=19&t=0s
+      viewCount: '234'
 ---
 
