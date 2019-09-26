@@ -549,5 +549,18 @@ episodes:
       title: 25. Bölüm Bir İnsanı Öldürmek!
       url: 'https://youtu.be/TrbOi9wW48w'
       viewCount: '78'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT30M26S
+      id: TyhFBR1COH4
+      imageURL: 'https://i.ytimg.com/vi/TyhFBR1COH4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-23T11:26:33.000Z'
+      tags: zina
+      title: 26. Bölüm Zina Etmek Normal mi?
+      url: 'https://youtu.be/TyhFBR1COH4'
+      viewCount: '183'
 ---
 
