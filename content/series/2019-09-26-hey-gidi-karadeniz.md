@@ -385,5 +385,28 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=PBkgzAvI-b4&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=17&t=0s
       viewCount: '135'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+        dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+        yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+        Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+        yanıtlıyor.Sakın kaçırmayın.
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M17S
+      id: QNaKkBLxJMU
+      imageURL: 'https://i.ytimg.com/vi/QNaKkBLxJMU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-02-16T13:17:34.000Z'
+      tags: '#ölüm,ve,Yaşam'
+      title: 17. Bölüm Ölüm ve Yaşam
+      url: >-
+        https://www.youtube.com/watch?v=QNaKkBLxJMU&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=18&t=0s
+      viewCount: '135'
 ---
 
