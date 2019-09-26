@@ -290,5 +290,31 @@ episodes:
       title: 54. Bölüm Kadının Toplumsal Hayatı
       url: 'https://youtu.be/4yhW4SO4nFg'
       viewCount: '40'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M50S
+      id: rqM2N_Zl6js
+      imageURL: 'https://i.ytimg.com/vi/rqM2N_Zl6js/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T13:44:42.000Z'
+      tags: Önderlik
+      title: 55. Bölüm Önderlik
+      url: 'https://youtu.be/rqM2N_Zl6js'
+      viewCount: '50'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M2S
+      id: sfxY5veE_Es
+      imageURL: 'https://i.ytimg.com/vi/sfxY5veE_Es/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T14:03:23.000Z'
+      tags: Yaşlılık
+      title: 56. Bölüm Yaşlılık
+      url: 'https://youtu.be/sfxY5veE_Es'
+      viewCount: '28'
 ---
 
