@@ -480,5 +480,67 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=LtX4vLwlN_8&list=PL1D41649BBC232911&index=16&t=0s
       viewCount: '820'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M32S
+      id: husqNbWG4as
+      imageURL: 'https://i.ytimg.com/vi/husqNbWG4as/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-13T13:36:59.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 18. Bölüm - Görünen Merhamet - 1
+      url: >-
+        https://www.youtube.com/watch?v=husqNbWG4as&list=PL1D41649BBC232911&index=17&t=0s
+      viewCount: '805'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M44S
+      id: oLfxrdCmpzo
+      imageURL: 'https://i.ytimg.com/vi/oLfxrdCmpzo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-13T13:45:13.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 19. Bölüm - Görünen Merhamet - 2
+      url: >-
+        https://www.youtube.com/watch?v=oLfxrdCmpzo&list=PL1D41649BBC232911&index=18&t=0s
+      viewCount: '557'
 ---
 
