@@ -614,5 +614,18 @@ episodes:
       title: 30. Bölüm Kumar
       url: 'https://youtu.be/3asV2Vly7BA'
       viewCount: '87'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M35S
+      id: HBnLJWpwFsc
+      imageURL: 'https://i.ytimg.com/vi/HBnLJWpwFsc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-24T10:41:26.000Z'
+      tags: tembellik
+      title: 31. Bölüm Tembellik ve Çalışkanlık
+      url: 'https://youtu.be/HBnLJWpwFsc'
+      viewCount: '1524'
 ---
 
