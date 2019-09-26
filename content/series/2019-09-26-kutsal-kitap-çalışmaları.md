@@ -364,5 +364,59 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=_u408hZsoVY&list=PL1D41649BBC232911&index=12&t=0s
       viewCount: '908'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M36S
+      id: Scyb0EcpLds
+      imageURL: 'https://i.ytimg.com/vi/Scyb0EcpLds/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-01-04T10:31:15.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 14. Bölüm - Tanrı'nın Gerçek Tövbe Çağrısı
+      url: >-
+        https://www.youtube.com/watch?v=Scyb0EcpLds&list=PL1D41649BBC232911&index=13&t=0s
+      viewCount: '1347'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M30S
+      id: DzHV6oBe7x8
+      imageURL: 'https://i.ytimg.com/vi/DzHV6oBe7x8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-01-04T10:56:51.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 15. Bölüm - Tanrı Sessiz Kaldığında
+      url: >-
+        https://www.youtube.com/watch?v=DzHV6oBe7x8&list=PL1D41649BBC232911&index=14&t=0s
+      viewCount: '1451'
 ---
 
