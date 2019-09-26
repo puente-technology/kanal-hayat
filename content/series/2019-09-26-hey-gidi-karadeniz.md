@@ -575,5 +575,18 @@ episodes:
       title: 27. Bölüm En Değerli Hazine
       url: 'https://youtu.be/j7yhrJj7a2Y'
       viewCount: '62'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M4S
+      id: VHaoWnTv8HA
+      imageURL: 'https://i.ytimg.com/vi/VHaoWnTv8HA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-24T08:31:36.000Z'
+      tags: yalan
+      title: 28. Bölüm Yalanı Yenin!
+      url: 'https://youtu.be/VHaoWnTv8HA'
+      viewCount: '103'
 ---
 
