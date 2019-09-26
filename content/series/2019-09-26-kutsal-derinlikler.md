@@ -65,5 +65,21 @@ episodes:
       title: 1.TANRI'NIN BABA SEVGİSİ- ÖĞRENCİ OLMAK- 15
       url: 'https://youtu.be/w0C6RIjC-5c'
       viewCount: '151'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        İsa Mesih geliyor! Vahiy kitabı son günlerle gerçekleşmesi gereken
+        olayların yanı sıra, İsa Mesih'in gelini olan kilisesi ile buluşmasını
+        hatırlatan bir sevinç kitabıdır.
+      duration: PT28M30S
+      id: rHlL-ogrpzY
+      imageURL: 'https://i.ytimg.com/vi/rHlL-ogrpzY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-08-08T14:00:05.000Z'
+      tags: 'IŞIK ABLA,KUTSAL DERINLIKLER'
+      title: VAHIY- IŞIK ABLA ILE KUTSAL DERINLIKLER- 14
+      url: 'https://youtu.be/rHlL-ogrpzY'
+      viewCount: '168'
 ---
 
