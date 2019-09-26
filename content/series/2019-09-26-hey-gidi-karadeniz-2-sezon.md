@@ -199,5 +199,57 @@ episodes:
       title: 46. Bölüm İbadet
       url: 'https://youtu.be/Xb3JRHbx_-g'
       viewCount: '173'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT30M5S
+      id: X1Q71Ma5_jw
+      imageURL: 'https://i.ytimg.com/vi/X1Q71Ma5_jw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-31T07:04:19.000Z'
+      tags: Sürgün
+      title: 47. Bölüm Sürgün
+      url: 'https://youtu.be/X1Q71Ma5_jw'
+      viewCount: '180'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M5S
+      id: STakB9ELQTc
+      imageURL: 'https://i.ytimg.com/vi/STakB9ELQTc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-31T07:04:43.000Z'
+      tags: Antlaşma
+      title: 48. Bölüm Antlaşma
+      url: 'https://youtu.be/STakB9ELQTc'
+      viewCount: '48'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M53S
+      id: Tnm6FHtTQGQ
+      imageURL: 'https://i.ytimg.com/vi/Tnm6FHtTQGQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-31T07:05:06.000Z'
+      tags: Acı Çekme
+      title: 49. Bölüm Acı Çekme
+      url: 'https://youtu.be/Tnm6FHtTQGQ'
+      viewCount: '176'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M28S
+      id: eEwjwMUajlI
+      imageURL: 'https://i.ytimg.com/vi/eEwjwMUajlI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-31T07:05:27.000Z'
+      tags: Savaş
+      title: 50. Bölüm Ruhsal Savaş
+      url: 'https://youtu.be/eEwjwMUajlI'
+      viewCount: '272'
 ---
 
