@@ -82,5 +82,31 @@ episodes:
       title: 37. Bölüm Aile
       url: 'https://youtu.be/VQsNg9uzPHs'
       viewCount: '67'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M7S
+      id: tSBLzFqN0XU
+      imageURL: 'https://i.ytimg.com/vi/tSBLzFqN0XU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-29T08:09:12.000Z'
+      tags: kefaret
+      title: 38. Bölüm Kefaret
+      url: 'https://youtu.be/tSBLzFqN0XU'
+      viewCount: '65'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M45S
+      id: EttXD7t66Go
+      imageURL: 'https://i.ytimg.com/vi/EttXD7t66Go/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-21T11:56:58.000Z'
+      tags: kurtuluş
+      title: 39. Bölüm Kurtuluş
+      url: 'https://youtu.be/EttXD7t66Go'
+      viewCount: '55'
 ---
 
