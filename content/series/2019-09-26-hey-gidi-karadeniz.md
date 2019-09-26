@@ -362,5 +362,28 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=R8FwPgM4siA&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=16&t=0s
       viewCount: '518'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+        dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+        yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+        Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+        yanıtlıyor.Sakın kaçırmayın.
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT27M48S
+      id: PBkgzAvI-b4
+      imageURL: 'https://i.ytimg.com/vi/PBkgzAvI-b4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-02-16T13:17:22.000Z'
+      tags: '#günahtan,Kurtulmak,Mümkün,mü?'
+      title: 16.  Günahtan Kurtulmak Mümkün mü?
+      url: >-
+        https://www.youtube.com/watch?v=PBkgzAvI-b4&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=17&t=0s
+      viewCount: '135'
 ---
 
