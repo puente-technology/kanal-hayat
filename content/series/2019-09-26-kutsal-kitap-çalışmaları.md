@@ -728,5 +728,67 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=S1PJ7MRF5G0&list=PL1D41649BBC232911&index=24&t=0s
       viewCount: '508'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M2S
+      id: FIQLuH9WxdE
+      imageURL: 'https://i.ytimg.com/vi/FIQLuH9WxdE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-06-07T07:05:27.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 27. Bölüm - Tanrı'nın Para Hakkındaki Düşüncesi
+      url: >-
+        https://www.youtube.com/watch?v=FIQLuH9WxdE&list=PL1D41649BBC232911&index=25&t=0s
+      viewCount: '1345'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: 9n0mSi4nz6w
+      imageURL: 'https://i.ytimg.com/vi/9n0mSi4nz6w/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-06-07T09:21:01.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 28. Bölüm - İnanan Ebeveyn Etkisi
+      url: >-
+        https://www.youtube.com/watch?v=9n0mSi4nz6w&list=PL1D41649BBC232911&index=26&t=0s
+      viewCount: '459'
 ---
 
