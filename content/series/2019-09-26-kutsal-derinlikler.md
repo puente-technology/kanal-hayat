@@ -81,5 +81,39 @@ episodes:
       title: VAHIY- IŞIK ABLA ILE KUTSAL DERINLIKLER- 14
       url: 'https://youtu.be/rHlL-ogrpzY'
       viewCount: '168'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Yakup'un mektubunda içten imanın özellikleri ve bunun sonucu ortaya
+        çıkan iyi nitelikler ele alınmaktadır. Denenmeler ve baskılar imanı
+        geliştiren niteliklerdir.
+      duration: PT28M31S
+      id: j33e-up4JBg
+      imageURL: 'https://i.ytimg.com/vi/j33e-up4JBg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-08-06T19:00:02.000Z'
+      tags: 'IŞIK ABLA,KUTSAL DERINLIKLER'
+      title: YAKUP VE YAHUDA- IŞIK ABLA ILE KUTSAL DERINLIKLER- 13
+      url: 'https://youtu.be/j33e-up4JBg'
+      viewCount: '93'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Size gerçeği sevgiyle söyleyecek bir dosta mı ihtiyacınız var? İşte
+        Tanrı bu mektup aracılığıyla sizinle bir dost gibi konuşacak!
+
+        Bu iki mektup ilk kilisenin durumunu anlatır ve bizi sahte öğretiler
+        konusunda hassas olmaya davet
+      duration: PT28M31S
+      id: lMwzqzC35-A
+      imageURL: 'https://i.ytimg.com/vi/lMwzqzC35-A/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-08-05T18:00:03.000Z'
+      tags: 'IŞIK ABLA,KUTSAL DERINLIKLER'
+      title: 1 YUHANNA VE -2 & 3 YUHANNA - IŞIK ABLA ILE KUTSAL DERINLIKLER- 12
+      url: 'https://youtu.be/lMwzqzC35-A'
+      viewCount: '102'
 ---
 
