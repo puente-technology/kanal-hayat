@@ -121,5 +121,86 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=nR9R_xSiUQI&list=PL1D41649BBC232911&index=3&t=0s
       viewCount: '2350'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M35S
+      id: IWc0y67xvbA
+      imageURL: 'https://i.ytimg.com/vi/IWc0y67xvbA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-27T07:03:36.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 5.Bölüm - İsa'nın Birinci Görünümü
+      url: >-
+        https://www.youtube.com/watch?v=IWc0y67xvbA&list=PL1D41649BBC232911&index=4&t=0s
+      viewCount: '1705'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M34S
+      id: wOoyT3ugrtc
+      imageURL: 'https://i.ytimg.com/vi/wOoyT3ugrtc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-27T07:10:03.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 6.Bölüm - Korku Mayını
+      url: >-
+        https://www.youtube.com/watch?v=wOoyT3ugrtc&list=PL1D41649BBC232911&index=5&t=0s
+      viewCount: '2579'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M36S
+      id: rOK4-d_PhOk
+      imageURL: 'https://i.ytimg.com/vi/rOK4-d_PhOk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-27T07:15:13.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 7.Bölüm - Cinsel Günah Mayını
+      url: >-
+        https://www.youtube.com/watch?v=rOK4-d_PhOk&list=PL1D41649BBC232911&index=6&t=0s
+      viewCount: '2693'
 ---
 
