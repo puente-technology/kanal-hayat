@@ -536,5 +536,18 @@ episodes:
       title: 24. Bölüm Tanrı’ya Zaman Ayır!
       url: 'https://youtu.be/05FjyQi6IkA'
       viewCount: '86'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M36S
+      id: TrbOi9wW48w
+      imageURL: 'https://i.ytimg.com/vi/TrbOi9wW48w/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-23T09:55:42.000Z'
+      tags: insan
+      title: 25. Bölüm Bir İnsanı Öldürmek!
+      url: 'https://youtu.be/TrbOi9wW48w'
+      viewCount: '78'
 ---
 
