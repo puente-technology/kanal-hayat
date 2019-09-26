@@ -431,5 +431,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=e7Ckg6FNf8Y&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=19&t=0s
       viewCount: '234'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+        dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+        yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+        Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+        yanıtlıyor.Sakın kaçırmayın.
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M16S
+      id: v1rC4_uf12s
+      imageURL: 'https://i.ytimg.com/vi/v1rC4_uf12s/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-02-16T13:43:25.000Z'
+      tags: balıkçı
+      title: 19. Bölüm Balıkçılar
+      url: 'https://youtu.be/v1rC4_uf12s'
+      viewCount: '76'
 ---
 
