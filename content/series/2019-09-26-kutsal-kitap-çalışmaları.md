@@ -542,5 +542,67 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=oLfxrdCmpzo&list=PL1D41649BBC232911&index=18&t=0s
       viewCount: '557'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M31S
+      id: ztQFNg3rF1Q
+      imageURL: 'https://i.ytimg.com/vi/ztQFNg3rF1Q/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-13T14:18:51.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 20. Bölüm - Tanrı'nın Merhametinin Zenginliği
+      url: >-
+        https://www.youtube.com/watch?v=ztQFNg3rF1Q&list=PL1D41649BBC232911&index=19&t=0s
+      viewCount: '654'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M28S
+      id: jC87il77aog
+      imageURL: 'https://i.ytimg.com/vi/jC87il77aog/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-06-07T06:48:34.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 21. Bölüm - Destekleyen Merhamet
+      url: >-
+        https://www.youtube.com/watch?v=jC87il77aog&list=PL1D41649BBC232911&index=20&t=0s
+      viewCount: '748'
 ---
 
