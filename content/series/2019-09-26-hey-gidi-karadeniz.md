@@ -562,5 +562,18 @@ episodes:
       title: 26. Bölüm Zina Etmek Normal mi?
       url: 'https://youtu.be/TyhFBR1COH4'
       viewCount: '183'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M25S
+      id: j7yhrJj7a2Y
+      imageURL: 'https://i.ytimg.com/vi/j7yhrJj7a2Y/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-23T11:26:33.000Z'
+      tags: en değerli
+      title: 27. Bölüm En Değerli Hazine
+      url: 'https://youtu.be/j7yhrJj7a2Y'
+      viewCount: '62'
 ---
 
