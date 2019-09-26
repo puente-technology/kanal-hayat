@@ -134,5 +134,31 @@ episodes:
       title: 41. Bölüm Yoksulluk
       url: 'https://youtu.be/KaZf1sloxrc'
       viewCount: '74'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M43S
+      id: qh-7OS-ht3I
+      imageURL: 'https://i.ytimg.com/vi/qh-7OS-ht3I/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-30T16:09:20.000Z'
+      tags: onarılma
+      title: 42. Bölüm Onarılma
+      url: 'https://youtu.be/qh-7OS-ht3I'
+      viewCount: '50'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M43S
+      id: qh-7OS-ht3I
+      imageURL: 'https://i.ytimg.com/vi/qh-7OS-ht3I/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-30T16:09:20.000Z'
+      tags: onarılma
+      title: 42. Bölüm Onarılma
+      url: 'https://youtu.be/qh-7OS-ht3I'
+      viewCount: '50'
 ---
 
