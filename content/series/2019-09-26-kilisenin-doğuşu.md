@@ -265,5 +265,32 @@ episodes:
       title: Kilisenin Doğuşu - 2.Müjde Seyahati 9.Bölüm
       url: 'https://youtu.be/Y-vObbtyJhg'
       viewCount: '331'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        3.Müjde Seyahati
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
+        Doğuşu" programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M34S
+      id: fUAQjaj6IjI
+      imageURL: 'https://i.ytimg.com/vi/fUAQjaj6IjI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T07:28:48.000Z'
+      tags: 'kilisenin,doğuşu,müjde,seyahati'
+      title: Kilisenin Doğuşu -  3.Müjde Seyahati 10.Bölüm
+      url: 'https://youtu.be/fUAQjaj6IjI'
+      viewCount: '262'
 ---
 
