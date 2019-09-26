@@ -5,6 +5,7 @@ import './SeriesList.scss'
 import SerieCard from './SerieCard';
 import SerieInfo from './SerieInfo';
 import Categories from './Categories';
+import Dropdown from './Dropdown';
 
 const rightArrow = require('../../static/images/right-arrow-black.svg');
 
@@ -30,26 +31,25 @@ class SeriesList extends Component {
 
   dataIntoArray = data => (Object.values(data).filter(x => x !== 'Seriler'))
 
-  handleLanguageChange = (e) => {
-    const { value } = e.target
+  handleLanguageChange = (value) => {
+    const valueType = value === 'Turkce' ? '0' : '1'
     let { listSeries } = this.state;
     const { data } = this.props;
     listSeries = this.dataIntoArray(data)
     let res = listSeries;
-    if (value !== '-99') {
+    if (value !== 'Dil') {
       res = listSeries
-        .filter(d => d.node.frontmatter.language === value)
+        .filter(d => d.node.frontmatter.language === valueType)
     }
     this.setState({ listSeries: res })
   }
 
-  handleTargetChange = (e) => {
-    const { value } = e.target
+  handleTargetChange = (value) => {
     let { listSeries } = this.state;
     const { data } = this.props;
     listSeries = this.dataIntoArray(data)
     let res = listSeries;
-    if (value !== '-99') {
+    if (value !== 'Hedef Kitle') {
       res = listSeries
         .filter(d => d.node.frontmatter.targetGroup === value)
     }
@@ -137,9 +137,11 @@ class SeriesList extends Component {
   sortByDate = () => {
     const { data } = this.props;
     const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => {
-      const aepisodes = a.node.frontmatter.episodes
+      const episodesInfoA = a.node.frontmatter.episodes || []
+      const episodesInfoB = b.node.frontmatter.episodes || []
+      const aepisodes = episodesInfoA
         .map(x => x.youtubeURL.publishedAt).sort((x, y) => (y - x))
-      const bepisodes = b.node.frontmatter.episodes
+      const bepisodes = episodesInfoB
         .map(x => x.youtubeURL.publishedAt).sort((x, y) => (y - x))
 
       if (aepisodes[0] > bepisodes[0]) {
@@ -265,21 +267,12 @@ class SeriesList extends Component {
           </div>
           )}
         </div>
+
         <div className="SeriesListSortAndFilter">
           <button value="title" onClick={this.handleSortByClick} type="button" className="SortButton">İsim</button>
           <button value="date" onClick={this.handleSortByDateClick} type="button" className="SortButton">Tarih</button>
-          <select onChange={this.handleLanguageChange} className="SortButton">
-            <option value="-99">Dil</option>
-            <option value="0">Türkçe</option>
-            <option value="1">English</option>
-          </select>
-          <select onChange={this.handleTargetChange} className="SortButton">
-            <option value="-99">Hedef Kitle</option>
-            <option>Herkes</option>
-            <option>Çocuk</option>
-            <option>Genç</option>
-            <option>Yetişkin</option>
-          </select>
+          <Dropdown handleLanguageChange={this.handleLanguageChange} list={['Dil', 'Turkce', 'English']} />
+          <Dropdown handleTargetChange={this.handleTargetChange} list={['Hedef Kitle', 'Herkes', 'Çocuk', 'Genç', 'Yetişkin']} />
           <input onChange={this.handleTextChange} className="Nav--Search filter" type="text" />
         </div>
         <div className="SeriesContainer">

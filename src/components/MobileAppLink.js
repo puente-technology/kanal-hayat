@@ -5,7 +5,7 @@ import './MobileAppLink.css';
 const googlePlay = require('../../static/images/googleplay.svg');
 const appStore = require('../../static/images/appstore.svg');
 const qrCode = require('../../static/images/qrcode.svg');
-// const phone = require('../../static/images/phone.svg');
+// const phone = require('../../static/images/telephone.svg');
 
 const MobileAppLink = () => (
   <div className="containerMobileAppLink">
@@ -32,8 +32,8 @@ const MobileAppLink = () => (
         </a>
       </div>
     </div>
-    <div>
-      {/* <img alt='phone' key='phone' src={phone}/> */}
+    <div className="phone">
+      {/* <img alt="phone" key="phone" src={phone} /> */}
     </div>
   </div>
 

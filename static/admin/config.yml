@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: puente-technology-design/kanal-hayat
+  repo: puente-technology/kanal-hayat
   branch: develop
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
