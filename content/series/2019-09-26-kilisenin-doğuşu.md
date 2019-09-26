@@ -292,5 +292,59 @@ episodes:
       title: Kilisenin Doğuşu -  3.Müjde Seyahati 10.Bölüm
       url: 'https://youtu.be/fUAQjaj6IjI'
       viewCount: '262'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        11- Pavlus Tutuklanır
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
+        Doğuşu" programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M33S
+      id: teoZb3Sj_j8
+      imageURL: 'https://i.ytimg.com/vi/teoZb3Sj_j8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T07:29:25.000Z'
+      tags: '#kutsal,#kilisenin,#doğuşu,#kilise,#nedir?,#pavlus,#tutuklanır'
+      title: Kilisenin Doğuşu - Pavlus Tutuklanır 11.Bölüm
+      url: 'https://youtu.be/teoZb3Sj_j8'
+      viewCount: '364'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        12- Pavlus Yargılanır
+
+        Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
+        Doğuşu" programını sayfamızdan takip edebilirsiniz. 
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M14S
+      id: kMnwW5nPL84
+      imageURL: 'https://i.ytimg.com/vi/kMnwW5nPL84/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-25T13:17:32.000Z'
+      tags: '#kutsal,#kilisenin,#doğuşu,#kilise,#nedir?,#pavlus,#yargılanır'
+      title: Kilisenin Doğuşu -  Pavlus Yargılanır 12.Bölüm
+      url: 'https://youtu.be/kMnwW5nPL84'
+      viewCount: '368'
 ---
 
