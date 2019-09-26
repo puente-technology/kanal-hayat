@@ -368,5 +368,44 @@ episodes:
       title: 59. Bölüm Yalan
       url: 'https://youtu.be/mQBl2VvoQps'
       viewCount: '51'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M3S
+      id: 8QRTfPHM5qU
+      imageURL: 'https://i.ytimg.com/vi/8QRTfPHM5qU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T14:27:09.000Z'
+      tags: Çevre
+      title: 60. Bölüm Çevre Koruması
+      url: 'https://youtu.be/8QRTfPHM5qU'
+      viewCount: '34'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M11S
+      id: p4K1Ct7JLrg
+      imageURL: 'https://i.ytimg.com/vi/p4K1Ct7JLrg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T14:29:58.000Z'
+      tags: Namus
+      title: 61. Bölüm Namus
+      url: 'https://youtu.be/p4K1Ct7JLrg'
+      viewCount: '83'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M50S
+      id: cY8SukdnjiU
+      imageURL: 'https://i.ytimg.com/vi/cY8SukdnjiU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T14:30:03.000Z'
+      tags: Korku
+      title: 62. Bölüm Korku
+      url: 'https://youtu.be/cY8SukdnjiU'
+      viewCount: '277'
 ---
 
