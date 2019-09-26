@@ -277,5 +277,18 @@ episodes:
       title: 52. Bölüm Toplum Hayatı
       url: 'https://youtu.be/8Nk18KrSNzk'
       viewCount: '65'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M48S
+      id: 4yhW4SO4nFg
+      imageURL: 'https://i.ytimg.com/vi/4yhW4SO4nFg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T13:36:23.000Z'
+      tags: Hayatı
+      title: 54. Bölüm Kadının Toplumsal Hayatı
+      url: 'https://youtu.be/4yhW4SO4nFg'
+      viewCount: '40'
 ---
 
