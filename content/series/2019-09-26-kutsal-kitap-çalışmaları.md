@@ -666,5 +666,67 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=w0TNLojWDH0&list=PL1D41649BBC232911&index=22&t=0s
       viewCount: '1752'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M31S
+      id: y7tXQVRtvUU
+      imageURL: 'https://i.ytimg.com/vi/y7tXQVRtvUU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-06-07T07:09:37.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 24. Bölüm - Tanrı Sessiz Kaldığında
+      url: >-
+        https://www.youtube.com/watch?v=y7tXQVRtvUU&list=PL1D41649BBC232911&index=23&t=0s
+      viewCount: '533'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: S1PJ7MRF5G0
+      imageURL: 'https://i.ytimg.com/vi/S1PJ7MRF5G0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-06-07T07:04:20.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 25. Bölüm - Çarmıhın Mesajı
+      url: >-
+        https://www.youtube.com/watch?v=S1PJ7MRF5G0&list=PL1D41649BBC232911&index=24&t=0s
+      viewCount: '508'
 ---
 
