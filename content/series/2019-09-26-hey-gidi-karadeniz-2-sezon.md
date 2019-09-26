@@ -407,5 +407,31 @@ episodes:
       title: 62. Bölüm Korku
       url: 'https://youtu.be/cY8SukdnjiU'
       viewCount: '277'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M29S
+      id: oDSK2bBqeD0
+      imageURL: 'https://i.ytimg.com/vi/oDSK2bBqeD0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T13:33:12.000Z'
+      tags: Sığınmacılar
+      title: 53. Bölüm Sığınmacılar
+      url: 'https://youtu.be/oDSK2bBqeD0'
+      viewCount: '37'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M58S
+      id: gUb9yHBmdHs
+      imageURL: 'https://i.ytimg.com/vi/gUb9yHBmdHs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-10T06:58:03.000Z'
+      tags: Şiddet
+      title: 63. Bölüm Şiddet
+      url: 'https://youtu.be/gUb9yHBmdHs'
+      viewCount: '127'
 ---
 
