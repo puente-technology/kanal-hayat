@@ -91,5 +91,28 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=LzRtWHnkYv8&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=4&t=0s
       viewCount: '249'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+        dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+        yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+        Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+        yanıtlıyor.Sakın kaçırmayın.
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT29M4S
+      id: P1_U3NcrsCU
+      imageURL: 'https://i.ytimg.com/vi/P1_U3NcrsCU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-10-28T13:08:02.000Z'
+      tags: '#neredesiniz?'
+      title: 4. Bölüm Neredesiniz?
+      url: >-
+        https://www.youtube.com/watch?v=P1_U3NcrsCU&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=5&t=0s
+      viewCount: '203'
 ---
 
