@@ -270,5 +270,28 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Jr5bYOqeD2c&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=13&t=0s
       viewCount: '224'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+        dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+        yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+        Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+        yanıtlıyor.Sakın kaçırmayın.
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT27M33S
+      id: UQdJ0pPplJ0
+      imageURL: 'https://i.ytimg.com/vi/UQdJ0pPplJ0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-02-09T09:53:33.000Z'
+      tags: 'Tanrı''ya,Kayıtsız,Kalamazsınız'
+      title: 13. Bölüm Tanrı'ya Kayıtsız Kalamazsınız
+      url: >-
+        https://www.youtube.com/watch?v=UQdJ0pPplJ0&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=14&t=0s
+      viewCount: '522'
 ---
 
