@@ -56,5 +56,18 @@ episodes:
       title: 35. Bölüm Çalışma
       url: 'https://youtu.be/Ra3-GM6D9QM'
       viewCount: '52'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M33S
+      id: _RgMfH_Uyrs
+      imageURL: 'https://i.ytimg.com/vi/_RgMfH_Uyrs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-28T07:54:42.000Z'
+      tags: dinleme
+      title: 36. Bölüm Dinlenme
+      url: 'https://youtu.be/_RgMfH_Uyrs'
+      viewCount: '48'
 ---
 
