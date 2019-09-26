@@ -160,5 +160,23 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=BJ-rHAQfM0g&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=7&t=0s
       viewCount: '528'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+        http://vimeo.com/kanalhayat
+      duration: PT27M32S
+      id: VM-Cpw2HKfE
+      imageURL: 'https://i.ytimg.com/vi/VM-Cpw2HKfE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-11-13T13:54:24.000Z'
+      tags: 'günahkarları,seven,tanrı'
+      title: 7. Bölüm Günahkarları Seven Tanrı
+      url: 'https://youtu.be/VM-Cpw2HKfE'
+      viewCount: '285'
 ---
 
