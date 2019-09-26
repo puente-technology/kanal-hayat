@@ -114,5 +114,28 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=P1_U3NcrsCU&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=5&t=0s
       viewCount: '203'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+        dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+        yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+        Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+        yanıtlıyor.Sakın kaçırmayın.
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT27M45S
+      id: Wfp_Z_EJJek
+      imageURL: 'https://i.ytimg.com/vi/Wfp_Z_EJJek/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-10-28T13:41:09.000Z'
+      tags: '#sevmek,Ne,Demek?'
+      title: 5. Bölüm Sevmek Ne Demek?
+      url: >-
+        https://www.youtube.com/watch?v=Wfp_Z_EJJek&list=PLQfi14V3hH0L7L7pfOVcaG0skgNRpn5OS&index=6&t=0s
+      viewCount: '338'
 ---
 
