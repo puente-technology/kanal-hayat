@@ -601,5 +601,18 @@ episodes:
       title: 29. Bölüm Açgözlülük
       url: 'https://youtu.be/MM5C59Y7bgo'
       viewCount: '122'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M37S
+      id: 3asV2Vly7BA
+      imageURL: 'https://i.ytimg.com/vi/3asV2Vly7BA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-24T09:47:18.000Z'
+      tags: kumar
+      title: 30. Bölüm Kumar
+      url: 'https://youtu.be/3asV2Vly7BA'
+      viewCount: '87'
 ---
 
