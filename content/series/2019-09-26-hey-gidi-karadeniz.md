@@ -523,5 +523,18 @@ episodes:
       title: 23. Bölüm Ana-babana Saygı Göster!
       url: 'https://youtu.be/2sl3LEor_Cw'
       viewCount: '25'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M3S
+      id: 05FjyQi6IkA
+      imageURL: 'https://i.ytimg.com/vi/05FjyQi6IkA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-23T09:55:42.000Z'
+      tags: zaman
+      title: 24. Bölüm Tanrı’ya Zaman Ayır!
+      url: 'https://youtu.be/05FjyQi6IkA'
+      viewCount: '86'
 ---
 
