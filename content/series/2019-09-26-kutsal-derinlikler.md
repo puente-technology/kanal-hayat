@@ -146,5 +146,24 @@ episodes:
       title: İBRANILER- IŞIK ABLA ILE KUTSAL DERINLIKLER- 10
       url: 'https://youtu.be/yH_FliuGYT4'
       viewCount: '133'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Titus, kilise önderlerinin nitelikleri ile birlikte doğru öğretinin ne
+        olduğunu ele almaktadır.
+
+        Bu kısa mektup kölelikten özgürlüğe kavuşan Onisimos ile ilgilidir. İsa
+        Mesih'in tüm insanlığı günahın köleliğinden kurtarması bakımından biz de
+        özgürlüğüne kavuşan Onisimos'a benzeriz
+      duration: PT28M31S
+      id: gJFnbPVIyeQ
+      imageURL: 'https://i.ytimg.com/vi/gJFnbPVIyeQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-08-01T19:00:06.000Z'
+      tags: 'IŞIK ABLA,KUTSAL DERINLIKLER'
+      title: TITUS VE FILIMON- IŞIK ABLA ILE KUTSAL DERINLIKLER- 09
+      url: 'https://youtu.be/gJFnbPVIyeQ'
+      viewCount: '89'
 ---
 
