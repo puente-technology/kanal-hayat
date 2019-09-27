@@ -88,5 +88,30 @@ episodes:
       title: 63. Bölüm Tanrı'yla Yakın İlişkimiz
       url: 'https://youtu.be/hZ9U-MPUOk8'
       viewCount: '551'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M38S
+      id: HHa9gjrJzRk
+      imageURL: 'https://i.ytimg.com/vi/HHa9gjrJzRk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-09-09T11:52:01.000Z'
+      tags: mesaj
+      title: 64. Bölüm Gönderdiğimiz Mesajlar
+      url: 'https://youtu.be/HHa9gjrJzRk'
+      viewCount: '324'
 ---
 
