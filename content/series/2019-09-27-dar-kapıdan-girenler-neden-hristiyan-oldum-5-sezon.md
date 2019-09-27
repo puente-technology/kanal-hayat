@@ -29,5 +29,20 @@ episodes:
       title: 5. Sezon - 1. Bölüm
       url: 'https://youtu.be/_ibWlMHZGTg'
       viewCount: '1888'
+  - guests: ''
+    season: '5'
+    youtubeURL:
+      description: 'https://www.facebook.com/DarKapidanGirenler'
+      duration: PT29M3S
+      id: rW28sOenu7Y
+      imageURL: 'https://i.ytimg.com/vi/rW28sOenu7Y/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-01-28T15:13:52.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi
+      title: 5. Sezon - 2. Bölüm
+      url: 'https://youtu.be/rW28sOenu7Y'
+      viewCount: '912'
 ---
 
