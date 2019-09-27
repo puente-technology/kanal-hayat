@@ -163,5 +163,19 @@ episodes:
       title: 3. Sezon - 10.Bölüm
       url: 'https://youtu.be/EF0Nhk3Q_aQ'
       viewCount: '5336'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT30M8S
+      id: brJjzfiVCVQ
+      imageURL: 'https://i.ytimg.com/vi/brJjzfiVCVQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-09T11:28:35.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 3. Sezon - 11.Bölüm
+      url: 'https://youtu.be/brJjzfiVCVQ'
+      viewCount: '1250'
 ---
 
