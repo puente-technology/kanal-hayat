@@ -168,5 +168,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=25HPPsSdVYI&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=8&t=0s
       viewCount: '273'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat.tv
+        https://twitter.com/kanalhayat
+        http://vimeo.com/kanalhayat
+      duration: PT24M35S
+      id: mxAei8rRNss
+      imageURL: 'https://i.ytimg.com/vi/mxAei8rRNss/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-08-18T14:06:35.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Allah Sevgidir,Allahı
+        Tanımak,Mezopotamya
+      title: 8. Bölüm Yaralarımız ve Bağışlama
+      url: >-
+        https://www.youtube.com/watch?v=mxAei8rRNss&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=9&t=0s
+      viewCount: '453'
 ---
 
