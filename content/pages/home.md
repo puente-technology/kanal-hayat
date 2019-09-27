@@ -20,7 +20,7 @@ gallery:
     title: 'Hristiyan Şeriatı '
 program1:
   align: left
-  bgImage: /images/uploads/joyce-meyer.jpg
+  bgImage: /images/uploads/joyce-meyer-save-for-web.jpg
   color: light
   content: |-
     Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından
@@ -114,7 +114,7 @@ program1:
   title: Joyce Meyer / Vaiz
 program2:
   align: right
-  bgImage: /images/uploads/can-abi-main-page.jpg
+  bgImage: /images/uploads/can-abi-main-page-save-for-web.jpg
   color: light
   content: >-
     Yazar olan Can Nuroğlu evli ve 3 çocuk babasıdır. Amerika’da Emmaus İncil
