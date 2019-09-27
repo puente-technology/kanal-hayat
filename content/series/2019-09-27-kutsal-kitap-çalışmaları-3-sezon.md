@@ -467,5 +467,18 @@ episodes:
       title: 'İtaatkarlık Daima Kutsama Getirir  [83]'
       url: 'https://youtu.be/oBNCFDywvGM'
       viewCount: '229'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT28M2S
+      id: rKs4SPQieaA
+      imageURL: 'https://i.ytimg.com/vi/rKs4SPQieaA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-03-01T10:02:57.000Z'
+      tags: 'hristiyanlık,hristiyan'
+      title: 'Kutsal Ruh''un Yönetiminde Yaşamak  [84]'
+      url: 'https://youtu.be/rKs4SPQieaA'
+      viewCount: '484'
 ---
 
