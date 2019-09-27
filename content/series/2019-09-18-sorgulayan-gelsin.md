@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: SORGULAYAN GELSİN
 publishDate: .
-coverImage: /images/uploads/sorgulayan.png
+coverImage: /images/uploads/sorgulayan-save-for-web.jpg
 host: Can Nuroğlu
 description: |
   Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği 
