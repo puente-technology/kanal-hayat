@@ -44,5 +44,21 @@ episodes:
       title: 5. Sezon - 2. Bölüm
       url: 'https://youtu.be/rW28sOenu7Y'
       viewCount: '912'
+  - guests: ''
+    season: '5'
+    youtubeURL:
+      description: 'https://www.facebook.com/DarKapidanGirenler'
+      duration: PT29M36S
+      id: MTErP6GalAk
+      imageURL: 'https://i.ytimg.com/vi/MTErP6GalAk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-01-28T15:09:12.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi
+      title: 5. Sezon - 3. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=MTErP6GalAk&list=PLQfi14V3hH0LhhHVpegJ-DIcAaxM2E6VA&index=13&t=0s
+      viewCount: '1169'
 ---
 
