@@ -238,5 +238,30 @@ episodes:
       title: 69. Bölüm Savaşınızı Dizlerinizin Üzerinde Verin
       url: 'https://youtu.be/reiyHFpk80A'
       viewCount: '212'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M38S
+      id: 58fGxKL33to
+      imageURL: 'https://i.ytimg.com/vi/58fGxKL33to/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T12:40:59.000Z'
+      tags: '#onun,Varlığıyla,Güçlenmek'
+      title: 70. Bölüm Onun Varlığıyla Güçlenmek
+      url: 'https://youtu.be/58fGxKL33to'
+      viewCount: '201'
 ---
 
