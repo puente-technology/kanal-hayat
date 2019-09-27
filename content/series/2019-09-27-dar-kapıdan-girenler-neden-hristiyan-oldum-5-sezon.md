@@ -156,5 +156,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=aCGy5meenDk&list=PLQfi14V3hH0LhhHVpegJ-DIcAaxM2E6VA&index=6&t=0s
       viewCount: '2113'
+  - guests: ''
+    season: '5'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M34S
+      id: 18S_ycF_jus
+      imageURL: 'https://i.ytimg.com/vi/18S_ycF_jus/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-10-28T11:19:59.000Z'
+      tags: tanıklık
+      title: 5. Sezon - 11. Bölüm
+      url: 'https://youtu.be/18S_ycF_jus'
+      viewCount: '635'
 ---
 
