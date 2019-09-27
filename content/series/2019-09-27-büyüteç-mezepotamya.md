@@ -300,5 +300,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=XgIsnvsb7V8&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=14&t=0s
       viewCount: '774'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat.tv
+        https://twitter.com/kanalhayat
+        http://vimeo.com/kanalhayat
+      duration: PT24M58S
+      id: eACZDT0Iyk4
+      imageURL: 'https://i.ytimg.com/vi/eACZDT0Iyk4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-08-19T10:27:08.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Allah Sevgidir,Allahı
+        Tanımak,Mezopotamya,Buyutec
+      title: 14. Bölüm Marangoz (Yapıcı) Ve Çoban (Koruyucu)
+      url: >-
+        https://www.youtube.com/watch?v=eACZDT0Iyk4&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=15&t=0s
+      viewCount: '344'
 ---
 
