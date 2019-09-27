@@ -192,5 +192,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=PfSC07myJPA&list=PLQfi14V3hH0KC0kchZAPa4ccXDl1jkieN&index=13&t=0s
       viewCount: '2149'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT30M31S
+      id: JQgLPObbMd0
+      imageURL: 'https://i.ytimg.com/vi/JQgLPObbMd0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-09T11:24:19.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 3. Sezon - 14.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=JQgLPObbMd0&list=PLQfi14V3hH0KC0kchZAPa4ccXDl1jkieN&index=14&t=0s
+      viewCount: '3673'
 ---
 
