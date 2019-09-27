@@ -313,5 +313,30 @@ episodes:
       title: 72. Bölüm Tanrı'nın Eğitme Yolu
       url: 'https://youtu.be/aoZmUwRINPs'
       viewCount: '270'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M41S
+      id: 3E3Xp2zgIHM
+      imageURL: 'https://i.ytimg.com/vi/3E3Xp2zgIHM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T13:13:22.000Z'
+      tags: '#tanrıya,Güvenmenin,Büyük,Heyecanı'
+      title: 73. Bölüm Tanrı'ya Güvenmenin Büyük Heyecanı
+      url: 'https://youtu.be/3E3Xp2zgIHM'
+      viewCount: '250'
 ---
 
