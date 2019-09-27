@@ -703,5 +703,129 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=_6vxc4Pspik&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=25&t=0s
       viewCount: '593'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        54. Bölüm - Tanrı'yla Yürürken: Ne Bekliyorsunuz?
+
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: Og-qBrCUEFc
+      imageURL: 'https://i.ytimg.com/vi/Og-qBrCUEFc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-23T05:34:47.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason
+      title: '54. Bölüm - Tanrı''yla Yürürken: Ne Bekliyorsunuz?'
+      url: >-
+        https://www.youtube.com/watch?v=Og-qBrCUEFc&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=26&t=0s
+      viewCount: '413'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        55. Bölüm - Tanrı'yla Yürürken: Deneme Zamanlarında
+
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: IZY7zVmn3j0
+      imageURL: 'https://i.ytimg.com/vi/IZY7zVmn3j0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-23T05:36:18.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason
+      title: '55. Bölüm - Tanrı''yla Yürürken: Deneme Zamanlarında'
+      url: >-
+        https://www.youtube.com/watch?v=IZY7zVmn3j0&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=27&t=0s
+      viewCount: '785'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        56. Bölüm - Tanrı'yla Yürürken: Yoldan Çıktığımızda
+
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: _zwRqkwPAes
+      imageURL: 'https://i.ytimg.com/vi/_zwRqkwPAes/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-23T05:34:38.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason
+      title: '56. Bölüm - Tanrı''yla Yürürken: Yoldan Çıktığımızda'
+      url: >-
+        https://www.youtube.com/watch?v=_zwRqkwPAes&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=28&t=0s
+      viewCount: '387'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        57. Bölüm - Korkular Saldırdığında
+
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: nEtj9K-f_rA
+      imageURL: 'https://i.ytimg.com/vi/nEtj9K-f_rA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-23T05:36:10.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason
+      title: 57. Bölüm - Korkular Saldırdığında
+      url: >-
+        https://www.youtube.com/watch?v=nEtj9K-f_rA&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=29&t=0s
+      viewCount: '404'
 ---
 
