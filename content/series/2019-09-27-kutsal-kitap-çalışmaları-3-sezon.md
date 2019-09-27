@@ -390,5 +390,18 @@ episodes:
       title: 77. Bölüm Tanrı'yı Dinlemek
       url: 'https://youtu.be/uTLlH_XoLb0'
       viewCount: '382'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M39S
+      id: 4Ay9ZV2Hm28
+      imageURL: 'https://i.ytimg.com/vi/4Ay9ZV2Hm28/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-13T08:52:08.000Z'
+      tags: Tanrı'nın İşleri
+      title: 78. Bölüm Davranışlarımızda Tanrı'nın İşleri
+      url: 'https://youtu.be/4Ay9ZV2Hm28'
+      viewCount: '417'
 ---
 
