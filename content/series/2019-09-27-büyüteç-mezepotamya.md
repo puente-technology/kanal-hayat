@@ -80,5 +80,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=HyLrapUspOw&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=4&t=0s
       viewCount: '1741'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat.tv
+        https://twitter.com/kanalhayat
+        http://vimeo.com/kanalhayat
+      duration: PT29M15S
+      id: 2Z7P13NZca0
+      imageURL: 'https://i.ytimg.com/vi/2Z7P13NZca0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-06-03T12:47:04.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Allah Sevgidir,Can
+        Nuroğlu,Allahı Tanımak,Mezopotamya
+      title: '4. Bölüm Kadın, Namus Ve Töre'
+      url: >-
+        https://www.youtube.com/watch?v=2Z7P13NZca0&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=5&t=0s
+      viewCount: '1274'
 ---
 
