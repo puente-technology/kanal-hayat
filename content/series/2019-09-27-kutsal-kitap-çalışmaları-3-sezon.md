@@ -364,5 +364,18 @@ episodes:
       title: 75. Bölüm Tanrı'nın Sağlamak İçin Olan Vaadi
       url: 'https://youtu.be/EWWPGjwKCcI'
       viewCount: '250'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M41S
+      id: '-WcRtYNAOK8'
+      imageURL: 'https://i.ytimg.com/vi/-WcRtYNAOK8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-10T14:16:48.000Z'
+      tags: esenlik
+      title: 76. Bölüm Esenliğin Devamını Sağlamak
+      url: 'https://youtu.be/-WcRtYNAOK8'
+      viewCount: '415'
 ---
 
