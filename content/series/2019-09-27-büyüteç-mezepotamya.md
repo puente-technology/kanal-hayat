@@ -322,5 +322,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=eACZDT0Iyk4&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=15&t=0s
       viewCount: '344'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat.tv
+        https://twitter.com/kanalhayat
+        http://vimeo.com/kanalhayat
+      duration: PT27M55S
+      id: rZogxdsXC1A
+      imageURL: 'https://i.ytimg.com/vi/rZogxdsXC1A/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-08-19T10:27:14.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Allah Sevgidir,Allahı
+        Tanımak,Mezopotamya,Buyutec
+      title: 15. Bölüm Perygamberler (İleten) Ve Mesih (Öğreten)
+      url: >-
+        https://www.youtube.com/watch?v=rZogxdsXC1A&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=16&t=0s
+      viewCount: '550'
 ---
 
