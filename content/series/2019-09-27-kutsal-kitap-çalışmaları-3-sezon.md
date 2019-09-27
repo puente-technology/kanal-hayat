@@ -532,5 +532,18 @@ episodes:
       title: 'Cesaret Zamanı  [89]'
       url: 'https://youtu.be/UdS0KUKE35M'
       viewCount: '283'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT28M2S
+      id: VH_vlgzJ69Q
+      imageURL: 'https://i.ytimg.com/vi/VH_vlgzJ69Q/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-03-01T12:05:28.000Z'
+      tags: 'Hristiyanlık,hristiyan vaaz,hristiyan'
+      title: 'Vaftiz Kutsal Yazıların Açık Öğretisidir  [90]'
+      url: 'https://youtu.be/VH_vlgzJ69Q'
+      viewCount: '220'
 ---
 
