@@ -610,5 +610,98 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=_dNBYS31Gn4&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=22&t=0s
       viewCount: '368'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        51. Bölüm - Gösterilen Lütuf
+
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M3S
+      id: MJIg01nW83w
+      imageURL: 'https://i.ytimg.com/vi/MJIg01nW83w/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-22T12:28:12.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason
+      title: 51. Bölüm - Gösterilen Lütuf
+      url: >-
+        https://www.youtube.com/watch?v=MJIg01nW83w&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=23&t=0s
+      viewCount: '314'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        52. Bölüm - Diğerleri Bize Yanlış Yaptığında
+
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: cFxv9e1e1Tc
+      imageURL: 'https://i.ytimg.com/vi/cFxv9e1e1Tc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-22T12:28:21.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason
+      title: 52. Bölüm - Diğerleri Bize Yanlış Yaptığında
+      url: >-
+        https://www.youtube.com/watch?v=cFxv9e1e1Tc&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=24&t=0s
+      viewCount: '569'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        53. Bölüm - Tanrı'yla Birlikte Adım Atmak
+
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: _6vxc4Pspik
+      imageURL: 'https://i.ytimg.com/vi/_6vxc4Pspik/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-22T12:29:50.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason
+      title: 53. Bölüm - Tanrı'yla Birlikte Adım Atmak
+      url: >-
+        https://www.youtube.com/watch?v=_6vxc4Pspik&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=25&t=0s
+      viewCount: '593'
 ---
 
