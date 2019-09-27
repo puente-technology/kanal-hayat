@@ -1,15 +1,15 @@
 list:
-  - image: /images/uploads/hakkımızda-header.jpg
+  - image: /images/uploads/hakkımızda-header-save-for-web.jpg
     title: KANAL HAYAT HAKKINDA
-  - image: /images/uploads/iletişim.jpg
+  - image: /images/uploads/iletişim-save-for-web.jpg
     title: İletişim
   - image: 'https://i.ibb.co/xHDqcZm/km.png'
     title: Test
   - image: 'https://i.ibb.co/xHDqcZm/km.png'
     title: Test2
-  - image: /images/uploads/yayın-akışı.jpg
+  - image: /images/uploads/yayın-akışı-save-for-web.jpg
     title: Yayın Akışı
-  - image: /images/uploads/butun-fotolar-kolaj-.jpg
+  - image: /images/uploads/butun-fotolar-kolaj-save-for-web.jpg
     title: Seriler
-  - image: /images/uploads/kk-friend-banner.jpg
+  - image: /images/uploads/kk-friend-banner-save-for-web.jpg
     title: BİLGİ EDİN
