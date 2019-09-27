@@ -411,5 +411,18 @@ episodes:
       title: 20. Bölüm Kurban ve Çarmıh
       url: 'https://youtu.be/HCPthLmYOGs'
       viewCount: '332'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M59S
+      id: bO0baUDslgI
+      imageURL: 'https://i.ytimg.com/vi/bO0baUDslgI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-29T07:18:16.000Z'
+      tags: 'yanılgı,hata,intihar,mezopotamya'
+      title: 21. Bölüm Yanılgılarımız
+      url: 'https://youtu.be/bO0baUDslgI'
+      viewCount: '309'
 ---
 
