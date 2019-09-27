@@ -424,5 +424,18 @@ episodes:
       title: 21. Bölüm Yanılgılarımız
       url: 'https://youtu.be/bO0baUDslgI'
       viewCount: '309'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M42S
+      id: wOnyNsGLBng
+      imageURL: 'https://i.ytimg.com/vi/wOnyNsGLBng/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-06-09T06:41:58.000Z'
+      tags: iman
+      title: 22. Bölüm  İman Nedir?
+      url: 'https://youtu.be/wOnyNsGLBng'
+      viewCount: '341'
 ---
 
