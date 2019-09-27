@@ -489,5 +489,18 @@ episodes:
       title: 26. Bölüm Sorularla Hristiyanlık 1
       url: 'https://youtu.be/tbIzCkoXTtI'
       viewCount: '713'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M22S
+      id: R9EWA0ksrBE
+      imageURL: 'https://i.ytimg.com/vi/R9EWA0ksrBE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-21T04:06:41.000Z'
+      tags: Sorularla Hristiyanlık 2
+      title: 27. Bölüm Sorularla Hristiyanlık 2
+      url: 'https://youtu.be/R9EWA0ksrBE'
+      viewCount: '439'
 ---
 
