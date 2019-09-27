@@ -40,5 +40,18 @@ episodes:
       title: 4. Sezon - 2. Bölüm
       url: 'https://youtu.be/8bFnS0QW1XM'
       viewCount: '1231'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: ' '
+      duration: PT28M48S
+      id: Ev23bD_Novw
+      imageURL: 'https://i.ytimg.com/vi/Ev23bD_Novw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-05-06T13:14:01.000Z'
+      tags: tanıklık
+      title: 4. Sezon-  3. Bölüm
+      url: 'https://youtu.be/Ev23bD_Novw'
+      viewCount: '678'
 ---
 
