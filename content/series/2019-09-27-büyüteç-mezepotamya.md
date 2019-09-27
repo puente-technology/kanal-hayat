@@ -515,5 +515,18 @@ episodes:
       title: 28. Bölüm Tanrı Sevgidir
       url: 'https://youtu.be/XIjyLqAipGo'
       viewCount: '324'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M12S
+      id: JPxqLPj7104
+      imageURL: 'https://i.ytimg.com/vi/JPxqLPj7104/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-21T11:29:31.000Z'
+      tags: kökeni
+      title: 29. Bölüm Kötülüğün Kökeni
+      url: 'https://youtu.be/JPxqLPj7104'
+      viewCount: '702'
 ---
 
