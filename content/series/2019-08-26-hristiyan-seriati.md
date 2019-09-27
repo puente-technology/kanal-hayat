@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: HRİSTİYAN ŞERİATI
 publishDate: ..
-coverImage: /images/uploads/_dsc1607.jpg
+coverImage: /images/uploads/hristiyan-şeriatı-save-for-web.jpg
 host: Ahmet Güvener ile
 description: |-
   Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile 
