@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Anlatsana Ey Gavur
 publishDate: .
-coverImage: /images/uploads/dsc01005.jpg
+coverImage: /images/uploads/dsc01005-save-for-web.jpg
 host: Can Nuroğlu
 description: >-
   Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur! Anlatsana
