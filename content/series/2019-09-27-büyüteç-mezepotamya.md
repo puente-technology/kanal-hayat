@@ -58,5 +58,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=f93VCJKUBcs&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=3&t=0s
       viewCount: '1727'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat.tv
+        https://twitter.com/kanalhayat
+        http://vimeo.com/kanalhayat
+      duration: PT25M31S
+      id: HyLrapUspOw
+      imageURL: 'https://i.ytimg.com/vi/HyLrapUspOw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-06-03T12:47:04.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Allah Sevgidir,Can
+        Nuroğlu,Allahı Tanımak,Mezopotamya
+      title: '3. Bölüm İnanç, Din ve Şartlanma'
+      url: >-
+        https://www.youtube.com/watch?v=HyLrapUspOw&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=4&t=0s
+      viewCount: '1741'
 ---
 
