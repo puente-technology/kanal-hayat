@@ -357,5 +357,20 @@ episodes:
       title: 16. Bölüm Savaşın Çocukları
       url: 'https://youtu.be/rYDHOd_XSSs'
       viewCount: '341'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M8S
+      id: StIjbbcegek
+      imageURL: 'https://i.ytimg.com/vi/StIjbbcegek/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-28T11:01:23.000Z'
+      tags: >-
+        şiddet,kadın
+        siddeti,mezopatamya,intikam,intihar,ölüm,diriliş,cennet,cehennem
+      title: 17. Bölüm Neden Şiddete Eğilim Var?
+      url: 'https://youtu.be/StIjbbcegek'
+      viewCount: '281'
 ---
 
