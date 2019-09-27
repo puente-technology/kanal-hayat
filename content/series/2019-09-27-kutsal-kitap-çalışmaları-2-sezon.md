@@ -363,5 +363,95 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ub6100DiKfE&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=13&t=0s
       viewCount: '744'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M2S
+      id: bn0RVpV8-0U
+      imageURL: 'https://i.ytimg.com/vi/bn0RVpV8-0U/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-19T12:12:56.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+        stanley
+      title: 42. Bölüm  Öfkenin Sonuçları
+      url: >-
+        https://www.youtube.com/watch?v=bn0RVpV8-0U&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=14&t=0s
+      viewCount: '436'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M
+      id: c2crh16uzw4
+      imageURL: 'https://i.ytimg.com/vi/c2crh16uzw4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-19T12:12:56.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+        stanley
+      title: 43. Bölüm Öfkenin Üstesinden Nasıl Geliriz?
+      url: >-
+        https://www.youtube.com/watch?v=c2crh16uzw4&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=15&t=0s
+      viewCount: '1096'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: cnDiPmdYx_s
+      imageURL: 'https://i.ytimg.com/vi/cnDiPmdYx_s/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-19T12:13:27.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+        stanley
+      title: 44. Bölüm Bağışlama Ve Öfke
+      url: >-
+        https://www.youtube.com/watch?v=cnDiPmdYx_s&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=16&t=0s
+      viewCount: '472'
 ---
 
