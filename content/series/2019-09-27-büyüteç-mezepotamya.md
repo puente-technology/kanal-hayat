@@ -502,5 +502,18 @@ episodes:
       title: 27. Bölüm Sorularla Hristiyanlık 2
       url: 'https://youtu.be/R9EWA0ksrBE'
       viewCount: '439'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT26M31S
+      id: XIjyLqAipGo
+      imageURL: 'https://i.ytimg.com/vi/XIjyLqAipGo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-21T04:06:52.000Z'
+      tags: tanrı
+      title: 28. Bölüm Tanrı Sevgidir
+      url: 'https://youtu.be/XIjyLqAipGo'
+      viewCount: '324'
 ---
 
