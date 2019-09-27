@@ -177,5 +177,20 @@ episodes:
       title: 3. Sezon - 11.Bölüm
       url: 'https://youtu.be/brJjzfiVCVQ'
       viewCount: '1250'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT32M
+      id: PfSC07myJPA
+      imageURL: 'https://i.ytimg.com/vi/PfSC07myJPA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-09T11:27:38.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 3. Sezon - 13.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=PfSC07myJPA&list=PLQfi14V3hH0KC0kchZAPa4ccXDl1jkieN&index=13&t=0s
+      viewCount: '2149'
 ---
 
