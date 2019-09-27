@@ -597,5 +597,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=4rVAiLrPgQg&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=54&t=0s
       viewCount: '485'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M18S
+      id: hIBiYtStrF4
+      imageURL: 'https://i.ytimg.com/vi/hIBiYtStrF4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-07-15T17:47:53.000Z'
+      tags: 'kurtuluş,kesin,mi?'
+      title: >-
+        Tevrat'ın Müjdelediği Mesih - İsa Mesih'te Kurtuluş Kesin midir?
+        54.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=hIBiYtStrF4&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=55&t=0s
+      viewCount: '273'
 ---
 
