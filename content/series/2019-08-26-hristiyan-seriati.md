@@ -11,9 +11,9 @@ description: |-
 targetGroup: Herkes
 language: '0'
 selectedCategories:
-  - Filmler
-  - Belgesel
   - Rehberlik
+  - Kutsal Kitap Dersleri
+  - Öğretim
 episodes:
   - guests: ''
     season: '1'
