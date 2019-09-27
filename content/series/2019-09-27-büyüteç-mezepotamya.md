@@ -476,5 +476,18 @@ episodes:
       title: 25. Bölüm Gerçek Mutluluk
       url: 'https://youtu.be/unuIqPoi6TU'
       viewCount: '244'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M7S
+      id: tbIzCkoXTtI
+      imageURL: 'https://i.ytimg.com/vi/tbIzCkoXTtI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-20T08:53:37.000Z'
+      tags: Sorularla Hristiyanlık 1
+      title: 26. Bölüm Sorularla Hristiyanlık 1
+      url: 'https://youtu.be/tbIzCkoXTtI'
+      viewCount: '713'
 ---
 
