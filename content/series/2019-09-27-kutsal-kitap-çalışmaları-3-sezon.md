@@ -416,5 +416,18 @@ episodes:
       title: 79. Bölüm Kurban Ya da Muzaffer?
       url: 'https://youtu.be/N6bVmDiMF78'
       viewCount: '263'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M41S
+      id: hnm2ib5vWfM
+      imageURL: 'https://i.ytimg.com/vi/hnm2ib5vWfM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-13T08:54:12.000Z'
+      tags: Sarılmak
+      title: 80. Bölüm Sıkıca Sarılmak
+      url: 'https://youtu.be/hnm2ib5vWfM'
+      viewCount: '694'
 ---
 
