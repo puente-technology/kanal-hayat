@@ -515,5 +515,100 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=dgRnXOSF0jY&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=19&t=0s
       viewCount: '502'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        48. Bölüm Neye İnandığınız Ne Kadar Önemli?
+
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: BMAbVhDTzLk
+      imageURL: 'https://i.ytimg.com/vi/BMAbVhDTzLk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-19T12:45:39.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+        stanley
+      title: 48. Bölüm Neye İnandığınız Ne Kadar Önemli?
+      url: >-
+        https://www.youtube.com/watch?v=BMAbVhDTzLk&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=20&t=0s
+      viewCount: '916'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        49. Bölüm İsa Mesih'in Değerli Kanı
+
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: Elb3i0ExDfY
+      imageURL: 'https://i.ytimg.com/vi/Elb3i0ExDfY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-19T12:41:20.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+        stanley
+      title: 49. Bölüm İsa Mesih'in Değerli Kanı
+      url: >-
+        https://www.youtube.com/watch?v=Elb3i0ExDfY&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=21&t=0s
+      viewCount: '524'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        50. Bölüm İsyanın Yıkımları
+
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M
+      id: _dNBYS31Gn4
+      imageURL: 'https://i.ytimg.com/vi/_dNBYS31Gn4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-19T12:44:25.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason
+      title: 50. Bölüm İsyanın Yıkımları
+      url: >-
+        https://www.youtube.com/watch?v=_dNBYS31Gn4&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=22&t=0s
+      viewCount: '368'
 ---
 
