@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Allah Sevgidir
 publishDate: .
-coverImage: /images/uploads/dsc01008.jpg
+coverImage: /images/uploads/allah-sevgidir-save-for-web.jpg
 host: Can Nuroğlu
 description: >-
   Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
