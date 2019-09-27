@@ -442,5 +442,30 @@ episodes:
       title: 81. Bölüm Etkilemek Ya da İzlenim
       url: 'https://youtu.be/cHURdbNVOXY'
       viewCount: '182'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M
+      id: oBNCFDywvGM
+      imageURL: 'https://i.ytimg.com/vi/oBNCFDywvGM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-03-01T10:02:52.000Z'
+      tags: 'hristiyanlık,hristiyan,#kutsal,#kitap,#çalışmaları'
+      title: 'İtaatkarlık Daima Kutsama Getirir  [83]'
+      url: 'https://youtu.be/oBNCFDywvGM'
+      viewCount: '229'
 ---
 
