@@ -429,5 +429,18 @@ episodes:
       title: 80. Bölüm Sıkıca Sarılmak
       url: 'https://youtu.be/hnm2ib5vWfM'
       viewCount: '694'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M41S
+      id: cHURdbNVOXY
+      imageURL: 'https://i.ytimg.com/vi/cHURdbNVOXY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-01-04T06:38:12.000Z'
+      tags: Etkilemek
+      title: 81. Bölüm Etkilemek Ya da İzlenim
+      url: 'https://youtu.be/cHURdbNVOXY'
+      viewCount: '182'
 ---
 
