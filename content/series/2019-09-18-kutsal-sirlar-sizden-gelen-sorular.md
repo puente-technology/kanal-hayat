@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: KUTSAL SIRLAR - Sizden Gelen Sorular
 publishDate: .
-coverImage: /images/uploads/kutsal-sırlar.png
+coverImage: /images/uploads/kutsal-sırlar-save-for-web.jpg
 host: Serdar Dedeoğlu
 description: >-
   İzleyicilerimizden gelen "Mesih İmanlısı olmak" hakkındaki soruların
