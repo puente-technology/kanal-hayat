@@ -213,5 +213,30 @@ episodes:
       title: 68. Bölüm Yaşamımızdaki Karanlık Anlar
       url: 'https://youtu.be/8gT1gRPGjRM'
       viewCount: '283'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M38S
+      id: reiyHFpk80A
+      imageURL: 'https://i.ytimg.com/vi/reiyHFpk80A/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T12:41:09.000Z'
+      tags: '#savaşınızı,Dizlerinizin,Üzerinde,Verin'
+      title: 69. Bölüm Savaşınızı Dizlerinizin Üzerinde Verin
+      url: 'https://youtu.be/reiyHFpk80A'
+      viewCount: '212'
 ---
 
