@@ -372,5 +372,18 @@ episodes:
       title: 17. Bölüm Neden Şiddete Eğilim Var?
       url: 'https://youtu.be/StIjbbcegek'
       viewCount: '281'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M53S
+      id: 1JyyP0MI8Lk
+      imageURL: 'https://i.ytimg.com/vi/1JyyP0MI8Lk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-28T11:15:53.000Z'
+      tags: lanet
+      title: 18. Bölüm Lanetler ve Bereketler
+      url: 'https://youtu.be/1JyyP0MI8Lk'
+      viewCount: '389'
 ---
 
