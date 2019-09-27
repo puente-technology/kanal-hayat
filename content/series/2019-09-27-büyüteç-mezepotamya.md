@@ -385,5 +385,18 @@ episodes:
       title: 18. Bölüm Lanetler ve Bereketler
       url: 'https://youtu.be/1JyyP0MI8Lk'
       viewCount: '389'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M
+      id: bRU-sO4-NgY
+      imageURL: 'https://i.ytimg.com/vi/bRU-sO4-NgY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-28T11:49:27.000Z'
+      tags: kader
+      title: '19. Bölüm Kadercilik, Yaşam ve Ölüm'
+      url: 'https://youtu.be/bRU-sO4-NgY'
+      viewCount: '382'
 ---
 
