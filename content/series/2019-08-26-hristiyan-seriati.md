@@ -451,5 +451,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=1fKeWYNyF9g&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=17&t=0s
       viewCount: '79'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        71 - Çocukların Görevleri
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını Kanal Hayat ekranından veya youtube sayfamızdan takip
+        edebilirsiniz.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M30S
+      id: l-wxSQmCrhY
+      imageURL: 'https://i.ytimg.com/vi/l-wxSQmCrhY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-25T07:09:37.000Z'
+      tags: 'çocuk,aile,görevleri,hristiyan'
+      title: Hristiyan Şeriatı - Çocukların Görevleri
+      url: >-
+        https://www.youtube.com/watch?v=l-wxSQmCrhY&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=18&t=0s
+      viewCount: '104'
 ---
 
