@@ -237,5 +237,69 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=EVNjS0I1DvA&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=8&t=0s
       viewCount: '558'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: Z1gTLQ2at78
+      imageURL: 'https://i.ytimg.com/vi/Z1gTLQ2at78/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-08-27T10:00:34.000Z'
+      tags: >-
+        hristiyan,kilise,peygamber,isa mesih,protestan,katolik,ahiret
+        günü,kıyamet,yargı,günah,hristiyanlık,ahiret,hz isa,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal
+        ruh,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestanlar,zekeriya
+        butros,kirkor ağabaloğlu
+      title: 38. Bölüm Tanrı'dan Kaçmanın Bedeli
+      url: >-
+        https://www.youtube.com/watch?v=Z1gTLQ2at78&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=9&t=0s
+      viewCount: '866'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M
+      id: 5BzqE01OsDo
+      imageURL: 'https://i.ytimg.com/vi/5BzqE01OsDo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-08-27T10:02:20.000Z'
+      tags: >-
+        hristiyan,kilise,peygamber,isa mesih,protestan,katolik,ahiret
+        günü,kıyamet,yargı,günah,hristiyanlık,ahiret,hz isa,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal
+        ruh,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestanlar,zekeriya
+        butros,kirkor ağabaloğlu
+      title: 39. Bölüm Yalnızlıklarımızla Yüzleşmek -- 1
+      url: >-
+        https://www.youtube.com/watch?v=5BzqE01OsDo&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=10&t=0s
+      viewCount: '295'
 ---
 
