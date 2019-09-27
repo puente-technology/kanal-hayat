@@ -541,5 +541,18 @@ episodes:
       title: 30. Bölüm Ey Bütün Yorgun Olanlar
       url: 'https://youtu.be/95hNZ-_fK9g'
       viewCount: '253'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M31S
+      id: 1RtqFVfQ3MA
+      imageURL: 'https://i.ytimg.com/vi/1RtqFVfQ3MA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-21T11:56:48.000Z'
+      tags: Ruhsal
+      title: 31. Bölüm Ruhsal Sorunların Yanıtı Mesih'tir
+      url: 'https://youtu.be/1RtqFVfQ3MA'
+      viewCount: '340'
 ---
 
