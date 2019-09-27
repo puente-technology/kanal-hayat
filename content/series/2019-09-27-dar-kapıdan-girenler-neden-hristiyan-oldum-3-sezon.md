@@ -105,5 +105,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=fLjZauJBnmE&list=PLQfi14V3hH0KC0kchZAPa4ccXDl1jkieN&index=2&t=0s
       viewCount: '1533'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT30M21S
+      id: FBUnQaHR3_I
+      imageURL: 'https://i.ytimg.com/vi/FBUnQaHR3_I/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-09T09:21:54.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 3. Sezon - 7.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=FBUnQaHR3_I&list=PLQfi14V3hH0KC0kchZAPa4ccXDl1jkieN&index=9&t=0s
+      viewCount: '845'
 ---
 
