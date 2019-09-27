@@ -20,7 +20,6 @@ language: '1'
 selectedCategories:
   - Öğretim
   - Rehberlik
-  - Tartışma
 episodes:
   - guests: ''
     season: '1'
