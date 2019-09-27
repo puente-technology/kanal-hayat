@@ -120,5 +120,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=FBUnQaHR3_I&list=PLQfi14V3hH0KC0kchZAPa4ccXDl1jkieN&index=9&t=0s
       viewCount: '845'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT30M25S
+      id: g4EBRW8L3Dw
+      imageURL: 'https://i.ytimg.com/vi/g4EBRW8L3Dw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-09T09:21:37.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 3. Sezon - 8.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=g4EBRW8L3Dw&list=PLQfi14V3hH0KC0kchZAPa4ccXDl1jkieN&index=10&t=0s
+      viewCount: '1444'
 ---
 
