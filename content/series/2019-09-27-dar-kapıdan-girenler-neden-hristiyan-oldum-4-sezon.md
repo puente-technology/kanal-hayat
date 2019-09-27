@@ -79,5 +79,18 @@ episodes:
       title: 4. Sezon -  5. Bölüm
       url: 'https://youtu.be/VVtjNP512U0'
       viewCount: '1949'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: ' '
+      duration: PT29M14S
+      id: 4ku7CrzDX1Q
+      imageURL: 'https://i.ytimg.com/vi/4ku7CrzDX1Q/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-05-06T13:47:59.000Z'
+      tags: tanıklık
+      title: 4. Sezon-  6. Bölüm
+      url: 'https://youtu.be/4ku7CrzDX1Q'
+      viewCount: '1068'
 ---
 
