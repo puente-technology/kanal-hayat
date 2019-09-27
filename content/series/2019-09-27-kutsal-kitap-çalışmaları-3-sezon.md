@@ -558,5 +558,18 @@ episodes:
       title: 'İhtiyaç Anında Nereye Yöneliriz  [91]'
       url: 'https://youtu.be/THrgDieV9rk'
       viewCount: '215'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT28M4S
+      id: ffOj7kOT5p4
+      imageURL: 'https://i.ytimg.com/vi/ffOj7kOT5p4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-03-01T12:37:10.000Z'
+      tags: Duada
+      title: 'Duada Uzun Ve Güçlü Bir Şekilde Kalabilmek  [93]'
+      url: 'https://youtu.be/ffOj7kOT5p4'
+      viewCount: '954'
 ---
 
