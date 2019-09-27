@@ -2,32 +2,18 @@
 template: Host
 title: Can Nuroğlu
 host: Can Nuroğlu
-coverImage: /images/uploads/20.jpg
+coverImage: /images/uploads/dsc01005.jpg
 html: >-
-  # Jose Meyer
+  # Can Nuroğlu
 
 
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-  doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-  veritatis et quasi architecto beatae vitae dicta sunt explicabo.Sed ut
-  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et
-  quasi architecto beatae vitae dicta sunt explicabo.
-
-
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-  doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-  veritatis et quasi architecto beatae vitae dicta sunt explicabo.Sed ut
-  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et
-  quasi architecto beatae vitae dicta sunt explicabo.
-
-
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-  doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-  veritatis et quasi architecto beatae vitae dicta sunt explicabo.Sed ut
-  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et
-  quasi architecto beatae vitae dicta sunt explicabo.
+  Yazar olan Can Nuroğlu evli ve 3 çocuk babasıdır. Amerika’da Emmaus İncil
+  Üniversitesinde ilahiyat eğitimini tamamlamış olan Nuroğlu yaklaşık 11 yıl
+  Diyarbakır Kilisesinde hizmet edip Kutsal Kitap (Tevrat-Zebur-İncil)
+  öğretmiştir. Şu an Kıbrıs’ta bulunan Nuroğlu ”Hey Gâvur Anlatsana!”, ”Yeter ki
+  İnsan Olsun!”, ”Allah Sevgidir”, ”Dünyanın Sonu”, “Sorgulayan Gelsin!” adlı
+  kitapların yazarı olmakla birlikte Kutsal Kitap’ın bölümleriyle ilgili yorum
+  kitapları yazmıştır ve yazmaya devam etmektedir. Ayrıca birçok televizyon
+  programı yapmıştır ve yeni programları için çekimlere devam edilmektedir.
 ---
 
