@@ -138,5 +138,30 @@ episodes:
       title: 65. Bölüm Tüm İsimlerin Üzerindeki İsim
       url: 'https://youtu.be/UMbqxnvF9Hs'
       viewCount: '447'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M39S
+      id: t2458TNLPPw
+      imageURL: 'https://i.ytimg.com/vi/t2458TNLPPw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T11:43:50.000Z'
+      tags: diriliş
+      title: 66. Bölüm Dirilişin Doğru Görünümü
+      url: 'https://youtu.be/t2458TNLPPw'
+      viewCount: '132'
 ---
 
