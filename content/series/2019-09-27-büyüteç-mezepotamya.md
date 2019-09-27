@@ -234,5 +234,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=qm1xt7WLlG4&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=11&t=0s
       viewCount: '823'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat.tv
+        https://twitter.com/kanalhayat
+        http://vimeo.com/kanalhayat
+      duration: PT27M29S
+      id: WeJR6A7qh2Y
+      imageURL: 'https://i.ytimg.com/vi/WeJR6A7qh2Y/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-08-19T07:08:51.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Allah Sevgidir,Allahı
+        Tanımak,Mezopotamya,Buyutec
+      title: 11. Bölüm İnsanın Değeri
+      url: >-
+        https://www.youtube.com/watch?v=WeJR6A7qh2Y&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=12&t=0s
+      viewCount: '490'
 ---
 
