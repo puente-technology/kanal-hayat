@@ -351,5 +351,18 @@ episodes:
       title: 74. Bölüm Tanrı Size İstediğini Gösterecektir
       url: 'https://youtu.be/lb9uw1FqsSk'
       viewCount: '301'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M41S
+      id: EWWPGjwKCcI
+      imageURL: 'https://i.ytimg.com/vi/EWWPGjwKCcI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T13:13:38.000Z'
+      tags: Vaadi
+      title: 75. Bölüm Tanrı'nın Sağlamak İçin Olan Vaadi
+      url: 'https://youtu.be/EWWPGjwKCcI'
+      viewCount: '250'
 ---
 
