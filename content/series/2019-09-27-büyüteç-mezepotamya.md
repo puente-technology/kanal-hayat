@@ -450,5 +450,18 @@ episodes:
       title: 23. Bölüm Töre Cinayetleri
       url: 'https://youtu.be/e_jFePLwnvI'
       viewCount: '266'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M32S
+      id: Iq_JZSmr9UE
+      imageURL: 'https://i.ytimg.com/vi/Iq_JZSmr9UE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-06-09T08:10:46.000Z'
+      tags: dil
+      title: 24. Bölüm Dilimizi Dizginlemek
+      url: 'https://youtu.be/Iq_JZSmr9UE'
+      viewCount: '200'
 ---
 
