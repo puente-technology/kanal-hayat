@@ -571,5 +571,18 @@ episodes:
       title: 'Duada Uzun Ve Güçlü Bir Şekilde Kalabilmek  [93]'
       url: 'https://youtu.be/ffOj7kOT5p4'
       viewCount: '954'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT28M2S
+      id: W1ID9GC6jjQ
+      imageURL: 'https://i.ytimg.com/vi/W1ID9GC6jjQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-03-01T12:22:26.000Z'
+      tags: 'Hristiyanlık,Hristiyan vaaz,vaaz'
+      title: 'İsa Mesih, Kaybolmuşu Arayan Kurtarıcı  [92]'
+      url: 'https://youtu.be/W1ID9GC6jjQ'
+      viewCount: '2172'
 ---
 
