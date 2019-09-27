@@ -33,5 +33,19 @@ episodes:
       title: 3. Sezon - 1. Bölüm
       url: 'https://youtu.be/2NL5J7BcndM'
       viewCount: '940'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT29M53S
+      id: t7dHbD9vw_A
+      imageURL: 'https://i.ytimg.com/vi/t7dHbD9vw_A/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-09T09:03:11.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 3. Sezon - 2.Bölüm
+      url: 'https://youtu.be/t7dHbD9vw_A'
+      viewCount: '1408'
 ---
 
