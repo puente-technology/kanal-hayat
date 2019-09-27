@@ -131,5 +131,18 @@ episodes:
       title: 4. Sezon - 9. Bölüm
       url: 'https://youtu.be/bwtbFHT_qDI'
       viewCount: '790'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: ''
+      duration: PT29M26S
+      id: J2Yl6erVcJE
+      imageURL: 'https://i.ytimg.com/vi/J2Yl6erVcJE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-06-25T14:04:54.000Z'
+      tags: tanıklık
+      title: 4. Sezon - 10. Bölüm
+      url: 'https://youtu.be/J2Yl6erVcJE'
+      viewCount: '869'
 ---
 
