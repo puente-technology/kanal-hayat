@@ -338,5 +338,18 @@ episodes:
       title: 73. Bölüm Tanrı'ya Güvenmenin Büyük Heyecanı
       url: 'https://youtu.be/3E3Xp2zgIHM'
       viewCount: '250'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M41S
+      id: lb9uw1FqsSk
+      imageURL: 'https://i.ytimg.com/vi/lb9uw1FqsSk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T13:13:30.000Z'
+      tags: Tanrı
+      title: 74. Bölüm Tanrı Size İstediğini Gösterecektir
+      url: 'https://youtu.be/lb9uw1FqsSk'
+      viewCount: '301'
 ---
 
