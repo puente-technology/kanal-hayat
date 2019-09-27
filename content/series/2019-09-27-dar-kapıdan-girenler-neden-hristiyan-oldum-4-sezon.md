@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: 'DAR KAPIDAN GİRENLER [NEDEN HRİSTİYAN OLDUM?] 4.SEZON'
 publishDate: .
-coverImage: /images/uploads/23.jpg
+coverImage: /images/uploads/dar-kapıdan-girenler-4-sezon.jpg
 host: Ali Kalkandelen ile
 description: |-
   Neden Hristiyan Oldum?
