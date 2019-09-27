@@ -519,5 +519,18 @@ episodes:
       title: 'Annemizi Nasıl Sevmeliyiz?  [88]'
       url: 'https://youtu.be/Tez96oh-ZpI'
       viewCount: '266'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT28M1S
+      id: UdS0KUKE35M
+      imageURL: 'https://i.ytimg.com/vi/UdS0KUKE35M/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-03-01T12:05:16.000Z'
+      tags: 'hristiyanlık,hristiyan,vaaz'
+      title: 'Cesaret Zamanı  [89]'
+      url: 'https://youtu.be/UdS0KUKE35M'
+      viewCount: '283'
 ---
 
