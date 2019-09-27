@@ -463,5 +463,18 @@ episodes:
       title: 24. Bölüm Dilimizi Dizginlemek
       url: 'https://youtu.be/Iq_JZSmr9UE'
       viewCount: '200'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M20S
+      id: unuIqPoi6TU
+      imageURL: 'https://i.ytimg.com/vi/unuIqPoi6TU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-06-09T08:10:50.000Z'
+      tags: mutluluk
+      title: 25. Bölüm Gerçek Mutluluk
+      url: 'https://youtu.be/unuIqPoi6TU'
+      viewCount: '244'
 ---
 
