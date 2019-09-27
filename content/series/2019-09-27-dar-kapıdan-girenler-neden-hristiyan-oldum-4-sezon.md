@@ -197,5 +197,18 @@ episodes:
       title: 4. Sezon - 14. Bölüm
       url: 'https://youtu.be/fnCQ_JhI-8M'
       viewCount: '2851'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: ''
+      duration: PT28M53S
+      id: uJPGc0NJifA
+      imageURL: 'https://i.ytimg.com/vi/uJPGc0NJifA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-06-25T14:13:03.000Z'
+      tags: tanıklık
+      title: 4. Sezon -15. Bölüm
+      url: 'https://youtu.be/uJPGc0NJifA'
+      viewCount: '1222'
 ---
 
