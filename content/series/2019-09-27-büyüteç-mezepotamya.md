@@ -146,5 +146,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Wpw8QwiH1k8&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=7&t=0s
       viewCount: '2083'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat.tv
+        https://twitter.com/kanalhayat
+        http://vimeo.com/kanalhayat
+      duration: PT29M28S
+      id: 25HPPsSdVYI
+      imageURL: 'https://i.ytimg.com/vi/25HPPsSdVYI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-08-18T13:27:19.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Allah Sevgidir,Allahı
+        Tanımak,Mezopotamya
+      title: '7. Bölüm Toplum, İnsan ve Devlet'
+      url: >-
+        https://www.youtube.com/watch?v=25HPPsSdVYI&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=8&t=0s
+      viewCount: '273'
 ---
 
