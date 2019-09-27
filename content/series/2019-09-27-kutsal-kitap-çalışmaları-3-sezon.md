@@ -113,5 +113,30 @@ episodes:
       title: 64. Bölüm Gönderdiğimiz Mesajlar
       url: 'https://youtu.be/HHa9gjrJzRk'
       viewCount: '324'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M37S
+      id: UMbqxnvF9Hs
+      imageURL: 'https://i.ytimg.com/vi/UMbqxnvF9Hs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-09-09T11:52:12.000Z'
+      tags: İsim
+      title: 65. Bölüm Tüm İsimlerin Üzerindeki İsim
+      url: 'https://youtu.be/UMbqxnvF9Hs'
+      viewCount: '447'
 ---
 
