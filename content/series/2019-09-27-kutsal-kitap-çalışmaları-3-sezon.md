@@ -263,5 +263,30 @@ episodes:
       title: 70. Bölüm Onun Varlığıyla Güçlenmek
       url: 'https://youtu.be/58fGxKL33to'
       viewCount: '201'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M39S
+      id: HDLSV5Se0VA
+      imageURL: 'https://i.ytimg.com/vi/HDLSV5Se0VA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T13:13:04.000Z'
+      tags: 'Fırtınalı,Zamanlardaki,Çıpamız'
+      title: 71. Bölüm Fırtınalı Zamanlardaki Çıpamız
+      url: 'https://youtu.be/HDLSV5Se0VA'
+      viewCount: '214'
 ---
 
