@@ -163,5 +163,30 @@ episodes:
       title: 66. Bölüm Dirilişin Doğru Görünümü
       url: 'https://youtu.be/t2458TNLPPw'
       viewCount: '132'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M39S
+      id: ECRrQriH5no
+      imageURL: 'https://i.ytimg.com/vi/ECRrQriH5no/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T11:44:03.000Z'
+      tags: Bir Yaşam
+      title: 67. Bölüm İtaatkar Bir Yaşam
+      url: 'https://youtu.be/ECRrQriH5no'
+      viewCount: '178'
 ---
 
