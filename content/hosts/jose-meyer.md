@@ -1,8 +1,8 @@
 ---
 template: Host
-host: Jose Meyer
-coverImage: /images/uploads/joyce-meyermeyer.png
-title: Jose Meyer
+title: Can Nuroğlu
+host: Can Nuroğlu
+coverImage: /images/uploads/20.jpg
 html: >-
   # Jose Meyer
 
