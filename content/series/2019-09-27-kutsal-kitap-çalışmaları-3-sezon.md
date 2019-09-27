@@ -480,5 +480,18 @@ episodes:
       title: 'Kutsal Ruh''un Yönetiminde Yaşamak  [84]'
       url: 'https://youtu.be/rKs4SPQieaA'
       viewCount: '484'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT28M2S
+      id: GhJAQry1kkI
+      imageURL: 'https://i.ytimg.com/vi/GhJAQry1kkI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-03-01T10:03:09.000Z'
+      tags: 'hristiyan,hristiyanlık'
+      title: 'Sıkıntılar Yük müdür Yoksa Köprü mü?  [85]'
+      url: 'https://youtu.be/GhJAQry1kkI'
+      viewCount: '278'
 ---
 
