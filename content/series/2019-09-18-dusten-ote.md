@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Düşten Öte
 publishDate: .
-coverImage: /images/uploads/ali-nin-öyküsü-3.jpg
+coverImage: /images/uploads/ali-nin-öyküsü-3-save-for-web.jpg
 host: Ali Pektaş
 description: >-
   Düşten Öte; Müslüman iken Hristiyanlığı seçen değişik ülkelerde yaşayan 5
