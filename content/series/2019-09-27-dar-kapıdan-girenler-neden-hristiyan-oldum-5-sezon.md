@@ -108,5 +108,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=vFg_-T2tyDI&list=PLQfi14V3hH0LhhHVpegJ-DIcAaxM2E6VA&index=10&t=0s
       viewCount: '987'
+  - guests: ''
+    season: '5'
+    youtubeURL:
+      description: 'https://www.facebook.com/DarKapidanGirenler'
+      duration: PT29M23S
+      id: mVWJP18285k
+      imageURL: 'https://i.ytimg.com/vi/mVWJP18285k/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-01-28T15:18:44.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi
+      title: 5. Sezon - 7. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=mVWJP18285k&list=PLQfi14V3hH0LhhHVpegJ-DIcAaxM2E6VA&index=9&t=0s
+      viewCount: '1124'
 ---
 
