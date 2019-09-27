@@ -157,5 +157,18 @@ episodes:
       title: 4. Sezon - 11. Bölüm
       url: 'https://youtu.be/qrbVhBtL1I4'
       viewCount: '691'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: ''
+      duration: PT28M18S
+      id: rtW9RpTvkUc
+      imageURL: 'https://i.ytimg.com/vi/rtW9RpTvkUc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-06-25T14:12:37.000Z'
+      tags: tanıklık
+      title: 4. Sezon - 12. Bölüm
+      url: 'https://youtu.be/rtW9RpTvkUc'
+      viewCount: '1144'
 ---
 
