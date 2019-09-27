@@ -6,7 +6,7 @@ gallery:
   - align: right
     alt: Can Nuroglu
     color: light
-    image: /images/uploads/main-page-1-save-for-web.jpg
+    image: /images/uploads/main-save-forr-web.jpg
     title: Hristiyan Ahlakı
   - align: left
     alt: Hakan Taştan ile
