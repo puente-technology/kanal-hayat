@@ -545,5 +545,18 @@ episodes:
       title: 'Vaftiz Kutsal Yazıların Açık Öğretisidir  [90]'
       url: 'https://youtu.be/VH_vlgzJ69Q'
       viewCount: '220'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT28M4S
+      id: THrgDieV9rk
+      imageURL: 'https://i.ytimg.com/vi/THrgDieV9rk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-03-01T12:36:20.000Z'
+      tags: 'Hristiyanlık,hristiyan,vaaz'
+      title: 'İhtiyaç Anında Nereye Yöneliriz  [91]'
+      url: 'https://youtu.be/THrgDieV9rk'
+      viewCount: '215'
 ---
 
