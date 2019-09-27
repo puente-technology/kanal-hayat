@@ -377,5 +377,18 @@ episodes:
       title: 76. Bölüm Esenliğin Devamını Sağlamak
       url: 'https://youtu.be/-WcRtYNAOK8'
       viewCount: '415'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M40S
+      id: uTLlH_XoLb0
+      imageURL: 'https://i.ytimg.com/vi/uTLlH_XoLb0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-13T08:51:34.000Z'
+      tags: Dinlemek
+      title: 77. Bölüm Tanrı'yı Dinlemek
+      url: 'https://youtu.be/uTLlH_XoLb0'
+      viewCount: '382'
 ---
 
