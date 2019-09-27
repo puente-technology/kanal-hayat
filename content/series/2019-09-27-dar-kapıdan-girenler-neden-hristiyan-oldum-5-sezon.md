@@ -182,5 +182,18 @@ episodes:
       title: 5. Sezon - 12. Bölüm
       url: 'https://youtu.be/_n0XV5bnmks'
       viewCount: '458'
+  - guests: ''
+    season: '5'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M58S
+      id: 6r8A6fndbiI
+      imageURL: 'https://i.ytimg.com/vi/6r8A6fndbiI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-10-14T05:50:05.000Z'
+      tags: tanıklık
+      title: 5. Sezon - 13. Bölüm
+      url: 'https://youtu.be/6r8A6fndbiI'
+      viewCount: '682'
 ---
 
