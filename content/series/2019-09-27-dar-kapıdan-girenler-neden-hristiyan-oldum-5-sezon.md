@@ -92,5 +92,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=5yPtfHLFcU4&list=PLQfi14V3hH0LhhHVpegJ-DIcAaxM2E6VA&index=11&t=0s
       viewCount: '1253'
+  - guests: ''
+    season: '5'
+    youtubeURL:
+      description: 'https://www.facebook.com/DarKapidanGirenler'
+      duration: PT29M38S
+      id: vFg_-T2tyDI
+      imageURL: 'https://i.ytimg.com/vi/vFg_-T2tyDI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-01-28T15:17:14.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi
+      title: 5. Sezon - 6. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=vFg_-T2tyDI&list=PLQfi14V3hH0LhhHVpegJ-DIcAaxM2E6VA&index=10&t=0s
+      viewCount: '987'
 ---
 
