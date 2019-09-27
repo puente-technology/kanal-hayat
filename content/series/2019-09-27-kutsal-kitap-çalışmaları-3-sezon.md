@@ -506,5 +506,18 @@ episodes:
       title: 'Daha Büyük Sevgi Yok  [87]'
       url: 'https://youtu.be/pmWCsosW8g8'
       viewCount: '244'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT15M20S
+      id: Tez96oh-ZpI
+      imageURL: 'https://i.ytimg.com/vi/Tez96oh-ZpI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-03-01T12:04:31.000Z'
+      tags: 'hristiyanlık,hristiyan'
+      title: 'Annemizi Nasıl Sevmeliyiz?  [88]'
+      url: 'https://youtu.be/Tez96oh-ZpI'
+      viewCount: '266'
 ---
 
