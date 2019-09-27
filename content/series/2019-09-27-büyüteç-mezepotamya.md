@@ -437,5 +437,18 @@ episodes:
       title: 22. Bölüm  İman Nedir?
       url: 'https://youtu.be/wOnyNsGLBng'
       viewCount: '341'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M29S
+      id: e_jFePLwnvI
+      imageURL: 'https://i.ytimg.com/vi/e_jFePLwnvI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-06-09T06:42:02.000Z'
+      tags: töre
+      title: 23. Bölüm Töre Cinayetleri
+      url: 'https://youtu.be/e_jFePLwnvI'
+      viewCount: '266'
 ---
 
