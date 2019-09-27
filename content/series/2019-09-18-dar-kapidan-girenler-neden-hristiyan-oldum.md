@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: 'Dar Kapıdan Girenler [Neden Hristiyan Oldum ?] 9.SEZON'
 publishDate: .
-coverImage: /images/uploads/ali-kalkandelen-ii.jpg
+coverImage: /images/uploads/ali-kalkandelen-ii-save-for-web.jpg
 host: Ali Kalkandelen
 description: >-
   Neden Hristiyan Oldum?
