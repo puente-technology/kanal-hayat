@@ -453,5 +453,67 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=cnDiPmdYx_s&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=16&t=0s
       viewCount: '472'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: J3giYEw0w0I
+      imageURL: 'https://i.ytimg.com/vi/J3giYEw0w0I/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-19T12:16:27.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+        stanley
+      title: 45. Bölüm Rab - Çobanımız
+      url: >-
+        https://www.youtube.com/watch?v=J3giYEw0w0I&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=17&t=0s
+      viewCount: '470'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        47. Bölüm Tanrı'nın Amacına Hizmet Etmek
+
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M2S
+      id: dgRnXOSF0jY
+      imageURL: 'https://i.ytimg.com/vi/dgRnXOSF0jY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-19T12:44:14.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+        stanley
+      title: 47. Bölüm Tanrı'nın Amacına Hizmet Etmek
+      url: >-
+        https://www.youtube.com/watch?v=dgRnXOSF0jY&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=19&t=0s
+      viewCount: '502'
 ---
 
