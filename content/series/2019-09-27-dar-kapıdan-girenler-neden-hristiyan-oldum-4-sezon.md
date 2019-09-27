@@ -105,5 +105,18 @@ episodes:
       title: 4. Sezon-  7. Bölüm
       url: 'https://youtu.be/TqOfJ2o0vcQ'
       viewCount: '815'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: ' '
+      duration: PT29M14S
+      id: 4ITYn6S8L5k
+      imageURL: 'https://i.ytimg.com/vi/4ITYn6S8L5k/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-05-06T14:19:24.000Z'
+      tags: tanıklık
+      title: 4. Sezon-  8. Bölüm
+      url: 'https://youtu.be/4ITYn6S8L5k'
+      viewCount: '2536'
 ---
 
