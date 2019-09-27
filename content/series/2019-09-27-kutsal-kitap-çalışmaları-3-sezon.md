@@ -63,5 +63,30 @@ episodes:
       title: 62. Bölüm Teselli Kaynağımız Tanrı
       url: 'https://youtu.be/zc7mgBpdd2Q'
       viewCount: '366'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M38S
+      id: hZ9U-MPUOk8
+      imageURL: 'https://i.ytimg.com/vi/hZ9U-MPUOk8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-09-09T11:50:16.000Z'
+      tags: ilişkimiz
+      title: 63. Bölüm Tanrı'yla Yakın İlişkimiz
+      url: 'https://youtu.be/hZ9U-MPUOk8'
+      viewCount: '551'
 ---
 
