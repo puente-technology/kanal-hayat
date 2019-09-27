@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: EVLİLİK SOHBETLERİ
 publishDate: .
-coverImage: /images/uploads/evlilik-sohbetleri.png
+coverImage: /images/uploads/evlilik-sohbetleri-save-for-web.jpg
 host: Ali ve Pervin Kalkandelen ile
 description: |-
   Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla 
