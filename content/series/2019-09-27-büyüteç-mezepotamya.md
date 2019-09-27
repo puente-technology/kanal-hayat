@@ -398,5 +398,18 @@ episodes:
       title: '19. Bölüm Kadercilik, Yaşam ve Ölüm'
       url: 'https://youtu.be/bRU-sO4-NgY'
       viewCount: '382'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M11S
+      id: HCPthLmYOGs
+      imageURL: 'https://i.ytimg.com/vi/HCPthLmYOGs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-29T06:47:17.000Z'
+      tags: çarmıh
+      title: 20. Bölüm Kurban ve Çarmıh
+      url: 'https://youtu.be/HCPthLmYOGs'
+      viewCount: '332'
 ---
 
