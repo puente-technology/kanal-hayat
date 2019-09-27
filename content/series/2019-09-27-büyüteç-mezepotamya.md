@@ -124,5 +124,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=5D6NpAmz0mQ&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=6&t=0s
       viewCount: '1055'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat.tv
+        https://twitter.com/kanalhayat
+        http://vimeo.com/kanalhayat
+      duration: PT28M32S
+      id: Wpw8QwiH1k8
+      imageURL: 'https://i.ytimg.com/vi/Wpw8QwiH1k8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-06-03T12:47:04.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Allah Sevgidir,Can
+        Nuroğlu,Allahı Tanımak,Mezopotamya
+      title: 6. Bölüm Acının Kaynağı
+      url: >-
+        https://www.youtube.com/watch?v=Wpw8QwiH1k8&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=7&t=0s
+      viewCount: '2083'
 ---
 
