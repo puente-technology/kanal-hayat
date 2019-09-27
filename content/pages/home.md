@@ -6,17 +6,17 @@ gallery:
   - align: right
     alt: Can Nuroglu
     color: light
-    image: /images/uploads/dsc01008.jpg
+    image: /images/uploads/main-page-1-save-for-web.jpg
     title: Hristiyan Ahlakı
   - align: left
     alt: Hakan Taştan ile
     color: light
-    image: /images/uploads/hakan-tastan.jpg
+    image: /images/uploads/hakan-tastan-save-for-web.jpg
     title: Gerçeğin Sesi
   - align: center
     alt: Ahmet Güvener ile
     color: light
-    image: /images/uploads/_dsc1607.jpg
+    image: /images/uploads/main-page-3-save-for-web.jpg
     title: 'Hristiyan Şeriatı '
 program1:
   align: left
