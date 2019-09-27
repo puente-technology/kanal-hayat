@@ -403,5 +403,18 @@ episodes:
       title: 78. Bölüm Davranışlarımızda Tanrı'nın İşleri
       url: 'https://youtu.be/4Ay9ZV2Hm28'
       viewCount: '417'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: Açıklama
+      duration: PT20M36S
+      id: N6bVmDiMF78
+      imageURL: 'https://i.ytimg.com/vi/N6bVmDiMF78/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-13T08:53:03.000Z'
+      tags: Muzaffer?
+      title: 79. Bölüm Kurban Ya da Muzaffer?
+      url: 'https://youtu.be/N6bVmDiMF78'
+      viewCount: '263'
 ---
 
