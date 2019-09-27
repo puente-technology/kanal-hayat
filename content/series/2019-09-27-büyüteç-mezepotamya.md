@@ -528,5 +528,18 @@ episodes:
       title: 29. Bölüm Kötülüğün Kökeni
       url: 'https://youtu.be/JPxqLPj7104'
       viewCount: '702'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M24S
+      id: 95hNZ-_fK9g
+      imageURL: 'https://i.ytimg.com/vi/95hNZ-_fK9g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-21T11:29:42.000Z'
+      tags: yorgun
+      title: 30. Bölüm Ey Bütün Yorgun Olanlar
+      url: 'https://youtu.be/95hNZ-_fK9g'
+      viewCount: '253'
 ---
 
