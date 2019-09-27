@@ -278,5 +278,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=pAUz6tFESlI&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=13&t=0s
       viewCount: '446'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat.tv
+        https://twitter.com/kanalhayat
+        http://vimeo.com/kanalhayat
+      duration: PT26M9S
+      id: XgIsnvsb7V8
+      imageURL: 'https://i.ytimg.com/vi/XgIsnvsb7V8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-08-19T10:26:53.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Allah Sevgidir,Allahı
+        Tanımak,Mezopotamya,Buyutec,büyü,nazar,büyü yapmak,nazar boncuğu
+      title: 13. Bölüm Büyü ve Nazar
+      url: >-
+        https://www.youtube.com/watch?v=XgIsnvsb7V8&list=PLQfi14V3hH0IS-a2_F22tUb3O7CoeGIkq&index=14&t=0s
+      viewCount: '774'
 ---
 
