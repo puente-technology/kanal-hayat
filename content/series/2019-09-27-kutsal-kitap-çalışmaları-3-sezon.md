@@ -288,5 +288,30 @@ episodes:
       title: 71. Bölüm Fırtınalı Zamanlardaki Çıpamız
       url: 'https://youtu.be/HDLSV5Se0VA'
       viewCount: '214'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M39S
+      id: aoZmUwRINPs
+      imageURL: 'https://i.ytimg.com/vi/aoZmUwRINPs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T13:13:14.000Z'
+      tags: 'Tanrı''nın,Eğitme,Yolu'
+      title: 72. Bölüm Tanrı'nın Eğitme Yolu
+      url: 'https://youtu.be/aoZmUwRINPs'
+      viewCount: '270'
 ---
 
