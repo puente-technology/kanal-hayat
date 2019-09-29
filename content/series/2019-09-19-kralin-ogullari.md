@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Kralın Oğulları
 publishDate: .
-coverImage: /images/uploads/gerçek-bir-adam-olmak.jpg
+coverImage: /images/uploads/gerçek-bir-adam-olmakb.jpg
 host: Işık Abla
 description: >-
   Işık Abla'nın "Kralın Oğulları" programını Kanal Hayat ekranlarından veya
