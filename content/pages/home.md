@@ -54,6 +54,11 @@ gallery:
     image: /images/uploads/güçlü-erman-slider-save-for-web.jpg
     title: Uyanış
   - align: left
+    alt: Ender Peker ile
+    color: light
+    image: /images/uploads/ahleke-i̇nci̇li̇.png
+    title: Exlaq'a İncil'ê (İncil Ahlakı)
+  - align: left
     alt: Batır Nuroğlu ile
     color: light
     image: /images/uploads/batır-nuroğlu-1-save-for-web-sliders.jpg
