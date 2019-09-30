@@ -48,6 +48,11 @@ gallery:
     color: light
     image: /images/uploads/serdar-dedeoğlu-slider.jpg
     title: 'Kutsal Sırlar '
+  - align: right
+    alt: Joyce Meyer ile
+    color: light
+    image: /images/uploads/meyer-2-slider-save-for-web.jpg
+    title: Hayattan Keyif Alın
 program1:
   align: left
   bgImage: /images/uploads/joyce-meyer-3.jpg
