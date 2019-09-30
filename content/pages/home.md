@@ -19,10 +19,15 @@ gallery:
     image: /images/uploads/main-page-3-save-for-web.jpg
     title: 'Hristiyan Şeriatı '
   - align: left
-    alt: Isik Abla
+    alt: Isik Abla ile
     color: light
     image: /images/uploads/16.jpg
-    title: Sunar
+    title: Muhteşem Etkili Dualar
+  - align: right
+    alt: Can Nuroğlu ile
+    color: light
+    image: /images/uploads/can-nuroğlu-save-for-web-1.jpg
+    title: Hristiyan Ahlakı
 program1:
   align: left
   bgImage: /images/uploads/joyce-meyer-3.jpg
