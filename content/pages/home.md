@@ -38,6 +38,11 @@ gallery:
     color: light
     image: /images/uploads/gulhan-save-for-web-slinder.jpg
     title: Umut Işığı
+  - align: right
+    alt: Batır Nuroğlu ile
+    color: light
+    image: /images/uploads/batır-nuroğlu-1-save-for-web-sliders.jpg
+    title: Mukaddes Ruh
 program1:
   align: left
   bgImage: /images/uploads/joyce-meyer-3.jpg
