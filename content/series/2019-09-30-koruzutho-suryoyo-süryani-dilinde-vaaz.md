@@ -257,5 +257,18 @@ episodes:
       title: 21. Bölüm
       url: 'https://youtu.be/qwKvQQquvKg'
       viewCount: '158'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT26M38S
+      id: Qd_txjRS408
+      imageURL: 'https://i.ytimg.com/vi/Qd_txjRS408/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-03-01T17:37:49.000Z'
+      tags: süryaniler
+      title: 'Koruzutho Suryoyo - Program 22 [Süryanice]'
+      url: 'https://youtu.be/Qd_txjRS408'
+      viewCount: '177'
 ---
 
