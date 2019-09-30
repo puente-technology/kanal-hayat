@@ -9,20 +9,15 @@ gallery:
     image: /images/uploads/hakan-tastan-save-for-web.jpg
     title: Gerçeğin Sesi
   - align: center
-    alt: Ali Kalkandelen ile
-    color: light
-    image: /images/uploads/evlilik-sohbetleri.png
-    title: Evlilik Sohbetleri
-  - align: center
     alt: Ahmet Güvener ile
     color: light
     image: /images/uploads/main-page-3-save-for-web.jpg
     title: 'Hristiyan Şeriatı '
-  - align: left
-    alt: Isik Abla ile
+  - align: center
+    alt: Ali Kalkandelen ile
     color: light
-    image: /images/uploads/16.jpg
-    title: Muhteşem Etkili Dualar
+    image: /images/uploads/evlilik-sohbetleri.png
+    title: Evlilik Sohbetleri
   - align: right
     alt: Can Nuroğlu ile
     color: light
@@ -33,26 +28,26 @@ gallery:
     color: light
     image: /images/uploads/paulus-bartuma-save-for-web.jpg
     title: Sbartho Du Mgalyun
-  - align: right
-    alt: Gülhan ile
+  - align: left
+    alt: Isik Abla ile
     color: light
-    image: /images/uploads/gulhan-slider.jpg
-    title: Umut Işığı
+    image: /images/uploads/16.jpg
+    title: Muhteşem Etkili Dualar
   - align: right
     alt: Serdar Dedeoğlu ile
     color: light
     image: /images/uploads/serdar-dedeoğlu.png
     title: 'Kutsal Sırlar '
+  - align: right
+    alt: Gülhan ile
+    color: light
+    image: /images/uploads/gulhan-slider.jpg
+    title: Umut Işığı
   - align: left
     alt: Joyce Meyer ile
     color: light
     image: /images/uploads/meyer-2-slider-save-for-web.jpg
     title: Hayattan Keyif Alın
-  - align: left
-    alt: 'Güçlü Erman ile '
-    color: light
-    image: /images/uploads/güçlü-erman-slider-save-for-web.jpg
-    title: Uyanış
   - align: right
     alt: Ender Peker ile
     color: light
@@ -64,10 +59,20 @@ gallery:
     image: /images/uploads/suhbeten-kelame.png
     title: SUHBETÊN KELAMÊ
   - align: left
+    alt: 'Güçlü Erman ile '
+    color: light
+    image: /images/uploads/güçlü-erman-slider-save-for-web.jpg
+    title: Uyanış
+  - align: left
     alt: Batır Nuroğlu ile
     color: light
     image: /images/uploads/batır-nuroğlu-1-save-for-web-sliders.jpg
     title: Mukaddes Ruh
+  - align: right
+    alt: Dr.Charles Stanley ile
+    color: light
+    image: /images/uploads/charles-stanley-slinder-main-page.jpg
+    title: ' Kutsal Kitap Çalışmaları'
 program1:
   align: left
   bgImage: /images/uploads/joyce-meyer-3.jpg
