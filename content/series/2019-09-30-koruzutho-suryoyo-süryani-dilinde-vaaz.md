@@ -283,5 +283,18 @@ episodes:
       title: 'Koruzutho Suryoyo - Program 23 [Süryanice]'
       url: 'https://youtu.be/IKo-KcnRt1g'
       viewCount: '316'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT26M36S
+      id: nJm1yfA5vD4
+      imageURL: 'https://i.ytimg.com/vi/nJm1yfA5vD4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-29T14:09:14.000Z'
+      tags: Süryanice
+      title: 'Koruzutho Suryoyo - Program 24 [Süryanice]'
+      url: 'https://youtu.be/nJm1yfA5vD4'
+      viewCount: '247'
 ---
 
