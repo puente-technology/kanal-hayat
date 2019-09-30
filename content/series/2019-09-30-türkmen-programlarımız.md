@@ -422,5 +422,18 @@ episodes:
       title: 'Iman we amallar [10]'
       url: 'https://youtu.be/3U0akjX69Rw'
       viewCount: '47'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT27M49S
+      id: '-XCYKpBZ_jc'
+      imageURL: 'https://i.ytimg.com/vi/-XCYKpBZ_jc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-24T07:59:33.000Z'
+      tags: ruhtan
+      title: Ruhdan doglan gune etmez
+      url: 'https://youtu.be/-XCYKpBZ_jc'
+      viewCount: '79'
 ---
 
