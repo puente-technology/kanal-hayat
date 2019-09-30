@@ -153,5 +153,18 @@ episodes:
       title: 13. Bölüm
       url: 'https://youtu.be/t1UvGPK9C7E'
       viewCount: '48'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT26M16S
+      id: P0EL_H61_oY
+      imageURL: 'https://i.ytimg.com/vi/P0EL_H61_oY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-30T11:08:54.000Z'
+      tags: 'süryani,asur,sşuri,keldani,kıldani,kadim halk'
+      title: 14. Bölüm
+      url: 'https://youtu.be/P0EL_H61_oY'
+      viewCount: '61'
 ---
 
