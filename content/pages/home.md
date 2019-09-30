@@ -33,6 +33,11 @@ gallery:
     color: light
     image: /images/uploads/paulus-bartuma-save-for-web.jpg
     title: Sbartho Du Mgalyun
+  - align: right
+    alt: Gülhan ile
+    color: light
+    image: /images/uploads/gulhan-save-for-web-slinder.jpg
+    title: Umut Işığı
 program1:
   align: left
   bgImage: /images/uploads/joyce-meyer-3.jpg
