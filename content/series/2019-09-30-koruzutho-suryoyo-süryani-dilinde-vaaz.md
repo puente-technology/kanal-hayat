@@ -322,5 +322,18 @@ episodes:
       title: 'Koruzutho Suryoyo - Program 26 [Süryanice]'
       url: 'https://youtu.be/89SryGHGTBg'
       viewCount: '103'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT26M38S
+      id: 0MJaZe3ztP8
+      imageURL: 'https://i.ytimg.com/vi/0MJaZe3ztP8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-05-30T08:28:24.000Z'
+      tags: Süryanice
+      title: 'Koruzutho Suryoyo - Program 27 [Süryanice]'
+      url: 'https://youtu.be/0MJaZe3ztP8'
+      viewCount: '226'
 ---
 
