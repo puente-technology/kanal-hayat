@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: SUHBETEN KELAME
+title: SUHBETEN KELAME 2.SEZON
 publishDate: .
 coverImage: /images/uploads/10.jpg
 host: Şaban Ok ile
