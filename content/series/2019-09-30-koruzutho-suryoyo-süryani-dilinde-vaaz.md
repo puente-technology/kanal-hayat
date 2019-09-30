@@ -166,5 +166,31 @@ episodes:
       title: 14. Bölüm
       url: 'https://youtu.be/P0EL_H61_oY'
       viewCount: '61'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT26M26S
+      id: GCOySvJbwss
+      imageURL: 'https://i.ytimg.com/vi/GCOySvJbwss/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-03T08:21:40.000Z'
+      tags: süryani
+      title: 15. Bölüm
+      url: 'https://youtu.be/GCOySvJbwss'
+      viewCount: '46'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT17M29S
+      id: fHoAqPS3C-8
+      imageURL: 'https://i.ytimg.com/vi/fHoAqPS3C-8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-03T08:23:28.000Z'
+      tags: 'süryani,incil'
+      title: 16. Bölüm
+      url: 'https://youtu.be/fHoAqPS3C-8'
+      viewCount: '61'
 ---
 
