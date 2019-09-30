@@ -68,5 +68,23 @@ episodes:
       title: İki dünya bar eken owaldan bäri
       url: 'https://youtu.be/GXZb_pd6bj0'
       viewCount: '161'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT3M37S
+      id: BnOoYCLEwSQ
+      imageURL: 'https://i.ytimg.com/vi/BnOoYCLEwSQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-04-23T07:32:20.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Perwerdigär
+      url: 'https://youtu.be/BnOoYCLEwSQ'
+      viewCount: '133'
 ---
 
