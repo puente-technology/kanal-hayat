@@ -231,5 +231,18 @@ episodes:
       title: 19. Bölüm
       url: 'https://youtu.be/vs6HD9RmzXs'
       viewCount: '54'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT26M32S
+      id: NvgZtZYaJYE
+      imageURL: 'https://i.ytimg.com/vi/NvgZtZYaJYE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-01-04T06:35:57.000Z'
+      tags: süryani
+      title: 20. Bölüm
+      url: 'https://youtu.be/NvgZtZYaJYE'
+      viewCount: '48'
 ---
 
