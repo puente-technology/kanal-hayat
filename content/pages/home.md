@@ -4,10 +4,10 @@ slug: ''
 title: Main Slider
 gallery:
   - align: right
-    alt: Can Nuroglu
+    alt: Ali Kalkandelen ile
     color: light
-    image: /images/uploads/main-save-forr-web.jpg
-    title: Hristiyan Ahlakı
+    image: /images/uploads/dar-kapidan-girenler.jpg
+    title: Dar Kapıdan Girenler
   - align: left
     alt: Hakan Taştan ile
     color: light
@@ -20,7 +20,7 @@ gallery:
     title: 'Hristiyan Şeriatı '
 program1:
   align: left
-  bgImage: /images/uploads/joyce-meyer-2.jpg
+  bgImage: /images/uploads/joyce-meyer-3.jpg
   color: light
   content: |-
     Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından
