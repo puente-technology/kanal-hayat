@@ -43,7 +43,7 @@ gallery:
     color: light
     image: /images/uploads/batır-nuroğlu-1-save-for-web-sliders.jpg
     title: Mukaddes Ruh
-  - align: left
+  - align: right
     alt: Serdar Dedeoğlu ile
     color: light
     image: /images/uploads/serdar-dedeoğlu-slider.jpg
