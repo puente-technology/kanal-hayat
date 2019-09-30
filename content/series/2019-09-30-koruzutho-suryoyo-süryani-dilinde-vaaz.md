@@ -274,14 +274,14 @@ episodes:
     season: '1'
     youtubeURL:
       description: ''
-      duration: PT26M38S
-      id: Qd_txjRS408
-      imageURL: 'https://i.ytimg.com/vi/Qd_txjRS408/hqdefault.jpg'
+      duration: PT26M27S
+      id: IKo-KcnRt1g
+      imageURL: 'https://i.ytimg.com/vi/IKo-KcnRt1g/hqdefault.jpg'
       mediaType: video
-      publishedAt: '2016-03-01T17:37:49.000Z'
+      publishedAt: '2017-11-07T13:08:49.000Z'
       tags: süryaniler
-      title: 'Koruzutho Suryoyo - Program 22 [Süryanice]'
-      url: 'https://youtu.be/Qd_txjRS408'
-      viewCount: '177'
+      title: 'Koruzutho Suryoyo - Program 23 [Süryanice]'
+      url: 'https://youtu.be/IKo-KcnRt1g'
+      viewCount: '316'
 ---
 
