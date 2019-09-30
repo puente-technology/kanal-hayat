@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: İÇİMİZDEN BİRİ
 publishDate: .
-coverImage: /images/uploads/içimizden-biri-2.png
+coverImage: /images/uploads/icimizden-biri.jpg
 host: Tanıklıklar
 description: >-
   Sosyal hayatta aramızda yaşayan insanların hastalıklarını,ruhsal
