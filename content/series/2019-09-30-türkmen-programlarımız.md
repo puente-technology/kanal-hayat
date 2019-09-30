@@ -357,5 +357,18 @@ episodes:
       title: 5-  İsa yukimizi enil edyer
       url: 'https://youtu.be/Pr7r1y360iY'
       viewCount: '17'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT29M42S
+      id: S83ACHrZ6BM
+      imageURL: 'https://i.ytimg.com/vi/S83ACHrZ6BM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-01-05T12:42:03.000Z'
+      tags: Mukaddes
+      title: 6- Mukaddes bolun
+      url: 'https://youtu.be/S83ACHrZ6BM'
+      viewCount: '19'
 ---
 
