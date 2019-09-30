@@ -244,5 +244,18 @@ episodes:
       title: 20. Bölüm
       url: 'https://youtu.be/NvgZtZYaJYE'
       viewCount: '48'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT26M38S
+      id: qwKvQQquvKg
+      imageURL: 'https://i.ytimg.com/vi/qwKvQQquvKg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-03-01T17:37:24.000Z'
+      tags: süryani
+      title: 21. Bölüm
+      url: 'https://youtu.be/qwKvQQquvKg'
+      viewCount: '158'
 ---
 
