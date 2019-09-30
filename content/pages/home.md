@@ -4,10 +4,10 @@ slug: ''
 title: Main Slider
 gallery:
   - align: right
-    alt: Can Nuroglu
+    alt: Ali Kalkandelen ile
     color: light
-    image: /images/uploads/main-save-forr-web.jpg
-    title: Hristiyan Ahlakı
+    image: /images/uploads/dar-kapidan-girenler.jpg
+    title: Dar Kapıdan Girenler
   - align: left
     alt: Hakan Taştan ile
     color: light
