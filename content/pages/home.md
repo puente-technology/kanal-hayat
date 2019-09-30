@@ -12,7 +12,7 @@ gallery:
     alt: Ali Kalkandelen ile
     color: light
     image: /images/uploads/evlilik-sohbetleri.png
-    title: Dar Kapıdan Girenler
+    title: Evlilik Sohbetleri
   - align: center
     alt: Ahmet Güvener ile
     color: light
