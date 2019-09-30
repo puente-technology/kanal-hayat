@@ -20,7 +20,7 @@ gallery:
     title: 'Hristiyan Şeriatı '
 program1:
   align: left
-  bgImage: /images/uploads/joyce-meyer-2.jpg
+  bgImage: /images/uploads/joyce-meyer-3.jpg
   color: light
   content: |-
     Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından
