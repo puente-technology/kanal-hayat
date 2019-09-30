@@ -36,7 +36,7 @@ gallery:
   - align: right
     alt: Gülhan ile
     color: light
-    image: /images/uploads/gulhan-save-for-web-slinder.jpg
+    image: /images/uploads/gulhan-slider.jpg
     title: Umut Işığı
   - align: right
     alt: Batır Nuroğlu ile
