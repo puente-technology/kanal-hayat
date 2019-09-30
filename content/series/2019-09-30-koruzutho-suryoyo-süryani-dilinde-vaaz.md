@@ -100,5 +100,19 @@ episodes:
       title: 8. Bölüm
       url: 'https://youtu.be/pIdmvsMkF1Q'
       viewCount: '48'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT26M36S
+      id: oIq7sFhz978
+      imageURL: 'https://i.ytimg.com/vi/oIq7sFhz978/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-29T10:00:10.000Z'
+      tags: süryani
+      title: 9. Bölüm
+      url: >-
+        https://www.youtube.chttps://youtu.be/oIq7sFhz978om/watch?v=oIq7sFhz978&list=PLQfi14V3hH0Ks7gkgCsAbqICVgVmU9tHs&index=10&t=0s
+      viewCount: '33'
 ---
 
