@@ -38,7 +38,7 @@ gallery:
     color: light
     image: /images/uploads/gulhan-slider.jpg
     title: Umut Işığı
-  - align: right
+  - align: left
     alt: Batır Nuroğlu ile
     color: light
     image: /images/uploads/batır-nuroğlu-1-save-for-web-sliders.jpg
