@@ -127,5 +127,18 @@ episodes:
       title: 10. Bölüm
       url: 'https://youtu.be/MpPvgTBaCzI'
       viewCount: '32'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT26M44S
+      id: 8Cs5Zmxey1s
+      imageURL: 'https://i.ytimg.com/vi/8Cs5Zmxey1s/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-29T17:38:33.000Z'
+      tags: süryani
+      title: 11. Bölüm
+      url: 'https://youtu.be/8Cs5Zmxey1s'
+      viewCount: '41'
 ---
 
