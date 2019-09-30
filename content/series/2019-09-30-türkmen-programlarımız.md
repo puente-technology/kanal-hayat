@@ -435,5 +435,18 @@ episodes:
       title: Ruhdan doglan gune etmez
       url: 'https://youtu.be/-XCYKpBZ_jc'
       viewCount: '79'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M19S
+      id: '-kk7WbswQ4Q'
+      imageURL: 'https://i.ytimg.com/vi/-kk7WbswQ4Q/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-24T07:59:34.000Z'
+      tags: ozal
+      title: Ozal basda Soz bardy
+      url: 'https://youtu.be/-kk7WbswQ4Q'
+      viewCount: '50'
 ---
 
