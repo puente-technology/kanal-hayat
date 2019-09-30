@@ -23,6 +23,11 @@ gallery:
     color: light
     image: /images/uploads/16.jpg
     title: Muhteşem Etkili Dualar
+  - align: right
+    alt: Can Nuroğlu ile
+    color: light
+    image: /images/uploads/can-nuroğlu-save-for-web-1.jpg
+    title: Hristiyan Ahlakı
 program1:
   align: left
   bgImage: /images/uploads/joyce-meyer-3.jpg
