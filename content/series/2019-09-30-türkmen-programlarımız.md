@@ -197,5 +197,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=cD4gCAPu9dc&list=PL4FF9832832F8CC01&index=11&t=0s
       viewCount: '81'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT29M57S
+      id: sDOIgCANQP8
+      imageURL: 'https://i.ytimg.com/vi/sDOIgCANQP8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-04-24T11:33:49.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Dogrulyk yoly 05
+      url: >-
+        https://www.youtube.com/watch?v=sDOIgCANQP8&list=PL4FF9832832F8CC01&index=12&t=0s
+      viewCount: '143'
 ---
 
