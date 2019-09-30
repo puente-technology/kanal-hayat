@@ -114,5 +114,18 @@ episodes:
       url: >-
         https://www.youtube.chttps://youtu.be/oIq7sFhz978om/watch?v=oIq7sFhz978&list=PLQfi14V3hH0Ks7gkgCsAbqICVgVmU9tHs&index=10&t=0s
       viewCount: '33'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT26M30S
+      id: MpPvgTBaCzI
+      imageURL: 'https://i.ytimg.com/vi/MpPvgTBaCzI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-29T17:38:15.000Z'
+      tags: 'süryani,mezopotamya,kıldani,aşur,asur'
+      title: 10. Bölüm
+      url: 'https://youtu.be/MpPvgTBaCzI'
+      viewCount: '32'
 ---
 
