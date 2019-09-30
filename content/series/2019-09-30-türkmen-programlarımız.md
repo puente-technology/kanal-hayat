@@ -104,5 +104,23 @@ episodes:
       title: Rebbi öwün
       url: 'https://youtu.be/Y_gs5_RCz20'
       viewCount: '187'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT27M43S
+      id: dF0zdAyfj9E
+      imageURL: 'https://i.ytimg.com/vi/dF0zdAyfj9E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-04-23T09:51:50.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Gözlegler We Açyşlar
+      url: 'https://youtu.be/dF0zdAyfj9E'
+      viewCount: '232'
 ---
 
