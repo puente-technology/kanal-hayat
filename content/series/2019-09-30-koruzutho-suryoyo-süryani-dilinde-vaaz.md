@@ -140,5 +140,18 @@ episodes:
       title: 11. Bölüm
       url: 'https://youtu.be/8Cs5Zmxey1s'
       viewCount: '41'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT26M28S
+      id: t1UvGPK9C7E
+      imageURL: 'https://i.ytimg.com/vi/t1UvGPK9C7E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-30T10:47:14.000Z'
+      tags: 'süryani,asur,sşuri,keldani,kıldani,kadim halk,süryanice'
+      title: 13. Bölüm
+      url: 'https://youtu.be/t1UvGPK9C7E'
+      viewCount: '48'
 ---
 
