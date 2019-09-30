@@ -140,5 +140,24 @@ episodes:
       title: Dogrulyk Yoly 01
       url: 'https://youtu.be/L4hOauosLZE'
       viewCount: '381'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT30M2S
+      id: PTwX3FBgUOY
+      imageURL: 'https://i.ytimg.com/vi/PTwX3FBgUOY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-04-24T11:27:48.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Dogrulyk Yoly 02
+      url: >-
+        https://www.youtube.com/watch?v=PTwX3FBgUOY&list=PL4FF9832832F8CC01&index=9&t=0s
+      viewCount: '218'
 ---
 
