@@ -122,5 +122,23 @@ episodes:
       title: Gözlegler We Açyşlar
       url: 'https://youtu.be/dF0zdAyfj9E'
       viewCount: '232'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT29M22S
+      id: L4hOauosLZE
+      imageURL: 'https://i.ytimg.com/vi/L4hOauosLZE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-04-24T11:45:34.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Dogrulyk Yoly 01
+      url: 'https://youtu.be/L4hOauosLZE'
+      viewCount: '381'
 ---
 
