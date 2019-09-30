@@ -44,5 +44,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=6FneBbAsB3M&list=PLQfi14V3hH0Ks7gkgCsAbqICVgVmU9tHs&index=3&t=0s
       viewCount: '313'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT26M24S
+      id: a8MTZf9BoB8
+      imageURL: 'https://i.ytimg.com/vi/a8MTZf9BoB8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-17T07:49:46.000Z'
+      tags: >-
+        süryanice,Syrian People (Ethnicity),Syriac Language (Human
+        Language),asur,aşur,Korozutho Suryoyo / Süryanice Dilinde Vaaz
+      title: 3. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=a8MTZf9BoB8&list=PLQfi14V3hH0Ks7gkgCsAbqICVgVmU9tHs&index=4&t=0s
+      viewCount: '274'
 ---
 
