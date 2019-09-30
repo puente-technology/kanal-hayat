@@ -5,14 +5,14 @@ publishDate: .
 coverImage: /images/uploads/dusten-ote.jpg
 host: Ali Pektaş
 description: >-
-  Düşten Öte; Müslüman iken Hristiyanlığı seçen değişik ülkelerde yaşayan 5
-  insanın gerçek hayat hikayelerinin canlandırıldığı bir seridir. Düşten Öte
-  serisinin Türkiye bölümünde yer alan Ali Pektaş, 1957 Malatya doğumlu olup,
-  1990 yılında bir alkol bağımlısı olarak gitmiş olduğu Suudi Arabistan’da Isa
-  Mesih’i rüyada görmesi sonucu Mesih imanlısı olmuştur. 3 çocuk babası olan
-  Pektaş, 2007’den beri Ankara Batıkent’te kilise önderi olarak hizmet
-  vermektedir. Kanal Hayat’ta yayınlanan film, kendi yaşadığı gerçek olaydan
-  yola çıkarak çekilmiştir.
+  Düşten Öte serisi, Mısırlı cihatçı Halil, Nijeryalı çoban Mohammed,
+  İndonezyalı genç kız Dini, İranlı delikanlı Kosrov ve Mekke'de İsa ile tanışan
+  Türk inşaatçı Ali'nin yaşanmış hikayelerini anlatıyor. Müslüman iken
+  Hristiyanlığı seçen değişik ülkelerde yaşayan 5 kişiden Türkiye bölümünde yer
+  alan Ali Pektaş, 1957 Malatya doğumlu olup, 1990 yılında bir alkol bağımlısı
+  olarak gitmiş olduğu Suudi Arabistan’da Isa Mesih’le ilgili yaşadığı bir
+  mucize sonucunda Hristiyan olmuştur. 3 çocuk babası olan Pektaş halen
+  Ankara'da ikamet etmektedir.
 targetGroup: Herkes
 language: '0'
 selectedCategories:
