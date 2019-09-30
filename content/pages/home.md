@@ -38,11 +38,6 @@ gallery:
     color: light
     image: /images/uploads/gulhan-slider.jpg
     title: Umut Işığı
-  - align: left
-    alt: Batır Nuroğlu ile
-    color: light
-    image: /images/uploads/batır-nuroğlu-1-save-for-web-sliders.jpg
-    title: Mukaddes Ruh
   - align: right
     alt: Serdar Dedeoğlu ile
     color: light
@@ -58,6 +53,11 @@ gallery:
     color: light
     image: /images/uploads/güçlü-erman-slider-save-for-web.jpg
     title: Uyanış
+  - align: left
+    alt: Batır Nuroğlu ile
+    color: light
+    image: /images/uploads/batır-nuroğlu-1-save-for-web-sliders.jpg
+    title: Mukaddes Ruh
 program1:
   align: left
   bgImage: /images/uploads/joyce-meyer-3.jpg
