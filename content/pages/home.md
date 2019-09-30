@@ -58,16 +58,16 @@ gallery:
     color: light
     image: /images/uploads/ahleke-i̇nci̇li̇.png
     title: Exlaq'a İncil'ê (İncil Ahlakı)
-  - align: left
-    alt: Batır Nuroğlu ile
-    color: light
-    image: /images/uploads/batır-nuroğlu-1-save-for-web-sliders.jpg
-    title: Mukaddes Ruh
   - align: center
     alt: Milazım Rasoyan ve Şaban Ok ile
     color: light
     image: /images/uploads/suhbeten-kelame.png
     title: SUHBETÊN KELAMÊ
+  - align: left
+    alt: Batır Nuroğlu ile
+    color: light
+    image: /images/uploads/batır-nuroğlu-1-save-for-web-sliders.jpg
+    title: Mukaddes Ruh
 program1:
   align: left
   bgImage: /images/uploads/joyce-meyer-3.jpg
