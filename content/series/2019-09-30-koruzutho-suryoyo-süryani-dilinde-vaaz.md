@@ -60,5 +60,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=a8MTZf9BoB8&list=PLQfi14V3hH0Ks7gkgCsAbqICVgVmU9tHs&index=4&t=0s
       viewCount: '274'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT26M26S
+      id: 3HxvtQGKDPA
+      imageURL: 'https://i.ytimg.com/vi/3HxvtQGKDPA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-29T07:28:15.000Z'
+      tags: 'süryani,mezopotamya,kıldani,aşur,asur'
+      title: 6. Bölüm
+      url: 'https://youtu.be/3HxvtQGKDPA'
+      viewCount: '38'
 ---
 
