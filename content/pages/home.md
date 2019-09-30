@@ -63,6 +63,11 @@ gallery:
     color: light
     image: /images/uploads/batır-nuroğlu-1-save-for-web-sliders.jpg
     title: Mukaddes Ruh
+  - align: center
+    alt: Milazım Rasoyan ve Şaban Ok ile
+    color: light
+    image: /images/uploads/suhbeten-kelame.png
+    title: SUHBETÊN KELAMÊ
 program1:
   align: left
   bgImage: /images/uploads/joyce-meyer-3.jpg
