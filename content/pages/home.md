@@ -43,16 +43,21 @@ gallery:
     color: light
     image: /images/uploads/gulhan-slider.jpg
     title: Umut Işığı
-  - align: left
+  - align: right
     alt: Joyce Meyer ile
     color: light
-    image: /images/uploads/meyer-2-slider-save-for-web.jpg
+    image: /images/uploads/joyce-meyer-enjoying-everyday-life.jpeg
     title: Hayattan Keyif Alın
   - align: right
     alt: Ender Peker ile
     color: light
     image: /images/uploads/ahleke-i̇nci̇li̇.png
     title: Exlaq'a İncil'ê (İncil Ahlakı)
+  - align: left
+    alt: Batır Nuroğlu ile
+    color: light
+    image: /images/uploads/batır-nuroğlu-1-save-for-web-sliders.jpg
+    title: Mukaddes Ruh
   - align: center
     alt: Milazım Rasoyan ve Şaban Ok ile
     color: light
@@ -63,11 +68,6 @@ gallery:
     color: light
     image: /images/uploads/güçlü-erman-slider-save-for-web.jpg
     title: Uyanış
-  - align: left
-    alt: Batır Nuroğlu ile
-    color: light
-    image: /images/uploads/batır-nuroğlu-1-save-for-web-sliders.jpg
-    title: Mukaddes Ruh
   - align: right
     alt: Dr.Charles Stanley ile
     color: light
