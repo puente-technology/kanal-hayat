@@ -192,5 +192,18 @@ episodes:
       title: 16. Bölüm
       url: 'https://youtu.be/fHoAqPS3C-8'
       viewCount: '61'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT26M36S
+      id: lPqBty-uFNk
+      imageURL: 'https://i.ytimg.com/vi/lPqBty-uFNk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-03T08:44:21.000Z'
+      tags: süryani
+      title: 17. Bölüm
+      url: 'https://youtu.be/lPqBty-uFNk'
+      viewCount: '52'
 ---
 
