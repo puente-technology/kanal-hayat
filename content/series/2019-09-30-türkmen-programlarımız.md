@@ -370,5 +370,18 @@ episodes:
       title: 6- Mukaddes bolun
       url: 'https://youtu.be/S83ACHrZ6BM'
       viewCount: '19'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT29M43S
+      id: ezKEk07hXBo
+      imageURL: 'https://i.ytimg.com/vi/ezKEk07hXBo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-01-05T12:42:31.000Z'
+      tags: Git mundan
+      title: 7- Git mundan beylek gune etme
+      url: 'https://youtu.be/ezKEk07hXBo'
+      viewCount: '23'
 ---
 
