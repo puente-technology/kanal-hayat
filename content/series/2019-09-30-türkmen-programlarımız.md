@@ -396,5 +396,18 @@ episodes:
       title: 8- Bar zadyny sat-da Menin yzyma dus
       url: 'https://youtu.be/5JAYwUhzEb4'
       viewCount: '16'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M15S
+      id: k34Y4nNplEA
+      imageURL: 'https://i.ytimg.com/vi/k34Y4nNplEA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-01-05T12:43:53.000Z'
+      tags: gökteki
+      title: 9- Gokdeki Atanyn ogullary
+      url: 'https://youtu.be/k34Y4nNplEA'
+      viewCount: '21'
 ---
 
