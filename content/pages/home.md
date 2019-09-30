@@ -6,7 +6,7 @@ gallery:
   - align: right
     alt: Ali Kalkandelen ile
     color: light
-    image: /images/uploads/dar-kapidan-girenler.jpg
+    image: /images/uploads/33.jpg
     title: Dar Kapıdan Girenler
   - align: left
     alt: Hakan Taştan ile
