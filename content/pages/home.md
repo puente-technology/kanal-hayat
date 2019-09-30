@@ -3,10 +3,10 @@ template: HomePage
 slug: ''
 title: Main Slider
 gallery:
-  - align: right
+  - align: center
     alt: Ali Kalkandelen ile
     color: light
-    image: /images/uploads/33.jpg
+    image: /images/uploads/3.png
     title: Dar Kapıdan Girenler
   - align: left
     alt: Hakan Taştan ile
