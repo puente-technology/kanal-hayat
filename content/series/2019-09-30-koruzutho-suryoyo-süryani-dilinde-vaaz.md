@@ -205,5 +205,18 @@ episodes:
       title: 17. Bölüm
       url: 'https://youtu.be/lPqBty-uFNk'
       viewCount: '52'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT26M35S
+      id: 35RGW4ZZJ9s
+      imageURL: 'https://i.ytimg.com/vi/35RGW4ZZJ9s/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-03T08:49:09.000Z'
+      tags: süryani
+      title: 18. Bölüm
+      url: 'https://youtu.be/35RGW4ZZJ9s'
+      viewCount: '82'
 ---
 
