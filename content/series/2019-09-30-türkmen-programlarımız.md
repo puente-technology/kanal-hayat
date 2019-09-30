@@ -216,5 +216,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=sDOIgCANQP8&list=PL4FF9832832F8CC01&index=12&t=0s
       viewCount: '143'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT21M9S
+      id: 7IfYowR39wQ
+      imageURL: 'https://i.ytimg.com/vi/7IfYowR39wQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-04-25T06:06:39.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Diri Sözler 01
+      url: >-
+        https://www.youtube.com/watch?v=7IfYowR39wQ&list=PL4FF9832832F8CC01&index=13&t=0s
+      viewCount: '193'
 ---
 
