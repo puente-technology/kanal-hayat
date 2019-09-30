@@ -218,5 +218,18 @@ episodes:
       title: 18. Bölüm
       url: 'https://youtu.be/35RGW4ZZJ9s'
       viewCount: '82'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT26M44S
+      id: vs6HD9RmzXs
+      imageURL: 'https://i.ytimg.com/vi/vs6HD9RmzXs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-01-04T06:36:00.000Z'
+      tags: 'keldani,süryani'
+      title: 19. Bölüm
+      url: 'https://youtu.be/vs6HD9RmzXs'
+      viewCount: '54'
 ---
 
