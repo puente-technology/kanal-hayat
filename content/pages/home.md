@@ -43,6 +43,11 @@ gallery:
     color: light
     image: /images/uploads/batır-nuroğlu-1-save-for-web-sliders.jpg
     title: Mukaddes Ruh
+  - align: left
+    alt: Serdar Dedeoğlu ile
+    color: light
+    image: /images/uploads/serdar-dedeoğlu-slider.jpg
+    title: 'Kutsal Sırlar '
 program1:
   align: left
   bgImage: /images/uploads/joyce-meyer-3.jpg
