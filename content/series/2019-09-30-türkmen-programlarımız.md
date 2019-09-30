@@ -383,5 +383,18 @@ episodes:
       title: 7- Git mundan beylek gune etme
       url: 'https://youtu.be/ezKEk07hXBo'
       viewCount: '23'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT27M53S
+      id: 5JAYwUhzEb4
+      imageURL: 'https://i.ytimg.com/vi/5JAYwUhzEb4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-01-05T12:43:28.000Z'
+      tags: bar
+      title: 8- Bar zadyny sat-da Menin yzyma dus
+      url: 'https://youtu.be/5JAYwUhzEb4'
+      viewCount: '16'
 ---
 
