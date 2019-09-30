@@ -3,16 +3,16 @@ template: HomePage
 slug: ''
 title: Main Slider
 gallery:
-  - align: center
-    alt: Ali Kalkandelen ile
-    color: light
-    image: /images/uploads/3.png
-    title: Dar Kapıdan Girenler
   - align: left
     alt: Hakan Taştan ile
     color: light
     image: /images/uploads/hakan-tastan-save-for-web.jpg
     title: Gerçeğin Sesi
+  - align: center
+    alt: Ali Kalkandelen ile
+    color: light
+    image: /images/uploads/3.png
+    title: Dar Kapıdan Girenler
   - align: center
     alt: Ahmet Güvener ile
     color: light
@@ -28,6 +28,11 @@ gallery:
     color: light
     image: /images/uploads/can-nuroğlu-save-for-web-1.jpg
     title: Hristiyan Ahlakı
+  - align: center
+    alt: Paulus Bartuma ile
+    color: light
+    image: /images/uploads/paulus-bartuma-save-for-web.jpg
+    title: Sbartho Du Mgalyun
 program1:
   align: left
   bgImage: /images/uploads/joyce-meyer-3.jpg
