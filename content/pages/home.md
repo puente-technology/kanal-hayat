@@ -11,7 +11,7 @@ gallery:
   - align: center
     alt: Ali Kalkandelen ile
     color: light
-    image: /images/uploads/evlilik-sohbetleri-save-for-web-slinder.jpg
+    image: /images/uploads/evlilik-sohbetleri.png
     title: Dar Kapıdan Girenler
   - align: center
     alt: Ahmet Güvener ile
@@ -41,7 +41,7 @@ gallery:
   - align: right
     alt: Serdar Dedeoğlu ile
     color: light
-    image: /images/uploads/serdar-dedeoğlu-slider.jpg
+    image: /images/uploads/serdar-dedeoğlu.png
     title: 'Kutsal Sırlar '
   - align: left
     alt: Joyce Meyer ile
