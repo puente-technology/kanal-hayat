@@ -11,7 +11,7 @@ gallery:
   - align: center
     alt: Ali Kalkandelen ile
     color: light
-    image: /images/uploads/3.png
+    image: /images/uploads/evlilik-sohbetleri-save-for-web-slinder.jpg
     title: Dar Kapıdan Girenler
   - align: center
     alt: Ahmet Güvener ile
