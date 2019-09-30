@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: İNANCIN İFADESİ
 publishDate: .
-coverImage: /images/uploads/8.jpg
+coverImage: /images/uploads/inancın-ifadesi-save-for-web.jpg
 host: Serdar Dedeoğlu ile
 description: |-
   Serdar Dedeoğlu ve Gülhan ile inancın ifadesini
