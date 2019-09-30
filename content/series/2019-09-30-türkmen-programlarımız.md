@@ -409,5 +409,18 @@ episodes:
       title: 9- Gokdeki Atanyn ogullary
       url: 'https://youtu.be/k34Y4nNplEA'
       viewCount: '21'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT27M44S
+      id: 3U0akjX69Rw
+      imageURL: 'https://i.ytimg.com/vi/3U0akjX69Rw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-01-05T12:44:19.000Z'
+      tags: Iman we amallar
+      title: 'Iman we amallar [10]'
+      url: 'https://youtu.be/3U0akjX69Rw'
+      viewCount: '47'
 ---
 
