@@ -53,7 +53,7 @@ gallery:
     color: light
     image: /images/uploads/güçlü-erman-slider-save-for-web.jpg
     title: Uyanış
-  - align: left
+  - align: right
     alt: Ender Peker ile
     color: light
     image: /images/uploads/ahleke-i̇nci̇li̇.png
