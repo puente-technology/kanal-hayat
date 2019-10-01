@@ -319,6 +319,8 @@ collections:
       preview: true
     create: true
     folder: 'content/yayin'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    identifier_field: slug
     fields:
       - label: 'Program Tarihi'
         name: 'title'
