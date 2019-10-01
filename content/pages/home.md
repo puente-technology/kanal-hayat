@@ -31,7 +31,7 @@ gallery:
   - align: left
     alt: Isik Abla ile
     color: light
-    image: /images/uploads/16.jpg
+    image: /images/uploads/ışık-abla.png
     title: Muhteşem Etkili Dualar
   - align: right
     alt: Serdar Dedeoğlu ile
