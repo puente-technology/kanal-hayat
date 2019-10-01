@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: 'DAR KAPIDAN GİRENLER [NEDEN HRİSTİYAN OLDUM?] 7.SEZON'
+title: DAR KAPIDAN GİRENLER  7.SEZON
 publishDate: .
 coverImage: /images/uploads/7-sezon.jpg
 host: Ali Kalkandelen ile
