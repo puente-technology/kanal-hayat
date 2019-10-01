@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: KORUZUTHO SURYOYO / SÜRYANİ DİLİNDE VAAZ
+title: 'KORUZUTHO SURYOYO '
 publishDate: .
 coverImage: /images/uploads/koruzutho-suryoyo-save-for-web.jpg
 host: Paulus Bartuma ile
