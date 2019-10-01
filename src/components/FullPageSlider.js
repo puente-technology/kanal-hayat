@@ -108,7 +108,7 @@ export default class FullPageSlider extends Component {
   }
 
   render() {
-    const { gallery } = this.props
+    const { gallery, dispatch, hosts } = this.props
     return (
       <Fragment>
         <section id="slider" className="slider">
@@ -116,7 +116,7 @@ export default class FullPageSlider extends Component {
             {
               gallery.map((g, i) => (
                 <div id="slide" key={i} className="slide" data-slide-id={i}>
-                  <Nav key={i} color={g.color} />
+                  <Nav key={i} color={g.color} dispatch={dispatch} hosts={hosts} />
                   <img className="slide__img" src={g.image} alt={g.alt} />
                   <div className={`slide__caption ${g.color} ${g.align}`}>
                     <span className="slide__caption--program">
@@ -159,4 +159,6 @@ FullPageSlider.propTypes = {
   gallery: PropTypes.array,
   slideTime: PropTypes.number,
   autoSlide: PropTypes.bool,
+  dispatch: PropTypes.any,
+  hosts: PropTypes.any,
 }
