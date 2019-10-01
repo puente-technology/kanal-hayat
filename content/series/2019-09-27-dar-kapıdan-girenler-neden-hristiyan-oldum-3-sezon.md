@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: 'DAR KAPIDAN GİRENLER [NEDEN HRİSTİYAN OLDUM?] 3.SEZON'
+title: DAR KAPIDAN GİRENLER 3.SEZON
 publishDate: .
 coverImage: /images/uploads/dar-kapıdan-3-sezon.jpg
 host: Ali Kalkandelen ile
