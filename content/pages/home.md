@@ -43,7 +43,7 @@ gallery:
     color: light
     image: /images/uploads/gulhan-slider.jpg
     title: Umut Işığı
-  - align: right
+  - align: left
     alt: Joyce Meyer ile
     color: light
     image: /images/uploads/joyce-meyer-enjoying-everyday-life.jpeg
