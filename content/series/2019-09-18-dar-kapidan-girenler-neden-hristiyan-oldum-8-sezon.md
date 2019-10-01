@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: 'Dar Kapıdan Girenler  [Neden Hristiyan Oldum ?] 8.SEZON'
+title: DAR KAPIDAN GİRENLER 8.SEZON
 publishDate: .
 coverImage: /images/uploads/neden-hristiyan-oldum-8-save-for-web.jpg
 host: Ali Kalkandelen ile
