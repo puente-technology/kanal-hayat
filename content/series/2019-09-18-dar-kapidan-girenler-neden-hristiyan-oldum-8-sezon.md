@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: 'Dar Kapıdan Girenler  [Neden Hristiyan Oldum ?] 8.SEZON'
 publishDate: .
-coverImage: /images/uploads/neden-hristiyan-oldum-8.sezon.png
+coverImage: /images/uploads/neden-hristiyan-oldum-8-save-for-web.jpg
 host: Ali Kalkandelen ile
 description: >-
   Neden Hristiyan Oldum?

@@ -1,7 +1,7 @@
 ---
 locale: en
 template: AboutUs
-featuredImage: /images/uploads/kanal-hayat.jpg
+featuredImage: /images/uploads/kanal-hayat-save-for-web.jpg
 slug: about-us
 title: KANAL HAYAT HAKKINDA
 content:
@@ -26,7 +26,7 @@ content:
   introduction: >-
     Kanal Hayat Televizyonu 15 Mart 2007 tarihinde yayın hayatına başlamış olup,
     dinsel içerikli (Hristiyan) bir kanaldır. Yayınlarımız Kitab-ı Mukaddes
-    (Tevrat, Zebur, İncil) ağırlıklıdır ve içerimizde politik görüşlere asla yer
+    (Tevrat, Zebur, İncil) ağırlıklıdır ve içeriğinde politik görüşlere asla yer
     verilmez. Kanalımız, İsa Mesih’in 2000 sene önce getirmiş olduğu ve
     insanlığa kurtarış ve esenlik sağlayan müjdeli haberi halka ulaştırmak,
     Türkçe konuşan ve İsa’ya inanan kişileri inançlarında geliştirmek amacıyla

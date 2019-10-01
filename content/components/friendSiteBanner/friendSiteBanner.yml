@@ -1,14 +1,14 @@
 color: light
 imageObj:
   - alt: Image
-    image: /images/uploads/kk-friend-banner.jpg
+    image: /images/uploads/kk-friend-banner-save-for-web.jpg
     title: Yellow Rope
 logo:
   - alt: logo
     image: >-
       https://www.kitabimukaddes.com/images/logos/1/Kitab-i_Mukaddes_Sirketi.png?t=1467272107
     title: Yellow Rope
-header: 'Hiç İncil okudunuz mu ? '
+header: 'Hiç İncil Okudunuz Mu ? '
 content: >-
   Sevgili ziyaretçimiz, Bizim temel kaynağımız Tanrı sözü olan İncil’dir. İncil
   insanlara bir müjde getirmektedir. Bu müjdenin ne olduğunu açıklar. Tanrı’nın
@@ -23,4 +23,4 @@ content: >-
   okumanızı rica ederiz. Tanrı’nın sizin için söylediklerini işitebilirsiniz.
   Belki de siz de yaşamınızda cevap bulamadığınız pek çok soruya cevap
   bulabileceksiniz.  Esen Kalın
-buttonText: 'https://www.kitabimukaddes.com'
+buttonText: 'https://www.kitabimukaddes.com/?sl=tr'

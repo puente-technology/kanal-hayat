@@ -1,8 +1,8 @@
 ---
 template: SeriesPageTemplate
 title: HRİSTİYAN ŞERİATI
-publishDate: .
-coverImage: /images/uploads/_dsc1607.jpg
+publishDate: ..
+coverImage: /images/uploads/hristiyan-şeriatı-save-for-web.jpg
 host: Ahmet Güvener ile
 description: |-
   Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile 
@@ -11,9 +11,9 @@ description: |-
 targetGroup: Herkes
 language: '0'
 selectedCategories:
-  - Filmler
-  - Belgesel
   - Rehberlik
+  - Kutsal Kitap Dersleri
+  - Öğretim
 episodes:
   - guests: ''
     season: '1'
@@ -312,5 +312,172 @@ episodes:
       title: Hristiyan Şeriatı - Eski ve Yeni Yaşam
       url: 'https://youtu.be/CN09ddTiDVA'
       viewCount: '73'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Işıkta Yürüyün (1) - Dürüstlük Konusu
+
+        66 - Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
+        Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını Kanal Hayat ekranından ve youtube sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M57S
+      id: ef0TL5uGcvc
+      imageURL: 'https://i.ytimg.com/vi/ef0TL5uGcvc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-14T09:04:13.000Z'
+      tags: 'ışıkta,yürüyün,dürüstlük,konusu,şeriat'
+      title: Hristiyan Şeriatı - Işıkta Yürüyün (1) Dürüstlük Konusu
+      url: >-
+        https://www.youtube.com/watch?v=ef0TL5uGcvc&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=13&t=0s
+      viewCount: '117'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        67 - Işıkta Yürüyün (2)
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını Kanal Hayat ekranından veya youtube sayfamızdan takip
+        edebilirsiniz.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M28S
+      id: suxtSdZYaBs
+      imageURL: 'https://i.ytimg.com/vi/suxtSdZYaBs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-15T07:58:56.000Z'
+      tags: 'ışıkta,yürüyün,hristiyan,şeriatı,yasa,din,kuran,musa,incil,müslümanlar'
+      title: Hristiyan Şeriatı - Işıkta Yürüyün (2)
+      url: >-
+        https://www.youtube.com/watch?v=suxtSdZYaBs&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=14&t=0s
+      viewCount: '141'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        68 - Mesih'i Örnek Alan Düşünce Nedir? 
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını Kanal Hayat ekranından veya youtube sayfamızdan takip
+        edebilirsiniz.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M57S
+      id: Drarci4lews
+      imageURL: 'https://i.ytimg.com/vi/Drarci4lews/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-18T07:02:56.000Z'
+      tags: 'htistiyan,şeriatı,mesihçi,alçak,gönüllülük,düşünce nedir?'
+      title: Hristiyan Şeriatı - Mesih'i Örnek Alan Düşünce Nedir?
+      url: >-
+        https://www.youtube.com/watch?v=Drarci4lews&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=15&t=0s
+      viewCount: '111'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        69 - Evlilik I
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M32S
+      id: iM0UxRicoPo
+      imageURL: 'https://i.ytimg.com/vi/iM0UxRicoPo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-19T07:23:05.000Z'
+      tags: '#evlilik #aile #yaşamı #mutluluk #hristiyanlık #efesliler'
+      title: Hristiyan Şeriatı - Evlilik I
+      url: >-
+        https://www.youtube.com/watch?v=iM0UxRicoPo&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=16&t=0s
+      viewCount: '85'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        70 - Evlilik II
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını Kanal Hayat ekranından veya youtube sayfamızdan takip
+        edebilirsiniz.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT23M58S
+      id: 1fKeWYNyF9g
+      imageURL: 'https://i.ytimg.com/vi/1fKeWYNyF9g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-22T09:46:36.000Z'
+      tags: 'evlilik,hristiyan,şeriat'
+      title: Hristiyan Şeriatı - Evlilik II
+      url: >-
+        https://www.youtube.com/watch?v=1fKeWYNyF9g&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=17&t=0s
+      viewCount: '79'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        71 - Çocukların Görevleri
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını Kanal Hayat ekranından veya youtube sayfamızdan takip
+        edebilirsiniz.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M30S
+      id: l-wxSQmCrhY
+      imageURL: 'https://i.ytimg.com/vi/l-wxSQmCrhY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-25T07:09:37.000Z'
+      tags: 'çocuk,aile,görevleri,hristiyan'
+      title: Hristiyan Şeriatı - Çocukların Görevleri
+      url: >-
+        https://www.youtube.com/watch?v=l-wxSQmCrhY&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=18&t=0s
+      viewCount: '104'
 ---
 

@@ -3,24 +3,79 @@ template: HomePage
 slug: ''
 title: Main Slider
 gallery:
-  - align: right
-    alt: Can Nuroglu
-    color: light
-    image: /images/uploads/dsc01008.jpg
-    title: Hristiyan Ahlakı
   - align: left
     alt: Hakan Taştan ile
     color: light
-    image: /images/uploads/hakan-tastan.jpg
+    image: /images/uploads/hakan-tastan-save-for-web.jpg
     title: Gerçeğin Sesi
   - align: center
     alt: Ahmet Güvener ile
     color: light
-    image: /images/uploads/_dsc1607.jpg
+    image: /images/uploads/main-page-3-save-for-web.jpg
     title: 'Hristiyan Şeriatı '
+  - align: center
+    alt: Ali Kalkandelen ile
+    color: light
+    image: /images/uploads/evlilik-sohbetleri.png
+    title: Evlilik Sohbetleri
+  - align: right
+    alt: Can Nuroğlu ile
+    color: light
+    image: /images/uploads/can-nuroğlu-save-for-web-1.jpg
+    title: Hristiyan Ahlakı
+  - align: center
+    alt: Paulus Bartuma ile
+    color: light
+    image: /images/uploads/paulus-bartuma-save-for-web.jpg
+    title: Sbartho Du Mgalyun
+  - align: left
+    alt: Isik Abla ile
+    color: light
+    image: /images/uploads/16.jpg
+    title: Muhteşem Etkili Dualar
+  - align: right
+    alt: Serdar Dedeoğlu ile
+    color: light
+    image: /images/uploads/serdar-dedeoğlu.png
+    title: 'Kutsal Sırlar '
+  - align: right
+    alt: Gülhan ile
+    color: light
+    image: /images/uploads/gulhan-slider.jpg
+    title: Umut Işığı
+  - align: right
+    alt: Joyce Meyer ile
+    color: light
+    image: /images/uploads/joyce-meyer-enjoying-everyday-life.jpeg
+    title: Hayattan Keyif Alın
+  - align: right
+    alt: Ender Peker ile
+    color: light
+    image: /images/uploads/ahleke-i̇nci̇li̇.png
+    title: Exlaq'a İncil'ê (İncil Ahlakı)
+  - align: left
+    alt: Batır Nuroğlu ile
+    color: light
+    image: /images/uploads/batır-nuroğlu-1-save-for-web-sliders.jpg
+    title: Mukaddes Ruh
+  - align: center
+    alt: Milazım Rasoyan ve Şaban Ok ile
+    color: light
+    image: /images/uploads/suhbeten-kelame.png
+    title: SUHBETÊN KELAMÊ
+  - align: left
+    alt: 'Güçlü Erman ile '
+    color: light
+    image: /images/uploads/güçlü-erman-slider-save-for-web.jpg
+    title: Uyanış
+  - align: right
+    alt: Dr.Charles Stanley ile
+    color: light
+    image: /images/uploads/charles-stanley-slinder-main-page.jpg
+    title: ' Kutsal Kitap Çalışmaları'
 program1:
   align: left
-  bgImage: /images/uploads/joyce-meyer.jpg
+  bgImage: /images/uploads/joyce-meyer-3.jpg
   color: light
   content: |-
     Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından
@@ -114,7 +169,7 @@ program1:
   title: Joyce Meyer / Vaiz
 program2:
   align: right
-  bgImage: /images/uploads/can-abi-main-page.jpg
+  bgImage: /images/uploads/can-abi-main-page-save-for-web.jpg
   color: light
   content: >-
     Yazar olan Can Nuroğlu evli ve 3 çocuk babasıdır. Amerika’da Emmaus İncil
