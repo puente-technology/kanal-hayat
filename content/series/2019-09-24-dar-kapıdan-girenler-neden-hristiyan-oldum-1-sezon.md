@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: 'DAR KAPIDAN GİRENLER [NEDEN HRİSTİYAN OLDUM?] 1.SEZON'
+title: DAR KAPIDAN GİRENLER  1.SEZON
 publishDate: .
 coverImage: /images/uploads/6.jpg
 host: Ali Kalkandelen ile
