@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: 'DAR KAPIDAN GİRENLER - [NEDEN HRİSTİYAN OLDUM] 6.SEZON'
+title: DAR KAPIDAN GİRENLER  6.SEZON
 publishDate: .
 coverImage: /images/uploads/4.jpg
 host: Ali Kalkandelen ile
