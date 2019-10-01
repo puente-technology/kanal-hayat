@@ -251,7 +251,6 @@ collections:
       - file: 'content/pages/events.md'
         label: 'Yayın Akışı'
         name: 'event-page'
-        # widget: 'list'
         fields:
           - { label: Slug, name: slug, widget: hidden, default: '' }
           - { label: Title, name: title, widget: hidden }
@@ -314,6 +313,79 @@ collections:
                       ],
                       multiple: true,
                     }
+  - name: 'Yayin Akisi'
+    label: 'Yayin Akisi'
+    editor:
+      preview: true
+    files:
+      - file: 'content/yayin'
+        label: 'Yayın Akışı'
+        name: 'event-page-test'
+        identifier_field: slug
+        create: true # Allow users to create new documents in this collection
+        fields: # The fields each document in this collection have
+          - { name: title, label: Program, widget: string }
+          - { name: subtitle, label: 'Alt Başlık', widget: string }
+          - label: "Series"
+            name: "series"
+            widget: "relation"
+            collection: "series"
+            searchFields: ["series"]
+            valueField: "series"
+            displayFields: ["series"]
+          - label: 'Zaman'
+            name: 'time'
+            widget: 'object'
+            fields:
+              - {
+                  name: startTime,
+                  label: 'Başlama Saati',
+                  widget: string,
+                  pattern: ['(?:[01]\d|2[0123]):(?:[012345]\d)', "Must be in HH:MM"],
+                }
+              - {
+                  name: endTime,
+                  label: 'Bitiş Saati',
+                  widget: string,
+                  pattern: ['(?:[01]\d|2[0123]):(?:[012345]\d)', "Must be in HH:MM"],
+                }
+              - {
+                  label: 'Yayın Günleri',
+                  name: 'days',
+                  widget: 'select',
+                  options: [
+                    {
+                      label: 'Pazartesi',
+                      value: 1
+                    },
+                    {
+                      label: 'Salı',
+                      value: 2
+                    },
+                    {
+                      label: 'Çarşamba',
+                      value: 3
+                    },
+                    {
+                      label: 'Perşembe',
+                      value: 4
+                    },
+                    {
+                      label: 'Cuma',
+                      value: 5
+                    },
+                    {
+                      label: 'Cumartesi',
+                      value: 6
+                    },
+                    {
+                      label: 'Pazar',
+                      value: 99
+                    }
+                  ],
+                  multiple: true,
+                }
+        
 
   - name: seriesCategories
     label: Seri Kategorileri
@@ -382,7 +454,7 @@ collections:
             name: season
             widget: select
             options: ["1",  "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20"]
-
+  
   - name: hosts
     label: Sunucular
     editor:
