@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: Mânâ Sohbetleri - Rev.Dr. Turgay Üçal - 2.Sezon
+title: Mânâ Sohbetleri  2.Sezon
 publishDate: .
 coverImage: /images/uploads/turgay-ucal-save-for-web.jpg
 host: Rev.Dr. Turgay Üçal
