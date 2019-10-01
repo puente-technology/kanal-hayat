@@ -41,8 +41,9 @@ export const LiveNowC = (props) => {
   } = props;
   let firstLoadedDay = new Date().getDay().toString()
   if (firstLoadedDay === '0') firstLoadedDay = '99'
-  const timeNow = new Date().toLocaleString()
-  const upperBoundTimeLimit = new Date(new Date().getTime() + sixHours).toLocaleString()
+  const options = { hour12: false };
+  const timeNow = new Date().toLocaleString('en-US', options).replace(',', '')
+  const upperBoundTimeLimit = new Date(new Date().getTime() + sixHours).toLocaleString('en-US', options).replace(',', '')
   const filtered = eventList.filter((
     {
       time:
