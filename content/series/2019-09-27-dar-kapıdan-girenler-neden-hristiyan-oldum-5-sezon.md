@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: 'DAR KAPIDAN GİRENLER [NEDEN HRİSTİYAN OLDUM?] 5.SEZON'
+title: DAR KAPIDAN GİRENLER 5.SEZON
 publishDate: .
 coverImage: /images/uploads/dar-kapıdan-5sezon.jpg
 host: Ali Kalkandelen ile
