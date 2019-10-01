@@ -1,6 +1,8 @@
 import React from 'react'
 import CMS from 'netlify-cms-app'
 import youtube from "netlify-cms-widget-youtube-extended";
+import option from "netlify-cms-linked-option-widget";
+
 import './cms-util'
 import { HomePageTemplate } from '../templates/HomePage'
 import FooterBanner from './preview-templates/FooterBanner'
@@ -12,6 +14,9 @@ import EventsPage, { EventsTemplate } from '../templates/EventsPage';
 
 
 CMS.registerWidget("youtube", youtubeControl, youtubePreview);
+
+CMS.registerWidget("option", Control, Preview);
+
 
 CMS.registerPreviewTemplate('home-page', ({ entry }) => {
   return (
