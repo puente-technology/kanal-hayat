@@ -322,6 +322,9 @@ collections:
     slug: '{{slug}}'
     identifier_field: slug
     fields:
+      - label: Program Ismi
+        name: title
+        widget: string
       - label: Program Tarihi
         name: date
         widget: date
