@@ -161,7 +161,7 @@ program1:
           Getirmek - 2
         url: 'https://www.youtube.com/watch?v=ZRmJP8je89A&feature=youtu.be'
         viewCount: '253'
-  title: Joyce Meyer / Vaiz
+  title: Joyce Meyer / VAİZ
 program2:
   align: left
   bgImage: /images/uploads/charles-stanley.jpg
