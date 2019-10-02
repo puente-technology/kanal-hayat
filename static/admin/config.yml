@@ -319,10 +319,12 @@ collections:
       preview: true
     create: true
     folder: 'content/yayin'
+    identifier_field: slug
     fields:
       - label: Program Tarihi
         name: title
-        widget: date
+        widget: datetime
+        timeFormat: false
         format: DD MM YYYY ddd
         pattern: ['^[0-3]?[0-9].[0-3]?[0-9].(?:[0-9]{2})?[0-9]{2} Mon$', "Programin Pazartesi gununden baslamasi lazim"]
       - label: 'Akış'
@@ -330,12 +332,12 @@ collections:
         widget: 'list'
         fields:
           - label: "Series"
-            name: "series"
+            name: "title"
             widget: "relation"
             collection: "series"
             searchFields: ["title"]
             valueField: "title"
-          - { name: bolumIsmi, label: 'Bolum Ismi', widget: string }
+          - { name: subtitle, label: 'Bolum Ismi', widget: string }
           - label: 'Zaman'
             name: 'time'
             widget: 'object'
