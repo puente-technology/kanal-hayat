@@ -63,6 +63,11 @@ gallery:
     color: light
     image: /images/uploads/güçlü-erman-slider-save-for-web.jpg
     title: Uyanış
+  - align: left
+    alt: Sibel Üçal ile
+    color: light
+    image: /images/uploads/sibel-üçal.png
+    title: Hristiyan İlahiler
 program1:
   align: left
   bgImage: /images/uploads/joyce-meyer-3.jpg
@@ -159,7 +164,7 @@ program1:
   title: Joyce Meyer / Vaiz
 program2:
   align: right
-  bgImage: /images/uploads/stanleyy.jpg
+  bgImage: /images/uploads/maxresdefault-1-.jpg
   color: light
   content: |-
     İmanlı yaşamındaki denenmelerle nasıl baş edebiliriz? İsa Mesih’in
