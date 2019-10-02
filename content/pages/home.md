@@ -169,20 +169,15 @@ program1:
   title: Joyce Meyer / Vaiz
 program2:
   align: right
-  bgImage: /images/uploads/can-abi-main-page-save-for-web.jpg
+  bgImage: /images/uploads/stanleyy.jpg
   color: light
-  content: >-
-    Yazar olan Can Nuroğlu evli ve 3 çocuk babasıdır. Amerika’da Emmaus İncil
-    Üniversitesinde ilahiyat eğitimini tamamlamış olan Nuroğlu yaklaşık 11 yıl
-    Diyarbakır Kilisesinde hizmet edip Kutsal Kitap (Tevrat-Zebur-İncil)
-    öğretmiştir.
-
-
-    Şu an Kıbrıs’ta bulunan Nuroğlu ”Hey Gâvur Anlatsana!”, ”Yeter ki İnsan
-    Olsun!”, ”Allah Sevgidir”, ”Dünyanın Sonu”, “Sorgulayan Gelsin!” adlı
-    kitapların yazarı olmakla birlikte Kutsal Kitap’ın bölümleriyle ilgili yorum
-    kitapları yazmıştır ve yazmaya devam etmektedir. Ayrıca birçok televizyon
-    programı yapmıştır ve yeni programları için çekimlere devam edilmektedir.
+  content: |-
+    İmanlı yaşamındaki denenmelerle nasıl baş edebiliriz? İsa Mesih’in
+    yolunda yürümenin püf noktaları nedir? Yeniden doğmak nasıl olur?
+    Amerikalı meşhur İncil öğretmeni ve vaiz Charles Stanley, günlük
+    yaşama dair ve İncil öğretisine uygun birbirinden ilginç ruhsal
+    konuları sizler için yorumluyor. Kanal Hayat’ı izlemekten ve Mesihi
+    takip etmekten vazgeçmeyin.
   thumbnailTitle: İzlemek için Tıklayın!
   thumbnails:
     - image: /images/uploads/sorgulayan-gelsi̇n.png
@@ -241,6 +236,6 @@ program2:
         url: >-
           https://www.youtube.com/watch?v=IJ-iJzdGypA&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=9&t=0s
         viewCount: '1532'
-  title: Can Nuroglu / YAZAR
+  title: Charles Stanley / İncil Öğretmeni
 ---
 
