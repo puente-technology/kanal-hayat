@@ -231,6 +231,6 @@ program2:
         url: >-
           https://www.youtube.com/watch?v=IJ-iJzdGypA&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=9&t=0s
         viewCount: '1532'
-  title: Charles Stanley / İncil Öğretmeni
+  title: Charles Stanley / İNCİL ÖĞRETMENİ
 ---
 
