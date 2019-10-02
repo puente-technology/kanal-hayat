@@ -43,11 +43,6 @@ gallery:
     color: light
     image: /images/uploads/gulhan-slider.jpg
     title: Umut Işığı
-  - align: left
-    alt: Joyce Meyer ile
-    color: light
-    image: /images/uploads/joyce-meyer-enjoying-everyday-life.jpeg
-    title: Hayattan Keyif Alın
   - align: right
     alt: Ender Peker ile
     color: light
@@ -68,11 +63,6 @@ gallery:
     color: light
     image: /images/uploads/güçlü-erman-slider-save-for-web.jpg
     title: Uyanış
-  - align: right
-    alt: Dr.Charles Stanley ile
-    color: light
-    image: /images/uploads/charles-stanley-slinder-main-page.jpg
-    title: ' Kutsal Kitap Çalışmaları'
 program1:
   align: left
   bgImage: /images/uploads/joyce-meyer-3.jpg
