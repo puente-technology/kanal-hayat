@@ -163,7 +163,7 @@ program1:
         viewCount: '253'
   title: Joyce Meyer / Vaiz
 program2:
-  align: right
+  align: left
   bgImage: /images/uploads/maxresdefault-1-.jpg
   color: light
   content: |-
