@@ -176,7 +176,7 @@ program2:
     yolunda yürümenin püf noktaları nedir? Yeniden doğmak nasıl olur?
     Amerikalı meşhur İncil öğretmeni ve vaiz Charles Stanley, günlük
     yaşama dair ve İncil öğretisine uygun birbirinden ilginç ruhsal
-    konuları sizler için yorumluyor. Kanal Hayat’ı izlemekten ve Mesihi
+    konuları sizler için yorumluyor. Kanal Hayat’ı izlemekten ve Mesih'i
     takip etmekten vazgeçmeyin.
   thumbnailTitle: İzlemek için Tıklayın!
   thumbnails:
