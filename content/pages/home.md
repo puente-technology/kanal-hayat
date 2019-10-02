@@ -164,7 +164,7 @@ program1:
   title: Joyce Meyer / Vaiz
 program2:
   align: right
-  bgImage: /images/uploads/stanleyy.jpg
+  bgImage: /images/uploads/maxresdefault-1-.jpg
   color: light
   content: |-
     İmanlı yaşamındaki denenmelerle nasıl baş edebiliriz? İsa Mesih’in
