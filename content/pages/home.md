@@ -178,10 +178,8 @@ program2:
     - image: /images/uploads/sorgulayan-gelsi̇n.png
       youtubeURL:
         description: >-
-          Tanrı'yı sorgulamak günah mı? - [Sorgulayan Gelsin 01]
-
-          Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Sorgulayan
-          Gelsin" programını sayfamızdan takip edebilirsiniz. 
+          Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını
+          sayfamızdan takip edebilirsiniz.
 
           Esen Kalın.
 
@@ -192,24 +190,27 @@ program2:
           https://www.facebook.com/kanalhayat
 
           https://twitter.com/kanalhayat
-        duration: PT28M6S
-        id: 5Qe7222lmbA
-        imageURL: 'https://i.ytimg.com/vi/5Qe7222lmbA/hqdefault.jpg'
+        duration: PT28M1S
+        id: qEbWQVxvNlw
+        imageURL: 'https://i.ytimg.com/vi/qEbWQVxvNlw/hqdefault.jpg'
         mediaType: video
-        publishedAt: '2017-11-01T08:57:18.000Z'
+        publishedAt: '2012-08-27T09:20:15.000Z'
         tags: >-
-          Hristiyan,Hristiyanlık,#sorgulayan,#gelsin,#tanrıyı,#sorgulamak,#günah,#mı?
-        title: 'Tanrı''yı sorgulamak günah mı? - [Sorgulayan Gelsin 01]'
+          hristiyan,kilise,peygamber,isa mesih,protestan,katolik,ahiret
+          günü,kıyamet,yargı,günah,hristiyanlık,ahiret,hz
+          isa,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur anlatsana,kutsal
+          ruh,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+          stanley,joyce meyer,ışık abla,güçlü erman,protestanlar,zekeriya
+          butros,kirkor ağabaloğlu
+        title: 33. Bölüm Tanrı'ya Adanmış Bir Yürek
         url: >-
-          https://www.youtube.com/watch?v=5Qe7222lmbA&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=2&t=0s
-        viewCount: '6796'
-    - image: /images/uploads/sorgulayan-gelsi̇n.png
+          https://www.youtube.com/watch?v=qEbWQVxvNlw&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=4&t=0s
+        viewCount: '469'
+    - image: ''
       youtubeURL:
         description: >-
-          Kutsal Kitap’a güvenebilir miyiz? - [Sorgulayan Gelsin 08]
-
-          Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Sorgulayan
-          Gelsin" programını sayfamızdan takip edebilirsiniz. 
+          Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını
+          sayfamızdan takip edebilirsiniz.
 
           Esen Kalın.
 
@@ -220,17 +221,22 @@ program2:
           https://www.facebook.com/kanalhayat
 
           https://twitter.com/kanalhayat
-        duration: PT30M6S
-        id: IJ-iJzdGypA
-        imageURL: 'https://i.ytimg.com/vi/IJ-iJzdGypA/hqdefault.jpg'
+        duration: PT28M1S
+        id: BYUISfHicOM
+        imageURL: 'https://i.ytimg.com/vi/BYUISfHicOM/hqdefault.jpg'
         mediaType: video
-        publishedAt: '2018-01-04T05:47:51.000Z'
+        publishedAt: '2012-08-27T09:25:58.000Z'
         tags: >-
-          Hristiyan,Hristiyanlık,#kutsal,Kitap’a,güvenebilir,miyiz?,Sorgulayan,Gelsin
-        title: 'Kutsal Kitap’a güvenebilir miyiz? - [Sorgulayan Gelsin 08]'
+          hristiyan,kilise,peygamber,isa mesih,protestan,katolik,ahiret
+          günü,kıyamet,yargı,günah,hristiyanlık,ahiret,hz
+          isa,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur anlatsana,kutsal
+          ruh,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+          stanley,joyce meyer,ışık abla,güçlü erman,protestanlar,zekeriya
+          butros,kirkor ağabaloğlu
+        title: 34. Bölüm Yaşam Değiştiren Dua
         url: >-
-          https://www.youtube.com/watch?v=IJ-iJzdGypA&list=PLQfi14V3hH0IlRTzN5wdxV8nAKdKZBki6&index=9&t=0s
-        viewCount: '1532'
+          https://www.youtube.com/watch?v=BYUISfHicOM&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=5&t=0s
+        viewCount: '2296'
   title: Charles Stanley / İNCİL ÖĞRETMENİ
 ---
 
