@@ -33,11 +33,12 @@
 
 .button {
   width: 100%;
+  height: 100%;
   text-align: left;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
+  margin: 8px 2px;
   cursor: pointer;
   border-color: #FFFF #FFFF #E5E5E5 #FFFF;
   outline:none;
@@ -83,4 +84,25 @@
   color: black;
   font-size: 18px;
   line-height: 25px;
+}
+@media (max-width: map-get($grid-breakpoints, sm)) {
+	.question-text {
+		font-size: 13px;
+  }
+  .s-s-s {
+    padding: 20px 30px;
+  }
+  .answer-text {
+    font-size: 13px;
+  }
+  .video {
+    width: 200px;
+    height: 130px;
+  }
+  .minicontainer {
+    margin-bottom: 0px;
+  }
+  .title {
+    font-size: 16px;
+  }
 }

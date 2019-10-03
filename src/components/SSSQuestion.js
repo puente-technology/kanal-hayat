@@ -6,19 +6,22 @@ import './SSS.scss'
 
 class SSSQuestion extends Component {
   state = {
+    isClicked: false,
   }
 
   handleQuestionClick = (index) => {
     const { handleClick } = this.props
-    // this.setState({ isClicked: '' })
+    const { isClicked } = this.state
+    this.setState({ isClicked: !isClicked })
     handleClick(index)
   }
+
   render() {
     const { index, question } = this.props
-    console.log('asma here')
     return (
       <React.Fragment>
         <button
+          type="button"
           className="button"
           value={index}
           onClick={() => this.handleQuestionClick(index)}
@@ -26,7 +29,7 @@ class SSSQuestion extends Component {
           <span className="question-text">
             {`${index + 1}. ${question}`}
           </span>
-          <Icon flipped='horizontally' name='chevron down' />
+          <div><i aria-hidden="true" className="chevron down horizontally flipped icon" /></div>
         </button>
       </React.Fragment>
     )
