@@ -46,13 +46,8 @@ gallery:
   - align: right
     alt: Ender Peker ile
     color: light
-    image: /images/uploads/ahleke-i̇nci̇li̇.png
+    image: /images/uploads/ender-peker.png
     title: Exlaq'a İncil'ê (İncil Ahlakı)
-  - align: center
-    alt: Milazım Rasoyan ve Şaban Ok ile
-    color: light
-    image: /images/uploads/suhbeten-kelame.png
-    title: SUHBETÊN KELAMÊ
   - align: left
     alt: 'Güçlü Erman ile '
     color: light
@@ -63,6 +58,11 @@ gallery:
     color: light
     image: /images/uploads/sibel-üçal.png
     title: Hristiyan İlahiler
+  - align: center
+    alt: Milazım Rasoyan ve Şaban Ok ile
+    color: light
+    image: /images/uploads/saban-and-milazim.jpg
+    title: SUHBETÊN KELAMÊ
   - align: left
     alt: Batır Nuroğlu ile
     color: light
