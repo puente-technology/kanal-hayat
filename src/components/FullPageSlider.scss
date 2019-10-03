@@ -393,7 +393,7 @@ body {
   .slide__caption {
     width: fit-content;
     &.left {
-      left: 40px;
+      left: 20px;
     }
     &.right {
       right: 40px;
@@ -408,14 +408,6 @@ body {
   .slide__caption--line {
     width: 100%;
   }
-  .slide__caption--title {
-    font-size: 24px;
-  }
-  .slide__caption--btn {
-    font-size: 13px;
-    width: 150px;
-    height: 30px;
-  }
   .slide__caption--program {
     font-size: 14px;
   }
@@ -425,4 +417,20 @@ body {
   .slide__caption--text {
     display: flex;
   }
+  .slide__caption--btn {
+    font-size: 11px;
+    width: 85px;
+    height: 30px;
+  }
+  .slide__caption--title {
+    font-size: 12px;
+  }
+  .slide__caption {
+    line-height: 45px;
+    top: 84px !important;
+  }
+  .indicators__item {
+    height: 6px;
+    width: 16px;
+}
 }

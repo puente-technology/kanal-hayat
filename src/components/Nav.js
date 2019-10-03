@@ -73,7 +73,7 @@ export class Navigation extends Component {
             <Logo />
           </Link>
           <div className={`Nav--Links ${color.color} ${color.nav ? 'side-menu-open' : ''}`}>
-            <button type="button" className="Nav--XIcon" onClick={this.handleOpenNav}><img src={closeIcon} alt="CloseIcon" /></button>
+            <button type="button" className="Nav--XIcon" onClick={this.handleOpenNav}><img className="Nav--XIcon--Img" src={closeIcon} alt="CloseIcon" /></button>
             <NavLink color={color} align={align} to="/">Ana Sayfa</NavLink>
             <NavLink color={color} align={align} to="/events">Yayın Akışı</NavLink>
             <NavLink color={color} align={align} to="/series">Programlar</NavLink>

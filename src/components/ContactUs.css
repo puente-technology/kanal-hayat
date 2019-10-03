@@ -38,6 +38,7 @@
 .ContactUsHeaderText{
   width: 171px;
   height: 58px;
+  margin-top: 25px;
 }
 
 .ContactUsHeaderTextStyle {
@@ -49,7 +50,8 @@
   color: #3D3D3D;
 }
 .ContactUsInfoText {
-  display: flex
+  display: flex;
+  margin-top: 11px;
 }
 .ContactUsInfoTextStyleBold {
   
@@ -148,7 +150,7 @@
 
 @media (max-width: 576px) {
   .contact-us {
-    flex-direction: column;
+    flex-direction: column-reverse;
     justify-content: flex-start;
     height: auto;
     margin-bottom: 31px;
@@ -162,6 +164,11 @@
     flex-direction: column;
     align-items: center;
     padding: 35px 0px;
+  }
+
+  .field {
+    display: flex;
+    flex-direction: column;
   }
   
   .logoImg {
@@ -209,7 +216,7 @@
   }
   
   .lineStyle {
-    width: 530px;
+    width: 100px;
   }
 
   .logoContainer {

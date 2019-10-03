@@ -66,7 +66,7 @@ class HeaderBanner extends PureComponent {
             })
           }
           <div className="headerText">
-            <p style={{ paddingTop: '40px' }}>
+            <p className="headerTitle">
               {title.data}
             </p>
           </div>

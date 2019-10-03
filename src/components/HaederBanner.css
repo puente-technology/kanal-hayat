@@ -1,7 +1,6 @@
 .headerBanner {
   width: 100%;
   background: #F9F9F9;
-  height: 450px;
 }
 
 .imageBackground {
@@ -29,10 +28,9 @@
 }
 
 @media (max-width: 576px) {
-  .headerBanner {
-    height: 365px;
+  .headerTitle {
+    padding-top: 50px;
+    font-size: 17px;
   }
-  .imageBackground {
-    height: 365px;
-  }
+
 }
