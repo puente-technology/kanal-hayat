@@ -46,7 +46,7 @@ gallery:
   - align: right
     alt: Ender Peker ile
     color: light
-    image: /images/uploads/ahleke-i̇nci̇li̇.png
+    image: /images/uploads/ender-peker.png
     title: Exlaq'a İncil'ê (İncil Ahlakı)
   - align: left
     alt: 'Güçlü Erman ile '
