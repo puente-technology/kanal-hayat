@@ -1,5 +1,6 @@
 import React from 'react'
 import { graphql } from 'gatsby'
+import moment from 'moment'
 import PropTypes from 'prop-types'
 import LayoutComp from '../components/LayoutComp'
 import Events from '../components/Events';
@@ -8,6 +9,9 @@ import EventsPreviewTemplate from '../cms/preview-templates/Events';
 // Export Template for use in CMS preview
 export const EventsTemplate = data => (
   <React.Fragment>
+    {console.log('Ayeeee', data)}
+    {console.log('Current date', moment().format('DD MM YYYY ddd'))}
+    { console.log('simple check', moment('2019-10-04').isSame(new Date(), 'week')) }
     {
       data.frontmatter
         ? <Events title={data.frontmatter.title} eventList={data.frontmatter.eventList} />
@@ -17,9 +21,9 @@ export const EventsTemplate = data => (
 )
 
 // Export Default HomePage for front-end
-const EventsPage = ({ data: { page } }) => (
+const EventsPage = ({ data: { page, mdfiles } }) => (
   <LayoutComp>
-    <EventsTemplate {...page} {...page.frontmatter} />
+    <EventsTemplate {...page} {...page.frontmatter} mdfiles={mdfiles} />
   </LayoutComp>
 )
 
@@ -39,6 +43,24 @@ query Events($id: String!, $locale: String) {
           days
           startTime
           endTime
+        }
+      }
+    }
+  }
+  mdfiles :  allMarkdownRemark(filter: {fields: {contentType: {regex: "/yayin/"}}}) {
+    edges {
+      node {
+        frontmatter {
+          title
+        eventList {
+          title
+          subtitle
+          time {
+            days
+            startTime
+            endTime
+          }
+        }
         }
       }
     }
