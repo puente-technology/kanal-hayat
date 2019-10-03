@@ -68,6 +68,11 @@ gallery:
     color: light
     image: /images/uploads/batır-nuroğlu-1.jpg
     title: Mukaddes Ruh
+  - align: left
+    alt: Rev.Dr. Turgay Üçal ile
+    color: light
+    image: /images/uploads/turgay-ucal-ii.jpg
+    title: Mânâ SOHBETLERİ
 program1:
   align: left
   bgImage: /images/uploads/joyce-meyer-3.jpg
