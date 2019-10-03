@@ -49,11 +49,6 @@ gallery:
     image: /images/uploads/ender-peker.png
     title: Exlaq'a İncil'ê (İncil Ahlakı)
   - align: left
-    alt: 'Güçlü Erman ile '
-    color: light
-    image: /images/uploads/güçlü-erman-slider-save-for-web.jpg
-    title: Uyanış
-  - align: left
     alt: Sibel Üçal ile
     color: light
     image: /images/uploads/sibel-üçal.png
@@ -68,6 +63,11 @@ gallery:
     color: light
     image: /images/uploads/turgay-ucal-ii.jpg
     title: Mânâ SOHBETLERİ
+  - align: left
+    alt: 'Güçlü Erman ile '
+    color: light
+    image: /images/uploads/güçlü-erman-slider-save-for-web.jpg
+    title: Uyanış
   - align: left
     alt: Batır Nuroğlu ile
     color: light
