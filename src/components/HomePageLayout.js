@@ -17,6 +17,7 @@ const Layout = ({
       <link href="https://ucarecdn.com" rel="preconnect" crossOrigin />
       <link rel="dns-prefetch" href="https://ucarecdn.com" />
       <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" />
+      <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet" />
     </Helmet>
     {/* <Nav color={color} align={align} /> */}
     <div className="MainDiv">

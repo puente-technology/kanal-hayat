@@ -214,6 +214,21 @@ collections:
           - { label: Address, name: address, widget: string }
           - { label: Header, name: header, widget: string }
 
+  - name: 's-s-s'
+    label: 'S. S. S.'
+    delete: false
+    editor:
+      preview: true
+    files:
+      - file: 'content/pages/s-s-s.md'
+        label: 'S. S. S.'
+        name: 's-s-s'
+        fields:
+          - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
+          - { label: Template, name: template, widget: hidden}
+          - { label: Slug, name: slug, widget: hidden, default: '' }
+          - { label: Title, name: title, widget: string }
+
   - name: 'info-page'
     label: 'Bilgi Edin'
     delete: false
