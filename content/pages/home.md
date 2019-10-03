@@ -49,11 +49,6 @@ gallery:
     image: /images/uploads/ender-peker.png
     title: Exlaq'a İncil'ê (İncil Ahlakı)
   - align: left
-    alt: 'Güçlü Erman ile '
-    color: light
-    image: /images/uploads/güçlü-erman-slider-save-for-web.jpg
-    title: Uyanış
-  - align: left
     alt: Sibel Üçal ile
     color: light
     image: /images/uploads/sibel-üçal.png
@@ -64,15 +59,25 @@ gallery:
     image: /images/uploads/saban-and-milazim.jpg
     title: SUHBETÊN KELAMÊ
   - align: left
-    alt: Batır Nuroğlu ile
-    color: light
-    image: /images/uploads/batır-nuroğlu-1.jpg
-    title: Mukaddes Ruh
-  - align: left
     alt: Rev.Dr. Turgay Üçal ile
     color: light
     image: /images/uploads/turgay-ucal-ii.jpg
     title: Mânâ SOHBETLERİ
+  - align: left
+    alt: 'Güçlü Erman ile '
+    color: light
+    image: /images/uploads/güçlü-erman-slider-save-for-web.jpg
+    title: Uyanış
+  - align: left
+    alt: Batır Nuroğlu ile
+    color: light
+    image: /images/uploads/batır-nuroğlu-1.jpg
+    title: Mukaddes Ruh
+  - align: right
+    alt: İhsan Özbek ile
+    color: light
+    image: /images/uploads/17.jpg
+    title: EY GİDİ KARADENİZ
 program1:
   align: left
   bgImage: /images/uploads/joyce-meyer-3.jpg
