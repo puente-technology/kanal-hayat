@@ -7,18 +7,22 @@ import Events from '../components/Events';
 import EventsPreviewTemplate from '../cms/preview-templates/Events';
 
 // Export Template for use in CMS preview
-export const EventsTemplate = data => (
-  <React.Fragment>
-    {console.log('Ayeeee', data)}
-    {console.log('Current date', moment().format('DD MM YYYY ddd'))}
-    { console.log('simple check', moment('2019-10-04').isSame(new Date(), 'week')) }
-    {
-      data.frontmatter
-        ? <Events title={data.frontmatter.title} eventList={data.frontmatter.eventList} />
-        : <EventsPreviewTemplate eventList={data.eventList} />
-    }
-  </React.Fragment>
-)
+export const EventsTemplate = (data) => {
+  data.mdfiles.edges.map((obj) => {
+    const time = moment(obj.node.frontmatter.title, 'DD MM YYYY ddd').format('YYYY-MM-DD')
+    console.log(time)
+    console.log(moment(time).isSame(new Date(), 'week'))
+  })
+  return (
+    <React.Fragment>
+      {
+        data.frontmatter
+          ? <Events title={data.frontmatter.title} eventList={data.frontmatter.eventList} />
+          : <EventsPreviewTemplate eventList={data.eventList} />
+      }
+    </React.Fragment>
+  )
+}
 
 // Export Default HomePage for front-end
 const EventsPage = ({ data: { page, mdfiles } }) => (
