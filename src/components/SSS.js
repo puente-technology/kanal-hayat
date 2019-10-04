@@ -18,9 +18,14 @@ class SSS extends Component {
     }
 
     handleQuestionClick = (index) => {
-      this.setState(() => ({ answerID: index }));
-      const { showAnswer } = this.state;
-      this.setState(() => ({ showAnswer: !showAnswer }));
+      const { showAnswer, answerID } = this.state;
+      if (answerID === index) {
+        console.log('asma equals')
+        this.setState(() => ({ showAnswer: !showAnswer }));
+      } else {
+        this.setState(() => ({ answerID: index }));
+        this.setState(() => ({ showAnswer: true }));
+      }
     }
 
     render() {
