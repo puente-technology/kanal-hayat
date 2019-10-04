@@ -87,6 +87,7 @@
 
 .field {
   display: flex;
+  margin-top: 21px;
 }
 
 .fieldStyle {
@@ -147,6 +148,9 @@
   color: #FFF;
   margin-top: 24px;
 }
+.rightFieldStyle {
+  padding-left: 30px;
+}
 
 @media (max-width: 576px) {
   .contact-us {
@@ -169,6 +173,7 @@
   .field {
     display: flex;
     flex-direction: column;
+    margin-top: 0px;
   }
   
   .logoImg {
@@ -195,7 +200,9 @@
     line-height: 18px;
     font-family: sans-serif;
   }
-  
+  .rightFieldStyle {
+    padding-left: 0px;
+  }
   .ContactUsInfoTextStyle {
     font-size: 13px;
     line-height: 18px;
@@ -212,11 +219,11 @@
   }
   
   .fieldStyle {
-    width: 250px;
+    margin-top: 21px;
   }
   
   .lineStyle {
-    width: 100px;
+    width: 357px;
   }
 
   .logoContainer {
@@ -227,4 +234,8 @@
     width: auto;
     height: auto;
   }
+
+  .buttonStyle {
+    width: 200px;
+}
 }

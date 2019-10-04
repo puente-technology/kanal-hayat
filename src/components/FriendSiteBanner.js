@@ -39,8 +39,8 @@ export default () => (
 const FriendSiteBanner = (edge) => {
   const { node } = edge.edge;
   return (
-    <div className="friendSiteBannerContainer">
-      <div className="background">
+    <div className="banner-container">
+      <div className="">
         <img className="imageStyle" alt={node.imageObj[0].alt} src={node.imageObj[0].image} />
       </div>
       <div className="logoDiv">

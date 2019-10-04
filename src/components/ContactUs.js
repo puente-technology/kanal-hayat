@@ -62,15 +62,15 @@ const ContactUsPage = (props) => {
             <div>
               <input className="fieldStyle" type="text" name="name" placeholder="İsim-Soyisim *" />
             </div>
-            <div style={{ paddingLeft: '30px' }}>
+            <div className="rightFieldStyle">
               <input className="fieldStyle" type="email" name="email" placeholder="E-mail *" />
             </div>
           </div>
-          <div className="field" style={{ marginTop: '21px' }}>
+          <div className="field">
             <div>
               <input className="fieldStyle" type="text" name="konu" placeholder="Konu *" />
             </div>
-            <div style={{ paddingLeft: '30px' }}>
+            <div className="rightFieldStyle">
               <input className="fieldStyle" type="text" name="telefon" placeholder="Telefon *" />
             </div>
           </div>

@@ -378,6 +378,39 @@
     transform: rotate(180deg);
   }
 }
+
+@media (max-width: 768px) {
+  .Episode {
+    margin-left: 22px;
+    margin-top: 15px;
+  }
+  .EpisodeVideo {
+    width: 300px;
+    height: 179px;
+  }
+  .minicontainer {
+    display: flex;
+    width: 356px;
+    margin-top: 12px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-bottom: 53px;
+    position: relative;
+  }
+  .subminititle {
+    font-size: 14px;
+    line-height: 25px;
+    text-transform: capitalize;
+    color: #3d3d3d;
+    width: 100%;
+  }
+  .details {
+    font-size: 12px;
+  }
+
+}
+
+
 select::-ms-expand {
   display: none;
 }

@@ -32,9 +32,6 @@ const MobileAppLink = () => (
         </a>
       </div>
     </div>
-    <div className="phone">
-      {<img alt='phone' key='phone' src={phone}/>}
-    </div>
   </div>
 
 )
