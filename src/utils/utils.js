@@ -30,7 +30,7 @@ Date.prototype.toEventDateFormat = function () {
   const day = this.getDate();
   const monthIndex = this.getMonth();
 
-  return `${day} ${monthNames[monthIndex]}`;
+  return `${day} ${monthNames[monthIndex - 1]}`;
 }
 
 // eslint-disable-next-line no-extend-native
