@@ -1,3 +1,4 @@
+/* eslint-disable array-callback-return */
 import React from 'react'
 import { graphql } from 'gatsby'
 import moment from 'moment'
