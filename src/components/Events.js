@@ -66,9 +66,9 @@ class Events extends Component {
 
   render() {
     const { activeDay, scrollWeekPosition, scrollLeftMax } = this.state;
-    console.log('State', this.state)
+    // console.log('State', this.state)
     const timeNow = new Date().toLocaleString();
-    console.log('Time Now', timeNow)
+    // console.log('Time Now', timeNow)
     // console.log('Scroll Event Week Position : ', scrollWeekPosition, scrollLeftMax);
     return (
       <React.Fragment>

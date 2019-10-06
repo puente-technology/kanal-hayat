@@ -25,6 +25,7 @@ class SeriesList extends Component {
 
   componentDidMount() {
     const { data } = this.props;
+    console.log('Series', data)
     this.sortByName()
     this.setState({ listSeries: this.dataIntoArray(data) })
   }

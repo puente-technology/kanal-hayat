@@ -1,3 +1,5 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
+/* eslint-disable react/jsx-no-bind */
 import React, { Component, Fragment } from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
@@ -108,7 +110,11 @@ export default class FullPageSlider extends Component {
   }
 
   render() {
-    const { gallery, dispatch, hosts } = this.props
+    const {
+      gallery,
+      dispatch,
+      hosts,
+    } = this.props
     return (
       <Fragment>
         <section id="slider" className="slider">
@@ -130,7 +136,7 @@ export default class FullPageSlider extends Component {
                       {g.title}
                     </span>
                     <span className="slide__caption--text">
-                      <button className={`slide__caption--btn ${g.color}`} type="button">Programa Git</button>
+                      <a href={`${g.link}`} className={`slide__caption--btn ${g.color}`}>Programa Git</a>
                     </span>
                   </div>
                   {/* <img src="images/ScrollIcon.png" className="slide__footer--scroll" /> */}

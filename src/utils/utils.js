@@ -48,7 +48,7 @@ export const eventWeek = () => {
   const today = new Date();
   const startDay = new Date();
   const nthDayOfWeek = today.getDay();
-  console.log('Nday', nthDayOfWeek)
+  // console.log('Nday', nthDayOfWeek)
   const isMonday = nthDayOfWeek === 0;
   const isSunday = nthDayOfWeek === 6;
   if (!isMonday) {
@@ -69,7 +69,7 @@ export const eventWeek = () => {
       nthDayOfWeek: tempNth,
     })
   }
-  console.log('What is This', result)
+  // console.log('What is This', result)
   return result;
 }
 

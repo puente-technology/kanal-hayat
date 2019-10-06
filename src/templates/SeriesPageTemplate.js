@@ -256,8 +256,8 @@ class CustomHeaderBanner extends Component {
               <div className="TextInfoHost">
                 {host}
               </div>
-              <div className="TextInfoDescription">
-                {description.slice(0, 250)}
+              <div className="TextInfoDescription" style={{ width: '90%' }}>
+                {description}
               </div>
               <div className="TextInfoEpisode">
                 <div className="TextInfoAndSeason">
