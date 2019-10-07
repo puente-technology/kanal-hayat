@@ -447,6 +447,41 @@ questions:
           title: 32. Bölüm Gerçek Dua Nasıl Edilir?
           url: 'https://www.youtube.com/watch?v=zUTQlmGfgow'
           viewCount: '6872'
+      - guests: .
+        host: Gülhan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Umut Işığı (Bölüm 3)
+
+            Gül Han'ın hazırlayıp sunduğu Hristiyan Ruhsallığı hakkındaki "Umut
+            Işığı" programını Kanal Hayat Ekranlarında ve youtube sayfamızdan
+            takip edebilirsiniz.
+
+            Ruh'ta Büyümek ve Derinleşmek
+
+            Kurtuluşumuz için Neden İsa Mesih'e ihtiyacımız var ?
+
+            Düşmanınızı Tanıyın..
+
+            Duanın gücüne inanın..
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT22M54S
+          id: XnwQwjnROK8
+          imageURL: 'https://i.ytimg.com/vi/XnwQwjnROK8/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2018-12-01T20:04:48.000Z'
+          tags: 'duanın,gücüne,inanın'
+          title: Umut Işığı - Dua'nın Gücüne İnanın
+          url: 'https://www.youtube.com/watch?v=XnwQwjnROK8'
+          viewCount: '822'
   - answer: >-
       7 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
