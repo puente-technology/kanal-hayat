@@ -209,5 +209,23 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=3mveGetAL1o&list=PL8F7E18D33C4FACAA&index=75&t=0s
       viewCount: '3857'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT25M11S
+      id: Qrj9mmCQQuw
+      imageURL: 'https://i.ytimg.com/vi/Qrj9mmCQQuw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-07T07:47:33.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestan,protestanlar
+      title: Geçmişten Gelen Kaleleri Yıkmak 2
+      url: >-
+        https://www.youtube.com/watch?v=Qrj9mmCQQuw&list=PL8F7E18D33C4FACAA&index=76&t=0s
+      viewCount: '2664'
 ---
 
