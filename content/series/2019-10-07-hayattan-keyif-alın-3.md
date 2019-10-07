@@ -292,5 +292,18 @@ episodes:
       title: Güvensizlik Bağından Özgür Olmak
       url: 'https://youtu.be/rKCUAE7cJUI'
       viewCount: '4387'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT25M15S
+      id: VMhtk6gLu3Q
+      imageURL: 'https://i.ytimg.com/vi/VMhtk6gLu3Q/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-23T06:57:57.000Z'
+      tags: şevkin
+      title: Harekete Geçme Şevkin Nerede 1. Bölüm
+      url: 'https://youtu.be/VMhtk6gLu3Q'
+      viewCount: '1593'
 ---
 
