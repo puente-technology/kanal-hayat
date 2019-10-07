@@ -305,5 +305,18 @@ episodes:
       title: Harekete Geçme Şevkin Nerede 1. Bölüm
       url: 'https://youtu.be/VMhtk6gLu3Q'
       viewCount: '1593'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT24M22S
+      id: C-_GZieNhes
+      imageURL: 'https://i.ytimg.com/vi/C-_GZieNhes/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-23T06:58:59.000Z'
+      tags: şevk
+      title: Harekete Geçme Şevkin Nerede 2. Bölüm
+      url: 'https://youtu.be/C-_GZieNhes'
+      viewCount: '1329'
 ---
 
