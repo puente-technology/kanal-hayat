@@ -225,5 +225,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=QmxFF8PUQOs&list=PL8F7E18D33C4FACAA&index=15&t=0s
       viewCount: '5786'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT25M10S
+      id: SoTYpVkQtA8
+      imageURL: 'https://i.ytimg.com/vi/SoTYpVkQtA8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T19:01:30.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı,büyümek,zamanı
+      title: Büyüme Zamanı 2. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=SoTYpVkQtA8&list=PL8F7E18D33C4FACAA&index=16&t=0s
+      viewCount: '1725'
 ---
 
