@@ -266,5 +266,18 @@ episodes:
       title: 'Adalet, Merhamet ve İyilik'
       url: 'https://youtu.be/wBz6c9cjOF0'
       viewCount: '1629'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT21M52S
+      id: s0LDhN_Q09U
+      imageURL: 'https://i.ytimg.com/vi/s0LDhN_Q09U/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-23T06:39:55.000Z'
+      tags: önemli
+      title: Hayattaki En Önemli Şey
+      url: 'https://youtu.be/s0LDhN_Q09U'
+      viewCount: '6239'
 ---
 
