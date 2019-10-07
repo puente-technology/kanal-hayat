@@ -327,5 +327,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Pm1QeFxSi6w&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=15&t=0s
       viewCount: '94'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: >-
+        1086 2 Güçlü Düşünceler 2
+
+        Joyce Meyer'in birbirinden farklı konular hakkındaki programlarını Kanal
+        Hayat ekranından veya sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT24M9S
+      id: NL715li-YOQ
+      imageURL: 'https://i.ytimg.com/vi/NL715li-YOQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-16T05:38:57.000Z'
+      tags: 'hayattan,keyif,alın,güçlü,düşünceler,joyce,meyer'
+      title: Hayattan Keyif Alın - Güçlü Düşünceler 2
+      url: >-
+        https://www.youtube.com/watch?v=NL715li-YOQ&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=16&t=0s
+      viewCount: '186'
 ---
 
