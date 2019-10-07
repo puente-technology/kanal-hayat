@@ -195,5 +195,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=F-dS41r3D-k&list=PL8F7E18D33C4FACAA&index=13&t=0s
       viewCount: '2278'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT25M10S
+      id: u8XL5jZgChY
+      imageURL: 'https://i.ytimg.com/vi/u8XL5jZgChY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T18:43:52.000Z'
+      tags: >-
+        devam,edin,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet
+      title: Devam Edin 2. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=u8XL5jZgChY&list=PL8F7E18D33C4FACAA&index=14&t=0s
+      viewCount: '1336'
 ---
 
