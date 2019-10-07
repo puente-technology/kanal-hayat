@@ -226,8 +226,18 @@ collections:
         fields:
           - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
           - { label: Template, name: template, widget: hidden}
-          - { label: Slug, name: slug, widget: hidden, default: '' }
           - { label: Title, name: title, widget: string }
+          - label: 'Sorular'
+            name: 'questions'
+            widget: 'list'
+              - { label: Soru, name: question, widget: string }
+              - { label: Cevap, name: answer, widget: string }
+              - label: 'Bölümler'
+                name: 'videos'
+                widget: 'list'
+                required: false
+                fields:
+                  - { name: youtubeURL, label: Youtube URL, widget: youtube, extraInfo: true, APIkey: "AIzaSyAln9Zizqc3_r8zozq4OcmqwwsUOXRJtuE" } 
 
   - name: 'info-page'
     label: 'Bilgi Edin'
