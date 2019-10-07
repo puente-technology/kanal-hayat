@@ -1,0 +1,34 @@
+---
+template: SeriesPageTemplate
+title: HAYATTAN KEYİF ALIN 2
+publishDate: .
+coverImage: /images/uploads/rrr.jpg
+host: Joyce Meyer ile
+description: >-
+  Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından nasıl özgür
+  olur? Kitapları Çok Satan İncil Öğretmeni Joyce Meyer’den, hayatınızdan zevk
+  almanız için teşvik dolu paylaşımlar. Joyce Meyer’i Kanal Hayat ekranlarından
+  ve Youtube kanalımızdan takip edebilirsiniz.
+targetGroup: Herkes
+language: '0'
+selectedCategories:
+  - Rehberlik
+  - Öğretim
+episodes:
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT25M51S
+      id: _z3aJy-3Vm8
+      imageURL: 'https://i.ytimg.com/vi/_z3aJy-3Vm8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-27T06:52:55.000Z'
+      tags: >-
+        sevgi,yolunda,yürümek,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Sevgi Yolunda Yürümek 1. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=_z3aJy-3Vm8&list=PL8F7E18D33C4FACAA&index=33&t=0s
+      viewCount: '2209'
+---
+
