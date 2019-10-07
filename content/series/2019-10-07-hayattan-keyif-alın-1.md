@@ -198,5 +198,32 @@ episodes:
       title: 1078 2 Vazgeçmek Bir Seçenek Değil - 2
       url: 'https://youtu.be/Q-jiDOxGdPQ'
       viewCount: '415'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: >-
+        Kül Yerine Çelenk 1
+
+        Vazgeçmek Bir Seçenek Değil - 1
+
+        Joyce Meyer'in birbirinden farklı konular hakkındaki programlarını
+        sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M7S
+      id: pLcWgF3DCa0
+      imageURL: 'https://i.ytimg.com/vi/pLcWgF3DCa0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-11T08:48:31.000Z'
+      tags: '#kül,#yerine,#çelenk'
+      title: 1082 1 Kül Yerine Çelenk 1
+      url: 'https://youtu.be/pLcWgF3DCa0'
+      viewCount: '304'
 ---
 
