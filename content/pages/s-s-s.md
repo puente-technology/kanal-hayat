@@ -336,6 +336,40 @@ questions:
           title: '8. Bölüm: İncil Değştirildi mi ve Kaç İncil Var?'
           url: 'https://www.youtube.com/watch?v=LKeyNJkGEOA'
           viewCount: '3606'
+      - guests: .
+        host: Zekeriya Butrus ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize
+            sorduğumuz pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı
+            sayfamızdan takip edebilirsiniz.
+
+            Tanrı var mı ? 
+
+            Tanrı Oğlu Ne Demek?
+
+            Hristiyanlık Kavramı Nedir?
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT29M
+          id: QB6AAXa8iQM
+          imageURL: 'https://i.ytimg.com/vi/QB6AAXa8iQM/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2011-11-10T11:35:54.000Z'
+          tags: >-
+            hristiyan,hz isa,peygamber,ahiret,kiyamet günü,cehennem azabı,kabir
+            azabı,kutsal
+            kitap,incil,Kuran,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+          title: 15. Bölüm (İncil değiştiril mi?)
+          url: 'https://www.youtube.com/watch?v=QB6AAXa8iQM'
+          viewCount: '1906'
   - answer: >-
       5 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
