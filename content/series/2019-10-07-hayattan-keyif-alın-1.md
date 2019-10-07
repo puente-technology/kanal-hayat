@@ -250,5 +250,31 @@ episodes:
       title: 1082 2 Kül Yerine Çelenk 2
       url: 'https://youtu.be/ETNQ4rHBjYU'
       viewCount: '329'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: >-
+        Korku İle Yüzleşmek ve Özgürlüğe Kavuşmak 1
+
+        Joyce Meyer'in birbirinden farklı konular hakkındaki programlarını
+        sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT23M53S
+      id: _nkxU1NSY0s
+      imageURL: 'https://i.ytimg.com/vi/_nkxU1NSY0s/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-26T17:27:39.000Z'
+      tags: '#korku,#ile,#yüzleşmek,#özgürlük'
+      title: 1085 2 - Korku İle Yüzleşmek ve Özgürlüğe Kavuşmak 1
+      url: >-
+        https://www.youtube.com/watch?v=_nkxU1NSY0s&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=13&t=0s
+      viewCount: '122'
 ---
 
