@@ -132,7 +132,7 @@ questions:
           url: 'https://www.youtube.com/watch?v=eqx0ZkQeTDA'
           viewCount: '1489'
       - guests: .
-        host: Can Nuroğlu
+        host: Can Nuroğlu ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
