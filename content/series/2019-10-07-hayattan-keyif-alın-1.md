@@ -276,5 +276,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=_nkxU1NSY0s&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=13&t=0s
       viewCount: '122'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: >-
+        1085 3 Korku İle yüzleşmek ve Özgürlüğe Kavuşmak 2
+
+        Joyce Meyer'in birbirinden farklı konular hakkındaki programlarını
+        sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M22S
+      id: mgvdlsCZ4F8
+      imageURL: 'https://i.ytimg.com/vi/mgvdlsCZ4F8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-02T17:07:06.000Z'
+      tags: '#korku,#yüzleşmek'
+      title: Hayattan Keyif Alın -  Korku İle Yüzleşmek ve Özgürlüğe Kavuşmak - 2
+      url: 'https://youtu.be/mgvdlsCZ4F8'
+      viewCount: '126'
 ---
 
