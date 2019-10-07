@@ -8,8 +8,6 @@ questions:
       1 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Hristiyan kimdir?
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -38,6 +36,9 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
       - youtubeURL:
           description: >-
             It's time to start being content with who you are and stop comparing
@@ -65,6 +66,9 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
       - youtubeURL:
           description: >-
             It's time to start being content with who you are and stop comparing
@@ -92,12 +96,13 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Mesihçi hayatımda günahı   nasıl yenebilirim?
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -126,12 +131,13 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
   - answer: >-
       3 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Kutsal Kitap ondalık       vermek konusunda ne diyor?
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -160,12 +166,13 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
   - answer: >-
       4 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Tanrı’nın sesini nasıl tanıyabiliriz?
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -194,12 +201,13 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
   - answer: >-
       5 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Kutsal Kitap ruhsal savaş hakkında ne der?
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -228,12 +236,13 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
   - answer: >-
       6 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Ruhsal büyüme nedir?
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -262,12 +271,13 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
   - answer: >-
       7 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Bana karşı günah işleyenleri nasıl bağışlayabilirim?
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -296,12 +306,13 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
   - answer: >-
       8 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Kutsal Kitap Hristiyan orucu hakkında ne der?
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -330,14 +341,15 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
   - answer: >-
       9 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: >-
       Arkadaşlarıma ve aileme, onların alınmasına neden olmadan ve onları
       kendimden uzaklaştırmadan nasıl müjdeleme yapabilirim?
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -366,12 +378,13 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
   - answer: >-
       10 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Dünyasal bir Hristiyan nasıl biridir?
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -400,12 +413,13 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
   - answer: >-
       11 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Bütün Hristiyanlar neden ikiyüzlü?
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -434,12 +448,13 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
   - answer: >-
       12 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Hıristiyan hayatımda sevinci nasıl yaşayabilirim?
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -468,12 +483,13 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
   - answer: >-
       13 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Hristiyan meditasyonu nedir?
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -502,12 +518,13 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
   - answer: >-
       14 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Hristiyan ruhsallığı nedir?
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -536,14 +553,15 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: >-
       Günahlarımız zaten bağışlandıysa onları neden itiraf     etmemiz gerekir
       (1 Yuhanna 1:9)?
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -572,14 +590,15 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: >-
       Eğer kurtulduysam ve bütün günahlarım bağışlandıysa      neden günah
       işlemeye devam etmeyeyim ki?
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -608,12 +627,13 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Tanrı’nın bütün silahları nelerdir?
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -642,12 +662,13 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305520'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: 'Günah işlediğimizde Rab bizi ne zaman, neden ve nasıl    disiplin eder?'
-    host: Test
-    targetGroup: Herkes
     videos:
       - youtubeURL:
           description: >-
@@ -676,5 +697,9 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305520'
+        host: Test
+        guests: Test
+        targetGroup: Herkes
 ---
+
 

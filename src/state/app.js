@@ -8,13 +8,14 @@ const initialState = {
   isOpen: false,
   hosts: '',
   isBigScreen: false,
+  questionIndex: '',
 };
 
 const TOGGLE_DARKMODE = 'TOGGLE_DARKMODE';
 
 export const toggleDarkMode = (
   episode, episodes, playing, index,
-  frontmatter, handleCloseClick, isOpen, hosts, isBigScreen,
+  frontmatter, handleCloseClick, isOpen, hosts, isBigScreen, questionIndex,
 ) => ({
   type: TOGGLE_DARKMODE,
   episode,
@@ -26,6 +27,7 @@ export const toggleDarkMode = (
   isOpen,
   hosts,
   isBigScreen,
+  questionIndex,
 });
 
 export default (state = initialState, action) => {
@@ -42,6 +44,7 @@ export default (state = initialState, action) => {
         isOpen: action.isOpen,
         hosts: action.hosts,
         isBigScreen: action.isBigScreen,
+        questionIndex: action.questionIndex,
       };
     default:
       return state;

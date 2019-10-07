@@ -234,17 +234,18 @@ collections:
             fields:
               - { label: Soru, name: question, widget: string }
               - { label: Cevap, name: answer, widget: string }
-              - { label: Sunucu, name: host, widget: string }
-              - label: Hedef Kitle
-                name: targetGroup
-                widget: select
-                options: ["Çocuk",  "Genç", "Yetişkin", "Herkes"]
               - label: 'Bölümler'
                 name: 'videos'
                 widget: 'list'
                 required: false
                 fields:
                   - { name: youtubeURL, label: Youtube URL, widget: youtube, extraInfo: true, APIkey: "AIzaSyAln9Zizqc3_r8zozq4OcmqwwsUOXRJtuE" } 
+                  - { label: Sunucu, name: host, widget: string }
+                  - { label: Konuklar, name: guests, widget: string, required: false, default: '' }
+                  - label: Hedef Kitle
+                    name: targetGroup
+                    widget: select
+                    options: ["Çocuk",  "Genç", "Yetişkin", "Herkes"]
 
   - name: 'info-page'
     label: 'Bilgi Edin'

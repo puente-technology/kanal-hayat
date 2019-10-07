@@ -14,12 +14,12 @@ class SSSAnswer extends Component {
 
 
   hanndlePlayClick = (e) => {
-    console.log('ayeee', e.target.value)
     const {
       dispatch,
       frontmatter,
       hosts,
       videos,
+      questionIndex,
     } = this.props
     const { items, index } = JSON.parse(e.target.value)
     dispatch(toggleDarkMode(
@@ -32,6 +32,7 @@ class SSSAnswer extends Component {
       false,
       hosts,
       false,
+      questionIndex,
     ))
   }
 
@@ -95,6 +96,7 @@ SSSAnswer.propTypes = {
   frontmatter: PropTypes.any,
   hosts: PropTypes.any,
   dispatch: PropTypes.any,
+  questionIndex: PropTypes.any,
 }
 
 

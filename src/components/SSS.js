@@ -47,6 +47,7 @@ class SSS extends Component {
                     answer={questions[index].answer}
                     frontmatter={frontmatter}
                     videos={questions[index].videos}
+                    questionIndex={index}
                   />
                   )
                 }

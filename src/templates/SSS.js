@@ -34,8 +34,6 @@ query SSS($id: String!, $locale: String) {
       questions {
         question
         answer
-        host
-        targetGroup
         videos {
           youtubeURL {
             viewCount
@@ -49,6 +47,9 @@ query SSS($id: String!, $locale: String) {
             publishedAt
             duration
           }
+          host
+          guests
+          targetGroup
         }
       }
     }

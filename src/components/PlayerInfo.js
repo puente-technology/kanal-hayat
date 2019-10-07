@@ -20,6 +20,8 @@ class PlayerInfoExpand extends Component {
     playerIndex: PropTypes.any,
     handleVideoUrlChange: PropTypes.any,
     hosts: PropTypes.any,
+    questionIndex: PropTypes.any,
+    index: PropTypes.any,
   };
 
   constructor(props) {
@@ -49,6 +51,8 @@ class PlayerInfoExpand extends Component {
       frontmatter,
       playerIndex,
       handleVideoUrlChange,
+      questionIndex,
+      index,
     } = this.props
     return (
       <div style={{
@@ -84,9 +88,10 @@ class PlayerInfoExpand extends Component {
             </p>
             <p className="player-info-text-lighter">
               <Link
-                to={this.getHostUrl(frontmatter.host)}
+                to={this.getHostUrl(frontmatter.host
+                  || frontmatter.questions[questionIndex].videos[index].host)}
               >
-                {frontmatter.host || ''}
+                {frontmatter.host || frontmatter.questions[questionIndex].videos[index].host || ''}
               </Link>
             </p>
           </div>
@@ -95,7 +100,7 @@ class PlayerInfoExpand extends Component {
               Konuk:
             </p>
             <p className="player-info-text-lighter">
-              {episodeInfo.guests}
+              {episodeInfo.guests || frontmatter.questions[questionIndex].videos[index].guests || ''}
             </p>
           </div>
           <div className="player-info-info-div">
@@ -103,7 +108,7 @@ class PlayerInfoExpand extends Component {
               Hedef Kitle:
             </p>
             <p className="player-info-text-lighter">
-              {frontmatter.targetGroup || ''}
+              {frontmatter.targetGroup || frontmatter.questions[questionIndex].videos[index].targetGroup || ''}
             </p>
           </div>
           <div className="player-info-info-div">
@@ -156,4 +161,6 @@ class PlayerInfoExpand extends Component {
 export default connect(state => ({
   test: state,
   hosts: state.app.hosts,
+  index: state.app.index,
+  questionIndex: state.app.questionIndex,
 }), null)(PlayerInfoExpand)
