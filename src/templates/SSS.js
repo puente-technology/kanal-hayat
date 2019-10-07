@@ -32,22 +32,24 @@ query SSS($id: String!, $locale: String) {
       locale
       slug
       questions {
-          question
-          answer
-          videos {
-            youtubeURL {
-              viewCount
-              url
-              title
-              tags
-              mediaType
-              imageURL
-              id
-              description
-              publishedAt
-              duration
-            }
+        question
+        answer
+        host
+        targetGroup
+        videos {
+          youtubeURL {
+            viewCount
+            url
+            title
+            tags
+            mediaType
+            imageURL
+            id
+            description
+            publishedAt
+            duration
           }
+        }
       }
     }
   }

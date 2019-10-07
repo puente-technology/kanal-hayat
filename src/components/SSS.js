@@ -43,7 +43,11 @@ class SSS extends Component {
                 />
                 {answerID === index && showAnswer
                   && (
-                  <SSSAnswer answer={questions[index].answer} videos={questions[index].videos} />
+                  <SSSAnswer
+                    answer={questions[index].answer}
+                    frontmatter={frontmatter}
+                    videos={questions[index].videos}
+                  />
                   )
                 }
               </div>

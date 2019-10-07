@@ -62,9 +62,9 @@ class PlayerInfoExpand extends Component {
       }}
       >
         <div className="player-info-header">
-          <p className="player-info-txt-head">
+          {/* <p className="player-info-txt-head">
             {frontmatter.title || ''}
-          </p>
+          </p> */}
           <p className="player-info-txt">
             {episodeInfo.youtubeURL.title}
           </p>
@@ -80,7 +80,7 @@ class PlayerInfoExpand extends Component {
         <div className="player-info-info-div-parent">
           <div className="player-info-info-div">
             <p className="player-info-text-bold">
-              Host:
+              Sunucu:
             </p>
             <p className="player-info-text-lighter">
               <Link
@@ -92,7 +92,7 @@ class PlayerInfoExpand extends Component {
           </div>
           <div className="player-info-info-div">
             <p className="player-info-text-bold">
-              Guests:
+              Konuk:
             </p>
             <p className="player-info-text-lighter">
               {episodeInfo.guests}
@@ -100,7 +100,7 @@ class PlayerInfoExpand extends Component {
           </div>
           <div className="player-info-info-div">
             <p className="player-info-text-bold">
-              Target Group:
+              Hedef Kitle:
             </p>
             <p className="player-info-text-lighter">
               {frontmatter.targetGroup || ''}
@@ -108,7 +108,7 @@ class PlayerInfoExpand extends Component {
           </div>
           <div className="player-info-info-div">
             <p className="player-info-text-bold">
-              Keywords:
+            Anahtar Kelimeler:
             </p>
             <p className="player-info-text-lighter" style={{ height: '32px', overflow: 'scroll' }}>
               {episodeInfo.youtubeURL.tags}

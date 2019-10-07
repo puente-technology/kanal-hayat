@@ -234,6 +234,11 @@ collections:
             fields:
               - { label: Soru, name: question, widget: string }
               - { label: Cevap, name: answer, widget: string }
+              - { label: Sunucu, name: host, widget: string }
+              - label: Hedef Kitle
+                name: targetGroup
+                widget: select
+                options: ["Çocuk",  "Genç", "Yetişkin", "Herkes"]
               - label: 'Bölümler'
                 name: 'videos'
                 widget: 'list'

@@ -106,3 +106,45 @@
     font-size: 16px;
   }
 }
+
+.Episode {
+  margin-left: 68px;
+  margin-top: 15px;
+}
+
+.EpisodeVideo {
+  width: 357px;
+  height: 200px;
+  background-size: cover !important;
+}
+.playParavan {
+  position: absolute;
+  width: 60px;
+  height: 14px;
+  background: black;
+  color: white;
+  bottom: 0;
+  float: right;
+  right: 6px;
+  margin-bottom: 3px;
+}
+
+.subminititle {
+  font-size: 14px;
+  line-height: 25px;
+  text-transform: capitalize;
+  color: #3d3d3d;
+  width: 100%;
+}
+
+.minicontainer {
+  display: flex;
+  width: 356px;
+  margin-top: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 53px;
+}
+
+.details {
+  font-size: 12px;
+}
