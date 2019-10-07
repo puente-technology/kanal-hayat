@@ -402,6 +402,32 @@ questions:
           title: 46. Bölüm İbadet
           url: 'https://www.youtube.com/watch?v=Xb3JRHbx_-g'
           viewCount: '174'
+      - guests: .
+        host: İsmail Serinkan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+            Hayat ekranlarından veya 
+
+            youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT27M44S
+          id: j3L3xbl_1M0
+          imageURL: 'https://i.ytimg.com/vi/j3L3xbl_1M0/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2016-02-15T11:06:07.000Z'
+          tags: ibadet
+          title: 19. Bölüm İbadet
+          url: 'https://www.youtube.com/watch?v=j3L3xbl_1M0'
+          viewCount: '84'
   - answer: >-
       6 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
