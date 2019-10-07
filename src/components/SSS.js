@@ -6,7 +6,7 @@ import './SSS.scss'
 
 class SSS extends Component {
     static propTypes = {
-      frontmatter: PropTypes.any.isRequired,
+      frontmatter: PropTypes.any,
     };
 
     constructor(props) {
