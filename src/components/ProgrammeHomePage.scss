@@ -77,15 +77,68 @@
   height: 80%;
 }
 
+@media (max-width: 2900px) {
+  .Programme{
+    padding-top: 200px;
+    width: 40%;
+    &.left{
+      left: 160px;
+    }
+    &.right{
+    }
+  }
+  .ProgrammeTitle{
+    font-size: 50px;
+    line-height: 38px;
+  }
+  .ProgrammeContent {
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 37px;
+    padding-top: 27px;
+  }
+  .ProgrammeThumbnailTitle{
+    font-size: 23px;
+  }
+}
+@media (max-width: 768px) {
+  .ProgrammeThumbnails {
+    //margin-top: 90px;
+  }
+  .Programme{
+    padding-top: 200px;
+    &.left{
+      left: 40px;
+      padding-right: 100px;
+      padding-top: 300px;
+    }
+    &.right{
+      right: 20px;
+    }
+  }
+
+  .ProgrammeTitle {
+    padding-left: 40px;
+  }
+  .ProgrammeContent {
+    padding-left: 40px;
+  }
+  .ProgrammeThumbnailTitle {
+    text-align: center;
+  }
+}
+
 @media (max-width: 576px) {
   .program-container {
-    display: flex;
+    // display: flex;
+    height: auto;
   }
   .Programme {
     padding-top: 0;
     padding-bottom: 0;
     background: #cacaca;
-    width: 100%;
+    width: auto;
+    position: relative;
     &.light {
     }
     &.dark {
@@ -99,22 +152,47 @@
     }
     &.left {
       left: 0;
+      padding-right: 0px;
+      padding-top: 0px;
       .upperPart {
         padding-left: 32px;
       }
+      .lowerPart{
+        height: 80vh;
+      }
     }
   }
+
+  .lowerPart {
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 80%;
+  }
+
   .ProgrammeTitle {
     font-size: 20px;
     line-height: 28px;
   }
   .ProgrammeContent {
     font-size: 13px;
+    padding-left: 25px;
+    padding-right: 25px;
   }
   .ProgrammeThumbnailTitle {
     font-size: 16px;
+    padding-left: 25px;
+    padding-right: 25px;
   }
   .ProgrammeThumbnails {
     width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
+  .ProgrammeThumbnail {
+    margin-right: 0px;
+  }
+  .ProgrammeThumbnail:not(:first-child) {
+    margin-left: 0px;
+}
 }

@@ -71,6 +71,12 @@
   color: black;
 }
 
+@media (max-width: 768px) {
+  .TextInfo {
+    padding-top: 286px;
+    padding-left: 45px;
+  }
+}
 @media (max-width: 576px) {
   .customHeaderBanner {
     background-position: right !important;
@@ -88,6 +94,7 @@
     }
     .minicontainer {
       margin-bottom: 20px;
+      padding-right: 26px;
     }
   }
   .TextInfo {
@@ -117,3 +124,4 @@
     margin-top: 11px;
   }
 }
+

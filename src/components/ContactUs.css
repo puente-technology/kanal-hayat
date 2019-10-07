@@ -152,6 +152,38 @@
   padding-left: 30px;
 }
 
+@media (max-width: 2900px) {
+  .contact-us{
+    align-items: center;
+  }
+  .fieldStyle {
+    width: 555px;
+    height: 35px;
+  }
+  .lineStyle {
+    width: 1140px;
+  }
+}
+@media (max-width: 768px) {
+  .contact-us {
+    align-items: center;
+    flex-direction: column-reverse;
+    height: auto;
+  }
+  .fieldStyle {
+    width: 320px;
+  }
+  .lineStyle {
+    width: 669px;
+  }
+  .contactInfo {
+    padding-bottom: 25px;
+  }
+  .buttonStyle{
+    width: 239px;
+  }
+}
+
 @media (max-width: 576px) {
   .contact-us {
     flex-direction: column-reverse;

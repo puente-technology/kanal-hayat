@@ -109,6 +109,7 @@
   .content {
     font-size: 13px;
     width: auto;
+    text-align: justify;
   }
 
   .button {
