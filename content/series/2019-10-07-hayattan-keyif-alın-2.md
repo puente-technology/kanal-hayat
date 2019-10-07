@@ -419,5 +419,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=aCcjsQgU0-I&list=PL8F7E18D33C4FACAA&index=56&t=0s
       viewCount: '482'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT25M11S
+      id: v6P_97hlaGM
+      imageURL: 'https://i.ytimg.com/vi/v6P_97hlaGM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T08:52:06.000Z'
+      tags: >-
+        Acı,Ya,da,İyi:,Seçim,Sizin,kilise,incil,kutsal,ruh,kutsalkitap,affetmek,hristiyanlık,ahiret,kıyamet,hz
+        isa,hristiyan,vaftiz,kutsal kitap,tevrat,zebur,gavur anlatsana,kutsal
+        ruh,isa mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 'Acı Ya da İyi: Seçim Sizin 1'
+      url: >-
+        https://www.youtube.com/watch?v=v6P_97hlaGM&list=PL8F7E18D33C4FACAA&index=57&t=0s
+      viewCount: '2171'
 ---
 
