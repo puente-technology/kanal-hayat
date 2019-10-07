@@ -165,5 +165,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=olX-CtM2P_4&list=PL8F7E18D33C4FACAA&index=11&t=0s
       viewCount: '4181'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT25M11S
+      id: 6KcyJ_SdY2w
+      imageURL: 'https://i.ytimg.com/vi/6KcyJ_SdY2w/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T18:32:55.000Z'
+      tags: >-
+        ilerlemenin,bedeli,Joyce,Meyer,turkish,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olur
+      title: İlerlemenin Bedeli 2. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=6KcyJ_SdY2w&list=PL8F7E18D33C4FACAA&index=12&t=0s
+      viewCount: '4245'
 ---
 
