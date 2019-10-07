@@ -331,5 +331,18 @@ episodes:
       title: Hayat Karmaşık mı? 1. Bölüm
       url: 'https://youtu.be/GDQvKjIcdE0'
       viewCount: '3099'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT23M49S
+      id: CPsoD61g2c4
+      imageURL: 'https://i.ytimg.com/vi/CPsoD61g2c4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-23T06:59:10.000Z'
+      tags: hayat karmaşık mı ?
+      title: Hayat Karmaşık mı? 2. Bölüm
+      url: 'https://youtu.be/CPsoD61g2c4'
+      viewCount: '1412'
 ---
 
