@@ -41,5 +41,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=TPIPh4_vyP4&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=2&t=0s
       viewCount: '3043'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: >-
+        Sevgi ve Neşe 2 - [1031 3 ]
+
+        Joyce Meyer'in birbirinden farklı konular hakkındaki programlarını Kanal
+        Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen
+        kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M13S
+      id: G0zL0s3LNcw
+      imageURL: 'https://i.ytimg.com/vi/G0zL0s3LNcw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-11T07:17:58.000Z'
+      tags: 'sevgi,ve,neşe'
+      title: Hayattan Keyif Alın - Sevgi ve Neşe 2
+      url: >-
+        https://www.youtube.com/watch?v=G0zL0s3LNcw&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=3&t=0s
+      viewCount: '1183'
 ---
 
