@@ -465,5 +465,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=3g5QZdBSFCU&list=PL8F7E18D33C4FACAA&index=30&t=0s
       viewCount: '1707'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT25M51S
+      id: YRnzD0A9lzc
+      imageURL: 'https://i.ytimg.com/vi/YRnzD0A9lzc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-27T06:50:47.000Z'
+      tags: >-
+        sevgi,hataların,hesabını,tutmaz,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar
+      title: Sevgi Hataların Hesabını Tutmaz
+      url: >-
+        https://www.youtube.com/watch?v=YRnzD0A9lzc&list=PL8F7E18D33C4FACAA&index=31&t=0s
+      viewCount: '2436'
 ---
 
