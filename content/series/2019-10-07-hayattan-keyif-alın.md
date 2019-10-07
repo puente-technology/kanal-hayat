@@ -450,5 +450,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=IZ9iX-NtYqo&list=PL8F7E18D33C4FACAA&index=29&t=0s
       viewCount: '4009'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT25M51S
+      id: 3g5QZdBSFCU
+      imageURL: 'https://i.ytimg.com/vi/3g5QZdBSFCU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-27T06:55:18.000Z'
+      tags: >-
+        gerçeği,sevgide,söyleyin,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Gerçeği Sevgide Söyleyin
+      url: >-
+        https://www.youtube.com/watch?v=3g5QZdBSFCU&list=PL8F7E18D33C4FACAA&index=30&t=0s
+      viewCount: '1707'
 ---
 
