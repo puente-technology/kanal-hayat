@@ -244,6 +244,33 @@ questions:
           title: 01. Bölüm (3 Tanrı mı var?)
           url: 'https://www.youtube.com/watch?v=sCYFo75gskU'
           viewCount: '11587'
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            95-Gerçeğin Sesi - Kutsal Ruh Nedir?  
+
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi "Gerçeğin Sesi" programını sayfamızdan takip
+            edebilirsiniz.Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT27M23S
+          id: bFT81Dw_bnc
+          imageURL: 'https://i.ytimg.com/vi/bFT81Dw_bnc/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2018-05-01T08:42:33.000Z'
+          tags: 'hristiyan,incil,kilise,#kutsal,#ruh'
+          title: 95-Gerçeğin Sesi - Kutsal Ruh Nedir?
+          url: 'https://www.youtube.com/watch?v=bFT81Dw_bnc'
+          viewCount: '2544'
   - answer: >-
       4 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
