@@ -68,36 +68,31 @@ questions:
           title: 4- Hristiyanlıkta Mesih'in Kimliği
           url: 'https://www.youtube.com/watch?v=B-TXrmlAFc0'
           viewCount: '5392'
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Serdar Dedeoğlu ve Gülhan  ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            Serdar Dedeoğlu ve Gülhan ile inancın ifadesini Kanal Hayat
+            ekranlarından veya youtube sayfamızdan takip edebilirsiniz.Esen
+            kalın.
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            http://kanalhayat.tv/
 
-            Connect with us on social! 
+            http://www.youtube.com/kanalhayatplay
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            https://www.facebook.com/kanalhayat
 
-            Twitter: http://Bit.ly/LakewoodTW
-
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            https://twitter.com/kanalhayat
+          duration: PT25M13S
+          id: IKX6ppjV_V8
+          imageURL: 'https://i.ytimg.com/vi/IKX6ppjV_V8/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
-          tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+          publishedAt: '2016-06-03T06:27:48.000Z'
+          tags: 'hristiyanlık,hristiyan'
+          title: 'İnancın İfadesi - İsa Mesih, Neden Tek Çare? 9.Bölüm'
+          url: 'https://www.youtube.com/watch?v=IKX6ppjV_V8'
+          viewCount: '4318'
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
