@@ -579,18 +579,22 @@ input[type=range]::-moz-range-thumb {
 		&.isBig {
 			#reactPlayer {
 				width: 100% !important;
+				height: 380px !important;
 				margin-top: 0 !important;
 				margin-bottom: 0 !important;
+			}
+			.hovering-container {
+				height: 380px !important;
 			}
 			.player-controls-container {
 				width: 100% !important;
 				margin: 0 !important;
 				padding: 0 !important;
 				position: absolute;
-				bottom: 155px;
+				top: 380px;
 			}
 			.player-bar {
-				width: 93%;
+				width: 90%;
 			}
 			.player-elapsed {
 				left: 0;
@@ -616,13 +620,13 @@ input[type=range]::-moz-range-thumb {
 			.player-volume {
 				display: flex;
 				top: 8px;
-				left: -60px;
+				left: -40px;
 			}
 			.player-expand {
 				position: static;
 			}
 			.isBigVolumeAndScreen {
-				padding-right: 10px;
+				padding-right: 5px;
 				padding-top: 10px;
 				.player-volume-icon {
 					position: static;
