@@ -253,5 +253,18 @@ episodes:
       title: Dindar Tavırlardan Kurtulmak 2. Bölüm
       url: 'https://youtu.be/7_imzUihOiA'
       viewCount: '633'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT22M6S
+      id: wBz6c9cjOF0
+      imageURL: 'https://i.ytimg.com/vi/wBz6c9cjOF0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-23T06:49:28.000Z'
+      tags: adalet
+      title: 'Adalet, Merhamet ve İyilik'
+      url: 'https://youtu.be/wBz6c9cjOF0'
+      viewCount: '1629'
 ---
 
