@@ -60,5 +60,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=eJuWzwAohos&list=PL8F7E18D33C4FACAA&index=4&t=0s
       viewCount: '8695'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT25M10S
+      id: jIbBzoET_SI
+      imageURL: 'https://i.ytimg.com/vi/jIbBzoET_SI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T17:57:24.000Z'
+      tags: >-
+        iş,olmadan,aş,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: İş Olmadan Aş 1. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=jIbBzoET_SI&list=PL8F7E18D33C4FACAA&index=5&t=0s
+      viewCount: '4006'
 ---
 
