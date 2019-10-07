@@ -10,7 +10,6 @@ class SSSAnswer extends Component {
 
   render() {
     const { answer, videos } = this.props
-    console.log('asma videos', videos)
     return (
       <React.Fragment>
         <div

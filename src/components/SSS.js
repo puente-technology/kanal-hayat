@@ -20,7 +20,6 @@ class SSS extends Component {
     handleQuestionClick = (index) => {
       const { showAnswer, answerID } = this.state;
       if (answerID === index) {
-        console.log('asma equals')
         this.setState(() => ({ showAnswer: !showAnswer }));
       } else {
         this.setState(() => ({ answerID: index }));
@@ -32,13 +31,16 @@ class SSS extends Component {
       const { answerID, showAnswer } = this.state;
       const { frontmatter } = this.props;
       const { questions } = frontmatter;
-      console.log('asma questions', questions);
       return (
         <div className="s-s-s">
           {
             questions.map((items, index) => (
               <div className="question-container">
-                <SSSQuestion handleClick={this.handleQuestionClick} index={index} question={items.question} />
+                <SSSQuestion
+                  handleClick={this.handleQuestionClick}
+                  index={index}
+                  question={items.question}
+                />
                 {answerID === index && showAnswer
                   && (
                   <SSSAnswer answer={questions[index].answer} videos={questions[index].videos} />
