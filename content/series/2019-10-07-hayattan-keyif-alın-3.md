@@ -279,5 +279,18 @@ episodes:
       title: Hayattaki En Önemli Şey
       url: 'https://youtu.be/s0LDhN_Q09U'
       viewCount: '6239'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT23M33S
+      id: rKCUAE7cJUI
+      imageURL: 'https://i.ytimg.com/vi/rKCUAE7cJUI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-23T06:57:44.000Z'
+      tags: bağımlılık
+      title: Güvensizlik Bağından Özgür Olmak
+      url: 'https://youtu.be/rKCUAE7cJUI'
+      viewCount: '4387'
 ---
 
