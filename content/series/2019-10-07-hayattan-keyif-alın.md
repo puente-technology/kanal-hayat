@@ -210,5 +210,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=u8XL5jZgChY&list=PL8F7E18D33C4FACAA&index=14&t=0s
       viewCount: '1336'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT26M11S
+      id: QmxFF8PUQOs
+      imageURL: 'https://i.ytimg.com/vi/QmxFF8PUQOs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T18:56:46.000Z'
+      tags: >-
+        büyüme,zamanı,ruhsal,olgunluk,iman,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Büyüme Zamanı 1. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=QmxFF8PUQOs&list=PL8F7E18D33C4FACAA&index=15&t=0s
+      viewCount: '5786'
 ---
 
