@@ -33,5 +33,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ObMca9S-_Po&list=PL8F7E18D33C4FACAA&index=65&t=0s
       viewCount: '1240'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT25M11S
+      id: Sfdm2u3fHE0
+      imageURL: 'https://i.ytimg.com/vi/Sfdm2u3fHE0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-07T07:37:55.000Z'
+      tags: 'JM,611,4'
+      title: İman Mücadelesini Sürdürmek 2
+      url: >-
+        https://www.youtube.com/watch?v=Sfdm2u3fHE0&list=PL8F7E18D33C4FACAA&index=66&t=0s
+      viewCount: '649'
 ---
 
