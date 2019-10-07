@@ -231,6 +231,7 @@ collections:
           - label: 'Sorular'
             name: 'questions'
             widget: 'list'
+            fields:
               - { label: Soru, name: question, widget: string }
               - { label: Cevap, name: answer, widget: string }
               - label: 'Bölümler'
