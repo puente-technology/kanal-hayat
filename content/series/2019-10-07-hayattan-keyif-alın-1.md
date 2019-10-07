@@ -185,5 +185,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=M7vo-PAdbr4&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=9&t=0s
       viewCount: '820'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: ''
+      duration: PT22M36S
+      id: Q-jiDOxGdPQ
+      imageURL: 'https://i.ytimg.com/vi/Q-jiDOxGdPQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-11T07:25:53.000Z'
+      tags: vazgeçmek
+      title: 1078 2 Vazgeçmek Bir Seçenek Değil - 2
+      url: 'https://youtu.be/Q-jiDOxGdPQ'
+      viewCount: '415'
 ---
 
