@@ -51,7 +51,7 @@ class SSSAnswer extends Component {
           </span>
           <div className="videos-container">
             {videos.map((items, index) => (
-              <div className="Episode">
+              <div>
                 <button
                   type="button"
                   value={JSON.stringify({ items, index })}

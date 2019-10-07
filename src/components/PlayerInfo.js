@@ -1,3 +1,4 @@
+/* eslint-disable prefer-destructuring */
 /* eslint-disable array-callback-return */
 /* eslint-disable consistent-return */
 import React, { Component } from 'react';
@@ -54,6 +55,17 @@ class PlayerInfoExpand extends Component {
       questionIndex,
       index,
     } = this.props
+
+    let hostName = frontmatter.host
+    let guests = episodeInfo.guests
+    let targetGroup = frontmatter.targetGroup
+
+    if (frontmatter.title === 'S.S.S') {
+      hostName = frontmatter.questions[questionIndex].videos[index].host
+      guests = frontmatter.questions[questionIndex].videos[index].guests
+      targetGroup = frontmatter.questions[questionIndex].videos[index].targetGroup
+    }
+
     return (
       <div style={{
         width: playerProps.width,
@@ -88,10 +100,9 @@ class PlayerInfoExpand extends Component {
             </p>
             <p className="player-info-text-lighter">
               <Link
-                to={this.getHostUrl(frontmatter.host
-                  || frontmatter.questions[questionIndex].videos[index].host)}
+                to={this.getHostUrl(hostName)}
               >
-                {frontmatter.host || frontmatter.questions[questionIndex].videos[index].host || ''}
+                {hostName || ''}
               </Link>
             </p>
           </div>
@@ -100,7 +111,7 @@ class PlayerInfoExpand extends Component {
               Konuk:
             </p>
             <p className="player-info-text-lighter">
-              {episodeInfo.guests || frontmatter.questions[questionIndex].videos[index].guests || ''}
+              { guests || ''}
             </p>
           </div>
           <div className="player-info-info-div">
@@ -108,7 +119,7 @@ class PlayerInfoExpand extends Component {
               Hedef Kitle:
             </p>
             <p className="player-info-text-lighter">
-              {frontmatter.targetGroup || frontmatter.questions[questionIndex].videos[index].targetGroup || ''}
+              {targetGroup || ''}
             </p>
           </div>
           <div className="player-info-info-div">
