@@ -227,5 +227,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Qrj9mmCQQuw&list=PL8F7E18D33C4FACAA&index=76&t=0s
       viewCount: '2664'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT24M17S
+      id: eelXF6bz2Hc
+      imageURL: 'https://i.ytimg.com/vi/eelXF6bz2Hc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-23T06:39:53.000Z'
+      tags: dindar
+      title: Dindar Tavırlardan Kurtulmak 1. Bölüm
+      url: 'https://youtu.be/eelXF6bz2Hc'
+      viewCount: '1196'
 ---
 
