@@ -68,5 +68,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=G0zL0s3LNcw&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=3&t=0s
       viewCount: '1183'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: >-
+        1052 2 Hayal Kırıklıklarından Arınmak 1
+
+        Joyce Meyer'in birbirinden farklı konular hakkındaki programlarını Kanal
+        Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen
+        kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M48S
+      id: DWXwbnorPP4
+      imageURL: 'https://i.ytimg.com/vi/DWXwbnorPP4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-11T07:18:15.000Z'
+      tags: 'kanal,hayat,hayal,kırıklıkları'
+      title: Hayattan Keyif Alın - Hayal Kırıklıklarından Arınmak 1
+      url: >-
+        https://www.youtube.com/watch?v=DWXwbnorPP4&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=4&t=0s
+      viewCount: '1081'
 ---
 
