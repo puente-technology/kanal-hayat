@@ -360,5 +360,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=vgqwECnMaj4&list=PL8F7E18D33C4FACAA&index=23&t=0s
       viewCount: '3900'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT25M11S
+      id: VcW1V_16al4
+      imageURL: 'https://i.ytimg.com/vi/VcW1V_16al4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T19:06:11.000Z'
+      tags: >-
+        ayartılar,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Ayartılar ve Zafer 2. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=VcW1V_16al4&list=PL8F7E18D33C4FACAA&index=24&t=0s
+      viewCount: '1419'
 ---
 
