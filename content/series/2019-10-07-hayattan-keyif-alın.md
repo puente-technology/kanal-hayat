@@ -300,5 +300,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=-M1yIP8BfWQ&list=PL8F7E18D33C4FACAA&index=20&t=0s
       viewCount: '3092'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT25M10S
+      id: '-M1yIP8BfWQ'
+      imageURL: 'https://i.ytimg.com/vi/-M1yIP8BfWQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T19:28:06.000Z'
+      tags: >-
+        insanlarla,ve,hayatla,başa,çıkmak,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: İnsanlarla ve Hayatla Başa Çıkmak 2. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=-M1yIP8BfWQ&list=PL8F7E18D33C4FACAA&index=20&t=0s
+      viewCount: '3092'
 ---
 
