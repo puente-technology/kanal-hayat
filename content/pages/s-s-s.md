@@ -96,38 +96,41 @@ questions:
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Mesihçi hayatımda günahı   nasıl yenebilirim?
+    question: Hristiyanlıkta Tanrı'nın Kimliği ?
     videos:
       - guests: .
-        host: Joyce Meyer ile
+        host: Zekeriya Butrus ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize
+            sorduğumuz pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı
+            sayfamızdan takip edebilirsiniz.
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            Tanrı var mı ? 
 
-            Connect with us on social! 
+            Tanrı Oğlu Ne Demek?
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            Hristiyanlık Kavramı Nedir?
 
-            Twitter: http://Bit.ly/LakewoodTW
+            http://kanalhayat.tv/
 
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT29M1S
+          id: eqx0ZkQeTDA
+          imageURL: 'https://i.ytimg.com/vi/eqx0ZkQeTDA/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
+          publishedAt: '2011-11-10T11:09:44.000Z'
           tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+            Hristiyan,musevi,hz.isa,yahudi,hristiyanlik,barnabas
+            incili,ahiret,kiyamet,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+          title: 08. Bölüm (Hristiyanlığın Tanrı kavramı/Haçlı seferleri)
+          url: 'https://www.youtube.com/watch?v=eqx0ZkQeTDA'
+          viewCount: '1489'
       - guests: .
         host: Can Nuroğlu
         targetGroup: Herkes
