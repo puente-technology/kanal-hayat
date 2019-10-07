@@ -5,9 +5,9 @@ import LayoutComp from '../components/LayoutComp'
 import SSS from '../components/SSS'
 
 // Export Template for use in CMS preview
-export const SSSPageTemplate = data => (
-  <SSS {...data} />
-)
+// export const SSSPageTemplate = data => (
+//   <SSS {...data} />
+// )
 
 // Export Default HomePage for front-end
 const SSSPage = ({ data: { page } }) => (

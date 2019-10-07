@@ -9,7 +9,7 @@ import FooterBanner from './preview-templates/FooterBanner'
 import FriendSiteBanner from './preview-templates/FriendSiteBanner'
 import HeaderBanner from './preview-templates/HeaderBanner'
 import { AboutUsPageTemplate } from '../templates/AboutUs'
-import { SSSPageTemplate } from '../templates/SSS'
+// import { SSSPageTemplate } from '../templates/SSS'
 import { ContactUsTemplate } from '../templates/ContactUs'
 import EventsPage, { EventsTemplate } from '../templates/EventsPage';
 
@@ -54,8 +54,8 @@ CMS.registerPreviewTemplate('event-page', ({ entry }) => {
   <EventsTemplate {...entry.toJS().data }/>
 )})
 
-CMS.registerPreviewTemplate('s-s-s', ({ entry }) => {
-  return (
-  <SSSPageTemplate {...entry.toJS().data }/>
-)})
+// CMS.registerPreviewTemplate('s-s-s', ({ entry }) => {
+//   return (
+//   <SSSPageTemplate {...entry.toJS().data }/>
+// )})
 
