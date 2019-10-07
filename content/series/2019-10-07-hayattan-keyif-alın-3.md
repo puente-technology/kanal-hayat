@@ -318,5 +318,18 @@ episodes:
       title: Harekete Geçme Şevkin Nerede 2. Bölüm
       url: 'https://youtu.be/C-_GZieNhes'
       viewCount: '1329'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT24M11S
+      id: GDQvKjIcdE0
+      imageURL: 'https://i.ytimg.com/vi/GDQvKjIcdE0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-23T06:59:24.000Z'
+      tags: hayat
+      title: Hayat Karmaşık mı? 1. Bölüm
+      url: 'https://youtu.be/GDQvKjIcdE0'
+      viewCount: '3099'
 ---
 
