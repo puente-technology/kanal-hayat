@@ -482,6 +482,33 @@ questions:
           title: Umut Işığı - Dua'nın Gücüne İnanın
           url: 'https://www.youtube.com/watch?v=XnwQwjnROK8'
           viewCount: '822'
+      - guests: .
+        host: Ahmet Güvener ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            55 Seçilmişlik ve Dua
+
+            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
+            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan
+            Şeriatı" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT27M20S
+          id: WxBiFjMSpDg
+          imageURL: 'https://i.ytimg.com/vi/WxBiFjMSpDg/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2019-07-24T09:58:50.000Z'
+          tags: 'seçilmişlik,hristiyan,şeriatı,dua'
+          title: Hristiyanlık Şeriatı - Seçilmişlik ve Dua
+          url: 'https://www.youtube.com/watch?v=WxBiFjMSpDg'
+          viewCount: '492'
   - answer: >-
       7 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
