@@ -435,5 +435,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=hb_kBMTJty8&list=PL8F7E18D33C4FACAA&index=28&t=0s
       viewCount: '857'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT25M51S
+      id: IZ9iX-NtYqo
+      imageURL: 'https://i.ytimg.com/vi/IZ9iX-NtYqo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-27T06:55:49.000Z'
+      tags: >-
+        gündelik,yaşamdan,zevk,alma,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Gündelik Yaşamdan Zevk Alma
+      url: >-
+        https://www.youtube.com/watch?v=IZ9iX-NtYqo&list=PL8F7E18D33C4FACAA&index=29&t=0s
+      viewCount: '4009'
 ---
 
