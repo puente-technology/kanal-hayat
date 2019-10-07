@@ -119,5 +119,23 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=3MShhXi9oMM&list=PL8F7E18D33C4FACAA&index=70&t=0s
       viewCount: '561'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT25M51S
+      id: lTp19V-4MEI
+      imageURL: 'https://i.ytimg.com/vi/lTp19V-4MEI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-07T07:41:53.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestan,protestanlar
+      title: 'Yorgun, Tükenmiş ve Bitkin 1'
+      url: >-
+        https://www.youtube.com/watch?v=lTp19V-4MEI&list=PL8F7E18D33C4FACAA&index=71&t=0s
+      viewCount: '4954'
 ---
 
