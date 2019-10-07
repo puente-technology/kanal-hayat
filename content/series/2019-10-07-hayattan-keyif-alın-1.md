@@ -301,5 +301,31 @@ episodes:
       title: Hayattan Keyif Alın -  Korku İle Yüzleşmek ve Özgürlüğe Kavuşmak - 2
       url: 'https://youtu.be/mgvdlsCZ4F8'
       viewCount: '126'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: >-
+        1086 1 Güçlü Düşünceler 1
+
+        Joyce Meyer'in birbirinden farklı konular hakkındaki programlarını
+        sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT24M47S
+      id: Pm1QeFxSi6w
+      imageURL: 'https://i.ytimg.com/vi/Pm1QeFxSi6w/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-09T08:28:22.000Z'
+      tags: '#güçlü,#düşünceler'
+      title: Hayattan Keyif Alın - Güçlü Düşünceler 1
+      url: >-
+        https://www.youtube.com/watch?v=Pm1QeFxSi6w&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=15&t=0s
+      viewCount: '94'
 ---
 
