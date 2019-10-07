@@ -134,5 +134,30 @@ episodes:
       title: 'İman Nasıl İşler? 1 [1074 1 ]'
       url: 'https://youtu.be/1mbLuQhrZ74'
       viewCount: '1830'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: >-
+        İman Nasıl İşler? 2
+
+        Joyce Meyer'in birbirinden farklı konular hakkındaki programlarını
+        sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M24S
+      id: xwW0Abx7h88
+      imageURL: 'https://i.ytimg.com/vi/xwW0Abx7h88/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-11T07:24:44.000Z'
+      tags: '#iman,#nasıl,#işler'
+      title: 1074 2 İman Nasıl İşler? 2
+      url: 'https://youtu.be/xwW0Abx7h88'
+      viewCount: '1248'
 ---
 
