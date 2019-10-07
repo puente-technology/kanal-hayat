@@ -173,5 +173,23 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=-TjyndjC1yk&list=PL8F7E18D33C4FACAA&index=73&t=0s
       viewCount: '5444'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT25M11S
+      id: z3L9TcIZ5sg
+      imageURL: 'https://i.ytimg.com/vi/z3L9TcIZ5sg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-07T07:46:34.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestan,protestanlar
+      title: Geleceğiniz İçin Savaşın 2
+      url: >-
+        https://www.youtube.com/watch?v=z3L9TcIZ5sg&list=PL8F7E18D33C4FACAA&index=74&t=0s
+      viewCount: '1929'
 ---
 
