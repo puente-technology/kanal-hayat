@@ -309,6 +309,33 @@ questions:
           title: 1- İncil Değişti mi?
           url: 'https://www.youtube.com/watch?v=Ui3sELeZ8vE'
           viewCount: '38998'
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            8. Bölüm: İncil Değştirildi mi ve Kaç İncil Var?
+
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
+
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+            Esen Kalın.
+          duration: PT28M4S
+          id: LKeyNJkGEOA
+          imageURL: 'https://i.ytimg.com/vi/LKeyNJkGEOA/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-11-12T08:17:30.000Z'
+          tags: >-
+            hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa
+            mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+            stanley,joyce meyer,ışık abla,güçlü erman,protestan,protestanlar
+          title: '8. Bölüm: İncil Değştirildi mi ve Kaç İncil Var?'
+          url: 'https://www.youtube.com/watch?v=LKeyNJkGEOA'
+          viewCount: '3606'
   - answer: >-
       5 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
