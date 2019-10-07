@@ -67,15 +67,17 @@ class PlayerInfoExpand extends Component {
     }
 
     return (
-      <div style={{
-        width: playerProps.width,
-        height: '800px',
-        background: 'black',
-        bottom: '0',
-        margin: '0 auto',
-        display: 'flex',
-        flexDirection: 'column',
-      }}
+      <div
+        className="player-info-container"
+        style={{
+          width: playerProps.width,
+          height: '800px',
+          background: 'black',
+          bottom: '0',
+          margin: '0 auto',
+          display: 'flex',
+          flexDirection: 'column',
+        }}
       >
         <div className="player-info-header">
           {/* <p className="player-info-txt-head">
@@ -148,7 +150,7 @@ class PlayerInfoExpand extends Component {
             )
           }
         </div>
-        <div style={{ margin: '324px auto', transform: 'rotate(90deg)' }}>
+        <div className="player-info-close-info" style={{ margin: '324px auto', transform: 'rotate(90deg)' }}>
           <button
             type="button"
             width="50px"

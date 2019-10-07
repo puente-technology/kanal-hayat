@@ -62,3 +62,41 @@
   margin-left: 100px;
   margin-top:   20px;
 }
+
+@media (max-width: 768px) {
+  .player-info-container {
+    width: 100% !important;
+    align-items: flex-start;
+    padding: 0 25px;
+  }
+  .player-info-txt-head {
+    font-size: 18px;
+  }
+  .player-info-txt {
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  .player-info-header {
+    margin-left: 0;
+  }
+  .player-info-contet {
+    font-size: 13px;
+    width: auto;
+    margin: 0;
+  }
+  .player-info-text-bold {
+    font-size: 13px;
+    margin: 0;
+  }
+  .player-info-text-lighter {
+    font-size: 13px;
+  }
+  .player-info-info-div {
+    width: auto;
+  }
+  .player-info-info-div-parent {
+    margin: 0;
+  }
+}
