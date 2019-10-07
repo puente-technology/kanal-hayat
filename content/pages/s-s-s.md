@@ -388,6 +388,20 @@ questions:
           title: 6- Hristiyan Ahlakı ve İbadeti
           url: 'https://www.youtube.com/watch?v=wF7x5bFV8Lg'
           viewCount: '23925'
+      - guests: .
+        host: İhsan Özbek ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: Açıklama
+          duration: PT28M31S
+          id: Xb3JRHbx_-g
+          imageURL: 'https://i.ytimg.com/vi/Xb3JRHbx_-g/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2015-07-31T07:03:56.000Z'
+          tags: İbadet
+          title: 46. Bölüm İbadet
+          url: 'https://www.youtube.com/watch?v=Xb3JRHbx_-g'
+          viewCount: '174'
   - answer: >-
       6 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
