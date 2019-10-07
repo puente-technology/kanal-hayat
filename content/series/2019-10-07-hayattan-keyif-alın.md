@@ -150,5 +150,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Z5-d0bmgyfY&list=PL8F7E18D33C4FACAA&index=10&t=0s
       viewCount: '4561'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT25M10S
+      id: olX-CtM2P_4
+      imageURL: 'https://i.ytimg.com/vi/olX-CtM2P_4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T18:36:19.000Z'
+      tags: >-
+        İlerlemenin,bedeli,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: İlerlemenin Bedeli 1. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=olX-CtM2P_4&list=PL8F7E18D33C4FACAA&index=11&t=0s
+      viewCount: '4181'
 ---
 
