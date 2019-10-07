@@ -240,5 +240,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=SoTYpVkQtA8&list=PL8F7E18D33C4FACAA&index=16&t=0s
       viewCount: '1725'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT25M10S
+      id: IrJ-Teh_Sos
+      imageURL: 'https://i.ytimg.com/vi/IrJ-Teh_Sos/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T19:13:38.000Z'
+      tags: >-
+        insanlar,sizi,çıldırtabilir,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: İnsanlar Sizi Çıldırtabilir 1. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=IrJ-Teh_Sos&list=PL8F7E18D33C4FACAA&index=17&t=0s
+      viewCount: '4492'
 ---
 
