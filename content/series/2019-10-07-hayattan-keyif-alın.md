@@ -390,5 +390,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Vo1e7eDjpXU&list=PL8F7E18D33C4FACAA&index=25&t=0s
       viewCount: '2368'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT25M29S
+      id: cc8aRp2655w
+      imageURL: 'https://i.ytimg.com/vi/cc8aRp2655w/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-12-14T14:08:53.000Z'
+      tags: >-
+        doğuş,bayramı,noel,isa,mesih,dua,incil,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Doğuş Bayramı 2. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=cc8aRp2655w&list=PL8F7E18D33C4FACAA&index=26&t=0s
+      viewCount: '1206'
 ---
 
