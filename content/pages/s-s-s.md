@@ -98,8 +98,8 @@ questions:
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Mesihçi hayatımda günahı   nasıl yenebilirim?
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Joyce Meyer ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
