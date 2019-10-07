@@ -180,5 +180,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=6KcyJ_SdY2w&list=PL8F7E18D33C4FACAA&index=12&t=0s
       viewCount: '4245'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT25M11S
+      id: F-dS41r3D-k
+      imageURL: 'https://i.ytimg.com/vi/F-dS41r3D-k/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T18:37:49.000Z'
+      tags: >-
+        devam,edin,joce,meyer,turkish,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Devam Edin 1. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=F-dS41r3D-k&list=PL8F7E18D33C4FACAA&index=13&t=0s
+      viewCount: '2278'
 ---
 
