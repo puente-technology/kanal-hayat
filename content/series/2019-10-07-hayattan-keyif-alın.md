@@ -90,5 +90,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=KcfiIQt4jdw&list=PL8F7E18D33C4FACAA&index=6&t=0s
       viewCount: '1908'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT25M11S
+      id: jET5HGwR2SA
+      imageURL: 'https://i.ytimg.com/vi/jET5HGwR2SA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T18:05:59.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Tanrı'ya Aidim ve Beni Seviyor 1. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=jET5HGwR2SA&list=PL8F7E18D33C4FACAA&index=7&t=0s
+      viewCount: '6277'
 ---
 
