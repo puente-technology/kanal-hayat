@@ -211,6 +211,39 @@ questions:
             27.Bölüm
           url: 'https://www.youtube.com/watch?v=VlJZAPJxHMk'
           viewCount: '1182'
+      - guests: .
+        host: Zekeriya Butrus ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize
+            sorduğumuz pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı
+            sayfamızdan takip edebilirsiniz.
+
+            Tanrı var mı ? 
+
+            Tanrı Oğlu Ne Demek?
+
+            Hristiyanlık Kavramı Nedir?
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT29M1S
+          id: sCYFo75gskU
+          imageURL: 'https://i.ytimg.com/vi/sCYFo75gskU/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2011-11-10T11:21:35.000Z'
+          tags: >-
+            kiyamet,ahiret,hz isa,hristiyan,hristiyanlik,incil,barnabas,zekeriya
+            butros,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+          title: 01. Bölüm (3 Tanrı mı var?)
+          url: 'https://www.youtube.com/watch?v=sCYFo75gskU'
+          viewCount: '11587'
   - answer: >-
       4 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
