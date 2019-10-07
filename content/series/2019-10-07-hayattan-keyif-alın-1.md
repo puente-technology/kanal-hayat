@@ -159,5 +159,31 @@ episodes:
       title: 1074 2 İman Nasıl İşler? 2
       url: 'https://youtu.be/xwW0Abx7h88'
       viewCount: '1248'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: >-
+        Vazgeçmek Bir Seçenek Değil - 1
+
+        Joyce Meyer'in birbirinden farklı konular hakkındaki programlarını
+        sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT24M41S
+      id: M7vo-PAdbr4
+      imageURL: 'https://i.ytimg.com/vi/M7vo-PAdbr4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-11T07:26:21.000Z'
+      tags: '#vazgeçmek,#bir,#seçenek,#değil'
+      title: 1078 1 Vazgeçmek Bir Seçenek Değil - 1
+      url: >-
+        https://www.youtube.com/watch?v=M7vo-PAdbr4&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=9&t=0s
+      viewCount: '820'
 ---
 
