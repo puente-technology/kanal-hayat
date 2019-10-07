@@ -472,5 +472,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=nvtjENS3r-4&list=PL8F7E18D33C4FACAA&index=59&t=0s
       viewCount: '4379'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT25M11S
+      id: TE2UEGrmyVg
+      imageURL: 'https://i.ytimg.com/vi/TE2UEGrmyVg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T11:48:33.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Acınızı Boşa Harcamayın 2
+      url: >-
+        https://www.youtube.com/watch?v=TE2UEGrmyVg&list=PL8F7E18D33C4FACAA&index=60&t=0s
+      viewCount: '5039'
 ---
 
