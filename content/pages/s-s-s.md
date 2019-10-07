@@ -128,6 +128,39 @@ questions:
           title: Stay In Your Own Lane | Joyce Meyer (2019)
           url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
           viewCount: '305518'
+      - guests: .
+        host: Can Nuroğlu
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Hey Gavur! Anlatsana... 3- Hristiyanlıkta Tanrı'nın Kimliği
+
+            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur!
+            Anlatsana." programını sayfamızdan takip edebilirsiniz. 
+
+            Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M46S
+          id: Ufq8rmr7V90
+          imageURL: 'https://i.ytimg.com/vi/Ufq8rmr7V90/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-02-28T22:35:38.000Z'
+          tags: >-
+            Kutsal,hristiyanlık,ahiret,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,kutsal
+            ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
+            butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
+            Hayat,Pusula,kiyamet gunu,gavur,carmih
+          title: 3- Hristiyanlıkta Tanrı'nın Kimliği
+          url: 'https://www.youtube.com/watch?v=Ufq8rmr7V90'
+          viewCount: '9510'
   - answer: >-
       3 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
