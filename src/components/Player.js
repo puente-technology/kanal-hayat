@@ -546,6 +546,7 @@ class Player extends Component {
                   style={{
                     width: props.width, height: props.height, position: 'absolute', margin: '30px auto', left: '0px', right: '0px', top: '0px',
                   }}
+                  className="hovering-container"
                 />
               )
             }

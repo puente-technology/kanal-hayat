@@ -409,7 +409,7 @@ export const PlayerButtonsBigScreen = ({
                 marginRight: '21px',
               }}
               onClick={isBigScreenClick}
-              className="player-volume-path"
+              className="player-volume-path expand"
             />
           ) : (
             <button
