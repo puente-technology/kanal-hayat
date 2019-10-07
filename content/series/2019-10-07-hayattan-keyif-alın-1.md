@@ -121,5 +121,18 @@ episodes:
       title: 'Zihninizi Yenilemenizi Sağlayacak Savaş Stratejileri - 2 [1057 3 ]'
       url: 'https://youtu.be/uPv8WRVLNkk'
       viewCount: '1132'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: ''
+      duration: PT24M34S
+      id: 1mbLuQhrZ74
+      imageURL: 'https://i.ytimg.com/vi/1mbLuQhrZ74/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-11T07:23:53.000Z'
+      tags: iman
+      title: 'İman Nasıl İşler? 1 [1074 1 ]'
+      url: 'https://youtu.be/1mbLuQhrZ74'
+      viewCount: '1830'
 ---
 
