@@ -95,5 +95,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=DWXwbnorPP4&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=4&t=0s
       viewCount: '1081'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: ''
+      duration: PT24M41S
+      id: HoGeHIV74vA
+      imageURL: 'https://i.ytimg.com/vi/HoGeHIV74vA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-11T07:20:29.000Z'
+      tags: zihin
+      title: 'Zihninizi Yenilemenizi Sağlayacak Savaş Stratejileri - 1 [1057 2 ]'
+      url: 'https://youtu.be/HoGeHIV74vA'
+      viewCount: '3012'
 ---
 
