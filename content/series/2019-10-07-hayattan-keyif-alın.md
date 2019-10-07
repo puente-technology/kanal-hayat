@@ -120,5 +120,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=AJkxFxjIC3Y&list=PL8F7E18D33C4FACAA&index=8&t=0s
       viewCount: '5652'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT25M11S
+      id: pxQSKU4mNS4
+      imageURL: 'https://i.ytimg.com/vi/pxQSKU4mNS4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T18:16:57.000Z'
+      tags: >-
+        tanrı'da,derinleşmek,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Tanrı'da Derinleşmek 1. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=pxQSKU4mNS4&list=PL8F7E18D33C4FACAA&index=9&t=0s
+      viewCount: '6174'
 ---
 
