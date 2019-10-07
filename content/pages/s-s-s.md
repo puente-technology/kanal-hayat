@@ -431,38 +431,22 @@ questions:
   - answer: >-
       6 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Ruhsal büyüme nedir?
+    question: Hristiyanlıkta Nasıl Dua Edilir?
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Memduh Uysal ile
         targetGroup: Herkes
         youtubeURL:
-          description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
-
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
-
-            Connect with us on social! 
-
-            Facebook: Http://Bit.ly/LakewoodFB
-
-            Twitter: http://Bit.ly/LakewoodTW
-
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+          description: ''
+          duration: PT29M15S
+          id: zUTQlmGfgow
+          imageURL: 'https://i.ytimg.com/vi/zUTQlmGfgow/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
-          tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+          publishedAt: '2013-10-23T13:43:30.000Z'
+          tags: 'gerçek,dua,nasıl,edilir?'
+          title: 32. Bölüm Gerçek Dua Nasıl Edilir?
+          url: 'https://www.youtube.com/watch?v=zUTQlmGfgow'
+          viewCount: '6872'
   - answer: >-
       7 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
