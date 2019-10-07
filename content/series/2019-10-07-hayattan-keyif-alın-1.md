@@ -225,5 +225,30 @@ episodes:
       title: 1082 1 Kül Yerine Çelenk 1
       url: 'https://youtu.be/pLcWgF3DCa0'
       viewCount: '304'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: >-
+        Kül Yerine Çelenk 2
+
+        Joyce Meyer'in birbirinden farklı konular hakkındaki programlarını
+        sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M15S
+      id: ETNQ4rHBjYU
+      imageURL: 'https://i.ytimg.com/vi/ETNQ4rHBjYU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-11T08:48:54.000Z'
+      tags: '#kül,#yerine,#çelenk'
+      title: 1082 2 Kül Yerine Çelenk 2
+      url: 'https://youtu.be/ETNQ4rHBjYU'
+      viewCount: '329'
 ---
 
