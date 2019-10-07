@@ -34,17 +34,19 @@ query SSS($id: String!, $locale: String) {
       questions {
           question
           answer
-          youtubeURL {
-            viewCount
-            url
-            title
-            tags
-            mediaType
-            imageURL
-            id
-            description
-            publishedAt
-            duration
+          videos {
+            youtubeURL {
+              viewCount
+              url
+              title
+              tags
+              mediaType
+              imageURL
+              id
+              description
+              publishedAt
+              duration
+            }
           }
       }
     }
