@@ -83,5 +83,23 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=5rHt0gO7nU0&list=PL8F7E18D33C4FACAA&index=68&t=0s
       viewCount: '791'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT25M11S
+      id: M7ZHdZWsK_s
+      imageURL: 'https://i.ytimg.com/vi/M7ZHdZWsK_s/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-07T07:40:09.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestan,protestanlar
+      title: Hayattaki Uçları Dengelemek 3
+      url: >-
+        https://www.youtube.com/watch?v=M7ZHdZWsK_s&list=PL8F7E18D33C4FACAA&index=69&t=0s
+      viewCount: '565'
 ---
 
