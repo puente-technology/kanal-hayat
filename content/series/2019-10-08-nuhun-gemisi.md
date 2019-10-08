@@ -192,5 +192,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Y6h1uxoiWjI&list=PLE83C0A7125F2824D&index=13&t=0s
       viewCount: '200'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT20M40S
+      id: a7QgSRoP_ww
+      imageURL: 'https://i.ytimg.com/vi/a7QgSRoP_ww/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T17:25:12.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: '13.Bölüm, Pavlus : U Dönüşü Yapmak'
+      url: >-
+        https://www.youtube.com/watch?v=a7QgSRoP_ww&list=PLE83C0A7125F2824D&index=14&t=0s
+      viewCount: '509'
 ---
 
