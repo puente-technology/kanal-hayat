@@ -673,5 +673,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=CN09ddTiDVA&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=13&t=0s
       viewCount: '94'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        63 - Dili dizginlemek zordur
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M47S
+      id: fQaxoc2knuc
+      imageURL: 'https://i.ytimg.com/vi/fQaxoc2knuc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-10T06:46:11.000Z'
+      tags: '#efesliler #yeni #eski #yaşam #kutsal #kitap #kutsal #yaşam'
+      title: Hristiyan Şeriatı - Dili Dizginlemek Zordur
+      url: >-
+        https://www.youtube.com/watch?v=fQaxoc2knuc&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=14&t=0s
+      viewCount: '133'
 ---
 
