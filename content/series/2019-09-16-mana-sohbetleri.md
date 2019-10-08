@@ -390,5 +390,26 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=qmI43NWzWCA&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=19&t=0s
       viewCount: '145'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri (19.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT27M46S
+      id: E1dwKfsdPZ0
+      imageURL: 'https://i.ytimg.com/vi/E1dwKfsdPZ0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-24T07:32:53.000Z'
+      tags: 'tamamlamaya,geldim,isa,mesih'
+      title: Mânâ Sohbetleri - "Tamamlamaya Geldim!" (2)
+      url: >-
+        https://www.youtube.com/watch?v=E1dwKfsdPZ0&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=20&t=0s
+      viewCount: '65'
 ---
 
