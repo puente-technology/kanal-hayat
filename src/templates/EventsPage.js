@@ -11,8 +11,8 @@ import EventsPreviewTemplate from '../cms/preview-templates/Events';
 export const EventsTemplate = (data) => {
   let eventData
   data.mdfiles.edges.map((obj) => {
-    const time = moment(obj.node.frontmatter.title)
-    if (moment(time).isSame(new Date(), 'week')) {
+    const time = moment(obj.node.frontmatter.title, 'YYYY MM DD')
+    if (moment(time).isSame(moment().format('YYYY MM DD'), 'week')) {
       eventData = obj.node.frontmatter.eventList
     }
   })
