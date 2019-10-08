@@ -418,5 +418,30 @@ episodes:
       title: Doğru Düşünmenin Gücü
       url: 'https://youtu.be/hkX_udANgF0'
       viewCount: '460'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: >-
+        Hayattan Keyif Alın - İyi Bir Davranış Şekline Sahip Olma Yolları 2
+
+        Hayatan Keyif Alın, Joyce Meyer programlarını sayfamızdan takip
+        edebilirsiniz.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT23M28S
+      id: DOfF2GbvKM0
+      imageURL: 'https://i.ytimg.com/vi/DOfF2GbvKM0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-29T06:17:29.000Z'
+      tags: 'Hayattan,Keyif,Alın,İyi,Bir,Davranış,Şekli'
+      title: Hayattan Keyif Alın - İyi Bir Davranış Şekline Sahip Olma Yolları 2
+      url: 'https://youtu.be/DOfF2GbvKM0'
+      viewCount: '114'
 ---
 
