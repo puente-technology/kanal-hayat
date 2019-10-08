@@ -117,5 +117,26 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=4Frbvt9x2QI&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=6&t=0s
       viewCount: '297'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri (6.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT27M47S
+      id: talZsVyaKVc
+      imageURL: 'https://i.ytimg.com/vi/talZsVyaKVc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T14:45:28.000Z'
+      tags: 'mana,yolunun,ifşaları,kelam,incil,kutsal,kilise,sohbet'
+      title: Mânâ Sohbetleri - Mânâ Yolu'nun İfşaları (3)
+      url: >-
+        https://www.youtube.com/watch?v=talZsVyaKVc&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=7&t=0s
+      viewCount: '144'
 ---
 
