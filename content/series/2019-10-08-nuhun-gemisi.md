@@ -132,5 +132,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=SDFfdaryssE&list=PLE83C0A7125F2824D&index=9&t=0s
       viewCount: '278'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT20M10S
+      id: gASD1FaUBN8
+      imageURL: 'https://i.ytimg.com/vi/gASD1FaUBN8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T17:16:44.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: '9.Bölüm, Daniel: Tanrı Çocuklarına Her Zaman Yardım Eder'
+      url: >-
+        https://www.youtube.com/watch?v=gASD1FaUBN8&list=PLE83C0A7125F2824D&index=10&t=0s
+      viewCount: '155'
 ---
 
