@@ -222,5 +222,26 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ysWW7m1Hs7Y&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=11&t=0s
       viewCount: '173'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri (11.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M20S
+      id: YAM-IQzMUYc
+      imageURL: 'https://i.ytimg.com/vi/YAM-IQzMUYc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T14:48:29.000Z'
+      tags: 'içselliğe,özgünlük,sorumluluğa,seçkinlik'
+      title: Mânâ Sohbetleri - İçselliğe Özgürlük
+      url: >-
+        https://www.youtube.com/watch?v=YAM-IQzMUYc&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=12&t=0s
+      viewCount: '194'
 ---
 
