@@ -138,5 +138,26 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=talZsVyaKVc&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=7&t=0s
       viewCount: '144'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri (7.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M7S
+      id: cdH__WEPmUQ
+      imageURL: 'https://i.ytimg.com/vi/cdH__WEPmUQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T14:45:43.000Z'
+      tags: 'mana,çalışması,nedir?,incil,isa,mesih'
+      title: Mânâ Çalışması Nedir?
+      url: >-
+        https://www.youtube.com/watch?v=cdH__WEPmUQ&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=8&t=0s
+      viewCount: '574'
 ---
 
