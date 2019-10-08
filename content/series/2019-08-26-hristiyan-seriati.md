@@ -927,5 +927,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=_AycyGx4js0&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=22&t=0s
       viewCount: '782'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        55 Seçilmişlik ve Dua
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M20S
+      id: WxBiFjMSpDg
+      imageURL: 'https://i.ytimg.com/vi/WxBiFjMSpDg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-07-24T09:58:50.000Z'
+      tags: 'seçilmişlik,hristiyan,şeriatı,dua'
+      title: Hristiyanlık Şeriatı - Seçilmişlik ve Dua
+      url: >-
+        https://www.youtube.com/watch?v=WxBiFjMSpDg&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=23&t=0s
+      viewCount: '493'
 ---
 
