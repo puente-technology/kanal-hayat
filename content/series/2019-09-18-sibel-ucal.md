@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: Sibel Üçal
+title: Hristiyan İlahiler
 publishDate: .
 coverImage: /images/uploads/song-3-save-for-web.jpg
 host: Sibel Üçal ile
