@@ -405,6 +405,14 @@
   }
 }
 
+@media (min-width: 1800px) {
+ 
+  .EpisodeVideo {
+    width: 382px !important;
+    height: 285px !important;
+  }
+}
+
 @media (max-width: 768px) {
   .Episode {
     margin-left: 22px;

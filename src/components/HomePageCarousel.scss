@@ -38,6 +38,8 @@ $level1-width: 250px;
 $level0-left: 406px;
 $level1-left: 114px;
 
+$level0-left-big: 500px;
+
 
 
 .homeLevel0 {
@@ -143,6 +145,27 @@ $level1-left: 114px;
     margin-bottom: 3px;
 }
 
+@media (min-width: 1800px) {
+
+    .arrow {
+        margin-top: 80px;
+    }
+    .arrow-right{
+        left: 878px;
+    }
+    .arrow-left {
+        left: 60px;
+    }
+    .homeLevel1{
+        width: auto;
+        height: auto;
+    }
+    .homeLevel0{
+        width: auto;
+        height: auto;
+        left: $level0-left-big;
+    }
+}
 @media (max-width: 576px) {
     #carousel {
         width: 100%;

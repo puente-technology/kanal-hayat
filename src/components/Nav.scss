@@ -258,6 +258,25 @@
   }
 }
 
+@media (min-width: 1800px) {
+  .Nav{
+    .Logo{
+      margin-right: 80px;
+      position: relative;
+      height: 57px;
+      width: 300px;
+    }
+  }
+  .NavLink{
+    // margin-right: 55px;
+    font-size: 30px;
+  }
+  .Nav--Links {
+    margin-left: 104px;
+}
+}
+
+
 @keyframes Nav--Link {
   from {
     transform: translate(0rem, 1rem);
