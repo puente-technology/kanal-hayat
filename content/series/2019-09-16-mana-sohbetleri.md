@@ -264,5 +264,26 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=c3Ci8yjDKC4&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=13&t=0s
       viewCount: '367'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri (13.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M17S
+      id: cBIgBLfjdzo
+      imageURL: 'https://i.ytimg.com/vi/cBIgBLfjdzo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T14:48:57.000Z'
+      tags: 'egemenlik,ne,demektir?'
+      title: Mânâ Sohbetleri - "Egemenlik" Ne Demektir?
+      url: >-
+        https://www.youtube.com/watch?v=cBIgBLfjdzo&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=14&t=0s
+      viewCount: '1255'
 ---
 
