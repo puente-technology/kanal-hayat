@@ -379,5 +379,31 @@ episodes:
       title: 1096 1 Cesurca Yaşamak 1
       url: 'https://youtu.be/wQDreLqXwLc'
       viewCount: '142'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: >-
+        1096 5 Cesurca Yaşamak  3
+
+        Joyce Meyer'in birbirinden farklı konular hakkındaki programlarını Kanal
+        Hayat ekranından veya sayfamızdan takip edebilirsiniz.Esen kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M55S
+      id: TI8-QqSC5tE
+      imageURL: 'https://i.ytimg.com/vi/TI8-QqSC5tE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-10-07T06:43:01.000Z'
+      tags: 'hayattan,keyif,alın,cesurca,yaşamak 3'
+      title: Hayattan Keyif Alın - Cesurca Yaşamak  3
+      url: >-
+        https://www.youtube.com/watch?v=TI8-QqSC5tE&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=23&t=0s
+      viewCount: '64'
 ---
 
