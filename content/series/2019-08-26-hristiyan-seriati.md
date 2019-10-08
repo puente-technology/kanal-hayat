@@ -534,5 +534,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=iM0UxRicoPo&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=9&t=0s
       viewCount: '114'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        68 - Mesih'i Örnek Alan Düşünce Nedir? 
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını Kanal Hayat ekranından veya youtube sayfamızdan takip
+        edebilirsiniz.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M57S
+      id: Drarci4lews
+      imageURL: 'https://i.ytimg.com/vi/Drarci4lews/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-18T07:02:56.000Z'
+      tags: 'htistiyan,şeriatı,mesihçi,alçak,gönüllülük,düşünce nedir?'
+      title: Hristiyan Şeriatı - Mesih'i Örnek Alan Düşünce Nedir?
+      url: >-
+        https://www.youtube.com/watch?v=Drarci4lews&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=10&t=0s
+      viewCount: '163'
 ---
 
