@@ -700,5 +700,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=fQaxoc2knuc&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=14&t=0s
       viewCount: '133'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        63 - İznik konseyi
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT22M20S
+      id: kRDaYpaDEsE
+      imageURL: 'https://i.ytimg.com/vi/kRDaYpaDEsE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-07T19:21:05.000Z'
+      tags: 'iznik,konseyi,şeriat'
+      title: Hristiyan Şeriatı - İznik konseyi
+      url: >-
+        https://www.youtube.com/watch?v=kRDaYpaDEsE&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=15&t=0s
+      viewCount: '263'
 ---
 
