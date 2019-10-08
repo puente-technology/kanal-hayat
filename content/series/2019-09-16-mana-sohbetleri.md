@@ -243,5 +243,26 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=YAM-IQzMUYc&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=12&t=0s
       viewCount: '194'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri (12.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT27M22S
+      id: c3Ci8yjDKC4
+      imageURL: 'https://i.ytimg.com/vi/c3Ci8yjDKC4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T14:48:45.000Z'
+      tags: 'dönüşüm,ve,değişim,incil,kelam'
+      title: Mânâ Sohbetleri - Dönüşüm ve Değişim
+      url: >-
+        https://www.youtube.com/watch?v=c3Ci8yjDKC4&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=13&t=0s
+      viewCount: '367'
 ---
 
