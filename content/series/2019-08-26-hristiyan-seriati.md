@@ -898,5 +898,34 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=OCtSTSgpago&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=21&t=0s
       viewCount: '365'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        56 - Hristiyanlarda Namaz Var mı?
+
+        55 Seçilmişlik ve Dua
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M19S
+      id: _AycyGx4js0
+      imageURL: 'https://i.ytimg.com/vi/_AycyGx4js0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-07-26T11:07:19.000Z'
+      tags: '#isa,#mesih,#namaz,#hristiyanlık,#var,#mı'
+      title: Hristiyanlık Şeriatı - Hristiyanlarda Namaz Var mı?
+      url: >-
+        https://www.youtube.com/watch?v=_AycyGx4js0&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=22&t=0s
+      viewCount: '782'
 ---
 
