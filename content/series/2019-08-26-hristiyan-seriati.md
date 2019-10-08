@@ -816,5 +816,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=3P3Z0_CXGJs&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=18&t=0s
       viewCount: '402'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        60 - Kurtuluşumuzun Güvencesi
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M14S
+      id: f5lNPajMtxw
+      imageURL: 'https://i.ytimg.com/vi/f5lNPajMtxw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-21T17:02:44.000Z'
+      tags: 'kurtuluş,güvencesi,şeriatı'
+      title: Hristiyan Şeriatı - Kurtuluşumuzun Güvencesi - Hristiyan Şeriatı
+      url: >-
+        https://www.youtube.com/watch?v=f5lNPajMtxw&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=19&t=0s
+      viewCount: '356'
 ---
 
