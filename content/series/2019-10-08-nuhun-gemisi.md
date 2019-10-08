@@ -177,5 +177,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=vq90ezmrDWY&list=PLE83C0A7125F2824D&index=12&t=0s
       viewCount: '1201'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT21M51S
+      id: Y6h1uxoiWjI
+      imageURL: 'https://i.ytimg.com/vi/Y6h1uxoiWjI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T17:23:46.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: '12.Bölüm, Petrus:  İsa''yı İzlerken...'
+      url: >-
+        https://www.youtube.com/watch?v=Y6h1uxoiWjI&list=PLE83C0A7125F2824D&index=13&t=0s
+      viewCount: '200'
 ---
 
