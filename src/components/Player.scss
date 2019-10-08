@@ -443,12 +443,12 @@ $track-border-width: 0px;
 		margin-top: 11px;
 	}
 	.player-remaining {
-		right: 22px;
+		right: -5px;
 		font-size: 12px;
     	margin-top: 10px;
 	}
 	.player-elapsed {
-		left: 30px;
+		left: 25px;
 		font-size: 12px;
     	margin-top: 10px;
 	}
@@ -576,7 +576,18 @@ input[type=range]::-moz-range-thumb {
 
 @media (max-width: map-get($grid-breakpoints, md)) {
 	#player {
+		&.collapsed {
+			height: 15rem;
+			#reactPlayer {
+				width: 20rem !important;
+				height: 15rem !important;
+			}
+			.player-bar {
+				width: 90%;
+			}
+		}
 		&.isBig {
+			height: 100%;
 			#reactPlayer {
 				width: 100% !important;
 				height: 380px !important;
@@ -616,6 +627,8 @@ input[type=range]::-moz-range-thumb {
 				padding-top: 0;
 				width: auto;
 				height: auto;
+				margin-left: 10px;
+				z-index: 1;
 			}
 			.player-volume {
 				display: flex;
@@ -644,18 +657,27 @@ input[type=range]::-moz-range-thumb {
 					}
 				}
 			}
+			.player-expand {
+				.player-screen-control {
+					margin-top: 1rem;
+				}
+			}
 		}
 	}
 
 	.player-controls-container {
-		height: 10rem;
+		height: 15rem;
+		&.collapsed {
+			padding-top: 15px;
+		}
 		.row {
 			justify-content: flex-start;
 		}	
 	}
 
 	.player-control-container {
-		margin-left: 0;
+		margin-left: 25px;
+		margin-top: 5px;
 		&.isBig {
 			.player-bar {
 				margin-left: 0;
@@ -668,6 +690,9 @@ input[type=range]::-moz-range-thumb {
 		right: 11px;
 		top: -7px;
 		align-items: flex-end;
+		.player-screen-control {
+			margin-top: 4.2rem;
+		}
 	}
 
 	.player-expanded-more {
@@ -697,11 +722,11 @@ input[type=range]::-moz-range-thumb {
 
 	.playPause-button {
 		position: absolute;
-		left: 130px;
+		left: 140px;
 		border: 3px solid #FFFFFF;
 		border-radius: 30px;
-		height: 39px;
-		width: 39px;
+		height: 45px;
+		width: 45px;
 		margin-top: 21px;
 		padding-top: 7px;
 	}
@@ -709,6 +734,7 @@ input[type=range]::-moz-range-thumb {
 	.player-info-collapsed {
 		flex-direction: row;
 		width: fit-content;
+		margin-left: 140px;
 	}
 
 	.player-artist {
