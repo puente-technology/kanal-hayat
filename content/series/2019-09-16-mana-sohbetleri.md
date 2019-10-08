@@ -180,5 +180,26 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=iDK86NBDXGQ&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=9&t=0s
       viewCount: '596'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri (9.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M3S
+      id: JZin5WgeZOg
+      imageURL: 'https://i.ytimg.com/vi/JZin5WgeZOg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T14:47:48.000Z'
+      tags: 'mesih,Talebesinin,Yüce,Görevi'
+      title: Mânâ Sohbetleri - Mesih Talebesinin Yüce Görevi
+      url: >-
+        https://www.youtube.com/watch?v=JZin5WgeZOg&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=10&t=0s
+      viewCount: '319'
 ---
 
