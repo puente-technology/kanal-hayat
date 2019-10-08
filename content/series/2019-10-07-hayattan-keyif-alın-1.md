@@ -353,5 +353,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=NL715li-YOQ&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=16&t=0s
       viewCount: '186'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: 1091 5 Joyce Meyer
+      duration: PT25M41S
+      id: 68IJ-OYQskw
+      imageURL: 'https://i.ytimg.com/vi/68IJ-OYQskw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-11T07:29:09.000Z'
+      tags: biliçli
+      title: Bilinçli Şekilde Söylememiz Gereken 6 Şey  (II)
+      url: 'https://youtu.be/68IJ-OYQskw'
+      viewCount: '42'
 ---
 
