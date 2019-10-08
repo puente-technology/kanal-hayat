@@ -98,5 +98,6 @@
   }
   .player-info-info-div-parent {
     margin: 0;
+    display: block;
   }
 }
