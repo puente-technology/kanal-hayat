@@ -727,5 +727,38 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=kRDaYpaDEsE&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=15&t=0s
       viewCount: '263'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kiliselerin birliği
+
+        62 - Kiliselerin Birliği 
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M10S
+      id: BRVU5LD7ggw
+      imageURL: 'https://i.ytimg.com/vi/BRVU5LD7ggw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-04T08:33:54.000Z'
+      tags: >-
+        kilise,birliği,hristiyan,şeriatı,cemaat,vaaz,kutsal,davranışlarımız,ibadet,toplantı,hristiyanlık,pastör,isa
+        mesih
+      title: Hristiyan Şeriatı - Kiliselerin Birliği
+      url: >-
+        https://www.youtube.com/watch?v=BRVU5LD7ggw&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=16&t=0s
+      viewCount: '185'
 ---
 
