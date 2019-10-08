@@ -327,5 +327,26 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Hr2-fsJSH9U&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=16&t=0s
       viewCount: '175'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri (16.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M28S
+      id: syghHVx6WE4
+      imageURL: 'https://i.ytimg.com/vi/syghHVx6WE4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T09:33:31.000Z'
+      tags: 'yol,rehberi,kimdir?'
+      title: Mânâ Sohbetleri - Yol Rehberi Kimdir?
+      url: >-
+        https://www.youtube.com/watch?v=syghHVx6WE4&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=17&t=0s
+      viewCount: '147'
 ---
 
