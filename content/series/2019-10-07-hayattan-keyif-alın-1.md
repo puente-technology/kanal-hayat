@@ -405,5 +405,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=TI8-QqSC5tE&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=23&t=0s
       viewCount: '64'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: '[1099 5 ] Joyce Meyer Türkçe'
+      duration: PT24M42S
+      id: hkX_udANgF0
+      imageURL: 'https://i.ytimg.com/vi/hkX_udANgF0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-04-09T11:50:34.000Z'
+      tags: 'Doğru,Düşünmenin,Gücü'
+      title: Doğru Düşünmenin Gücü
+      url: 'https://youtu.be/hkX_udANgF0'
+      viewCount: '460'
 ---
 
