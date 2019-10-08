@@ -10,7 +10,7 @@
   -o-background-size: cover;
   background-size: cover;
   font-style: normal;
-  display: flex;
+  /* display: flex; */
   background-size: cover;
   font-style: normal;
   position: relative;
@@ -54,6 +54,13 @@
   margin: 0 auto 10px;
 }
 
+.dark {
+  color: black
+}
+.liight {
+  color: white
+}
+
 .content {
   font-style: normal;
   font-weight: normal;
@@ -66,7 +73,7 @@
   overflow-y: scroll;
 }
 
-.button {
+.button-fr {
   background-color: Transparent;
   height: 50px;
   border: 1px solid #FFFF;
@@ -76,7 +83,6 @@
   text-align: center;
   color: #FFFF;
   margin: 0 auto;
-  margin-top: 40px;
   margin-bottom: 40px;
 }
 

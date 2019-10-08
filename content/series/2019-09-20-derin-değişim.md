@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Derin Değişim
 publishDate: .
-coverImage: /images/uploads/derin-değişim-banu-çelik.png
+coverImage: /images/uploads/derin-değişim-banu-çelikk.jpg
 host: Banu Çelik
 description: >-
   Banu Çelik ve konuklarıyla birlikte farklı konularda kelam temelinde

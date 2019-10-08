@@ -1,17 +1,23 @@
 import React from 'react'
 import CMS from 'netlify-cms-app'
 import youtube from "netlify-cms-widget-youtube-extended";
+import option from "netlify-cms-linked-option-widget";
+
 import './cms-util'
 import { HomePageTemplate } from '../templates/HomePage'
 import FooterBanner from './preview-templates/FooterBanner'
 import FriendSiteBanner from './preview-templates/FriendSiteBanner'
 import HeaderBanner from './preview-templates/HeaderBanner'
 import { AboutUsPageTemplate } from '../templates/AboutUs'
+// import { SSSPageTemplate } from '../templates/SSS'
 import { ContactUsTemplate } from '../templates/ContactUs'
 import EventsPage, { EventsTemplate } from '../templates/EventsPage';
 
 
 CMS.registerWidget("youtube", youtubeControl, youtubePreview);
+
+CMS.registerWidget("option", Control, Preview);
+
 
 CMS.registerPreviewTemplate('home-page', ({ entry }) => {
   return (
@@ -43,8 +49,13 @@ CMS.registerPreviewTemplate('contact-us', ({ entry }) => {
   <ContactUsTemplate {...entry.toJS().data }/>
 )})
 
-CMS.registerPreviewTemplate('event-page', ({ entry }) => {
+CMS.registerPreviewTemplate('yayin-akisi', ({ entry }) => {
   return (
   <EventsTemplate {...entry.toJS().data }/>
 )})
+
+// CMS.registerPreviewTemplate('s-s-s', ({ entry }) => {
+//   return (
+//   <SSSPageTemplate {...entry.toJS().data }/>
+// )})
 

@@ -1,5 +1,6 @@
 ---
 template: SeriesList
-slug: 'series'
+slug: series
 title: Seriler
 ---
+

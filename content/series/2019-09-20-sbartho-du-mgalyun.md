@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Sbartho Du Mgalyun
 publishDate: .
-coverImage: /images/uploads/_dsc1669.jpg
+coverImage: /images/uploads/_dsc166999.jpg
 host: 'Paulus Bartuma '
 description: >-
   Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "

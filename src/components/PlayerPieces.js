@@ -16,7 +16,7 @@ const elipse1 = require('../../static/images/elipse1.svg');
 const elipse2 = require('../../static/images/elipse2.svg');
 const elipse3 = require('../../static/images/elipse3.svg');
 const mute = require('../../static/images/mute.svg');
-const fullScreen = require('../../static/images/screenSize.svg');
+const fullScreen = require('../../static/images/expandFullScreen.svg');
 const expand = require('../../static/images/expand.svg');
 const bigScreen = require('../../static/images/bigscreen.svg');
 const infoSvg = require('../../static/images/info.svg')
@@ -409,7 +409,7 @@ export const PlayerButtonsBigScreen = ({
                 marginRight: '21px',
               }}
               onClick={isBigScreenClick}
-              className="player-volume-path"
+              className="player-volume-path expand"
             />
           ) : (
             <button

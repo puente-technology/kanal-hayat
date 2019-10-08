@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: puente-technology-design/kanal-hayat
+  repo: puente-technology/kanal-hayat
   branch: develop
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
@@ -8,7 +8,7 @@ publish_mode: editorial_workflow
  
 collections:
   - name: 'pages'
-    label: 'Page'
+    label: 'Home Page'
     delete: false # Prevent users from deleting documents in this collection
     editor:
       preview: true
@@ -31,6 +31,7 @@ collections:
             widget: 'list'
             fields:
               - { name: image, label: Image, widget: image }
+              - { name: link, label: Link, widget: string }
               - { name: alt, label: Alt, widget: string }
               - { name: title, label: Title, widget: string, required: true }
               - {
@@ -99,7 +100,7 @@ collections:
                   - { name: youtubeURL, label: Youtube URL, widget: youtube, extraInfo: true, APIkey: "AIzaSyAln9Zizqc3_r8zozq4OcmqwwsUOXRJtuE", required: false }
 
   - name: 'foterBanner'
-    label: 'Footer Banner'
+    label: 'Most Viewed Banner'
     delete: false
     editor:
       preview: true
@@ -116,7 +117,7 @@ collections:
               - { name: link, label: Link, widget: string }
 
   - name: 'headerBanner'
-    label: 'Header Banner'
+    label: 'Page Header Banners'
     delete: false
     editor:
       preview: true
@@ -164,7 +165,7 @@ collections:
           - { name: buttonText, label: Button Text, widget: string }
 
   - name: 'about-us'
-    label: 'About Us'
+    label: 'About Us Page'
     delete: false
     editor:
       preview: true
@@ -196,7 +197,7 @@ collections:
               - { name: footerInfo, label: Footer Info, widget: string }
 
   - name: 'contact-us'
-    label: 'Contact Us'
+    label: 'Contact Us Info'
     delete: false
     editor:
       preview: true
@@ -214,24 +215,56 @@ collections:
           - { label: Address, name: address, widget: string }
           - { label: Header, name: header, widget: string }
 
-  - name: 'info-page'
-    label: 'Bilgi Edin'
+  - name: 's-s-s'
+    label: 'SSS Page'
     delete: false
     editor:
       preview: true
     files:
-      - file: 'content/pages/info-page.md'
-        label: 'Bilgi Edin'
-        name: 'info-page'
+      - file: 'content/pages/s-s-s.md'
+        label: 'S. S. S.'
+        name: 's-s-s'
         fields:
           - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
           - { label: Template, name: template, widget: hidden}
-          - { label: Slug, name: slug, widget: hidden, default: '' }
           - { label: Title, name: title, widget: string }
+          - label: 'Sorular'
+            name: 'questions'
+            widget: 'list'
+            fields:
+              - { label: Soru, name: question, widget: string }
+              - { label: Cevap, name: answer, widget: string }
+              - label: 'Bölümler'
+                name: 'videos'
+                widget: 'list'
+                required: false
+                fields:
+                  - { name: youtubeURL, label: Youtube URL, widget: youtube, extraInfo: true, APIkey: "AIzaSyAln9Zizqc3_r8zozq4OcmqwwsUOXRJtuE" } 
+                  - { label: Sunucu, name: host, widget: string }
+                  - { label: Konuklar, name: guests, widget: string, required: false, default: '' }
+                  - label: Hedef Kitle
+                    name: targetGroup
+                    widget: select
+                    options: ["Çocuk",  "Genç", "Yetişkin", "Herkes"]
+
+  # - name: 'info-page'
+  #   label: 'Bilgi Edin'
+  #   delete: false
+  #   editor:
+  #     preview: true
+  #   files:
+  #     - file: 'content/pages/info-page.md'
+  #       label: 'Bilgi Edin'
+  #       name: 'info-page'
+  #       fields:
+  #         - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
+  #         - { label: Template, name: template, widget: hidden}
+  #         - { label: Slug, name: slug, widget: hidden, default: '' }
+  #         - { label: Title, name: title, widget: string }
 
 
   - name: 'series-page'
-    label: 'İzle'
+    label: 'Series Page'
     delete: false
     editor:
       preview: false
@@ -246,12 +279,11 @@ collections:
           - { label: Title, name: title, widget: string }
 
   - name: 'events'
-    label: 'Program'
+    label: 'Programing Schedule (Old)'
     files:
       - file: 'content/pages/events.md'
-        label: 'Yayın Akışı'
+        label: 'Programing Schedule'
         name: 'event-page'
-        # widget: 'list'
         fields:
           - { label: Slug, name: slug, widget: hidden, default: '' }
           - { label: Title, name: title, widget: hidden }
@@ -314,9 +346,87 @@ collections:
                       ],
                       multiple: true,
                     }
+  - name: 'yayin-akisi'
+    label: 'Yayin Akisi'
+    editor:
+      preview: true
+    create: true
+    folder: 'content/yayin'
+    identifier_field: slug
+    fields:
+      - label: Program Tarihi
+        name: title
+        widget: datetime
+        timeFormat: false
+        format: YYYY MM DD ddd
+        pattern: ['^\d{4}.\d{2}.\d{2} Mon$', "Programin Pazartesi gununden baslamasi lazim"]
+      - label: 'Akış'
+        name: 'eventList'
+        widget: 'list'
+        fields:
+          - label: "Series"
+            name: "title"
+            widget: "relation"
+            collection: "series"
+            searchFields: ["title"]
+            valueField: "title"
+          - { name: subtitle, label: 'Bolum Ismi', widget: string }
+          - label: 'Zaman'
+            name: 'time'
+            widget: 'object'
+            fields:
+              - {
+                  name: startTime,
+                  label: 'Başlama Saati',
+                  widget: string,
+                  pattern: ['(?:[01]\d|2[0123]):(?:[012345]\d)', "Must be in HH:MM"],
+                }
+              - {
+                  name: endTime,
+                  label: 'Bitiş Saati',
+                  widget: string,
+                  pattern: ['(?:[01]\d|2[0123]):(?:[012345]\d)', "Must be in HH:MM"],
+                }
+              - {
+                  label: 'Yayın Günleri',
+                  name: 'days',
+                  widget: 'select',
+                  options: [
+                    {
+                      label: 'Pazartesi',
+                      value: 1
+                    },
+                    {
+                      label: 'Salı',
+                      value: 2
+                    },
+                    {
+                      label: 'Çarşamba',
+                      value: 3
+                    },
+                    {
+                      label: 'Perşembe',
+                      value: 4
+                    },
+                    {
+                      label: 'Cuma',
+                      value: 5
+                    },
+                    {
+                      label: 'Cumartesi',
+                      value: 6
+                    },
+                    {
+                      label: 'Pazar',
+                      value: 99
+                    }
+                  ],
+                  multiple: true,
+                }
+            
 
   - name: seriesCategories
-    label: Seri Kategorileri
+    label: Series Categories
     editor:
       preview: false
     folder: content/categories
@@ -335,7 +445,7 @@ collections:
         required: false
 
   - name: 'series'
-    label: 'Seriler'
+    label: 'Series'
     editor:
       preview: true
     folder: content/series
@@ -382,9 +492,9 @@ collections:
             name: season
             widget: select
             options: ["1",  "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20"]
-
+  
   - name: hosts
-    label: Sunucular
+    label: Hosts
     editor:
       preview: false
     folder: content/hosts

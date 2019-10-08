@@ -10,10 +10,10 @@ const FriendSiteBanner = (data) => {
         </div>
         <div className="logoDiv">
           <img className="logoStyle" alt={data.logo[0].alt || ''} src={data.logo[0].image || ''} />
-          <p className="header">
+          <p style={{ color: data.color === 'dark' ? 'black' : 'white' }} className="header">
             {data.header || ''}
           </p>
-          <p className="content">
+          <p style={{ color: data.color === 'dark' ? 'black' : 'white' }} className="content">
             {data.content || ''}
           </p>
           <button type="button" className="button">

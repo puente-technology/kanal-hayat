@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
@@ -37,26 +38,37 @@ class SeriesList extends Component {
 
   dataIntoArray = data => (Object.values(data).filter(x => x !== 'Seriler'))
 
-  handleLanguageChange = (e) => {
-    const { value } = e.target
+  handleLanguageChange = (value) => {
+    const valueType = value === 'Turkce' ? '0' : '1'
     let { listSeries } = this.state;
     const { data } = this.props;
     listSeries = this.dataIntoArray(data)
     let res = listSeries;
-    if (value !== '-99') {
+    if (value !== 'Dil') {
       res = listSeries
-        .filter(d => d.node.frontmatter.language === value)
+        .filter(d => d.node.frontmatter.language === valueType)
     }
     this.setState({ listSeries: res })
   }
 
-  handleTargetChange = (e) => {
-    const { value } = e.target
+  handleHostChange = (value) => {
     let { listSeries } = this.state;
     const { data } = this.props;
     listSeries = this.dataIntoArray(data)
     let res = listSeries;
-    if (value !== '-99') {
+    if (value !== 'Sunucu Ismi') {
+      res = listSeries
+        .filter(d => d.node.frontmatter.host === value)
+    }
+    this.setState({ listSeries: res })
+  }
+
+  handleTargetChange = (value) => {
+    let { listSeries } = this.state;
+    const { data } = this.props;
+    listSeries = this.dataIntoArray(data)
+    let res = listSeries;
+    if (value !== 'Hedef Kitle') {
       res = listSeries
         .filter(d => d.node.frontmatter.targetGroup === value)
     }
@@ -144,9 +156,11 @@ class SeriesList extends Component {
   sortByDate = () => {
     const { data } = this.props;
     const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => {
-      const aepisodes = a.node.frontmatter.episodes
+      const episodesInfoA = a.node.frontmatter.episodes || []
+      const episodesInfoB = b.node.frontmatter.episodes || []
+      const aepisodes = episodesInfoA
         .map(x => x.youtubeURL.publishedAt).sort((x, y) => (y - x))
-      const bepisodes = b.node.frontmatter.episodes
+      const bepisodes = episodesInfoB
         .map(x => x.youtubeURL.publishedAt).sort((x, y) => (y - x))
 
       if (aepisodes[0] > bepisodes[0]) {
@@ -179,7 +193,7 @@ class SeriesList extends Component {
       scrollLeftPosition,
       windowWidth,
     } = this.state;
-    const { hosts } = this.props
+    const { hosts, hostList } = this.props
     const renderSeries = []
     const isMobile = windowWidth <= 1305;
     for (let i = 0; i < listSeries.length; i += 1) {
@@ -306,13 +320,13 @@ class SeriesList extends Component {
           </div>
           )}
         </div>
+
         <div className="SeriesListSortAndFilter">
-          <button value="title" onClick={this.handleSortByClick} type="button" className="SortButton">İsim</button>
+          <button value="title" onClick={this.handleSortByClick} type="button" className="SortButton">Program İsmi</button>
           <button value="date" onClick={this.handleSortByDateClick} type="button" className="SortButton">Tarih</button>
-          <Dropdown list={['Dil', 'Turkce', 'English']} />
-          {/* handleLanguageChange */}
-          {/* handleTargetChange */}
-          <Dropdown list={['Hedef Kitle', 'Herkes', 'Çocuk', 'Genç', 'Yetişkin']} />
+          <Dropdown handleLanguageChange={this.handleLanguageChange} list={['Dil', 'Turkce', 'English']} />
+          <Dropdown handleTargetChange={this.handleTargetChange} list={['Hedef Kitle', 'Herkes', 'Çocuk', 'Genç', 'Yetişkin']} />
+          <Dropdown handleHostChange={this.handleHostChange} list={hostList} />
           <input onChange={this.handleTextChange} className="Nav--Search filter" type="text" />
         </div>
         <div className="SeriesContainer">
@@ -328,6 +342,7 @@ class SeriesList extends Component {
 SeriesList.propTypes = {
   data: PropTypes.any,
   hosts: PropTypes.any,
+  hostList: PropTypes.any,
 }
 
 export default connect(state => ({

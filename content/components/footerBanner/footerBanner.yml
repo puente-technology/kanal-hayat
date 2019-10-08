@@ -1,6 +1,4 @@
 program:
-  - link: link 1
-    programName: 'Dar Kapıdan Girenler [Neden Hristiyan Oldum ?] '
   - link: link 2
     programName: Anlatsana Ey Gavur
   - link: link 5
@@ -9,3 +7,5 @@ program:
     programName: Hristiyan Şeriatı
   - link: link 3
     programName: Hristiyan Ahlâkı
+  - link: link 1
+    programName: 'Dar Kapıdan Girenler [Neden Hristiyan Oldum ?] '
