@@ -60,7 +60,7 @@ class PlayerInfoExpand extends Component {
     let guests = episodeInfo.guests
     let targetGroup = frontmatter.targetGroup
 
-    if (frontmatter.title === 'S.S.S') {
+    if (frontmatter.title === 'SSS Page') {
       hostName = frontmatter.questions[questionIndex].videos[index].host
       guests = frontmatter.questions[questionIndex].videos[index].guests
       targetGroup = frontmatter.questions[questionIndex].videos[index].targetGroup

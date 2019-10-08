@@ -8,7 +8,7 @@ publish_mode: editorial_workflow
  
 collections:
   - name: 'pages'
-    label: 'Page'
+    label: 'Home Page'
     delete: false # Prevent users from deleting documents in this collection
     editor:
       preview: true
@@ -100,7 +100,7 @@ collections:
                   - { name: youtubeURL, label: Youtube URL, widget: youtube, extraInfo: true, APIkey: "AIzaSyAln9Zizqc3_r8zozq4OcmqwwsUOXRJtuE", required: false }
 
   - name: 'foterBanner'
-    label: 'Footer Banner'
+    label: 'Most Viewed Banner'
     delete: false
     editor:
       preview: true
@@ -117,7 +117,7 @@ collections:
               - { name: link, label: Link, widget: string }
 
   - name: 'headerBanner'
-    label: 'Header Banner'
+    label: 'Page Header Banners'
     delete: false
     editor:
       preview: true
@@ -165,7 +165,7 @@ collections:
           - { name: buttonText, label: Button Text, widget: string }
 
   - name: 'about-us'
-    label: 'About Us'
+    label: 'About Us Page'
     delete: false
     editor:
       preview: true
@@ -197,7 +197,7 @@ collections:
               - { name: footerInfo, label: Footer Info, widget: string }
 
   - name: 'contact-us'
-    label: 'Contact Us'
+    label: 'Contact Us Info'
     delete: false
     editor:
       preview: true
@@ -216,7 +216,7 @@ collections:
           - { label: Header, name: header, widget: string }
 
   - name: 's-s-s'
-    label: 'S. S. S.'
+    label: 'SSS Page'
     delete: false
     editor:
       preview: true
@@ -264,7 +264,7 @@ collections:
 
 
   - name: 'series-page'
-    label: 'İzle'
+    label: 'Series Page'
     delete: false
     editor:
       preview: false
@@ -279,10 +279,10 @@ collections:
           - { label: Title, name: title, widget: string }
 
   - name: 'events'
-    label: 'Program'
+    label: 'Programing Schedule (Old)'
     files:
       - file: 'content/pages/events.md'
-        label: 'Yayın Akışı'
+        label: 'Programing Schedule'
         name: 'event-page'
         fields:
           - { label: Slug, name: slug, widget: hidden, default: '' }
@@ -426,7 +426,7 @@ collections:
             
 
   - name: seriesCategories
-    label: Seri Kategorileri
+    label: Series Categories
     editor:
       preview: false
     folder: content/categories
@@ -445,7 +445,7 @@ collections:
         required: false
 
   - name: 'series'
-    label: 'Seriler'
+    label: 'Series'
     editor:
       preview: true
     folder: content/series
@@ -494,7 +494,7 @@ collections:
             options: ["1",  "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20"]
   
   - name: hosts
-    label: Sunucular
+    label: Hosts
     editor:
       preview: false
     folder: content/hosts
