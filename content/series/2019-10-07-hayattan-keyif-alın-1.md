@@ -553,5 +553,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ZRmJP8je89A&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=38&t=0s
       viewCount: '253'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: >-
+        1137  1 Geçmişi Geçmişte Bırakmak - 1
+
+        Hayatan Keyif Alın, Joyce Meyer programlarını sayfamızdan takip
+        edebilirsiniz.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M45S
+      id: 3zlw_J6SnPo
+      imageURL: 'https://i.ytimg.com/vi/3zlw_J6SnPo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-19T07:23:05.000Z'
+      tags: 'hayattan,keyif,alın,geçmişi,geçmişte,bırakmak,kanal hayat'
+      title: Hayattan Keyif Alın - Geçmişi Geçmişte Bırakmak - 1
+      url: 'https://youtu.be/3zlw_J6SnPo'
+      viewCount: '229'
 ---
 
