@@ -147,5 +147,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=gASD1FaUBN8&list=PLE83C0A7125F2824D&index=10&t=0s
       viewCount: '155'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT22M1S
+      id: 4lfzwxITSDY
+      imageURL: 'https://i.ytimg.com/vi/4lfzwxITSDY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T17:18:25.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: '10.Bölüm, Ester:  Tanrı''nın Planları'
+      url: >-
+        https://www.youtube.com/watch?v=4lfzwxITSDY&list=PLE83C0A7125F2824D&index=11&t=0s
+      viewCount: '202'
 ---
 
