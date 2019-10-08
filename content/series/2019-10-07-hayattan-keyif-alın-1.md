@@ -510,5 +510,18 @@ episodes:
       title: İhtiyacınız Olan Şeye Sahipsiniz - 2
       url: 'https://youtu.be/iNDcAa_pIAs'
       viewCount: '1272'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: 1133 4
+      duration: PT24M9S
+      id: SIFtkXXECsc
+      imageURL: 'https://i.ytimg.com/vi/SIFtkXXECsc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-29T14:09:06.000Z'
+      tags: 'kendinden,Emin Davranmak'
+      title: Kendinden Emin Davranmak
+      url: 'https://youtu.be/SIFtkXXECsc'
+      viewCount: '2671'
 ---
 
