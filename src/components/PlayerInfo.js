@@ -1,3 +1,4 @@
+/* eslint-disable prefer-destructuring */
 /* eslint-disable array-callback-return */
 /* eslint-disable consistent-return */
 import React, { Component } from 'react';
@@ -20,6 +21,8 @@ class PlayerInfoExpand extends Component {
     playerIndex: PropTypes.any,
     handleVideoUrlChange: PropTypes.any,
     hosts: PropTypes.any,
+    questionIndex: PropTypes.any,
+    index: PropTypes.any,
   };
 
   constructor(props) {
@@ -49,22 +52,37 @@ class PlayerInfoExpand extends Component {
       frontmatter,
       playerIndex,
       handleVideoUrlChange,
+      questionIndex,
+      index,
     } = this.props
+
+    let hostName = frontmatter.host
+    let guests = episodeInfo.guests
+    let targetGroup = frontmatter.targetGroup
+
+    if (frontmatter.title === 'SSS Page') {
+      hostName = frontmatter.questions[questionIndex].videos[index].host
+      guests = frontmatter.questions[questionIndex].videos[index].guests
+      targetGroup = frontmatter.questions[questionIndex].videos[index].targetGroup
+    }
+
     return (
-      <div style={{
-        width: playerProps.width,
-        height: '800px',
-        background: 'black',
-        bottom: '0',
-        margin: '0 auto',
-        display: 'flex',
-        flexDirection: 'column',
-      }}
+      <div
+        className="player-info-container"
+        style={{
+          width: playerProps.width,
+          height: '800px',
+          background: 'black',
+          bottom: '0',
+          margin: '0 auto',
+          display: 'flex',
+          flexDirection: 'column',
+        }}
       >
         <div className="player-info-header">
-          <p className="player-info-txt-head">
+          {/* <p className="player-info-txt-head">
             {frontmatter.title || ''}
-          </p>
+          </p> */}
           <p className="player-info-txt">
             {episodeInfo.youtubeURL.title}
           </p>
@@ -80,35 +98,35 @@ class PlayerInfoExpand extends Component {
         <div className="player-info-info-div-parent">
           <div className="player-info-info-div">
             <p className="player-info-text-bold">
-              Host:
+              Sunucu:
             </p>
             <p className="player-info-text-lighter">
               <Link
-                to={this.getHostUrl(frontmatter.host)}
+                to={this.getHostUrl(hostName)}
               >
-                {frontmatter.host || ''}
+                {hostName || ''}
               </Link>
             </p>
           </div>
           <div className="player-info-info-div">
             <p className="player-info-text-bold">
-              Guests:
+              Konuk:
             </p>
             <p className="player-info-text-lighter">
-              {episodeInfo.guests}
+              { guests || ''}
             </p>
           </div>
           <div className="player-info-info-div">
             <p className="player-info-text-bold">
-              Target Group:
+              Hedef Kitle:
             </p>
             <p className="player-info-text-lighter">
-              {frontmatter.targetGroup || ''}
+              {targetGroup || ''}
             </p>
           </div>
           <div className="player-info-info-div">
             <p className="player-info-text-bold">
-              Keywords:
+            Anahtar Kelimeler:
             </p>
             <p className="player-info-text-lighter" style={{ height: '32px', overflow: 'scroll' }}>
               {episodeInfo.youtubeURL.tags}
@@ -132,7 +150,7 @@ class PlayerInfoExpand extends Component {
             )
           }
         </div>
-        <div style={{ margin: '324px auto', transform: 'rotate(90deg)' }}>
+        <div className="player-info-close-info" style={{ margin: '324px auto', transform: 'rotate(90deg)' }}>
           <button
             type="button"
             width="50px"
@@ -156,4 +174,6 @@ class PlayerInfoExpand extends Component {
 export default connect(state => ({
   test: state,
   hosts: state.app.hosts,
+  index: state.app.index,
+  questionIndex: state.app.questionIndex,
 }), null)(PlayerInfoExpand)

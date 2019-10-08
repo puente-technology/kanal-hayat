@@ -54,6 +54,13 @@
   margin: 0 auto 10px;
 }
 
+.dark {
+  color: black
+}
+.liight {
+  color: white
+}
+
 .content {
   font-style: normal;
   font-weight: normal;

@@ -24,7 +24,7 @@ export const HomePageTemplate = (data) => {
     <div>
       {
         data.frontmatter
-          ? <FullPageSlider autoSlide gallery={data.gallery} slideTime={5000} />
+          ? <FullPageSlider autoSlide gallery={data.gallery} slideTime={3000} />
           : <HomePageSlider data={data.gallery} />
       }
       <LiveNow />
@@ -98,6 +98,7 @@ export const pageQuery = graphql`
           alt
           image
           title
+          link
           align
           color
         }

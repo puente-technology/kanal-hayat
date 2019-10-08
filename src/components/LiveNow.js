@@ -1,5 +1,7 @@
+/* eslint-disable array-callback-return */
 /* eslint-disable react/jsx-no-bind */
 import React from 'react';
+import moment from 'moment'
 import PropTypes from 'prop-types';
 
 import { StaticQuery, graphql } from 'gatsby'
@@ -26,11 +28,40 @@ export default () => (
           }
         }
       }
+      mdfiles :  allMarkdownRemark(filter: {fields: {contentType: {regex: "/yayin/"}}}) {
+        edges {
+          node {
+            frontmatter {
+              title
+            eventList {
+              title
+              subtitle
+              time {
+                days
+                startTime
+                endTime
+              }
+            }
+            }
+          }
+        }
+      }
     }
     `}
-    render={data => (
-      <LiveNowC eventList={data.allMarkdownRemark.nodes[0].frontmatter.eventList} />
-    )}
+    render={(data) => {
+      let eventData
+      data.mdfiles.edges.map((obj) => {
+        const time = moment(obj.node.frontmatter.title, 'YYYY MM DD')
+        if (moment(time).isSame(moment().format('YYYY MM DD'), 'week')) {
+          eventData = obj.node.frontmatter.eventList
+        }
+      })
+      return (
+        <LiveNowC eventList={eventData} />
+
+      )
+    }
+  }
   />
 )
 
@@ -41,8 +72,9 @@ export const LiveNowC = (props) => {
   } = props;
   let firstLoadedDay = new Date().getDay().toString()
   if (firstLoadedDay === '0') firstLoadedDay = '99'
-  const timeNow = new Date().toLocaleString()
-  const upperBoundTimeLimit = new Date(new Date().getTime() + sixHours).toLocaleString()
+  const options = { hour12: false };
+  const timeNow = new Date().toLocaleString('en-US', options).replace(',', '')
+  const upperBoundTimeLimit = new Date(new Date().getTime() + sixHours).toLocaleString('en-US', options).replace(',', '')
   const filtered = eventList.filter((
     {
       time:

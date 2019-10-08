@@ -82,9 +82,9 @@ class Player extends Component {
       showBool: true,
       expandedBoll: false,
       expandBool: false,
-      isBigScreenState: false,
+      isBigScreenState: true,
       isOpen: true,
-      isPlayerInfoOpen: true,
+      isPlayerInfoOpen: false,
       hoverBool: false,
       showinfoBool: true,
       episodesInfo: episodes,
@@ -106,8 +106,20 @@ class Player extends Component {
 
   onFullScreenClick = () => {
     const ele = document.getElementById('reactPlayer')
+    // ele.addEventListener('dbclick', this.handleDoubleClick)
     requestFullScreen(ele)
   }
+
+  // handleDoubleClick = () => {
+  //   const ele = document.getElementById('reactPlayer')
+  //   if (ele.exitFullscreen) {
+  //     ele.exitFullscreen();
+  //   } else if (ele.mozCancelFullScreen) {
+  //     ele.mozCancelFullScreen();
+  //   } else if (ele.webkitCancelFullScreen) {
+  //     ele.webkitCancelFullScreen();
+  //   }
+  // }
 
   playerNext = () => {
     const {
@@ -474,6 +486,7 @@ class Player extends Component {
     if (fullscreen) {
       props.height = '100%'
       props.width = '100%'
+      props.controls = true
     } else if (props.expand) {
       const width = 461
       const height = 260
@@ -546,6 +559,7 @@ class Player extends Component {
                   style={{
                     width: props.width, height: props.height, position: 'absolute', margin: '30px auto', left: '0px', right: '0px', top: '0px',
                   }}
+                  className="hovering-container"
                 />
               )
             }

@@ -1,3 +1,8 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
+/* eslint-disable jsx-a11y/click-events-have-key-events */
+/* eslint-disable jsx-a11y/no-noninteractive-element-interactions */
+/* eslint-disable react/jsx-no-bind */
+/* eslint-disable prefer-destructuring */
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import './Dropdown.scss';
@@ -6,6 +11,11 @@ import './Dropdown.scss';
 class Dropdown extends Component {
   static propTypes = {
     list: PropTypes.array,
+    handleLanguageChange: PropTypes.any,
+    handleTargetChange: PropTypes.any,
+    handleSeasonChange: PropTypes.any,
+    handleHostChange: PropTypes.any,
+    style: PropTypes.any,
   };
 
   static defaultProps = {
@@ -54,8 +64,23 @@ class Dropdown extends Component {
   };
 
   chooseItem = (value) => {
+    const {
+      handleLanguageChange,
+      handleTargetChange,
+      handleSeasonChange,
+      handleHostChange,
+    } = this.props
     const { labelItem } = this.state
     if (labelItem !== value) {
+      if (handleLanguageChange) {
+        handleLanguageChange(value)
+      } else if (handleTargetChange) {
+        handleTargetChange(value)
+      } else if (handleSeasonChange) {
+        handleSeasonChange(value)
+      } else if (handleHostChange) {
+        handleHostChange(value)
+      }
       this.setState({
         labelItem: value,
       })
@@ -79,11 +104,11 @@ class Dropdown extends Component {
   };
 
   render() {
-    const { list } = this.props;
+    const { list, style } = this.props;
     const { isOpen, labelItem } = this.state
     return (
       <div className={`dropdown ${isOpen ? 'open' : ''}`}>
-        <button className="dropdown-toggle" type="button" onClick={this.showDropdown}>
+        <button style={style} className="dropdown-toggle" type="button" onClick={this.showDropdown}>
           {labelItem}
         </button>
         <ul className="dropdown-menu">

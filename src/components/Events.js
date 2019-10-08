@@ -25,7 +25,6 @@ class Events extends Component {
     let firstLoadedDay = new Date().getDay().toString()
     if (firstLoadedDay === '0') firstLoadedDay = '99'
     const { eventList } = this.props;
-    console.log({ eventList });
     const filtered = eventList.filter(event => event.time.days
       .some(d => d === parseInt(firstLoadedDay, 10)))
     this.filteredList = filtered.sort(sortTimeString);
@@ -67,7 +66,9 @@ class Events extends Component {
 
   render() {
     const { activeDay, scrollWeekPosition, scrollLeftMax } = this.state;
+    // console.log('State', this.state)
     const timeNow = new Date().toLocaleString();
+    // console.log('Time Now', timeNow)
     // console.log('Scroll Event Week Position : ', scrollWeekPosition, scrollLeftMax);
     return (
       <React.Fragment>

@@ -45,10 +45,10 @@ const FriendSiteBanner = (edge) => {
       </div>
       <div className="logoDiv">
         <img className="logoStyle" alt={node.logo[0].alt} src={node.logo[0].image} />
-        <p className="header">
+        <p style={{ color: node.color === 'dark' ? 'black' : 'white' }} className="header">
           {node.header}
         </p>
-        <p className="content">
+        <p style={{ color: node.color === 'dark' ? 'black' : 'white' }} className="content">
           {node.content}
         </p>
         <button type="button" className="button">
