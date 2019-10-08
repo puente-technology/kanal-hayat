@@ -32,5 +32,27 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=YF9390ihfU4&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=2&t=0s
       viewCount: '1068'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri (2.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M3S
+      id: L1UFKZjfGkQ
+      imageURL: 'https://i.ytimg.com/vi/L1UFKZjfGkQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-12-13T10:59:44.000Z'
+      tags: >-
+        yolun,dostu,olmak,kelam,kutsal,kitap,incil,öğrenci,talebe,adem,hz.,dönüşmek,suret,yaratılış,sohbet,mana
+      title: Mânâ Sohbetleri - Yol'un Dostu Olmak
+      url: >-
+        https://www.youtube.com/watch?v=L1UFKZjfGkQ&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=3&t=0s
+      viewCount: '411'
 ---
 
