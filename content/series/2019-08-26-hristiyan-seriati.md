@@ -618,5 +618,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=suxtSdZYaBs&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=11&t=0s
       viewCount: '154'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Işıkta Yürüyün (1) - Dürüstlük Konusu
+
+        66 - Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
+        Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını Kanal Hayat ekranından ve youtube sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M57S
+      id: ef0TL5uGcvc
+      imageURL: 'https://i.ytimg.com/vi/ef0TL5uGcvc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-14T09:04:13.000Z'
+      tags: 'ışıkta,yürüyün,dürüstlük,konusu,şeriat'
+      title: Hristiyan Şeriatı - Işıkta Yürüyün (1) Dürüstlük Konusu
+      url: >-
+        https://www.youtube.com/watch?v=ef0TL5uGcvc&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=12&t=0s
+      viewCount: '129'
 ---
 
