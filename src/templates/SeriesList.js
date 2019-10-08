@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from 'react'
 import { graphql } from 'gatsby'
 import LayoutComp from '../components/LayoutComp'
@@ -10,8 +11,15 @@ import SeriesList from '../components/SeriesList';
 
 // Export Default HomePage for front-end
 const SeriesListPage = (data) => {
+  const hostList = new Set()
   const hosts = data.data.hosts.edges
   let { edges } = data.data.allMarkdownRemark
+  hostList.add('Sunucu Ismi')
+  Object.entries(edges).forEach(([index, object]) => {
+    if (object.node.frontmatter.host) {
+      hostList.add(object.node.frontmatter.host)
+    }
+  })
   edges = {
     // title: edges[0].node && edges[0].node.frontmatter.title,
     ...edges.filter(x => x.node.fields.slug !== '/series/'),
@@ -19,7 +27,7 @@ const SeriesListPage = (data) => {
   }
   return (
     <LayoutComp>
-      <SeriesList data={edges} hosts={hosts} />
+      <SeriesList data={edges} hosts={hosts} hostList={[...hostList]} />
     </LayoutComp>
 
   )

@@ -14,6 +14,7 @@ class Dropdown extends Component {
     handleLanguageChange: PropTypes.any,
     handleTargetChange: PropTypes.any,
     handleSeasonChange: PropTypes.any,
+    handleHostChange: PropTypes.any,
     style: PropTypes.any,
   };
 
@@ -63,7 +64,12 @@ class Dropdown extends Component {
   };
 
   chooseItem = (value) => {
-    const { handleLanguageChange, handleTargetChange, handleSeasonChange } = this.props
+    const {
+      handleLanguageChange,
+      handleTargetChange,
+      handleSeasonChange,
+      handleHostChange,
+    } = this.props
     const { labelItem } = this.state
     if (labelItem !== value) {
       if (handleLanguageChange) {
@@ -72,6 +78,8 @@ class Dropdown extends Component {
         handleTargetChange(value)
       } else if (handleSeasonChange) {
         handleSeasonChange(value)
+      } else if (handleHostChange) {
+        handleHostChange(value)
       }
       this.setState({
         labelItem: value,

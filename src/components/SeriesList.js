@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
@@ -40,6 +41,18 @@ class SeriesList extends Component {
     if (value !== 'Dil') {
       res = listSeries
         .filter(d => d.node.frontmatter.language === valueType)
+    }
+    this.setState({ listSeries: res })
+  }
+
+  handleHostChange = (value) => {
+    let { listSeries } = this.state;
+    const { data } = this.props;
+    listSeries = this.dataIntoArray(data)
+    let res = listSeries;
+    if (value !== 'Sunucu Ismi') {
+      res = listSeries
+        .filter(d => d.node.frontmatter.host === value)
     }
     this.setState({ listSeries: res })
   }
@@ -169,7 +182,7 @@ class SeriesList extends Component {
       scrollLeftMax,
       scrollLeftPosition,
     } = this.state;
-    const { hosts } = this.props
+    const { hosts, hostList } = this.props
     const renderSeries = []
     for (let i = 0; i < listSeries.length; i += 1) {
       const { frontmatter, fields } = listSeries[i].node
@@ -269,10 +282,11 @@ class SeriesList extends Component {
         </div>
 
         <div className="SeriesListSortAndFilter">
-          <button value="title" onClick={this.handleSortByClick} type="button" className="SortButton">İsim</button>
+          <button value="title" onClick={this.handleSortByClick} type="button" className="SortButton">Program İsmi</button>
           <button value="date" onClick={this.handleSortByDateClick} type="button" className="SortButton">Tarih</button>
           <Dropdown handleLanguageChange={this.handleLanguageChange} list={['Dil', 'Turkce', 'English']} />
           <Dropdown handleTargetChange={this.handleTargetChange} list={['Hedef Kitle', 'Herkes', 'Çocuk', 'Genç', 'Yetişkin']} />
+          <Dropdown handleHostChange={this.handleHostChange} list={hostList} />
           <input onChange={this.handleTextChange} className="Nav--Search filter" type="text" />
         </div>
         <div className="SeriesContainer">
@@ -288,6 +302,7 @@ class SeriesList extends Component {
 SeriesList.propTypes = {
   data: PropTypes.any,
   hosts: PropTypes.any,
+  hostList: PropTypes.any,
 }
 
 export default connect(state => ({
