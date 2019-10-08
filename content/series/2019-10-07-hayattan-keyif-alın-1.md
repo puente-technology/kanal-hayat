@@ -578,5 +578,18 @@ episodes:
       title: Hayattan Keyif Alın - Geçmişi Geçmişte Bırakmak - 1
       url: 'https://youtu.be/3zlw_J6SnPo'
       viewCount: '229'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: Joyce Meyer Türkçe - 1141/3
+      duration: PT25M5S
+      id: w2oZD_mQ1zw
+      imageURL: 'https://i.ytimg.com/vi/w2oZD_mQ1zw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-04-02T08:35:34.000Z'
+      tags: 'inanma,ihtimaliniz,olan,yalanlar'
+      title: İnanma İhtimaliniz Olan Yalanlar - 1
+      url: 'https://youtu.be/w2oZD_mQ1zw'
+      viewCount: '244'
 ---
 
