@@ -443,5 +443,32 @@ episodes:
       title: Hayattan Keyif Alın - İyi Bir Davranış Şekline Sahip Olma Yolları 2
       url: 'https://youtu.be/DOfF2GbvKM0'
       viewCount: '114'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: >-
+        1112 3 Zamanımızı Tanrı'ya Göre Ayarlamak - 1
+
+        Joyce Meyer'in birbirinden farklı konular hakkındaki programlarını Kanal
+        Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen
+        kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT23M47S
+      id: zsoxWUzwDjI
+      imageURL: 'https://i.ytimg.com/vi/zsoxWUzwDjI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-23T05:48:45.000Z'
+      tags: 'zamanı,tanrıya,göre,ayarlamak,hayattan,keyif,alın'
+      title: Hayattan Keyif Alın - Zamanımızı Tanrı'ya Göre Ayarlamak - 1
+      url: >-
+        https://www.youtube.com/watch?v=zsoxWUzwDjI&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=27&t=0s
+      viewCount: '261'
 ---
 
