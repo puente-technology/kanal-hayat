@@ -51,7 +51,7 @@ const FriendSiteBanner = (edge) => {
         <p style={{ color: node.color === 'dark' ? 'black' : 'white' }} className="content">
           {node.content}
         </p>
-        <button type="button" className="button">
+        <button type="button" className="button-fr">
           {node.buttonText}
         </button>
       </div>

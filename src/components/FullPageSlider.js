@@ -129,7 +129,14 @@ export default class FullPageSlider extends Component {
             {
               gallery.map((g, i) => (
                 <div id="slide" key={i} className="slide" data-slide-id={i}>
-                  <Nav key={i} color={g.color} dispatch={dispatch} hosts={hosts} nav={openNav} openNav={this.handleOpenNav} />
+                  <Nav
+                    key={i}
+                    color={g.color}
+                    dispatch={dispatch}
+                    hosts={hosts}
+                    nav={openNav}
+                    openNav={this.handleOpenNav}
+                  />
                   <img className="slide__img" src={g.image} alt={g.alt} />
                   <div className={`slide__caption ${g.color} ${g.align}`}>
                     <span className="slide__caption--program">
