@@ -497,5 +497,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=22tBR9xVlrg&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=30&t=0s
       viewCount: '381'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: (1132-2)
+      duration: PT25M4S
+      id: iNDcAa_pIAs
+      imageURL: 'https://i.ytimg.com/vi/iNDcAa_pIAs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-02T05:01:43.000Z'
+      tags: 'ihtiyaç,olan,herşeye,sahipsiniz'
+      title: İhtiyacınız Olan Şeye Sahipsiniz - 2
+      url: 'https://youtu.be/iNDcAa_pIAs'
+      viewCount: '1272'
 ---
 
