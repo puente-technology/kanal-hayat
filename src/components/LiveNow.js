@@ -1,5 +1,7 @@
+/* eslint-disable array-callback-return */
 /* eslint-disable react/jsx-no-bind */
 import React from 'react';
+import moment from 'moment'
 import PropTypes from 'prop-types';
 
 import { StaticQuery, graphql } from 'gatsby'
@@ -26,11 +28,40 @@ export default () => (
           }
         }
       }
+      mdfiles :  allMarkdownRemark(filter: {fields: {contentType: {regex: "/yayin/"}}}) {
+        edges {
+          node {
+            frontmatter {
+              title
+            eventList {
+              title
+              subtitle
+              time {
+                days
+                startTime
+                endTime
+              }
+            }
+            }
+          }
+        }
+      }
     }
     `}
-    render={data => (
-      <LiveNowC eventList={data.allMarkdownRemark.nodes[0].frontmatter.eventList} />
-    )}
+    render={(data) => {
+      let eventData
+      data.mdfiles.edges.map((obj) => {
+        const time = moment(obj.node.frontmatter.title, 'YYYY MM DD')
+        if (moment(time).isSame(moment().format('YYYY MM DD'), 'week')) {
+          eventData = obj.node.frontmatter.eventList
+        }
+      })
+      return (
+        <LiveNowC eventList={eventData} />
+
+      )
+    }
+  }
   />
 )
 

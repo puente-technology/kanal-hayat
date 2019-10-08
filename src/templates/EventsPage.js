@@ -43,15 +43,15 @@ query Events($id: String!, $locale: String) {
   page: markdownRemark(id: { eq: $id }, frontmatter: { locale: { eq: $locale }}) {
     frontmatter {
       title
-      eventList {
-        title
-        subtitle
-        time {
-          days
-          startTime
-          endTime
-        }
+    eventList {
+      title
+      subtitle
+      time {
+        days
+        startTime
+        endTime
       }
+    }
     }
   }
   mdfiles :  allMarkdownRemark(filter: {fields: {contentType: {regex: "/yayin/"}}}) {
