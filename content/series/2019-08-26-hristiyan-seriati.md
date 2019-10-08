@@ -646,5 +646,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ef0TL5uGcvc&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=12&t=0s
       viewCount: '129'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        65 - Eski ve Yeni Yaşam
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M4S
+      id: CN09ddTiDVA
+      imageURL: 'https://i.ytimg.com/vi/CN09ddTiDVA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-12T06:59:14.000Z'
+      tags: '#eski #yaşam #yeni #rab #ışık #lutüf #kilise'
+      title: Hristiyan Şeriatı - Eski ve Yeni Yaşam
+      url: >-
+        https://www.youtube.com/watch?v=CN09ddTiDVA&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=13&t=0s
+      viewCount: '94'
 ---
 
