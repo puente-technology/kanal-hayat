@@ -870,5 +870,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Y6z9MoL6cEA&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=20&t=0s
       viewCount: '411'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        57 - Ölümden Yaşama Geçmek
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M10S
+      id: OCtSTSgpago
+      imageURL: 'https://i.ytimg.com/vi/OCtSTSgpago/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-05T07:33:04.000Z'
+      tags: >-
+        #ölümden,#yaşama,#geçmek,#hristiyan,#şeriatı,#kudüs,#müslüman,#ahlak,#isa,#mesih
+      title: Hristiyanlık Şeriatı - Ölümden Yaşama Geçmek
+      url: >-
+        https://www.youtube.com/watch?v=OCtSTSgpago&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=21&t=0s
+      viewCount: '365'
 ---
 
