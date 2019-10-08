@@ -49,7 +49,7 @@ CMS.registerPreviewTemplate('contact-us', ({ entry }) => {
   <ContactUsTemplate {...entry.toJS().data }/>
 )})
 
-CMS.registerPreviewTemplate('event-page', ({ entry }) => {
+CMS.registerPreviewTemplate('yayin-akisi', ({ entry }) => {
   return (
   <EventsTemplate {...entry.toJS().data }/>
 )})
