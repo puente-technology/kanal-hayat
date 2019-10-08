@@ -247,20 +247,20 @@ collections:
                     widget: select
                     options: ["Çocuk",  "Genç", "Yetişkin", "Herkes"]
 
-  - name: 'info-page'
-    label: 'Bilgi Edin'
-    delete: false
-    editor:
-      preview: true
-    files:
-      - file: 'content/pages/info-page.md'
-        label: 'Bilgi Edin'
-        name: 'info-page'
-        fields:
-          - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
-          - { label: Template, name: template, widget: hidden}
-          - { label: Slug, name: slug, widget: hidden, default: '' }
-          - { label: Title, name: title, widget: string }
+  # - name: 'info-page'
+  #   label: 'Bilgi Edin'
+  #   delete: false
+  #   editor:
+  #     preview: true
+  #   files:
+  #     - file: 'content/pages/info-page.md'
+  #       label: 'Bilgi Edin'
+  #       name: 'info-page'
+  #       fields:
+  #         - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
+  #         - { label: Template, name: template, widget: hidden}
+  #         - { label: Slug, name: slug, widget: hidden, default: '' }
+  #         - { label: Title, name: title, widget: string }
 
 
   - name: 'series-page'
