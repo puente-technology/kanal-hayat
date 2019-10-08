@@ -159,5 +159,26 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=cdH__WEPmUQ&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=8&t=0s
       viewCount: '574'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri (8.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M30S
+      id: iDK86NBDXGQ
+      imageURL: 'https://i.ytimg.com/vi/iDK86NBDXGQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T14:46:10.000Z'
+      tags: 'mesih,Talebesinin,nasıl?,olmalı'
+      title: Mânâ Sohbetleri - Mesih Talebesinin Yaşamı
+      url: >-
+        https://www.youtube.com/watch?v=iDK86NBDXGQ&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=9&t=0s
+      viewCount: '596'
 ---
 
