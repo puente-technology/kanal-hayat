@@ -523,5 +523,35 @@ episodes:
       title: Kendinden Emin Davranmak
       url: 'https://youtu.be/SIFtkXXECsc'
       viewCount: '2671'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: >-
+        Tanrı'nın Sözlerini Kendi Sözlerimiz Haline Getirmek - 2
+
+        Hayatan Keyif Alın, Joyce Meyer programlarını sayfamızdan takip
+        edebilirsiniz.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT23M50S
+      id: ZRmJP8je89A
+      imageURL: 'https://i.ytimg.com/vi/ZRmJP8je89A/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-04-09T11:48:43.000Z'
+      tags: >-
+        hayattan,keyif,alın,geçmişi,geçmişte,bırakmak,kanal
+        hayat,kendi,sözleriniz,haline,getirmek
+      title: >-
+        Hayattan Keyif Alın - Tanrı'nın Sözlerini Kendi Sözlerimiz Haline
+        Getirmek - 2
+      url: >-
+        https://www.youtube.com/watch?v=ZRmJP8je89A&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=38&t=0s
+      viewCount: '253'
 ---
 
