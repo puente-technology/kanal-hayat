@@ -201,5 +201,26 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=JZin5WgeZOg&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=10&t=0s
       viewCount: '319'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri (10.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M9S
+      id: ysWW7m1Hs7Y
+      imageURL: 'https://i.ytimg.com/vi/ysWW7m1Hs7Y/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T14:48:12.000Z'
+      tags: 'sorumluluğa,seçkinlik,incil,müslüman,kuran'
+      title: Mânâ Sohbetleri - Sorumluluğa Seçkinlik
+      url: >-
+        https://www.youtube.com/watch?v=ysWW7m1Hs7Y&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=11&t=0s
+      viewCount: '173'
 ---
 
