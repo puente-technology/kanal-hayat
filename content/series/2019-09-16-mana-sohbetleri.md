@@ -411,5 +411,26 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=E1dwKfsdPZ0&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=20&t=0s
       viewCount: '65'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri (20.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M26S
+      id: ZaODod0NedA
+      imageURL: 'https://i.ytimg.com/vi/ZaODod0NedA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-24T07:32:52.000Z'
+      tags: 'mesih,talebesinin,tamlığı'
+      title: Mânâ Sohbetleri  - Mesih Talebesinin Tamlığı
+      url: >-
+        https://www.youtube.com/watch?v=ZaODod0NedA&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=21&t=0s
+      viewCount: '58'
 ---
 
