@@ -366,5 +366,18 @@ episodes:
       title: Bilinçli Şekilde Söylememiz Gereken 6 Şey  (II)
       url: 'https://youtu.be/68IJ-OYQskw'
       viewCount: '42'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: ''
+      duration: PT24M34S
+      id: wQDreLqXwLc
+      imageURL: 'https://i.ytimg.com/vi/wQDreLqXwLc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-23T06:45:59.000Z'
+      tags: 'cesurca,yaşamak'
+      title: 1096 1 Cesurca Yaşamak 1
+      url: 'https://youtu.be/wQDreLqXwLc'
+      viewCount: '142'
 ---
 
