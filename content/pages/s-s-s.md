@@ -1,7 +1,7 @@
 ---
 locale: en
 template: SSS
-title: S. S. S.
+title: SSS Page
 questions:
   - answer: >-
       1 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
