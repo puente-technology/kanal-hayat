@@ -28,5 +28,19 @@ episodes:
       title: '1.Bölüm - İbrahim:  Tanrı''nın Dostu Ol'
       url: 'https://youtu.be/58Ndv7cP514'
       viewCount: '1379'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT21M43S
+      id: lrTsAcRLBtY
+      imageURL: 'https://i.ytimg.com/vi/lrTsAcRLBtY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-03T12:51:21.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: '2.Bölüm - Nuh: İtaat Et ve Kurtul'
+      url: 'https://youtu.be/lrTsAcRLBtY'
+      viewCount: '468'
 ---
 
