@@ -470,5 +470,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=zsoxWUzwDjI&list=PLQfi14V3hH0J8h4MaeuvmsVFhWzWw2GsS&index=27&t=0s
       viewCount: '261'
+  - guests: ''
+    season: '4'
+    youtubeURL:
+      description: ''
+      duration: PT24M45S
+      id: RVv8ciNlAyM
+      imageURL: 'https://i.ytimg.com/vi/RVv8ciNlAyM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-05-07T12:23:07.000Z'
+      tags: 'tanrı,yolu,ve,engeller'
+      title: 1115 3 Tanrı Yolunda Gitmemize Engel Olan Şeyler - 1
+      url: 'https://youtu.be/RVv8ciNlAyM'
+      viewCount: '485'
 ---
 
