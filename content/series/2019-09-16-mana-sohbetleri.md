@@ -306,5 +306,26 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Q2SOjIQIL_s&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=15&t=0s
       viewCount: '135'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri (15.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT27M47S
+      id: Hr2-fsJSH9U
+      imageURL: 'https://i.ytimg.com/vi/Hr2-fsJSH9U/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T09:33:15.000Z'
+      tags: 'egemenlik,için,yol,anahtarları'
+      title: Mânâ Sohbetleri - Egemenlik İçin Yol Anahtarları
+      url: >-
+        https://www.youtube.com/watch?v=Hr2-fsJSH9U&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=16&t=0s
+      viewCount: '175'
 ---
 
