@@ -102,5 +102,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=K9Ri_eIMSTI&list=PLE83C0A7125F2824D&index=7&t=0s
       viewCount: '176'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT22M53S
+      id: iFZQXngRMu4
+      imageURL: 'https://i.ytimg.com/vi/iFZQXngRMu4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T17:11:29.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: '7.Bölüm, İlyas: Tanrı Her İhtiyacını Karşılar'
+      url: >-
+        https://www.youtube.com/watch?v=iFZQXngRMu4&list=PLE83C0A7125F2824D&index=8&t=0s
+      viewCount: '217'
 ---
 
