@@ -348,5 +348,26 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=syghHVx6WE4&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=17&t=0s
       viewCount: '147'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
+        Mânâ Sohbetleri (17.Bölüm)
+        Rev. Dr. Turgay Üçal
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M26S
+      id: wbR-Kb2Ek_k
+      imageURL: 'https://i.ytimg.com/vi/wbR-Kb2Ek_k/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-24T07:32:54.000Z'
+      tags: 'tuz,ve,ışık,olmak,isa,mesih'
+      title: Mânâ Sohbetleri - Tuz ve Işık Olmak
+      url: >-
+        https://www.youtube.com/watch?v=wbR-Kb2Ek_k&list=PLQfi14V3hH0KFy_QK4dY0Y3MeCLNZKvXa&index=18&t=0s
+      viewCount: '134'
 ---
 
