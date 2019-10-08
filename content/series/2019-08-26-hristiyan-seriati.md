@@ -507,5 +507,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=1fKeWYNyF9g&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=8&t=0s
       viewCount: '132'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        69 - Evlilik I
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan Şeriatı"
+        programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M32S
+      id: iM0UxRicoPo
+      imageURL: 'https://i.ytimg.com/vi/iM0UxRicoPo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-19T07:23:05.000Z'
+      tags: '#evlilik #aile #yaşamı #mutluluk #hristiyanlık #efesliler'
+      title: Hristiyan Şeriatı - Evlilik I
+      url: >-
+        https://www.youtube.com/watch?v=iM0UxRicoPo&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_&index=9&t=0s
+      viewCount: '114'
 ---
 
