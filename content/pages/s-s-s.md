@@ -576,6 +576,34 @@ questions:
           title: 11. Bölüm Kutsal Ruh'a Nasıl Sahip Olabiliriz?
           url: 'https://www.youtube.com/watch?v=kFqoAbWGToo'
           viewCount: '6633'
+      - guests: .
+        host: Can Nuroğlu ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            2- Kutsal Ruh’un Gelişi
+
+            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
+            Doğuşu" programını sayfamızdan takip edebilirsiniz. 
+
+            Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M35S
+          id: nm--RNjJkyQ
+          imageURL: 'https://i.ytimg.com/vi/nm--RNjJkyQ/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2016-01-19T07:58:37.000Z'
+          tags: 'kutsal,ruhun,etkin,oluşu,gelişi'
+          title: Kilisenin Doğuşu - Kutsal Ruh’un Gelişi 2.Bölüm
+          url: 'https://www.youtube.com/watch?v=nm--RNjJkyQ'
+          viewCount: '3645'
   - answer: >-
       8 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
