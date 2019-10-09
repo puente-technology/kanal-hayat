@@ -1,12 +1,20 @@
 ---
 locale: en
 template: SSS
-slug: 's-s-s'
 title: S. S. S.
 questions:
   - answer: >-
-      1 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
+      İsa Mesih’i özel kılan tam olarak nedir? İncil’de İsa Mesih hangi
+      kimliklere sahiptir?  Kutsal Kitap’ta okuduğumuz İsa Mesih’in kimliğini
+      oluşturan bazı unsurlar vardır. Bunlar temel olarak beş tanedir: Mesih,
+      Rab, Tanrı Oğlu, İnsan Oğlu ve Tanrı.Mesih İbranice’den gelmiş bir
+      kelimedir ve anlamı, “meshedilmiş olan”dır. Tanrı tarafından atanması ve
+      bereketlenmesi eylemidir.  Yahudiler, Davut soyundan gelecek olan Mesih’in
+      kendilerini Roma İmparatorluğu’nun baskı ve zulmünden kurtarıp Davut
+      zamanındaki görkemli, altın çağlarına kavuşturacak bir Kral, bir Mesih
+      bekliyorlardı. Ancak Mesih’in görevi sadece İsrail’i, Yahudileri kurtarmak
+      değil; tüm insanlığı günahın baskısı ve zulmünden kurtarıp Tanrı’yla
+      barıştırmaktı. 
     question: İsa Mesih Kimdir?
     videos:
       - guests: .
@@ -430,9 +438,21 @@ questions:
           url: 'https://www.youtube.com/watch?v=j3L3xbl_1M0'
           viewCount: '84'
   - answer: >-
-      6 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Hristiyanlıkta Nasıl Dua Edilir?
+      Dua Tanrı'yı hayatımıza çağırmak ve O’nunla konuşmaktır.O'na ihtiyacımızın
+      olduğunu bildirmektir.Tanrı isteklerimizde ciddi ve istekli olmamızı
+      isterken O’na boyun eğerek huzuruna çıkarız. “Senin istediğin olsun”
+      dileğini imanımızın eksikliğinden söylemiyoruz. Tanrı’nın dualarımızı
+      işitebileceğine ve dualarımıza cevap vereceğine iman ediyoruz. Yine de,
+      her duamız cevaplanmasa da, bu konuda imanla Tanrı’nın hikmetine
+      güveniyoruz. Her dileğimizi Tanrı’nın isteğine göre dilememiz gerektiğini
+      biliyoruz. O’nunla zaman geçirmeliyiz. Bize söylemek istediklerini
+      dinlemeyi öğrenmeliyiz. Bütün varlığı yaratan ve onlarla irtibata geçmek
+      için kendini açıklamış olan Tanrı’yla ruhsal bir cevaptır dua. Duanın
+      kapsamı yalnızca Tanrı’yla konuşmayı içermemektedir. Tanrı’yı çağırmak ve
+      O’nunla dertleşmek, sonra O’ndan ruhsal anlamda cevaplar beklemek, hiçbir
+      söz söylemeden, yürek derinliğinden O’nu yüceltmek O’na tapınmak ve bütün
+      gereksinimlerimizi O’ndan istemektir.
+    question: Hristiyanlık'ta Nasıl Dua Edilir?
     videos:
       - guests: .
         host: Memduh Uysal ile
