@@ -832,6 +832,31 @@ questions:
           title: 2-Misyonerler ve Hristiyanların Çıkardığı Savaşlar
           url: 'https://www.youtube.com/watch?v=5OaUWWmnzSQ'
           viewCount: '6066'
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            15. Bölüm: Haçlı Seferleri Ve Misyonerlik Nedir?
+
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
+
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+            Esen Kalın.
+          duration: PT25M1S
+          id: L-ISg7R_coY
+          imageURL: 'https://i.ytimg.com/vi/L-ISg7R_coY/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-12-06T07:57:14.000Z'
+          tags: >-
+            hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa mesih,mesih,Rab,Allah,Turkey,Istanbul,Asker
+          title: '15. Bölüm: Haçlı Seferleri Ve Misyonerlik Nedir?'
+          url: 'https://www.youtube.com/watch?v=L-ISg7R_coY'
+          viewCount: '2129'
   - answer: >-
       11 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
