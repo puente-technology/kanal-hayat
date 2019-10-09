@@ -562,6 +562,20 @@ questions:
           title: 95-Gerçeğin Sesi - Kutsal Ruh Nedir?
           url: 'https://www.youtube.com/watch?v=bFT81Dw_bnc'
           viewCount: '2558'
+      - guests: .
+        host: Işık Abla ve Memduh Uysal ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT29M25S
+          id: kFqoAbWGToo
+          imageURL: 'https://i.ytimg.com/vi/kFqoAbWGToo/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-07-11T08:23:33.000Z'
+          tags: kutsal ruh
+          title: 11. Bölüm Kutsal Ruh'a Nasıl Sahip Olabiliriz?
+          url: 'https://www.youtube.com/watch?v=kFqoAbWGToo'
+          viewCount: '6633'
   - answer: >-
       8 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
