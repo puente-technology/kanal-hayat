@@ -531,24 +531,28 @@ questions:
           url: 'https://www.youtube.com/watch?v=WxBiFjMSpDg'
           viewCount: '492'
   - answer: >-
-      7 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
+      Hristiyanlar tek Tanrı’ya inanırlar, ama tek olan Tanrı’nın; Baba, Oğul ve
+      Kutsal Ruh’u içerdiğine inanırlar.Tabi ki Tanrı'nın mübarek Ruhu'nu her
+      şeyin başında, Yaratılış’ın ilk paragrafında görebiliriz. Yaratılış 2’de,
+      “Yer boştu, yeryüzü şekilleri yoktu; engin karanlıklarla kaplıydı.
+      Tanrı’nın Ruhu suların üzerinde hareket ediyordu.” diye yazılmıştır. İşte
+      Kutsal Ruh; bu kaosun, boşluğun, biçimsizliğin içinden yaşam, düzen ve
+      güzellik yaratan Tanrı’nın Ruhu’dur.Kutsal Ruh değiştirir.Pentikost’ta
+      Ruh’un döküldüğü bu küçük grup kimlerden oluşmuştu? Bu kişiler İsa Mesih
+      hayattayken O’nun öğrencileriydi. Öğrencilerinin büyük bölümü İsa Mesih
+      yargılanıp çarmıha gerildiğinde korkudan kaçışmışlardı. Şimdi oradaki
+      insanlar bu küçük grubun, Ruh’un gücüyle dolup taştıklarını
+      görüyorlardı.Bundan yaklaşık 50 gün önce İsa Mesih’i inkar ettiği için
+      pişmanlık, hayal kırıklığı ve umutsuzlukla dizlerinin üzerinde hıçkıra
+      hıçkıra ağlayan Petrus; şimdi iman, cesaret ve güçle ayakları üzerine
+      durup aralarında muhtemelen İsa Mesih’i çarmıha gerenlerin ya da çarmıha
+      gerilmesini isteyenlerin de bulunduğu bir gruba,İncil Elçilerin İşleri
+      2.Bölüm. “Tanrı, sizin çarmıha gerdiğiniz İsa’yı hem Rab hem Mesih
+      yapmıştır. Tövbe edin, her biriniz İsa Mesih’in adıyla vaftiz olsun.
+      Böylece günahlarınız bağışlanacak ve Kutsal Ruh armağanını alacaksınız.”
+      diyor.
     question: Kutsal Ruh Nedir?
     videos:
-      - guests: .
-        host: Işık Abla ve Memduh Uysal ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ''
-          duration: PT29M25S
-          id: kFqoAbWGToo
-          imageURL: 'https://i.ytimg.com/vi/kFqoAbWGToo/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2013-07-11T08:23:33.000Z'
-          tags: kutsal ruh
-          title: 11. Bölüm Kutsal Ruh'a Nasıl Sahip Olabiliriz?
-          url: 'https://www.youtube.com/watch?v=kFqoAbWGToo'
-          viewCount: '6633'
       - guests: .
         host: Hakan Taştan ile
         targetGroup: Herkes
@@ -604,6 +608,20 @@ questions:
           title: Kilisenin Doğuşu - Kutsal Ruh’un Gelişi 2.Bölüm
           url: 'https://www.youtube.com/watch?v=nm--RNjJkyQ'
           viewCount: '3645'
+      - guests: .
+        host: Işık Abla ve Memduh Uysal ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT29M25S
+          id: kFqoAbWGToo
+          imageURL: 'https://i.ytimg.com/vi/kFqoAbWGToo/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-07-11T08:23:33.000Z'
+          tags: kutsal ruh
+          title: 11. Bölüm Kutsal Ruh'a Nasıl Sahip Olabiliriz?
+          url: 'https://www.youtube.com/watch?v=kFqoAbWGToo'
+          viewCount: '6633'
   - answer: >-
       8 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
