@@ -753,6 +753,34 @@ questions:
           title: Hristiyan Şeriatı - İznik konseyi
           url: 'https://www.youtube.com/watch?v=kRDaYpaDEsE'
           viewCount: '264'
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            7. Bölüm: Barnaba İncili Nedir ve İznik Konseyinde Neler Oldu?
+
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
+
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+            Esen Kalın.
+          duration: PT28M
+          id: XF31_gse7_M
+          imageURL: 'https://i.ytimg.com/vi/XF31_gse7_M/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-11-12T08:14:30.000Z'
+          tags: >-
+            hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa
+            mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+            stanley,joyce meyer,ışık abla,güçlü
+            erman,protestan,protestanlar,Barnaba,Kanal Hayat
+          title: '7. Bölüm: Barnaba İncili Nedir ve İznik Konseyinde Neler Oldu?'
+          url: 'https://www.youtube.com/watch?v=XF31_gse7_M'
+          viewCount: '9020'
   - answer: >-
       10 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
