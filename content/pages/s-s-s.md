@@ -1,12 +1,20 @@
 ---
 locale: en
 template: SSS
-slug: 's-s-s'
 title: S. S. S.
 questions:
   - answer: >-
-      1 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
+      İsa Mesih’i özel kılan tam olarak nedir? İncil’de İsa Mesih hangi
+      kimliklere sahiptir?  Kutsal Kitap’ta okuduğumuz İsa Mesih’in kimliğini
+      oluşturan bazı unsurlar vardır. Bunlar temel olarak beş tanedir: Mesih,
+      Rab, Tanrı Oğlu, İnsan Oğlu ve Tanrı.Mesih İbranice’den gelmiş bir
+      kelimedir ve anlamı, “meshedilmiş olan”dır. Tanrı tarafından atanması ve
+      bereketlenmesi eylemidir.  Yahudiler, Davut soyundan gelecek olan Mesih’in
+      kendilerini Roma İmparatorluğu’nun baskı ve zulmünden kurtarıp Davut
+      zamanındaki görkemli, altın çağlarına kavuşturacak bir Kral, bir Mesih
+      bekliyorlardı. Ancak Mesih’in görevi sadece İsrail’i, Yahudileri kurtarmak
+      değil; tüm insanlığı günahın baskısı ve zulmünden kurtarıp Tanrı’yla
+      barıştırmaktı. 
     question: İsa Mesih Kimdir?
     videos:
       - guests: .
@@ -352,6 +360,98 @@ questions:
           url: 'https://www.youtube.com/watch?v=3vZ5m_brbLM'
           viewCount: '8688'
   - answer: >-
+      Hristiyanlar tek Tanrı’ya inanırlar, ama tek olan Tanrı’nın; Baba, Oğul ve
+      Kutsal Ruh’u içerdiğine inanırlar.Tabi ki Tanrı'nın mübarek Ruhu'nu her
+      şeyin başında, Yaratılış’ın ilk paragrafında görebiliriz. Yaratılış 2’de,
+      “Yer boştu, yeryüzü şekilleri yoktu; engin karanlıklarla kaplıydı.
+      Tanrı’nın Ruhu suların üzerinde hareket ediyordu.” diye yazılmıştır. İşte
+      Kutsal Ruh; bu kaosun, boşluğun, biçimsizliğin içinden yaşam, düzen ve
+      güzellik yaratan Tanrı’nın Ruhu’dur.Kutsal Ruh değiştirir.Pentikost’ta
+      Ruh’un döküldüğü bu küçük grup kimlerden oluşmuştu? Bu kişiler İsa Mesih
+      hayattayken O’nun öğrencileriydi. Öğrencilerinin büyük bölümü İsa Mesih
+      yargılanıp çarmıha gerildiğinde korkudan kaçışmışlardı. Şimdi oradaki
+      insanlar bu küçük grubun, Ruh’un gücüyle dolup taştıklarını
+      görüyorlardı.Bundan yaklaşık 50 gün önce İsa Mesih’i inkar ettiği için
+      pişmanlık, hayal kırıklığı ve umutsuzlukla dizlerinin üzerinde hıçkıra
+      hıçkıra ağlayan Petrus; şimdi iman, cesaret ve güçle ayakları üzerine
+      durup aralarında muhtemelen İsa Mesih’i çarmıha gerenlerin ya da çarmıha
+      gerilmesini isteyenlerin de bulunduğu bir gruba,İncil Elçilerin İşleri
+      2.Bölüm. “Tanrı, sizin çarmıha gerdiğiniz İsa’yı hem Rab hem Mesih
+      yapmıştır. Tövbe edin, her biriniz İsa Mesih’in adıyla vaftiz olsun.
+      Böylece günahlarınız bağışlanacak ve Kutsal Ruh armağanını alacaksınız.”
+      diyor.
+    question: Kutsal Ruh Nedir?
+    videos:
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            95-Gerçeğin Sesi - Kutsal Ruh Nedir?  
+
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi "Gerçeğin Sesi" programını sayfamızdan takip
+            edebilirsiniz.Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT27M23S
+          id: bFT81Dw_bnc
+          imageURL: 'https://i.ytimg.com/vi/bFT81Dw_bnc/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2018-05-01T08:42:33.000Z'
+          tags: 'hristiyan,incil,kilise,#kutsal,#ruh'
+          title: 95-Gerçeğin Sesi - Kutsal Ruh Nedir?
+          url: 'https://www.youtube.com/watch?v=bFT81Dw_bnc'
+          viewCount: '2558'
+      - guests: .
+        host: Can Nuroğlu ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            2- Kutsal Ruh’un Gelişi
+
+            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
+            Doğuşu" programını sayfamızdan takip edebilirsiniz. 
+
+            Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M35S
+          id: nm--RNjJkyQ
+          imageURL: 'https://i.ytimg.com/vi/nm--RNjJkyQ/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2016-01-19T07:58:37.000Z'
+          tags: 'kutsal,ruhun,etkin,oluşu,gelişi'
+          title: Kilisenin Doğuşu - Kutsal Ruh’un Gelişi 2.Bölüm
+          url: 'https://www.youtube.com/watch?v=nm--RNjJkyQ'
+          viewCount: '3645'
+      - guests: .
+        host: Işık Abla ve Memduh Uysal ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT29M25S
+          id: kFqoAbWGToo
+          imageURL: 'https://i.ytimg.com/vi/kFqoAbWGToo/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-07-11T08:23:33.000Z'
+          tags: kutsal ruh
+          title: 11. Bölüm Kutsal Ruh'a Nasıl Sahip Olabiliriz?
+          url: 'https://www.youtube.com/watch?v=kFqoAbWGToo'
+          viewCount: '6633'
+  - answer: >-
       5 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Hristiyan Ahlakı ve İbadeti
@@ -430,9 +530,21 @@ questions:
           url: 'https://www.youtube.com/watch?v=j3L3xbl_1M0'
           viewCount: '84'
   - answer: >-
-      6 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Hristiyanlıkta Nasıl Dua Edilir?
+      Dua Tanrı'yı hayatımıza çağırmak ve O’nunla konuşmaktır.O'na ihtiyacımızın
+      olduğunu bildirmektir.Tanrı isteklerimizde ciddi ve istekli olmamızı
+      isterken O’na boyun eğerek huzuruna çıkarız. “Senin istediğin olsun”
+      dileğini imanımızın eksikliğinden söylemiyoruz. Tanrı’nın dualarımızı
+      işitebileceğine ve dualarımıza cevap vereceğine iman ediyoruz. Yine de,
+      her duamız cevaplanmasa da, bu konuda imanla Tanrı’nın hikmetine
+      güveniyoruz. Her dileğimizi Tanrı’nın isteğine göre dilememiz gerektiğini
+      biliyoruz. O’nunla zaman geçirmeliyiz. Bize söylemek istediklerini
+      dinlemeyi öğrenmeliyiz. Bütün varlığı yaratan ve onlarla irtibata geçmek
+      için kendini açıklamış olan Tanrı’yla ruhsal bir cevaptır dua. Duanın
+      kapsamı yalnızca Tanrı’yla konuşmayı içermemektedir. Tanrı’yı çağırmak ve
+      O’nunla dertleşmek, sonra O’ndan ruhsal anlamda cevaplar beklemek, hiçbir
+      söz söylemeden, yürek derinliğinden O’nu yüceltmek O’na tapınmak ve bütün
+      gereksinimlerimizi O’ndan istemektir.
+    question: Hristiyanlık'ta Nasıl Dua Edilir?
     videos:
       - guests: .
         host: Memduh Uysal ile
@@ -511,147 +623,273 @@ questions:
           url: 'https://www.youtube.com/watch?v=WxBiFjMSpDg'
           viewCount: '492'
   - answer: >-
-      7 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Bana karşı günah işleyenleri nasıl bağışlayabilirim?
+      Evlilik Kutsal Kitap Yaratılışı 2:23-24’de kaydedilmiştir: “Adem, ‘İşte,
+      bu benim kemiklerimden alınmış kemik, Etimden alınmış ettir’ dedi, ‘Ona
+      ‘Kadın denilecek, Çünkü o adamdan alındı.’ Bu nedenle adam annesini
+      babasını bırakıp karısına bağlanacak, ikisi tek beden olacak.” Tanrı
+      erkeği ve sonra da onu tamamlaması için kadını yarattı. Evlilik, “erkeğin
+      yalnız kalmasının iyi olmayışına” “çaresi”dir (Yaratılış 2:18).İncil 
+      Efesliler’deki ayetler Kutsal Kitap’a uygun başarılı bir evliliğe kaynak
+      olarak epey derindir. “Ey kadınlar, Rab’be bağımlı olduğunuz gibi,
+      kocalarınıza bağımlı olun. Çünkü Mesih bedenin kurtarıcısı olarak
+      kilisenin başı olduğu gibi, erkek de kadının başıdır” (Efesliler 5:22-23).
+      “Ey kocalar, Mesih kiliseyi nasıl sevip onun uğruna kendini feda ettiyse,
+      siz de karılarınızı öyle sevin” (Efesliler 5:25). “Aynı biçimde kocalar da
+      karılarını kendi bedenleri gibi sevmelidir. Karısını seven kendini sever.
+      Hiç kimse hiçbir zaman kendi bedeninden nefret etmemiştir. Tersine, onu
+      besler ve kayırır; tıpkı Mesih’in kiliseyi besleyip kayırdığı gibi”
+      (Efesliler 5:28-29). “Bunun için adam annesini babasını bırakıp karısına
+      bağlanacak, ikisi tek beden olacak” (Efesliler 5:31).
+    question: 'Hristiyanlıkta Evlilik '
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Ahmet Güvener ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            69 - Evlilik I
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
+            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan
+            Şeriatı" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
 
-            Connect with us on social! 
+            http://kanalhayat.tv/
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            http://www.youtube.com/kanalhayatplay
 
-            Twitter: http://Bit.ly/LakewoodTW
+            https://www.facebook.com/kanalhayat
 
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            https://twitter.com/kanalhayat
+          duration: PT27M32S
+          id: iM0UxRicoPo
+          imageURL: 'https://i.ytimg.com/vi/iM0UxRicoPo/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
-          tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
-  - answer: >-
-      8 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Kutsal Kitap Hristiyan orucu hakkında ne der?
-    videos:
-      - guests: Test
-        host: Test
+          publishedAt: '2019-09-19T07:23:05.000Z'
+          tags: '#evlilik #aile #yaşamı #mutluluk #hristiyanlık #efesliler'
+          title: Hristiyan Şeriatı - Evlilik I
+          url: 'https://www.youtube.com/watch?v=iM0UxRicoPo'
+          viewCount: '116'
+      - guests: .
+        host: Can Nuroğlu ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+            ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal
+            Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen
+            Kalın.
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            http://kanalhayat.tv/
 
-            Connect with us on social! 
+            http://www.youtube.com/kanalhayatplay
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            https://www.facebook.com/kanalhayat
 
-            Twitter: http://Bit.ly/LakewoodTW
-
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            https://twitter.com/kanalhayat
+          duration: PT27M37S
+          id: 2hcHDFYnWTA
+          imageURL: 'https://i.ytimg.com/vi/2hcHDFYnWTA/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
-          tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+          publishedAt: '2019-02-04T17:18:58.000Z'
+          tags: 'hristiyanlık,hristiyan,isa mesih,isa,evlilik'
+          title: Hristiyan Ahlakı - Hristiyanlık'ta Evlilik
+          url: 'https://www.youtube.com/watch?v=2hcHDFYnWTA'
+          viewCount: '1339'
+      - guests: .
+        host: Ali Kalkandelen ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Tek Beden Olmak 
+
+            Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik
+            hakkındaki sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M51S
+          id: t0eMqamzg04
+          imageURL: 'https://i.ytimg.com/vi/t0eMqamzg04/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2017-09-20T09:29:01.000Z'
+          tags: '#evlilik,#ilk,#adım,#mutlu,#aile,#iletişim,#tek,#beden,#olmak'
+          title: Tek Beden Olmak - 1
+          url: 'https://www.youtube.com/watch?v=t0eMqamzg04'
+          viewCount: '809'
   - answer: >-
       9 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: >-
-      Arkadaşlarıma ve aileme, onların alınmasına neden olmadan ve onları
-      kendimden uzaklaştırmadan nasıl müjdeleme yapabilirim?
+    question: 'İznik Konseyinde Neler oldu? '
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Ahmet Güvener ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            63 - İznik konseyi
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
+            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan
+            Şeriatı" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
 
-            Connect with us on social! 
+            http://kanalhayat.tv/
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            http://www.youtube.com/kanalhayatplay
 
-            Twitter: http://Bit.ly/LakewoodTW
+            https://www.facebook.com/kanalhayat
 
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            https://twitter.com/kanalhayat
+          duration: PT22M20S
+          id: kRDaYpaDEsE
+          imageURL: 'https://i.ytimg.com/vi/kRDaYpaDEsE/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
+          publishedAt: '2019-09-07T19:21:05.000Z'
+          tags: 'iznik,konseyi,şeriat'
+          title: Hristiyan Şeriatı - İznik konseyi
+          url: 'https://www.youtube.com/watch?v=kRDaYpaDEsE'
+          viewCount: '264'
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            7. Bölüm: Barnaba İncili Nedir ve İznik Konseyinde Neler Oldu?
+
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
+
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+            Esen Kalın.
+          duration: PT28M
+          id: XF31_gse7_M
+          imageURL: 'https://i.ytimg.com/vi/XF31_gse7_M/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-11-12T08:14:30.000Z'
           tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+            hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa
+            mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+            stanley,joyce meyer,ışık abla,güçlü
+            erman,protestan,protestanlar,Barnaba,Kanal Hayat
+          title: '7. Bölüm: Barnaba İncili Nedir ve İznik Konseyinde Neler Oldu?'
+          url: 'https://www.youtube.com/watch?v=XF31_gse7_M'
+          viewCount: '9020'
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: Hakan Taştan - Gerçeğin Sesi
+          duration: PT27M23S
+          id: WlqcAXZpo24
+          imageURL: 'https://i.ytimg.com/vi/WlqcAXZpo24/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2018-03-19T22:06:46.000Z'
+          tags: 'iznik,konsilinde,neler,yaşandı?,incil,sallama,olayının,perde,arkası'
+          title: >-
+            İznik Konsili'nde Neler Yaşandı? (İncil Sallama Olayının Perde
+            Arkası)  [99]
+          url: 'https://youtu.be/WlqcAXZpo24'
+          viewCount: '2009'
   - answer: >-
       10 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Dünyasal bir Hristiyan nasıl biridir?
+    question: Misyonerlerin Çıkardığı Savaşlar
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Can Nuroğlu ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            Hey Gavur! Anlatsana... 2-Misyonerler ve Hristiyanların Çıkardığı
+            Savaşlar
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur!
+            Anlatsana." programını sayfamızdan takip edebilirsiniz. 
 
-            Connect with us on social! 
+            Esen Kalın.
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            http://kanalhayat.tv/
 
-            Twitter: http://Bit.ly/LakewoodTW
+            http://www.youtube.com/kanalhayatplay
 
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M18S
+          id: 5OaUWWmnzSQ
+          imageURL: 'https://i.ytimg.com/vi/5OaUWWmnzSQ/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
+          publishedAt: '2013-02-10T18:58:28.000Z'
           tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+            isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+          title: 2-Misyonerler ve Hristiyanların Çıkardığı Savaşlar
+          url: 'https://www.youtube.com/watch?v=5OaUWWmnzSQ'
+          viewCount: '6066'
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            15. Bölüm: Haçlı Seferleri Ve Misyonerlik Nedir?
+
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
+
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+            Esen Kalın.
+          duration: PT25M1S
+          id: L-ISg7R_coY
+          imageURL: 'https://i.ytimg.com/vi/L-ISg7R_coY/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-12-06T07:57:14.000Z'
+          tags: >-
+            hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa mesih,mesih,Rab,Allah,Turkey,Istanbul,Asker
+          title: '15. Bölüm: Haçlı Seferleri Ve Misyonerlik Nedir?'
+          url: 'https://www.youtube.com/watch?v=L-ISg7R_coY'
+          viewCount: '2129'
+      - guests: .
+        host: Zekeriya Butrus ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize
+            sorduğumuz pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı
+            sayfamızdan takip edebilirsiniz.
+
+            Tanrı var mı ? 
+
+            Tanrı Oğlu Ne Demek?
+
+            Hristiyanlık Kavramı Nedir?
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT29M1S
+          id: eqx0ZkQeTDA
+          imageURL: 'https://i.ytimg.com/vi/eqx0ZkQeTDA/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2011-11-10T11:09:44.000Z'
+          tags: >-
+            Hristiyan,musevi,hz.isa,yahudi,hristiyanlik,barnabas
+            incili,ahiret,kiyamet,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+          title: 08. Bölüm (Hristiyanlığın Tanrı kavramı/Haçlı seferleri)
+          url: 'https://www.youtube.com/watch?v=eqx0ZkQeTDA'
+          viewCount: '1490'
   - answer: >-
       11 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
