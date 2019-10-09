@@ -360,6 +360,98 @@ questions:
           url: 'https://www.youtube.com/watch?v=3vZ5m_brbLM'
           viewCount: '8688'
   - answer: >-
+      Hristiyanlar tek Tanrı’ya inanırlar, ama tek olan Tanrı’nın; Baba, Oğul ve
+      Kutsal Ruh’u içerdiğine inanırlar.Tabi ki Tanrı'nın mübarek Ruhu'nu her
+      şeyin başında, Yaratılış’ın ilk paragrafında görebiliriz. Yaratılış 2’de,
+      “Yer boştu, yeryüzü şekilleri yoktu; engin karanlıklarla kaplıydı.
+      Tanrı’nın Ruhu suların üzerinde hareket ediyordu.” diye yazılmıştır. İşte
+      Kutsal Ruh; bu kaosun, boşluğun, biçimsizliğin içinden yaşam, düzen ve
+      güzellik yaratan Tanrı’nın Ruhu’dur.Kutsal Ruh değiştirir.Pentikost’ta
+      Ruh’un döküldüğü bu küçük grup kimlerden oluşmuştu? Bu kişiler İsa Mesih
+      hayattayken O’nun öğrencileriydi. Öğrencilerinin büyük bölümü İsa Mesih
+      yargılanıp çarmıha gerildiğinde korkudan kaçışmışlardı. Şimdi oradaki
+      insanlar bu küçük grubun, Ruh’un gücüyle dolup taştıklarını
+      görüyorlardı.Bundan yaklaşık 50 gün önce İsa Mesih’i inkar ettiği için
+      pişmanlık, hayal kırıklığı ve umutsuzlukla dizlerinin üzerinde hıçkıra
+      hıçkıra ağlayan Petrus; şimdi iman, cesaret ve güçle ayakları üzerine
+      durup aralarında muhtemelen İsa Mesih’i çarmıha gerenlerin ya da çarmıha
+      gerilmesini isteyenlerin de bulunduğu bir gruba,İncil Elçilerin İşleri
+      2.Bölüm. “Tanrı, sizin çarmıha gerdiğiniz İsa’yı hem Rab hem Mesih
+      yapmıştır. Tövbe edin, her biriniz İsa Mesih’in adıyla vaftiz olsun.
+      Böylece günahlarınız bağışlanacak ve Kutsal Ruh armağanını alacaksınız.”
+      diyor.
+    question: Kutsal Ruh Nedir?
+    videos:
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            95-Gerçeğin Sesi - Kutsal Ruh Nedir?  
+
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi "Gerçeğin Sesi" programını sayfamızdan takip
+            edebilirsiniz.Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT27M23S
+          id: bFT81Dw_bnc
+          imageURL: 'https://i.ytimg.com/vi/bFT81Dw_bnc/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2018-05-01T08:42:33.000Z'
+          tags: 'hristiyan,incil,kilise,#kutsal,#ruh'
+          title: 95-Gerçeğin Sesi - Kutsal Ruh Nedir?
+          url: 'https://www.youtube.com/watch?v=bFT81Dw_bnc'
+          viewCount: '2558'
+      - guests: .
+        host: Can Nuroğlu ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            2- Kutsal Ruh’un Gelişi
+
+            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
+            Doğuşu" programını sayfamızdan takip edebilirsiniz. 
+
+            Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M35S
+          id: nm--RNjJkyQ
+          imageURL: 'https://i.ytimg.com/vi/nm--RNjJkyQ/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2016-01-19T07:58:37.000Z'
+          tags: 'kutsal,ruhun,etkin,oluşu,gelişi'
+          title: Kilisenin Doğuşu - Kutsal Ruh’un Gelişi 2.Bölüm
+          url: 'https://www.youtube.com/watch?v=nm--RNjJkyQ'
+          viewCount: '3645'
+      - guests: .
+        host: Işık Abla ve Memduh Uysal ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT29M25S
+          id: kFqoAbWGToo
+          imageURL: 'https://i.ytimg.com/vi/kFqoAbWGToo/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-07-11T08:23:33.000Z'
+          tags: kutsal ruh
+          title: 11. Bölüm Kutsal Ruh'a Nasıl Sahip Olabiliriz?
+          url: 'https://www.youtube.com/watch?v=kFqoAbWGToo'
+          viewCount: '6633'
+  - answer: >-
       5 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Hristiyan Ahlakı ve İbadeti
@@ -531,132 +623,37 @@ questions:
           url: 'https://www.youtube.com/watch?v=WxBiFjMSpDg'
           viewCount: '492'
   - answer: >-
-      Hristiyanlar tek Tanrı’ya inanırlar, ama tek olan Tanrı’nın; Baba, Oğul ve
-      Kutsal Ruh’u içerdiğine inanırlar.Tabi ki Tanrı'nın mübarek Ruhu'nu her
-      şeyin başında, Yaratılış’ın ilk paragrafında görebiliriz. Yaratılış 2’de,
-      “Yer boştu, yeryüzü şekilleri yoktu; engin karanlıklarla kaplıydı.
-      Tanrı’nın Ruhu suların üzerinde hareket ediyordu.” diye yazılmıştır. İşte
-      Kutsal Ruh; bu kaosun, boşluğun, biçimsizliğin içinden yaşam, düzen ve
-      güzellik yaratan Tanrı’nın Ruhu’dur.Kutsal Ruh değiştirir.Pentikost’ta
-      Ruh’un döküldüğü bu küçük grup kimlerden oluşmuştu? Bu kişiler İsa Mesih
-      hayattayken O’nun öğrencileriydi. Öğrencilerinin büyük bölümü İsa Mesih
-      yargılanıp çarmıha gerildiğinde korkudan kaçışmışlardı. Şimdi oradaki
-      insanlar bu küçük grubun, Ruh’un gücüyle dolup taştıklarını
-      görüyorlardı.Bundan yaklaşık 50 gün önce İsa Mesih’i inkar ettiği için
-      pişmanlık, hayal kırıklığı ve umutsuzlukla dizlerinin üzerinde hıçkıra
-      hıçkıra ağlayan Petrus; şimdi iman, cesaret ve güçle ayakları üzerine
-      durup aralarında muhtemelen İsa Mesih’i çarmıha gerenlerin ya da çarmıha
-      gerilmesini isteyenlerin de bulunduğu bir gruba,İncil Elçilerin İşleri
-      2.Bölüm. “Tanrı, sizin çarmıha gerdiğiniz İsa’yı hem Rab hem Mesih
-      yapmıştır. Tövbe edin, her biriniz İsa Mesih’in adıyla vaftiz olsun.
-      Böylece günahlarınız bağışlanacak ve Kutsal Ruh armağanını alacaksınız.”
-      diyor.
-    question: Kutsal Ruh Nedir?
-    videos:
-      - guests: .
-        host: Hakan Taştan ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            95-Gerçeğin Sesi - Kutsal Ruh Nedir?  
-
-            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
-            ışığında gerçekleştirdi "Gerçeğin Sesi" programını sayfamızdan takip
-            edebilirsiniz.Esen Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT27M23S
-          id: bFT81Dw_bnc
-          imageURL: 'https://i.ytimg.com/vi/bFT81Dw_bnc/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2018-05-01T08:42:33.000Z'
-          tags: 'hristiyan,incil,kilise,#kutsal,#ruh'
-          title: 95-Gerçeğin Sesi - Kutsal Ruh Nedir?
-          url: 'https://www.youtube.com/watch?v=bFT81Dw_bnc'
-          viewCount: '2558'
-      - guests: .
-        host: Can Nuroğlu ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            2- Kutsal Ruh’un Gelişi
-
-            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
-            Doğuşu" programını sayfamızdan takip edebilirsiniz. 
-
-            Esen Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT28M35S
-          id: nm--RNjJkyQ
-          imageURL: 'https://i.ytimg.com/vi/nm--RNjJkyQ/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2016-01-19T07:58:37.000Z'
-          tags: 'kutsal,ruhun,etkin,oluşu,gelişi'
-          title: Kilisenin Doğuşu - Kutsal Ruh’un Gelişi 2.Bölüm
-          url: 'https://www.youtube.com/watch?v=nm--RNjJkyQ'
-          viewCount: '3645'
-      - guests: .
-        host: Işık Abla ve Memduh Uysal ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ''
-          duration: PT29M25S
-          id: kFqoAbWGToo
-          imageURL: 'https://i.ytimg.com/vi/kFqoAbWGToo/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2013-07-11T08:23:33.000Z'
-          tags: kutsal ruh
-          title: 11. Bölüm Kutsal Ruh'a Nasıl Sahip Olabiliriz?
-          url: 'https://www.youtube.com/watch?v=kFqoAbWGToo'
-          viewCount: '6633'
-  - answer: >-
       8 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Kutsal Kitap Hristiyan orucu hakkında ne der?
+    question: 'Hristiyanlıkta Evlilik '
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Ahmet Güvener ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            69 - Evlilik I
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
+            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan
+            Şeriatı" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
 
-            Connect with us on social! 
+            http://kanalhayat.tv/
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            http://www.youtube.com/kanalhayatplay
 
-            Twitter: http://Bit.ly/LakewoodTW
+            https://www.facebook.com/kanalhayat
 
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            https://twitter.com/kanalhayat
+          duration: PT27M32S
+          id: iM0UxRicoPo
+          imageURL: 'https://i.ytimg.com/vi/iM0UxRicoPo/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
-          tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+          publishedAt: '2019-09-19T07:23:05.000Z'
+          tags: '#evlilik #aile #yaşamı #mutluluk #hristiyanlık #efesliler'
+          title: Hristiyan Şeriatı - Evlilik I
+          url: 'https://www.youtube.com/watch?v=iM0UxRicoPo'
+          viewCount: '116'
   - answer: >-
       9 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
