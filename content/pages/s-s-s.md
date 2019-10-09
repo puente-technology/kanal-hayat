@@ -781,6 +781,22 @@ questions:
           title: '7. Bölüm: Barnaba İncili Nedir ve İznik Konseyinde Neler Oldu?'
           url: 'https://www.youtube.com/watch?v=XF31_gse7_M'
           viewCount: '9020'
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: Hakan Taştan - Gerçeğin Sesi
+          duration: PT27M23S
+          id: WlqcAXZpo24
+          imageURL: 'https://i.ytimg.com/vi/WlqcAXZpo24/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2018-03-19T22:06:46.000Z'
+          tags: 'iznik,konsilinde,neler,yaşandı?,incil,sallama,olayının,perde,arkası'
+          title: >-
+            İznik Konsili'nde Neler Yaşandı? (İncil Sallama Olayının Perde
+            Arkası)  [99]
+          url: 'https://youtu.be/WlqcAXZpo24'
+          viewCount: '2009'
   - answer: >-
       10 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
