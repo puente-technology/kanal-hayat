@@ -680,6 +680,32 @@ questions:
           title: Hristiyan Ahlakı - Hristiyanlık'ta Evlilik
           url: 'https://www.youtube.com/watch?v=2hcHDFYnWTA'
           viewCount: '1339'
+      - guests: .
+        host: Ali Kalkandelen ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Tek Beden Olmak 
+
+            Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik
+            hakkındaki sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M51S
+          id: t0eMqamzg04
+          imageURL: 'https://i.ytimg.com/vi/t0eMqamzg04/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2017-09-20T09:29:01.000Z'
+          tags: '#evlilik,#ilk,#adım,#mutlu,#aile,#iletişim,#tek,#beden,#olmak'
+          title: Tek Beden Olmak - 1
+          url: 'https://www.youtube.com/watch?v=t0eMqamzg04'
+          viewCount: '809'
   - answer: >-
       9 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
