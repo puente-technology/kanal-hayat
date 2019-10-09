@@ -724,40 +724,35 @@ questions:
   - answer: >-
       9 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: >-
-      Arkadaşlarıma ve aileme, onların alınmasına neden olmadan ve onları
-      kendimden uzaklaştırmadan nasıl müjdeleme yapabilirim?
+    question: 'İznik Konseyinde Neler oldu? '
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Ahmet Güvener ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            63 - İznik konseyi
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
+            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan
+            Şeriatı" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
 
-            Connect with us on social! 
+            http://kanalhayat.tv/
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            http://www.youtube.com/kanalhayatplay
 
-            Twitter: http://Bit.ly/LakewoodTW
+            https://www.facebook.com/kanalhayat
 
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            https://twitter.com/kanalhayat
+          duration: PT22M20S
+          id: kRDaYpaDEsE
+          imageURL: 'https://i.ytimg.com/vi/kRDaYpaDEsE/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
-          tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+          publishedAt: '2019-09-07T19:21:05.000Z'
+          tags: 'iznik,konseyi,şeriat'
+          title: Hristiyan Şeriatı - İznik konseyi
+          url: 'https://www.youtube.com/watch?v=kRDaYpaDEsE'
+          viewCount: '264'
   - answer: >-
       10 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
