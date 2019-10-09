@@ -654,6 +654,32 @@ questions:
           title: Hristiyan Şeriatı - Evlilik I
           url: 'https://www.youtube.com/watch?v=iM0UxRicoPo'
           viewCount: '116'
+      - guests: .
+        host: Can Nuroğlu ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+            ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal
+            Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen
+            Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT27M37S
+          id: 2hcHDFYnWTA
+          imageURL: 'https://i.ytimg.com/vi/2hcHDFYnWTA/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2019-02-04T17:18:58.000Z'
+          tags: 'hristiyanlık,hristiyan,isa mesih,isa,evlilik'
+          title: Hristiyan Ahlakı - Hristiyanlık'ta Evlilik
+          url: 'https://www.youtube.com/watch?v=2hcHDFYnWTA'
+          viewCount: '1339'
   - answer: >-
       9 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
