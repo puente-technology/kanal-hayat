@@ -120,5 +120,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=4zPc9RsR-6I&list=PL3CD8FD04C3D1F082&index=8&t=0s
       viewCount: '784'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Neden kurban kesilir? Öğrenmek istiyorsanız bu vidyoyu izlemeyi ihmal
+        etmeyiniz.
+      duration: PT14M53S
+      id: KuPBQKofWYQ
+      imageURL: 'https://i.ytimg.com/vi/KuPBQKofWYQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2010-11-03T13:55:17.000Z'
+      tags: Kamilmoussa
+      title: Kurban İşareti - Bölüm 2
+      url: >-
+        https://www.youtube.com/watch?v=KuPBQKofWYQ&list=PL3CD8FD04C3D1F082&index=9&t=0s
+      viewCount: '418'
 ---
 
