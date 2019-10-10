@@ -67,5 +67,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=OxGkHT8VvpU&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=3&t=0s
       viewCount: '91'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Bebek Yetiştirmenin Püf Noktaları
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M1S
+      id: Z8_mrpkLVA0
+      imageURL: 'https://i.ytimg.com/vi/Z8_mrpkLVA0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-28T09:33:27.000Z'
+      tags: 'BEBEK,YETİŞTİRME'
+      title: Evlilik Sohbetleri - Bebek Yetiştirmenin Püf Noktaları (3-03)
+      url: >-
+        https://www.youtube.com/watch?v=Z8_mrpkLVA0&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=4&t=0s
+      viewCount: '87'
 ---
 
