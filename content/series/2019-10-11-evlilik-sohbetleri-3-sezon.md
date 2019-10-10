@@ -145,5 +145,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=7mqn25wRfWI&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=6&t=0s
       viewCount: '119'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Bekarlara Tavsiyeler
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M58S
+      id: xaQgTQCuia4
+      imageURL: 'https://i.ytimg.com/vi/xaQgTQCuia4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-10-04T05:09:42.000Z'
+      tags: >-
+        #bekarlara,#tavsiyeler,#evlenmeyi,#red,#etmek,#nasıl,#bekar,#kalınabilir,#aile,#evlilik,#sohbetleri
+      title: Evlilik Sohbetleri - Bekarlara Tavsiyeler (3-06)
+      url: >-
+        https://www.youtube.com/watch?v=xaQgTQCuia4&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=7&t=0s
+      viewCount: '142'
 ---
 
