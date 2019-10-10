@@ -77,5 +77,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=YIgwmr09xR4&list=PL1445F25B103D7C31&index=5&t=0s
       viewCount: '182'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M44S
+      id: JBLOhv7oXI8
+      imageURL: 'https://i.ytimg.com/vi/JBLOhv7oXI8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-27T18:05:15.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 5.Bölüm Kadının Yeri 2
+      url: >-
+        https://www.youtube.com/watch?v=JBLOhv7oXI8&list=PL1445F25B103D7C31&index=6&t=0s
+      viewCount: '132'
 ---
 
