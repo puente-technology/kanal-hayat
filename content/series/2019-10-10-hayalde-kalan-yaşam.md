@@ -152,5 +152,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=5br5u1EjPkA&list=PL1445F25B103D7C31&index=10&t=0s
       viewCount: '250'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M29S
+      id: mQJZGOHkdRE
+      imageURL: 'https://i.ytimg.com/vi/mQJZGOHkdRE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-27T19:03:51.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 10.Bölüm  Namus ve Töre 2
+      url: >-
+        https://www.youtube.com/watch?v=mQJZGOHkdRE&list=PL1445F25B103D7C31&index=11&t=0s
+      viewCount: '109'
 ---
 
