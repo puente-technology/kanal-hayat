@@ -437,5 +437,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=LmROIdbdQw0&list=PL1445F25B103D7C31&index=31&t=0s
       viewCount: '566'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M41S
+      id: SKT8UpqPPcU
+      imageURL: 'https://i.ytimg.com/vi/SKT8UpqPPcU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-14T09:01:13.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 31. Bölüm Öfke ve İlişkilerimiz
+      url: >-
+        https://www.youtube.com/watch?v=SKT8UpqPPcU&list=PL1445F25B103D7C31&index=32&t=0s
+      viewCount: '193'
 ---
 
