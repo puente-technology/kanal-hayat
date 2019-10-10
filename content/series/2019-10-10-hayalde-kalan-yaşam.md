@@ -407,5 +407,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=KLUSy6GGfyA&list=PL1445F25B103D7C31&index=29&t=0s
       viewCount: '250'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT29M4S
+      id: bMsf278C1aw
+      imageURL: 'https://i.ytimg.com/vi/bMsf278C1aw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-01-10T13:25:41.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 29. Bölüm Öfke
+      url: >-
+        https://www.youtube.com/watch?v=bMsf278C1aw&list=PL1445F25B103D7C31&index=30&t=0s
+      viewCount: '196'
 ---
 
