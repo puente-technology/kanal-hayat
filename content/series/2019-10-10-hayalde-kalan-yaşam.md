@@ -392,5 +392,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Otgf5ol0PAs&list=PL1445F25B103D7C31&index=28&t=0s
       viewCount: '524'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M30S
+      id: KLUSy6GGfyA
+      imageURL: 'https://i.ytimg.com/vi/KLUSy6GGfyA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-01-09T14:46:55.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 28. Bölüm Ailede Yalan  / Aile İçi Yalan
+      url: >-
+        https://www.youtube.com/watch?v=KLUSy6GGfyA&list=PL1445F25B103D7C31&index=29&t=0s
+      viewCount: '250'
 ---
 
