@@ -347,5 +347,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=2rog6_emBWw&list=PL1445F25B103D7C31&index=25&t=0s
       viewCount: '434'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT29M17S
+      id: NOFm2kwKh50
+      imageURL: 'https://i.ytimg.com/vi/NOFm2kwKh50/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-01-09T12:55:14.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 25. Bölüm Büyü ve Muska
+      url: >-
+        https://www.youtube.com/watch?v=NOFm2kwKh50&list=PL1445F25B103D7C31&index=26&t=0s
+      viewCount: '1444'
 ---
 
