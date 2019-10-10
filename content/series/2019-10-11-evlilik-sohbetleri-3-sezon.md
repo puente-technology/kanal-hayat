@@ -93,5 +93,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Z8_mrpkLVA0&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=4&t=0s
       viewCount: '87'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Çocuk Yetiştirme Püf Noktaları
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M51S
+      id: iXDqkgYBNrQ
+      imageURL: 'https://i.ytimg.com/vi/iXDqkgYBNrQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-10-01T06:23:29.000Z'
+      tags: '#evlilikte,#çocuk,#yetiştirme,#püf,#noktaları'
+      title: Evlilik Sohbetleri - Çocuk Yetiştirme Püf Noktaları (3-04)
+      url: >-
+        https://www.youtube.com/watch?v=iXDqkgYBNrQ&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=5&t=0s
+      viewCount: '106'
 ---
 
