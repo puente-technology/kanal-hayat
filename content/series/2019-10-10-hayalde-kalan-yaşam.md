@@ -362,5 +362,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=NOFm2kwKh50&list=PL1445F25B103D7C31&index=26&t=0s
       viewCount: '1444'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M19S
+      id: V6egex-bZTA
+      imageURL: 'https://i.ytimg.com/vi/V6egex-bZTA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-01-09T13:16:49.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 26. Bölüm Kürtaj
+      url: >-
+        https://www.youtube.com/watch?v=V6egex-bZTA&list=PL1445F25B103D7C31&index=27&t=0s
+      viewCount: '232'
 ---
 
