@@ -336,5 +336,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=y2erjmcj2RA&list=PL3CD8FD04C3D1F082&index=24&t=0s
       viewCount: '135'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT14M22S
+      id: eqc6A-G-tMc
+      imageURL: 'https://i.ytimg.com/vi/eqc6A-G-tMc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2010-10-31T18:40:54.000Z'
+      tags: 'Onu,Taniyalim,10,Dagbasindaki,Olay,Bolum,1'
+      title: Onu Tanıyalım 10 - Dağbaşındaki Olay Bölüm 1
+      url: >-
+        https://www.youtube.com/watch?v=eqc6A-G-tMc&list=PL3CD8FD04C3D1F082&index=25&t=0s
+      viewCount: '89'
 ---
 
