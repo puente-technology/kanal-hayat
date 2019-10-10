@@ -257,5 +257,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=wV8CDIf4NNE&list=PL1445F25B103D7C31&index=17&t=0s
       viewCount: '538'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT29M11S
+      id: 5oSl-Vd053k
+      imageURL: 'https://i.ytimg.com/vi/5oSl-Vd053k/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-06T08:20:49.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 17.Bölüm Zina 2
+      url: >-
+        https://www.youtube.com/watch?v=5oSl-Vd053k&list=PL1445F25B103D7C31&index=18&t=0s
+      viewCount: '204'
 ---
 
