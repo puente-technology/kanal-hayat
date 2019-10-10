@@ -137,5 +137,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=XRBEi1rmiNc&list=PL1445F25B103D7C31&index=9&t=0s
       viewCount: '400'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M14S
+      id: 5br5u1EjPkA
+      imageURL: 'https://i.ytimg.com/vi/5br5u1EjPkA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-27T19:10:49.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 9.Bölüm  Namus ve Töre 1
+      url: >-
+        https://www.youtube.com/watch?v=5br5u1EjPkA&list=PL1445F25B103D7C31&index=10&t=0s
+      viewCount: '250'
 ---
 
