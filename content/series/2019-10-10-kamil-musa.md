@@ -59,5 +59,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=LdsvEx5Pzgs&list=PL3CD8FD04C3D1F082&index=4&t=0s
       viewCount: '328'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT14M54S
+      id: dcd8MQ4zc50
+      imageURL: 'https://i.ytimg.com/vi/dcd8MQ4zc50/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2010-08-07T17:39:04.000Z'
+      tags: kamilmoussa
+      title: Iman Yolculugu 06   Geri Donmek Yok Bolum 2
+      url: >-
+        https://www.youtube.com/watch?v=dcd8MQ4zc50&list=PL3CD8FD04C3D1F082&index=5&t=0s
+      viewCount: '296'
 ---
 
