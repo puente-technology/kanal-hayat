@@ -182,5 +182,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=-cTm5moNs-8&list=PL1445F25B103D7C31&index=12&t=0s
       viewCount: '320'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M17S
+      id: '-sYopCJqRnY'
+      imageURL: 'https://i.ytimg.com/vi/-sYopCJqRnY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-27T19:05:09.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 12. Bölüm  Cinsel Taciz 2
+      url: >-
+        https://www.youtube.com/watch?v=-sYopCJqRnY&list=PL1445F25B103D7C31&index=13&t=0s
+      viewCount: '315'
 ---
 
