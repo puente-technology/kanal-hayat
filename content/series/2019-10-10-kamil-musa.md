@@ -89,5 +89,22 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=vomBrJwSgrg&list=PL3CD8FD04C3D1F082&index=6&t=0s
       viewCount: '279'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kahve ve yıldız falının tehlikeli olduğunu hiç düşündünüz mü? Falcıya,
+        medyumcuya ve burcunuzu öğrenmeye gitmeden önce bu vidyoyu izlemenizi
+        tavsiye ederim.
+      duration: PT9M42S
+      id: QoJO0vlmry0
+      imageURL: 'https://i.ytimg.com/vi/QoJO0vlmry0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2010-04-04T12:04:56.000Z'
+      tags: kamilmoussa
+      title: Astroloji - Bolum 1
+      url: >-
+        https://www.youtube.com/watch?v=QoJO0vlmry0&list=PL3CD8FD04C3D1F082&index=7&t=0s
+      viewCount: '696'
 ---
 
