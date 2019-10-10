@@ -242,5 +242,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ZIoXZnWqATc&list=PL1445F25B103D7C31&index=16&t=0s
       viewCount: '70'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M47S
+      id: wV8CDIf4NNE
+      imageURL: 'https://i.ytimg.com/vi/wV8CDIf4NNE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-06T08:17:28.000Z'
+      tags: >-
+        Hayalde,Kalan,yasam,öfke,sifa,isa,mesih,kurtulmak,ozgur,iman,hayal,ruya,taniklik,incil,kutsal,kitap,zebur,tevrat,aile,sinirlar,siddet,yalan,cocuk,terbiye,yetistirme,zina,aldatma,cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 16.Bölüm Zina 1
+      url: >-
+        https://www.youtube.com/watch?v=wV8CDIf4NNE&list=PL1445F25B103D7C31&index=17&t=0s
+      viewCount: '538'
 ---
 
