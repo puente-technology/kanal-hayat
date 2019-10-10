@@ -47,5 +47,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=onGNNbdz-RA&list=PL1445F25B103D7C31&index=3&t=0s
       viewCount: '468'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M43S
+      id: OwLxSX46TuI
+      imageURL: 'https://i.ytimg.com/vi/OwLxSX46TuI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-27T18:34:03.000Z'
+      tags: >-
+        Hayalde,Kalan,yasam,öfke,sifa,isa,mesih,kurtulmak,ozgur,iman,hayal,ruya,taniklik,incil,kutsal,kitap,zebur,tevrat,aile,sinirlar,siddet,yalan,cocuk,terbiye,yetistirme
+      title: 3.Bölüm Aile İçi Sınırlarımız
+      url: >-
+        https://www.youtube.com/watch?v=OwLxSX46TuI&list=PL1445F25B103D7C31&index=4&t=0s
+      viewCount: '221'
 ---
 
