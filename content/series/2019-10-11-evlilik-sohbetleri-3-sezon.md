@@ -333,5 +333,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=zA5Ye6AN9MQ&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=14&t=0s
       viewCount: '138'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Bedri ve Gül çifti
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M31S
+      id: M2Os4BKGj_Y
+      imageURL: 'https://i.ytimg.com/vi/M2Os4BKGj_Y/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-20T09:04:44.000Z'
+      tags: 'evlilik,sohbetleri,bedri,ve,gül'
+      title: Evlilik Sohbetleri - Bedri ve Gül çifti (3-16)
+      url: >-
+        https://www.youtube.com/watch?v=M2Os4BKGj_Y&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=16&t=0s
+      viewCount: '156'
 ---
 
