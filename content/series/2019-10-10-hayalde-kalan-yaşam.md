@@ -452,5 +452,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=SKT8UpqPPcU&list=PL1445F25B103D7C31&index=32&t=0s
       viewCount: '193'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M48S
+      id: hWzR49IRd8E
+      imageURL: 'https://i.ytimg.com/vi/hWzR49IRd8E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-14T09:08:43.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 32. Bölüm Öfke ve Şifa
+      url: >-
+        https://www.youtube.com/watch?v=hWzR49IRd8E&list=PL1445F25B103D7C31&index=33&t=0s
+      viewCount: '160'
 ---
 
