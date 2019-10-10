@@ -226,5 +226,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=r_kU0_b33Gc&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=9&t=0s
       viewCount: '300'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Boşanma Sonrası Yaşam
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M9S
+      id: ECc2es8ziNI
+      imageURL: 'https://i.ytimg.com/vi/ECc2es8ziNI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-05T09:43:25.000Z'
+      tags: >-
+        #boşanma,#sonrası,#yaşam,#eşlerin,#hizmet,#etmesi,#evlilikte,#ruh,#birliğini,#sağlamak,#hristiyan,#aile
+      title: Evlilik Sohbetleri - Boşanma Sonrası Yaşam (3-10)
+      url: >-
+        https://www.youtube.com/watch?v=ECc2es8ziNI&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=10&t=0s
+      viewCount: '56'
 ---
 
