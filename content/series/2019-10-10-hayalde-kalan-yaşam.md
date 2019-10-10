@@ -287,5 +287,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=j-npM0vIhF4&list=PL1445F25B103D7C31&index=21&t=0s
       viewCount: '290'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M53S
+      id: x9FD1yKOYxc
+      imageURL: 'https://i.ytimg.com/vi/x9FD1yKOYxc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-01-09T09:55:53.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 21. Bölüm Çok Eşlilik 2. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=x9FD1yKOYxc&list=PL1445F25B103D7C31&index=22&t=0s
+      viewCount: '108'
 ---
 
