@@ -378,5 +378,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=rWdAuWa1cgY&list=PL3CD8FD04C3D1F082&index=26&t=0s
       viewCount: '86'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT14M35S
+      id: 8wi6oVz1vNY
+      imageURL: 'https://i.ytimg.com/vi/8wi6oVz1vNY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-03-13T20:22:12.000Z'
+      tags: 'Evlilik,04,B,Cinsel,Iliskiler'
+      title: Evlilik 04 B - Cinsel Ilişkiler
+      url: >-
+        https://www.youtube.com/watch?v=8wi6oVz1vNY&list=PL3CD8FD04C3D1F082&index=27&t=0s
+      viewCount: '1077'
 ---
 
