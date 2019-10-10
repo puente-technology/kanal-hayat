@@ -385,5 +385,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=HE77Z9ZOtyI&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=17&t=0s
       viewCount: '312'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Ergenlerin Sorunları
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M26S
+      id: vJ1p7N5VrIw
+      imageURL: 'https://i.ytimg.com/vi/vJ1p7N5VrIw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-23T05:49:19.000Z'
+      tags: '#ergenlerin,#sorunları,#hristiyan,#aile,#yaşamı'
+      title: Evlilik Sohbetleri - Ergenlerin Sorunları (3-18)
+      url: >-
+        https://www.youtube.com/watch?v=vJ1p7N5VrIw&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=18&t=0s
+      viewCount: '118'
 ---
 
