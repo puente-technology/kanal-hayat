@@ -392,5 +392,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=8wi6oVz1vNY&list=PL3CD8FD04C3D1F082&index=27&t=0s
       viewCount: '1077'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Eskici genelde eskileri, istenmeyen şeyleri toplar götürür. Hayatın
+        eskilerini, istenmeyen şeylerini alıp yenisini veren bir eskici var....
+      duration: PT8M43S
+      id: en7BnPRtjk8
+      imageURL: 'https://i.ytimg.com/vi/en7BnPRtjk8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2007-03-11T19:21:24.000Z'
+      tags: 'Hayat,acılar,gözyaşları,sevinç,teselli,fedakar'
+      title: Fedakar Eskici - Bölüm 2
+      url: >-
+        https://www.youtube.com/watch?v=en7BnPRtjk8&list=PL3CD8FD04C3D1F082&index=28&t=0s
+      viewCount: '294'
 ---
 
