@@ -266,5 +266,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=0XvH5Z2AAvQ&list=PL3CD8FD04C3D1F082&index=19&t=0s
       viewCount: '87'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT14M3S
+      id: 6p3WxFXxnqY
+      imageURL: 'https://i.ytimg.com/vi/6p3WxFXxnqY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2010-08-07T15:28:29.000Z'
+      tags: 'kamilmoussa,philosophy'
+      title: Iman Yolculugu 05 - Nereye Kadar Bolum 2
+      url: >-
+        https://www.youtube.com/watch?v=6p3WxFXxnqY&list=PL3CD8FD04C3D1F082&index=20&t=0s
+      viewCount: '126'
 ---
 
