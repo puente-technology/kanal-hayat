@@ -238,5 +238,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=cram6rbfJwA&list=PL3CD8FD04C3D1F082&index=17&t=0s
       viewCount: '130'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT14M57S
+      id: 93-A-3_KoQ0
+      imageURL: 'https://i.ytimg.com/vi/93-A-3_KoQ0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2010-08-09T16:52:34.000Z'
+      tags: kamilmoussa
+      title: Iman Yolculugu 08 - Konusan Tanri mi Bolum 2
+      url: >-
+        https://www.youtube.com/watch?v=93-A-3_KoQ0&list=PL3CD8FD04C3D1F082&index=18&t=0s
+      viewCount: '101'
 ---
 
