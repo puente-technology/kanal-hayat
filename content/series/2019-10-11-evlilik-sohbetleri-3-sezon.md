@@ -280,5 +280,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Zkrhs1EaYWE&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=11&t=0s
       viewCount: '161'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Karı Koca Birlikte Hizmet
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M2S
+      id: Gu-fEXZjciM
+      imageURL: 'https://i.ytimg.com/vi/Gu-fEXZjciM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-10-09T06:32:52.000Z'
+      tags: >-
+        #eşlerin,#hizmet,#etmesi,#evlilikte,#ruh,#birliğini,#sağlamak,#hristiyan,#aile
+      title: Evlilik Sohbetleri - Karı Koca Birlikte Hizmet - Bölüm II (3-12)
+      url: >-
+        https://www.youtube.com/watch?v=Gu-fEXZjciM&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=12&t=0s
+      viewCount: '87'
 ---
 
