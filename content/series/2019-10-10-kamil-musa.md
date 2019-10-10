@@ -30,5 +30,20 @@ episodes:
       title: Günah Yoksa Cin
       url: 'https://youtu.be/O_q0pZw2HmI'
       viewCount: '1205'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M32S
+      id: N3es7EbtIWo
+      imageURL: 'https://i.ytimg.com/vi/N3es7EbtIWo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-03T10:36:56.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Ölüler Diyarından Haber
+      url: >-
+        https://www.youtube.com/watch?v=N3es7EbtIWo&list=PL3CD8FD04C3D1F082&index=3&t=0s
+      viewCount: '443'
 ---
 
