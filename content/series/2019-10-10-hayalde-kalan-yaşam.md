@@ -32,5 +32,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Gc-kBrmKayg&list=PL1445F25B103D7C31&index=2&t=0s
       viewCount: '1335'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M46S
+      id: onGNNbdz-RA
+      imageURL: 'https://i.ytimg.com/vi/onGNNbdz-RA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-27T18:25:56.000Z'
+      tags: >-
+        Hayalde,Kalan,yasam,öfke,sifa,isa,mesih,kurtulmak,ozgur,iman,hayal,ruya,taniklik,incil,kutsal,kitap,zebur,tevrat,aci,sözler
+      title: 2.Bölüm Sözlerimizin Gücü
+      url: >-
+        https://www.youtube.com/watch?v=onGNNbdz-RA&list=PL1445F25B103D7C31&index=3&t=0s
+      viewCount: '468'
 ---
 
