@@ -377,5 +377,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=V6egex-bZTA&list=PL1445F25B103D7C31&index=27&t=0s
       viewCount: '232'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M53S
+      id: Otgf5ol0PAs
+      imageURL: 'https://i.ytimg.com/vi/Otgf5ol0PAs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-01-09T13:35:17.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 27. Bölüm Yalan ve Yalancılık
+      url: >-
+        https://www.youtube.com/watch?v=Otgf5ol0PAs&list=PL1445F25B103D7C31&index=28&t=0s
+      viewCount: '524'
 ---
 
