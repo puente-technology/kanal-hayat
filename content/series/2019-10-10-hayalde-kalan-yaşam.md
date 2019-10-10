@@ -122,5 +122,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=kgyNFWbCWxo&list=PL1445F25B103D7C31&index=8&t=0s
       viewCount: '125'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M12S
+      id: XRBEi1rmiNc
+      imageURL: 'https://i.ytimg.com/vi/XRBEi1rmiNc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-05T13:33:10.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 8. Bölüm Gelin Kaynana İlişkileri
+      url: >-
+        https://www.youtube.com/watch?v=XRBEi1rmiNc&list=PL1445F25B103D7C31&index=9&t=0s
+      viewCount: '400'
 ---
 
