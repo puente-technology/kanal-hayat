@@ -272,5 +272,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=5oSl-Vd053k&list=PL1445F25B103D7C31&index=18&t=0s
       viewCount: '204'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M30S
+      id: j-npM0vIhF4
+      imageURL: 'https://i.ytimg.com/vi/j-npM0vIhF4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-06T07:53:27.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 20.Bölüm Çok Eşlilik 1
+      url: >-
+        https://www.youtube.com/watch?v=j-npM0vIhF4&list=PL1445F25B103D7C31&index=21&t=0s
+      viewCount: '290'
 ---
 
