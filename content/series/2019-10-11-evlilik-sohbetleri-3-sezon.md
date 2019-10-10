@@ -411,5 +411,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=vJ1p7N5VrIw&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=18&t=0s
       viewCount: '118'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Evlilikte Birbirimize Destek Olmak
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M16S
+      id: U8I5T-B8TcM
+      imageURL: 'https://i.ytimg.com/vi/U8I5T-B8TcM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-24T07:27:00.000Z'
+      tags: '#evlilikte,#birbirimize,#destek,#olmak'
+      title: Evlilik Sohbetleri - Evlilikte Birbirimize Destek Olmak (3-19)
+      url: >-
+        https://www.youtube.com/watch?v=U8I5T-B8TcM&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=19&t=0s
+      viewCount: '141'
 ---
 
