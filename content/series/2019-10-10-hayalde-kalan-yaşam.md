@@ -227,5 +227,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ExtCzRqvkyk&list=PL1445F25B103D7C31&index=15&t=0s
       viewCount: '88'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M56S
+      id: ZIoXZnWqATc
+      imageURL: 'https://i.ytimg.com/vi/ZIoXZnWqATc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-06T08:15:58.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 15.Bölüm Cinsel Tacizden Şifa Bulmak
+      url: >-
+        https://www.youtube.com/watch?v=ZIoXZnWqATc&list=PL1445F25B103D7C31&index=16&t=0s
+      viewCount: '70'
 ---
 
