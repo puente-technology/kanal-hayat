@@ -408,5 +408,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=en7BnPRtjk8&list=PL3CD8FD04C3D1F082&index=28&t=0s
       viewCount: '294'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: "Devamı için tıklayın: http://www.youtube.com/watch?v=wCFjraFW4Cw\r\nMusa peygamber Tanrı ile yüzyüze görüşmek için dağa çıkar. Tanrı önünde zaman harcayıp geri döndüğünde yüzünde müthiş bir parlaklık oluşur. Bunun anlamı ne olabilir"
+      duration: PT6M53S
+      id: BOfIDo31lwY
+      imageURL: 'https://i.ytimg.com/vi/BOfIDo31lwY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2007-03-11T13:32:35.000Z'
+      tags: 'Musa,peygamber,Tanrı,Şeriat,Nur,Yüz'
+      title: Nur Yüzlü Musa - Birinci Kesim
+      url: >-
+        https://www.youtube.com/watch?v=BOfIDo31lwY&list=PL3CD8FD04C3D1F082&index=29&t=0s
+      viewCount: '726'
 ---
 
