@@ -119,5 +119,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=iXDqkgYBNrQ&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=5&t=0s
       viewCount: '106'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Evlilikte Fikir Ayrılıkları ile Baş Etmek
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT24M32S
+      id: 7mqn25wRfWI
+      imageURL: 'https://i.ytimg.com/vi/7mqn25wRfWI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-10-03T07:12:24.000Z'
+      tags: '#evlilikte,#fikir,#ayrılıkları,#ile,#başetmek'
+      title: Evlilik Sohbetleri - Evlilikte Fikir Ayrılıkları ile Baş Etmek (3-05)
+      url: >-
+        https://www.youtube.com/watch?v=7mqn25wRfWI&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=6&t=0s
+      viewCount: '119'
 ---
 
