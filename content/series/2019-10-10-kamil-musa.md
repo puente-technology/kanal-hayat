@@ -364,5 +364,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=eqc6A-G-tMc&list=PL3CD8FD04C3D1F082&index=25&t=0s
       viewCount: '89'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT14M58S
+      id: rWdAuWa1cgY
+      imageURL: 'https://i.ytimg.com/vi/rWdAuWa1cgY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-03-12T21:26:05.000Z'
+      tags: 'Evlilik,02,A,Evlilikte,Cocuklar'
+      title: Evlilik 02 A   Evlilikte Cocuklar
+      url: >-
+        https://www.youtube.com/watch?v=rWdAuWa1cgY&list=PL3CD8FD04C3D1F082&index=26&t=0s
+      viewCount: '86'
 ---
 
