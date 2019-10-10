@@ -332,5 +332,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=xMTVb9WdjjM&list=PL1445F25B103D7C31&index=24&t=0s
       viewCount: '346'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M18S
+      id: 2rog6_emBWw
+      imageURL: 'https://i.ytimg.com/vi/2rog6_emBWw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-01-09T12:25:47.000Z'
+      tags: >-
+        Hayalde,Kalan,yasam,öfke,sifa,isa,mesih,kurtulmak,ozgur,iman,hayal,ruya,taniklik,incil,kutsal,kitap,zebur,tevrat,aile,sinirlar,siddet,yalan,cocuk,terbiye,yetistirme,zina,taciz,fal,astrolji,cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 24. Bölüm Fal Baktırma
+      url: >-
+        https://www.youtube.com/watch?v=2rog6_emBWw&list=PL1445F25B103D7C31&index=25&t=0s
+      viewCount: '434'
 ---
 
