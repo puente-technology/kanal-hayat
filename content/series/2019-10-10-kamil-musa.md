@@ -224,5 +224,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ixw0gEhgChk&list=PL3CD8FD04C3D1F082&index=16&t=0s
       viewCount: '9862'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT15M
+      id: cram6rbfJwA
+      imageURL: 'https://i.ytimg.com/vi/cram6rbfJwA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2010-08-07T16:13:38.000Z'
+      tags: kamilmoussa
+      title: Iman Yolculugu 05 - Nereye Kadar Bolum 1
+      url: >-
+        https://www.youtube.com/watch?v=cram6rbfJwA&list=PL3CD8FD04C3D1F082&index=17&t=0s
+      viewCount: '130'
 ---
 
