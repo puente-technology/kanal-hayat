@@ -172,5 +172,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=xaQgTQCuia4&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=7&t=0s
       viewCount: '142'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Evlenmeyi Reddetmek
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M45S
+      id: xtgo1sEN_6c
+      imageURL: 'https://i.ytimg.com/vi/xtgo1sEN_6c/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-10-06T06:12:57.000Z'
+      tags: >-
+        #evlenmeyi,#red,#etmek,#nasıl,#bekar,#kalınabilir,#aile,#evlilik,#sohbetleri
+      title: Evlilik Sohbetleri - Evlenmeyi Reddetmek (3-07)
+      url: >-
+        https://www.youtube.com/watch?v=xtgo1sEN_6c&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=8&t=0s
+      viewCount: '140'
 ---
 
