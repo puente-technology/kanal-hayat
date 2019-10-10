@@ -317,5 +317,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=hVFRqW_VV1Q&list=PL1445F25B103D7C31&index=23&t=0s
       viewCount: '4616'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT29M4S
+      id: xMTVb9WdjjM
+      imageURL: 'https://i.ytimg.com/vi/xMTVb9WdjjM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-01-09T12:11:44.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 23. Bölüm Fal Bakma 2. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=xMTVb9WdjjM&list=PL1445F25B103D7C31&index=24&t=0s
+      viewCount: '346'
 ---
 
