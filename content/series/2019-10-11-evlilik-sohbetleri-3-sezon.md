@@ -359,5 +359,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=M2Os4BKGj_Y&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=16&t=0s
       viewCount: '156'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        İyi bir Evlilik İçin Tavsiyeler
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M7S
+      id: HE77Z9ZOtyI
+      imageURL: 'https://i.ytimg.com/vi/HE77Z9ZOtyI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-21T16:11:53.000Z'
+      tags: '#iyi,#evlilik,#için,#tavsiyeler,#hristiyanlık'
+      title: Evlilik Sohbetleri - İyi bir Evlilik İçin Tavsiyeler (3-17)
+      url: >-
+        https://www.youtube.com/watch?v=HE77Z9ZOtyI&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=17&t=0s
+      viewCount: '312'
 ---
 
