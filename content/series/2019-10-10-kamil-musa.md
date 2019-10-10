@@ -252,5 +252,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=93-A-3_KoQ0&list=PL3CD8FD04C3D1F082&index=18&t=0s
       viewCount: '101'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT1M46S
+      id: 0XvH5Z2AAvQ
+      imageURL: 'https://i.ytimg.com/vi/0XvH5Z2AAvQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2010-11-24T15:00:41.000Z'
+      tags: kamilmoussa
+      title: Yüzbaşı
+      url: >-
+        https://www.youtube.com/watch?v=0XvH5Z2AAvQ&list=PL3CD8FD04C3D1F082&index=19&t=0s
+      viewCount: '87'
 ---
 
