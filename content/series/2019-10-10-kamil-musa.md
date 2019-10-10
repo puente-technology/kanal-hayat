@@ -106,5 +106,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=QoJO0vlmry0&list=PL3CD8FD04C3D1F082&index=7&t=0s
       viewCount: '696'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT14M38S
+      id: 4zPc9RsR-6I
+      imageURL: 'https://i.ytimg.com/vi/4zPc9RsR-6I/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2010-11-25T21:05:46.000Z'
+      tags: kamilmoussa
+      title: Aden Bahçesi - Bölüm 1
+      url: >-
+        https://www.youtube.com/watch?v=4zPc9RsR-6I&list=PL3CD8FD04C3D1F082&index=8&t=0s
+      viewCount: '784'
 ---
 
