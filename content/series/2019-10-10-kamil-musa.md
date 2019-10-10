@@ -194,5 +194,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=vLldvbzIR3k&list=PL3CD8FD04C3D1F082&index=14&t=0s
       viewCount: '80'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT14M40S
+      id: SErGFIzC5Pw
+      imageURL: 'https://i.ytimg.com/vi/SErGFIzC5Pw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2010-11-26T19:13:12.000Z'
+      tags: kamilmoussa
+      title: Sadece Bir Anne 04 - Bölüm 1
+      url: >-
+        https://www.youtube.com/watch?v=SErGFIzC5Pw&list=PL3CD8FD04C3D1F082&index=15&t=0s
+      viewCount: '111'
 ---
 
