@@ -199,5 +199,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=xtgo1sEN_6c&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=8&t=0s
       viewCount: '140'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Bir Boşanma Tanıklığı
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M24S
+      id: r_kU0_b33Gc
+      imageURL: 'https://i.ytimg.com/vi/r_kU0_b33Gc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-27T09:05:38.000Z'
+      tags: >-
+        #bir,#boşanma,#tanıklığı,#sonrası,#yaşam,#eşlerin,#hizmet,#etmesi,#evlilikte,#ruh,#birliğini,#sağlamak,#hristiyan,#aile
+      title: Evlilik Sohbetleri - Bir Boşanma Tanıklığı (3-09)
+      url: >-
+        https://www.youtube.com/watch?v=r_kU0_b33Gc&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=9&t=0s
+      viewCount: '300'
 ---
 
