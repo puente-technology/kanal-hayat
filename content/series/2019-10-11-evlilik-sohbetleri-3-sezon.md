@@ -307,5 +307,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Gu-fEXZjciM&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=12&t=0s
       viewCount: '87'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Evlilikte Aldatma
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M32S
+      id: zA5Ye6AN9MQ
+      imageURL: 'https://i.ytimg.com/vi/zA5Ye6AN9MQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-19T07:24:00.000Z'
+      tags: '#evlilikte,#aldatma,#hristiyan,#evliliği'
+      title: Evlilik Sohbetleri - Evlilikte Aldatma (3-15)
+      url: >-
+        https://www.youtube.com/watch?v=zA5Ye6AN9MQ&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=14&t=0s
+      viewCount: '138'
 ---
 
