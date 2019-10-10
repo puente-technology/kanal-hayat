@@ -180,5 +180,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=2qVKWlK1kak&list=PL3CD8FD04C3D1F082&index=13&t=0s
       viewCount: '86'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT11M59S
+      id: vLldvbzIR3k
+      imageURL: 'https://i.ytimg.com/vi/vLldvbzIR3k/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2010-11-23T10:36:18.000Z'
+      tags: kamilmoussa
+      title: Sadece bir Anne 03 - Bölüm 2
+      url: >-
+        https://www.youtube.com/watch?v=vLldvbzIR3k&list=PL3CD8FD04C3D1F082&index=14&t=0s
+      viewCount: '80'
 ---
 
