@@ -41,5 +41,31 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=DtYAlc3ucOo&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=2&t=0s
       viewCount: '424'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: >-
+        Evlilik ve "Kahyalık" Kavramı
+
+        Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik hakkındaki
+        sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M10S
+      id: OxGkHT8VvpU
+      imageURL: 'https://i.ytimg.com/vi/OxGkHT8VvpU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-26T06:21:59.000Z'
+      tags: '#evlilik,#kahyalık,#kavramı,#hristiyan,#aile'
+      title: Evlilik Sohbetleri - Evlilik ve "Kahyalık" Kavramı (3-02)
+      url: >-
+        https://www.youtube.com/watch?v=OxGkHT8VvpU&list=PLQfi14V3hH0L5UthDyeLCBNp99SCwEqYE&index=3&t=0s
+      viewCount: '91'
 ---
 
