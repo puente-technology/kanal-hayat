@@ -208,5 +208,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=SErGFIzC5Pw&list=PL3CD8FD04C3D1F082&index=15&t=0s
       viewCount: '111'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Bazı şeyler imkansızmış gibi gözükebilir, ama aslında bunları imkan
+        çerçevesi içine getirebilen bir etken var. İzleyiniz...
+      duration: PT1M30S
+      id: ixw0gEhgChk
+      imageURL: 'https://i.ytimg.com/vi/ixw0gEhgChk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2007-01-12T21:07:57.000Z'
+      tags: 'iman,imkansız,güven'
+      title: İmkansız hiç bir şey yoktur
+      url: >-
+        https://www.youtube.com/watch?v=ixw0gEhgChk&list=PL3CD8FD04C3D1F082&index=16&t=0s
+      viewCount: '9862'
 ---
 
