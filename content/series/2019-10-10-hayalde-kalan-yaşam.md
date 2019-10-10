@@ -197,5 +197,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=-sYopCJqRnY&list=PL1445F25B103D7C31&index=13&t=0s
       viewCount: '315'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M57S
+      id: maXTQ6aIKXs
+      imageURL: 'https://i.ytimg.com/vi/maXTQ6aIKXs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-27T18:19:05.000Z'
+      tags: >-
+        öfke,sifa,isa,mesih,kurtulmak,ozgur,iman,hayal,ruya,taniklik,incil,kutsal,kitap,zebur,cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi,tevrat,aile,sinirlar,siddet,yalan,cocuk,terbiye,yetistirme,zina,taciz
+      title: 13.Bölüm  Çocuk Tacizi Yaşamış Yetişkinler
+      url: >-
+        https://www.youtube.com/watch?v=maXTQ6aIKXs&list=PL1445F25B103D7C31&index=14&t=0s
+      viewCount: '485'
 ---
 
