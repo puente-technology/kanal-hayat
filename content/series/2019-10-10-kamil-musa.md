@@ -308,5 +308,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ULdn-M8UrMM&list=PL3CD8FD04C3D1F082&index=22&t=0s
       viewCount: '74'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT13M48S
+      id: _xor3NDOs6A
+      imageURL: 'https://i.ytimg.com/vi/_xor3NDOs6A/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2010-11-20T10:36:38.000Z'
+      tags: kamilmoussa
+      title: Sadece bir Anne 02 - Bölüm 2
+      url: >-
+        https://www.youtube.com/watch?v=_xor3NDOs6A&list=PL3CD8FD04C3D1F082&index=23&t=0s
+      viewCount: '88'
 ---
 
