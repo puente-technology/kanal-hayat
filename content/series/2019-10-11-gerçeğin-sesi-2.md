@@ -246,5 +246,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=IQieTVGElLs&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=50&t=0s
       viewCount: '4431'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        88-Gerçeğin Sesi - İsa Tanrı mı?
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi "Gerçeğin Sesi" programını sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M57S
+      id: EQ5LkaWJafU
+      imageURL: 'https://i.ytimg.com/vi/EQ5LkaWJafU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T13:43:27.000Z'
+      tags: '#gerçeğin,#sesi,#dağdaki,#vaaz,#incil,İsa Tanrı mı?'
+      title: 88-Gerçeğin Sesi - İsa Tanrı mı?
+      url: >-
+        https://www.youtube.com/watch?v=EQ5LkaWJafU&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=51&t=0s
+      viewCount: '7655'
 ---
 
