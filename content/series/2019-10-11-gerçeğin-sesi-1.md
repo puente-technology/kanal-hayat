@@ -407,5 +407,18 @@ episodes:
       title: 'Gerçeğin Sesi - Timoteos''a Uyarılar [85]'
       url: 'https://youtu.be/kznm0tIrzgM'
       viewCount: '439'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT28M13S
+      id: kznm0tIrzgM
+      imageURL: 'https://i.ytimg.com/vi/kznm0tIrzgM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T13:41:52.000Z'
+      tags: timoteos uyarılar
+      title: 'Gerçeğin Sesi - Timoteos''a Uyarılar [85]'
+      url: 'https://youtu.be/kznm0tIrzgM'
+      viewCount: '439'
 ---
 
