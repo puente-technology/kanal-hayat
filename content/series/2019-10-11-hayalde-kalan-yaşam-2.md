@@ -47,5 +47,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=1M74t6go_AU&list=PL1445F25B103D7C31&index=35&t=0s
       viewCount: '179'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT28M49S
+      id: zh2g9ILPjkI
+      imageURL: 'https://i.ytimg.com/vi/zh2g9ILPjkI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-14T09:11:04.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi,ile,yaşamak,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet
+      title: 35. Bölüm Söz Yaraları
+      url: >-
+        https://www.youtube.com/watch?v=zh2g9ILPjkI&list=PL1445F25B103D7C31&index=36&t=0s
+      viewCount: '233'
 ---
 
