@@ -165,5 +165,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=mwDvks1vIGU&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=47&t=0s
       viewCount: '1033'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        91-Gerçeğin Sesi - İsa Mesih Nasil ve Neden Öldü? 
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi "Gerçeğin Sesi" programını sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M28S
+      id: UL0JJ48QAS8
+      imageURL: 'https://i.ytimg.com/vi/UL0JJ48QAS8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-02-14T18:42:00.000Z'
+      tags: '#isa,#mesih,#kimdir?,#gerçeğin,#sesi,#dağdaki,#vaaz,#incil'
+      title: 91-Gerçeğin Sesi - İsa Mesih Nasil ve Neden Öldü?
+      url: >-
+        https://www.youtube.com/watch?v=UL0JJ48QAS8&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=48&t=0s
+      viewCount: '2994'
 ---
 
