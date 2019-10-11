@@ -167,5 +167,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=RvZxObAfATM&list=PL1445F25B103D7C31&index=43&t=0s
       viewCount: '129'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT28M23S
+      id: tLdOx1GTbXY
+      imageURL: 'https://i.ytimg.com/vi/tLdOx1GTbXY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-02T08:04:43.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 43. Bölüm  Eşcinsellik
+      url: >-
+        https://www.youtube.com/watch?v=tLdOx1GTbXY&list=PL1445F25B103D7C31&index=44&t=0s
+      viewCount: '1793'
 ---
 
