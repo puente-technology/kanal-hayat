@@ -303,5 +303,18 @@ episodes:
       title: 'Gerçeğin Sesi - Mahkumiyetten Özgürlüğe [76]'
       url: 'https://youtu.be/HLiJiGHKw7g'
       viewCount: '550'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT28M23S
+      id: SRM4SV7t2eU
+      imageURL: 'https://i.ytimg.com/vi/SRM4SV7t2eU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T13:30:54.000Z'
+      tags: diriliş
+      title: 'Gerçeğin Sesi - Diriliş [76]'
+      url: 'https://youtu.be/SRM4SV7t2eU'
+      viewCount: '212'
 ---
 
