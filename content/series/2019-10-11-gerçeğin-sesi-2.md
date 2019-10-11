@@ -98,5 +98,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=bFT81Dw_bnc&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=44&t=0s
       viewCount: '2578'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT27M35S
+      id: yvTH_CDG3uE
+      imageURL: 'https://i.ytimg.com/vi/yvTH_CDG3uE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-04-18T06:38:20.000Z'
+      tags: 'nasıl,neden,kutsal,ruh?'
+      title: 'Gerçeğin Sesi - Nasıl ve Neden Dua Edilir  [94]'
+      url: 'https://youtu.be/yvTH_CDG3uE'
+      viewCount: '807'
 ---
 
