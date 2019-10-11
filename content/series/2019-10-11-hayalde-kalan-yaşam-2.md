@@ -322,5 +322,18 @@ episodes:
       title: 53. Bölüm  Aile İçi ve Toplumsal Şiddet
       url: 'https://youtu.be/Nv-wBSwm8PA'
       viewCount: '112'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT28M2S
+      id: 0ms0Buc1FI8
+      imageURL: 'https://i.ytimg.com/vi/0ms0Buc1FI8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-18T09:04:01.000Z'
+      tags: yalan
+      title: 54. Bölüm  Yalan
+      url: 'https://youtu.be/0ms0Buc1FI8'
+      viewCount: '54'
 ---
 
