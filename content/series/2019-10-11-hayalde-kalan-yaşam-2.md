@@ -296,5 +296,18 @@ episodes:
       title: 51. Bölüm Doğayı Ve Hayvanları Korumak
       url: 'https://youtu.be/OSAONEPpyx4'
       viewCount: '87'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT28M42S
+      id: Fdp25KTR58k
+      imageURL: 'https://i.ytimg.com/vi/Fdp25KTR58k/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-18T09:02:22.000Z'
+      tags: korumak
+      title: 52. Bölüm Engellilerimizi Korumak Ve Saymak
+      url: 'https://youtu.be/Fdp25KTR58k'
+      viewCount: '23'
 ---
 
