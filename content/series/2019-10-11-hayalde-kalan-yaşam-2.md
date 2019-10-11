@@ -270,5 +270,18 @@ episodes:
       title: 49. Bölüm Anne Babamıza Saygı
       url: 'https://youtu.be/P76HZD61N5s'
       viewCount: '44'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT28M34S
+      id: ms8asYnG6ps
+      imageURL: 'https://i.ytimg.com/vi/ms8asYnG6ps/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-18T08:50:28.000Z'
+      tags: boşanma
+      title: 50. Bölüm Boşanmanın Aile ve Toplumsal Etkileri
+      url: 'https://youtu.be/ms8asYnG6ps'
+      viewCount: '165'
 ---
 
