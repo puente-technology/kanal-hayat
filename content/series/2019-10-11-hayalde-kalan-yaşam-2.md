@@ -77,5 +77,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=pMjSl1Jx3S4&list=PL1445F25B103D7C31&index=37&t=0s
       viewCount: '132'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT28M16S
+      id: kjZcnZS1bRU
+      imageURL: 'https://i.ytimg.com/vi/kjZcnZS1bRU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-02T06:39:35.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: '37. Bölüm Sosyal Bir Problem Olarak Borç ve Borçlanma,1'
+      url: >-
+        https://www.youtube.com/watch?v=kjZcnZS1bRU&list=PL1445F25B103D7C31&index=38&t=0s
+      viewCount: '53'
 ---
 
