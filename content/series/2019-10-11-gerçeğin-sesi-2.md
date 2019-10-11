@@ -219,5 +219,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=dZqNZQnOCF0&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=49&t=0s
       viewCount: '7333'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        89-Gerçeğin Sesi - Bayram Kardeşin Tanıklığı 
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi "Gerçeğin Sesi" programını sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M55S
+      id: IQieTVGElLs
+      imageURL: 'https://i.ytimg.com/vi/IQieTVGElLs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-29T12:23:28.000Z'
+      tags: '#gerçeğin,#sesi,#dağdaki,#vaaz,#incil'
+      title: 89-Gerçeğin Sesi - Bayram Kardeşin Tanıklığı
+      url: >-
+        https://www.youtube.com/watch?v=IQieTVGElLs&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=50&t=0s
+      viewCount: '4431'
 ---
 
