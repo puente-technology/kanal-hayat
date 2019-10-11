@@ -152,5 +152,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=PSTuC90G7Qs&list=PL1445F25B103D7C31&index=42&t=0s
       viewCount: '40'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT28M14S
+      id: RvZxObAfATM
+      imageURL: 'https://i.ytimg.com/vi/RvZxObAfATM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-02T07:55:55.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 42. Bölüm  Evlilik Öncesi Danışmanlık
+      url: >-
+        https://www.youtube.com/watch?v=RvZxObAfATM&list=PL1445F25B103D7C31&index=43&t=0s
+      viewCount: '129'
 ---
 
