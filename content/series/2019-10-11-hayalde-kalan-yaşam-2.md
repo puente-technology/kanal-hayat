@@ -182,5 +182,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=tLdOx1GTbXY&list=PL1445F25B103D7C31&index=44&t=0s
       viewCount: '1793'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT28M39S
+      id: t2cC5JKu1hE
+      imageURL: 'https://i.ytimg.com/vi/t2cC5JKu1hE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-02T08:02:48.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 44. Bölüm  Erkeklerde Tembellik
+      url: >-
+        https://www.youtube.com/watch?v=t2cC5JKu1hE&list=PL1445F25B103D7C31&index=45&t=0s
+      viewCount: '704'
 ---
 
