@@ -300,5 +300,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=QwEh2Dx5T5A&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=52&t=0s
       viewCount: '1157'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        86-Gerçeğin Sesi - İncil - (Matta 8.Bölüm)
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi "Gerçeğin Sesi" programını sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M11S
+      id: q-DdYJYra4A
+      imageURL: 'https://i.ytimg.com/vi/q-DdYJYra4A/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T13:42:21.000Z'
+      tags: '#gerçeğin,#sesi,#dağdaki,#vaaz,#incil'
+      title: 86-Gerçeğin Sesi - İncil - (Matta 8.Bölüm)
+      url: >-
+        https://www.youtube.com/watch?v=q-DdYJYra4A&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=53&t=0s
+      viewCount: '404'
 ---
 
