@@ -742,5 +742,37 @@ episodes:
       title: 54. Bölüm Mesih'te Ölmek Nedir?
       url: 'https://youtu.be/wkoGeuf8QdA'
       viewCount: '300'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        55. Bölüm İsa Mesih Neden "Tamamlandı" Dedi?
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi 
+
+        "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M1S
+      id: KoY9fy8qt-0
+      imageURL: 'https://i.ytimg.com/vi/KoY9fy8qt-0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-10-08T11:09:11.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Hakan Tastan
+      title: 55. Bölüm İsa Mesih Neden "Tamamlandı" Dedi?
+      url: >-
+        https://www.youtube.com/watch?v=KoY9fy8qt-0&list=PLQfi14V3hH0K6tgqhFD6T-J5ECwWib_Zg&index=15&t=0s
+      viewCount: '492'
 ---
 
