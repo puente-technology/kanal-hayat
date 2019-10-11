@@ -122,5 +122,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=7oxip6-f5mQ&list=PL1445F25B103D7C31&index=40&t=0s
       viewCount: '41'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT28M53S
+      id: ZPVgSKa4_nU
+      imageURL: 'https://i.ytimg.com/vi/ZPVgSKa4_nU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-02T06:41:47.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: '40. Bölüm  Önyargılar, 1'
+      url: >-
+        https://www.youtube.com/watch?v=ZPVgSKa4_nU&list=PL1445F25B103D7C31&index=41&t=0s
+      viewCount: '92'
 ---
 
