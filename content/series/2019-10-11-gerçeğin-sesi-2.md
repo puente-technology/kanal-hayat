@@ -138,5 +138,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=_PUo0_Ce9Ow&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=46&t=0s
       viewCount: '657'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        92-Gerçeğin Sesi - Kurtuluşumuzdan Emin Olmak 
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi "Gerçeğin Sesi" programını sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT26M6S
+      id: mwDvks1vIGU
+      imageURL: 'https://i.ytimg.com/vi/mwDvks1vIGU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-02-27T14:16:04.000Z'
+      tags: 'HRİSTİYAN,hristiyanlık'
+      title: 92-Gerçeğin Sesi - Kurtuluşumuzdan Emin Olmak
+      url: >-
+        https://www.youtube.com/watch?v=mwDvks1vIGU&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=47&t=0s
+      viewCount: '1033'
 ---
 
