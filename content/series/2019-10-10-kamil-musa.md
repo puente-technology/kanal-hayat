@@ -422,5 +422,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=BOfIDo31lwY&list=PL3CD8FD04C3D1F082&index=29&t=0s
       viewCount: '726'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT12S
+      id: kD5ndQ63rfQ
+      imageURL: 'https://i.ytimg.com/vi/kD5ndQ63rfQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T13:32:15.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Kadın Nedir - İlişkide Bencillik Bölüm 1
+      url: 'https://youtu.be/kD5ndQ63rfQ'
+      viewCount: '130'
 ---
 
