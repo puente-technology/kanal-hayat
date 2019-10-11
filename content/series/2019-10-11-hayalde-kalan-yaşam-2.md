@@ -361,5 +361,18 @@ episodes:
       title: 56 . Bölüm Bireyler Kendi İnançlarını Kendileri Seçebilirler mi?
       url: 'https://youtu.be/ndiob7GvBI4'
       viewCount: '125'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT29M7S
+      id: hiBbK6lThZM
+      imageURL: 'https://i.ytimg.com/vi/hiBbK6lThZM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-08-27T06:59:23.000Z'
+      tags: 'hristiyanlık,yanlış'
+      title: 57. Bölüm Hristiyanlık İnancı Hakkında Yanlış Bilinenler
+      url: 'https://youtu.be/hiBbK6lThZM'
+      viewCount: '5336'
 ---
 
