@@ -453,5 +453,39 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=BIzfWY3anJg&list=PLQfi14V3hH0K6tgqhFD6T-J5ECwWib_Zg&index=5&t=0s
       viewCount: '143'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        45. Bölüm Lütuf
+
+        38. Bölüm Elçiler
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi 
+
+        "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M28S
+      id: eDEG0vw86OM
+      imageURL: 'https://i.ytimg.com/vi/eDEG0vw86OM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-12-30T12:48:08.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Hakan Tastan
+      title: 45. Bölüm Lütuf
+      url: >-
+        https://www.youtube.com/watch?v=eDEG0vw86OM&list=PLQfi14V3hH0K6tgqhFD6T-J5ECwWib_Zg&index=6&t=0s
+      viewCount: '173'
 ---
 
