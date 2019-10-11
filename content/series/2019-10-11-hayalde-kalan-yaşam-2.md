@@ -400,5 +400,18 @@ episodes:
       title: 59. Bölüm Hristiyanlıkta İbadet
       url: 'https://youtu.be/U6G85NwQaXw'
       viewCount: '3199'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT27M51S
+      id: mx_M20MUnjU
+      imageURL: 'https://i.ytimg.com/vi/mx_M20MUnjU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-08-27T07:00:38.000Z'
+      tags: Oruç
+      title: 60. Bölüm Hristiyanlıkta Oruç
+      url: 'https://youtu.be/mx_M20MUnjU'
+      viewCount: '2049'
 ---
 
