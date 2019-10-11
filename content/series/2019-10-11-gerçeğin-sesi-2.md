@@ -519,5 +519,37 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=84H1Rz6IN3Y&list=PLQfi14V3hH0K6tgqhFD6T-J5ECwWib_Zg&index=7&t=0s
       viewCount: '245'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        47 .Bölüm Tapınak
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi 
+
+        "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M55S
+      id: br5TIy_Gf0I
+      imageURL: 'https://i.ytimg.com/vi/br5TIy_Gf0I/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-12-30T14:11:10.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Hakan Tastan
+      title: 47 .Bölüm Tapınak
+      url: >-
+        https://www.youtube.com/watch?v=br5TIy_Gf0I&list=PLQfi14V3hH0K6tgqhFD6T-J5ECwWib_Zg&index=8&t=0s
+      viewCount: '137'
 ---
 
