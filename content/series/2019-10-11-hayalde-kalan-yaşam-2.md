@@ -62,5 +62,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=zh2g9ILPjkI&list=PL1445F25B103D7C31&index=36&t=0s
       viewCount: '233'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT28M7S
+      id: pMjSl1Jx3S4
+      imageURL: 'https://i.ytimg.com/vi/pMjSl1Jx3S4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-02T06:36:17.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 36. Bölüm  Alkol Kullanımı
+      url: >-
+        https://www.youtube.com/watch?v=pMjSl1Jx3S4&list=PL1445F25B103D7C31&index=37&t=0s
+      viewCount: '132'
 ---
 
