@@ -838,5 +838,37 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=TCWfOEobYd8&list=PLQfi14V3hH0K6tgqhFD6T-J5ECwWib_Zg&index=17&t=0s
       viewCount: '615'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        58. Bölüm İlyas'ın Sunağı
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi 
+
+        "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M8S
+      id: 6QuWGeZ6TLY
+      imageURL: 'https://i.ytimg.com/vi/6QuWGeZ6TLY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-02T11:44:28.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Hakan Tastan
+      title: 'Gerçeğin Sesi - Bölüm İlyas''ın Sunağı [58]'
+      url: >-
+        https://www.youtube.com/watch?v=6QuWGeZ6TLY&list=PLQfi14V3hH0K6tgqhFD6T-J5ECwWib_Zg&index=18&t=0s
+      viewCount: '135'
 ---
 
