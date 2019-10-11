@@ -1,0 +1,49 @@
+---
+template: SeriesPageTemplate
+title: GERÇEĞİN SESİ 2
+publishDate: .
+coverImage: /images/uploads/7.jpg
+host: Hakan Taştan ile
+description: >-
+  Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap ışığında
+  gerçekleştirdi 
+
+  "Gerçeğin Sesi" programını Kanal Hayat ekranlarından veya youtube sayfamızdan
+  takip
+   edebilirsiniz.
+  Esen Kalın.
+targetGroup: Herkes
+language: '0'
+selectedCategories:
+  - Kutsal Kitap Dersleri
+  - Öğretim
+  - Rehberlik
+episodes:
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        97-Gerçeğin Sesi - "Kutsal Ruh'la Dolmak" Ne Demek? [97]
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi "Gerçeğin Sesi" programını sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M30S
+      id: SWeWAwlCQSY
+      imageURL: 'https://i.ytimg.com/vi/SWeWAwlCQSY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-05-29T06:54:29.000Z'
+      tags: 'hristiyan,incil,kilise,Kutsal Ruh''la Dolmak,Ne,Demek?'
+      title: 'Gerçeğin Sesi - "Kutsal Ruh''la Dolmak" Ne Demek? [97]'
+      url: 'https://youtu.be/SWeWAwlCQSY'
+      viewCount: '1680'
+---
+
