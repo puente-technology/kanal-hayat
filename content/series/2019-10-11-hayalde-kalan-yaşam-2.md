@@ -227,5 +227,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=feLyY2AxcI4&list=PL1445F25B103D7C31&index=47&t=0s
       viewCount: '47'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT28M46S
+      id: IMUw_Dy6Ei8
+      imageURL: 'https://i.ytimg.com/vi/IMUw_Dy6Ei8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-02T08:16:38.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 47. Bölüm  Toplumsal Bir Sorun Olarak Öfke ve Çözümleri
+      url: >-
+        https://www.youtube.com/watch?v=IMUw_Dy6Ei8&list=PL1445F25B103D7C31&index=48&t=0s
+      viewCount: '60'
 ---
 
