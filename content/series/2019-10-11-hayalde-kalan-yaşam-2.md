@@ -413,5 +413,18 @@ episodes:
       title: 60. Bölüm Hristiyanlıkta Oruç
       url: 'https://youtu.be/mx_M20MUnjU'
       viewCount: '2049'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT28M39S
+      id: MLL8k4VKkbk
+      imageURL: 'https://i.ytimg.com/vi/MLL8k4VKkbk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-09-10T06:49:49.000Z'
+      tags: Hristiyanlıkta Dua 1
+      title: 61. Bölüm Hristiyanlıkta Dua 1
+      url: 'https://youtu.be/MLL8k4VKkbk'
+      viewCount: '1165'
 ---
 
