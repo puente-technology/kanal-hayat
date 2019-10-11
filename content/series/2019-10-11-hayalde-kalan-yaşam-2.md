@@ -309,5 +309,18 @@ episodes:
       title: 52. Bölüm Engellilerimizi Korumak Ve Saymak
       url: 'https://youtu.be/Fdp25KTR58k'
       viewCount: '23'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT29M7S
+      id: Nv-wBSwm8PA
+      imageURL: 'https://i.ytimg.com/vi/Nv-wBSwm8PA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-18T09:03:21.000Z'
+      tags: şiddet
+      title: 53. Bölüm  Aile İçi ve Toplumsal Şiddet
+      url: 'https://youtu.be/Nv-wBSwm8PA'
+      viewCount: '112'
 ---
 
