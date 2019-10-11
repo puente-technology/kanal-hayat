@@ -192,5 +192,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=UL0JJ48QAS8&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=48&t=0s
       viewCount: '2994'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        90-Gerçeğin Sesi - İsa Mesih Kimdir? 
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi "Gerçeğin Sesi" programını sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M2S
+      id: dZqNZQnOCF0
+      imageURL: 'https://i.ytimg.com/vi/dZqNZQnOCF0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-29T12:27:54.000Z'
+      tags: '#isa,#mesih,#kimdir?,#gerçeğin,#sesi,#dağdaki,#vaaz,#incil'
+      title: 90-Gerçeğin Sesi - İsa Mesih Kimdir?
+      url: >-
+        https://www.youtube.com/watch?v=dZqNZQnOCF0&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=49&t=0s
+      viewCount: '7333'
 ---
 
