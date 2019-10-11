@@ -283,5 +283,18 @@ episodes:
       title: 50. Bölüm Boşanmanın Aile ve Toplumsal Etkileri
       url: 'https://youtu.be/ms8asYnG6ps'
       viewCount: '165'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT29M48S
+      id: OSAONEPpyx4
+      imageURL: 'https://i.ytimg.com/vi/OSAONEPpyx4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-18T08:50:34.000Z'
+      tags: korumak
+      title: 51. Bölüm Doğayı Ve Hayvanları Korumak
+      url: 'https://youtu.be/OSAONEPpyx4'
+      viewCount: '87'
 ---
 
