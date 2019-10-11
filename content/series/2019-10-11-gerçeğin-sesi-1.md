@@ -264,5 +264,18 @@ episodes:
       title: 'Gerçeğin Sesi - Davut''un Sözleri [73]'
       url: 'https://youtu.be/xxCzhvEvRyc'
       viewCount: '641'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT28M31S
+      id: xxCzhvEvRyc
+      imageURL: 'https://i.ytimg.com/vi/xxCzhvEvRyc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T14:36:59.000Z'
+      tags: 'davut,sözleri'
+      title: 'Gerçeğin Sesi - Davut''un Sözleri [73]'
+      url: 'https://youtu.be/xxCzhvEvRyc'
+      viewCount: '641'
 ---
 
