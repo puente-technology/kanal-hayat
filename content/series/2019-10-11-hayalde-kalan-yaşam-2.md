@@ -348,5 +348,18 @@ episodes:
       title: 55. Bölüm  Zina Konusu
       url: 'https://youtu.be/mRmV4jfIDfw'
       viewCount: '286'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT29M4S
+      id: ndiob7GvBI4
+      imageURL: 'https://i.ytimg.com/vi/ndiob7GvBI4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-08-27T06:59:38.000Z'
+      tags: Kendi İnançları
+      title: 56 . Bölüm Bireyler Kendi İnançlarını Kendileri Seçebilirler mi?
+      url: 'https://youtu.be/ndiob7GvBI4'
+      viewCount: '125'
 ---
 
