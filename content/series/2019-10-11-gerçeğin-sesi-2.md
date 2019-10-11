@@ -901,5 +901,36 @@ episodes:
       title: 'Gerçeğin Sesi - Elişa''nın Uşağı  ve Şunemli Kadın [59]'
       url: 'https://youtu.be/8ylF7aLredo'
       viewCount: '149'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        60. Bölüm İlyas ve Dul Kadın
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi 
+
+        "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M33S
+      id: GRYg8RuyqQE
+      imageURL: 'https://i.ytimg.com/vi/GRYg8RuyqQE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-02T12:09:12.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Hakan Tastan
+      title: 'Gerçeğin Sesi - İlyas ve Dul Kadın [60]'
+      url: 'https://youtu.be/GRYg8RuyqQE'
+      viewCount: '272'
 ---
 
