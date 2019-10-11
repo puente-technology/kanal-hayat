@@ -374,5 +374,18 @@ episodes:
       title: 57. Bölüm Hristiyanlık İnancı Hakkında Yanlış Bilinenler
       url: 'https://youtu.be/hiBbK6lThZM'
       viewCount: '5336'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT28M54S
+      id: DqCA2REhCao
+      imageURL: 'https://i.ytimg.com/vi/DqCA2REhCao/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-08-27T07:00:53.000Z'
+      tags: 'helal,haram'
+      title: 58. Bölüm Hristiyanlıkta Helal ve Haram Kavramı
+      url: 'https://youtu.be/DqCA2REhCao'
+      viewCount: '3964'
 ---
 
