@@ -335,5 +335,18 @@ episodes:
       title: 54. Bölüm  Yalan
       url: 'https://youtu.be/0ms0Buc1FI8'
       viewCount: '54'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT28M22S
+      id: mRmV4jfIDfw
+      imageURL: 'https://i.ytimg.com/vi/mRmV4jfIDfw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-18T09:03:56.000Z'
+      tags: zina
+      title: 55. Bölüm  Zina Konusu
+      url: 'https://youtu.be/mRmV4jfIDfw'
+      viewCount: '286'
 ---
 
