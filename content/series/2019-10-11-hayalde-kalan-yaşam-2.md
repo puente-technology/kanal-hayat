@@ -197,5 +197,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=t2cC5JKu1hE&list=PL1445F25B103D7C31&index=45&t=0s
       viewCount: '704'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT28M18S
+      id: jXnlpCQ0_bM
+      imageURL: 'https://i.ytimg.com/vi/jXnlpCQ0_bM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-02T08:01:36.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 45. Bölüm Milliyetçilik
+      url: >-
+        https://www.youtube.com/watch?v=jXnlpCQ0_bM&list=PL1445F25B103D7C31&index=46&t=0s
+      viewCount: '85'
 ---
 
