@@ -71,5 +71,32 @@ episodes:
       title: '96- Gerçeğin Sesi - Kutsal Ruhun Hedefleri [96]'
       url: 'https://youtu.be/zkSSijfYAoQ'
       viewCount: '533'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        95-Gerçeğin Sesi - Kutsal Ruh Nedir?  
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi "Gerçeğin Sesi" programını sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M23S
+      id: bFT81Dw_bnc
+      imageURL: 'https://i.ytimg.com/vi/bFT81Dw_bnc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-05-01T08:42:33.000Z'
+      tags: 'hristiyan,incil,kilise,#kutsal,#ruh'
+      title: 95-Gerçeğin Sesi - Kutsal Ruh Nedir?
+      url: >-
+        https://www.youtube.com/watch?v=bFT81Dw_bnc&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=44&t=0s
+      viewCount: '2578'
 ---
 
