@@ -92,5 +92,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=kjZcnZS1bRU&list=PL1445F25B103D7C31&index=38&t=0s
       viewCount: '53'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT28M51S
+      id: NtAX0cI_I_M
+      imageURL: 'https://i.ytimg.com/vi/NtAX0cI_I_M/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-02T06:44:26.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: '38. Bölüm Sosyal Bir Problem Olarak Borç ve Borçlanma, 2'
+      url: >-
+        https://www.youtube.com/watch?v=NtAX0cI_I_M&list=PL1445F25B103D7C31&index=39&t=0s
+      viewCount: '39'
 ---
 
