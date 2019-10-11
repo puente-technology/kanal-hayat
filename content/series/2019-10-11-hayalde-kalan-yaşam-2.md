@@ -242,5 +242,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=IMUw_Dy6Ei8&list=PL1445F25B103D7C31&index=48&t=0s
       viewCount: '60'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT28M30S
+      id: JorTrKAmkzo
+      imageURL: 'https://i.ytimg.com/vi/JorTrKAmkzo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-02T08:22:52.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi,Kitap
+      title: 48. Bölüm  Eleştiricilik
+      url: >-
+        https://www.youtube.com/watch?v=JorTrKAmkzo&list=PL1445F25B103D7C31&index=49&t=0s
+      viewCount: '111'
 ---
 
