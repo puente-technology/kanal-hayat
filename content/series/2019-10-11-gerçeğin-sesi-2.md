@@ -870,5 +870,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=6QuWGeZ6TLY&list=PLQfi14V3hH0K6tgqhFD6T-J5ECwWib_Zg&index=18&t=0s
       viewCount: '135'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        59. Bölüm  Elişa'nın Uşağı  ve Şunemli Kadın
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi 
+
+        "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M58S
+      id: 8ylF7aLredo
+      imageURL: 'https://i.ytimg.com/vi/8ylF7aLredo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-02T12:06:10.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Hakan Tastan
+      title: 'Gerçeğin Sesi - Elişa''nın Uşağı  ve Şunemli Kadın [59]'
+      url: 'https://youtu.be/8ylF7aLredo'
+      viewCount: '149'
 ---
 
