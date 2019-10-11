@@ -257,5 +257,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=JorTrKAmkzo&list=PL1445F25B103D7C31&index=49&t=0s
       viewCount: '111'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT28M11S
+      id: P76HZD61N5s
+      imageURL: 'https://i.ytimg.com/vi/P76HZD61N5s/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-18T08:54:33.000Z'
+      tags: saygı
+      title: 49. Bölüm Anne Babamıza Saygı
+      url: 'https://youtu.be/P76HZD61N5s'
+      viewCount: '44'
 ---
 
