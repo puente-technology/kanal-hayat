@@ -32,5 +32,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=4Z3J0w5wuhg&list=PL1445F25B103D7C31&index=34&t=0s
       viewCount: '343'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT28M29S
+      id: 1M74t6go_AU
+      imageURL: 'https://i.ytimg.com/vi/1M74t6go_AU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-14T09:02:25.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 34. Bölüm Lanet ve Acı Sözler
+      url: >-
+        https://www.youtube.com/watch?v=1M74t6go_AU&list=PL1445F25B103D7C31&index=35&t=0s
+      viewCount: '179'
 ---
 
