@@ -212,5 +212,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=jXnlpCQ0_bM&list=PL1445F25B103D7C31&index=46&t=0s
       viewCount: '85'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT28M18S
+      id: feLyY2AxcI4
+      imageURL: 'https://i.ytimg.com/vi/feLyY2AxcI4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-02T08:19:05.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi,Rab,Kurtarıcı,İncil,Kutsal,Kitap,Vahiy
+      title: 46. Bölüm  Toplumsal Bir Sorun Olarak Öfke
+      url: >-
+        https://www.youtube.com/watch?v=feLyY2AxcI4&list=PL1445F25B103D7C31&index=47&t=0s
+      viewCount: '47'
 ---
 
