@@ -381,5 +381,18 @@ episodes:
       title: 'Gerçeğin Sesi - Kurtuluş [83]'
       url: 'https://youtu.be/gsXeg87b-9c'
       viewCount: '364'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT29M2S
+      id: Uht41kaPD7M
+      imageURL: 'https://i.ytimg.com/vi/Uht41kaPD7M/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T13:41:21.000Z'
+      tags: 'şifa,veren,rab'
+      title: 'Gerçeğin Sesi - Şifa Veren Rab İsa [84]'
+      url: 'https://youtu.be/Uht41kaPD7M'
+      viewCount: '3393'
 ---
 
