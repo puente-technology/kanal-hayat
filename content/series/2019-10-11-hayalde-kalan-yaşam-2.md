@@ -387,5 +387,18 @@ episodes:
       title: 58. Bölüm Hristiyanlıkta Helal ve Haram Kavramı
       url: 'https://youtu.be/DqCA2REhCao'
       viewCount: '3964'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT28M50S
+      id: U6G85NwQaXw
+      imageURL: 'https://i.ytimg.com/vi/U6G85NwQaXw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-08-27T06:59:44.000Z'
+      tags: İbadet
+      title: 59. Bölüm Hristiyanlıkta İbadet
+      url: 'https://youtu.be/U6G85NwQaXw'
+      viewCount: '3199'
 ---
 
