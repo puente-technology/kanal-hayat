@@ -327,5 +327,38 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=q-DdYJYra4A&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=53&t=0s
       viewCount: '404'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        41. Bölüm Yeniden Doğmak
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi 
+
+        "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat.tv
+
+        https://twitter.com/kanalhayat
+      duration: PT29M12S
+      id: K01v3CKX68w
+      imageURL: 'https://i.ytimg.com/vi/K01v3CKX68w/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-09-02T13:14:54.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Hakan Tastan
+      title: 41. Bölüm Yeniden Doğmak
+      url: >-
+        https://www.youtube.com/watch?v=K01v3CKX68w&list=PLQfi14V3hH0K6tgqhFD6T-J5ECwWib_Zg&index=2&t=0s
+      viewCount: '208'
 ---
 
