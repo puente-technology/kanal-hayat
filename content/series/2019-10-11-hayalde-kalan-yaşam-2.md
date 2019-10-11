@@ -107,5 +107,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=NtAX0cI_I_M&list=PL1445F25B103D7C31&index=39&t=0s
       viewCount: '39'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT28M19S
+      id: 7oxip6-f5mQ
+      imageURL: 'https://i.ytimg.com/vi/7oxip6-f5mQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-02T06:40:46.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: 39. Bölüm  Dedikodu
+      url: >-
+        https://www.youtube.com/watch?v=7oxip6-f5mQ&list=PL1445F25B103D7C31&index=40&t=0s
+      viewCount: '41'
 ---
 
