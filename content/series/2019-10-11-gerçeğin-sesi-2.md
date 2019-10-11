@@ -111,5 +111,32 @@ episodes:
       title: 'Gerçeğin Sesi - Nasıl ve Neden Dua Edilir  [94]'
       url: 'https://youtu.be/yvTH_CDG3uE'
       viewCount: '807'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        93-Gerçeğin Sesi - Kutsal Yazıları Neden Okumalıyız 
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi "Gerçeğin Sesi" programını sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT24M50S
+      id: _PUo0_Ce9Ow
+      imageURL: 'https://i.ytimg.com/vi/_PUo0_Ce9Ow/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-04-02T19:22:51.000Z'
+      tags: 'hristiyan,incil,kilise'
+      title: 93-Gerçeğin Sesi - Kutsal Yazıları Neden Okumalıyız
+      url: >-
+        https://www.youtube.com/watch?v=_PUo0_Ce9Ow&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=46&t=0s
+      viewCount: '657'
 ---
 
