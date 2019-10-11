@@ -391,5 +391,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=mynw3UUWibo&list=PLQfi14V3hH0K6tgqhFD6T-J5ECwWib_Zg&index=3&t=0s
       viewCount: '142'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        43. Bölüm Ruhsal Savaş
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi 
+
+        "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat.tv
+      duration: PT28M32S
+      id: 1Ir2bjJOapQ
+      imageURL: 'https://i.ytimg.com/vi/1Ir2bjJOapQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-12-30T12:48:08.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Hakan Tastan
+      title: 43. Bölüm Ruhsal Savaş
+      url: >-
+        https://www.youtube.com/watch?v=1Ir2bjJOapQ&list=PLQfi14V3hH0K6tgqhFD6T-J5ECwWib_Zg&index=4&t=0s
+      viewCount: '204'
 ---
 
