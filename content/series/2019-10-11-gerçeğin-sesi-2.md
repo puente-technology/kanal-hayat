@@ -273,5 +273,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=EQ5LkaWJafU&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=51&t=0s
       viewCount: '7655'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        87-Gerçeğin Sesi - Dağdaki Vaaz
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi "Gerçeğin Sesi" programını sayfamızdan takip
+        edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M13S
+      id: QwEh2Dx5T5A
+      imageURL: 'https://i.ytimg.com/vi/QwEh2Dx5T5A/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T13:42:54.000Z'
+      tags: '#gerçeğin,#sesi,#dağdaki,#vaaz'
+      title: 87-Gerçeğin Sesi - Dağdaki Vaaz
+      url: >-
+        https://www.youtube.com/watch?v=QwEh2Dx5T5A&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh&index=52&t=0s
+      viewCount: '1157'
 ---
 
