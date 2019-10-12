@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster');
 
-#carousel {
+#player-carousel {
     position: absolute;
     height: 200px;
     width: 810px;
@@ -16,12 +16,12 @@
     border: none;
 }
 
-.arrow-left {
+.arrow-left-programmlar {
     left: 60px;
 }
 
 
-.arrow-right {
+.arrow-right-programmlar {
     left: 935px;
     transform: rotate(180deg);
 }
@@ -72,7 +72,7 @@ $level1-left: 125px;
 
 .left-enter {
     opacity: 0;
-    left: $level1-left - $level1-width;
+    left: 0px;
     height: $level1-height - 30;
     width: $level1-width - 20;
     line-height: $level1-height - 30;
@@ -178,8 +178,63 @@ $level1-left: 125px;
     display: flex;
 }
 
-@media (max-width: 768px) {
-    #carousel{
+@media (max-width: 800px) {
+    #player-carousel{
         left: -99px;
     } 
+    .arrow-right-programmlar {
+        left: 765px;
+    }
+    .arrow-left-programmlar {
+        left: 70px;
+    }
+}
+
+@media (max-width: 576px) {
+
+    .info {
+        top: 60px;
+        padding-left: 0px;
+    }
+
+    #player-carousel{
+        left: -75px;
+    }
+
+    .arrow {
+        margin-top: 25px !important;
+    }
+    .arrow-left-programmlar {
+        left: 70px;
+    }
+
+    .arrow-right-programmlar {
+        left: 385px;;
+    }
+
+    .EpisodeVideoInfo {
+        height: 100px;
+        width: 140px;
+    }
+    .item {
+        height: 100px;
+        width: 140px;
+    }
+    .level0 {
+        left: 300px;
+    }
+    .level-1 {
+        left: 490px;
+    }
+    .level1 {
+        left: 125px;
+    }
+    .left-enter.left-enter-active {
+       left: 110px;
+    }
+}
+@media (max-width: 320px){
+    .arrow-right-programmlar {
+        left: 340px !important;
+    }
 }

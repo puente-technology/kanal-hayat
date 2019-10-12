@@ -505,6 +505,10 @@ body {
     font-size: 11px;
     width: 85px;
     height: 30px;
+    &.light{
+      text-align: center;
+      padding: 0px;
+    }
   }
   .slide__caption--title {
     font-size: 12px;

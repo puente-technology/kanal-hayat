@@ -88,7 +88,7 @@ class Carousel extends Component {
   render() {
     const { direction } = this.state
     return (
-      <div id="carousel" className="noselect">
+      <div id="home-carousel" className="noselect">
         <button type="button" className="arrow arrow-left" onClick={this.leftClick}><img className="arrow-img" src={arrovSvg} alt="LeftArrow" /></button>
         <div style={{ display: 'flex' }}>
           <ReactCSSTransitionGroup
