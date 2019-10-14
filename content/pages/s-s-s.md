@@ -276,8 +276,10 @@ questions:
           url: 'https://www.youtube.com/watch?v=bFT81Dw_bnc'
           viewCount: '2544'
   - answer: >-
-      4 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
+      Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık.. İncil Değiştirildi mi ve Kaç İncil Var? İncil'i Papazlar
+      mı değiştirdi? Tanrı sözünü koruyamadı mı? 
     question: İncil Değiştirildi mi?
     videos:
       - guests: .
