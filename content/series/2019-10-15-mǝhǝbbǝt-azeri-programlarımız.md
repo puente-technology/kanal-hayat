@@ -72,5 +72,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=0IrRkqNC9wo&list=PLB89F99B2B1B2BD7A&index=4&t=0s
       viewCount: '230'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT27M44S
+      id: BP-sSgBETpY
+      imageURL: 'https://i.ytimg.com/vi/BP-sSgBETpY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-05T08:59:36.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Mǝhǝbbǝt 4. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=BP-sSgBETpY&list=PLB89F99B2B1B2BD7A&index=5&t=0s
+      viewCount: '249'
 ---
 
