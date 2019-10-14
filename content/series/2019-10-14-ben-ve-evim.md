@@ -147,5 +147,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=pr2VJWTDXw0&list=PLC1288EB43D3BFE33&index=11&t=0s
       viewCount: '53'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M16S
+      id: okuuSk1aweg
+      imageURL: 'https://i.ytimg.com/vi/okuuSk1aweg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-17T07:50:43.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,intihar,etmek
+      title: Ben Ve Evim 24. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=okuuSk1aweg&list=PLC1288EB43D3BFE33&index=12&t=0s
+      viewCount: '50'
 ---
 
