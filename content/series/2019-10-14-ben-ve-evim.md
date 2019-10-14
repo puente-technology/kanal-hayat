@@ -177,5 +177,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Zrniv6iaXtA&list=PLC1288EB43D3BFE33&index=13&t=0s
       viewCount: '73'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M15S
+      id: AlQrGtJjkKM
+      imageURL: 'https://i.ytimg.com/vi/AlQrGtJjkKM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-17T08:02:53.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,intihar,etmek
+      title: Ben Ve Evim 26. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=AlQrGtJjkKM&list=PLC1288EB43D3BFE33&index=14&t=0s
+      viewCount: '54'
 ---
 
