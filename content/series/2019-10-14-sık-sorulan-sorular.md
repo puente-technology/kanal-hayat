@@ -81,5 +81,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=lXEuhBmplz8&list=PL0F4037BB8CE06990&index=8&t=0s
       viewCount: '1334'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Peygamber Tanrı'nın sözünü insana aktarır. İsa kimin sözlerini insana
+        duyurdu?
+      duration: PT56S
+      id: K4US6wc8vRI
+      imageURL: 'https://i.ytimg.com/vi/K4US6wc8vRI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2007-01-02T08:21:16.000Z'
+      tags: kamilmoussa
+      title: 'Soru 05: İsa''nın Diğer Peygamberlerden Farkı ne?'
+      url: >-
+        https://www.youtube.com/watch?v=K4US6wc8vRI&list=PL0F4037BB8CE06990&index=3&t=0s
+      viewCount: '1097'
 ---
 
