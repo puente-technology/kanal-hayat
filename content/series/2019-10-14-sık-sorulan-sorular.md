@@ -179,5 +179,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=i3Y5FjDkYP8&list=PL0F4037BB8CE06990&index=10&t=0s
       viewCount: '1088'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Soru 11 -  Kilisede neler olur?
+      duration: PT1M57S
+      id: '-lP080V58xQ'
+      imageURL: 'https://i.ytimg.com/vi/-lP080V58xQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-01T18:41:31.000Z'
+      tags: '11,Kilisede,neler,olur'
+      title: Soru 11 -  Kilisede neler olur?
+      url: >-
+        https://www.youtube.com/watch?v=-lP080V58xQ&list=PL0F4037BB8CE06990&index=12&t=0s
+      viewCount: '790'
 ---
 
