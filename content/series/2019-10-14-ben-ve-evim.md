@@ -432,5 +432,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=EKb4IyQD3fw&list=PLC1288EB43D3BFE33&index=30&t=0s
       viewCount: '46'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M30S
+      id: LhIKF8KBLgA
+      imageURL: 'https://i.ytimg.com/vi/LhIKF8KBLgA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-21T13:33:58.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 43. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=LhIKF8KBLgA&list=PLC1288EB43D3BFE33&index=31&t=0s
+      viewCount: '50'
 ---
 
