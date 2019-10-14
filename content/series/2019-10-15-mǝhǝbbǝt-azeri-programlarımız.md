@@ -53,5 +53,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=PmaOh-hkWUk&list=PLB89F99B2B1B2BD7A&index=3&t=0s
       viewCount: '228'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT30M1S
+      id: 0IrRkqNC9wo
+      imageURL: 'https://i.ytimg.com/vi/0IrRkqNC9wo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-05T08:38:21.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Mǝhǝbbǝt 3. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=0IrRkqNC9wo&list=PLB89F99B2B1B2BD7A&index=4&t=0s
+      viewCount: '230'
 ---
 
