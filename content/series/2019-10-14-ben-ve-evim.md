@@ -342,5 +342,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=d9p9kIpK3DU&list=PLC1288EB43D3BFE33&index=24&t=0s
       viewCount: '35'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M16S
+      id: AbqvMgL_n2c
+      imageURL: 'https://i.ytimg.com/vi/AbqvMgL_n2c/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-21T13:30:39.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 37. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=AbqvMgL_n2c&list=PLC1288EB43D3BFE33&index=25&t=0s
+      viewCount: '102'
 ---
 
