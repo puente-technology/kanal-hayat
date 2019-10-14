@@ -145,5 +145,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=M_jt3GaLPEE&list=PL0F4037BB8CE06990&index=5&t=0s
       viewCount: '2013'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Her dinin vecibeleri var. Bazen soruluyor: Hristiyanlık çok serbest bir
+        dine benzer. Yerine getirilmesi gereken şartları var mı?
+      duration: PT2M11S
+      id: 93qQsQCtbEc
+      imageURL: 'https://i.ytimg.com/vi/93qQsQCtbEc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2007-01-11T18:51:40.000Z'
+      tags: kamilmoussa
+      title: 'Soru 09: Hristiyanlığın Şartları Nelerdir?'
+      url: >-
+        https://www.youtube.com/watch?v=93qQsQCtbEc&list=PL0F4037BB8CE06990&index=2&t=0s
+      viewCount: '5439'
 ---
 
