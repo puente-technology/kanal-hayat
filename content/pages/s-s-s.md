@@ -1,21 +1,13 @@
 ---
 locale: en
 template: SSS
-slug: s-s-s
 title: S. S. S.
 questions:
   - answer: >-
       İsa Mesih’i özel kılan tam olarak nedir? İncil’de İsa Mesih hangi
-      kimliklere sahiptir?  Kutsal Kitap’ta okuduğumuz İsa Mesih’in kimliğini
-      oluşturan bazı unsurlar vardır. Bunlar temel olarak beş tanedir: Mesih,
-      Rab, Tanrı Oğlu, İnsan Oğlu ve Tanrı.Mesih İbranice’den gelmiş bir
-      kelimedir ve anlamı, “meshedilmiş olan”dır. Tanrı tarafından atanması ve
-      bereketlenmesi eylemidir.  Yahudiler, Davut soyundan gelecek olan Mesih’in
-      kendilerini Roma İmparatorluğu’nun baskı ve zulmünden kurtarıp Davut
-      zamanındaki görkemli, altın çağlarına kavuşturacak bir Kral, bir Mesih
-      bekliyorlardı. Ancak Mesih’in görevi sadece İsrail’i, Yahudileri kurtarmak
-      değil; tüm insanlığı günahın baskısı ve zulmünden kurtarıp Tanrı’yla
-      barıştırmaktı. 
+      kimliklere sahiptir?  İsa Mesih yaptığı mucizeler ve belirtileri kimin
+      gücüyle yaptı? Tanrı'nın Oğlu Ne demektir?Aşağıdaki programlarımızı
+      izleyerek aklınıza takılan sorulara cevap bulabilirsiniz.Esen Kalın.
     question: İsa Mesih Kimdir?
     videos:
       - guests: .
@@ -104,8 +96,10 @@ questions:
           url: 'https://www.youtube.com/watch?v=IKX6ppjV_V8'
           viewCount: '4318'
   - answer: >-
-      2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
+      Tanrı’nın Kimliği Nasıl Anlayabiliriz? Kutsal Kitap bize Tanrı’nın
+      Kimliğini açıklar mı ? Tanrı Kendini Kutsal Kitap’ta bize nasıl açıklıyor?
+      Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen
+      Kalın.
     question: Hristiyanlıkta Tanrı'nın Kimliği ?
     videos:
       - guests: .
