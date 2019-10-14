@@ -1,21 +1,16 @@
 ---
 locale: en
 template: SSS
-slug: s-s-s
 title: S. S. S.
 questions:
   - answer: >-
-      İsa Mesih’i özel kılan tam olarak nedir? İncil’de İsa Mesih hangi
-      kimliklere sahiptir?  Kutsal Kitap’ta okuduğumuz İsa Mesih’in kimliğini
-      oluşturan bazı unsurlar vardır. Bunlar temel olarak beş tanedir: Mesih,
-      Rab, Tanrı Oğlu, İnsan Oğlu ve Tanrı.Mesih İbranice’den gelmiş bir
-      kelimedir ve anlamı, “meshedilmiş olan”dır. Tanrı tarafından atanması ve
-      bereketlenmesi eylemidir.  Yahudiler, Davut soyundan gelecek olan Mesih’in
-      kendilerini Roma İmparatorluğu’nun baskı ve zulmünden kurtarıp Davut
-      zamanındaki görkemli, altın çağlarına kavuşturacak bir Kral, bir Mesih
-      bekliyorlardı. Ancak Mesih’in görevi sadece İsrail’i, Yahudileri kurtarmak
-      değil; tüm insanlığı günahın baskısı ve zulmünden kurtarıp Tanrı’yla
-      barıştırmaktı. 
+      Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık..İsa Mesih’i özel kılan tam olarak nedir? İncil’de İsa
+      Mesih hangi kimliklere sahiptir?  İsa Mesih yaptığı mucizeler ve
+      belirtileri kimin gücüyle yaptı? Tanrı'nın Oğlu Ne demektir? Aşağıdaki
+      programlarımızı izleyerek aklınıza takılan sorulara cevap
+      bulabilirsiniz.Esen Kalın.
     question: İsa Mesih Kimdir?
     videos:
       - guests: .
@@ -104,8 +99,12 @@ questions:
           url: 'https://www.youtube.com/watch?v=IKX6ppjV_V8'
           viewCount: '4318'
   - answer: >-
-      2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
+      Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık..Tanrı’nın Kimliği Nasıl Anlayabiliriz? Kutsal Kitap bize
+      Tanrı’nın Kimliğini açıklar mı ? Tanrı Kendini Kutsal Kitap’ta bize nasıl
+      açıklıyor? Aşağıdaki programlarımızı izleyerek detaylı bilgi
+      edinebilirsiniz.Esen Kalın.
     question: Hristiyanlıkta Tanrı'nın Kimliği ?
     videos:
       - guests: .
@@ -189,8 +188,10 @@ questions:
           url: 'https://youtu.be/XLIMWH2r2yo'
           viewCount: '414'
   - answer: >-
-      3 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık..Teslis Nedir? Nereden Çıktı Bu "Üçlü Birlik"(Teslis)?
+      Hristiyanlar üç Tanrı'ya mı inanıyor? 
     question: Tevhid'te Teslis - Üçlü Birlik Nedir?
     videos:
       - guests: .
@@ -282,8 +283,11 @@ questions:
           url: 'https://www.youtube.com/watch?v=bFT81Dw_bnc'
           viewCount: '2544'
   - answer: >-
-      4 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
+      Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık.. İncil Değiştirildi mi ve Kaç İncil Var? İncil'i Papazlar
+      mı değiştirdi? Tanrı sözünü koruyamadı mı? Aşağıdaki programlarımızı
+      izleyebilirsiniz.Esen Kalın.
     question: İncil Değiştirildi mi?
     videos:
       - guests: .
@@ -361,26 +365,11 @@ questions:
           url: 'https://www.youtube.com/watch?v=3vZ5m_brbLM'
           viewCount: '8688'
   - answer: >-
-      Hristiyanlar tek Tanrı’ya inanırlar, ama tek olan Tanrı’nın; Baba, Oğul ve
-      Kutsal Ruh’u içerdiğine inanırlar.Tabi ki Tanrı'nın mübarek Ruhu'nu her
-      şeyin başında, Yaratılış’ın ilk paragrafında görebiliriz. Yaratılış 2’de,
-      “Yer boştu, yeryüzü şekilleri yoktu; engin karanlıklarla kaplıydı.
-      Tanrı’nın Ruhu suların üzerinde hareket ediyordu.” diye yazılmıştır. İşte
-      Kutsal Ruh; bu kaosun, boşluğun, biçimsizliğin içinden yaşam, düzen ve
-      güzellik yaratan Tanrı’nın Ruhu’dur.Kutsal Ruh değiştirir.Pentikost’ta
-      Ruh’un döküldüğü bu küçük grup kimlerden oluşmuştu? Bu kişiler İsa Mesih
-      hayattayken O’nun öğrencileriydi. Öğrencilerinin büyük bölümü İsa Mesih
-      yargılanıp çarmıha gerildiğinde korkudan kaçışmışlardı. Şimdi oradaki
-      insanlar bu küçük grubun, Ruh’un gücüyle dolup taştıklarını
-      görüyorlardı.Bundan yaklaşık 50 gün önce İsa Mesih’i inkar ettiği için
-      pişmanlık, hayal kırıklığı ve umutsuzlukla dizlerinin üzerinde hıçkıra
-      hıçkıra ağlayan Petrus; şimdi iman, cesaret ve güçle ayakları üzerine
-      durup aralarında muhtemelen İsa Mesih’i çarmıha gerenlerin ya da çarmıha
-      gerilmesini isteyenlerin de bulunduğu bir gruba,İncil Elçilerin İşleri
-      2.Bölüm. “Tanrı, sizin çarmıha gerdiğiniz İsa’yı hem Rab hem Mesih
-      yapmıştır. Tövbe edin, her biriniz İsa Mesih’in adıyla vaftiz olsun.
-      Böylece günahlarınız bağışlanacak ve Kutsal Ruh armağanını alacaksınız.”
-      diyor.
+      Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık..Kutsal Ruh nedir? Kutsal Ruh Tanrı mı?  Kutsal Ruh
+      öğretir mi ? Kutsal Ruhun amacı nedir? Aşağıdaki programlarımızı
+      izleyerek  detaylı bilgi edinebilirsiniz.Esen Kalın.
     question: Kutsal Ruh Nedir?
     videos:
       - guests: .
@@ -453,8 +442,13 @@ questions:
           url: 'https://www.youtube.com/watch?v=kFqoAbWGToo'
           viewCount: '6633'
   - answer: >-
-      5 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
+      Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık..Hristiyan ahlakı ve ibadeti nedir? Hristiyanların
+      evliliğe bakış açılarını merak ediyorum? Hristiyanların yalana bakış
+      açısını merak ediyorum? Hristiyanların günaha bakış açısını merak
+      ediyorum? Aşağıdaki programları izleyerek detaylı bilgi
+      edinebilirsiniz.Esen Kalın.
     question: Hristiyan Ahlakı ve İbadeti
     videos:
       - guests: .
@@ -531,20 +525,11 @@ questions:
           url: 'https://www.youtube.com/watch?v=j3L3xbl_1M0'
           viewCount: '84'
   - answer: >-
-      Dua Tanrı'yı hayatımıza çağırmak ve O’nunla konuşmaktır.O'na ihtiyacımızın
-      olduğunu bildirmektir.Tanrı isteklerimizde ciddi ve istekli olmamızı
-      isterken O’na boyun eğerek huzuruna çıkarız. “Senin istediğin olsun”
-      dileğini imanımızın eksikliğinden söylemiyoruz. Tanrı’nın dualarımızı
-      işitebileceğine ve dualarımıza cevap vereceğine iman ediyoruz. Yine de,
-      her duamız cevaplanmasa da, bu konuda imanla Tanrı’nın hikmetine
-      güveniyoruz. Her dileğimizi Tanrı’nın isteğine göre dilememiz gerektiğini
-      biliyoruz. O’nunla zaman geçirmeliyiz. Bize söylemek istediklerini
-      dinlemeyi öğrenmeliyiz. Bütün varlığı yaratan ve onlarla irtibata geçmek
-      için kendini açıklamış olan Tanrı’yla ruhsal bir cevaptır dua. Duanın
-      kapsamı yalnızca Tanrı’yla konuşmayı içermemektedir. Tanrı’yı çağırmak ve
-      O’nunla dertleşmek, sonra O’ndan ruhsal anlamda cevaplar beklemek, hiçbir
-      söz söylemeden, yürek derinliğinden O’nu yüceltmek O’na tapınmak ve bütün
-      gereksinimlerimizi O’ndan istemektir.
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık..Hristiyanlar nasıl dua ediyorlar? Hristiyanlar kime dua
+      ediyor? Gerçek dua nasıl ediliyor? Aşağıdaki programlarımızı izleyerek
+      detaylı bilgi edinebilirsiniz.Esen Kalın.
     question: Hristiyanlık'ta Nasıl Dua Edilir?
     videos:
       - guests: .
@@ -624,23 +609,11 @@ questions:
           url: 'https://www.youtube.com/watch?v=WxBiFjMSpDg'
           viewCount: '492'
   - answer: >-
-      Evlilik Kutsal Kitap Yaratılışı 2:23-24’de kaydedilmiştir: “Adem, ‘İşte,
-      bu benim kemiklerimden alınmış kemik, Etimden alınmış ettir’ dedi, ‘Ona
-      ‘Kadın denilecek, Çünkü o adamdan alındı.’ Bu nedenle adam annesini
-      babasını bırakıp karısına bağlanacak, ikisi tek beden olacak.” Tanrı
-      erkeği ve sonra da onu tamamlaması için kadını yarattı. Evlilik, “erkeğin
-      yalnız kalmasının iyi olmayışına” “çaresi”dir (Yaratılış 2:18).İncil 
-      Efesliler’deki ayetler Kutsal Kitap’a uygun başarılı bir evliliğe kaynak
-      olarak epey derindir. “Ey kadınlar, Rab’be bağımlı olduğunuz gibi,
-      kocalarınıza bağımlı olun. Çünkü Mesih bedenin kurtarıcısı olarak
-      kilisenin başı olduğu gibi, erkek de kadının başıdır” (Efesliler 5:22-23).
-      “Ey kocalar, Mesih kiliseyi nasıl sevip onun uğruna kendini feda ettiyse,
-      siz de karılarınızı öyle sevin” (Efesliler 5:25). “Aynı biçimde kocalar da
-      karılarını kendi bedenleri gibi sevmelidir. Karısını seven kendini sever.
-      Hiç kimse hiçbir zaman kendi bedeninden nefret etmemiştir. Tersine, onu
-      besler ve kayırır; tıpkı Mesih’in kiliseyi besleyip kayırdığı gibi”
-      (Efesliler 5:28-29). “Bunun için adam annesini babasını bırakıp karısına
-      bağlanacak, ikisi tek beden olacak” (Efesliler 5:31).
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık..Hristiyanlıkta evlilik nasıldır? Hristiyanlık’ta evlilik
+      ve aile olgusu nasıldır? İncil evlilik hakkında neler söylüyor? aşağıdaki
+      programlarımızı izleyerek detaylı bilgi edinebilirsiniz..Esen Kalın.
     question: 'Hristiyanlıkta Evlilik '
     videos:
       - guests: .
@@ -723,8 +696,11 @@ questions:
           url: 'https://www.youtube.com/watch?v=t0eMqamzg04'
           viewCount: '809'
   - answer: >-
-      9 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık..İznik Konseyinde ne oldu? İznik Konsili'nde Neler
+      Yaşandı? (İncil Sallama Olayının Perde Arkası) Aşağıdaki programlarımızı
+      izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.
     question: 'İznik Konseyinde Neler oldu? '
     videos:
       - guests: .
@@ -799,8 +775,11 @@ questions:
           url: 'https://youtu.be/WlqcAXZpo24'
           viewCount: '2009'
   - answer: >-
-      10 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık..Misyonerlik Nedir? Bölücülük mü?Misyonerler kimlerdir?
+      Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen
+      Kalın.
     question: Misyonerlerin Çıkardığı Savaşlar
     videos:
       - guests: .
@@ -892,40 +871,123 @@ questions:
           url: 'https://www.youtube.com/watch?v=eqx0ZkQeTDA'
           viewCount: '1490'
   - answer: >-
-      11 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Bütün Hristiyanlar neden ikiyüzlü?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık..Hristiyanlıkta kurtuluş kesin mi? İman ettiğimde
+      kurtulacağımı nasıl bilebilirim? Kurtuluş için bir şey yapmam gerekiyor
+      mu? Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen
+      Kalın.
+    question: Mesih'te kurtuluş kesin mi ? Kurtuluş için bir şey yapmam gerekiyor mu?
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Can Nuroğlu ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            Hey Gavur! Anlatsana...
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            Hristiyanlıkta Kurtuluş
 
-            Connect with us on social! 
+            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur!
+            Anlatsana." programını sayfamızdan takip edebilirsiniz. 
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            Esen Kalın.
 
-            Twitter: http://Bit.ly/LakewoodTW
+            http://kanalhayat.tv/
 
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT27M50S
+          id: wHEozNYEmhk
+          imageURL: 'https://i.ytimg.com/vi/wHEozNYEmhk/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
+          publishedAt: '2013-04-16T12:48:30.000Z'
           tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+            Kutsal,hristiyanlık,ahiret,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,kutsal
+            ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
+            butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
+            Hayat,Pusula,kiyamet gunu,gavur
+          title: Hey Gavur! Anlatsana - Hristiyanlıkta Kurtuluş 5.Bölüm
+          url: 'https://www.youtube.com/watch?v=wHEozNYEmhk'
+          viewCount: '4361'
+      - guests: .
+        host: Ahmet Güvener ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
+            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın
+            Müjdelediği Mesih" programını sayfamızdan takip edebilirsiniz.Esen
+            Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M18S
+          id: hIBiYtStrF4
+          imageURL: 'https://i.ytimg.com/vi/hIBiYtStrF4/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2019-07-15T17:47:53.000Z'
+          tags: 'kurtuluş,kesin,mi?'
+          title: >-
+            Tevrat'ın Müjdelediği Mesih - İsa Mesih'te Kurtuluş Kesin midir?
+            54.Bölüm
+          url: 'https://www.youtube.com/watch?v=hIBiYtStrF4'
+          viewCount: '285'
+      - guests: .
+        host: İhsan Özbek ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: Açıklama
+          duration: PT28M45S
+          id: EttXD7t66Go
+          imageURL: 'https://i.ytimg.com/vi/EttXD7t66Go/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2015-07-21T11:56:58.000Z'
+          tags: kurtuluş
+          title: 39. Bölüm Kurtuluş
+          url: 'https://www.youtube.com/watch?v=EttXD7t66Go'
+          viewCount: '55'
+      - guests: .
+        host: Kirkor Ağabaloğlu ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet"
+            programını Kanala Hayat ekranlarından veya youtube sayfamızdan takip
+            edebilirsiniz.
+
+            Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT27M52S
+          id: cCIz3FC6_yw
+          imageURL: 'https://i.ytimg.com/vi/cCIz3FC6_yw/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-10-30T13:37:51.000Z'
+          tags: >-
+            Kutsalliga,Davet,15,hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa
+            mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+            stanley,joyce meyer,ışık abla,güçlü erman,protestan,protestanlar
+          title: '15. Bölüm: Açığa Çıkan Kurtuluş'
+          url: 'https://www.youtube.com/watch?v=cCIz3FC6_yw'
+          viewCount: '675'
   - answer: >-
       12 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
