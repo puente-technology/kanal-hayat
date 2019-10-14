@@ -357,5 +357,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=AbqvMgL_n2c&list=PLC1288EB43D3BFE33&index=25&t=0s
       viewCount: '102'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M6S
+      id: sJTFQRR0EuA
+      imageURL: 'https://i.ytimg.com/vi/sJTFQRR0EuA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-21T13:31:26.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 38. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=sJTFQRR0EuA&list=PLC1288EB43D3BFE33&index=26&t=0s
+      viewCount: '104'
 ---
 
