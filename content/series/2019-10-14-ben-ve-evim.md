@@ -222,5 +222,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=YNT3TNqEUcM&list=PLC1288EB43D3BFE33&index=16&t=0s
       viewCount: '41'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M15S
+      id: yoC0h7nqFyU
+      imageURL: 'https://i.ytimg.com/vi/yoC0h7nqFyU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-17T07:55:00.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,intihar,etmek
+      title: Ben Ve Evim 29. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=yoC0h7nqFyU&list=PLC1288EB43D3BFE33&index=17&t=0s
+      viewCount: '51'
 ---
 
