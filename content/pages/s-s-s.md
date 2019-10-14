@@ -609,23 +609,11 @@ questions:
           url: 'https://www.youtube.com/watch?v=WxBiFjMSpDg'
           viewCount: '492'
   - answer: >-
-      Evlilik Kutsal Kitap Yaratılışı 2:23-24’de kaydedilmiştir: “Adem, ‘İşte,
-      bu benim kemiklerimden alınmış kemik, Etimden alınmış ettir’ dedi, ‘Ona
-      ‘Kadın denilecek, Çünkü o adamdan alındı.’ Bu nedenle adam annesini
-      babasını bırakıp karısına bağlanacak, ikisi tek beden olacak.” Tanrı
-      erkeği ve sonra da onu tamamlaması için kadını yarattı. Evlilik, “erkeğin
-      yalnız kalmasının iyi olmayışına” “çaresi”dir (Yaratılış 2:18).İncil 
-      Efesliler’deki ayetler Kutsal Kitap’a uygun başarılı bir evliliğe kaynak
-      olarak epey derindir. “Ey kadınlar, Rab’be bağımlı olduğunuz gibi,
-      kocalarınıza bağımlı olun. Çünkü Mesih bedenin kurtarıcısı olarak
-      kilisenin başı olduğu gibi, erkek de kadının başıdır” (Efesliler 5:22-23).
-      “Ey kocalar, Mesih kiliseyi nasıl sevip onun uğruna kendini feda ettiyse,
-      siz de karılarınızı öyle sevin” (Efesliler 5:25). “Aynı biçimde kocalar da
-      karılarını kendi bedenleri gibi sevmelidir. Karısını seven kendini sever.
-      Hiç kimse hiçbir zaman kendi bedeninden nefret etmemiştir. Tersine, onu
-      besler ve kayırır; tıpkı Mesih’in kiliseyi besleyip kayırdığı gibi”
-      (Efesliler 5:28-29). “Bunun için adam annesini babasını bırakıp karısına
-      bağlanacak, ikisi tek beden olacak” (Efesliler 5:31).
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık..Hristiyanlıkta evlilik nasıldır? Hristiyanlık’ta evlilik
+      ve aile olgusu nasıldır? İncil evlilik hakkında neler söylüyor? aşağıdaki
+      programlarımızı izleyerek detaylı bilgi edinebilirsiniz..Esen Kalın.
     question: 'Hristiyanlıkta Evlilik '
     videos:
       - guests: .
