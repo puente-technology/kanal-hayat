@@ -372,5 +372,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=sJTFQRR0EuA&list=PLC1288EB43D3BFE33&index=26&t=0s
       viewCount: '104'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M1S
+      id: XRsiiiTkGJE
+      imageURL: 'https://i.ytimg.com/vi/XRsiiiTkGJE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-21T13:37:42.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 39. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=XRsiiiTkGJE&list=PLC1288EB43D3BFE33&index=27&t=0s
+      viewCount: '41'
 ---
 
