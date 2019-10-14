@@ -183,8 +183,8 @@ questions:
           url: 'https://youtu.be/XLIMWH2r2yo'
           viewCount: '414'
   - answer: >-
-      3 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
+      Teslis Nedir? Nereden Çıktı Bu "Üçlü Birlik"(Teslis)? Hristiyanlar üç
+      Tanrı'ya mı inanıyor? 
     question: Tevhid'te Teslis - Üçlü Birlik Nedir?
     videos:
       - guests: .
