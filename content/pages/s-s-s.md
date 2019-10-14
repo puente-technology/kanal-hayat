@@ -279,7 +279,8 @@ questions:
       Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
       programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
       için yanıtladık.. İncil Değiştirildi mi ve Kaç İncil Var? İncil'i Papazlar
-      mı değiştirdi? Tanrı sözünü koruyamadı mı? 
+      mı değiştirdi? Tanrı sözünü koruyamadı mı? Aşağıdaki programlarımızı
+      izleyebilirsiniz.Esen Kalın.
     question: İncil Değiştirildi mi?
     videos:
       - guests: .
