@@ -871,9 +871,15 @@ questions:
           url: 'https://www.youtube.com/watch?v=eqx0ZkQeTDA'
           viewCount: '1490'
   - answer: >-
-      11 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Bütün Hristiyanlar neden ikiyüzlü?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık..Hristiyanlıkta kurtuluş kesin mi? İman ettiğimde
+      kurtulacağımı nasıl bilebilirim? Kurtuluş için bir şey yapmam gerekiyor
+      mu? Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen
+      Kalın.
+    question: >-
+      Hristiyanlıkta Kurtuluşu Doktrini Anlatabilir Misiniz? Kurtuluş için bir
+      şey yapmam gerekiyor mu?
     videos:
       - guests: Test
         host: Test
