@@ -64,5 +64,22 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=M1bMKNiqjm0&list=PL0F4037BB8CE06990&index=11&t=0s
       viewCount: '640'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Bir insana Tanrısal öznitelik vermekle günah işlemiş olmaz mıyız? O
+        zaman Hristiyan dünyası neden İsa'yı sadece bir peygamber, Tanrı'nın bir
+        habercisi olarak göremiyor?
+      duration: PT1M26S
+      id: lXEuhBmplz8
+      imageURL: 'https://i.ytimg.com/vi/lXEuhBmplz8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2007-01-01T21:34:19.000Z'
+      tags: kamilmoussa
+      title: 'Soru 04: İsa Sadece bir Peygamber değil mi?'
+      url: >-
+        https://www.youtube.com/watch?v=lXEuhBmplz8&list=PL0F4037BB8CE06990&index=8&t=0s
+      viewCount: '1334'
 ---
 
