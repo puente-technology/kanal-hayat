@@ -57,5 +57,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=NuS_O40k6ow&list=PLC1288EB43D3BFE33&index=4&t=0s
       viewCount: '188'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M11S
+      id: DGeUUeES2s8
+      imageURL: 'https://i.ytimg.com/vi/DGeUUeES2s8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-17T08:02:43.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,intihar,etmek
+      title: Ben Ve Evim 17. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=DGeUUeES2s8&list=PLC1288EB43D3BFE33&index=5&t=0s
+      viewCount: '79'
 ---
 
