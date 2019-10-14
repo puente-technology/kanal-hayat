@@ -402,5 +402,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=srlNXp81PiU&list=PLC1288EB43D3BFE33&index=28&t=0s
       viewCount: '46'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M30S
+      id: qGK1jgLdQF8
+      imageURL: 'https://i.ytimg.com/vi/qGK1jgLdQF8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-21T13:43:45.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 41. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=qGK1jgLdQF8&list=PLC1288EB43D3BFE33&index=29&t=0s
+      viewCount: '42'
 ---
 
