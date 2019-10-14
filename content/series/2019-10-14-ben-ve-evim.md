@@ -267,5 +267,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=7EatwfFr5Oo&list=PLC1288EB43D3BFE33&index=19&t=0s
       viewCount: '50'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M20S
+      id: AVNxlSCtUMU
+      imageURL: 'https://i.ytimg.com/vi/AVNxlSCtUMU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-21T13:26:41.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 32. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=AVNxlSCtUMU&list=PLC1288EB43D3BFE33&index=20&t=0s
+      viewCount: '68'
 ---
 
