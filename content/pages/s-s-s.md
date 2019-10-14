@@ -775,8 +775,11 @@ questions:
           url: 'https://youtu.be/WlqcAXZpo24'
           viewCount: '2009'
   - answer: >-
-      10 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık..Misyonerlik Nedir? Bölücülük mü?Misyonerler kimlerdir?
+      Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen
+      Kalın.
     question: Misyonerlerin Çıkardığı Savaşlar
     videos:
       - guests: .
