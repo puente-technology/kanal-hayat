@@ -525,20 +525,11 @@ questions:
           url: 'https://www.youtube.com/watch?v=j3L3xbl_1M0'
           viewCount: '84'
   - answer: >-
-      Dua Tanrı'yı hayatımıza çağırmak ve O’nunla konuşmaktır.O'na ihtiyacımızın
-      olduğunu bildirmektir.Tanrı isteklerimizde ciddi ve istekli olmamızı
-      isterken O’na boyun eğerek huzuruna çıkarız. “Senin istediğin olsun”
-      dileğini imanımızın eksikliğinden söylemiyoruz. Tanrı’nın dualarımızı
-      işitebileceğine ve dualarımıza cevap vereceğine iman ediyoruz. Yine de,
-      her duamız cevaplanmasa da, bu konuda imanla Tanrı’nın hikmetine
-      güveniyoruz. Her dileğimizi Tanrı’nın isteğine göre dilememiz gerektiğini
-      biliyoruz. O’nunla zaman geçirmeliyiz. Bize söylemek istediklerini
-      dinlemeyi öğrenmeliyiz. Bütün varlığı yaratan ve onlarla irtibata geçmek
-      için kendini açıklamış olan Tanrı’yla ruhsal bir cevaptır dua. Duanın
-      kapsamı yalnızca Tanrı’yla konuşmayı içermemektedir. Tanrı’yı çağırmak ve
-      O’nunla dertleşmek, sonra O’ndan ruhsal anlamda cevaplar beklemek, hiçbir
-      söz söylemeden, yürek derinliğinden O’nu yüceltmek O’na tapınmak ve bütün
-      gereksinimlerimizi O’ndan istemektir.
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık..Hristiyanlar nasıl dua ediyorlar? Hristiyanlar kime dua
+      ediyor? Gerçek dua nasıl ediliyor? Aşağıdaki programlarımızı izleyerek
+      detaylı bilgi edinebilirsiniz.Esen Kalın.
     question: Hristiyanlık'ta Nasıl Dua Edilir?
     videos:
       - guests: .
