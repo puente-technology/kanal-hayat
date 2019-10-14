@@ -129,5 +129,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=RtLtcQnaPbY&list=PL0F4037BB8CE06990&index=9&t=0s
       viewCount: '1269'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Yanlış algılamalar arasında Tanrı'nın üçte birliği başta gelir sanırım.
+        Bu yanlışı düzeltmek için....
+      duration: PT1M45S
+      id: M_jt3GaLPEE
+      imageURL: 'https://i.ytimg.com/vi/M_jt3GaLPEE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2007-01-11T18:45:18.000Z'
+      tags: kamilmoussa
+      title: 'Soru 08: Hristiyanlar üç ayrı Tanrı''ya mı inanıyorlar?'
+      url: >-
+        https://www.youtube.com/watch?v=M_jt3GaLPEE&list=PL0F4037BB8CE06990&index=5&t=0s
+      viewCount: '2013'
 ---
 
