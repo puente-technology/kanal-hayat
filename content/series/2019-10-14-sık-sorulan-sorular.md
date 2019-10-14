@@ -113,5 +113,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=mDHSSQUxG4k&list=PL0F4037BB8CE06990&index=7&t=0s
       viewCount: '10660'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Musa ve Davut gibi peygamberlerin birer kitabı var. İncil de İsa'nın
+        kitabıdır, ama değiştirilmedi mi?
+      duration: PT2M6S
+      id: RtLtcQnaPbY
+      imageURL: 'https://i.ytimg.com/vi/RtLtcQnaPbY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2007-01-03T15:06:15.000Z'
+      tags: kamilmoussa
+      title: 'Soru 07: Musa, Davut, İsa ve İncil'
+      url: >-
+        https://www.youtube.com/watch?v=RtLtcQnaPbY&list=PL0F4037BB8CE06990&index=9&t=0s
+      viewCount: '1269'
 ---
 
