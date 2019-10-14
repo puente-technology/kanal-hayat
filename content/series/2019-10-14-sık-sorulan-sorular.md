@@ -161,5 +161,23 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=93qQsQCtbEc&list=PL0F4037BB8CE06990&index=2&t=0s
       viewCount: '5439'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Bir toplumu, o topluma ait olan birisine göre değerlendiremeyiz. Ne de
+        bir kişiyi ait olduğu topluma göre değerlendirebiliriz. "Hristiyan"
+        adını taşıyan birisinin hayatına bakıp da tüm Hristiyanların aynı ahlak
+        değerlerine sahip olduklarını düşünmek yanlış değil mi?
+      duration: PT1M51S
+      id: i3Y5FjDkYP8
+      imageURL: 'https://i.ytimg.com/vi/i3Y5FjDkYP8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2007-01-11T19:10:22.000Z'
+      tags: kamilmoussa
+      title: 'Soru 10: Hristiyanlar Ahlaksız Yaşayabilirler mi?'
+      url: >-
+        https://www.youtube.com/watch?v=i3Y5FjDkYP8&list=PL0F4037BB8CE06990&index=10&t=0s
+      viewCount: '1088'
 ---
 
