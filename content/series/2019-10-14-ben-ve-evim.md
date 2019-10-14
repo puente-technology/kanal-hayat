@@ -192,5 +192,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=AlQrGtJjkKM&list=PLC1288EB43D3BFE33&index=14&t=0s
       viewCount: '54'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M20S
+      id: NAc-cdi4Pr4
+      imageURL: 'https://i.ytimg.com/vi/NAc-cdi4Pr4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-17T08:00:55.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,intihar,etmek
+      title: Ben Ve Evim 27. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=NAc-cdi4Pr4&list=PLC1288EB43D3BFE33&index=15&t=0s
+      viewCount: '36'
 ---
 
