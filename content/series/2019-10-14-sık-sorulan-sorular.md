@@ -193,5 +193,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=-lP080V58xQ&list=PL0F4037BB8CE06990&index=12&t=0s
       viewCount: '790'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Soru 12 - Vaftiz Nedir 01?
+      duration: PT1M54S
+      id: 0gvbApi0t2U
+      imageURL: 'https://i.ytimg.com/vi/0gvbApi0t2U/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-01T18:46:55.000Z'
+      tags: '12,Vaftiz,Nedir,01'
+      title: Soru 12 - Vaftiz Nedir 01?
+      url: >-
+        https://www.youtube.com/watch?v=0gvbApi0t2U&list=PL0F4037BB8CE06990&index=13&t=0s
+      viewCount: '2600'
 ---
 
