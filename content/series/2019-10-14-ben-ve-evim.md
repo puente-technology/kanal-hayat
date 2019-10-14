@@ -162,5 +162,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=okuuSk1aweg&list=PLC1288EB43D3BFE33&index=12&t=0s
       viewCount: '50'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M15S
+      id: Zrniv6iaXtA
+      imageURL: 'https://i.ytimg.com/vi/Zrniv6iaXtA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-17T07:50:50.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,intihar,etmek
+      title: Ben Ve Evim 25. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=Zrniv6iaXtA&list=PLC1288EB43D3BFE33&index=13&t=0s
+      viewCount: '73'
 ---
 
