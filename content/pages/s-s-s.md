@@ -442,8 +442,13 @@ questions:
           url: 'https://www.youtube.com/watch?v=kFqoAbWGToo'
           viewCount: '6633'
   - answer: >-
-      5 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
+      Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık..Hristiyan ahlakı ve ibadeti nedir? Hristiyanların
+      evliliğe bakış açılarını merak ediyorum? Hristiyanların yalana bakış
+      açısını merak ediyorum? Hristiyanların günaha bakış açısını merak
+      ediyorum? Aşağıdaki programları izleyerek detaylı bilgi
+      edinebilirsiniz.Esen Kalın.
     question: Hristiyan Ahlakı ve İbadeti
     videos:
       - guests: .
