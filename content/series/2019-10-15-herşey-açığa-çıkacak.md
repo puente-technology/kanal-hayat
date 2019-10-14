@@ -31,5 +31,18 @@ episodes:
       title: Bağcı Benzetmesi
       url: 'https://youtu.be/rboJV6sGA9k'
       viewCount: '574'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M15S
+      id: 7I8H-MpA0pg
+      imageURL: 'https://i.ytimg.com/vi/7I8H-MpA0pg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-22T05:26:48.000Z'
+      tags: 'para,benzetmesi'
+      title: Kaybolan Para Benzetmesi
+      url: 'https://youtu.be/7I8H-MpA0pg'
+      viewCount: '179'
 ---
 
