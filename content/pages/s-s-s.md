@@ -877,9 +877,7 @@ questions:
       kurtulacağımı nasıl bilebilirim? Kurtuluş için bir şey yapmam gerekiyor
       mu? Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen
       Kalın.
-    question: >-
-      Hristiyanlıkta Kurtuluşu Doktrini Anlatabilir Misiniz? Kurtuluş için bir
-      şey yapmam gerekiyor mu?
+    question: Mesih'te kurtuluş kesin mi ? Kurtuluş için bir şey yapmam gerekiyor mu?
     videos:
       - guests: .
         host: Can Nuroğlu ile
@@ -916,6 +914,34 @@ questions:
           title: Hey Gavur! Anlatsana - Hristiyanlıkta Kurtuluş 5.Bölüm
           url: 'https://www.youtube.com/watch?v=wHEozNYEmhk'
           viewCount: '4361'
+      - guests: .
+        host: Ahmet Güvener ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
+            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın
+            Müjdelediği Mesih" programını sayfamızdan takip edebilirsiniz.Esen
+            Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M18S
+          id: hIBiYtStrF4
+          imageURL: 'https://i.ytimg.com/vi/hIBiYtStrF4/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2019-07-15T17:47:53.000Z'
+          tags: 'kurtuluş,kesin,mi?'
+          title: >-
+            Tevrat'ın Müjdelediği Mesih - İsa Mesih'te Kurtuluş Kesin midir?
+            54.Bölüm
+          url: 'https://www.youtube.com/watch?v=hIBiYtStrF4'
+          viewCount: '285'
   - answer: >-
       12 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
