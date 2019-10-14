@@ -355,26 +355,8 @@ questions:
           url: 'https://www.youtube.com/watch?v=3vZ5m_brbLM'
           viewCount: '8688'
   - answer: >-
-      Hristiyanlar tek Tanrı’ya inanırlar, ama tek olan Tanrı’nın; Baba, Oğul ve
-      Kutsal Ruh’u içerdiğine inanırlar.Tabi ki Tanrı'nın mübarek Ruhu'nu her
-      şeyin başında, Yaratılış’ın ilk paragrafında görebiliriz. Yaratılış 2’de,
-      “Yer boştu, yeryüzü şekilleri yoktu; engin karanlıklarla kaplıydı.
-      Tanrı’nın Ruhu suların üzerinde hareket ediyordu.” diye yazılmıştır. İşte
-      Kutsal Ruh; bu kaosun, boşluğun, biçimsizliğin içinden yaşam, düzen ve
-      güzellik yaratan Tanrı’nın Ruhu’dur.Kutsal Ruh değiştirir.Pentikost’ta
-      Ruh’un döküldüğü bu küçük grup kimlerden oluşmuştu? Bu kişiler İsa Mesih
-      hayattayken O’nun öğrencileriydi. Öğrencilerinin büyük bölümü İsa Mesih
-      yargılanıp çarmıha gerildiğinde korkudan kaçışmışlardı. Şimdi oradaki
-      insanlar bu küçük grubun, Ruh’un gücüyle dolup taştıklarını
-      görüyorlardı.Bundan yaklaşık 50 gün önce İsa Mesih’i inkar ettiği için
-      pişmanlık, hayal kırıklığı ve umutsuzlukla dizlerinin üzerinde hıçkıra
-      hıçkıra ağlayan Petrus; şimdi iman, cesaret ve güçle ayakları üzerine
-      durup aralarında muhtemelen İsa Mesih’i çarmıha gerenlerin ya da çarmıha
-      gerilmesini isteyenlerin de bulunduğu bir gruba,İncil Elçilerin İşleri
-      2.Bölüm. “Tanrı, sizin çarmıha gerdiğiniz İsa’yı hem Rab hem Mesih
-      yapmıştır. Tövbe edin, her biriniz İsa Mesih’in adıyla vaftiz olsun.
-      Böylece günahlarınız bağışlanacak ve Kutsal Ruh armağanını alacaksınız.”
-      diyor.
+      Kutsal Ruh nedir? Kutsal Ruh Tanrı mı?  Kutsal Ruh öğretir mi ? Kutsal
+      Ruhun amacı nedir?
     question: Kutsal Ruh Nedir?
     videos:
       - guests: .
