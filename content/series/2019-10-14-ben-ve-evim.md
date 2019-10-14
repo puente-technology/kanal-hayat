@@ -72,5 +72,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=DGeUUeES2s8&list=PLC1288EB43D3BFE33&index=5&t=0s
       viewCount: '79'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M5S
+      id: fsEeJ5yhbaI
+      imageURL: 'https://i.ytimg.com/vi/fsEeJ5yhbaI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-17T08:17:52.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,intihar,etmek
+      title: Ben Ve Evim 18. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=fsEeJ5yhbaI&list=PLC1288EB43D3BFE33&index=6&t=0s
+      viewCount: '154'
 ---
 
