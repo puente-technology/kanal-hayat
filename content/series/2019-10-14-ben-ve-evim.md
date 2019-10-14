@@ -207,5 +207,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=NAc-cdi4Pr4&list=PLC1288EB43D3BFE33&index=15&t=0s
       viewCount: '36'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M11S
+      id: YNT3TNqEUcM
+      imageURL: 'https://i.ytimg.com/vi/YNT3TNqEUcM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-17T08:24:18.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,intihar,etmek
+      title: Ben Ve Evim 28. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=YNT3TNqEUcM&list=PLC1288EB43D3BFE33&index=16&t=0s
+      viewCount: '41'
 ---
 
