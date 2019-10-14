@@ -47,5 +47,22 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=CpjaxiahazQ&list=PL0F4037BB8CE06990&index=6&t=0s
       viewCount: '975'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İnsan Tanrı'yı kendi kısıtlılığı içinde görmeye devam ettikçe Onu tam
+        olarak anlayamayacaktır. Tanrı'nın insan bedeninde dünyamıza gelmiş
+        olması zor bir kavram olsa bile O Tanrı olduğu için bunu kabul etmeliyiz
+      duration: PT2M14S
+      id: M1bMKNiqjm0
+      imageURL: 'https://i.ytimg.com/vi/M1bMKNiqjm0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2007-01-01T18:47:35.000Z'
+      tags: kamilmoussa
+      title: 'Soru 03: Tanrı yetkisini kaybetmeden insa olabilir miydi?'
+      url: >-
+        https://www.youtube.com/watch?v=M1bMKNiqjm0&list=PL0F4037BB8CE06990&index=11&t=0s
+      viewCount: '640'
 ---
 
