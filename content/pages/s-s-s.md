@@ -4,10 +4,13 @@ template: SSS
 title: S. S. S.
 questions:
   - answer: >-
-      İsa Mesih’i özel kılan tam olarak nedir? İncil’de İsa Mesih hangi
-      kimliklere sahiptir?  İsa Mesih yaptığı mucizeler ve belirtileri kimin
-      gücüyle yaptı? Tanrı'nın Oğlu Ne demektir? Aşağıdaki programlarımızı
-      izleyerek aklınıza takılan sorulara cevap bulabilirsiniz.Esen Kalın.
+      Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
+      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      için yanıtladık..İsa Mesih’i özel kılan tam olarak nedir? İncil’de İsa
+      Mesih hangi kimliklere sahiptir?  İsa Mesih yaptığı mucizeler ve
+      belirtileri kimin gücüyle yaptı? Tanrı'nın Oğlu Ne demektir? Aşağıdaki
+      programlarımızı izleyerek aklınıza takılan sorulara cevap
+      bulabilirsiniz.Esen Kalın.
     question: İsa Mesih Kimdir?
     videos:
       - guests: .
