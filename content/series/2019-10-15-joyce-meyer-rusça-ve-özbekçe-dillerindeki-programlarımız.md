@@ -97,5 +97,26 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=-a6tuMrX3Cc&list=PLQfi14V3hH0LPSsF7WKMnxvUFQxf5V422&index=5&t=0s
       viewCount: '299'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: |-
+        http://kanalhayat.tv/
+        http://www.youtube.com/kanalhayatplay
+        https://www.facebook.com/kanalhayat
+        https://twitter.com/kanalhayat
+      duration: PT28M33S
+      id: Q6fwBMvHjlQ
+      imageURL: 'https://i.ytimg.com/vi/Q6fwBMvHjlQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2014-03-17T12:00:59.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Allah Sevgidir,Allahı
+        Tanımak,Özbek
+      title: 'Joyce Meyer, rusça /özbekçe 5'
+      url: >-
+        https://www.youtube.com/watch?v=Q6fwBMvHjlQ&list=PLQfi14V3hH0LPSsF7WKMnxvUFQxf5V422&index=6&t=0s
+      viewCount: '208'
 ---
 
