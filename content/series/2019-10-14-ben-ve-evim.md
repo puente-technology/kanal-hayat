@@ -252,5 +252,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Sdv6Qr6WylQ&list=PLC1288EB43D3BFE33&index=18&t=0s
       viewCount: '58'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M16S
+      id: 7EatwfFr5Oo
+      imageURL: 'https://i.ytimg.com/vi/7EatwfFr5Oo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-21T13:20:13.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 31. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=7EatwfFr5Oo&list=PLC1288EB43D3BFE33&index=19&t=0s
+      viewCount: '50'
 ---
 
