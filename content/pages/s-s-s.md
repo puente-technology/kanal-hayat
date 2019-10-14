@@ -942,6 +942,20 @@ questions:
             54.Bölüm
           url: 'https://www.youtube.com/watch?v=hIBiYtStrF4'
           viewCount: '285'
+      - guests: .
+        host: İhsan Özbek ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: Açıklama
+          duration: PT28M45S
+          id: EttXD7t66Go
+          imageURL: 'https://i.ytimg.com/vi/EttXD7t66Go/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2015-07-21T11:56:58.000Z'
+          tags: kurtuluş
+          title: 39. Bölüm Kurtuluş
+          url: 'https://www.youtube.com/watch?v=EttXD7t66Go'
+          viewCount: '55'
   - answer: >-
       12 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
