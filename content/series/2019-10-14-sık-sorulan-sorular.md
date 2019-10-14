@@ -97,5 +97,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=K4US6wc8vRI&list=PL0F4037BB8CE06990&index=3&t=0s
       viewCount: '1097'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Müslümanlar genelde Hristiyanların Kitabı olan İncil'in değiştirildiğine
+        inanırlar. Bu inancın tatmin edici bir gerekçesi var mı?
+      duration: PT2M18S
+      id: mDHSSQUxG4k
+      imageURL: 'https://i.ytimg.com/vi/mDHSSQUxG4k/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2007-01-02T16:46:14.000Z'
+      tags: kamilmoussa
+      title: 'Soru 06: İncil Değiştirildi mi?'
+      url: >-
+        https://www.youtube.com/watch?v=mDHSSQUxG4k&list=PL0F4037BB8CE06990&index=7&t=0s
+      viewCount: '10660'
 ---
 
