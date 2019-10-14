@@ -237,5 +237,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=yoC0h7nqFyU&list=PLC1288EB43D3BFE33&index=17&t=0s
       viewCount: '51'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M15S
+      id: Sdv6Qr6WylQ
+      imageURL: 'https://i.ytimg.com/vi/Sdv6Qr6WylQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-17T08:01:59.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,intihar,etmek
+      title: Ben Ve Evim 30. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=Sdv6Qr6WylQ&list=PLC1288EB43D3BFE33&index=18&t=0s
+      viewCount: '58'
 ---
 
