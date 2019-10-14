@@ -110,5 +110,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=LUsPCWC9CQ0&list=PLB89F99B2B1B2BD7A&index=6&t=0s
       viewCount: '181'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M51S
+      id: o1aTwwS9_wk
+      imageURL: 'https://i.ytimg.com/vi/o1aTwwS9_wk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-05T08:55:44.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Mǝhǝbbǝt 6. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=o1aTwwS9_wk&list=PLB89F99B2B1B2BD7A&index=7&t=0s
+      viewCount: '128'
 ---
 
