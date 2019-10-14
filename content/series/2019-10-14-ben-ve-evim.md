@@ -282,5 +282,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=AVNxlSCtUMU&list=PLC1288EB43D3BFE33&index=20&t=0s
       viewCount: '68'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M11S
+      id: pyEXiSmJRLY
+      imageURL: 'https://i.ytimg.com/vi/pyEXiSmJRLY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-21T13:31:32.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 33. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=pyEXiSmJRLY&list=PLC1288EB43D3BFE33&index=21&t=0s
+      viewCount: '47'
 ---
 
