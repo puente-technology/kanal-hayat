@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: Joyce Meyer (Rusça ve Özbekçe) Dillerindeki Programlarımız
+title: (Rusça ve Özbekçe) Programlarımız
 publishDate: .
 coverImage: /images/uploads/joyce-meyer-save-for-web.jpg
 host: Joyce Meyer ile
