@@ -704,5 +704,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=LiMD9rq2_dw&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=4&t=0s
       viewCount: '127'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M44S
+      id: SS7XxI30SHY
+      imageURL: 'https://i.ytimg.com/vi/SS7XxI30SHY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-15T12:34:47.000Z'
+      tags: alçakgönüllü
+      title: Derin Değişim - Neden Alçakgönüllü Olayım?
+      url: >-
+        https://www.youtube.com/watch?v=SS7XxI30SHY&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=5&t=0s
+      viewCount: '1122'
 ---
 
