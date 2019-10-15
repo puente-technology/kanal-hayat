@@ -254,5 +254,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=e3ZPJf4BcL4&list=PL902ABEBDFF147040&index=17&t=0s
       viewCount: '834'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: AtUV8zQbRuk
+      imageURL: 'https://i.ytimg.com/vi/AtUV8zQbRuk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-12-02T01:31:43.000Z'
+      tags: >-
+        her,işi,sevgi,ile,yapma,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 17- Her İşi Sevgi İle Yapmak
+      url: >-
+        https://www.youtube.com/watch?v=AtUV8zQbRuk&list=PL902ABEBDFF147040&index=18&t=0s
+      viewCount: '983'
 ---
 
