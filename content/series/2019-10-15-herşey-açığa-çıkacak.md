@@ -83,5 +83,18 @@ episodes:
       title: Kaybolan Oğul
       url: 'https://youtu.be/EzONOBp2SCM'
       viewCount: '139'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M21S
+      id: p-qN7G2j-30
+      imageURL: 'https://i.ytimg.com/vi/p-qN7G2j-30/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-21T07:04:57.000Z'
+      tags: göksel
+      title: Göksel Hazineler
+      url: 'https://youtu.be/p-qN7G2j-30'
+      viewCount: '230'
 ---
 
