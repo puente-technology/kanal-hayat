@@ -1,12 +1,12 @@
 ---
+slug: s-s-s
 locale: en
 template: SSS
-slug: s-s-s
 title: S. S. S.
 questions:
   - answer: >-
-      Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
       için yanıtladık..İsa Mesih’i özel kılan tam olarak nedir? İncil’de İsa
       Mesih hangi kimliklere sahiptir?  İsa Mesih yaptığı mucizeler ve
       belirtileri kimin gücüyle yaptı? Tanrı'nın Oğlu Ne demektir? Aşağıdaki
