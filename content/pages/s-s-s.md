@@ -1404,6 +1404,26 @@ questions:
           title: '5. Bölüm: Rab''bin Sofrası (Kominyon)'
           url: 'https://www.youtube.com/watch?v=-L84aCyBGxc'
           viewCount: '1621'
+      - guests: .
+        host: Işık Abla ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ' '
+          duration: PT28M32S
+          id: O7AExWtzk1I
+          imageURL: 'https://i.ytimg.com/vi/O7AExWtzk1I/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-02-20T12:50:08.000Z'
+          tags: >-
+            hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa
+            mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+            stanley,joyce meyer,ışık abla,güçlü
+            erman,protestan,protestanlar,zekeriya butros
+          title: 87. Bölüm  Rab'bin Sofrası
+          url: 'https://www.youtube.com/watch?v=O7AExWtzk1I'
+          viewCount: '356'
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
