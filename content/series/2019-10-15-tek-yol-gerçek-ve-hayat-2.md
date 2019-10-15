@@ -193,5 +193,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=o2bYP4y0Izo&list=PL902ABEBDFF147040&index=43&t=0s
       viewCount: '723'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: SijYICDak98
+      imageURL: 'https://i.ytimg.com/vi/SijYICDak98/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-04-19T10:16:04.000Z'
+      tags: >-
+        kaya,gibi,sarsılmaz,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 44- Kaya Gibi Sarsılmaz
+      url: >-
+        https://www.youtube.com/watch?v=SijYICDak98&list=PL902ABEBDFF147040&index=44&t=0s
+      viewCount: '907'
 ---
 
