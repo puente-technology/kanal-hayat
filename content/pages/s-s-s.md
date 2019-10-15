@@ -1091,6 +1091,32 @@ questions:
           title: 13. Bölüm (İsa'nın kurban edilmesi)
           url: 'https://www.youtube.com/watch?v=077Kd8FcflA'
           viewCount: '1187'
+      - guests: .
+        host: Ahmet Güvener ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
+            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın
+            Müjdelediği Mesih" programını sayfamızdan takip edebilirsiniz.Esen
+            Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M15S
+          id: 3jHwYZ63aXc
+          imageURL: 'https://i.ytimg.com/vi/3jHwYZ63aXc/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2017-09-20T09:59:00.000Z'
+          tags: 'kurban,mesih,isa'
+          title: Tevrat'ın Müjdelediği Mesih - Fısıh Kurbanı Mesih 38.Bölüm
+          url: 'https://www.youtube.com/watch?v=3jHwYZ63aXc'
+          viewCount: '382'
   - answer: >-
       14 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
