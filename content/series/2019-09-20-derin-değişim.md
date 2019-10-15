@@ -732,5 +732,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=G5Sp5ZMYe5k&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=6&t=0s
       viewCount: '271'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M17S
+      id: n3sMFlNIxZY
+      imageURL: 'https://i.ytimg.com/vi/n3sMFlNIxZY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-12-13T11:05:55.000Z'
+      tags: alçakgönüllüdür
+      title: Derin Değişim - Tanrı Alçakgönüllüdür
+      url: >-
+        https://www.youtube.com/watch?v=n3sMFlNIxZY&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=7&t=0s
+      viewCount: '150'
 ---
 
