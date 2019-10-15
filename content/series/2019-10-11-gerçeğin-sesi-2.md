@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: GERÇEĞİN SESİ 2
 publishDate: .
-coverImage: /images/uploads/7.jpg
+coverImage: /images/uploads/dsc01143.jpg
 host: Hakan Taştan ile
 popularity: '1'
 description: >-
