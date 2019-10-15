@@ -51,5 +51,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=dbQnzdn5wfg&list=PLQfi14V3hH0IGoqvFofi7BxsVxDa91Cdv&index=3&t=0s
       viewCount: '2786'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: 'http://www.kanalhayat.tv'
+      duration: PT20M58S
+      id: 9h4iqhacKc8
+      imageURL: 'https://i.ytimg.com/vi/9h4iqhacKc8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-12-23T14:00:20.000Z'
+      tags: >-
+        İsa Mesih iman gerçek inanç umut sevgi Hristiyan hıristiyan peygamber
+        İncil kutsal kitap kutsalkitap
+      title: Doğuş Bayramı 2013 Aralık (İstanbul)
+      url: >-
+        https://www.youtube.com/watch?v=9h4iqhacKc8&list=PLQfi14V3hH0IGoqvFofi7BxsVxDa91Cdv&index=4&t=0s
+      viewCount: '1770'
 ---
 
