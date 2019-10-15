@@ -189,9 +189,9 @@ questions:
           url: 'https://youtu.be/XLIMWH2r2yo'
           viewCount: '414'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık..Teslis Nedir? Nereden Çıktı Bu "Üçlü Birlik"(Teslis)?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık.Teslis Nedir? Nereden Çıktı Bu "Üçlü Birlik"(Teslis)?
       Hristiyanlar üç Tanrı'ya mı inanıyor? 
     question: Tevhid'te Teslis - Üçlü Birlik Nedir?
     videos:
