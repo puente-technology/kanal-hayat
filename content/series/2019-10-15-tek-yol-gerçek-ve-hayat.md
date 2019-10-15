@@ -331,5 +331,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=VzsG-e4UZp8&list=PL902ABEBDFF147040&index=22&t=0s
       viewCount: '2644'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT59M29S
+      id: 8SJASbPAy44
+      imageURL: 'https://i.ytimg.com/vi/8SJASbPAy44/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-12-02T15:24:15.000Z'
+      tags: >-
+        bekarlık,sultanlık,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 22- Bekarlık Sultanlık mı?
+      url: >-
+        https://www.youtube.com/watch?v=8SJASbPAy44&list=PL902ABEBDFF147040&index=23&t=0s
+      viewCount: '1484'
 ---
 
