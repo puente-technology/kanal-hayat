@@ -13,6 +13,11 @@
     margin-top: 60px;
     background: transparent;
     border: none;
+    outline: none;
+    cursor: pointer;
+}
+.carousel-arrow {
+    cursor: pointer;
 }
 
 .arrow-left {

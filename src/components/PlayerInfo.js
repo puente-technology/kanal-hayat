@@ -163,6 +163,7 @@ class PlayerInfoExpand extends Component {
               width: '23px',
               height: '40px',
               border: 'none',
+              cursor: 'pointer',
             }}
           />
         </div>

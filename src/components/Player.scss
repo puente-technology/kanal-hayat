@@ -447,7 +447,7 @@ $track-border-width: 0px;
 		#reactPlayer {
 			&.collapsed {
 				margin: 30px auto !important;
-				width: auto !important;
+				width: 68% !important;
 				height: 500px !important;
 			}
 		}	
@@ -471,7 +471,7 @@ $track-border-width: 0px;
 	}
 	#player.collapsed.show.isBig {
 		.player-controls-container.collapsed {
-			width: auto !important;
+			width: 68% !important;
 			margin: 48px auto !important;
 			top: 452px !important;
 		}

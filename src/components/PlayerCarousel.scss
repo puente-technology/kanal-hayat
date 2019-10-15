@@ -240,11 +240,15 @@ $level1-left: 125px;
     .player-info {
         display: none;
     }
+    
 }
 
 @media only screen and (max-width: 440px) and (min-width: 400px) {
     .arrow-right-programmlar {
         left: 440px;
+    }
+    .carousel-arrow {
+        width: 29px;
     }
 }
 
