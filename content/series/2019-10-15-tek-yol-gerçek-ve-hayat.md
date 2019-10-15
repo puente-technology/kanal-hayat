@@ -134,5 +134,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=g9viXN3sIog&list=PL902ABEBDFF147040&index=9&t=0s
       viewCount: '1437'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: uDIBv1Nt5wA
+      imageURL: 'https://i.ytimg.com/vi/uDIBv1Nt5wA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-23T08:22:14.000Z'
+      tags: >-
+        akıl,yaşta,değil,baştadır,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 9- Akıl Yaşta Değil Baştadır
+      url: >-
+        https://www.youtube.com/watch?v=uDIBv1Nt5wA&list=PL902ABEBDFF147040&index=10&t=0s
+      viewCount: '625'
 ---
 
