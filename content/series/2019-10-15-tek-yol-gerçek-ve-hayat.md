@@ -224,5 +224,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=l54Aarj7rNk&list=PL902ABEBDFF147040&index=15&t=0s
       viewCount: '597'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M34S
+      id: a-7AApCiRz4
+      imageURL: 'https://i.ytimg.com/vi/a-7AApCiRz4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-12-20T02:00:25.000Z'
+      tags: >-
+        sevgi,iyileştirir,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 15- Sevgi İyileştirir
+      url: >-
+        https://www.youtube.com/watch?v=a-7AApCiRz4&list=PL902ABEBDFF147040&index=16&t=0s
+      viewCount: '2434'
 ---
 
