@@ -662,5 +662,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=rQChmv7aTbM&list=PLQfi14V3hH0JddI2DibX3bd5ZgqNvUcAO&index=21&t=0s
       viewCount: '463'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT26M6S
+      id: MvE5xGfHVmA
+      imageURL: 'https://i.ytimg.com/vi/MvE5xGfHVmA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-15T12:32:34.000Z'
+      tags: değişim
+      title: Derin Değişim - Zarar Vermiyorum
+      url: >-
+        https://www.youtube.com/watch?v=MvE5xGfHVmA&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=2&t=0s
+      viewCount: '250'
 ---
 
