@@ -1038,40 +1038,85 @@ questions:
           url: 'https://youtu.be/DanYnWZnKJY'
           viewCount: '430'
   - answer: >-
-      13 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Hristiyan meditasyonu nedir?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Hristiyanlıkta kurban var mı ? Son kurban nedir? İsa
+      Mesih neden çarmıha gitti?
+    question: Hristiyanlıkta kurban var mı ? Son kurban nedir?
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: 'Serdar Dedeoğlu ve Gülhan ile '
+        targetGroup: Herkes
+        youtubeURL:
+          description: Açıklama
+          duration: PT28M11S
+          id: HCPthLmYOGs
+          imageURL: 'https://i.ytimg.com/vi/HCPthLmYOGs/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2015-05-29T06:47:17.000Z'
+          tags: çarmıh
+          title: 20. Bölüm Kurban ve Çarmıh
+          url: 'https://www.youtube.com/watch?v=HCPthLmYOGs'
+          viewCount: '333'
+      - guests: .
+        host: Zekeriya Butrus ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize
+            sorduğumuz pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı
+            sayfamızdan takip edebilirsiniz.
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            Tanrı var mı ? 
 
-            Connect with us on social! 
+            Tanrı Oğlu Ne Demek?
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            Hristiyanlık Kavramı Nedir?
 
-            Twitter: http://Bit.ly/LakewoodTW
+            http://kanalhayat.tv/
 
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT29M1S
+          id: 077Kd8FcflA
+          imageURL: 'https://i.ytimg.com/vi/077Kd8FcflA/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
+          publishedAt: '2011-11-10T11:15:51.000Z'
           tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+            Hristiyanlık,hristiyan,hz
+            isa,peygamber,allah,tanrı,kiyamet,ahiret,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,İman,Hz.,İsa,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+          title: 13. Bölüm (İsa'nın kurban edilmesi)
+          url: 'https://www.youtube.com/watch?v=077Kd8FcflA'
+          viewCount: '1187'
+      - guests: .
+        host: Ahmet Güvener ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
+            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın
+            Müjdelediği Mesih" programını sayfamızdan takip edebilirsiniz.Esen
+            Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M15S
+          id: 3jHwYZ63aXc
+          imageURL: 'https://i.ytimg.com/vi/3jHwYZ63aXc/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2017-09-20T09:59:00.000Z'
+          tags: 'kurban,mesih,isa'
+          title: Tevrat'ın Müjdelediği Mesih - Fısıh Kurbanı Mesih 38.Bölüm
+          url: 'https://www.youtube.com/watch?v=3jHwYZ63aXc'
+          viewCount: '382'
   - answer: >-
       14 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
