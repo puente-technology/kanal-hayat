@@ -1492,5 +1492,19 @@ questions:
           title: Kilisenin Doğuşu - Kilise nedir? 1.Bölüm
           url: 'https://www.youtube.com/watch?v=naah61yDqAY'
           viewCount: '7157'
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: Gerçeğin Sesi - Hakan Taştan
+          duration: PT26M9S
+          id: 4P0CBQxrVAo
+          imageURL: 'https://i.ytimg.com/vi/4P0CBQxrVAo/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2018-05-29T07:59:18.000Z'
+          tags: kilise nedir?
+          title: 'Gerçeğin Sesi - "Kilise" aslında bir BİNA değildir [103]'
+          url: 'https://www.youtube.com/watch?v=4P0CBQxrVAo'
+          viewCount: '198'
 ---
 
