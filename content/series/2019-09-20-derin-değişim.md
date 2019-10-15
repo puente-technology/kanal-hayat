@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Derin Değişim
 publishDate: .
-coverImage: /images/uploads/derin-değişim-banu-çelikk.jpg
+coverImage: /images/uploads/derin-değişim-kapak.png
 host: Banu Çelik
 popularity: '5'
 description: >-
@@ -662,5 +662,145 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=rQChmv7aTbM&list=PLQfi14V3hH0JddI2DibX3bd5ZgqNvUcAO&index=21&t=0s
       viewCount: '463'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT26M6S
+      id: MvE5xGfHVmA
+      imageURL: 'https://i.ytimg.com/vi/MvE5xGfHVmA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-15T12:32:34.000Z'
+      tags: değişim
+      title: Derin Değişim - Zarar Vermiyorum
+      url: >-
+        https://www.youtube.com/watch?v=MvE5xGfHVmA&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=2&t=0s
+      viewCount: '250'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M40S
+      id: XiOwfsx-Ujk
+      imageURL: 'https://i.ytimg.com/vi/XiOwfsx-Ujk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-15T12:33:09.000Z'
+      tags: değişim
+      title: Derin Değişim - Sır Saklıyorum
+      url: >-
+        https://www.youtube.com/watch?v=XiOwfsx-Ujk&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=3&t=0s
+      viewCount: '253'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M8S
+      id: LiMD9rq2_dw
+      imageURL: 'https://i.ytimg.com/vi/LiMD9rq2_dw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-24T07:35:07.000Z'
+      tags: değişiyorum
+      title: Derin Değişim - Değişiyorum
+      url: >-
+        https://www.youtube.com/watch?v=LiMD9rq2_dw&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=4&t=0s
+      viewCount: '127'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M44S
+      id: SS7XxI30SHY
+      imageURL: 'https://i.ytimg.com/vi/SS7XxI30SHY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-15T12:34:47.000Z'
+      tags: alçakgönüllü
+      title: Derin Değişim - Neden Alçakgönüllü Olayım?
+      url: >-
+        https://www.youtube.com/watch?v=SS7XxI30SHY&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=5&t=0s
+      viewCount: '1122'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT29M38S
+      id: G5Sp5ZMYe5k
+      imageURL: 'https://i.ytimg.com/vi/G5Sp5ZMYe5k/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-15T12:35:21.000Z'
+      tags: gurur
+      title: Derin Değişim - Gururumuz
+      url: >-
+        https://www.youtube.com/watch?v=G5Sp5ZMYe5k&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=6&t=0s
+      viewCount: '271'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M17S
+      id: n3sMFlNIxZY
+      imageURL: 'https://i.ytimg.com/vi/n3sMFlNIxZY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-12-13T11:05:55.000Z'
+      tags: alçakgönüllüdür
+      title: Derin Değişim - Tanrı Alçakgönüllüdür
+      url: >-
+        https://www.youtube.com/watch?v=n3sMFlNIxZY&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=7&t=0s
+      viewCount: '150'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M26S
+      id: Bfh10AHMMd0
+      imageURL: 'https://i.ytimg.com/vi/Bfh10AHMMd0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-12-13T11:06:03.000Z'
+      tags: düşünce
+      title: Derin Değişim - İsa'nın Bizdeki Düşüncesi
+      url: >-
+        https://www.youtube.com/watch?v=Bfh10AHMMd0&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=8&t=0s
+      viewCount: '200'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT26M58S
+      id: HnqPusrycAs
+      imageURL: 'https://i.ytimg.com/vi/HnqPusrycAs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T09:52:13.000Z'
+      tags: bağışlama
+      title: Derin Değişim - Bağışlamak Neden Zor?
+      url: >-
+        https://www.youtube.com/watch?v=HnqPusrycAs&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=9&t=0s
+      viewCount: '107'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT27M52S
+      id: yy0uQpbBYMQ
+      imageURL: 'https://i.ytimg.com/vi/yy0uQpbBYMQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T09:52:32.000Z'
+      tags: bağışlama
+      title: Derin Değişim - Neden Bağışlamalıyım?
+      url: >-
+        https://www.youtube.com/watch?v=yy0uQpbBYMQ&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=10&t=0s
+      viewCount: '274'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M14S
+      id: VAjWqrATrb0
+      imageURL: 'https://i.ytimg.com/vi/VAjWqrATrb0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T09:53:00.000Z'
+      tags: bağışlama
+      title: Derin Değişim - Bağışlamak Nedir?
+      url: >-
+        https://www.youtube.com/watch?v=VAjWqrATrb0&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=11&t=0s
+      viewCount: '338'
 ---
 
