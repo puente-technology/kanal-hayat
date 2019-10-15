@@ -100,9 +100,9 @@ questions:
           url: 'https://www.youtube.com/watch?v=IKX6ppjV_V8'
           viewCount: '4318'
   - answer: >-
-      Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık..Tanrı’nın Kimliği Nasıl Anlayabiliriz? Kutsal Kitap bize
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Tanrı’nın Kimliği Nasıl Anlayabiliriz? Kutsal Kitap bize
       Tanrı’nın Kimliğini açıklar mı ? Tanrı Kendini Kutsal Kitap’ta bize nasıl
       açıklıyor? Aşağıdaki programlarımızı izleyerek detaylı bilgi
       edinebilirsiniz.Esen Kalın.
