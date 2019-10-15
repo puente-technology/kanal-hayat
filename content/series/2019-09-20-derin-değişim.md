@@ -690,5 +690,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=XiOwfsx-Ujk&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=3&t=0s
       viewCount: '253'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M8S
+      id: LiMD9rq2_dw
+      imageURL: 'https://i.ytimg.com/vi/LiMD9rq2_dw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-24T07:35:07.000Z'
+      tags: değişiyorum
+      title: Derin Değişim - Değişiyorum
+      url: >-
+        https://www.youtube.com/watch?v=LiMD9rq2_dw&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=4&t=0s
+      viewCount: '127'
 ---
 
