@@ -57,5 +57,18 @@ episodes:
       title: Tohum Benzetmesi
       url: 'https://youtu.be/KXXAsomF5yY'
       viewCount: '207'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M18S
+      id: T6I20VWoQU8
+      imageURL: 'https://i.ytimg.com/vi/T6I20VWoQU8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-22T04:54:18.000Z'
+      tags: ödünç
+      title: Ödünç
+      url: 'https://youtu.be/T6I20VWoQU8'
+      viewCount: '148'
 ---
 
