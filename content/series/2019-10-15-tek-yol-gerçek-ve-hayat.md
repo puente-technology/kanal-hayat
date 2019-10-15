@@ -194,5 +194,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=mlbWMXy-DcA&list=PL902ABEBDFF147040&index=13&t=0s
       viewCount: '592'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: tmaZtSz2UZk
+      imageURL: 'https://i.ytimg.com/vi/tmaZtSz2UZk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-23T08:21:54.000Z'
+      tags: >-
+        fakir,ama,zengün,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 13- Fakir Ama Zengin
+      url: >-
+        https://www.youtube.com/watch?v=tmaZtSz2UZk&list=PL902ABEBDFF147040&index=14&t=0s
+      viewCount: '389'
 ---
 
