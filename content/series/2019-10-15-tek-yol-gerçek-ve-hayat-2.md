@@ -163,5 +163,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=X8qDMd_Xn-g&list=PL902ABEBDFF147040&index=41&t=0s
       viewCount: '378'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT58M33S
+      id: SUHBqcgoATk
+      imageURL: 'https://i.ytimg.com/vi/SUHBqcgoATk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-26T09:36:36.000Z'
+      tags: >-
+        kutsal,şifa,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 42- Kutsal Şifa
+      url: >-
+        https://www.youtube.com/watch?v=SUHBqcgoATk&list=PL902ABEBDFF147040&index=42&t=0s
+      viewCount: '264'
 ---
 
