@@ -1458,39 +1458,39 @@ questions:
           url: 'https://www.youtube.com/watch?v=vJw8L_sNh64'
           viewCount: '2912'
   - answer: >-
-      2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: 'Günah işlediğimizde Rab bizi ne zaman, neden ve nasıl    disiplin eder?'
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Kilise Nedir? İman Ettim Kiliseye Gitmem Gerekiyor mu?
+      Kiliseyi Kim Kurdu?
+    question: Kilise Nedir? İman Ettim Kiliseye Gitmem Gerekiyor mu? Kiliseyi Kim Kurdu?
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Can Nuroğlu ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            Bölüm 1- Kilise nedir?
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
+            Doğuşu" programını sayfamızdan takip edebilirsiniz. 
 
-            Connect with us on social! 
+            Esen Kalın.
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            http://kanalhayat.tv/
 
-            Twitter: http://Bit.ly/LakewoodTW
+            http://www.youtube.com/kanalhayatplay
 
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT26M33S
+          id: naah61yDqAY
+          imageURL: 'https://i.ytimg.com/vi/naah61yDqAY/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
-          tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305520'
+          publishedAt: '2016-01-19T07:58:10.000Z'
+          tags: 'kilisenin,doğuşu,kilise,nedir?'
+          title: Kilisenin Doğuşu - Kilise nedir? 1.Bölüm
+          url: 'https://www.youtube.com/watch?v=naah61yDqAY'
+          viewCount: '7157'
 ---
 
