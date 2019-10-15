@@ -135,5 +135,20 @@ episodes:
       title: Acmasız Köle Benzetmesi
       url: 'https://youtu.be/YeDBqWMKd_Y'
       viewCount: '562'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M31S
+      id: Cq7n45HKHjA
+      imageURL: 'https://i.ytimg.com/vi/Cq7n45HKHjA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-06-09T10:54:45.000Z'
+      tags: >-
+        incil,tevrat,zebut,kutsal kitap,kutsal ruh,benzetmeler,tanrı
+        sözü,hristiyan
+      title: Deliceler Benzetmesi
+      url: 'https://youtu.be/Cq7n45HKHjA'
+      viewCount: '291'
 ---
 
