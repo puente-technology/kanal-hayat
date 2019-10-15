@@ -227,5 +227,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=On7Rjmn9nxk&list=PL902ABEBDFF147040&index=45&t=0s
       viewCount: '2574'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT53M59S
+      id: Lq6qctuzRQk
+      imageURL: 'https://i.ytimg.com/vi/Lq6qctuzRQk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-16T12:13:12.000Z'
+      tags: >-
+        bitmeyen,bereketler,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan
+      title: 46- Bitmeyen Bereketler
+      url: >-
+        https://www.youtube.com/watch?v=Lq6qctuzRQk&list=PL902ABEBDFF147040&index=46&t=0s
+      viewCount: '286'
 ---
 
