@@ -275,9 +275,10 @@ $track-border-width: 0px;
 
 .player-volume {
 	position: relative;
-	width: 10rem;
+	width: 8rem;
 	height: 1rem;
 	margin-top: 4.2rem;
+	margin-left: 75px;
 	&.isBig {
 		margin-top: 1rem;
 		margin-right: 1rem;
@@ -423,13 +424,28 @@ $track-border-width: 0px;
 }
 
 @media (min-width: 1023px) {
-	#reactPlayer {
-		&.collapsed {
-			margin: 30px auto !important;
-			width: auto !important;
-			height: 500px !important;
+	#player.collapsed.show {
+		#reactPlayer {
+			&.collapsed {
+				margin: 0px !important;
+				/* width: 300px !important; */
+				/* height: 500px !important; */
+				width: 16rem !important;
+    			height: 8rem !important;
+			}
 		}
-	}	
+	}
+	#player.collapsed.show.isBig {
+		#reactPlayer {
+			&.collapsed {
+				margin: 30px auto !important;
+				width: auto !important;
+				height: 500px !important;
+			}
+		}	
+	
+	}
+	
 	#playerBackdrop {
 		&.player-info-container {
 			width: 100% !important;
@@ -437,12 +453,22 @@ $track-border-width: 0px;
 			top: 420px !important;
 		}
 	}
-	.player-controls-container.collapsed {
-		width: auto !important;
-		margin: 48px auto !important;
-    	top: 452px !important;
-	}
+	#player.collapsed.show {
+		.player-controls-container.collapsed {
+			width: auto !important;
+			margin: 0px auto !important;
+			top: 0px !important;
+		}
 
+	}
+	#player.collapsed.show.isBig {
+		.player-controls-container.collapsed {
+			width: auto !important;
+			margin: 48px auto !important;
+			top: 452px !important;
+		}
+	}
+	
 }
 @media (max-width: map-get($grid-breakpoints, md)) {
 	.player-info-txt {
@@ -467,7 +493,7 @@ $track-border-width: 0px;
 	flex-basis: 0;
 	-ms-flex-positive: 1;
 	flex-grow: 1;
-	max-width: 45%;
+	max-width: 32%;
 	margin-left: 5rem;
 	&.isBig {
 		max-width: 100%;
@@ -569,7 +595,7 @@ input[type=range]::-moz-range-thumb {
 		&.collapsed {
 			height: 15rem;
 			#reactPlayer {
-				width: 20rem !important;
+				width: 17rem !important;
 				height: 15rem !important;
 			}
 			.player-bar {
@@ -639,6 +665,7 @@ input[type=range]::-moz-range-thumb {
 				}
 				.player-volume-bar {
 					position: static;
+					margin-top: 3px;
 				}
 				.player-volume-path {
 					&.expand {
@@ -654,6 +681,7 @@ input[type=range]::-moz-range-thumb {
 			}
 		}
 	}
+	
 
 	.player-controls-container {
 		height: 15rem;
@@ -666,7 +694,7 @@ input[type=range]::-moz-range-thumb {
 	}
 
 	.player-control-container {
-		margin-left: 25px;
+		/* margin-left: 25px; */
 		margin-top: 5px;
 		&.isBig {
 			.player-bar {
@@ -681,7 +709,7 @@ input[type=range]::-moz-range-thumb {
 		top: -7px;
 		align-items: flex-end;
 		.player-screen-control {
-			margin-top: 4.2rem;
+			margin-top: 8rem;
 		}
 	}
 
@@ -711,24 +739,24 @@ input[type=range]::-moz-range-thumb {
 	}
 
 	.playPause-button {
-		position: absolute;
-		left: 140px;
+		position: relative;
+		left: 50px; 
 		border: 3px solid #FFFFFF;
 		border-radius: 30px;
 		height: 45px;
 		width: 45px;
-		margin-top: 21px;
+		margin-top: 40px;
 		padding-top: 7px;
 	}
 
 	.player-info-collapsed {
-		flex-direction: row;
+		flex-direction: column;
 		width: fit-content;
-		margin-left: 140px;
+		margin-left: 240px;
 	}
 
 	.player-artist {
-		font-size: 14px;
+		font-size: 19px;
 		&.colapsed {
 			padding-left: 0;
 			width: fit-content;
@@ -738,7 +766,7 @@ input[type=range]::-moz-range-thumb {
 	}
 
 	.player-title {
-		font-size: 14px;
+		font-size: 19px;
 		&.colapsed {
 			padding-left: 0;
 			width: fit-content;
@@ -754,6 +782,16 @@ input[type=range]::-moz-range-thumb {
 		width: 100% !important;
 		margin-top: 13px;
 	}
+	.player-volume {
+		margin-top: 8rem;
+		margin-left: 0px; 
+	}
+	.player-bar {
+		margin-left: 110px;
+	}
+	.player-controls {
+		justify-content: flex-start;
+	}
 }
 
 @media (max-width: map-get($grid-breakpoints, sm)) {
@@ -764,6 +802,21 @@ input[type=range]::-moz-range-thumb {
 		padding-top: 18px;
 		/* width: 50%; */
 		/* flex-grow: 1; */
+	}
+	.player-artist.colapsed {
+		font-size: 14px;
+	}
+
+	.player-info-collapsed {
+		flex-direction: row;
+		width: -webkit-fit-content;
+		width: -moz-fit-content;
+		width: fit-content;
+		margin-left: 113px;
+	}
+
+	.player-title {
+		font-size: 14px;
 	}
 
 	#player {
@@ -814,7 +867,7 @@ input[type=range]::-moz-range-thumb {
     	margin-top: 10px;
 	}
 	.player-elapsed {
-		left: 25px;
+		left: 5px;
 		font-size: 12px;
     	margin-top: 10px;
 	}
@@ -845,5 +898,17 @@ input[type=range]::-moz-range-thumb {
 	}
 	#player.isBig .player-remaining {
 		right: -25px;
+	}
+}
+
+@media (max-width: 320px){
+    .player-remaining {
+		right: 0px;
+	}
+	.player-elapsed {
+		left: 14px;
+	}
+	#player.collapsed .player-bar {
+		width: 85%;
 	}
 }
