@@ -205,5 +205,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=DuFmS6COdO0&list=PLB89F99B2B1B2BD7A&index=11&t=0s
       viewCount: '290'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M56S
+      id: obZfXCnjs5A
+      imageURL: 'https://i.ytimg.com/vi/obZfXCnjs5A/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-05T10:32:54.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Mǝhǝbbǝt 10. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=obZfXCnjs5A&list=PLB89F99B2B1B2BD7A&index=12&t=0s
+      viewCount: '186'
 ---
 
