@@ -1332,6 +1332,20 @@ questions:
           title: 60. Bölüm Hristiyanlıkta Oruç
           url: 'https://www.youtube.com/watch?v=mx_M20MUnjU'
           viewCount: '2059'
+      - guests: .
+        host: Memduh Uysal ve Işık Abla ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT28M43S
+          id: cKHhlYbS1Ug
+          imageURL: 'https://i.ytimg.com/vi/cKHhlYbS1Ug/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-10-23T13:45:38.000Z'
+          tags: 'oruç,tutmak'
+          title: 31. Bölüm Nasıl Oruç Tutmalıyız?
+          url: 'https://www.youtube.com/watch?v=cKHhlYbS1Ug'
+          viewCount: '2889'
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
