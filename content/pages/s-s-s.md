@@ -998,6 +998,20 @@ questions:
           title: İsa Mesih İnsan Değilse Neden Vaftiz Oldu?
           url: 'https://www.youtube.com/watch?v=aqt3pVzPF0I'
           viewCount: '1119'
+      - guests: .
+        host: Memduh Uysal ve Işık Abla ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT29M26S
+          id: 4us0OyZxKj8
+          imageURL: 'https://i.ytimg.com/vi/4us0OyZxKj8/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-09-04T12:10:19.000Z'
+          tags: 'şeria,ırmağı,vaftiz'
+          title: 23. Bölüm İsa Mesih Şeria Irmağında Vaftiz Ediliyor
+          url: 'https://www.youtube.com/watch?v=4us0OyZxKj8'
+          viewCount: '1348'
   - answer: >-
       13 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
