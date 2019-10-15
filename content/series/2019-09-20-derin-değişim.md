@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Derin Değişim
 publishDate: .
-coverImage: /images/uploads/derin-değişim-banu-çelikk.jpg
+coverImage: /images/uploads/derin-değişim-kapak.png
 host: Banu Çelik
 popularity: '5'
 description: >-
