@@ -679,12 +679,7 @@ questions:
           title: Tek Beden Olmak - 1
           url: 'https://www.youtube.com/watch?v=t0eMqamzg04'
           viewCount: '809'
-  - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık..İznik Konseyinde ne oldu? İznik Konsili'nde Neler
-      Yaşandı? (İncil Sallama Olayının Perde Arkası) Aşağıdaki programlarımızı
-      izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.
+  - answer: ' Bu nedenle, göksel Babanız yetkin olduğu gibi, siz de yetkin olun.”.İznik Konseyinde ne oldu? İznik Konsili''nde Neler Yaşandı? (İncil Sallama Olayının Perde Arkası) Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.'
     question: 'İznik Konseyinde Neler oldu? '
     videos:
       - guests: .
