@@ -387,5 +387,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=KvXxLoXY9jE&list=PL902ABEBDFF147040&index=55&t=0s
       viewCount: '738'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT58M30S
+      id: xKqyCSIJS6A
+      imageURL: 'https://i.ytimg.com/vi/xKqyCSIJS6A/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-18T09:31:32.000Z'
+      tags: huzur
+      title: 56- İç Huzur
+      url: 'https://youtu.be/xKqyCSIJS6A'
+      viewCount: '573'
 ---
 
