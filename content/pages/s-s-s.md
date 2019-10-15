@@ -1222,11 +1222,13 @@ questions:
           url: 'https://www.youtube.com/watch?v=cnDiPmdYx_s'
           viewCount: '480'
   - answer: >-
-      2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Sizi Kim veya Kimler Finanse Ediyor? Masraflarını Kim
+      Ödüyor? Çalışıyor musunuz? 
     question: >-
-      Günahlarımız zaten bağışlandıysa onları neden itiraf     etmemiz gerekir
-      (1 Yuhanna 1:9)?
+      Sizi Kim veya Kimler Finanse Ediyor? Masraflarını Kim Ödüyor? Çalışıyor
+      musunuz?
     videos:
       - guests: Test
         host: Test
