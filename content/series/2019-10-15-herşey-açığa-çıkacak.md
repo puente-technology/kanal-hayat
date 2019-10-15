@@ -176,5 +176,18 @@ episodes:
       title: 'Hristiyan ilahi: Dilimden Eksilmez'
       url: 'https://youtu.be/aOyvMtCEPaA'
       viewCount: '12670'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT4M27S
+      id: '-4UOxPNke34'
+      imageURL: 'https://i.ytimg.com/vi/-4UOxPNke34/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-06-23T11:19:14.000Z'
+      tags: 'isa mesih,tevrat,incil,kutsal ruh,ilahi,ezgi'
+      title: 'Hristiyan ilahi: Hayranım Sana'
+      url: 'https://youtu.be/-4UOxPNke34'
+      viewCount: '87771'
 ---
 
