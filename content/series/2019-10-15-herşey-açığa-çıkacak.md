@@ -150,5 +150,18 @@ episodes:
       title: Deliceler Benzetmesi
       url: 'https://youtu.be/Cq7n45HKHjA'
       viewCount: '291'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT3M25S
+      id: G4ly0mTLiUs
+      imageURL: 'https://i.ytimg.com/vi/G4ly0mTLiUs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-06-17T06:00:29.000Z'
+      tags: 'hristiyan,ilahi,ezgi,isa,isa mesih,incil'
+      title: 'Hristiyan ilahisi: Habakkuk'
+      url: 'https://youtu.be/G4ly0mTLiUs'
+      viewCount: '28141'
 ---
 
