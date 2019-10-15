@@ -299,5 +299,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=UhNpx2STpww&list=PL902ABEBDFF147040&index=20&t=0s
       viewCount: '713'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: 0rES4cnGMoc
+      imageURL: 'https://i.ytimg.com/vi/0rES4cnGMoc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-12-01T17:20:16.000Z'
+      tags: >-
+        Türk,Hıristiyanlar/isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 20- Muhteşem Tapınma
+      url: >-
+        https://www.youtube.com/watch?v=0rES4cnGMoc&list=PL902ABEBDFF147040&index=21&t=0s
+      viewCount: '752'
 ---
 
