@@ -4,6 +4,7 @@ title: SUHBETEN KELAME 2.SEZON
 publishDate: .
 coverImage: /images/uploads/10.jpg
 host: Şaban Ok ile
+popularity: '1'
 description: |-
   SUHBETEN KELAME programını Kanal Hayat ekranlarından 
   veya youtube kanalımızdan izleyebilirsiniz. Esen kalın.

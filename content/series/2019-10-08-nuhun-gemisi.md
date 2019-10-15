@@ -4,6 +4,7 @@ title: NUH'UN GEMİSİ
 publishDate: .
 coverImage: /images/uploads/noaark.jpg
 host: 'Kanal Hayat '
+popularity: '5'
 description: |-
   Çocuklar! Sizleri düşünmediğimizi sanmayın. Tanrı ve peygamberler
   hakkında birbirinden ilgi çekici hikayeleri ilahiler eşliğinde 

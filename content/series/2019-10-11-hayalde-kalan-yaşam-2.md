@@ -4,6 +4,7 @@ title: HAYALDE KALAN YAŞAM 2
 publishDate: .
 coverImage: /images/uploads/2.jpg
 host: 'Ali Kalkandelen ve Ahmet Güvener ile '
+popularity: '5'
 description: >-
   Ali Kalkandelen ve Ahmet Güvener beraber hazırlayıp sundukları "Hayalde Kalan
   Yaşam" programında birbirinden farklı konuları Kutsal Kitap temelinde

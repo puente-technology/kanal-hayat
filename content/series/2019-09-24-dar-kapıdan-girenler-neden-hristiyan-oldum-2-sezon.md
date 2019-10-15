@@ -4,6 +4,7 @@ title: DAR KAPIDAN GİRENLER  2.SEZON
 publishDate: .
 coverImage: /images/uploads/7.jpg
 host: Ali Kalkandelen ile
+popularity: '1'
 description: |
   Neden Hristiyan Oldum?
   Ali Kalkandelen'in sunumu ve konuklarının katılımıyla gerçekleştirdiği 

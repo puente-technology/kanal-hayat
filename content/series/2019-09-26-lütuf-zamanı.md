@@ -4,6 +4,7 @@ title: LÜTUF ZAMANI
 publishDate: .
 coverImage: /images/uploads/13.jpg
 host: İsmail Serinkan ile
+popularity: '5'
 description: |-
   İsmail Serinkan'ın hazırlayıp sunduğu "Lütuf Zamanı"
   programını Kanal Hayat ekranlarından veya 

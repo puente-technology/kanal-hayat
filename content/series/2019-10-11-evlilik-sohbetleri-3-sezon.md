@@ -4,6 +4,7 @@ title: EVLİLİK SOHBETLERİ 3.SEZON
 publishDate: .
 coverImage: /images/uploads/evlilik-sohbetleri-2.png
 host: Ali ve Pervin Kalkandelen ile
+popularity: '1'
 description: >-
   Ali ve Pervin Kalkandelen'in sunumuyla evlilik hakkındaki sohbetlerini Kanal
   Hayat ekranlarından veya youtube sayfamızdan takip edebilirsiniz.

@@ -4,6 +4,7 @@ title: GERÇEĞİN SESİ 2
 publishDate: .
 coverImage: /images/uploads/7.jpg
 host: Hakan Taştan ile
+popularity: '1'
 description: >-
   Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap ışığında
   gerçekleştirdi 

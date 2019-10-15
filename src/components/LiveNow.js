@@ -50,7 +50,6 @@ export default () => (
     `}
     render={(data) => {
       let eventData
-      console.log(data)
       data.mdfiles.edges.map((obj) => {
         const time = moment(obj.node.frontmatter.title, 'YYYY MM DD')
         if (moment(time).isSame(moment().format('YYYY MM DD'), 'week')) {

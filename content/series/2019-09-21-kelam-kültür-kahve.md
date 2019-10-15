@@ -4,6 +4,7 @@ title: Kelam Kültür Kahve
 publishDate: .
 coverImage: /images/uploads/kelam-kültür-kahve.png
 host: Humberto Coello
+popularity: '10'
 description: >-
   Kelam Kültür ve Kahve Hristiyan bakış açısıyla farklı konuları birbirinden
   farklı konuklarla gerçekleştirdikleri bu keyifli programı Kanal Hayat

@@ -4,6 +4,7 @@ title: Kamil Musa
 publishDate: .
 coverImage: /images/uploads/kamil.png
 host: Kamil Musa ile
+popularity: '5'
 description: >-
   Kamil Musa'nın hazırlayıp sunduğu Kutsal Kitap temelindeki birbirinden farklı
   konuları Kanal Hayat ekranlarından veya youtube sayfamızdan takip

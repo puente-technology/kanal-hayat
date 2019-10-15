@@ -4,6 +4,7 @@ title: YouthBytes - Gençlik Programı
 publishDate: .
 coverImage: /images/uploads/youthbytes-gençlik-programı.jpg
 host: Chad Daniel ile
+popularity: '5'
 description: |-
   Chad Daniel'in sunumuyla birbirinden farklı konuları ele aldığı ; 
   İntihar, ölüm ve ötesi, Şeytanın tuzakları, Pavlus'un izinde...

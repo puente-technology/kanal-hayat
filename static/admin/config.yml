@@ -462,6 +462,13 @@ collections:
           widget: image,
         }
       - { label: Sunucu, name: host, widget: string }
+      - label: İzlenmesi
+        name: popularity
+        widget: select
+        options:
+          - { label: "iyi", value: "1" }
+          - { label: "Orta", value: "5" }
+          - { label: "Kötü", value: "10" }
       - { label: Açıklama, name: description, widget: text }
       - label: Hedef Kitle
         name: targetGroup

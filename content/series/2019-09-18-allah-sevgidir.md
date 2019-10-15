@@ -4,6 +4,7 @@ title: Allah Sevgidir
 publishDate: .
 coverImage: /images/uploads/allah-sevgidir-save-for-web.jpg
 host: Can Nuroğlu
+popularity: '5'
 description: >-
   Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
   programını sayfamızdan takip edebilirsiniz.Esen Kalın.

@@ -4,6 +4,7 @@ title: HEY GİDİ KARADENİZ
 publishDate: .
 coverImage: /images/uploads/17.jpg
 host: İhsan Özbek ile
+popularity: '5'
 description: |-
   Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
   dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam

@@ -4,6 +4,7 @@ title: Mânâ Sohbetleri  2.Sezon
 publishDate: .
 coverImage: /images/uploads/turgay-ucal-save-for-web.jpg
 host: Rev.Dr. Turgay Üçal
+popularity: '5'
 description: |-
   Mesih'in Öğrencisi Olmak Ne Demektir?
   Olma Kavramı, Masum Sorular Sormak ...

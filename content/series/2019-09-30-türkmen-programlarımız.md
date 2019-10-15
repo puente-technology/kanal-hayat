@@ -4,6 +4,7 @@ title: TÜRKMEN PROGRAMLARIMIZ
 publishDate: .
 coverImage: /images/uploads/batır-nuroğlu-2-save-for-web.jpg
 host: Batır Nuroğlu ile
+popularity: '5'
 description: >-
   Batır Nuroğlu'nun hazırlayıp sunduğu Türkmen programlarını Kanal Hayat
   ekranlarından veya youtube sayfamızdan takip edebilirsiniz.Esen Kalın.

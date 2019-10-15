@@ -4,6 +4,7 @@ title: MESİH'İN MESELLERİ
 publishDate: .
 coverImage: /images/uploads/mesihin-meselleri.png
 host: Ahmet Güvener ile
+popularity: '1'
 description: >-
   Ahmet Güvener'in Kutsal Kitap temelinde gerçekleştirdiği "Mesih'in Meselleri"
   adlı program da 

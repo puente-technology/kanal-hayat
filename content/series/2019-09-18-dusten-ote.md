@@ -4,6 +4,7 @@ title: Düşten Öte
 publishDate: .
 coverImage: /images/uploads/dusten-ote.jpg
 host: Ali Pektaş
+popularity: '1'
 description: >-
   Düşten Öte serisi, Mısırlı cihatçı Halil, Nijeryalı çoban Mohammed,
   İndonezyalı genç kız Dini, İranlı delikanlı Kosrov ve Mekke'de İsa ile tanışan

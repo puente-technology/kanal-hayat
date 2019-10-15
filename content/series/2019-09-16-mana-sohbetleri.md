@@ -4,6 +4,7 @@ title: Mânâ SOHBETLERİ
 publishDate: 'Hafta için her gün 10:30-11:00 am'
 coverImage: /images/uploads/mana-save-for-web.jpg
 host: Rev. Dr. Turgay Üçal
+popularity: '10'
 description: '"Mânâ Sohbetleri" Sohbetlerini sayfamızdan takip edebilirsiniz.'
 targetGroup: Herkes
 language: '0'

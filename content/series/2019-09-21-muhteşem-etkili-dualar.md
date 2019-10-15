@@ -4,6 +4,7 @@ title: MUHTEŞEM ETKİLİ DUALAR
 publishDate: .
 coverImage: /images/uploads/maxresdefault.jpg
 host: IŞIK ABLA ile
+popularity: '1'
 description: >-
   İman işitmekle olur, imanımız Tanrı’nın Sözü’nü duyduğumuzda büyür ve gelişir.
   Tanrı’nın Sözü ile beslendiğimizde Tanrı’nın mucizeleri gerçekleşir. Bugün bu

@@ -29,6 +29,7 @@ class SeriesList extends Component {
   componentDidMount() {
     const { data } = this.props;
     this.setState({ listSeries: this.dataIntoArray(data) })
+    this.sortSeriesByPopularity()
   }
 
   dataIntoArray = data => (Object.values(data).filter(x => x !== 'Seriler'))
@@ -55,6 +56,23 @@ class SeriesList extends Component {
       res = listSeries
         .filter(d => d.node.frontmatter.host === value)
     }
+    this.setState({ listSeries: res })
+  }
+
+  sortSeriesByPopularity = () => {
+    const { data } = this.props;
+    const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => {
+      const aRand = Math.floor(Math.random() * 101)
+      const bRand = Math.floor(Math.random() * 101)
+      const atitle = String(Number(a.node.frontmatter.popularity) * aRand)
+      const btitle = String(Number(b.node.frontmatter.popularity) * bRand)
+      if (atitle < btitle) {
+        return 1
+      } if (atitle > btitle) {
+        return -1
+      }
+      return 0
+    })
     this.setState({ listSeries: res })
   }
 
