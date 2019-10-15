@@ -61,5 +61,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=-Dj3uJ02iOI&list=PL902ABEBDFF147040&index=33&t=0s
       viewCount: '2100'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT58M30S
+      id: zcl1GqBZXcs
+      imageURL: 'https://i.ytimg.com/vi/zcl1GqBZXcs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-02-14T13:11:10.000Z'
+      tags: 'TEK20120118,034E'
+      title: 34- Cinler ve Melekler
+      url: >-
+        https://www.youtube.com/watch?v=zcl1GqBZXcs&list=PL902ABEBDFF147040&index=34&t=0s
+      viewCount: '1227'
 ---
 
