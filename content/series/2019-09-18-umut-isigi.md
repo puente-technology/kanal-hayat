@@ -4,6 +4,7 @@ title: Umut Işığı
 publishDate: .
 coverImage: /images/uploads/gulhan-save-for-web.jpg
 host: Gülhan
+popularity: '1'
 description: >-
   Gülhan'ın hazırlayıp sunduğu Hristiyan Ruhsallığı hakkındaki "Umut Işığı"
   programını Kanal Hayat Ekranlarında ve youtube sayfamızdan takip

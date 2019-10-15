@@ -4,6 +4,7 @@ title: DAR KAPIDAN GİRENLER 9.SEZON
 publishDate: .
 coverImage: /images/uploads/ali-kalkandelen-ii-save-for-web.jpg
 host: Ali Kalkandelen
+popularity: '1'
 description: >-
   Neden Hristiyan Oldum?
 

@@ -4,6 +4,7 @@ title: EVLİLİK SOHBETLERİ
 publishDate: .
 coverImage: /images/uploads/evlilik-sohbetleri-save-for-web.jpg
 host: Ali ve Pervin Kalkandelen ile
+popularity: '5'
 description: |-
   Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla 
   evlilik hakkındaki sohbetlerini sayfamızdan takip edebilirsiniz.

@@ -4,6 +4,7 @@ title: HAYATTAN KEYİF ALIN 2
 publishDate: .
 coverImage: /images/uploads/rrr.jpg
 host: Joyce Meyer ile
+popularity: '10'
 description: >-
   Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından nasıl özgür
   olur? Kitapları Çok Satan İncil Öğretmeni Joyce Meyer’den, hayatınızdan zevk

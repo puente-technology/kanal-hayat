@@ -4,6 +4,7 @@ title: Kralın Oğulları
 publishDate: .
 coverImage: /images/uploads/gerçek-bir-adam-olmakb.jpg
 host: Işık Abla
+popularity: '1'
 description: >-
   Işık Abla'nın "Kralın Oğulları" programını Kanal Hayat ekranlarından veya
   youtube sayfamızdan takip edebilirsiniz.

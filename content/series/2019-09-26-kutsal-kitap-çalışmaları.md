@@ -4,6 +4,7 @@ title: KUTSAL KİTAP ÇALIŞMALARI
 publishDate: .
 coverImage: /images/uploads/18.jpg
 host: Dr. Charles Stanley ile
+popularity: '5'
 description: |-
   Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını Kanal Hayat 
   ekranlarından veya youtube sayfamızdan takip edebilirsiniz.

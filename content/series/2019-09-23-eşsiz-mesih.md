@@ -4,6 +4,7 @@ title: EŞSİZ MESİH
 publishDate: .
 coverImage: /images/uploads/essiz-mesih.jpg
 host: Nizar Shaheen ile
+popularity: '1'
 description: >-
   İsa Mesih'in Doğumu, Soy Ağacı, Çocukluğu ve diğer birçok konunun ele
   alındığı  "Eşsiz Mesih" programını Kanal Hayat Ekranlarında ve youtube

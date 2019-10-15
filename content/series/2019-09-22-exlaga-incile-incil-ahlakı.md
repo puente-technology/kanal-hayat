@@ -4,6 +4,7 @@ title: EXLAG'A İNCİL'E  (İNCİL AHLAKI)
 publishDate: .
 coverImage: /images/uploads/i̇nci̇l-ahlaki.png
 host: Ender Peker ile
+popularity: '1'
 description: |-
   Pastör Ender Peker'in  sunumuyla (Kürtçe Dilinde) gerçekleştirdiği
   "EHLAQA ÎNCÎLÊ - İncil Ahlakı" programını Kanal Hayat ekranlarından  

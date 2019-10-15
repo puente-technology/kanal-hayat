@@ -4,6 +4,7 @@ title: TEVRAT'IN MÜJDELEDİĞİ MESİH 2.SEZON
 publishDate: .
 coverImage: /images/uploads/tevratin-müj-mesi̇h-sezon-2-save-for-web.jpg
 host: Ahmet Güvener ile
+popularity: '5'
 description: |-
   Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz
   ile Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın 

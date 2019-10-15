@@ -6,10 +6,15 @@ import { days } from '../../constants/generics';
 
 const EventsPreviewTemplate = (list) => {
   const { eventList } = list;
-  const sorted = eventList.sort(sortTimeString)
+  let sorted
+  let times
+  let uniqueTimes
+  if (eventList) {
+    sorted = eventList.sort(sortTimeString)
+    times = sorted.map(s => s.time && s.time.startTime)
+    uniqueTimes = [...new Set(times)]
+  }
 
-  const times = sorted.map(s => s.time && s.time.startTime)
-  const uniqueTimes = [...new Set(times)]
   return (
     <table id="events">
       <thead>
@@ -22,7 +27,7 @@ const EventsPreviewTemplate = (list) => {
       </thead>
       <tbody>
         {
-          uniqueTimes.map(time => (
+          uniqueTimes && uniqueTimes.map(time => (
             <tr>
               <td>
                 {time}

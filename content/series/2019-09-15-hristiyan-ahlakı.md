@@ -4,6 +4,7 @@ title: HRİSTİYAN AHLAKI
 publishDate: .
 coverImage: /images/uploads/can-nuroglu-save-for-web.jpg
 host: Can Nuroğlu ile
+popularity: '10'
 description: >-
   Banu Çelik sunumu ve İncil  öğretmeni Can Nuroğlu'nun  Kutsal Kitap ışığında 
   gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal Hayat ekranından veya

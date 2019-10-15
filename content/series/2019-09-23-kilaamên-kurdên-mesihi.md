@@ -4,6 +4,7 @@ title: KİLAAMêN KURdêN MESİHİ
 publishDate: .
 coverImage: /images/uploads/şaban-ok.png
 host: Şaban Ok ile
+popularity: '5'
 description: |-
   Hristiyan İlahiler (Kürtçe Dilinde) 
   Tu Pîroz Î - Şaban Ok

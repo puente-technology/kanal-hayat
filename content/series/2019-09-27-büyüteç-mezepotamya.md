@@ -4,6 +4,7 @@ title: BÜYÜTEÇ MEZEPOTAMYA
 publishDate: .
 coverImage: /images/uploads/büyüteç-save-for-web.jpg
 host: Serdar Dedeoğlu ve Gülhan ile
+popularity: '1'
 description: |-
   Serdar Dedeoğlu ve Gülhan ile Büyüteç Mezepotamya 
   programını Kanal Hayat ekranlarından veya youtube 

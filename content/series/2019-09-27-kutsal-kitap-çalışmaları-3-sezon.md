@@ -4,6 +4,7 @@ title: KUTSAL KİTAP ÇALIŞMALARI 3.SEZON
 publishDate: .
 coverImage: /images/uploads/21.jpg
 host: Dr.Charles Stanley ile
+popularity: '5'
 description: |-
   Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını 
   Kanal Hayat ekranlarından veya yotube sayfamızdan takip edebilirsiniz.

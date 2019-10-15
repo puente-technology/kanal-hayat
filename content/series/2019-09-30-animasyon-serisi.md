@@ -4,6 +4,7 @@ title: animasyon serisi
 publishDate: '66'
 coverImage: /images/uploads/animasyon-serisi.jpg
 host: kk
+popularity: '5'
 description: jkhkj
 targetGroup: Genç
 language: '0'

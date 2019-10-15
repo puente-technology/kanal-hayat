@@ -4,6 +4,7 @@ title: KİLİSENİN DOĞUŞU
 publishDate: .
 coverImage: /images/uploads/15.jpg
 host: Can Nuroğlu ile
+popularity: '5'
 description: >-
   Yaşadığımız coğrafya tarih kaynıyor. Eski Roma döneminden kalma pek çok
   eserler bulunmakta. Büyük imparatorluklar gelmiş geçmiş ama sonunda hepsi

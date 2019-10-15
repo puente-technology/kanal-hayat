@@ -4,6 +4,7 @@ title: TEVRAT'IN MÜJDELEDİĞİ MESİH
 publishDate: .
 coverImage: /images/uploads/3.jpg
 host: Ahmet Güvener ile
+popularity: '10'
 description: |-
   Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör 
   Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği Mesih" 

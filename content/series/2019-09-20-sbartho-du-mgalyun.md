@@ -4,6 +4,7 @@ title: Sbartho Du Mgalyun
 publishDate: .
 coverImage: /images/uploads/_dsc166999.jpg
 host: 'Paulus Bartuma '
+popularity: '10'
 description: >-
   Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
   Sbartho 
@@ -680,5 +681,61 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=hQXd8vTEWts&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=28&t=0s
       viewCount: '43'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İyi Olan Pay (Süryani Dilinde)
+
+        Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
+        Sbartho Du mgalyun" progmını sayfamızdan takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M45S
+      id: Re7SWMohrQM
+      imageURL: 'https://i.ytimg.com/vi/Re7SWMohrQM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-24T07:26:31.000Z'
+      tags: 'iyi,olan,pay,süryani,incil'
+      title: İyi Olan Pay (Süryani Dilinde)
+      url: >-
+        https://www.youtube.com/watch?v=Re7SWMohrQM&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=29&t=0s
+      viewCount: '85'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İman (Süryani Dilinde) 
+
+        Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
+        Sbartho Du mgalyun" progmını sayfamızdan takip edebilirsiniz.
+
+        Esenlik Olsun.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M18S
+      id: pJLrOMu50cw
+      imageURL: 'https://i.ytimg.com/vi/pJLrOMu50cw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-09-27T08:25:29.000Z'
+      tags: '#iman #kelam #incil #kutsal #kitap'
+      title: İman (Süryani Dilinde)
+      url: >-
+        https://www.youtube.com/watch?v=pJLrOMu50cw&list=PLQfi14V3hH0KOwCgcvZrYiLSEMouU66hN&index=30&t=0s
+      viewCount: '100'
 ---
 

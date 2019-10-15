@@ -4,6 +4,7 @@ title: DAR KAPIDAN GİRENLER  7.SEZON
 publishDate: .
 coverImage: /images/uploads/7-sezon.jpg
 host: Ali Kalkandelen ile
+popularity: '1'
 description: |-
   Ali Kalkandelen'in sunumu ve konuklarının katılımıyla gerçekleştirdiği 
   "Dar Kapıdan Girenler" programını Kanal Hayat ekranlarından veya 

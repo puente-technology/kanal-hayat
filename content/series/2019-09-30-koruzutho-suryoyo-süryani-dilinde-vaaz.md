@@ -4,6 +4,7 @@ title: 'KORUZUTHO SURYOYO '
 publishDate: .
 coverImage: /images/uploads/koruzutho-suryoyo-save-for-web.jpg
 host: Paulus Bartuma ile
+popularity: '5'
 description: >-
   Paulus Bartuma ile "Koruzutho Suryoyo / Süryanice Dilinde Vaaz" programını
   Kanal Hayat ekranlarından veya Youtube sayfamızdan izleyebilirsiniz.

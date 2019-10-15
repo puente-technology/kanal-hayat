@@ -64,6 +64,7 @@ query SeriesList {
           selectedCategories
           description
           host
+          popularity
           publishDate
           title
           coverImage

@@ -4,6 +4,7 @@ title: Kıyamet Günü
 publishDate: .
 coverImage: /images/uploads/can-nuroğlu-kıyamet-günü.jpg
 host: Can Nuroğlu
+popularity: '5'
 description: >-
   Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kıyamet Günü"
   programında birbirinden farklı konuları Kutsal Kitap temelinde sizler için
