@@ -167,5 +167,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=b4QdRXG397g&list=PLB89F99B2B1B2BD7A&index=9&t=0s
       viewCount: '189'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT29M6S
+      id: _w8_zXWxttE
+      imageURL: 'https://i.ytimg.com/vi/_w8_zXWxttE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-05T10:10:21.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Mǝhǝbbǝt 8. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=_w8_zXWxttE&list=PLB89F99B2B1B2BD7A&index=10&t=0s
+      viewCount: '176'
 ---
 
