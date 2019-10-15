@@ -1346,6 +1346,21 @@ questions:
           title: 31. Bölüm Nasıl Oruç Tutmalıyız?
           url: 'https://www.youtube.com/watch?v=cKHhlYbS1Ug'
           viewCount: '2889'
+      - guests: .
+        host: Işık Abla ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ' '
+          duration: PT58M30S
+          id: sp6st3uEHX0
+          imageURL: 'https://i.ytimg.com/vi/sp6st3uEHX0/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-08-23T08:07:29.000Z'
+          tags: >-
+            dua,ve,orucun,gücü,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman
+          title: 57- Dua Ve Orucun Gücü
+          url: 'https://www.youtube.com/watch?v=sp6st3uEHX0'
+          viewCount: '1529'
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
