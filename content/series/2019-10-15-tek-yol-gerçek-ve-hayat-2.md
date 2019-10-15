@@ -208,5 +208,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=SijYICDak98&list=PL902ABEBDFF147040&index=44&t=0s
       viewCount: '907'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT55M23S
+      id: On7Rjmn9nxk
+      imageURL: 'https://i.ytimg.com/vi/On7Rjmn9nxk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-16T11:32:30.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 45- Cevaplanan Dualar
+      url: >-
+        https://www.youtube.com/watch?v=On7Rjmn9nxk&list=PL902ABEBDFF147040&index=45&t=0s
+      viewCount: '2574'
 ---
 
