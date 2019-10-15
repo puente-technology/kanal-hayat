@@ -269,5 +269,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=AtUV8zQbRuk&list=PL902ABEBDFF147040&index=18&t=0s
       viewCount: '983'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: zM7tR8lwW44
+      imageURL: 'https://i.ytimg.com/vi/zM7tR8lwW44/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-12-01T17:22:31.000Z'
+      tags: >-
+        palavra,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 18- Palavra - Sözleriniz Kalbinizin Aynası
+      url: >-
+        https://www.youtube.com/watch?v=zM7tR8lwW44&list=PL902ABEBDFF147040&index=19&t=0s
+      viewCount: '409'
 ---
 
