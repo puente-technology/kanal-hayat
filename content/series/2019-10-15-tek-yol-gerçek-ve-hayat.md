@@ -4,6 +4,7 @@ title: 'Tek Yol, Gerçek ve Hayat'
 publishDate: .
 coverImage: /images/uploads/mutluluğun-sırrı.png
 host: Işık Abla ile
+popularity: '5'
 description: |-
   Mesih imanlıları günah dolu dünya ikliminde imanlarını nasıl
   korumalı, nasıl yaşamalı, İblise karşı nasıl mücadele etmeli? Işık
@@ -314,5 +315,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=0rES4cnGMoc&list=PL902ABEBDFF147040&index=21&t=0s
       viewCount: '752'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M29S
+      id: VzsG-e4UZp8
+      imageURL: 'https://i.ytimg.com/vi/VzsG-e4UZp8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-12-02T16:39:23.000Z'
+      tags: >-
+        Tek
+        Yol,Gerçek,ve,Hayatisa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: '21- Kabaramazsın Kel Fatma, Kibir'
+      url: >-
+        https://www.youtube.com/watch?v=VzsG-e4UZp8&list=PL902ABEBDFF147040&index=22&t=0s
+      viewCount: '2644'
 ---
 
