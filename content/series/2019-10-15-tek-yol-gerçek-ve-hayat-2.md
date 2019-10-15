@@ -103,5 +103,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=xKdIKdlmgCM&list=PL902ABEBDFF147040&index=36&t=0s
       viewCount: '613'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT58M30S
+      id: u0u3rvi6kTE
+      imageURL: 'https://i.ytimg.com/vi/u0u3rvi6kTE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-02-14T13:21:34.000Z'
+      tags: >-
+        kutsal,ruh,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 37- Kutsal Ruh'un Sesi (1)
+      url: >-
+        https://www.youtube.com/watch?v=u0u3rvi6kTE&list=PL902ABEBDFF147040&index=37&t=0s
+      viewCount: '3627'
 ---
 
