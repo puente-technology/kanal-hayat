@@ -1,6 +1,7 @@
 ---
 locale: en
 template: SSS
+slug: s-s-s
 title: S. S. S.
 questions:
   - answer: >-
