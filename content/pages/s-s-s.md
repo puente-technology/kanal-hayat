@@ -366,9 +366,9 @@ questions:
           url: 'https://www.youtube.com/watch?v=3vZ5m_brbLM'
           viewCount: '8688'
   - answer: >-
-      Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık..Kutsal Ruh nedir? Kutsal Ruh Tanrı mı?  Kutsal Ruh
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Kutsal Ruh nedir? Kutsal Ruh Tanrı mı?  Kutsal Ruh
       öğretir mi ? Kutsal Ruhun amacı nedir? Aşağıdaki programlarımızı
       izleyerek  detaylı bilgi edinebilirsiniz.Esen Kalın.
     question: Kutsal Ruh Nedir?
