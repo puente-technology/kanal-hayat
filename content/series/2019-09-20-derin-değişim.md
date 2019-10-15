@@ -774,5 +774,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=HnqPusrycAs&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=9&t=0s
       viewCount: '107'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT27M52S
+      id: yy0uQpbBYMQ
+      imageURL: 'https://i.ytimg.com/vi/yy0uQpbBYMQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T09:52:32.000Z'
+      tags: bağışlama
+      title: Derin Değişim - Neden Bağışlamalıyım?
+      url: >-
+        https://www.youtube.com/watch?v=yy0uQpbBYMQ&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=10&t=0s
+      viewCount: '274'
 ---
 
