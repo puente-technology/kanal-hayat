@@ -746,5 +746,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=n3sMFlNIxZY&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=7&t=0s
       viewCount: '150'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M26S
+      id: Bfh10AHMMd0
+      imageURL: 'https://i.ytimg.com/vi/Bfh10AHMMd0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-12-13T11:06:03.000Z'
+      tags: düşünce
+      title: Derin Değişim - İsa'nın Bizdeki Düşüncesi
+      url: >-
+        https://www.youtube.com/watch?v=Bfh10AHMMd0&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=8&t=0s
+      viewCount: '200'
 ---
 
