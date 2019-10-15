@@ -2,7 +2,7 @@
 slug: s-s-s
 locale: en
 template: SSS
-title: S. S. S.
+title: Sık Sorulan Sorular ?
 questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
@@ -442,8 +442,8 @@ questions:
           title: 11. Bölüm Kutsal Ruh'a Nasıl Sahip Olabiliriz?
           url: 'https://www.youtube.com/watch?v=kFqoAbWGToo'
           viewCount: '6633'
-  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. .Hristiyan ahlakı ve ibadeti nedir? Hristiyanların evliliğe bakış açılarını merak ediyorum? Hristiyanların yalana bakış açısını merak ediyorum? Hristiyanların günaha bakış açısını merak ediyorum? Aşağıdaki programları izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.'
-    question: Hristiyan Ahlakı ve İbadeti
+  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. Hristiyan ahlakı ve ibadeti nedir? Hristiyanların evliliğe bakış açılarını merak ediyorum? Hristiyanların yalana bakış açısını merak ediyorum? Hristiyanların günaha bakış açısını merak ediyorum? Aşağıdaki programları izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.'
+    question: Hristiyan Ahlakı ve İbadeti Nasıldır?
     videos:
       - guests: .
         host: Can Nuroğlu ile
@@ -766,6 +766,129 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Kilise Nedir? İman Ettim Kiliseye Gitmem Gerekiyor mu?
+      Kiliseyi Kim Kurdu?
+    question: Kilise Nedir? İman Ettim Kiliseye Gitmem Gerekiyor mu? Kiliseyi Kim Kurdu?
+    videos:
+      - guests: .
+        host: Can Nuroğlu ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Bölüm 1- Kilise nedir?
+
+            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
+            Doğuşu" programını sayfamızdan takip edebilirsiniz. 
+
+            Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT26M33S
+          id: naah61yDqAY
+          imageURL: 'https://i.ytimg.com/vi/naah61yDqAY/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2016-01-19T07:58:10.000Z'
+          tags: 'kilisenin,doğuşu,kilise,nedir?'
+          title: Kilisenin Doğuşu - Kilise nedir? 1.Bölüm
+          url: 'https://www.youtube.com/watch?v=naah61yDqAY'
+          viewCount: '7157'
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: Gerçeğin Sesi - Hakan Taştan
+          duration: PT26M9S
+          id: 4P0CBQxrVAo
+          imageURL: 'https://i.ytimg.com/vi/4P0CBQxrVAo/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2018-05-29T07:59:18.000Z'
+          tags: kilise nedir?
+          title: 'Gerçeğin Sesi - "Kilise" aslında bir BİNA değildir [103]'
+          url: 'https://www.youtube.com/watch?v=4P0CBQxrVAo'
+          viewCount: '198'
+      - guests: .
+        host: Işık Abla ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT29M24S
+          id: Km1bRG_jqvc
+          imageURL: 'https://i.ytimg.com/vi/Km1bRG_jqvc/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-07-11T08:26:21.000Z'
+          tags: Kilisenin Görevleri Nedir?
+          title: 15. Bölüm Kilise Nedir? Kilisenin Görevleri Nedir?
+          url: 'https://www.youtube.com/watch?v=Km1bRG_jqvc'
+          viewCount: '2367'
+  - answer: >-
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Vaftiz Nedir? İman ettim ama vaftiz olmasam olur mu ?
+      Vaftiz mi bizi kurtarıyor? İsa Mesih vaftiz oldu mu ?
+    question: Vaftiz Nedir? İman Ettim Vaftiz Olmam Gerekiyor Mu?
+    videos:
+      - guests: .
+        host: Ahmet Güvener ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT26M49S
+          id: aqt3pVzPF0I
+          imageURL: 'https://i.ytimg.com/vi/aqt3pVzPF0I/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2019-03-01T16:59:15.000Z'
+          tags: 'hristiyanlık,hristiyan,kilise,hz isa,isa mesih,incil'
+          title: İsa Mesih İnsan Değilse Neden Vaftiz Oldu?
+          url: 'https://www.youtube.com/watch?v=aqt3pVzPF0I'
+          viewCount: '1119'
+      - guests: .
+        host: Memduh Uysal ve Işık Abla ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT29M26S
+          id: 4us0OyZxKj8
+          imageURL: 'https://i.ytimg.com/vi/4us0OyZxKj8/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-09-04T12:10:19.000Z'
+          tags: 'şeria,ırmağı,vaftiz'
+          title: 23. Bölüm İsa Mesih Şeria Irmağında Vaftiz Ediliyor
+          url: 'https://www.youtube.com/watch?v=4us0OyZxKj8'
+          viewCount: '1348'
+      - guests: .
+        host: 'Hakan Taştan ile '
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            31. Bölüm Vaftiz
+
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
+
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+            Esen Kalın.
+          duration: PT25M51S
+          id: DanYnWZnKJY
+          imageURL: 'https://i.ytimg.com/vi/DanYnWZnKJY/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-06-25T06:29:42.000Z'
+          tags: >-
+            hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa mesih,mesih,Rab,Allah,Turkey,Istanbul,Asker
+          title: Gerçeğin Sesi - Vaftiz 31.Bölüm
+          url: 'https://youtu.be/DanYnWZnKJY'
+          viewCount: '430'
+  - answer: >-
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
       için yanıtladık. .Misyonerlik Nedir? Bölücülük mü?Misyonerler kimlerdir?
       Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen
       Kalın.
@@ -980,66 +1103,6 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Vaftiz Nedir? İman ettim ama vaftiz olmasam olur mu ?
-      Vaftiz mi bizi kurtarıyor? İsa Mesih vaftiz oldu mu ?
-    question: Vaftiz Nedir? İman Ettim Vaftiz Olmam Gerekiyor Mu?
-    videos:
-      - guests: .
-        host: Ahmet Güvener ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ''
-          duration: PT26M49S
-          id: aqt3pVzPF0I
-          imageURL: 'https://i.ytimg.com/vi/aqt3pVzPF0I/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2019-03-01T16:59:15.000Z'
-          tags: 'hristiyanlık,hristiyan,kilise,hz isa,isa mesih,incil'
-          title: İsa Mesih İnsan Değilse Neden Vaftiz Oldu?
-          url: 'https://www.youtube.com/watch?v=aqt3pVzPF0I'
-          viewCount: '1119'
-      - guests: .
-        host: Memduh Uysal ve Işık Abla ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ''
-          duration: PT29M26S
-          id: 4us0OyZxKj8
-          imageURL: 'https://i.ytimg.com/vi/4us0OyZxKj8/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2013-09-04T12:10:19.000Z'
-          tags: 'şeria,ırmağı,vaftiz'
-          title: 23. Bölüm İsa Mesih Şeria Irmağında Vaftiz Ediliyor
-          url: 'https://www.youtube.com/watch?v=4us0OyZxKj8'
-          viewCount: '1348'
-      - guests: .
-        host: 'Hakan Taştan ile '
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            31. Bölüm Vaftiz
-
-            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
-            ışığında gerçekleştirdi 
-
-            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
-
-            Esen Kalın.
-          duration: PT25M51S
-          id: DanYnWZnKJY
-          imageURL: 'https://i.ytimg.com/vi/DanYnWZnKJY/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2013-06-25T06:29:42.000Z'
-          tags: >-
-            hristiyanlık,ahiret,kıyamet,hz
-            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
-            anlatsana,kutsal ruh,isa mesih,mesih,Rab,Allah,Turkey,Istanbul,Asker
-          title: Gerçeğin Sesi - Vaftiz 31.Bölüm
-          url: 'https://youtu.be/DanYnWZnKJY'
-          viewCount: '430'
-  - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
       için yanıtladık. Hristiyanlıkta kurban var mı ? Son kurban nedir? İsa
       Mesih neden çarmıha gitti?
     question: Hristiyanlıkta kurban var mı ? Son kurban nedir?
@@ -1118,183 +1181,344 @@ questions:
           url: 'https://www.youtube.com/watch?v=3jHwYZ63aXc'
           viewCount: '382'
   - answer: >-
-      14 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Hristiyan ruhsallığı nedir?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Bana karşı günah işleyenleri nasıl bağışlarım? Bağışlamak
+      ne demektir?
+    question: Bana Karşı Günah İşleyenleri Nasıl Bağışlayabilirim?
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Banu Çelik ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT28M14S
+          id: VAjWqrATrb0
+          imageURL: 'https://i.ytimg.com/vi/VAjWqrATrb0/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2017-09-20T09:53:00.000Z'
+          tags: bağışlama
+          title: Derin Değişim - Bağışlamak Nedir?
+          url: 'https://www.youtube.com/watch?v=VAjWqrATrb0'
+          viewCount: '339'
+      - guests: .
+        host: Ahmet Güvener ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
+            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın
+            Müjdelediği Mesih" programını sayfamızdan takip edebilirsiniz.Esen
+            Kalın.
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            http://kanalhayat.tv/
 
-            Connect with us on social! 
+            http://www.youtube.com/kanalhayatplay
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            https://www.facebook.com/kanalhayat
 
-            Twitter: http://Bit.ly/LakewoodTW
-
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            https://twitter.com/kanalhayat
+          duration: PT29M3S
+          id: CuTBDmkRRS0
+          imageURL: 'https://i.ytimg.com/vi/CuTBDmkRRS0/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
+          publishedAt: '2018-04-02T20:13:00.000Z'
+          tags: bağışlamak
+          title: Tevrat'ın Müjdelediği Mesih -  Bağışlamak 52.Bölüm
+          url: 'https://www.youtube.com/watch?v=CuTBDmkRRS0'
+          viewCount: '357'
+      - guests: .
+        host: İsmail Serinkan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+            Hayat ekranlarından veya 
+
+            youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT26M34S
+          id: CREfCOag6G4
+          imageURL: 'https://i.ytimg.com/vi/CREfCOag6G4/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2015-09-08T12:04:10.000Z'
+          tags: bağışlama
+          title: 2. Bölüm Bağışlama
+          url: 'https://www.youtube.com/watch?v=CREfCOag6G4'
+          viewCount: '519'
+      - guests: .
+        host: Dr.Charles Stanley ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını
+            sayfamızdan takip edebilirsiniz.
+
+            Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M1S
+          id: cnDiPmdYx_s
+          imageURL: 'https://i.ytimg.com/vi/cnDiPmdYx_s/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-11-19T12:13:27.000Z'
           tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+            hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa
+            mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+            stanley
+          title: 44. Bölüm Bağışlama Ve Öfke
+          url: 'https://www.youtube.com/watch?v=cnDiPmdYx_s'
+          viewCount: '480'
   - answer: >-
-      2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Sizi Kim veya Kimler Finanse Ediyor? Masraflarını Kim
+      Ödüyor? Çalışıyor musunuz? 
     question: >-
-      Günahlarımız zaten bağışlandıysa onları neden itiraf     etmemiz gerekir
-      (1 Yuhanna 1:9)?
+      Sizi Kim veya Kimler Finanse Ediyor? Masraflarını Kim Ödüyor? Çalışıyor
+      musunuz?
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Ahmet Güvener ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            Maddi Sunular ve Ondalık
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
+            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan
+            Şeriatı" programını Kanal Hayat ekranından veya youtube sayfamızdan
+            takip edebilirsiniz.
 
-            Connect with us on social! 
+            http://kanalhayat.tv/
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            http://www.youtube.com/kanalhayatplay
 
-            Twitter: http://Bit.ly/LakewoodTW
+            https://www.facebook.com/kanalhayat
 
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            https://twitter.com/kanalhayat
+          duration: PT27M18S
+          id: AXRb4lLFWrY
+          imageURL: 'https://i.ytimg.com/vi/AXRb4lLFWrY/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
+          publishedAt: '2019-10-08T07:52:57.000Z'
           tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+            maddi,sunular,ondalık,masraflar,ödemeler,kilise,masrafları,misyonerler,türkiye,kktc,iman,şeriat
+          title: 75- Maddi Sunular ve Ondalık - Hristiyan Şeriatı
+          url: 'https://www.youtube.com/watch?v=AXRb4lLFWrY'
+          viewCount: '129'
+      - guests: .
+        host: Ali Kalkandelen ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT29M33S
+          id: 53gFqeMO2f4
+          imageURL: 'https://i.ytimg.com/vi/53gFqeMO2f4/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-09-10T06:51:16.000Z'
+          tags: Ondalık
+          title: 65. Bölüm Hristiyanlıkta Ondalık
+          url: 'https://www.youtube.com/watch?v=53gFqeMO2f4'
+          viewCount: '217'
+      - guests: .
+        host: Ali Kalkandelen ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT29M26S
+          id: YFc_p3i6ABY
+          imageURL: 'https://i.ytimg.com/vi/YFc_p3i6ABY/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-09-10T06:48:02.000Z'
+          tags: Para Konusu
+          title: 64. Bölüm Hristiyanlıkta ve Kilisede Para Konusu
+          url: 'https://www.youtube.com/watch?v=YFc_p3i6ABY'
+          viewCount: '226'
+      - guests: .
+        host: Güçlü Erman ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Pastör Güçlü Erman'ın konuklarıyla birlikte birbirinden farklı
+            konuları sizler için  sunduğu "UYANIŞ" programını sayfamızdan takip
+            edebilirsiniz.Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M54S
+          id: 8ZBYt2iw2cs
+          imageURL: 'https://i.ytimg.com/vi/8ZBYt2iw2cs/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2016-10-26T10:11:16.000Z'
+          tags: zenginlik
+          title: UYANIŞ (Zenginlik ve Onur Senden Gelir - HD) Pastör Güçlü Erman
+          url: 'https://youtu.be/8ZBYt2iw2cs'
+          viewCount: '169'
   - answer: >-
-      2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: >-
-      Eğer kurtulduysam ve bütün günahlarım bağışlandıysa      neden günah
-      işlemeye devam etmeyeyim ki?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Hristiyanlar Oruç Tutuyor mu ? Hristiyanlıkta Oruç Var
+      mı?
+    question: Hristiyanlar Oruç Tutuyor mu ? Hristiyanlıkta Oruç Var mı?
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Ali Kalkandelen ile
         targetGroup: Herkes
         youtubeURL:
-          description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
-
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
-
-            Connect with us on social! 
-
-            Facebook: Http://Bit.ly/LakewoodFB
-
-            Twitter: http://Bit.ly/LakewoodTW
-
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+          description: ''
+          duration: PT27M51S
+          id: mx_M20MUnjU
+          imageURL: 'https://i.ytimg.com/vi/mx_M20MUnjU/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
+          publishedAt: '2013-08-27T07:00:38.000Z'
+          tags: Oruç
+          title: 60. Bölüm Hristiyanlıkta Oruç
+          url: 'https://www.youtube.com/watch?v=mx_M20MUnjU'
+          viewCount: '2059'
+      - guests: .
+        host: Memduh Uysal ve Işık Abla ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT28M43S
+          id: cKHhlYbS1Ug
+          imageURL: 'https://i.ytimg.com/vi/cKHhlYbS1Ug/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-10-23T13:45:38.000Z'
+          tags: 'oruç,tutmak'
+          title: 31. Bölüm Nasıl Oruç Tutmalıyız?
+          url: 'https://www.youtube.com/watch?v=cKHhlYbS1Ug'
+          viewCount: '2889'
+      - guests: .
+        host: Işık Abla ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ' '
+          duration: PT58M30S
+          id: sp6st3uEHX0
+          imageURL: 'https://i.ytimg.com/vi/sp6st3uEHX0/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-08-23T08:07:29.000Z'
           tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+            dua,ve,orucun,gücü,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman
+          title: 57- Dua Ve Orucun Gücü
+          url: 'https://www.youtube.com/watch?v=sp6st3uEHX0'
+          viewCount: '1529'
   - answer: >-
-      2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Tanrı’nın bütün silahları nelerdir?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Rab'bin Sofrası / Komünyon nedir? Kimler Bu Sofradan
+      Alabilir? 
+    question: 'Rab''bin Sofrası / Komünyon nedir? Kimler Bu Sofradan Alabilir? '
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Hakan Taştan ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            5. Bölüm: Rab'bin Sofrası (Kominyon)
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
 
-            Connect with us on social! 
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            Esen Kalın.
 
-            Twitter: http://Bit.ly/LakewoodTW
+            http://kanalhayat.tv/
 
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat.tv
+
+            https://twitter.com/kanalhayat
+          duration: PT25M58S
+          id: '-L84aCyBGxc'
+          imageURL: 'https://i.ytimg.com/vi/-L84aCyBGxc/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
+          publishedAt: '2012-10-29T11:20:51.000Z'
           tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305520'
-  - answer: >-
-      2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: 'Günah işlediğimizde Rab bizi ne zaman, neden ve nasıl    disiplin eder?'
-    videos:
-      - guests: Test
-        host: Test
+            Kutsal,hristiyanlık,ahiret,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,kutsal
+            ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
+            butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
+            Hayat,Pusula,kiyamet gunu,gavur,Kominyon
+          title: '5. Bölüm: Rab''bin Sofrası (Kominyon)'
+          url: 'https://www.youtube.com/watch?v=-L84aCyBGxc'
+          viewCount: '1621'
+      - guests: .
+        host: Işık Abla ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ' '
+          duration: PT28M32S
+          id: O7AExWtzk1I
+          imageURL: 'https://i.ytimg.com/vi/O7AExWtzk1I/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-02-20T12:50:08.000Z'
+          tags: >-
+            hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa
+            mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+            stanley,joyce meyer,ışık abla,güçlü
+            erman,protestan,protestanlar,zekeriya butros
+          title: 87. Bölüm  Rab'bin Sofrası
+          url: 'https://www.youtube.com/watch?v=O7AExWtzk1I'
+          viewCount: '356'
+      - guests: .
+        host: Kirkor Ağabaloğlu ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet"
+            programını Kanala Hayat ekranlarından veya youtube sayfamızdan takip
+            edebilirsiniz.
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            Esen Kalın.
 
-            Connect with us on social! 
+            http://kanalhayat.tv/
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            http://www.youtube.com/kanalhayatplay
 
-            Twitter: http://Bit.ly/LakewoodTW
+            https://www.facebook.com/kanalhayat
 
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            https://twitter.com/kanalhayat
+          duration: PT27M57S
+          id: vJw8L_sNh64
+          imageURL: 'https://i.ytimg.com/vi/vJw8L_sNh64/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
+          publishedAt: '2012-09-24T14:29:36.000Z'
           tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305520'
+            hristiyan,kilise,peygamber,isa mesih,protestan,katolik,ahiret
+            günü,kıyamet,yargı,günah,hristiyanlık,ahiret,hz
+            isa,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur anlatsana,kutsal
+            ruh,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+            stanley,joyce meyer,ışık abla,güçlü erman,protestanlar,zekeriya
+            butros
+          title: 'Kutsalliga Davet 09. Bölüm: Yaşam Ekmeği'
+          url: 'https://www.youtube.com/watch?v=vJw8L_sNh64'
+          viewCount: '2912'
 ---
 
