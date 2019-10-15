@@ -284,5 +284,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=zM7tR8lwW44&list=PL902ABEBDFF147040&index=19&t=0s
       viewCount: '409'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: UhNpx2STpww
+      imageURL: 'https://i.ytimg.com/vi/UhNpx2STpww/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-12-01T15:56:35.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 19- Keskin Sirke - Öfkenin Zararları
+      url: >-
+        https://www.youtube.com/watch?v=UhNpx2STpww&list=PL902ABEBDFF147040&index=20&t=0s
+      viewCount: '713'
 ---
 
