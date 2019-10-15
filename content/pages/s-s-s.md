@@ -1287,6 +1287,31 @@ questions:
           title: 64. Bölüm Hristiyanlıkta ve Kilisede Para Konusu
           url: 'https://www.youtube.com/watch?v=YFc_p3i6ABY'
           viewCount: '226'
+      - guests: .
+        host: Güçlü Erman ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Pastör Güçlü Erman'ın konuklarıyla birlikte birbirinden farklı
+            konuları sizler için  sunduğu "UYANIŞ" programını sayfamızdan takip
+            edebilirsiniz.Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M54S
+          id: 8ZBYt2iw2cs
+          imageURL: 'https://i.ytimg.com/vi/8ZBYt2iw2cs/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2016-10-26T10:11:16.000Z'
+          tags: zenginlik
+          title: UYANIŞ (Zenginlik ve Onur Senden Gelir - HD) Pastör Güçlü Erman
+          url: 'https://youtu.be/8ZBYt2iw2cs'
+          viewCount: '169'
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
