@@ -1012,6 +1012,31 @@ questions:
           title: 23. Bölüm İsa Mesih Şeria Irmağında Vaftiz Ediliyor
           url: 'https://www.youtube.com/watch?v=4us0OyZxKj8'
           viewCount: '1348'
+      - guests: .
+        host: 'Hakan Taştan ile '
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            31. Bölüm Vaftiz
+
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
+
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+            Esen Kalın.
+          duration: PT25M51S
+          id: DanYnWZnKJY
+          imageURL: 'https://i.ytimg.com/vi/DanYnWZnKJY/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-06-25T06:29:42.000Z'
+          tags: >-
+            hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa mesih,mesih,Rab,Allah,Turkey,Istanbul,Asker
+          title: Gerçeğin Sesi - Vaftiz 31.Bölüm
+          url: 'https://youtu.be/DanYnWZnKJY'
+          viewCount: '430'
   - answer: >-
       13 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
