@@ -1190,6 +1190,37 @@ questions:
           title: 2. Bölüm Bağışlama
           url: 'https://www.youtube.com/watch?v=CREfCOag6G4'
           viewCount: '519'
+      - guests: .
+        host: Dr.Charles Stanley ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını
+            sayfamızdan takip edebilirsiniz.
+
+            Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M1S
+          id: cnDiPmdYx_s
+          imageURL: 'https://i.ytimg.com/vi/cnDiPmdYx_s/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-11-19T12:13:27.000Z'
+          tags: >-
+            hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa
+            mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+            stanley
+          title: 44. Bölüm Bağışlama Ve Öfke
+          url: 'https://www.youtube.com/watch?v=cnDiPmdYx_s'
+          viewCount: '480'
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
