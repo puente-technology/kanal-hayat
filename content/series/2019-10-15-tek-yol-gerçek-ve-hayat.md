@@ -179,5 +179,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=vX6ctZW_fAk&list=PL902ABEBDFF147040&index=12&t=0s
       viewCount: '490'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: mlbWMXy-DcA
+      imageURL: 'https://i.ytimg.com/vi/mlbWMXy-DcA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-12-08T04:10:23.000Z'
+      tags: >-
+        rab'be,vefanız,nedir,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 12- Rab'be Vefanız Nedir?
+      url: >-
+        https://www.youtube.com/watch?v=mlbWMXy-DcA&list=PL902ABEBDFF147040&index=13&t=0s
+      viewCount: '592'
 ---
 
