@@ -164,5 +164,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=G-J1BJUmYFI&list=PL902ABEBDFF147040&index=11&t=0s
       viewCount: '488'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: vX6ctZW_fAk
+      imageURL: 'https://i.ytimg.com/vi/vX6ctZW_fAk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-12-08T01:59:54.000Z'
+      tags: >-
+        madalyonun,öteki,yüzü,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 11- Madalyonun Öteki Yüzü
+      url: >-
+        https://www.youtube.com/watch?v=vX6ctZW_fAk&list=PL902ABEBDFF147040&index=12&t=0s
+      viewCount: '490'
 ---
 
