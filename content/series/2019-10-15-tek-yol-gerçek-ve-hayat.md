@@ -377,5 +377,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=NERMpwl8V3I&list=PL902ABEBDFF147040&index=25&t=0s
       viewCount: '925'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT58M44S
+      id: njR118mrwBg
+      imageURL: 'https://i.ytimg.com/vi/njR118mrwBg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-31T10:21:45.000Z'
+      tags: >-
+        rab'de,dinlanmek,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 25- Rab'de Dinlenmek
+      url: >-
+        https://www.youtube.com/watch?v=njR118mrwBg&list=PL902ABEBDFF147040&index=26&t=0s
+      viewCount: '1344'
 ---
 
