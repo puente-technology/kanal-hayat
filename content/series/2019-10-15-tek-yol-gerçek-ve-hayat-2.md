@@ -75,5 +75,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=zcl1GqBZXcs&list=PL902ABEBDFF147040&index=34&t=0s
       viewCount: '1227'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: MwMWlcgLZIk
+      imageURL: 'https://i.ytimg.com/vi/MwMWlcgLZIk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-02-14T13:30:05.000Z'
+      tags: 'TEK20120125,035E'
+      title: 35- Mesaj Potporisi
+      url: >-
+        https://www.youtube.com/watch?v=MwMWlcgLZIk&list=PL902ABEBDFF147040&index=35&t=0s
+      viewCount: '198'
 ---
 
