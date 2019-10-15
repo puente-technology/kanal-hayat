@@ -1042,36 +1042,20 @@ questions:
       accusantium doloremque laudantium, totam rem aperiam, eaque
     question: Hristiyanlıkta Kurban var mı ? Son kurban nedir?
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: 'Serdar Dedeoğlu ve Gülhan ile '
         targetGroup: Herkes
         youtubeURL:
-          description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
-
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
-
-            Connect with us on social! 
-
-            Facebook: Http://Bit.ly/LakewoodFB
-
-            Twitter: http://Bit.ly/LakewoodTW
-
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+          description: Açıklama
+          duration: PT28M11S
+          id: HCPthLmYOGs
+          imageURL: 'https://i.ytimg.com/vi/HCPthLmYOGs/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
-          tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+          publishedAt: '2015-05-29T06:47:17.000Z'
+          tags: çarmıh
+          title: 20. Bölüm Kurban ve Çarmıh
+          url: 'https://www.youtube.com/watch?v=HCPthLmYOGs'
+          viewCount: '333'
   - answer: >-
       14 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
