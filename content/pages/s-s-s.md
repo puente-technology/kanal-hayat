@@ -1315,7 +1315,8 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık.Hristiyanlar Oruç Tutuyor mu ? Hristiyanlıkta Oruç Var mı?
+      için yanıtladık. Hristiyanlar Oruç Tutuyor mu ? Hristiyanlıkta Oruç Var
+      mı?
     question: Hristiyanlar Oruç Tutuyor mu ? Hristiyanlıkta Oruç Var mı?
     videos:
       - guests: .
