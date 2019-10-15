@@ -89,5 +89,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=0Ztk3tKT1ak&list=PL902ABEBDFF147040&index=6&t=0s
       viewCount: '2697'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: e9hH1MM7ZNE
+      imageURL: 'https://i.ytimg.com/vi/e9hH1MM7ZNE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-22T13:05:34.000Z'
+      tags: >-
+        tşvbenin,gücü,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 6- Tövbenin Gücü
+      url: >-
+        https://www.youtube.com/watch?v=e9hH1MM7ZNE&list=PL902ABEBDFF147040&index=7&t=0s
+      viewCount: '1442'
 ---
 
