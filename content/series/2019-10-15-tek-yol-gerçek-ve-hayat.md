@@ -209,5 +209,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=tmaZtSz2UZk&list=PL902ABEBDFF147040&index=14&t=0s
       viewCount: '389'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: l54Aarj7rNk
+      imageURL: 'https://i.ytimg.com/vi/l54Aarj7rNk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-23T08:23:55.000Z'
+      tags: >-
+        eşek,konuştu,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 14- Eşek Konuştu
+      url: >-
+        https://www.youtube.com/watch?v=l54Aarj7rNk&list=PL902ABEBDFF147040&index=15&t=0s
+      viewCount: '597'
 ---
 
