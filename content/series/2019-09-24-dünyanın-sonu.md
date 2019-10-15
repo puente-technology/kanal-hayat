@@ -4,6 +4,7 @@ title: DÜNYANIN SONU
 publishDate: .
 coverImage: /images/uploads/dünyanın-sonu.jpg
 host: Can Nuroğlu ile
+popularity: '5'
 description: |-
   Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği  
   "Dünyanın Sonu" programını sayfamızdan takip edebilirsiniz.

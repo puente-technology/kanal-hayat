@@ -4,6 +4,7 @@ title: Havari Notları
 publishDate: .
 coverImage: /images/uploads/can-nuroğlu-havari-notları-save-for-web.jpg
 host: Can Nuroğlu
+popularity: '5'
 description: >-
   “Öğrenci” sözcüğü, öğrenen ya da izleyen birisinden söz etmekte kullanılır.
   “Elçi” sözcüğü ise, “gönderilen” anlamına gelir. İsa yeryüzündeyken, O’nu

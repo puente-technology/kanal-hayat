@@ -4,6 +4,7 @@ title: DAR KAPIDAN GİRENLER 5.SEZON
 publishDate: .
 coverImage: /images/uploads/dar-kapıdan-5sezon.jpg
 host: Ali Kalkandelen ile
+popularity: '1'
 description: |-
   Neden Hristiyan Oldum?
   Ali Kalkandelen'in sunumu ve konuklarının katılımıyla 

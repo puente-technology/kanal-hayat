@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: VÎDYOYÊN BI KURDÎ / (Kürtçe dilinde vidyolarımız)
+title: VÎDYOYÊN BI KURDÎ / (Kürtçe)
 publishDate: .
 coverImage: /images/uploads/jesus-movie2.jpg
 host: Kanal Hayat ile

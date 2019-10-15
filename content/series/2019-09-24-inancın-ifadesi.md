@@ -4,6 +4,7 @@ title: İNANCIN İFADESİ
 publishDate: .
 coverImage: /images/uploads/inancın-ifadesi-save-for-web.jpg
 host: Serdar Dedeoğlu ile
+popularity: '5'
 description: |-
   Serdar Dedeoğlu ve Gülhan ile inancın ifadesini
   Kanal Hayat ekranlarından veya youtube sayfamızdan 

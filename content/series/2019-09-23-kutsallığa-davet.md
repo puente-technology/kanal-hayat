@@ -4,6 +4,7 @@ title: KUTSALLIĞA DAVET
 publishDate: .
 coverImage: /images/uploads/ki̇rkor.jpg
 host: Kirkor Ağabaloğlu ile
+popularity: '1'
 description: |
   Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" 
   programını Kanala Hayat ekranlarından veya youtube sayfamızdan 

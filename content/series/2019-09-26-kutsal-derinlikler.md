@@ -4,6 +4,7 @@ title: KUTSAL DERİNLİKLER
 publishDate: .
 coverImage: /images/uploads/16.jpg
 host: Işık Abla ile
+popularity: '1'
 description: |-
   İçimizde sanki 2 ses vardır; biri der ki, "Tanrı için her şey mümkündür", 
   diğeri ise, "Acaba" der. Bugün hangi sesi dinleyeceksiniz ve hangi sesi 

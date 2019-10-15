@@ -4,6 +4,7 @@ title: Derin Değişim
 publishDate: .
 coverImage: /images/uploads/derin-değişim-banu-çelikk.jpg
 host: Banu Çelik
+popularity: '5'
 description: >-
   Banu Çelik ve konuklarıyla birlikte farklı konularda kelam temelinde
   gerçekleştirdiği "Derin Değişim" programını sayfamızdan takip

@@ -4,6 +4,7 @@ title: SOKAĞIN DİLİ
 publishDate: .
 coverImage: /images/uploads/2.jpg
 host: Ali Kalkandelen ve Ahmet Güvener ile
+popularity: '5'
 description: |-
   Ali Kalkandelen ve Ahmet Güvener ile birbirinden farklı güncel konuların
   Hristiyan inancı temelinde konuşulduğu "Sokağın Dili" programını
