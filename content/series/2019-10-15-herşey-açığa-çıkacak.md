@@ -189,5 +189,18 @@ episodes:
       title: 'Hristiyan ilahi: Hayranım Sana'
       url: 'https://youtu.be/-4UOxPNke34'
       viewCount: '87771'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT3M50S
+      id: EjuJpXTEk7M
+      imageURL: 'https://i.ytimg.com/vi/EjuJpXTEk7M/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-06-05T15:24:40.000Z'
+      tags: 'ilahi,hristiyan,ezgi,isa mesih,incil,tevrat,zebur'
+      title: 'Hristiyan ilahi: Güveneceğim'
+      url: 'https://youtu.be/EjuJpXTEk7M'
+      viewCount: '13668'
 ---
 
