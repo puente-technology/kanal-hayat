@@ -1273,6 +1273,20 @@ questions:
           title: 65. Bölüm Hristiyanlıkta Ondalık
           url: 'https://www.youtube.com/watch?v=53gFqeMO2f4'
           viewCount: '217'
+      - guests: .
+        host: Ali Kalkandelen ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT29M26S
+          id: YFc_p3i6ABY
+          imageURL: 'https://i.ytimg.com/vi/YFc_p3i6ABY/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-09-10T06:48:02.000Z'
+          tags: Para Konusu
+          title: 64. Bölüm Hristiyanlıkta ve Kilisede Para Konusu
+          url: 'https://www.youtube.com/watch?v=YFc_p3i6ABY'
+          viewCount: '226'
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
