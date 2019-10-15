@@ -1313,42 +1313,25 @@ questions:
           url: 'https://youtu.be/8ZBYt2iw2cs'
           viewCount: '169'
   - answer: >-
-      2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: >-
-      Eğer kurtulduysam ve bütün günahlarım bağışlandıysa      neden günah
-      işlemeye devam etmeyeyim ki?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık.Hristiyanlar Oruç Tutuyor mu ? Hristiyanlıkta Oruç Var mı?
+    question: Hristiyanlar Oruç Tutuyor mu ? Hristiyanlıkta Oruç Var mı?
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Ali Kalkandelen ile
         targetGroup: Herkes
         youtubeURL:
-          description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
-
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
-
-            Connect with us on social! 
-
-            Facebook: Http://Bit.ly/LakewoodFB
-
-            Twitter: http://Bit.ly/LakewoodTW
-
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+          description: ''
+          duration: PT27M51S
+          id: mx_M20MUnjU
+          imageURL: 'https://i.ytimg.com/vi/mx_M20MUnjU/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
-          tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+          publishedAt: '2013-08-27T07:00:38.000Z'
+          tags: Oruç
+          title: 60. Bölüm Hristiyanlıkta Oruç
+          url: 'https://www.youtube.com/watch?v=mx_M20MUnjU'
+          viewCount: '2059'
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
