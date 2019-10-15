@@ -518,12 +518,7 @@ questions:
           title: 19. Bölüm İbadet
           url: 'https://www.youtube.com/watch?v=j3L3xbl_1M0'
           viewCount: '84'
-  - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık..Hristiyanlar nasıl dua ediyorlar? Hristiyanlar kime dua
-      ediyor? Gerçek dua nasıl ediliyor? Aşağıdaki programlarımızı izleyerek
-      detaylı bilgi edinebilirsiniz.Esen Kalın.
+  - answer: ' Bu nedenle, göksel Babanız yetkin olduğu gibi, siz de yetkin olun.”.Hristiyanlar nasıl dua ediyorlar? Hristiyanlar kime dua ediyor? Gerçek dua nasıl ediliyor? Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.'
     question: Hristiyanlık'ta Nasıl Dua Edilir?
     videos:
       - guests: .
