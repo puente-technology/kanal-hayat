@@ -422,5 +422,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ZiL1LYgSepw&list=PL902ABEBDFF147040&index=28&t=0s
       viewCount: '717'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M28S
+      id: 9FqDJYykPiY
+      imageURL: 'https://i.ytimg.com/vi/9FqDJYykPiY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-12-02T14:10:53.000Z'
+      tags: >-
+        ayna,söyle,bana,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,neler,olacak,yargı
+      title: 28- Ayna Ayna Söyle Bana
+      url: >-
+        https://www.youtube.com/watch?v=9FqDJYykPiY&list=PL902ABEBDFF147040&index=29&t=0s
+      viewCount: '747'
 ---
 
