@@ -122,5 +122,18 @@ episodes:
       title: Emanet Para Benzetmesi
       url: 'https://youtu.be/NP4mrTL9ofA'
       viewCount: '73'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT30M17S
+      id: YeDBqWMKd_Y
+      imageURL: 'https://i.ytimg.com/vi/YeDBqWMKd_Y/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-06-04T13:45:28.000Z'
+      tags: 'incil,bible,kutsal,kutsal ruh,hristiyan'
+      title: Acmasız Köle Benzetmesi
+      url: 'https://youtu.be/YeDBqWMKd_Y'
+      viewCount: '562'
 ---
 
