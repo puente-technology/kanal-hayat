@@ -347,5 +347,25 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=mmGW7gtIZNA&list=PL902ABEBDFF147040&index=53&t=0s
       viewCount: '1402'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: D-VQwc3-HbQ
+      imageURL: 'https://i.ytimg.com/vi/D-VQwc3-HbQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-08-22T11:43:50.000Z'
+      tags: >-
+        hristiyan,kilise,peygamber,isa mesih,protestan,katolik,ahiret
+        günü,kıyamet,yargı,günah,hristiyanlık,ahiret,hz isa,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal
+        ruh,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestanlar,zekeriya
+        butros,kirkor ağabaloğlu
+      title: 54- Kutsal Ruh'un Gücüyle Yaşamak
+      url: >-
+        https://www.youtube.com/watch?v=D-VQwc3-HbQ&list=PL902ABEBDFF147040&index=54&t=0s
+      viewCount: '4003'
 ---
 
