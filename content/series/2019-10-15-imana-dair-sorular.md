@@ -152,5 +152,38 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=aAXOCT3u9sM&list=PLB2653932E9326F00&index=5&t=0s
       viewCount: '4353'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M1S
+      id: WbuNX1JVVw4
+      imageURL: 'https://i.ytimg.com/vi/WbuNX1JVVw4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-10T11:26:11.000Z'
+      tags: >-
+        Hristiyan,musevi,hz.isa,yahudi,hristiyanlik,barnabas
+        incili,ahiret,kiyamet,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 05. Bölüm (Mesih Tanrı mıdır?)
+      url: >-
+        https://www.youtube.com/watch?v=WbuNX1JVVw4&list=PLB2653932E9326F00&index=6&t=0s
+      viewCount: '4152'
 ---
 
