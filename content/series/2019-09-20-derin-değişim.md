@@ -788,5 +788,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=yy0uQpbBYMQ&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=10&t=0s
       viewCount: '274'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M14S
+      id: VAjWqrATrb0
+      imageURL: 'https://i.ytimg.com/vi/VAjWqrATrb0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T09:53:00.000Z'
+      tags: bağışlama
+      title: Derin Değişim - Bağışlamak Nedir?
+      url: >-
+        https://www.youtube.com/watch?v=VAjWqrATrb0&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=11&t=0s
+      viewCount: '338'
 ---
 
