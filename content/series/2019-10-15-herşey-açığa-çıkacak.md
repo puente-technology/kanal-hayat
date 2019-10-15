@@ -202,5 +202,18 @@ episodes:
       title: 'Hristiyan ilahi: Güveneceğim'
       url: 'https://youtu.be/EjuJpXTEk7M'
       viewCount: '13668'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT3M36S
+      id: CNHhjxBqFvM
+      imageURL: 'https://i.ytimg.com/vi/CNHhjxBqFvM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-03T09:06:59.000Z'
+      tags: 'Rab,isa mesih,isa,tanri,allah,incil'
+      title: 'Hristiyan ilahi: Koru Beni'
+      url: 'https://youtu.be/CNHhjxBqFvM'
+      viewCount: '1958'
 ---
 
