@@ -257,5 +257,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=vXZLh6ak-rk&list=PL902ABEBDFF147040&index=47&t=0s
       viewCount: '198'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: JByDSQUXRok
+      imageURL: 'https://i.ytimg.com/vi/JByDSQUXRok/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-21T12:25:40.000Z'
+      tags: >-
+        korkusuz,yaşamak,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet
+      title: 48- Korkusuz Yaşamak
+      url: >-
+        https://www.youtube.com/watch?v=JByDSQUXRok&list=PL902ABEBDFF147040&index=48&t=0s
+      viewCount: '1456'
 ---
 
