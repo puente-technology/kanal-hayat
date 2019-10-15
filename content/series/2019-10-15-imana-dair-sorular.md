@@ -86,5 +86,38 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=J1vefH5bQqU&list=PLB2653932E9326F00&index=3&t=0s
       viewCount: '3773'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M10S
+      id: j0UdlsudpnA
+      imageURL: 'https://i.ytimg.com/vi/j0UdlsudpnA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-10T11:21:11.000Z'
+      tags: >-
+        kiyamet,ahiret,hz isa,hristiyan,hristiyanlik,incil,barnabas,zekeriya
+        butros,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 03. Bölüm (3 Tanrı mı var?) DEVAMI
+      url: >-
+        https://www.youtube.com/watch?v=j0UdlsudpnA&list=PLB2653932E9326F00&index=4&t=0s
+      viewCount: '2124'
 ---
 
