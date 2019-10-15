@@ -760,5 +760,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Bfh10AHMMd0&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=8&t=0s
       viewCount: '200'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT26M58S
+      id: HnqPusrycAs
+      imageURL: 'https://i.ytimg.com/vi/HnqPusrycAs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T09:52:13.000Z'
+      tags: bağışlama
+      title: Derin Değişim - Bağışlamak Neden Zor?
+      url: >-
+        https://www.youtube.com/watch?v=HnqPusrycAs&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=9&t=0s
+      viewCount: '107'
 ---
 
