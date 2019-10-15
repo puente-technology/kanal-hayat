@@ -346,5 +346,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=8SJASbPAy44&list=PL902ABEBDFF147040&index=23&t=0s
       viewCount: '1484'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: N2Jt5b5c6_E
+      imageURL: 'https://i.ytimg.com/vi/N2Jt5b5c6_E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-12-02T18:12:32.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 23- İlk Tercihiniz Kim?
+      url: >-
+        https://www.youtube.com/watch?v=N2Jt5b5c6_E&list=PL902ABEBDFF147040&index=24&t=0s
+      viewCount: '343'
 ---
 
