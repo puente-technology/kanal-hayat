@@ -1040,7 +1040,7 @@ questions:
   - answer: >-
       13 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Hristiyan meditasyonu nedir?
+    question: Hristiyanlıkta Kurban var mı ? Son kurban nedir?
     videos:
       - guests: Test
         host: Test
