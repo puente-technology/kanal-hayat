@@ -437,5 +437,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=9FqDJYykPiY&list=PL902ABEBDFF147040&index=29&t=0s
       viewCount: '747'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: 0zTQvpdLiQg
+      imageURL: 'https://i.ytimg.com/vi/0zTQvpdLiQg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-02-14T12:24:55.000Z'
+      tags: >-
+        Rab,çobanımdır,isa,mesih,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 30- Rab Çobanımdır
+      url: >-
+        https://www.youtube.com/watch?v=0zTQvpdLiQg&list=PL902ABEBDFF147040&index=30&t=0s
+      viewCount: '610'
 ---
 
