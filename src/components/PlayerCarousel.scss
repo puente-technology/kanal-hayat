@@ -162,7 +162,7 @@ $level1-left: 125px;
 .info {
     height: 100px;
     width: 300px;
-    font-size: 12px;
+    font-size: 11px;
     position: absolute;
     top: 120px;
     text-align: left;
@@ -229,10 +229,25 @@ $level1-left: 125px;
     .level1 {
         left: 125px;
     }
+
+    .left-enter {
+        left: -70px;
+     }
+    
     .left-enter.left-enter-active {
-       left: 110px;
+       left: 70px;
+    }
+    .player-info {
+        display: none;
     }
 }
+
+@media only screen and (max-width: 440px) and (min-width: 400px) {
+    .arrow-right-programmlar {
+        left: 440px;
+    }
+}
+
 @media (max-width: 320px){
     .arrow-right-programmlar {
         left: 340px !important;

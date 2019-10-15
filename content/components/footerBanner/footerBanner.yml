@@ -1,11 +1,15 @@
 program:
-  - link: link 2
+  - link: >-
+      https://www.youtube.com/watch?v=Ui3sELeZ8vE&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6
     programName: Anlatsana Ey Gavur
-  - link: link 5
+  - link: >-
+      https://www.youtube.com/watch?v=lH03jeXeX24&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh
     programName: Gerçeğin Sesi
-  - link: link 4
+  - link: >-
+      https://www.youtube.com/watch?v=i2UTACBUf28&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_
     programName: Hristiyan Şeriatı
-  - link: link 3
+  - link: >-
+      https://www.youtube.com/watch?v=UzotzuYs8m0&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy
     programName: Hristiyan Ahlâkı
-  - link: link 1
+  - link: 'https://www.youtube.com/watch?v=UJgtgnlNibU&list=PLCFFCCDDA9D6C2653'
     programName: 'Dar Kapıdan Girenler [Neden Hristiyan Oldum ?] '

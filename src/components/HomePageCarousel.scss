@@ -191,6 +191,9 @@ $level0-left-big: 500px;
     .homeLevel0 {
         left: 345px;
     }
+    .homeLevel1.left-enter {
+        left: -50px;
+    }
     .homeLevel1.left-enter.left-enter-active {
         left: 55px;
     }

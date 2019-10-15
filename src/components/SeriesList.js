@@ -23,11 +23,12 @@ class SeriesList extends Component {
     scrollLeftPosition: 0,
     scrollLeftMax: 1,
     windowWidth: window.innerWidth,
+    sortByNameBool: false,
+    sortByDateBool: false,
   }
 
   componentDidMount() {
     const { data } = this.props;
-    this.sortByName()
     this.setState({ listSeries: this.dataIntoArray(data) })
     window.addEventListener('resize', this.handleWindowSizeChange);
   }
@@ -96,8 +97,13 @@ class SeriesList extends Component {
   }
 
   sortByName = () => {
+    const { sortByNameBool, sortByDateBool, listSeries } = this.state
     const { data } = this.props;
-    const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => {
+    let dataToSort = data
+    if (sortByDateBool) {
+      dataToSort = listSeries
+    }
+    const res = Object.values(dataToSort).filter(x => x !== 'Seriler').sort((a, b) => {
       const atitle = a.node.frontmatter.title
       const btitle = b.node.frontmatter.title
       if (atitle > btitle) {
@@ -107,18 +113,23 @@ class SeriesList extends Component {
       }
       return 0
     })
-    this.setState({ listSeries: res })
+    this.setState({ listSeries: res, sortByNameBool: !sortByNameBool })
   }
 
   handleTextChange = (e) => {
     let { listSeries } = this.state;
+    const { data } = this.props;
+    if (e.target.value && listSeries.length === 0) {
+      listSeries = this.dataIntoArray(data)
+    }
     if (e.target.value === '') {
-      const { data } = this.props;
       listSeries = this.dataIntoArray(data)
     }
     const res = listSeries
-      .filter(d => d.node.frontmatter.title.toLowerCase().includes(e.target.value.toLowerCase()))
-
+      .filter(d => (
+        d.node.frontmatter.title.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().includes(e.target.value.toLowerCase())
+        || d.node.frontmatter.host.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().includes(e.target.value.toLowerCase())
+      ))
     this.setState({ listSeries: res, selectedCategories: [], expandedDiv: '' })
   }
 
@@ -155,7 +166,12 @@ class SeriesList extends Component {
 
   sortByDate = () => {
     const { data } = this.props;
-    const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => {
+    const { sortByDateBool, sortByNameBool, listSeries } = this.state
+    let dataToSort = data
+    if (sortByNameBool) {
+      dataToSort = listSeries
+    }
+    const res = Object.values(dataToSort).filter(x => x !== 'Seriler').sort((a, b) => {
       const episodesInfoA = a.node.frontmatter.episodes || []
       const episodesInfoB = b.node.frontmatter.episodes || []
       const aepisodes = episodesInfoA
@@ -171,7 +187,7 @@ class SeriesList extends Component {
       }
       return 0;
     })
-    this.setState({ listSeries: res })
+    this.setState({ listSeries: res, sortByDateBool: !sortByDateBool })
   }
 
   handleScroll = (e) => {
@@ -192,6 +208,8 @@ class SeriesList extends Component {
       scrollLeftMax,
       scrollLeftPosition,
       windowWidth,
+      sortByNameBool,
+      sortByDateBool,
     } = this.state;
     const { hosts, hostList } = this.props
     const renderSeries = []
@@ -322,11 +340,25 @@ class SeriesList extends Component {
         </div>
 
         <div className="SeriesListSortAndFilter">
-          <button value="title" onClick={this.handleSortByClick} type="button" className="SortButton">Program İsmi</button>
-          <button value="date" onClick={this.handleSortByDateClick} type="button" className="SortButton">Tarih</button>
+          <button
+            value="title"
+            onClick={this.handleSortByClick}
+            type="button"
+            className={sortByNameBool ? 'SortButton active' : 'SortButton'}
+          >
+            Program İsmi
+          </button>
+          <button
+            value="date"
+            onClick={this.handleSortByDateClick}
+            type="button"
+            className={sortByDateBool ? 'SortButton active' : 'SortButton'}
+          >
+            Tarih
+          </button>
           <Dropdown handleLanguageChange={this.handleLanguageChange} list={['Dil', 'Turkce', 'English']} />
           <Dropdown handleTargetChange={this.handleTargetChange} list={['Hedef Kitle', 'Herkes', 'Çocuk', 'Genç', 'Yetişkin']} />
-          <Dropdown handleHostChange={this.handleHostChange} list={hostList} />
+          {/* <Dropdown handleHostChange={this.handleHostChange} list={hostList} /> */}
           <input onChange={this.handleTextChange} className="Nav--Search filter" type="text" />
         </div>
         <div className="SeriesContainer">

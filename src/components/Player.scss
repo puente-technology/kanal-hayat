@@ -146,6 +146,14 @@
 		text-align: left;
 	}
 }
+
+.player-volume-path-rec {
+	border: none;
+    min-width: 30px;
+    min-height: 24px;
+    padding-top: 1.8rem;
+    margin-right: 15px;
+}
 .player-subtitle {
 	font-size: 0.9rem;
 	line-height: 1.5rem;
@@ -599,7 +607,7 @@ input[type=range]::-moz-range-thumb {
 				height: 15rem !important;
 			}
 			.player-bar {
-				width: 90%;
+				width: 135%;
 			}
 		}
 		&.isBig {
@@ -709,7 +717,7 @@ input[type=range]::-moz-range-thumb {
 		top: -7px;
 		align-items: flex-end;
 		.player-screen-control {
-			margin-top: 8rem;
+			margin-top: 10rem;
 		}
 	}
 
@@ -745,7 +753,7 @@ input[type=range]::-moz-range-thumb {
 		border-radius: 30px;
 		height: 45px;
 		width: 45px;
-		margin-top: 40px;
+		margin-top: 45px;
 		padding-top: 7px;
 	}
 
@@ -775,7 +783,9 @@ input[type=range]::-moz-range-thumb {
 	}
 
 	.player-bar-bar {
-		right: 0;
+		right: 0px;
+		left: 0px;
+		width: 85%;
 	}
 
 	.bigScreenInfo {
@@ -783,7 +793,7 @@ input[type=range]::-moz-range-thumb {
 		margin-top: 13px;
 	}
 	.player-volume {
-		margin-top: 8rem;
+		margin-top: 10rem;
 		margin-left: 0px; 
 	}
 	.player-bar {
@@ -791,6 +801,25 @@ input[type=range]::-moz-range-thumb {
 	}
 	.player-controls {
 		justify-content: flex-start;
+		margin-top: 2.5rem;
+	}
+}
+
+@media only screen and (max-width: 800px) and (min-width: 700px) {
+	.player-volume-path-rec {
+		min-width: 47px !important;
+	}
+	.player-volume-path-full-screen {
+		min-width: 31px !important;
+	}
+}
+
+@media only screen and (max-width: 800px) and (min-width: 768px) {
+	.player-elapsed {
+		margin-top: 20px;
+	}
+	.player-remaining {
+		margin-top: 20px;
 	}
 }
 
@@ -858,11 +887,11 @@ input[type=range]::-moz-range-thumb {
 		margin-top: 0px;
 	}
 	.player-bar {
-		margin-left: 40px;
+		margin-left: 140px;
 		margin-top: 11px;
 	}
 	.player-remaining {
-		right: -5px;
+		/* right: -30px; */
 		font-size: 12px;
     	margin-top: 10px;
 	}
@@ -885,19 +914,33 @@ input[type=range]::-moz-range-thumb {
 		border-radius: 30px;
 		height: 35px;
 		width: 35px;
-		margin-top: 21px;
+		margin-top: 15px;
 		padding-top: 7px;
 	}
-	.player-bar-bar {
+	/* .player-bar-bar {
 		right: 25px;
 		left: 6rem !important;
-	}
+	}*/
 	.player-expand .player-screen-control {
 		margin-top: 28px;
 		margin-right: -6px;
 	}
 	#player.isBig .player-remaining {
 		right: -25px;
+	}
+	.player-volume-path-rec {
+		margin-right: 7px;
+	}
+	.playPause-button {
+		left: 116px;
+		margin-top: 13px;
+	}
+}
+
+@media only screen and (max-width: 440px) and (min-width: 400px) {
+	.playPause-button {
+		left: 124px;
+		margin-top: 18px;
 	}
 }
 
@@ -911,4 +954,12 @@ input[type=range]::-moz-range-thumb {
 	#player.collapsed .player-bar {
 		width: 85%;
 	}
+	.player-bar-bar {
+		/* rightx: 44px; */
+		left: 10px;
+	}
+	.playPause-button {
+		margin-top: 14px;
+	}
+	
 }
