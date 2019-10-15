@@ -44,5 +44,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=zcd3BCBDhDs&list=PL902ABEBDFF147040&index=3&t=0s
       viewCount: '2338'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: bv2XPudGNRU
+      imageURL: 'https://i.ytimg.com/vi/bv2XPudGNRU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-22T08:45:25.000Z'
+      tags: >-
+        İlahi,Şifa,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 3- İlahi Şİfa
+      url: >-
+        https://www.youtube.com/watch?v=bv2XPudGNRU&list=PL902ABEBDFF147040&index=4&t=0s
+      viewCount: '3188'
 ---
 
