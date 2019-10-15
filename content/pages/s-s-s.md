@@ -284,9 +284,9 @@ questions:
           url: 'https://www.youtube.com/watch?v=bFT81Dw_bnc'
           viewCount: '2544'
   - answer: >-
-      Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık.. İncil Değiştirildi mi ve Kaç İncil Var? İncil'i Papazlar
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. İncil Değiştirildi mi ve Kaç İncil Var? İncil'i Papazlar
       mı değiştirdi? Tanrı sözünü koruyamadı mı? Aşağıdaki programlarımızı
       izleyebilirsiniz.Esen Kalın.
     question: İncil Değiştirildi mi?
