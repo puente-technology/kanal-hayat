@@ -597,12 +597,7 @@ questions:
           title: Hristiyanlık Şeriatı - Seçilmişlik ve Dua
           url: 'https://www.youtube.com/watch?v=WxBiFjMSpDg'
           viewCount: '492'
-  - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık..Hristiyanlıkta evlilik nasıldır? Hristiyanlık’ta evlilik
-      ve aile olgusu nasıldır? İncil evlilik hakkında neler söylüyor? aşağıdaki
-      programlarımızı izleyerek detaylı bilgi edinebilirsiniz..Esen Kalın.
+  - answer: ' Bu nedenle, göksel Babanız yetkin olduğu gibi, siz de yetkin olun.”.Hristiyanlıkta evlilik nasıldır? Hristiyanlık’ta evlilik ve aile olgusu nasıldır? İncil evlilik hakkında neler söylüyor? aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz..Esen Kalın.'
     question: 'Hristiyanlıkta Evlilik '
     videos:
       - guests: .
