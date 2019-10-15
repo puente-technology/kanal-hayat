@@ -1365,7 +1365,7 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık.Rab'bin Sofrası / Komünyon nedir? Kimler Bu Sofradan
+      için yanıtladık. Rab'bin Sofrası / Komünyon nedir? Kimler Bu Sofradan
       Alabilir? 
     question: 'Rab''bin Sofrası / Komünyon nedir? Kimler Bu Sofradan Alabilir? '
     videos:
