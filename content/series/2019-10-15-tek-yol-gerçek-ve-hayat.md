@@ -29,5 +29,20 @@ episodes:
       title: 1- Rab'bin Sevgi Mektubu
       url: 'https://youtu.be/6viVYWPJPAo'
       viewCount: '11452'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT56M52S
+      id: zcd3BCBDhDs
+      imageURL: 'https://i.ytimg.com/vi/zcd3BCBDhDs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-22T08:44:08.000Z'
+      tags: >-
+        Yargılamak,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 2- Yargılamak
+      url: >-
+        https://www.youtube.com/watch?v=zcd3BCBDhDs&list=PL902ABEBDFF147040&index=3&t=0s
+      viewCount: '2338'
 ---
 
