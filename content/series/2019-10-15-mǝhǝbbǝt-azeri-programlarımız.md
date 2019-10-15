@@ -281,5 +281,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=OGzeZWgyBOk&list=PLB89F99B2B1B2BD7A&index=15&t=0s
       viewCount: '288'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT29M36S
+      id: f2V4YOXMEcI
+      imageURL: 'https://i.ytimg.com/vi/f2V4YOXMEcI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-05T10:59:55.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Mǝhǝbbǝt 14. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=f2V4YOXMEcI&list=PLB89F99B2B1B2BD7A&index=16&t=0s
+      viewCount: '110'
 ---
 
