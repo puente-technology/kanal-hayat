@@ -215,5 +215,18 @@ episodes:
       title: 'Hristiyan ilahi: Koru Beni'
       url: 'https://youtu.be/CNHhjxBqFvM'
       viewCount: '1958'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT4M30S
+      id: D9z3VNHi6HQ
+      imageURL: 'https://i.ytimg.com/vi/D9z3VNHi6HQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-03T09:56:17.000Z'
+      tags: Lütfun
+      title: 'Hristiyan ilahi: Rab Lütfun Yeter'
+      url: 'https://youtu.be/D9z3VNHi6HQ'
+      viewCount: '3823'
 ---
 
