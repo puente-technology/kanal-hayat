@@ -163,5 +163,18 @@ episodes:
       title: 'Hristiyan ilahisi: Habakkuk'
       url: 'https://youtu.be/G4ly0mTLiUs'
       viewCount: '28141'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT5M49S
+      id: aOyvMtCEPaA
+      imageURL: 'https://i.ytimg.com/vi/aOyvMtCEPaA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-06-23T10:07:47.000Z'
+      tags: 'hristiyan ilahi,ilahi,ezgi,genclik'
+      title: 'Hristiyan ilahi: Dilimden Eksilmez'
+      url: 'https://youtu.be/aOyvMtCEPaA'
+      viewCount: '12670'
 ---
 
