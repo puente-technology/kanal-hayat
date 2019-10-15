@@ -225,6 +225,7 @@ collections:
         label: 'S. S. S.'
         name: 's-s-s'
         fields:
+          - { label: Slug, name: slug, widget: hidden, default: '' }
           - { label: "Locale", name: "locale", widget: "hidden", default: "tr"}
           - { label: Template, name: template, widget: hidden}
           - { label: Title, name: title, widget: string }
