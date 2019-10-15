@@ -442,7 +442,7 @@ questions:
           title: 11. Bölüm Kutsal Ruh'a Nasıl Sahip Olabiliriz?
           url: 'https://www.youtube.com/watch?v=kFqoAbWGToo'
           viewCount: '6633'
-  - answer: ' Bu nedenle, göksel Babanız yetkin olduğu gibi, siz de yetkin olun.”.Hristiyan ahlakı ve ibadeti nedir? Hristiyanların evliliğe bakış açılarını merak ediyorum? Hristiyanların yalana bakış açısını merak ediyorum? Hristiyanların günaha bakış açısını merak ediyorum? Aşağıdaki programları izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.'
+  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. .Hristiyan ahlakı ve ibadeti nedir? Hristiyanların evliliğe bakış açılarını merak ediyorum? Hristiyanların yalana bakış açısını merak ediyorum? Hristiyanların günaha bakış açısını merak ediyorum? Aşağıdaki programları izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.'
     question: Hristiyan Ahlakı ve İbadeti
     videos:
       - guests: .
@@ -518,7 +518,12 @@ questions:
           title: 19. Bölüm İbadet
           url: 'https://www.youtube.com/watch?v=j3L3xbl_1M0'
           viewCount: '84'
-  - answer: ' Bu nedenle, göksel Babanız yetkin olduğu gibi, siz de yetkin olun.”.Hristiyanlar nasıl dua ediyorlar? Hristiyanlar kime dua ediyor? Gerçek dua nasıl ediliyor? Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.'
+  - answer: >-
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. .Hristiyanlar nasıl dua ediyorlar? Hristiyanlar kime dua
+      ediyor? Gerçek dua nasıl ediliyor? Aşağıdaki programlarımızı izleyerek
+      detaylı bilgi edinebilirsiniz.Esen Kalın.
     question: Hristiyanlık'ta Nasıl Dua Edilir?
     videos:
       - guests: .
@@ -597,7 +602,7 @@ questions:
           title: Hristiyanlık Şeriatı - Seçilmişlik ve Dua
           url: 'https://www.youtube.com/watch?v=WxBiFjMSpDg'
           viewCount: '492'
-  - answer: ' Bu nedenle, göksel Babanız yetkin olduğu gibi, siz de yetkin olun.”.Hristiyanlıkta evlilik nasıldır? Hristiyanlık’ta evlilik ve aile olgusu nasıldır? İncil evlilik hakkında neler söylüyor? aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz..Esen Kalın.'
+  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. .Hristiyanlıkta evlilik nasıldır? Hristiyanlık’ta evlilik ve aile olgusu nasıldır? İncil evlilik hakkında neler söylüyor? aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz..Esen Kalın.'
     question: 'Hristiyanlıkta Evlilik '
     videos:
       - guests: .
@@ -679,7 +684,12 @@ questions:
           title: Tek Beden Olmak - 1
           url: 'https://www.youtube.com/watch?v=t0eMqamzg04'
           viewCount: '809'
-  - answer: ' Bu nedenle, göksel Babanız yetkin olduğu gibi, siz de yetkin olun.”.İznik Konseyinde ne oldu? İznik Konsili''nde Neler Yaşandı? (İncil Sallama Olayının Perde Arkası) Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.'
+  - answer: >-
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. .İznik Konseyinde ne oldu? İznik Konsili'nde Neler
+      Yaşandı? (İncil Sallama Olayının Perde Arkası) Aşağıdaki programlarımızı
+      izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.
     question: 'İznik Konseyinde Neler oldu? '
     videos:
       - guests: .
@@ -754,9 +764,9 @@ questions:
           url: 'https://youtu.be/WlqcAXZpo24'
           viewCount: '2009'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık..Misyonerlik Nedir? Bölücülük mü?Misyonerler kimlerdir?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. .Misyonerlik Nedir? Bölücülük mü?Misyonerler kimlerdir?
       Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen
       Kalın.
     question: Misyonerlerin Çıkardığı Savaşlar
@@ -850,9 +860,9 @@ questions:
           url: 'https://www.youtube.com/watch?v=eqx0ZkQeTDA'
           viewCount: '1490'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık..Hristiyanlıkta kurtuluş kesin mi? İman ettiğimde
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Hristiyanlıkta kurtuluş kesin mi? İman ettiğimde
       kurtulacağımı nasıl bilebilirim? Kurtuluş için bir şey yapmam gerekiyor
       mu? Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen
       Kalın.
