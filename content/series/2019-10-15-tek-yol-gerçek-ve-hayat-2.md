@@ -428,5 +428,20 @@ episodes:
       title: 58- Peygamberlik Hediyesi
       url: 'https://youtu.be/5lyOdWek32g'
       viewCount: '345'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: FS-HF-rjg0k
+      imageURL: 'https://i.ytimg.com/vi/FS-HF-rjg0k/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-08-23T08:25:32.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 59- Peygamberlik mi? Fal mı?
+      url: >-
+        https://www.youtube.com/watch?v=FS-HF-rjg0k&list=PL902ABEBDFF147040&index=59&t=0s
+      viewCount: '413'
 ---
 
