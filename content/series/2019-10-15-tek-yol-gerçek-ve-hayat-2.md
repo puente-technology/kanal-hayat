@@ -178,5 +178,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=SUHBqcgoATk&list=PL902ABEBDFF147040&index=42&t=0s
       viewCount: '264'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT58M30S
+      id: o2bYP4y0Izo
+      imageURL: 'https://i.ytimg.com/vi/o2bYP4y0Izo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-04-16T14:27:38.000Z'
+      tags: >-
+        tanrı,ile,yaşamak,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet
+      title: 43-Tanrı'yla Yaşamak
+      url: >-
+        https://www.youtube.com/watch?v=o2bYP4y0Izo&list=PL902ABEBDFF147040&index=43&t=0s
+      viewCount: '723'
 ---
 
