@@ -229,7 +229,6 @@ class Player extends Component {
       expandBool,
       isBigScreenState,
       isOpen,
-      isPlayerInfoOpen,
       hoverBool,
       showinfoBool,
       fullscreen,
