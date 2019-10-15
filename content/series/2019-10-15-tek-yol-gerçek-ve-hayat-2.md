@@ -272,5 +272,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=JByDSQUXRok&list=PL902ABEBDFF147040&index=48&t=0s
       viewCount: '1456'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT58M30S
+      id: V-NiDSx8p1k
+      imageURL: 'https://i.ytimg.com/vi/V-NiDSx8p1k/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-24T11:23:53.000Z'
+      tags: >-
+        affetmek,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı,bağışlama
+      title: 49. Bölüm En Zoru Affetmek
+      url: >-
+        https://www.youtube.com/watch?v=V-NiDSx8p1k&list=PL902ABEBDFF147040&index=49&t=0s
+      viewCount: '818'
 ---
 
