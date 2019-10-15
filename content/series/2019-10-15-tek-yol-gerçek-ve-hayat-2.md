@@ -242,5 +242,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Lq6qctuzRQk&list=PL902ABEBDFF147040&index=46&t=0s
       viewCount: '286'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT58M30S
+      id: vXZLh6ak-rk
+      imageURL: 'https://i.ytimg.com/vi/vXZLh6ak-rk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-21T08:24:55.000Z'
+      tags: >-
+        kanın,gücü,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 47- Kanın Gücü
+      url: >-
+        https://www.youtube.com/watch?v=vXZLh6ak-rk&list=PL902ABEBDFF147040&index=47&t=0s
+      viewCount: '198'
 ---
 
