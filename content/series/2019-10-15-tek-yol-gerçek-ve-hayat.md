@@ -392,5 +392,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=njR118mrwBg&list=PL902ABEBDFF147040&index=26&t=0s
       viewCount: '1344'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT58M31S
+      id: yHOuD9ivWC0
+      imageURL: 'https://i.ytimg.com/vi/yHOuD9ivWC0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-30T18:34:57.000Z'
+      tags: >-
+        rab'bin,sofrası,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: '26- RAB''bin Sofrası, Ekmek ve Üzüm'
+      url: >-
+        https://www.youtube.com/watch?v=yHOuD9ivWC0&list=PL902ABEBDFF147040&index=27&t=0s
+      viewCount: '570'
 ---
 
