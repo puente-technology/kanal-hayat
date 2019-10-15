@@ -96,5 +96,18 @@ episodes:
       title: Göksel Hazineler
       url: 'https://youtu.be/p-qN7G2j-30'
       viewCount: '230'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M1S
+      id: tGp2bSLZQjA
+      imageURL: 'https://i.ytimg.com/vi/tGp2bSLZQjA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-21T07:04:48.000Z'
+      tags: bağ
+      title: Bağ Kiracıları
+      url: 'https://youtu.be/tGp2bSLZQjA'
+      viewCount: '94'
 ---
 
