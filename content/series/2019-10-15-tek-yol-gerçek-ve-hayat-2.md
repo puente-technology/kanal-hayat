@@ -133,5 +133,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Ospxip1P0CY&list=PL902ABEBDFF147040&index=39&t=0s
       viewCount: '1443'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ' '
+      duration: PT58M34S
+      id: hBMKG_5qAbY
+      imageURL: 'https://i.ytimg.com/vi/hBMKG_5qAbY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-05T12:23:15.000Z'
+      tags: >-
+        maskelere,elveda,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 40- Maskelere Elveda
+      url: >-
+        https://www.youtube.com/watch?v=hBMKG_5qAbY&list=PL902ABEBDFF147040&index=40&t=0s
+      viewCount: '576'
 ---
 
