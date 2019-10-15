@@ -109,5 +109,18 @@ episodes:
       title: Bağ Kiracıları
       url: 'https://youtu.be/tGp2bSLZQjA'
       viewCount: '94'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT26M19S
+      id: NP4mrTL9ofA
+      imageURL: 'https://i.ytimg.com/vi/NP4mrTL9ofA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-20T12:51:13.000Z'
+      tags: 'incil,tevrat,zebur,kutsal kitap,tanrı sözü,mesih,kutsal,ahiret'
+      title: Emanet Para Benzetmesi
+      url: 'https://youtu.be/NP4mrTL9ofA'
+      viewCount: '73'
 ---
 
