@@ -2,7 +2,7 @@
 slug: s-s-s
 locale: en
 template: SSS
-title: S. S. S.
+title: Sık Sorulan Sorular ?
 questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
