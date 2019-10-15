@@ -218,5 +218,38 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=npYKIZMtQA4&list=PLB2653932E9326F00&index=7&t=0s
       viewCount: '1797'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M
+      id: _wvfDqaE1ow
+      imageURL: 'https://i.ytimg.com/vi/_wvfDqaE1ow/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-10T11:01:40.000Z'
+      tags: >-
+        Hristiyan,musevi,hz.isa,yahudi,hristiyanlik,barnabas
+        incili,ahiret,kiyamet,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 07. Bölüm (Tanrı'nın Oğlu ne demek?)
+      url: >-
+        https://www.youtube.com/watch?v=_wvfDqaE1ow&list=PLB2653932E9326F00&index=8&t=0s
+      viewCount: '2341'
 ---
 
