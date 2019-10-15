@@ -1038,9 +1038,11 @@ questions:
           url: 'https://youtu.be/DanYnWZnKJY'
           viewCount: '430'
   - answer: >-
-      13 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Hristiyanlıkta Kurban var mı ? Son kurban nedir?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Hristiyanlıkta kurban var mı ? Son kurban nedir? İsa
+      Mesih neden çarmıha gitti?
+    question: Hristiyanlıkta kurban var mı ? Son kurban nedir?
     videos:
       - guests: .
         host: 'Serdar Dedeoğlu ve Gülhan ile '
@@ -1056,6 +1058,39 @@ questions:
           title: 20. Bölüm Kurban ve Çarmıh
           url: 'https://www.youtube.com/watch?v=HCPthLmYOGs'
           viewCount: '333'
+      - guests: .
+        host: Zekeriya Butrus ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize
+            sorduğumuz pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı
+            sayfamızdan takip edebilirsiniz.
+
+            Tanrı var mı ? 
+
+            Tanrı Oğlu Ne Demek?
+
+            Hristiyanlık Kavramı Nedir?
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT29M1S
+          id: 077Kd8FcflA
+          imageURL: 'https://i.ytimg.com/vi/077Kd8FcflA/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2011-11-10T11:15:51.000Z'
+          tags: >-
+            Hristiyanlık,hristiyan,hz
+            isa,peygamber,allah,tanrı,kiyamet,ahiret,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,İman,Hz.,İsa,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+          title: 13. Bölüm (İsa'nın kurban edilmesi)
+          url: 'https://www.youtube.com/watch?v=077Kd8FcflA'
+          viewCount: '1187'
   - answer: >-
       14 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
