@@ -243,5 +243,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=9vKfTtIs98E&list=PLB89F99B2B1B2BD7A&index=13&t=0s
       viewCount: '132'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M59S
+      id: DE58hEmEI-4
+      imageURL: 'https://i.ytimg.com/vi/DE58hEmEI-4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-05T11:00:53.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Mǝhǝbbǝt 12. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=DE58hEmEI-4&list=PLB89F99B2B1B2BD7A&index=14&t=0s
+      viewCount: '194'
 ---
 
