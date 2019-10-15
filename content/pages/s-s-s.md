@@ -1506,5 +1506,19 @@ questions:
           title: 'Gerçeğin Sesi - "Kilise" aslında bir BİNA değildir [103]'
           url: 'https://www.youtube.com/watch?v=4P0CBQxrVAo'
           viewCount: '198'
+      - guests: .
+        host: Işık Abla ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT29M24S
+          id: Km1bRG_jqvc
+          imageURL: 'https://i.ytimg.com/vi/Km1bRG_jqvc/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-07-11T08:26:21.000Z'
+          tags: Kilisenin Görevleri Nedir?
+          title: 15. Bölüm Kilise Nedir? Kilisenin Görevleri Nedir?
+          url: 'https://www.youtube.com/watch?v=Km1bRG_jqvc'
+          viewCount: '2367'
 ---
 
