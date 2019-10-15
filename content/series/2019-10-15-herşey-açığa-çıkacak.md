@@ -70,5 +70,18 @@ episodes:
       title: Ödünç
       url: 'https://youtu.be/T6I20VWoQU8'
       viewCount: '148'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M28S
+      id: EzONOBp2SCM
+      imageURL: 'https://i.ytimg.com/vi/EzONOBp2SCM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-21T07:35:46.000Z'
+      tags: oğul
+      title: Kaybolan Oğul
+      url: 'https://youtu.be/EzONOBp2SCM'
+      viewCount: '139'
 ---
 
