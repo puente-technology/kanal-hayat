@@ -1,12 +1,12 @@
 ---
+slug: s-s-s
 locale: en
 template: SSS
-slug: s-s-s
 title: S. S. S.
 questions:
   - answer: >-
-      Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
       için yanıtladık..İsa Mesih’i özel kılan tam olarak nedir? İncil’de İsa
       Mesih hangi kimliklere sahiptir?  İsa Mesih yaptığı mucizeler ve
       belirtileri kimin gücüyle yaptı? Tanrı'nın Oğlu Ne demektir? Aşağıdaki
@@ -100,9 +100,9 @@ questions:
           url: 'https://www.youtube.com/watch?v=IKX6ppjV_V8'
           viewCount: '4318'
   - answer: >-
-      Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık..Tanrı’nın Kimliği Nasıl Anlayabiliriz? Kutsal Kitap bize
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Tanrı’nın Kimliği Nasıl Anlayabiliriz? Kutsal Kitap bize
       Tanrı’nın Kimliğini açıklar mı ? Tanrı Kendini Kutsal Kitap’ta bize nasıl
       açıklıyor? Aşağıdaki programlarımızı izleyerek detaylı bilgi
       edinebilirsiniz.Esen Kalın.
@@ -189,9 +189,9 @@ questions:
           url: 'https://youtu.be/XLIMWH2r2yo'
           viewCount: '414'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık..Teslis Nedir? Nereden Çıktı Bu "Üçlü Birlik"(Teslis)?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık.Teslis Nedir? Nereden Çıktı Bu "Üçlü Birlik"(Teslis)?
       Hristiyanlar üç Tanrı'ya mı inanıyor? 
     question: Tevhid'te Teslis - Üçlü Birlik Nedir?
     videos:
@@ -284,9 +284,9 @@ questions:
           url: 'https://www.youtube.com/watch?v=bFT81Dw_bnc'
           viewCount: '2544'
   - answer: >-
-      Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık.. İncil Değiştirildi mi ve Kaç İncil Var? İncil'i Papazlar
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. İncil Değiştirildi mi ve Kaç İncil Var? İncil'i Papazlar
       mı değiştirdi? Tanrı sözünü koruyamadı mı? Aşağıdaki programlarımızı
       izleyebilirsiniz.Esen Kalın.
     question: İncil Değiştirildi mi?
@@ -366,9 +366,9 @@ questions:
           url: 'https://www.youtube.com/watch?v=3vZ5m_brbLM'
           viewCount: '8688'
   - answer: >-
-      Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık..Kutsal Ruh nedir? Kutsal Ruh Tanrı mı?  Kutsal Ruh
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Kutsal Ruh nedir? Kutsal Ruh Tanrı mı?  Kutsal Ruh
       öğretir mi ? Kutsal Ruhun amacı nedir? Aşağıdaki programlarımızı
       izleyerek  detaylı bilgi edinebilirsiniz.Esen Kalın.
     question: Kutsal Ruh Nedir?
@@ -442,14 +442,7 @@ questions:
           title: 11. Bölüm Kutsal Ruh'a Nasıl Sahip Olabiliriz?
           url: 'https://www.youtube.com/watch?v=kFqoAbWGToo'
           viewCount: '6633'
-  - answer: >-
-      Sevgili ziyaretçimiz,  bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık..Hristiyan ahlakı ve ibadeti nedir? Hristiyanların
-      evliliğe bakış açılarını merak ediyorum? Hristiyanların yalana bakış
-      açısını merak ediyorum? Hristiyanların günaha bakış açısını merak
-      ediyorum? Aşağıdaki programları izleyerek detaylı bilgi
-      edinebilirsiniz.Esen Kalın.
+  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. .Hristiyan ahlakı ve ibadeti nedir? Hristiyanların evliliğe bakış açılarını merak ediyorum? Hristiyanların yalana bakış açısını merak ediyorum? Hristiyanların günaha bakış açısını merak ediyorum? Aşağıdaki programları izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.'
     question: Hristiyan Ahlakı ve İbadeti
     videos:
       - guests: .
@@ -526,9 +519,9 @@ questions:
           url: 'https://www.youtube.com/watch?v=j3L3xbl_1M0'
           viewCount: '84'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık..Hristiyanlar nasıl dua ediyorlar? Hristiyanlar kime dua
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. .Hristiyanlar nasıl dua ediyorlar? Hristiyanlar kime dua
       ediyor? Gerçek dua nasıl ediliyor? Aşağıdaki programlarımızı izleyerek
       detaylı bilgi edinebilirsiniz.Esen Kalın.
     question: Hristiyanlık'ta Nasıl Dua Edilir?
@@ -609,12 +602,7 @@ questions:
           title: Hristiyanlık Şeriatı - Seçilmişlik ve Dua
           url: 'https://www.youtube.com/watch?v=WxBiFjMSpDg'
           viewCount: '492'
-  - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık..Hristiyanlıkta evlilik nasıldır? Hristiyanlık’ta evlilik
-      ve aile olgusu nasıldır? İncil evlilik hakkında neler söylüyor? aşağıdaki
-      programlarımızı izleyerek detaylı bilgi edinebilirsiniz..Esen Kalın.
+  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. .Hristiyanlıkta evlilik nasıldır? Hristiyanlık’ta evlilik ve aile olgusu nasıldır? İncil evlilik hakkında neler söylüyor? aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz..Esen Kalın.'
     question: 'Hristiyanlıkta Evlilik '
     videos:
       - guests: .
@@ -697,9 +685,9 @@ questions:
           url: 'https://www.youtube.com/watch?v=t0eMqamzg04'
           viewCount: '809'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık..İznik Konseyinde ne oldu? İznik Konsili'nde Neler
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. .İznik Konseyinde ne oldu? İznik Konsili'nde Neler
       Yaşandı? (İncil Sallama Olayının Perde Arkası) Aşağıdaki programlarımızı
       izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.
     question: 'İznik Konseyinde Neler oldu? '
@@ -776,9 +764,9 @@ questions:
           url: 'https://youtu.be/WlqcAXZpo24'
           viewCount: '2009'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık..Misyonerlik Nedir? Bölücülük mü?Misyonerler kimlerdir?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. .Misyonerlik Nedir? Bölücülük mü?Misyonerler kimlerdir?
       Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen
       Kalın.
     question: Misyonerlerin Çıkardığı Savaşlar
@@ -872,9 +860,9 @@ questions:
           url: 'https://www.youtube.com/watch?v=eqx0ZkQeTDA'
           viewCount: '1490'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil bazlı
-      programlarımızla Hristiyanlık inancı hakkında sık sorulan sorular sizler
-      için yanıtladık..Hristiyanlıkta kurtuluş kesin mi? İman ettiğimde
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Hristiyanlıkta kurtuluş kesin mi? İman ettiğimde
       kurtulacağımı nasıl bilebilirim? Kurtuluş için bir şey yapmam gerekiyor
       mu? Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen
       Kalın.
@@ -990,40 +978,65 @@ questions:
           url: 'https://www.youtube.com/watch?v=cCIz3FC6_yw'
           viewCount: '675'
   - answer: >-
-      12 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Hıristiyan hayatımda sevinci nasıl yaşayabilirim?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Vaftiz Nedir? İman ettim ama vaftiz olmasam olur mu ?
+      Vaftiz mi bizi kurtarıyor? İsa Mesih vaftiz oldu mu ?
+    question: Vaftiz Nedir? İman Ettim Vaftiz Olmam Gerekiyor Mu?
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Ahmet Güvener ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT26M49S
+          id: aqt3pVzPF0I
+          imageURL: 'https://i.ytimg.com/vi/aqt3pVzPF0I/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2019-03-01T16:59:15.000Z'
+          tags: 'hristiyanlık,hristiyan,kilise,hz isa,isa mesih,incil'
+          title: İsa Mesih İnsan Değilse Neden Vaftiz Oldu?
+          url: 'https://www.youtube.com/watch?v=aqt3pVzPF0I'
+          viewCount: '1119'
+      - guests: .
+        host: Memduh Uysal ve Işık Abla ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT29M26S
+          id: 4us0OyZxKj8
+          imageURL: 'https://i.ytimg.com/vi/4us0OyZxKj8/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-09-04T12:10:19.000Z'
+          tags: 'şeria,ırmağı,vaftiz'
+          title: 23. Bölüm İsa Mesih Şeria Irmağında Vaftiz Ediliyor
+          url: 'https://www.youtube.com/watch?v=4us0OyZxKj8'
+          viewCount: '1348'
+      - guests: .
+        host: 'Hakan Taştan ile '
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            31. Bölüm Vaftiz
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
 
-            Connect with us on social! 
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
 
-            Facebook: Http://Bit.ly/LakewoodFB
-
-            Twitter: http://Bit.ly/LakewoodTW
-
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            Esen Kalın.
+          duration: PT25M51S
+          id: DanYnWZnKJY
+          imageURL: 'https://i.ytimg.com/vi/DanYnWZnKJY/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
+          publishedAt: '2013-06-25T06:29:42.000Z'
           tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+            hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa mesih,mesih,Rab,Allah,Turkey,Istanbul,Asker
+          title: Gerçeğin Sesi - Vaftiz 31.Bölüm
+          url: 'https://youtu.be/DanYnWZnKJY'
+          viewCount: '430'
   - answer: >-
       13 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
