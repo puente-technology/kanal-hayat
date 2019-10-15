@@ -119,5 +119,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=jBSufgEHYvA&list=PL902ABEBDFF147040&index=8&t=0s
       viewCount: '1955'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: g9viXN3sIog
+      imageURL: 'https://i.ytimg.com/vi/g9viXN3sIog/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-23T08:19:51.000Z'
+      tags: >-
+        Rab'bin,gücünün,tanıklığı,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 8- Rab'bin Gücünün Tanıklığı
+      url: >-
+        https://www.youtube.com/watch?v=g9viXN3sIog&list=PL902ABEBDFF147040&index=9&t=0s
+      viewCount: '1437'
 ---
 
