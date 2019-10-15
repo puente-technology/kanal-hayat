@@ -978,40 +978,26 @@ questions:
           url: 'https://www.youtube.com/watch?v=cCIz3FC6_yw'
           viewCount: '675'
   - answer: >-
-      12 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Hıristiyan hayatımda sevinci nasıl yaşayabilirim?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Vaftiz Nedir? İman ettim ama vaftiz olmasam olur mu ?
+      Vaftiz mi bizi kurtarıyor? İsa Mesih vaftiz oldu mu ?
+    question: Vaftiz Nedir? İman Ettim Vaftiz Olmam Gerekiyor Mu?
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Ahmet Güvener ile
         targetGroup: Herkes
         youtubeURL:
-          description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
-
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
-
-            Connect with us on social! 
-
-            Facebook: Http://Bit.ly/LakewoodFB
-
-            Twitter: http://Bit.ly/LakewoodTW
-
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+          description: ''
+          duration: PT26M49S
+          id: aqt3pVzPF0I
+          imageURL: 'https://i.ytimg.com/vi/aqt3pVzPF0I/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
-          tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+          publishedAt: '2019-03-01T16:59:15.000Z'
+          tags: 'hristiyanlık,hristiyan,kilise,hz isa,isa mesih,incil'
+          title: İsa Mesih İnsan Değilse Neden Vaftiz Oldu?
+          url: 'https://www.youtube.com/watch?v=aqt3pVzPF0I'
+          viewCount: '1119'
   - answer: >-
       13 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
