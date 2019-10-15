@@ -186,5 +186,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=_w8_zXWxttE&list=PLB89F99B2B1B2BD7A&index=10&t=0s
       viewCount: '176'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT29M40S
+      id: DuFmS6COdO0
+      imageURL: 'https://i.ytimg.com/vi/DuFmS6COdO0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-05T10:13:13.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Mǝhǝbbǝt 9. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=DuFmS6COdO0&list=PLB89F99B2B1B2BD7A&index=11&t=0s
+      viewCount: '290'
 ---
 
