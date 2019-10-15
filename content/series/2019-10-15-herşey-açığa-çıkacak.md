@@ -44,5 +44,18 @@ episodes:
       title: Kaybolan Para Benzetmesi
       url: 'https://youtu.be/7I8H-MpA0pg'
       viewCount: '179'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M27S
+      id: KXXAsomF5yY
+      imageURL: 'https://i.ytimg.com/vi/KXXAsomF5yY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-22T04:54:18.000Z'
+      tags: tohum
+      title: Tohum Benzetmesi
+      url: 'https://youtu.be/KXXAsomF5yY'
+      viewCount: '207'
 ---
 
