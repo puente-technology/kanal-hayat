@@ -407,5 +407,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=yHOuD9ivWC0&list=PL902ABEBDFF147040&index=27&t=0s
       viewCount: '570'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT58M9S
+      id: ZiL1LYgSepw
+      imageURL: 'https://i.ytimg.com/vi/ZiL1LYgSepw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-31T10:32:29.000Z'
+      tags: >-
+        azmeden,derviş,muradına,ermiş,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan
+      title: 27- Azmeden Derviş Muradına Ermiş
+      url: >-
+        https://www.youtube.com/watch?v=ZiL1LYgSepw&list=PL902ABEBDFF147040&index=28&t=0s
+      viewCount: '717'
 ---
 
