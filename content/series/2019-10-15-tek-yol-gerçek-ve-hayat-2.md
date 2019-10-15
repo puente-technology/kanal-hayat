@@ -401,5 +401,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=SS7XxI30SHY&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=5&t=0s
       viewCount: '1122'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT29M38S
+      id: G5Sp5ZMYe5k
+      imageURL: 'https://i.ytimg.com/vi/G5Sp5ZMYe5k/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-11-15T12:35:21.000Z'
+      tags: gurur
+      title: Derin Değişim - Gururumuz
+      url: >-
+        https://www.youtube.com/watch?v=G5Sp5ZMYe5k&list=PLQfi14V3hH0Jufe8sOsDBoL5_BRdYnW2Q&index=6&t=0s
+      viewCount: '271'
 ---
 
