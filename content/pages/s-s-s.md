@@ -766,6 +766,129 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Kilise Nedir? İman Ettim Kiliseye Gitmem Gerekiyor mu?
+      Kiliseyi Kim Kurdu?
+    question: Kilise Nedir? İman Ettim Kiliseye Gitmem Gerekiyor mu? Kiliseyi Kim Kurdu?
+    videos:
+      - guests: .
+        host: Can Nuroğlu ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Bölüm 1- Kilise nedir?
+
+            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
+            Doğuşu" programını sayfamızdan takip edebilirsiniz. 
+
+            Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT26M33S
+          id: naah61yDqAY
+          imageURL: 'https://i.ytimg.com/vi/naah61yDqAY/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2016-01-19T07:58:10.000Z'
+          tags: 'kilisenin,doğuşu,kilise,nedir?'
+          title: Kilisenin Doğuşu - Kilise nedir? 1.Bölüm
+          url: 'https://www.youtube.com/watch?v=naah61yDqAY'
+          viewCount: '7157'
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: Gerçeğin Sesi - Hakan Taştan
+          duration: PT26M9S
+          id: 4P0CBQxrVAo
+          imageURL: 'https://i.ytimg.com/vi/4P0CBQxrVAo/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2018-05-29T07:59:18.000Z'
+          tags: kilise nedir?
+          title: 'Gerçeğin Sesi - "Kilise" aslında bir BİNA değildir [103]'
+          url: 'https://www.youtube.com/watch?v=4P0CBQxrVAo'
+          viewCount: '198'
+      - guests: .
+        host: Işık Abla ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT29M24S
+          id: Km1bRG_jqvc
+          imageURL: 'https://i.ytimg.com/vi/Km1bRG_jqvc/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-07-11T08:26:21.000Z'
+          tags: Kilisenin Görevleri Nedir?
+          title: 15. Bölüm Kilise Nedir? Kilisenin Görevleri Nedir?
+          url: 'https://www.youtube.com/watch?v=Km1bRG_jqvc'
+          viewCount: '2367'
+  - answer: >-
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Vaftiz Nedir? İman ettim ama vaftiz olmasam olur mu ?
+      Vaftiz mi bizi kurtarıyor? İsa Mesih vaftiz oldu mu ?
+    question: Vaftiz Nedir? İman Ettim Vaftiz Olmam Gerekiyor Mu?
+    videos:
+      - guests: .
+        host: Ahmet Güvener ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT26M49S
+          id: aqt3pVzPF0I
+          imageURL: 'https://i.ytimg.com/vi/aqt3pVzPF0I/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2019-03-01T16:59:15.000Z'
+          tags: 'hristiyanlık,hristiyan,kilise,hz isa,isa mesih,incil'
+          title: İsa Mesih İnsan Değilse Neden Vaftiz Oldu?
+          url: 'https://www.youtube.com/watch?v=aqt3pVzPF0I'
+          viewCount: '1119'
+      - guests: .
+        host: Memduh Uysal ve Işık Abla ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT29M26S
+          id: 4us0OyZxKj8
+          imageURL: 'https://i.ytimg.com/vi/4us0OyZxKj8/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-09-04T12:10:19.000Z'
+          tags: 'şeria,ırmağı,vaftiz'
+          title: 23. Bölüm İsa Mesih Şeria Irmağında Vaftiz Ediliyor
+          url: 'https://www.youtube.com/watch?v=4us0OyZxKj8'
+          viewCount: '1348'
+      - guests: .
+        host: 'Hakan Taştan ile '
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            31. Bölüm Vaftiz
+
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
+
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+            Esen Kalın.
+          duration: PT25M51S
+          id: DanYnWZnKJY
+          imageURL: 'https://i.ytimg.com/vi/DanYnWZnKJY/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-06-25T06:29:42.000Z'
+          tags: >-
+            hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa mesih,mesih,Rab,Allah,Turkey,Istanbul,Asker
+          title: Gerçeğin Sesi - Vaftiz 31.Bölüm
+          url: 'https://youtu.be/DanYnWZnKJY'
+          viewCount: '430'
+  - answer: >-
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
       için yanıtladık. .Misyonerlik Nedir? Bölücülük mü?Misyonerler kimlerdir?
       Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen
       Kalın.
@@ -977,66 +1100,6 @@ questions:
           title: '15. Bölüm: Açığa Çıkan Kurtuluş'
           url: 'https://www.youtube.com/watch?v=cCIz3FC6_yw'
           viewCount: '675'
-  - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Vaftiz Nedir? İman ettim ama vaftiz olmasam olur mu ?
-      Vaftiz mi bizi kurtarıyor? İsa Mesih vaftiz oldu mu ?
-    question: Vaftiz Nedir? İman Ettim Vaftiz Olmam Gerekiyor Mu?
-    videos:
-      - guests: .
-        host: Ahmet Güvener ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ''
-          duration: PT26M49S
-          id: aqt3pVzPF0I
-          imageURL: 'https://i.ytimg.com/vi/aqt3pVzPF0I/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2019-03-01T16:59:15.000Z'
-          tags: 'hristiyanlık,hristiyan,kilise,hz isa,isa mesih,incil'
-          title: İsa Mesih İnsan Değilse Neden Vaftiz Oldu?
-          url: 'https://www.youtube.com/watch?v=aqt3pVzPF0I'
-          viewCount: '1119'
-      - guests: .
-        host: Memduh Uysal ve Işık Abla ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ''
-          duration: PT29M26S
-          id: 4us0OyZxKj8
-          imageURL: 'https://i.ytimg.com/vi/4us0OyZxKj8/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2013-09-04T12:10:19.000Z'
-          tags: 'şeria,ırmağı,vaftiz'
-          title: 23. Bölüm İsa Mesih Şeria Irmağında Vaftiz Ediliyor
-          url: 'https://www.youtube.com/watch?v=4us0OyZxKj8'
-          viewCount: '1348'
-      - guests: .
-        host: 'Hakan Taştan ile '
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            31. Bölüm Vaftiz
-
-            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
-            ışığında gerçekleştirdi 
-
-            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
-
-            Esen Kalın.
-          duration: PT25M51S
-          id: DanYnWZnKJY
-          imageURL: 'https://i.ytimg.com/vi/DanYnWZnKJY/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2013-06-25T06:29:42.000Z'
-          tags: >-
-            hristiyanlık,ahiret,kıyamet,hz
-            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
-            anlatsana,kutsal ruh,isa mesih,mesih,Rab,Allah,Turkey,Istanbul,Asker
-          title: Gerçeğin Sesi - Vaftiz 31.Bölüm
-          url: 'https://youtu.be/DanYnWZnKJY'
-          viewCount: '430'
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
@@ -1457,68 +1520,5 @@ questions:
           title: 'Kutsalliga Davet 09. Bölüm: Yaşam Ekmeği'
           url: 'https://www.youtube.com/watch?v=vJw8L_sNh64'
           viewCount: '2912'
-  - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Kilise Nedir? İman Ettim Kiliseye Gitmem Gerekiyor mu?
-      Kiliseyi Kim Kurdu?
-    question: Kilise Nedir? İman Ettim Kiliseye Gitmem Gerekiyor mu? Kiliseyi Kim Kurdu?
-    videos:
-      - guests: .
-        host: Can Nuroğlu ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            Bölüm 1- Kilise nedir?
-
-            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
-            Doğuşu" programını sayfamızdan takip edebilirsiniz. 
-
-            Esen Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT26M33S
-          id: naah61yDqAY
-          imageURL: 'https://i.ytimg.com/vi/naah61yDqAY/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2016-01-19T07:58:10.000Z'
-          tags: 'kilisenin,doğuşu,kilise,nedir?'
-          title: Kilisenin Doğuşu - Kilise nedir? 1.Bölüm
-          url: 'https://www.youtube.com/watch?v=naah61yDqAY'
-          viewCount: '7157'
-      - guests: .
-        host: Hakan Taştan ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: Gerçeğin Sesi - Hakan Taştan
-          duration: PT26M9S
-          id: 4P0CBQxrVAo
-          imageURL: 'https://i.ytimg.com/vi/4P0CBQxrVAo/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2018-05-29T07:59:18.000Z'
-          tags: kilise nedir?
-          title: 'Gerçeğin Sesi - "Kilise" aslında bir BİNA değildir [103]'
-          url: 'https://www.youtube.com/watch?v=4P0CBQxrVAo'
-          viewCount: '198'
-      - guests: .
-        host: Işık Abla ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ''
-          duration: PT29M24S
-          id: Km1bRG_jqvc
-          imageURL: 'https://i.ytimg.com/vi/Km1bRG_jqvc/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2013-07-11T08:26:21.000Z'
-          tags: Kilisenin Görevleri Nedir?
-          title: 15. Bölüm Kilise Nedir? Kilisenin Görevleri Nedir?
-          url: 'https://www.youtube.com/watch?v=Km1bRG_jqvc'
-          viewCount: '2367'
 ---
 
