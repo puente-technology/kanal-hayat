@@ -70,5 +70,25 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=vydXGFDowDw&list=PL902ABEBDFF147040&index=64&t=0s
       viewCount: '907'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT58M40S
+      id: tw66Qa0O6Xw
+      imageURL: 'https://i.ytimg.com/vi/tw66Qa0O6Xw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-24T08:53:37.000Z'
+      tags: >-
+        Kutsalliga,Davet,hristiyanlık,ahiret,kıyamet,hz
+        isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+        anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 65- Mucizeler Yağmuru 1
+      url: >-
+        https://www.youtube.com/watch?v=tw66Qa0O6Xw&list=PL902ABEBDFF147040&index=65&t=0s
+      viewCount: '599'
 ---
 
