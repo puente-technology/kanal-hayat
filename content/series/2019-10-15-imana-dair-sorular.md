@@ -740,5 +740,36 @@ episodes:
       title: 25. Bölüm (Tanrı'nın Sıfatları)
       url: 'https://youtu.be/Cur27me-Bjg'
       viewCount: '1214'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M1S
+      id: XXQQ5cYZDOs
+      imageURL: 'https://i.ytimg.com/vi/XXQQ5cYZDOs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-15T13:10:38.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 26. Bölüm (Seçimlerimiz)
+      url: 'https://youtu.be/XXQQ5cYZDOs'
+      viewCount: '1027'
 ---
 
