@@ -895,5 +895,36 @@ episodes:
       title: 30. Bölüm (Kumran Tomarları - Ölü Deniz Tomarları)
       url: 'https://youtu.be/nzmzfO9pNyQ'
       viewCount: '987'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M15S
+      id: Iw0vl2ezwJo
+      imageURL: 'https://i.ytimg.com/vi/Iw0vl2ezwJo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-15T13:10:57.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 31. Bölüm (Zina ve Rab'bin Halkı)
+      url: 'https://youtu.be/Iw0vl2ezwJo'
+      viewCount: '732'
 ---
 
