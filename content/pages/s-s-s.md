@@ -1254,6 +1254,33 @@ questions:
           title: '20. Bölüm: Günah'
           url: 'https://www.youtube.com/watch?v=vHYIme567ek'
           viewCount: '1136'
+      - guests: .
+        host: Kirkor Ağabaloğlu ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet"
+            programını Kanala Hayat ekranlarından veya youtube sayfamızdan takip
+            edebilirsiniz.
+
+            Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT25M40S
+          id: uKq_Ar4dyaQ
+          imageURL: 'https://i.ytimg.com/vi/uKq_Ar4dyaQ/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-11-12T13:41:13.000Z'
+          tags: günah
+          title: 24. Bölüm İsa Günahları Bağışlar
+          url: 'https://www.youtube.com/watch?v=uKq_Ar4dyaQ'
+          viewCount: '206'
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
