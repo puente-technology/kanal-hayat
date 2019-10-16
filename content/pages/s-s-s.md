@@ -1419,6 +1419,41 @@ questions:
           title: 87. Bölüm  Rab'bin Sofrası
           url: 'https://www.youtube.com/watch?v=O7AExWtzk1I'
           viewCount: '357'
+      - guests: .
+        host: Nizar Shaheen ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            İsa Mesih'in Doğumu, Soy Ağacı, Çocukluğu ve diğer birçok konunun
+            ele alındığı  "Eşsiz Mesih" programını Kanal Hayat Ekranlarında ve
+            youtube sayfamızdan takip edebilirsiniz.Esen kalın.
+
+            1-İsa Mesih Kimdir?
+
+            2-İsa Mesih'in Soyağacı
+
+            3-İsa Mesih'in Çocukluğu
+
+            4-İsa Mesih'in Vaftizi
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT26M17S
+          id: plrPQz6E3Wo
+          imageURL: 'https://i.ytimg.com/vi/plrPQz6E3Wo/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2014-02-20T11:29:14.000Z'
+          tags: >-
+            isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+            Hayat,neler olacak,kutsal ruh,Mesih kimdi
+          title: 17- Son Akşam Yemeği
+          url: 'https://www.youtube.com/watch?v=plrPQz6E3Wo'
+          viewCount: '510'
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
