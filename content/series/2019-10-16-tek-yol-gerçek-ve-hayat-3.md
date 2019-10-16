@@ -322,5 +322,18 @@ episodes:
       title: 84- Başarının Anahtarı 2
       url: 'https://youtu.be/wJX6iIwmavE'
       viewCount: '114'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT58M21S
+      id: xxWKgpAAcu8
+      imageURL: 'https://i.ytimg.com/vi/xxWKgpAAcu8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-10-24T08:41:41.000Z'
+      tags: fırtına
+      title: 86- Fırtınaları Dindirmek 1
+      url: 'https://youtu.be/xxWKgpAAcu8'
+      viewCount: '128'
 ---
 
