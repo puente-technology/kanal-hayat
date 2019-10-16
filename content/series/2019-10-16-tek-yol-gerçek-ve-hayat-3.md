@@ -335,5 +335,18 @@ episodes:
       title: 86- Fırtınaları Dindirmek 1
       url: 'https://youtu.be/xxWKgpAAcu8'
       viewCount: '128'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT58M30S
+      id: m44fR-pWZ9E
+      imageURL: 'https://i.ytimg.com/vi/m44fR-pWZ9E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-10-24T08:40:22.000Z'
+      tags: fırtınalar
+      title: 87- Fırtınaları Dindirmek 2
+      url: 'https://youtu.be/m44fR-pWZ9E'
+      viewCount: '124'
 ---
 
