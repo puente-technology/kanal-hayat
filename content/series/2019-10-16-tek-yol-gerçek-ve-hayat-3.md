@@ -309,5 +309,18 @@ episodes:
       title: 83- Başarının Anahtarı 1
       url: 'https://youtu.be/HHfrnaG-t-8'
       viewCount: '282'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT58M30S
+      id: wJX6iIwmavE
+      imageURL: 'https://i.ytimg.com/vi/wJX6iIwmavE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-09-09T09:41:45.000Z'
+      tags: başarı
+      title: 84- Başarının Anahtarı 2
+      url: 'https://youtu.be/wJX6iIwmavE'
+      viewCount: '114'
 ---
 
