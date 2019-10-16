@@ -1189,6 +1189,20 @@ questions:
           title: UYANIŞ (Kilise Hakkında Gerçekler 1) Pastör Güçlü Erman
           url: 'https://www.youtube.com/watch?v=N1R_L_MNXB4'
           viewCount: '514'
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: Gerçeğin Sesi - Hakan Taştan
+          duration: PT26M9S
+          id: 4P0CBQxrVAo
+          imageURL: 'https://i.ytimg.com/vi/4P0CBQxrVAo/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2018-05-29T07:59:18.000Z'
+          tags: kilise nedir?
+          title: 'Gerçeğin Sesi - "Kilise" aslında bir BİNA değildir [103]'
+          url: 'https://www.youtube.com/watch?v=4P0CBQxrVAo'
+          viewCount: '199'
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
