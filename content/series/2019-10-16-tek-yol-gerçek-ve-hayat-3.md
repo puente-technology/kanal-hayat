@@ -389,5 +389,18 @@ episodes:
       title: 90- Tanrı Dış Görünüşe Bakmaz
       url: 'https://youtu.be/ivH8eMViF4I'
       viewCount: '140'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT58M29S
+      id: tzspe93zn3o
+      imageURL: 'https://i.ytimg.com/vi/tzspe93zn3o/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-10-24T08:16:04.000Z'
+      tags: dönüş
+      title: 91- U Dönüşü
+      url: 'https://youtu.be/tzspe93zn3o'
+      viewCount: '158'
 ---
 
