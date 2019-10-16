@@ -521,7 +521,7 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. .Hristiyanlar nasıl dua ediyorlar? Hristiyanlar kime dua
+      için yanıtladık. Hristiyanlar nasıl dua ediyorlar? Hristiyanlar kime dua
       ediyor? Gerçek dua nasıl ediliyor? Aşağıdaki programlarımızı izleyerek
       detaylı bilgi edinebilirsiniz.Esen Kalın.
     question: Hristiyanlık'ta Nasıl Dua Edilir?
@@ -1118,114 +1118,243 @@ questions:
           url: 'https://www.youtube.com/watch?v=3jHwYZ63aXc'
           viewCount: '382'
   - answer: >-
-      14 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Hristiyan ruhsallığı nedir?
-    videos:
-      - guests: Test
-        host: Test
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
-
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
-
-            Connect with us on social! 
-
-            Facebook: Http://Bit.ly/LakewoodFB
-
-            Twitter: http://Bit.ly/LakewoodTW
-
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
-          tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
-  - answer: >-
-      2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Kilise Nedir? İman ettim kiliseye gitmem gerekiyor mu ?
+      İmanlı değilim kilise gidebilir miyim?
     question: >-
-      Günahlarımız zaten bağışlandıysa onları neden itiraf     etmemiz gerekir
-      (1 Yuhanna 1:9)?
+      Kilise Nedir? İman ettim kiliseye gitmem gerekiyor mu ? İmanlı değilim
+      kilise gidebilir miyim?
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Can Nuroğlu ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            Bölüm 1- Kilise nedir?
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
+            Doğuşu" programını sayfamızdan takip edebilirsiniz. 
 
-            Connect with us on social! 
+            Esen Kalın.
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            http://kanalhayat.tv/
 
-            Twitter: http://Bit.ly/LakewoodTW
+            http://www.youtube.com/kanalhayatplay
 
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT26M33S
+          id: naah61yDqAY
+          imageURL: 'https://i.ytimg.com/vi/naah61yDqAY/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
+          publishedAt: '2016-01-19T07:58:10.000Z'
+          tags: 'kilisenin,doğuşu,kilise,nedir?'
+          title: Kilisenin Doğuşu - Kilise nedir? 1.Bölüm
+          url: 'https://www.youtube.com/watch?v=naah61yDqAY'
+          viewCount: '7160'
+      - guests: .
+        host: Işık Abla ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT29M24S
+          id: Km1bRG_jqvc
+          imageURL: 'https://i.ytimg.com/vi/Km1bRG_jqvc/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-07-11T08:26:21.000Z'
+          tags: Kilisenin Görevleri Nedir?
+          title: 15. Bölüm Kilise Nedir? Kilisenin Görevleri Nedir?
+          url: 'https://www.youtube.com/watch?v=Km1bRG_jqvc'
+          viewCount: '2369'
+      - guests: .
+        host: Güçlü Erman ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ' Pastör Güçlü Erman yeni bir Uyanış serisi ile karşımızda.'
+          duration: PT29M30S
+          id: N1R_L_MNXB4
+          imageURL: 'https://i.ytimg.com/vi/N1R_L_MNXB4/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-10-03T11:33:11.000Z'
           tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+            Nehir Kilisesi,İstanbul Nehir
+            Kilisesi,Vaaz,Öğreti,Hıristiyan,Hıristiyanlık,İsa Mesih,Kutsal
+            Kitap,Incil,Pastör Güçlü Erman,İman,Sevinç,Esenlik,Ruhsal
+            Gelişim,Bereket,Tanrı,Cennet,Cehennem,Kutsama,Şifa,Mucize,Kilise
+            River at Istanbul,Revival,Sermon,Church,Worship,Holy Ghost,Holy
+            Spirit,Jesus Christ,God,Fire of God,Bible,Turkish Revival
+            Ministries,Pastor Corey Erman
+          title: UYANIŞ (Kilise Hakkında Gerçekler 1) Pastör Güçlü Erman
+          url: 'https://www.youtube.com/watch?v=N1R_L_MNXB4'
+          viewCount: '514'
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: Gerçeğin Sesi - Hakan Taştan
+          duration: PT26M9S
+          id: 4P0CBQxrVAo
+          imageURL: 'https://i.ytimg.com/vi/4P0CBQxrVAo/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2018-05-29T07:59:18.000Z'
+          tags: kilise nedir?
+          title: 'Gerçeğin Sesi - "Kilise" aslında bir BİNA değildir [103]'
+          url: 'https://www.youtube.com/watch?v=4P0CBQxrVAo'
+          viewCount: '199'
   - answer: >-
-      2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: >-
-      Eğer kurtulduysam ve bütün günahlarım bağışlandıysa      neden günah
-      işlemeye devam etmeyeyim ki?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Günahlarımız nedir ? Kim Günahları bağışlayabilir? 
+    question: Günah nedir ? Kim Günahları bağışlayabilir?
     videos:
       - guests: Test
         host: Test
         targetGroup: Herkes
         youtubeURL:
-          description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
-
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
-
-            Connect with us on social! 
-
-            Facebook: Http://Bit.ly/LakewoodFB
-
-            Twitter: http://Bit.ly/LakewoodTW
-
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+          description: |-
+            Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+            dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+            yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+            Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+            yanıtlıyor.Sakın kaçırmayın.
+            http://kanalhayat.tv/
+            http://www.youtube.com/kanalhayatplay
+            https://www.facebook.com/kanalhayat
+            https://twitter.com/kanalhayat
+          duration: PT27M48S
+          id: PBkgzAvI-b4
+          imageURL: 'https://i.ytimg.com/vi/PBkgzAvI-b4/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
+          publishedAt: '2015-02-16T13:17:22.000Z'
+          tags: '#günahtan,Kurtulmak,Mümkün,mü?'
+          title: 16.  Günahtan Kurtulmak Mümkün mü?
+          url: 'https://www.youtube.com/watch?v=PBkgzAvI-b4'
+          viewCount: '135'
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            20. Bölüm: Günah
+
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
+
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+            Esen Kalın.
+          duration: PT28M
+          id: vHYIme567ek
+          imageURL: 'https://i.ytimg.com/vi/vHYIme567ek/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-02-14T13:46:09.000Z'
+          tags: 'S01E20,MPG,upperfield,#günah'
+          title: '20. Bölüm: Günah'
+          url: 'https://www.youtube.com/watch?v=vHYIme567ek'
+          viewCount: '1136'
+      - guests: .
+        host: Kirkor Ağabaloğlu ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet"
+            programını Kanala Hayat ekranlarından veya youtube sayfamızdan takip
+            edebilirsiniz.
+
+            Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT25M40S
+          id: uKq_Ar4dyaQ
+          imageURL: 'https://i.ytimg.com/vi/uKq_Ar4dyaQ/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-11-12T13:41:13.000Z'
+          tags: günah
+          title: 24. Bölüm İsa Günahları Bağışlar
+          url: 'https://www.youtube.com/watch?v=uKq_Ar4dyaQ'
+          viewCount: '206'
+  - answer: >-
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Sizi kim veya kimler Finanse ediyor ? Çalışıyor musunuz? 
+    question: 'Sizi kim veya kimler Finanse ediyor ? Çalışıyor musunuz? '
+    videos:
+      - guests: .
+        host: Ahmet Güvener ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Maddi Sunular ve Ondalık
+
+            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
+            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan
+            Şeriatı" programını Kanal Hayat ekranından veya youtube sayfamızdan
+            takip edebilirsiniz.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT27M18S
+          id: AXRb4lLFWrY
+          imageURL: 'https://i.ytimg.com/vi/AXRb4lLFWrY/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2019-10-08T07:52:57.000Z'
           tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+            maddi,sunular,ondalık,masraflar,ödemeler,kilise,masrafları,misyonerler,türkiye,kktc,iman,şeriat
+          title: 75- Maddi Sunular ve Ondalık - Hristiyan Şeriatı
+          url: 'https://www.youtube.com/watch?v=AXRb4lLFWrY'
+          viewCount: '136'
+      - guests: .
+        host: Güçlü Erman ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Pastör Güçlü Erman'ın konuklarıyla birlikte birbirinden farklı
+            konuları sizler için  sunduğu "UYANIŞ" programını sayfamızdan takip
+            edebilirsiniz.Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M41S
+          id: 5-FwaCl3W6Q
+          imageURL: 'https://i.ytimg.com/vi/5-FwaCl3W6Q/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2017-03-09T13:51:02.000Z'
+          tags: ondalık
+          title: UYANIŞ (Neden Ondalık? 1 - HD) Pastör Güçlü Erman
+          url: 'https://youtu.be/5-FwaCl3W6Q'
+          viewCount: '214'
+      - guests: .
+        host: Ali Kalkandelen ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT29M26S
+          id: YFc_p3i6ABY
+          imageURL: 'https://i.ytimg.com/vi/YFc_p3i6ABY/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-09-10T06:48:02.000Z'
+          tags: Para Konusu
+          title: 64. Bölüm Hristiyanlıkta ve Kilisede Para Konusu
+          url: 'https://www.youtube.com/watch?v=YFc_p3i6ABY'
+          viewCount: '227'
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
