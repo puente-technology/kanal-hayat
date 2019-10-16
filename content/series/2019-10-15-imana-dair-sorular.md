@@ -833,5 +833,36 @@ episodes:
       title: 28. Bölüm (Vahiy Kavramını Açıklar mısınız? )
       url: 'https://youtu.be/loFo4FPYbcs'
       viewCount: '829'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M1S
+      id: wUDHrdiTyro
+      imageURL: 'https://i.ytimg.com/vi/wUDHrdiTyro/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-15T13:14:38.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 29. Bölüm (Kutsal Kitaplar nasıl yazıldı? Nasıl kaleme alındı ? )
+      url: 'https://youtu.be/wUDHrdiTyro'
+      viewCount: '881'
 ---
 
