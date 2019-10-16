@@ -361,5 +361,20 @@ episodes:
       title: 88- Tanrım Bana Güç Ver
       url: 'https://youtu.be/g5ZpnSvPHa4'
       viewCount: '310'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT58M32S
+      id: TNj1eei3Tlw
+      imageURL: 'https://i.ytimg.com/vi/TNj1eei3Tlw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-10-24T08:43:02.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi
+      title: 89- Yargılamadan ve Yargılanmadan Özgür Olmak 1
+      url: 'https://youtu.be/TNj1eei3Tlw'
+      viewCount: '125'
 ---
 
