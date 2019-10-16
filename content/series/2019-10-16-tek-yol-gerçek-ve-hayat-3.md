@@ -402,5 +402,18 @@ episodes:
       title: 91- U Dönüşü
       url: 'https://youtu.be/tzspe93zn3o'
       viewCount: '158'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT11M45S
+      id: dmDki-7--PY
+      imageURL: 'https://i.ytimg.com/vi/dmDki-7--PY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-10-24T08:06:30.000Z'
+      tags: çubuklar
+      title: 92- Asma Ve Çubuklar
+      url: 'https://youtu.be/dmDki-7--PY'
+      viewCount: '117'
 ---
 
