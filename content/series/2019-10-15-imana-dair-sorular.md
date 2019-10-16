@@ -582,5 +582,37 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=g3OkXZ_6m0A&list=PLB2653932E9326F00&index=18&t=0s
       viewCount: '947'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M15S
+      id: 9OP__Z3wVEE
+      imageURL: 'https://i.ytimg.com/vi/9OP__Z3wVEE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-15T13:21:22.000Z'
+      tags: >-
+        hristiyan,kilise,Kuran,İncil,ahiret günü,kıyamet
+        günü,isa,mesih,Rab,Mesih,Kutsal,Ruh,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 21. Bölüm (Kutsal Kitap'ta Çelişki Yok mu? )
+      url: 'https://youtu.be/9OP__Z3wVEE'
+      viewCount: '1671'
 ---
 
