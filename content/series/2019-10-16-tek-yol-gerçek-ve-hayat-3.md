@@ -177,5 +177,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=xNziAukTlMA&list=PL902ABEBDFF147040&index=70&t=0s
       viewCount: '330'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: Ouf8q4iahjs
+      imageURL: 'https://i.ytimg.com/vi/Ouf8q4iahjs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-02-15T10:37:57.000Z'
+      tags: 'TEK20130102,071E'
+      title: 71- Doğuş Bayramı
+      url: >-
+        https://www.youtube.com/watch?v=Ouf8q4iahjs&list=PL902ABEBDFF147040&index=71&t=0s
+      viewCount: '433'
 ---
 
