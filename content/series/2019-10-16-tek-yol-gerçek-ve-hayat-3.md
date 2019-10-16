@@ -162,5 +162,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=sobpe_0KduM&list=PL902ABEBDFF147040&index=69&t=0s
       viewCount: '980'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT19M30S
+      id: xNziAukTlMA
+      imageURL: 'https://i.ytimg.com/vi/xNziAukTlMA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-02-11T10:34:41.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 70- Sözün Gücü
+      url: >-
+        https://www.youtube.com/watch?v=xNziAukTlMA&list=PL902ABEBDFF147040&index=70&t=0s
+      viewCount: '330'
 ---
 
