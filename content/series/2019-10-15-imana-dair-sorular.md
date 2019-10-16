@@ -771,5 +771,36 @@ episodes:
       title: 26. Bölüm (Seçimlerimiz)
       url: 'https://youtu.be/XXQQ5cYZDOs'
       viewCount: '1027'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M
+      id: h_fhA6xaW_I
+      imageURL: 'https://i.ytimg.com/vi/h_fhA6xaW_I/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-15T13:06:51.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 27. Bölüm (Hristiyanlıktaki Vahiy Kavramını Açıklar mısınız?)
+      url: 'https://youtu.be/h_fhA6xaW_I'
+      viewCount: '814'
 ---
 
