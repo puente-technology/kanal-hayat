@@ -205,5 +205,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=_K76dm14yq0&list=PL902ABEBDFF147040&index=72&t=0s 
       viewCount: '1281'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT23M2S
+      id: TAovbf5aRyY
+      imageURL: 'https://i.ytimg.com/vi/TAovbf5aRyY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-18T07:35:15.000Z'
+      tags: sır
+      title: 73- Kutsal Yaşamanın Sırları 2
+      url: 'https://youtu.be/TAovbf5aRyY'
+      viewCount: '97'
 ---
 
