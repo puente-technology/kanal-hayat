@@ -296,5 +296,18 @@ episodes:
       title: 81- Evlilik ve İlişkiler 3
       url: 'https://youtu.be/SmWs-6ApIPk'
       viewCount: '250'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT58M31S
+      id: HHfrnaG-t-8
+      imageURL: 'https://i.ytimg.com/vi/HHfrnaG-t-8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-09-09T10:01:39.000Z'
+      tags: 'başarı,anahtarı'
+      title: 83- Başarının Anahtarı 1
+      url: 'https://youtu.be/HHfrnaG-t-8'
+      viewCount: '282'
 ---
 
