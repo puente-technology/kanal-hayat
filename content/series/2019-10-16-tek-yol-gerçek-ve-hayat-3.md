@@ -257,5 +257,18 @@ episodes:
       title: '77- Nefret, Kıskançlık ve Kin'
       url: 'https://youtu.be/hpsq2JbukHM'
       viewCount: '282'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT58M31S
+      id: KOGgZwlKBJY
+      imageURL: 'https://i.ytimg.com/vi/KOGgZwlKBJY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-09-09T06:55:26.000Z'
+      tags: evlilik
+      title: 79- Evlilik ve İlişkiler 1
+      url: 'https://youtu.be/KOGgZwlKBJY'
+      viewCount: '286'
 ---
 
