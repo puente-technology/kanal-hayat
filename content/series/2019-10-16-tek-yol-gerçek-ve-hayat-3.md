@@ -244,5 +244,18 @@ episodes:
       title: 75- Günahı Yenmek 2
       url: 'https://youtu.be/GpvHLvYj_NM'
       viewCount: '164'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT58M31S
+      id: hpsq2JbukHM
+      imageURL: 'https://i.ytimg.com/vi/hpsq2JbukHM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-09-09T06:48:48.000Z'
+      tags: 'kin,öfke'
+      title: '77- Nefret, Kıskançlık ve Kin'
+      url: 'https://youtu.be/hpsq2JbukHM'
+      viewCount: '282'
 ---
 
