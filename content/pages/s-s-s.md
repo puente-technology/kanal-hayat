@@ -1232,6 +1232,28 @@ questions:
           title: 16.  Günahtan Kurtulmak Mümkün mü?
           url: 'https://www.youtube.com/watch?v=PBkgzAvI-b4'
           viewCount: '135'
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            20. Bölüm: Günah
+
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
+
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+            Esen Kalın.
+          duration: PT28M
+          id: vHYIme567ek
+          imageURL: 'https://i.ytimg.com/vi/vHYIme567ek/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-02-14T13:46:09.000Z'
+          tags: 'S01E20,MPG,upperfield,#günah'
+          title: '20. Bölüm: Günah'
+          url: 'https://www.youtube.com/watch?v=vHYIme567ek'
+          viewCount: '1136'
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
