@@ -428,5 +428,18 @@ episodes:
       title: 93- Yalanlardan Kurtulmak
       url: 'https://youtu.be/H9bnP7l-nek'
       viewCount: '907'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT58M29S
+      id: 8l68S8FLkKQ
+      imageURL: 'https://i.ytimg.com/vi/8l68S8FLkKQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-10-24T08:21:17.000Z'
+      tags: tanrı
+      title: 94- Tanrı Konuşur 1
+      url: 'https://youtu.be/8l68S8FLkKQ'
+      viewCount: '263'
 ---
 
