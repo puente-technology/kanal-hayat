@@ -283,5 +283,18 @@ episodes:
       title: 80- Evlilik ve İlişkiler 2
       url: 'https://youtu.be/BLKxGftv91o'
       viewCount: '162'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT58M34S
+      id: SmWs-6ApIPk
+      imageURL: 'https://i.ytimg.com/vi/SmWs-6ApIPk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-09-09T09:38:09.000Z'
+      tags: evlilik
+      title: 81- Evlilik ve İlişkiler 3
+      url: 'https://youtu.be/SmWs-6ApIPk'
+      viewCount: '250'
 ---
 
