@@ -348,5 +348,18 @@ episodes:
       title: 87- Fırtınaları Dindirmek 2
       url: 'https://youtu.be/m44fR-pWZ9E'
       viewCount: '124'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT58M30S
+      id: g5ZpnSvPHa4
+      imageURL: 'https://i.ytimg.com/vi/g5ZpnSvPHa4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-10-24T08:45:00.000Z'
+      tags: güç
+      title: 88- Tanrım Bana Güç Ver
+      url: 'https://youtu.be/g5ZpnSvPHa4'
+      viewCount: '310'
 ---
 
