@@ -454,5 +454,18 @@ episodes:
       title: 95- Tanrı Konuşur 2
       url: 'https://youtu.be/Yrdl4nJb22s'
       viewCount: '136'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT58M31S
+      id: UGYSeBeL9fE
+      imageURL: 'https://i.ytimg.com/vi/UGYSeBeL9fE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-10-24T13:47:00.000Z'
+      tags: tanrı
+      title: 96- Tanrı Neden Konuşur? 1
+      url: 'https://youtu.be/UGYSeBeL9fE'
+      viewCount: '314'
 ---
 
