@@ -645,5 +645,37 @@ episodes:
       title: 22. Bölüm (Dinlerde Savaş (Şiddet) Var mı ?)
       url: 'https://youtu.be/qtFatajzaUA'
       viewCount: '1464'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M16S
+      id: rF4VP3YNAYs
+      imageURL: 'https://i.ytimg.com/vi/rF4VP3YNAYs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-15T13:30:24.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 23. Bölüm - İnsan Tanrı'ya Soru Sorabilir Mi?
+      url: >-
+        https://www.youtube.com/watch?v=rF4VP3YNAYs&list=PLB2653932E9326F00&index=23&t=0s
+      viewCount: '1181'
 ---
 
