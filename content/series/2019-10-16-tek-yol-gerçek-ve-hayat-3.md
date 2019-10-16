@@ -415,5 +415,18 @@ episodes:
       title: 92- Asma Ve Çubuklar
       url: 'https://youtu.be/dmDki-7--PY'
       viewCount: '117'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT58M28S
+      id: H9bnP7l-nek
+      imageURL: 'https://i.ytimg.com/vi/H9bnP7l-nek/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-10-24T08:17:23.000Z'
+      tags: yalan
+      title: 93- Yalanlardan Kurtulmak
+      url: 'https://youtu.be/H9bnP7l-nek'
+      viewCount: '907'
 ---
 
