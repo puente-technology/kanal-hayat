@@ -957,5 +957,36 @@ episodes:
       title: 32. Bölüm (Kutsal Kitaplarda Cinsellik)
       url: 'https://youtu.be/brWZ4VFcZdM'
       viewCount: '722'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M16S
+      id: jg1ck1pxoWA
+      imageURL: 'https://i.ytimg.com/vi/jg1ck1pxoWA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-15T13:14:35.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 33. Bölüm (Kutsal Kitap'ta Çelişkiler var mı? )
+      url: 'https://youtu.be/jg1ck1pxoWA'
+      viewCount: '554'
 ---
 
