@@ -218,5 +218,18 @@ episodes:
       title: 73- Kutsal Yaşamanın Sırları 2
       url: 'https://youtu.be/TAovbf5aRyY'
       viewCount: '97'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT23M37S
+      id: wykR3trQD7E
+      imageURL: 'https://i.ytimg.com/vi/wykR3trQD7E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-18T07:31:03.000Z'
+      tags: günah
+      title: 74- Günahı Yenmek 1
+      url: 'https://youtu.be/wykR3trQD7E'
+      viewCount: '123'
 ---
 
