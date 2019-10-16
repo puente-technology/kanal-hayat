@@ -50,5 +50,25 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=c64vCEo28SA&list=PL902ABEBDFF147040&index=61&t=0s
       viewCount: '406'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT58M28S
+      id: vydXGFDowDw
+      imageURL: 'https://i.ytimg.com/vi/vydXGFDowDw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-24T09:01:43.000Z'
+      tags: >-
+        Kutsalliga,Davet,hristiyanlık,ahiret,kıyamet,hz
+        isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+        anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 64- Tanrı'nın Çocukları
+      url: >-
+        https://www.youtube.com/watch?v=vydXGFDowDw&list=PL902ABEBDFF147040&index=64&t=0s
+      viewCount: '907'
 ---
 
