@@ -30,5 +30,25 @@ episodes:
       title: 60- Şeytanı Yenmek
       url: 'https://youtu.be/O2mByjeEIfY'
       viewCount: '2276'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT58M33S
+      id: c64vCEo28SA
+      imageURL: 'https://i.ytimg.com/vi/c64vCEo28SA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-10-24T08:53:40.000Z'
+      tags: >-
+        Kutsalliga,Davet,hristiyanlık,ahiret,kıyamet,hz
+        isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+        anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 61- Fani Dünya
+      url: >-
+        https://www.youtube.com/watch?v=c64vCEo28SA&list=PL902ABEBDFF147040&index=61&t=0s
+      viewCount: '406'
 ---
 
