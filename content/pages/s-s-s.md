@@ -1356,40 +1356,49 @@ questions:
           url: 'https://www.youtube.com/watch?v=YFc_p3i6ABY'
           viewCount: '227'
   - answer: >-
-      2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Tanrı’nın bütün silahları nelerdir?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Rab'bin Sofrası / Komünyon nedir? Rab'bin Sofrası'nı
+      Nasıl ve Neden Kutlarız?
+    question: >-
+      Rab'bin Sofrası / Komünyon nedir? Rab'bin Sofrası'nı Nasıl ve Neden
+      Kutlarız?
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Hakan Taştan ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            5. Bölüm: Rab'bin Sofrası (Kominyon)
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
 
-            Connect with us on social! 
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            Esen Kalın.
 
-            Twitter: http://Bit.ly/LakewoodTW
+            http://kanalhayat.tv/
 
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat.tv
+
+            https://twitter.com/kanalhayat
+          duration: PT25M58S
+          id: '-L84aCyBGxc'
+          imageURL: 'https://i.ytimg.com/vi/-L84aCyBGxc/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
+          publishedAt: '2012-10-29T11:20:51.000Z'
           tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305520'
+            Kutsal,hristiyanlık,ahiret,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,kutsal
+            ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
+            butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
+            Hayat,Pusula,kiyamet gunu,gavur,Kominyon
+          title: '5. Bölüm: Rab''bin Sofrası (Kominyon)'
+          url: 'https://www.youtube.com/watch?v=-L84aCyBGxc'
+          viewCount: '1622'
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
