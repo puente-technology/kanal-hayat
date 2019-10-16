@@ -1521,5 +1521,20 @@ questions:
           title: 57. Bölüm Mesih İnanlılarının Çektiği Acılar Ve Sıkıntılar
           url: 'https://www.youtube.com/watch?v=29LVbBSUSOQ'
           viewCount: '1073'
+      - guests: ''
+        host: Leyla Erman ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ' '
+          duration: PT28M19S
+          id: 69g523gpuCM
+          imageURL: 'https://i.ytimg.com/vi/69g523gpuCM/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-02-08T11:59:37.000Z'
+          tags: >-
+            isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+          title: BizBize - Neden İmanlılar Acı Çekiyorlar 1
+          url: 'https://www.youtube.com/watch?v=69g523gpuCM'
+          viewCount: '52'
 ---
 
