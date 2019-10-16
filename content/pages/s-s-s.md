@@ -1206,40 +1206,32 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık.Günahlarımız çıkarma nedir? Amacı Nedir? Kim Günahları
-      bağışlayabilir? 
-    question: Günahlarımız çıkarma nedir? Amacı Nedir? Kim Günahları bağışlayabilir?
+      için yanıtladık. Günahlarımız nedir ? Kim Günahları bağışlayabilir? 
+    question: Günahlarımız nedir ? Kim Günahları bağışlayabilir?
     videos:
       - guests: Test
         host: Test
         targetGroup: Herkes
         youtubeURL:
-          description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
-
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
-
-            Connect with us on social! 
-
-            Facebook: Http://Bit.ly/LakewoodFB
-
-            Twitter: http://Bit.ly/LakewoodTW
-
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+          description: |-
+            Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+            dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+            yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+            Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+            yanıtlıyor.Sakın kaçırmayın.
+            http://kanalhayat.tv/
+            http://www.youtube.com/kanalhayatplay
+            https://www.facebook.com/kanalhayat
+            https://twitter.com/kanalhayat
+          duration: PT27M48S
+          id: PBkgzAvI-b4
+          imageURL: 'https://i.ytimg.com/vi/PBkgzAvI-b4/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
-          tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305518'
+          publishedAt: '2015-02-16T13:17:22.000Z'
+          tags: '#günahtan,Kurtulmak,Mümkün,mü?'
+          title: 16.  Günahtan Kurtulmak Mümkün mü?
+          url: 'https://www.youtube.com/watch?v=PBkgzAvI-b4'
+          viewCount: '135'
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
