@@ -90,5 +90,23 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=tw66Qa0O6Xw&list=PL902ABEBDFF147040&index=65&t=0s
       viewCount: '599'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT58M32S
+      id: f-0YhZz2Lrw
+      imageURL: 'https://i.ytimg.com/vi/f-0YhZz2Lrw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-13T14:37:46.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,isik
+        abla
+      title: 66- Mucizeler Yağmuru 2
+      url: >-
+        https://www.youtube.com/watch?v=f-0YhZz2Lrw&list=PL902ABEBDFF147040&index=66&t=0s
+      viewCount: '1247'
 ---
 
