@@ -1316,6 +1316,31 @@ questions:
           title: 75- Maddi Sunular ve Ondalık - Hristiyan Şeriatı
           url: 'https://www.youtube.com/watch?v=AXRb4lLFWrY'
           viewCount: '136'
+      - guests: .
+        host: Güçlü Erman ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Pastör Güçlü Erman'ın konuklarıyla birlikte birbirinden farklı
+            konuları sizler için  sunduğu "UYANIŞ" programını sayfamızdan takip
+            edebilirsiniz.Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M41S
+          id: 5-FwaCl3W6Q
+          imageURL: 'https://i.ytimg.com/vi/5-FwaCl3W6Q/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2017-03-09T13:51:02.000Z'
+          tags: ondalık
+          title: UYANIŞ (Neden Ondalık? 1 - HD) Pastör Güçlü Erman
+          url: 'https://youtu.be/5-FwaCl3W6Q'
+          viewCount: '214'
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
