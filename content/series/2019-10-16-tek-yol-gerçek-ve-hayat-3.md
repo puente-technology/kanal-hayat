@@ -191,5 +191,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Ouf8q4iahjs&list=PL902ABEBDFF147040&index=71&t=0s
       viewCount: '433'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT58M34S
+      id: _K76dm14yq0
+      imageURL: 'https://i.ytimg.com/vi/_K76dm14yq0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-02-15T10:47:33.000Z'
+      tags: 'TEK20130109,072E'
+      title: 72- Kutsal Yaşamanın Sırları 1
+      url: >-
+        https://www.youtube.com/watch?v=_K76dm14yq0&list=PL902ABEBDFF147040&index=72&t=0s 
+      viewCount: '1281'
 ---
 
