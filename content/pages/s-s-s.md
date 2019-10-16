@@ -1356,74 +1356,218 @@ questions:
           url: 'https://www.youtube.com/watch?v=YFc_p3i6ABY'
           viewCount: '227'
   - answer: >-
-      2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Tanrı’nın bütün silahları nelerdir?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Rab'bin Sofrası / Komünyon nedir? Rab'bin Sofrası'nı
+      Nasıl ve Neden Kutlarız?
+    question: >-
+      Rab'bin Sofrası / Komünyon nedir? Rab'bin Sofrası'nı Nasıl ve Neden
+      Kutlarız?
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: Hakan Taştan ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            5. Bölüm: Rab'bin Sofrası (Kominyon)
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
 
-            Connect with us on social! 
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            Esen Kalın.
 
-            Twitter: http://Bit.ly/LakewoodTW
+            http://kanalhayat.tv/
 
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat.tv
+
+            https://twitter.com/kanalhayat
+          duration: PT25M58S
+          id: '-L84aCyBGxc'
+          imageURL: 'https://i.ytimg.com/vi/-L84aCyBGxc/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
+          publishedAt: '2012-10-29T11:20:51.000Z'
           tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305520'
+            Kutsal,hristiyanlık,ahiret,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,kutsal
+            ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
+            butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
+            Hayat,Pusula,kiyamet gunu,gavur,Kominyon
+          title: '5. Bölüm: Rab''bin Sofrası (Kominyon)'
+          url: 'https://www.youtube.com/watch?v=-L84aCyBGxc'
+          viewCount: '1622'
+      - guests: .
+        host: Işık Abla ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ' '
+          duration: PT28M32S
+          id: O7AExWtzk1I
+          imageURL: 'https://i.ytimg.com/vi/O7AExWtzk1I/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-02-20T12:50:08.000Z'
+          tags: >-
+            hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa
+            mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+            stanley,joyce meyer,ışık abla,güçlü
+            erman,protestan,protestanlar,zekeriya butros
+          title: 87. Bölüm  Rab'bin Sofrası
+          url: 'https://www.youtube.com/watch?v=O7AExWtzk1I'
+          viewCount: '357'
+      - guests: .
+        host: Nizar Shaheen ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            İsa Mesih'in Doğumu, Soy Ağacı, Çocukluğu ve diğer birçok konunun
+            ele alındığı  "Eşsiz Mesih" programını Kanal Hayat Ekranlarında ve
+            youtube sayfamızdan takip edebilirsiniz.Esen kalın.
+
+            1-İsa Mesih Kimdir?
+
+            2-İsa Mesih'in Soyağacı
+
+            3-İsa Mesih'in Çocukluğu
+
+            4-İsa Mesih'in Vaftizi
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT26M17S
+          id: plrPQz6E3Wo
+          imageURL: 'https://i.ytimg.com/vi/plrPQz6E3Wo/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2014-02-20T11:29:14.000Z'
+          tags: >-
+            isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+            Hayat,neler olacak,kutsal ruh,Mesih kimdi
+          title: 17- Son Akşam Yemeği
+          url: 'https://www.youtube.com/watch?v=plrPQz6E3Wo'
+          viewCount: '510'
+      - guests: .
+        host: Kirkor Ağabaloğlu ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet"
+            programını Kanala Hayat ekranlarından veya youtube sayfamızdan takip
+            edebilirsiniz.
+
+            Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT27M57S
+          id: vJw8L_sNh64
+          imageURL: 'https://i.ytimg.com/vi/vJw8L_sNh64/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-09-24T14:29:36.000Z'
+          tags: >-
+            hristiyan,kilise,peygamber,isa mesih,protestan,katolik,ahiret
+            günü,kıyamet,yargı,günah,hristiyanlık,ahiret,hz
+            isa,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur anlatsana,kutsal
+            ruh,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+            stanley,joyce meyer,ışık abla,güçlü erman,protestanlar,zekeriya
+            butros
+          title: 'Kutsalliga Davet 09. Bölüm: Yaşam Ekmeği'
+          url: 'https://www.youtube.com/watch?v=vJw8L_sNh64'
+          viewCount: '2916'
   - answer: >-
-      2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: 'Günah işlediğimizde Rab bizi ne zaman, neden ve nasıl    disiplin eder?'
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Neden dünyada kötülük var ? İmanlılar neden acı çekiyor?
+    question: Neden dünyada kötülük var ? İmanlılar neden acı çekiyor?
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: İhsan Özbek ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: Açıklama
+          duration: PT28M1S
+          id: gz1KeX46ouo
+          imageURL: 'https://i.ytimg.com/vi/gz1KeX46ouo/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2015-03-24T11:37:53.000Z'
+          tags: neden
+          title: 32. Bölüm Neden Dünyada Kötülük Var?
+          url: 'https://www.youtube.com/watch?v=gz1KeX46ouo'
+          viewCount: '300'
+      - guests: .
+        host: Işık Abla ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: Açıklama
+          duration: PT29M24S
+          id: 29LVbBSUSOQ
+          imageURL: 'https://i.ytimg.com/vi/29LVbBSUSOQ/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2014-10-28T11:27:07.000Z'
+          tags: 'mesihin,çektiği,acılar'
+          title: 57. Bölüm Mesih İnanlılarının Çektiği Acılar Ve Sıkıntılar
+          url: 'https://www.youtube.com/watch?v=29LVbBSUSOQ'
+          viewCount: '1073'
+      - guests: ''
+        host: Leyla Erman ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ' '
+          duration: PT28M19S
+          id: 69g523gpuCM
+          imageURL: 'https://i.ytimg.com/vi/69g523gpuCM/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-02-08T11:59:37.000Z'
+          tags: >-
+            isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+          title: BizBize - Neden İmanlılar Acı Çekiyorlar 1
+          url: 'https://www.youtube.com/watch?v=69g523gpuCM'
+          viewCount: '52'
+      - guests: .
+        host: Banu Çelik ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
+            Banu Çelik ve konuklarıyla birlikte farklı konularda kelam temelinde
+            gerçekleştirdiği "Derin Değişim" programını sayfamızdan takip
+            edebilirsiniz.Esen Kalın.
 
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
+            Adanmış Hayatlar
 
-            Connect with us on social! 
+            Kaygılı Bir Kadın Marta
 
-            Facebook: Http://Bit.ly/LakewoodFB
+            İncil'deki Samiriyeli Kadın..
 
-            Twitter: http://Bit.ly/LakewoodTW
+            http://kanalhayat.tv/
 
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M46S
+          id: b-Fmh4MfXQg
+          imageURL: 'https://i.ytimg.com/vi/b-Fmh4MfXQg/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
+          publishedAt: '2018-07-19T22:00:51.000Z'
           tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305520'
+            acı,çekerken,rab,nerdesin,derin,değişim,rabbin,ayakları,dibindeki,bir
+            kadın,meryem
+          title: 'RUT : ACI ÇEKERKEN RAB NEREDESİN? [1]'
+          url: 'https://www.youtube.com/watch?v=b-Fmh4MfXQg'
+          viewCount: '352'
 ---
 
