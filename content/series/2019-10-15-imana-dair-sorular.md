@@ -317,5 +317,38 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ecv_9AKOjf8&list=PLB2653932E9326F00&index=10&t=0s
       viewCount: '3637'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M1S
+      id: q41q6GGYlGE
+      imageURL: 'https://i.ytimg.com/vi/q41q6GGYlGE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-10T11:18:06.000Z'
+      tags: >-
+        Hristiyanlık,hristiyan,hz
+        isa,peygamber,allah,tanrı,kiyamet,ahiret,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,İman,Hz.,İsa,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 10. Bölüm (İsa neden haça gerildi?)
+      url: >-
+        https://www.youtube.com/watch?v=q41q6GGYlGE&list=PLB2653932E9326F00&index=11&t=0s
+      viewCount: '3434'
 ---
 
