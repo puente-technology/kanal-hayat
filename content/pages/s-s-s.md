@@ -1168,6 +1168,27 @@ questions:
           title: 15. Bölüm Kilise Nedir? Kilisenin Görevleri Nedir?
           url: 'https://www.youtube.com/watch?v=Km1bRG_jqvc'
           viewCount: '2369'
+      - guests: .
+        host: Güçlü Erman ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ' Pastör Güçlü Erman yeni bir Uyanış serisi ile karşımızda.'
+          duration: PT29M30S
+          id: N1R_L_MNXB4
+          imageURL: 'https://i.ytimg.com/vi/N1R_L_MNXB4/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-10-03T11:33:11.000Z'
+          tags: >-
+            Nehir Kilisesi,İstanbul Nehir
+            Kilisesi,Vaaz,Öğreti,Hıristiyan,Hıristiyanlık,İsa Mesih,Kutsal
+            Kitap,Incil,Pastör Güçlü Erman,İman,Sevinç,Esenlik,Ruhsal
+            Gelişim,Bereket,Tanrı,Cennet,Cehennem,Kutsama,Şifa,Mucize,Kilise
+            River at Istanbul,Revival,Sermon,Church,Worship,Holy Ghost,Holy
+            Spirit,Jesus Christ,God,Fire of God,Bible,Turkish Revival
+            Ministries,Pastor Corey Erman
+          title: UYANIŞ (Kilise Hakkında Gerçekler 1) Pastör Güçlü Erman
+          url: 'https://www.youtube.com/watch?v=N1R_L_MNXB4'
+          viewCount: '514'
   - answer: >-
       2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
       accusantium doloremque laudantium, totam rem aperiam, eaque
