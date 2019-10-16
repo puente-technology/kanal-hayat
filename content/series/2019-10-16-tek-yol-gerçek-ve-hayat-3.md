@@ -270,5 +270,18 @@ episodes:
       title: 79- Evlilik ve İlişkiler 1
       url: 'https://youtu.be/KOGgZwlKBJY'
       viewCount: '286'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT58M30S
+      id: BLKxGftv91o
+      imageURL: 'https://i.ytimg.com/vi/BLKxGftv91o/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-09-09T06:52:19.000Z'
+      tags: evlilik
+      title: 80- Evlilik ve İlişkiler 2
+      url: 'https://youtu.be/BLKxGftv91o'
+      viewCount: '162'
 ---
 
