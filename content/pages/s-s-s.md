@@ -1120,7 +1120,7 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık.Kilise Nedir? İman ettim kiliseye gitmem gerekiyor mu ?
+      için yanıtladık. Kilise Nedir? İman ettim kiliseye gitmem gerekiyor mu ?
       İmanlı değilim kilise gidebilir miyim?
     question: >-
       Kilise Nedir? İman ettim kiliseye gitmem gerekiyor mu ? İmanlı değilim
@@ -1204,11 +1204,11 @@ questions:
           url: 'https://www.youtube.com/watch?v=4P0CBQxrVAo'
           viewCount: '199'
   - answer: >-
-      2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: >-
-      Günahlarımız zaten bağışlandıysa onları neden itiraf     etmemiz gerekir
-      (1 Yuhanna 1:9)?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık.Günahlarımız çıkarma nedir? Amacı Nedir? Kim Günahları
+      bağışlayabilir? 
+    question: Günahlarımız çıkarma nedir? Amacı Nedir? Kim Günahları bağışlayabilir?
     videos:
       - guests: Test
         host: Test
