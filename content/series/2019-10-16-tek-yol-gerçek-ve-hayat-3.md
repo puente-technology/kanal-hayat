@@ -441,5 +441,18 @@ episodes:
       title: 94- Tanrı Konuşur 1
       url: 'https://youtu.be/8l68S8FLkKQ'
       viewCount: '263'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT58M30S
+      id: Yrdl4nJb22s
+      imageURL: 'https://i.ytimg.com/vi/Yrdl4nJb22s/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-10-24T08:15:00.000Z'
+      tags: tanrı
+      title: 95- Tanrı Konuşur 2
+      url: 'https://youtu.be/Yrdl4nJb22s'
+      viewCount: '136'
 ---
 
