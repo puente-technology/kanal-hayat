@@ -1123,8 +1123,10 @@ questions:
       için yanıtladık.Kilise Nedir? İman ettim kiliseye gitmem gerekiyor mu ?
       İmanlı değilim kilise gidebilir miyim?
     question: >-
-      Kilise Nedir? İman ettim kiliseye gitmem gerekiyor mu ? İmanlı değilim
-      kilise gidebilir miyim?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık.Kilise Nedir? İman ettim kiliseye gitmem gerekiyor mu ?
+      İmanlı değilim kilise gidebilir miyim?
     videos:
       - guests: .
         host: Can Nuroğlu ile
