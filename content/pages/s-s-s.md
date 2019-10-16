@@ -1507,5 +1507,19 @@ questions:
           title: 32. Bölüm Neden Dünyada Kötülük Var?
           url: 'https://www.youtube.com/watch?v=gz1KeX46ouo'
           viewCount: '300'
+      - guests: .
+        host: Işık Abla ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: Açıklama
+          duration: PT29M24S
+          id: 29LVbBSUSOQ
+          imageURL: 'https://i.ytimg.com/vi/29LVbBSUSOQ/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2014-10-28T11:27:07.000Z'
+          tags: 'mesihin,çektiği,acılar'
+          title: 57. Bölüm Mesih İnanlılarının Çektiği Acılar Ve Sıkıntılar
+          url: 'https://www.youtube.com/watch?v=29LVbBSUSOQ'
+          viewCount: '1073'
 ---
 
