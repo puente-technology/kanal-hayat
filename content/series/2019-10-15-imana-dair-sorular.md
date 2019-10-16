@@ -516,5 +516,38 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=QB6AAXa8iQM&list=PLB2653932E9326F00&index=16&t=0s
       viewCount: '1917'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M
+      id: Vuwk8pRSXFg
+      imageURL: 'https://i.ytimg.com/vi/Vuwk8pRSXFg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-15T13:13:47.000Z'
+      tags: >-
+        Hristiyanlık,kilise,hz. isa,kıyamet günü,kabir azabı,hz
+        muhammet,Kuran,İncil,isa,mesih,Rab,Mesih,Kutsal,Ruh,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 16. Bölüm (İncil'in değişmesi konusunda Hristiyan görüşü)
+      url: >-
+        https://www.youtube.com/watch?v=Vuwk8pRSXFg&list=PLB2653932E9326F00&index=17&t=0s
+      viewCount: '1787'
 ---
 
