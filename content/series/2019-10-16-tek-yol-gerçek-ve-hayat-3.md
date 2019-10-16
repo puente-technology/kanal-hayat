@@ -376,5 +376,18 @@ episodes:
       title: 89- Yargılamadan ve Yargılanmadan Özgür Olmak 1
       url: 'https://youtu.be/TNj1eei3Tlw'
       viewCount: '125'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT58M27S
+      id: ivH8eMViF4I
+      imageURL: 'https://i.ytimg.com/vi/ivH8eMViF4I/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-10-24T08:45:06.000Z'
+      tags: görünüş
+      title: 90- Tanrı Dış Görünüşe Bakmaz
+      url: 'https://youtu.be/ivH8eMViF4I'
+      viewCount: '140'
 ---
 
