@@ -144,5 +144,23 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=L4JiBlH4emU&list=PL902ABEBDFF147040&index=68&t=0s
       viewCount: '292'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT58M30S
+      id: sobpe_0KduM
+      imageURL: 'https://i.ytimg.com/vi/sobpe_0KduM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-29T13:53:00.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,isik
+        abla
+      title: 69- Sözün Gücü
+      url: >-
+        https://www.youtube.com/watch?v=sobpe_0KduM&list=PL902ABEBDFF147040&index=69&t=0s
+      viewCount: '980'
 ---
 
