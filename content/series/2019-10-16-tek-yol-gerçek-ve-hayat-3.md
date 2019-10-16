@@ -126,5 +126,23 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=VQoGspIoMKQ&list=PL902ABEBDFF147040&index=67&t=0s
       viewCount: '5715'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ' '
+      duration: PT58M31S
+      id: L4JiBlH4emU
+      imageURL: 'https://i.ytimg.com/vi/L4JiBlH4emU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-29T13:50:34.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,isik
+        abla
+      title: 68- Mucizeler
+      url: >-
+        https://www.youtube.com/watch?v=L4JiBlH4emU&list=PL902ABEBDFF147040&index=68&t=0s
+      viewCount: '292'
 ---
 
