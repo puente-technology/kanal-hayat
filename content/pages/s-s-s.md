@@ -1488,39 +1488,24 @@ questions:
           url: 'https://www.youtube.com/watch?v=vJw8L_sNh64'
           viewCount: '2916'
   - answer: >-
-      2 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: 'Günah işlediğimizde Rab bizi ne zaman, neden ve nasıl    disiplin eder?'
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Neden dünyada kötülük var ? İmanlılar neden acı çekiyor?
+    question: Neden dünyada kötülük var ? İmanlılar neden acı çekiyor?
     videos:
-      - guests: Test
-        host: Test
+      - guests: .
+        host: İhsan Özbek ile
         targetGroup: Herkes
         youtubeURL:
-          description: >-
-            It's time to start being content with who you are and stop comparing
-            yourself to other people. Your value does not come from your status,
-            how much money you have, or what you do for a living.  
-
-             ✅ Subscribe now to the #LakewoodChurch channel for messages of hope, encouragement, and inspiration: http://bit.ly/LakewoodYTSub
-
-            Connect with us on social! 
-
-            Facebook: Http://Bit.ly/LakewoodFB
-
-            Twitter: http://Bit.ly/LakewoodTW
-
-            Instagram: http://Bit.ly/LakewoodIG
-          duration: PT48M15S
-          id: L9r93TmmjTM
-          imageURL: 'https://i.ytimg.com/vi/L9r93TmmjTM/hqdefault.jpg'
+          description: Açıklama
+          duration: PT28M1S
+          id: gz1KeX46ouo
+          imageURL: 'https://i.ytimg.com/vi/gz1KeX46ouo/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-08-03T13:00:03.000Z'
-          tags: >-
-            Lakewood Church,lakewoodchurch,Joyce Meyer,joycemeyer,Joyce
-            Meyers,camparison,better relationships,relationships
-            frustrations,how to be patient with others
-          title: Stay In Your Own Lane | Joyce Meyer (2019)
-          url: 'https://www.youtube.com/watch?v=L9r93TmmjTM'
-          viewCount: '305520'
+          publishedAt: '2015-03-24T11:37:53.000Z'
+          tags: neden
+          title: 32. Bölüm Neden Dünyada Kötülük Var?
+          url: 'https://www.youtube.com/watch?v=gz1KeX46ouo'
+          viewCount: '300'
 ---
 
