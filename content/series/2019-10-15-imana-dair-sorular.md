@@ -416,5 +416,38 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=H5rJGzrz5x4&list=PLB2653932E9326F00&index=13&t=0s
       viewCount: '1353'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M1S
+      id: 077Kd8FcflA
+      imageURL: 'https://i.ytimg.com/vi/077Kd8FcflA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-10T11:15:51.000Z'
+      tags: >-
+        Hristiyanlık,hristiyan,hz
+        isa,peygamber,allah,tanrı,kiyamet,ahiret,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,İman,Hz.,İsa,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 13. Bölüm (İsa'nın kurban edilmesi)
+      url: >-
+        https://www.youtube.com/watch?v=077Kd8FcflA&list=PLB2653932E9326F00&index=14&t=0s
+      viewCount: '1189'
 ---
 
