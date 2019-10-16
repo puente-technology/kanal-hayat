@@ -521,7 +521,7 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. .Hristiyanlar nasıl dua ediyorlar? Hristiyanlar kime dua
+      için yanıtladık. Hristiyanlar nasıl dua ediyorlar? Hristiyanlar kime dua
       ediyor? Gerçek dua nasıl ediliyor? Aşağıdaki programlarımızı izleyerek
       detaylı bilgi edinebilirsiniz.Esen Kalın.
     question: Hristiyanlık'ta Nasıl Dua Edilir?
@@ -1118,9 +1118,12 @@ questions:
           url: 'https://www.youtube.com/watch?v=3jHwYZ63aXc'
           viewCount: '382'
   - answer: >-
-      14 Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-      accusantium doloremque laudantium, totam rem aperiam, eaque
-    question: Hristiyan ruhsallığı nedir?
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık.
+    question: >-
+      Kilise Nedir? İman ettim kiliseye gitmem gerekiyor mu ? İmanlı değilim
+      kilise gidebilir miyim?
     videos:
       - guests: Test
         host: Test
