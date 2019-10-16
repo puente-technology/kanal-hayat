@@ -231,5 +231,18 @@ episodes:
       title: 74- Günahı Yenmek 1
       url: 'https://youtu.be/wykR3trQD7E'
       viewCount: '123'
+  - guests: ''
+    season: '3'
+    youtubeURL:
+      description: ''
+      duration: PT58M31S
+      id: GpvHLvYj_NM
+      imageURL: 'https://i.ytimg.com/vi/GpvHLvYj_NM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-18T07:51:19.000Z'
+      tags: günah
+      title: 75- Günahı Yenmek 2
+      url: 'https://youtu.be/GpvHLvYj_NM'
+      viewCount: '164'
 ---
 
