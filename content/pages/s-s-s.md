@@ -1207,7 +1207,7 @@ questions:
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
       için yanıtladık. Günahlarımız nedir ? Kim Günahları bağışlayabilir? 
-    question: Günahlarımız nedir ? Kim Günahları bağışlayabilir?
+    question: Günah nedir ? Kim Günahları bağışlayabilir?
     videos:
       - guests: Test
         host: Test
