@@ -52,15 +52,16 @@
 }
 .player-info-info-div {
   display: flex;
-  width: 750px;
+  // width: 750px;
   margin-top: 5px;
 }
 
 .player-info-info-div-parent {
-  display: flex;
+  display: block;
   flex-direction: column;
   margin-left: 100px;
   margin-top:   20px;
+  width: auto;
 }
 @media (min-width: 1023px) {
   .player-info-container {
@@ -85,7 +86,7 @@
     overflow: scroll;
   }
   .player-info-info-div-parent {
-    display: flex;
+    display: block;
     flex-direction: column;
     margin-left: 60px;
     margin-top: 20px;

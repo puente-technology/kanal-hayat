@@ -24,8 +24,10 @@
 
 .LiveNow--Events {
   display: flex;
-  height: 97px;
-  justify-content: center;
+  // height: 97px;
+  justify-content: space-around;
+  overflow: scroll;
+  padding: 0 20px;
 }
 
 .LiveNow--Item {

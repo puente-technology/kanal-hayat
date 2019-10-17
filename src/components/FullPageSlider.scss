@@ -161,8 +161,8 @@ a:hover {
     font-size: 6px !important;
   }
   .slider .indicators__item {
-    width: 5rem;
-    height: 1rem;
+    width: 12px;
+    height: 5px;
   }
 }
 
@@ -354,6 +354,10 @@ body {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
+  border-right-width: 2px;
+  border-left-width: 1px;
+  border-top-width: 2px;
+  border-bottom-width: 2px;
 }
 .indicators__item:hover {
   -webkit-box-shadow: 0 0 2px #000000;
@@ -521,4 +525,8 @@ body {
     height: 6px;
     width: 16px;
   }
+  .indicators__list {
+    right: 10px;
+   }
+
 }
