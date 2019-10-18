@@ -6,6 +6,10 @@ import LiveNow from './LiveNow'
 
 import './Player.scss';
 
+const bigScreen = require('../../static/images/bigscreen.svg');
+const cancelSvg = require('../../static/images/cancelicon.svg')
+
+
 class Player extends Component {
   static propTypes = {
     playing: PropTypes.bool,
@@ -221,6 +225,16 @@ class Player extends Component {
   componentDidMount = () => {
   }
 
+  onFullScreenClick = () => {
+    const { isBigScreenState } = this.state;
+    this.setState({ isBigScreenState: !isBigScreenState })
+  }
+
+  onFullCloseScreenClick = () => {
+    const { isOpen } = this.state;
+    this.setState({ isOpen: !isOpen })
+  }
+
   render = () => {
     const {
       playingBool,
@@ -261,12 +275,14 @@ class Player extends Component {
       reactPlayerStyles.marginLeft = -Math.round(props.width / 2);
     } else if (isBigScreenState) {
       const width = this.getWidth() - 460
-      const height = this.getHeight() - 200
+      const height = this.getHeight() * 0.5
       props.height = height
       props.width = width
-      isBigStyle.margin = '30px auto'
+      isBigStyle.margin = '10px auto'
+      isBigStyle.marginBottom = '0px'
       isBigStyle.display = 'flex'
       isBigStyle.justifyContent = 'center'
+      isBigStyle.flexDirection = 'column'
     } else {
       props.height = '8rem';
       props.width = '16rem';
@@ -277,7 +293,7 @@ class Player extends Component {
     }
     props.progressFrequency = 100
     props.ref = this.ref
-
+    console.log('asma this', props.width)
     return (
       isOpen && (
       <div style={{ backgroundColor: '#3d3d3d' }}>
@@ -289,25 +305,70 @@ class Player extends Component {
             props.show ? 'show' : 'hide',
             props.isBigScreen ? 'isBig' : '',
           ].join(' ')}
+          style={{ height: !isBigScreenState && 'auto' }}
         >
-          <div id="playerBackdrop" className="'player-backdrop isBig">
-            <div style={isBigStyle}>
+          <div id="playerBackdrop" className="'player-backdrop isBig" style={{ display: 'flex', flexDirection: isBigScreenState ? 'column' : 'row' }}>
+            <div style={isBigScreenState ? isBigStyle : { width: '40%', display: 'flex', flexDirection: 'column-reverse' }}>
               <iframe
                 title="live"
                 id="ls_embed_1518597697"
                 src="https://livestream.com/accounts/7475784/events/8817566/player?width=320&height=180&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false"
-                width={props.width}
-                height={props.height}
+                width={isBigScreenState ? props.width : '100%'}
+                height={isBigScreenState ? props.height : '100%'}
                 frameBorder="0"
                 scrolling="no"
                 allowFullScreen
                 className="expanded"
               />
+              <div
+                className="expand-view"
+                style={{
+                  width: '100%',
+                  height: 35,
+                  backgroundColor: 'black',
+                  position: 'relative',
+                  display: 'flex',
+                  flexDirection: 'row-reverse',
+                  justifyContent: 'flex-start',
+                }}
+              >
+                <buttom
+                  type="buttom"
+                  style={{
+                    background: `url(${cancelSvg}) no-repeat`,
+                    backgroundSize: 'contain',
+                    border: 'none',
+                    minWidth: '25px',
+                    minHeight: '20px',
+                    margin: '10px',
+                  }}
+                  onClick={this.onFullCloseScreenClick}
+                  className="player-volume-path"
+                />
+                <buttom
+                  type="buttom"
+                  style={{
+                    background: `url(${bigScreen}) no-repeat`,
+                    backgroundSize: 'contain',
+                    border: 'none',
+                    minWidth: '25px',
+                    minHeight: '20px',
+                    margin: '10px',
+                  }}
+                  onClick={this.onFullScreenClick}
+                  className="player-volume-path"
+                />
+              </div>
             </div>
-            {isBigScreenState && (
+            {true && (
             <div
               style={{
-                width: props.width, margin: '62px auto', height: '6rem', background: 'black',
+                width: isBigScreenState ? props.width : '60%',
+                margin: isBigScreenState ? 'auto' : 0,
+                height: isBigScreenState && '200px',
+                background: 'black',
+                position: 'relative',
+                padding: 0,
               }}
               className={['container-fluid', 'player-controls-container', props.expand ? 'expanded' : 'collapsed'].join(' ')}
             >
