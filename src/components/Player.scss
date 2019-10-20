@@ -422,12 +422,28 @@ $track-border-width: 0px;
 	left: -1rem;
 }
 
+
 @media (max-width: map-get($grid-breakpoints, md)) {
 	.player-info-txt {
 		// display: none;
 	}
 }
 @media (max-width: map-get($grid-breakpoints, sm)) {
+	.mjs-root-view .mjs-hit-view__arrow {
+		border-bottom: 5px solid transparent;
+		border-left: 14px solid #fff;
+		border-top: 5px solid transparent;
+		height: 0;
+		margin-left: 2px;
+		width: 0;
+	}
+	.mjs-root-view .mjs-hit-view__arrow, .mjs-root-view .mjs-hit-view__play-icon {
+		left: 50%;
+		position: absolute;
+		top: 50%;
+		-webkit-transform: translate(-50%,-50%);
+		transform: translate(-50%,-50%);
+	}
 	.player-control-container {
 		// margin-right: -100px;
 	}
@@ -575,6 +591,14 @@ input[type=range]::-moz-range-thumb {
 }
 
 @media (max-width: map-get($grid-breakpoints, md)) {
+	iframe {
+		width: 100% !important;
+		height: 100% !important;
+	}
+	.live-stream-video-container {
+		width: 60% !important;
+		height: 40% !important;
+	}
 	#player {
 		&.collapsed {
 			height: 15rem;
@@ -603,6 +627,14 @@ input[type=range]::-moz-range-thumb {
 				padding: 0 !important;
 				position: absolute;
 				top: 380px;
+				&.live-stream {
+					width: 60% !important;
+					margin: auto !important;
+					background: black none repeat scroll 0% 0%;
+					position: relative;
+					top: 0;
+					display: flex;
+				}
 			}
 			.player-bar {
 				width: 90%;

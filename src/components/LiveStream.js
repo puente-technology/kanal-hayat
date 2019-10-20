@@ -274,11 +274,11 @@ class Player extends Component {
       reactPlayerStyles.left = '50%';
       reactPlayerStyles.marginLeft = -Math.round(props.width / 2);
     } else if (isBigScreenState) {
-      const width = this.getWidth() - 460
+      const width = this.getWidth() * 0.6
       const height = this.getHeight() * 0.5
       props.height = height
       props.width = width
-      isBigStyle.margin = '10px auto'
+      isBigStyle.margin = '8% auto'
       isBigStyle.marginBottom = '0px'
       isBigStyle.display = 'flex'
       isBigStyle.justifyContent = 'center'
@@ -293,7 +293,7 @@ class Player extends Component {
     }
     props.progressFrequency = 100
     props.ref = this.ref
-    console.log('asma this', props.width)
+    console.log('asma this.getWidth()', this.getWidth())
     return (
       isOpen && (
       <div style={{ backgroundColor: '#3d3d3d' }}>
@@ -305,10 +305,10 @@ class Player extends Component {
             props.show ? 'show' : 'hide',
             props.isBigScreen ? 'isBig' : '',
           ].join(' ')}
-          style={{ height: !isBigScreenState && 'auto' }}
+          style={{ height: !isBigScreenState && 'auto', backgroundColor: 'rgba(33, 37, 41, 0.8)' }}
         >
           <div id="playerBackdrop" className="'player-backdrop isBig" style={{ display: 'flex', flexDirection: isBigScreenState ? 'column' : 'row' }}>
-            <div style={isBigScreenState ? isBigStyle : { width: '40%', display: 'flex', flexDirection: 'column-reverse' }}>
+            <div className="live-stream-video-container" style={isBigScreenState ? isBigStyle : { width: isBigScreenState ? '40%' : this.getWidth() < 700 && '100% !important', display: 'flex', flexDirection: 'column-reverse' }}>
               <iframe
                 title="live"
                 id="ls_embed_1518597697"
@@ -318,7 +318,7 @@ class Player extends Component {
                 frameBorder="0"
                 scrolling="no"
                 allowFullScreen
-                className="expanded"
+                className="iframe"
               />
               <div
                 className="expand-view"
@@ -365,16 +365,17 @@ class Player extends Component {
               style={{
                 width: isBigScreenState ? props.width : '60%',
                 margin: isBigScreenState ? 'auto' : 0,
-                height: isBigScreenState && '200px',
+                // height: isBigScreenState && '200px',
                 background: 'black',
                 position: 'relative',
                 padding: 0,
+                display: this.getWidth() < 700 ? !isBigScreenState && 'none' : 'table',
               }}
-              className={['container-fluid', 'player-controls-container', props.expand ? 'expanded' : 'collapsed'].join(' ')}
+              className={['container-fluid', 'player-controls-container', props.expand ? 'expanded' : 'collapsed', isOpen && 'live-stream'].join(' ')}
             >
               <div className="col isBig player-control-container">
                 <div className="isBigControls">
-                  <LiveNow />
+                  <LiveNow isLiveStream={isOpen} />
                 </div>
               </div>
             </div>

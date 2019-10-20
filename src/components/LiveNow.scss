@@ -1,5 +1,5 @@
 .LiveNow {
-  height: 275px;
+  // height: 275px;
   background: #eaeaea;
   width: 100%;
 }
@@ -14,6 +14,9 @@
   padding-top: 48px;
   padding-left: 98px;
   color: #3d3d3d;
+  &.live-stream {
+    padding-top: 30px;
+  }
 }
 
 .LiveNow--Line {
@@ -24,8 +27,11 @@
 
 .LiveNow--Events {
   display: flex;
-  height: 97px;
-  justify-content: center;
+  // height: 97px;
+  justify-content: space-around;
+  overflow: scroll;
+  padding: 20px;
+  padding-top: 0;
 }
 
 .LiveNow--Item {
@@ -79,6 +85,9 @@
 }
 
 @media (max-width: 576px) {
+  .LiveNow--Line {
+    width: 90%;
+  }
   .LiveNow--Title {
     font-size: 15px;
     padding-left: 32px;
@@ -95,5 +104,8 @@
   
   .Item-Time {
     font-size: 21px;
+  }
+  .LiveNow--Events {
+    justify-content: flex-start;
   }
 }
