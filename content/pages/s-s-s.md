@@ -1155,8 +1155,17 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Kilise Nedir? İman ettim kiliseye gitmem gerekiyor mu ?
-      İmanlı değilim kilise gidebilir miyim?
+      için yanıtladık. Aden Bahçesi’nde Adem ve Havva, ‘iyiyi ve kötüyü bilme
+      ağacı’ndan yediklerinde günah işlemiş oldular ve bu günahın en önemli
+      sonucu olarak Tanrı’dan ayrılmak zorunda kaldılar. Tanrı ile ilişkileri
+      bozuldu ve koptu. Çünkü Tanrı kutsaldır. İsa Mesih’in yeryüzüne gelme
+      amacı, insanların önce Tanrı’yla, sonra da birbirleriyle ilişkilerini
+      yenilemekti. Bunun için insanların günahlarından ve dolayısıyla
+      sonuçlarından kurtulmaları gerekiyordu. İsa Mesih çarmıhta işte tam da
+      bunu gerçekleştirdi. İsa Mesih’in öğrencisi olmanın en önemli getirisi,
+      Tanrı’yla devam eden ilişkimiz boyunca İsa Mesih benzerliğine
+      dönüşmemizdir. İşte gündelik hayatımızda böyle bir lütfu paylaşıp deneyim
+      edeceğimiz yerdir kilise.
     question: >-
       Kilise Nedir? İman ettim kiliseye gitmem gerekiyor mu ? İmanlı değilim
       kilise gidebilir miyim?
