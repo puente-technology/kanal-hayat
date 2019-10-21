@@ -308,7 +308,11 @@ class Player extends Component {
           style={{ height: !isBigScreenState && 'auto', backgroundColor: 'rgba(33, 37, 41, 0.8)' }}
         >
           <div id="playerBackdrop" className="'player-backdrop isBig" style={{ display: 'flex', flexDirection: isBigScreenState ? 'column' : 'row' }}>
-            <div className="live-stream-video-container" style={isBigScreenState ? isBigStyle : { width: isBigScreenState ? '40%' : this.getWidth() < 700 && '100% !important', display: 'flex', flexDirection: 'column-reverse' }}>
+            <div
+              className="live-stream-video-container"
+              style={isBigScreenState ? isBigStyle
+                : { width: isBigScreenState ? '40%' : this.getWidth() < 700 ? '100% !important' : '40%', display: 'flex', flexDirection: 'column-reverse' }}
+            >
               <iframe
                 title="live"
                 id="ls_embed_1518597697"
