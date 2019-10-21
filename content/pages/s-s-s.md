@@ -1015,8 +1015,20 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Vaftiz Nedir? İman ettim ama vaftiz olmasam olur mu ?
-      Vaftiz mi bizi kurtarıyor? İsa Mesih vaftiz oldu mu ?
+      için yanıtladık. Hristiyanlık’ta vaftiz kavramını sürekli duyarız.
+      Hristiyanlığın en önemli ritüellerinden birisidir vaftizdir. Peki vaftiz
+      nedir? Nereden gelir? Hristiyanlar neden vaftiz olurlar?  Hristiyanlığın
+      temel vurgusu, günahlarımızın sonucu olarak Tanrı ile bozulmuş olan
+      ilişkilerimizin, İsa Mesih’in çarmıh üzerindeki kefareti ile onarılması,
+      barışın sağlanması ve günaha olan köleliğimizin sona erdirilmesidir ve
+      vaftiz bu inancın en önemli dışavurumudur. Vaftiz olmanın öneminin
+      yanında, İsa Mesih’in son buyruğu olduğu için çok önemlidir. İsa Mesih
+      göğe yükselmeden önce öğrencilerine şöyle buyurmuştur:  “Gökte ve
+      yeryüzünde bütün yetki bana verildi. Bu nedenle gidin, bütün ulusları
+      öğrencilerim olarak yetiştirin; onları Baba, Oğul ve Kutsal Ruh’un adıyla
+      vaftiz edin; size buyurduğum her şeye uymayı onlara öğretin. İşte ben,
+      dünyanın sonuna dek her an sizinle birlikteyim.” (Matta 28:18-20) Esen
+      Kalın.
     question: Vaftiz Nedir? İman Ettim Vaftiz Olmam Gerekiyor Mu?
     videos:
       - guests: .
