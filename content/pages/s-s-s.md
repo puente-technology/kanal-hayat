@@ -1579,20 +1579,19 @@ questions:
           url: 'https://www.youtube.com/watch?v=r3ziPlNoXYg'
           viewCount: '348'
       - guests: ''
-        host: Leyla Erman ile
+        host: Joyce Meyer ile
         targetGroup: Herkes
         youtubeURL:
-          description: ' '
-          duration: PT28M19S
-          id: 69g523gpuCM
-          imageURL: 'https://i.ytimg.com/vi/69g523gpuCM/hqdefault.jpg'
+          description: ''
+          duration: PT24M34S
+          id: wQDreLqXwLc
+          imageURL: 'https://i.ytimg.com/vi/wQDreLqXwLc/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2013-02-08T11:59:37.000Z'
-          tags: >-
-            isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
-          title: BizBize - Neden İmanlılar Acı Çekiyorlar 1
-          url: 'https://www.youtube.com/watch?v=69g523gpuCM'
-          viewCount: '52'
+          publishedAt: '2017-10-23T06:45:59.000Z'
+          tags: 'cesurca,yaşamak'
+          title: 1096 1 Cesurca Yaşamak 1
+          url: 'https://www.youtube.com/watch?v=wQDreLqXwLc'
+          viewCount: '144'
       - guests: .
         host: Banu Çelik ile
         targetGroup: Herkes
