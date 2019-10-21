@@ -1241,7 +1241,17 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Günahlarımız nedir ? Kim Günahları bağışlayabilir? 
+      için yanıtladık. Günah deyince çoğumuzun aklına, Tanrı’nın kurallarına
+      uymama ya da iyi ve kötü arasında seçim yapma gibi konular gelir. Hatta
+      bunlardan adam öldürme ve zina gibi günahları büyük; yalan söyleme, yan
+      gözle bakma gibi günahları ise küçük günahlar olarak görürüz. Aslında bu
+      kendimizi aldatmaktır. Günah işleyen herkes günahın kölesi olmuştur ve
+      Tanrı’dan uzaklaşmıştır. Mesih’in dediği gibi:  35 “Köle ev halkının
+      sürekli bir üyesi değildir, ama oğul sürekli üyesidir. 36 Bunun için, Oğul
+      sizi özgür kılarsa, gerçekten özgür olursunuz.” İncil- (Yuhanna 8:34-36) 
+      Kutsal Kitap tercümesinde günah, “hedefe ulaşamama” manasına gelir. Tabi
+      ki buradaki, “hedef” Tanrı’nın bizim için belirlemiş olduğu standarttır ve
+      İsa Mesih bunu açığa çıkarmıştır.Esen Kalın.
     question: Günah nedir ? Kim Günahları bağışlayabilir?
     videos:
       - guests: Test
