@@ -10,9 +10,20 @@ questions:
       için yanıtladık..İsa Mesih’i özel kılan tam olarak nedir? İncil’de İsa
       Mesih hangi kimliklere sahiptir?  İsa Mesih yaptığı mucizeler ve
       belirtileri kimin gücüyle yaptı? Tanrı'nın Oğlu Ne demektir? Aşağıdaki
-      programlarımızı izleyerek aklınıza takılan sorulara cevap
-      bulabilirsiniz.Esen Kalın.
-    question: İsa Mesih Kimdir?
+      programlarımızı izleyerek aklınıza takılan sorulara cevap bulabilirsiniz.
+      İsa Mesih'in Tanrı Oğlu olarak adlandırılması Hristiyanlar tarafından
+      ortaya konan bir şey değildir. Bunu ortaya koyan Kutsal Kitap'tır. Kutsal
+      Kitap'ın bir çok yerinde İsa Mesih bu adla tanıtılır. Tanrı Oğlu sıfatı
+      fiziksel değil ruhsal bir sıfattır. Dolayısıyla halkımız arasında
+      süregelen ve kulaktan dolma bilgiler olan Tanrı Oğlu kavramı hakkındaki
+      diğer görüşleri kesinlikle reddederiz.  "Melek ona, "Korkma Meryem” dedi,
+      "Sen Tanrı`nın lütfuna eriştin. Bak, gebe kalıp bir oğul doğuracak, adını
+      İsa koyacaksın. O büyük olacak, kendisine `Yüceler Yücesi`nin Oğlu`
+      denecek.  Meryem meleğe, "Bu nasıl olur? Ben erkeğe varmadım ki” dedi.
+      Melek ona şöyle yanıt verdi: "Kutsal Ruh senin üzerine gelecek, Yüceler
+      Yücesi`nin gücü sana gölge salacak. Bunun için doğacak olana kutsal, Tanrı
+      Oğlu denecek." (Luka 1.Bölüm) Esen Kalın.
+    question: İsa Mesih'e Neden Tanrı Oğlu Diyorsunuz ? İsa Mesih Kimdir?
     videos:
       - guests: .
         host: Hakan Taştan ile
