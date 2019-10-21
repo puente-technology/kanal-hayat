@@ -699,7 +699,12 @@ questions:
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
       için yanıtladık. .İznik Konseyinde ne oldu? İznik Konsili'nde Neler
       Yaşandı? (İncil Sallama Olayının Perde Arkası) Aşağıdaki programlarımızı
-      izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.
+      izleyerek detaylı bilgi edinebilirsiniz. Tarihsel kaynaklara göre İznik
+      Konseyine katılan kişiler sadece Mesih İsa'nın Tanrılığını tartışmak için
+      toplanmışlardır. İznik Konseyinde asla İncil metinlerinin doğruluğu ve
+      gerçekliği tartışılmadı. Bu konseye katılanlar arasında İncil metni ya da
+      içeriği konusunda herhangi bir ihtilafın olduğu kesinlikle
+      kaydedilmemiştir. Esen Kalın.
     question: 'İznik Konseyinde Neler oldu? '
     videos:
       - guests: .
