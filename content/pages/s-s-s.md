@@ -202,9 +202,18 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık.Teslis Nedir? Nereden Çıktı Bu "Üçlü Birlik"(Teslis)?
-      Hristiyanlar üç Tanrı'ya mı inanıyor? 
-    question: Tevhid'te Teslis - Üçlü Birlik Nedir?
+      için yanıtladık. Bizler üç Tanrı'ya değil, tüm evreni Söz'üyle yaratmış
+      tek bir Tanrı'ya inanıyoruz. Yüce Tanrı, Kendi doğaüstü varlığını bize üç
+      kişilikte göstermiştir. Tanrı, öz varlığında ezelden ebediyete kadar var
+      olan, uyum ve birlik içerisinde hareket eden üç ayrı kişisel benlikten
+      ibaret olup bir bütün olarak görünmektedir: Baba, Oğul ve Kutsal Ruh. Bu
+      konu her ne kadar karışık gibi gözükse de asıl karışıklık yaratan şey,
+      sonsuz ve sınırsız bir Tanrı'yı kendi sınırlı beynimizin düşünce yapısına
+      göre betimlemektir. Matta 28:19'daki ayete baktığımızda İsa Mesih'in
+      kendini Baba ve Kutsal Ruh'la beraber tek bir kişi olarak belirttiğini
+      görürüz: "Bu nedenle gidin, bütün ulusları öğrencilerim olarak yetiştirin;
+      onları Baba, Oğul ve Kutsal Ruh`un adıyla vaftiz edin." Esen Kalın.
+    question: Üç Tanrı'ya Mı İnanıyoruz? Tevhid'te Teslis - Üçlü Birlik Nedir?
     videos:
       - guests: .
         host: Ahmet Güvener ile
@@ -542,9 +551,26 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Hristiyanlar nasıl dua ediyorlar? Hristiyanlar kime dua
-      ediyor? Gerçek dua nasıl ediliyor? Aşağıdaki programlarımızı izleyerek
-      detaylı bilgi edinebilirsiniz.Esen Kalın.
+      için yanıtladık. Aşağıdaki programlarımızı izleyerek detaylı bilgi
+      edinebilirsiniz.  Dua Rab’bi çağırmak ve O’nunla konuşmaktır. Muhtaç
+      durumumuzu ona bildirmektir. İsa aracılığıyla Tanrı ile
+      barıştırıldığımızda Kendisiyle olan dostluğumuzu ihmal etmemeliyiz.
+      O’nunla zaman geçirmeliyiz. Bize söylemek istediklerini dinlemeyi
+      öğrenmeliyiz. Bütün varlığı yaratan ve onlarla irtibata geçmek için
+      kendini açıklamış olan Tanrı’yla ruhsal bir cevaptır dua. Duanın kapsamı
+      yalnızca Tanrı’yla konuşmayı içermemektedir. Tanrı’yı çağırmak ve O’nunla
+      dertleşmek, sonra O’ndan ruhsal anlamda cevaplar beklemek, hiçbir söz
+      söylemeden, yürek derinliğinden O’nu yüceltmek O’na tapınmak ve bütün
+      gereksinimlerimizi O’ndan istemektir de.“Dua ettiğinizde putperestler gibi
+      putperestler gibi boş sözler tekrarlayıp durmayın. Onlar söz kalabalığıyla
+      seslerini duyurabileceklerini sanırlar. Siz onlara benzemeyin. Çünkü
+      Babanız nelere gereksiniminiz olduğunu daha siz O’ndan dilemedene önceden
+      bilir. Bunun için siz şöyle dua edin : Göklerdeki Babamız; Adın kutsal
+      kılınsın. Egemenliğin gelsin. Gökte olduğu gibi yeryüzünde de Senin
+      istediğin olsun. Bu gün bize gündelik ekmeğimizi ver. Bize karşı suç
+      işleyenleri bağışladığımız gibi Sen de bizim suçlarımızı bağışla.
+      Ayartılmamıza izin verme. Kötü olandan bizi kurtar. Çünkü egemenlik, güç
+      ve yücelik Sonsuzlara dek senindir, Amin Matta 6:7-13 Esen Kalın.
     question: Hristiyanlık'ta Nasıl Dua Edilir?
     videos:
       - guests: .
@@ -1006,8 +1032,20 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Vaftiz Nedir? İman ettim ama vaftiz olmasam olur mu ?
-      Vaftiz mi bizi kurtarıyor? İsa Mesih vaftiz oldu mu ?
+      için yanıtladık. Hristiyanlık’ta vaftiz kavramını sürekli duyarız.
+      Hristiyanlığın en önemli ritüellerinden birisidir vaftizdir. Peki vaftiz
+      nedir? Nereden gelir? Hristiyanlar neden vaftiz olurlar?  Hristiyanlığın
+      temel vurgusu, günahlarımızın sonucu olarak Tanrı ile bozulmuş olan
+      ilişkilerimizin, İsa Mesih’in çarmıh üzerindeki kefareti ile onarılması,
+      barışın sağlanması ve günaha olan köleliğimizin sona erdirilmesidir ve
+      vaftiz bu inancın en önemli dışavurumudur. Vaftiz olmanın öneminin
+      yanında, İsa Mesih’in son buyruğu olduğu için çok önemlidir. İsa Mesih
+      göğe yükselmeden önce öğrencilerine şöyle buyurmuştur:  “Gökte ve
+      yeryüzünde bütün yetki bana verildi. Bu nedenle gidin, bütün ulusları
+      öğrencilerim olarak yetiştirin; onları Baba, Oğul ve Kutsal Ruh’un adıyla
+      vaftiz edin; size buyurduğum her şeye uymayı onlara öğretin. İşte ben,
+      dünyanın sonuna dek her an sizinle birlikteyim.” (Matta 28:18-20) Esen
+      Kalın.
     question: Vaftiz Nedir? İman Ettim Vaftiz Olmam Gerekiyor Mu?
     videos:
       - guests: .
@@ -1066,8 +1104,26 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Hristiyanlıkta kurban var mı ? Son kurban nedir? İsa
-      Mesih neden çarmıha gitti?
+      için yanıtladık.Adem ile Havva’nın, Aden Bahçesi’nde Tanrı’ya itaatsizlik
+      edip, ‘iyi ile kötüyü bilme’ ağacının meyvesinden yemesiyle, insan günaha
+      düşmüş oldu. Böylece insan doğasına, ‘günahlı’ bir doğa dahil oldu. İnsan
+      ilk yaratıldığı haldeki gibi kusursuz ve günahsız olan niteliklerini
+      kaybetti. Dahası, insanın günahlı doğaya sahip olmasıyla birlikte, Tanrı
+      ile arasındaki ilişki de bozuldu. “Adem, ‘Bahçede sesini duyunca korktum.
+      Çünkü çıplaktım, bu yüzden gizlendim’ dedi. RAB Tanrı, ‘Çıplak olduğunu
+      sana kim söyledi?’ diye sordu, ‘Sana meyvesini yeme dediğim ağaçtan mı
+      yedin?’” (Yaratılış 3:11-12)  Bundan sonra Yaratılış 3. bölümde Tanrı’nın
+      bir kurban kestiğini ve bu kurbanın derisinden Adem ile Havva için
+      giysiler yapıp onları giydirdiğini görüyoruz (bkz. Yaratılış 3:21).
+      Tanrı’nın insanın günahı için sağladığı kurban çarmıha gerilen İsa
+      Mesih’tir. Bunun dışındaki hiçbir kurban insanın günahını temiz kılamaz,
+      “Çünkü boğalarla tekelerin kanı günahları ortadan kaldıramaz.” (İbraniler
+      10:4) İlk kurbanı Tanrı kesmiştir ve bunu, ‘kurbanı’, Kendisinin tedarik
+      edeceğini belirtmek için yapmıştır. Son kurbanı da Tanrı kesmiştir, İsa
+      Mesih’in çarmıh üzerindeki ölümüyle insanın günahı temizlenmiş, üçüncü gün
+      ölümden dirilişiyle de günahın sonucu olan ölüm ortadan kalkmıştır. Artık
+      Tanrı’ya İsa Mesih’in kurbanı aracılığıyla yaklaşan hiç kimse üzerinde
+      günahın ve ölümün hükmü yoktur. Esen Kalın.
     question: Hristiyanlıkta kurban var mı ? Son kurban nedir?
     videos:
       - guests: .
@@ -1146,8 +1202,17 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Kilise Nedir? İman ettim kiliseye gitmem gerekiyor mu ?
-      İmanlı değilim kilise gidebilir miyim?
+      için yanıtladık. Aden Bahçesi’nde Adem ve Havva, ‘iyiyi ve kötüyü bilme
+      ağacı’ndan yediklerinde günah işlemiş oldular ve bu günahın en önemli
+      sonucu olarak Tanrı’dan ayrılmak zorunda kaldılar. Tanrı ile ilişkileri
+      bozuldu ve koptu. Çünkü Tanrı kutsaldır. İsa Mesih’in yeryüzüne gelme
+      amacı, insanların önce Tanrı’yla, sonra da birbirleriyle ilişkilerini
+      yenilemekti. Bunun için insanların günahlarından ve dolayısıyla
+      sonuçlarından kurtulmaları gerekiyordu. İsa Mesih çarmıhta işte tam da
+      bunu gerçekleştirdi. İsa Mesih’in öğrencisi olmanın en önemli getirisi,
+      Tanrı’yla devam eden ilişkimiz boyunca İsa Mesih benzerliğine
+      dönüşmemizdir. İşte gündelik hayatımızda böyle bir lütfu paylaşıp deneyim
+      edeceğimiz yerdir kilise.
     question: >-
       Kilise Nedir? İman ettim kiliseye gitmem gerekiyor mu ? İmanlı değilim
       kilise gidebilir miyim?
@@ -1232,7 +1297,17 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Günahlarımız nedir ? Kim Günahları bağışlayabilir? 
+      için yanıtladık. Günah deyince çoğumuzun aklına, Tanrı’nın kurallarına
+      uymama ya da iyi ve kötü arasında seçim yapma gibi konular gelir. Hatta
+      bunlardan adam öldürme ve zina gibi günahları büyük; yalan söyleme, yan
+      gözle bakma gibi günahları ise küçük günahlar olarak görürüz. Aslında bu
+      kendimizi aldatmaktır. Günah işleyen herkes günahın kölesi olmuştur ve
+      Tanrı’dan uzaklaşmıştır. Mesih’in dediği gibi:  35 “Köle ev halkının
+      sürekli bir üyesi değildir, ama oğul sürekli üyesidir. 36 Bunun için, Oğul
+      sizi özgür kılarsa, gerçekten özgür olursunuz.” İncil- (Yuhanna 8:34-36) 
+      Kutsal Kitap tercümesinde günah, “hedefe ulaşamama” manasına gelir. Tabi
+      ki buradaki, “hedef” Tanrı’nın bizim için belirlemiş olduğu standarttır ve
+      İsa Mesih bunu açığa çıkarmıştır.Esen Kalın.
     question: Günah nedir ? Kim Günahları bağışlayabilir?
     videos:
       - guests: Test
