@@ -914,10 +914,14 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Hristiyanlıkta kurtuluş kesin mi? İman ettiğimde
-      kurtulacağımı nasıl bilebilirim? Kurtuluş için bir şey yapmam gerekiyor
-      mu? Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen
-      Kalın.
+      için yanıtladık. İncil Romalılar 10:8 ayette belirtildiği gibi "Ne
+      deniyor? “Tanrı sözü sana yakındır, Ağzında ve yüreğindedir.” İşte
+      duyurduğumuz iman sözü budur.İsa’nın Rab olduğunu ağzınla açıkça söyler ve
+      Tanrı’nın O’nu ölümden dirilttiğine yürekten iman edersen, kurtulacaksın.
+      Çünkü insan yürekten iman ederek aklanır, imanını ağzıyla açıklayarak
+      kurtulur.Kutsal Yazı, “O’na iman eden utandırılmayacak” diyor.Çünkü Yahudi
+      Grek ayrımı yoktur, aynı Rab hepsinin Rabbi’dir. Kendisini çağıranların
+      tümüne eliaçıktır. “Rab’bi adıyla çağıran herkes kurtulacak.”"
     question: Mesih'te kurtuluş kesin mi ? Kurtuluş için bir şey yapmam gerekiyor mu?
     videos:
       - guests: .
