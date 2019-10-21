@@ -1075,8 +1075,26 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Hristiyanlıkta kurban var mı ? Son kurban nedir? İsa
-      Mesih neden çarmıha gitti?
+      için yanıtladık.Adem ile Havva’nın, Aden Bahçesi’nde Tanrı’ya itaatsizlik
+      edip, ‘iyi ile kötüyü bilme’ ağacının meyvesinden yemesiyle, insan günaha
+      düşmüş oldu. Böylece insan doğasına, ‘günahlı’ bir doğa dahil oldu. İnsan
+      ilk yaratıldığı haldeki gibi kusursuz ve günahsız olan niteliklerini
+      kaybetti. Dahası, insanın günahlı doğaya sahip olmasıyla birlikte, Tanrı
+      ile arasındaki ilişki de bozuldu. “Adem, ‘Bahçede sesini duyunca korktum.
+      Çünkü çıplaktım, bu yüzden gizlendim’ dedi. RAB Tanrı, ‘Çıplak olduğunu
+      sana kim söyledi?’ diye sordu, ‘Sana meyvesini yeme dediğim ağaçtan mı
+      yedin?’” (Yaratılış 3:11-12)  Bundan sonra Yaratılış 3. bölümde Tanrı’nın
+      bir kurban kestiğini ve bu kurbanın derisinden Adem ile Havva için
+      giysiler yapıp onları giydirdiğini görüyoruz (bkz. Yaratılış 3:21).
+      Tanrı’nın insanın günahı için sağladığı kurban çarmıha gerilen İsa
+      Mesih’tir. Bunun dışındaki hiçbir kurban insanın günahını temiz kılamaz,
+      “Çünkü boğalarla tekelerin kanı günahları ortadan kaldıramaz.” (İbraniler
+      10:4) İlk kurbanı Tanrı kesmiştir ve bunu, ‘kurbanı’, Kendisinin tedarik
+      edeceğini belirtmek için yapmıştır. Son kurbanı da Tanrı kesmiştir, İsa
+      Mesih’in çarmıh üzerindeki ölümüyle insanın günahı temizlenmiş, üçüncü gün
+      ölümden dirilişiyle de günahın sonucu olan ölüm ortadan kalkmıştır. Artık
+      Tanrı’ya İsa Mesih’in kurbanı aracılığıyla yaklaşan hiç kimse üzerinde
+      günahın ve ölümün hükmü yoktur. Esen Kalın.
     question: Hristiyanlıkta kurban var mı ? Son kurban nedir?
     videos:
       - guests: .
