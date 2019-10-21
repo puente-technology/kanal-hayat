@@ -649,7 +649,7 @@ questions:
           title: Hristiyanlık Şeriatı - Seçilmişlik ve Dua
           url: 'https://www.youtube.com/watch?v=WxBiFjMSpDg'
           viewCount: '492'
-  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. .Hristiyanlıkta evlilik nasıldır? Hristiyanlık’ta evlilik ve aile olgusu nasıldır? İncil evlilik hakkında neler söylüyor? aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz..Esen Kalın.'
+  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. İncil Efesliler bölümündeki ayetler Kutsal Kitap’a uygun başarılı bir evliliğe kaynak olarak epey derindir. “Ey kadınlar, Rab’be bağımlı olduğunuz gibi, kocalarınıza bağımlı olun. Çünkü Mesih bedenin kurtarıcısı olarak kilisenin başı olduğu gibi, erkek de kadının başıdır” (Efesliler 5:22-23). “Ey kocalar, Mesih kiliseyi nasıl sevip onun uğruna kendini feda ettiyse, siz de karılarınızı öyle sevin” (Efesliler 5:25). “Aynı biçimde kocalar da karılarını kendi bedenleri gibi sevmelidir. Karısını seven kendini sever. Hiç kimse hiçbir zaman kendi bedeninden nefret etmemiştir. Tersine, onu besler ve kayırır; tıpkı Mesih’in kiliseyi besleyip kayırdığı gibi” (Efesliler 5:28-29). “Bunun için adam annesini babasını bırakıp karısına bağlanacak, ikisi tek beden olacak” (Efesliler 5:31).  İmanlı bir karı koca Tanrı’nın ilkelerini hayatlarında uyguladıklarında evlilikleri Kutsal Kitap’a uygun olur. Kutsal Kitap’a uygun bir evlilik, hem erkeğin ve hem de kadının başının Mesih olduğu dengeli bir evliliktir. Kutsal Kitap’taki evlilik kavramı, iki bireyin Mesih’in kilisesiyle birliğini gösteren birliğidir.Esen Kalın.'
     question: 'Hristiyanlıkta Evlilik '
     videos:
       - guests: .
@@ -914,10 +914,14 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Hristiyanlıkta kurtuluş kesin mi? İman ettiğimde
-      kurtulacağımı nasıl bilebilirim? Kurtuluş için bir şey yapmam gerekiyor
-      mu? Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen
-      Kalın.
+      için yanıtladık. İncil Romalılar 10:8 ayette belirtildiği gibi "Ne
+      deniyor? “Tanrı sözü sana yakındır, Ağzında ve yüreğindedir.” İşte
+      duyurduğumuz iman sözü budur.İsa’nın Rab olduğunu ağzınla açıkça söyler ve
+      Tanrı’nın O’nu ölümden dirilttiğine yürekten iman edersen, kurtulacaksın.
+      Çünkü insan yürekten iman ederek aklanır, imanını ağzıyla açıklayarak
+      kurtulur.Kutsal Yazı, “O’na iman eden utandırılmayacak” diyor.Çünkü Yahudi
+      Grek ayrımı yoktur, aynı Rab hepsinin Rabbi’dir. Kendisini çağıranların
+      tümüne eliaçıktır. “Rab’bi adıyla çağıran herkes kurtulacak.”"
     question: Mesih'te kurtuluş kesin mi ? Kurtuluş için bir şey yapmam gerekiyor mu?
     videos:
       - guests: .
@@ -1459,8 +1463,16 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Rab'bin Sofrası / Komünyon nedir? Rab'bin Sofrası'nı
-      Nasıl ve Neden Kutlarız?
+      için yanıtladık. “Rabbin son akşam yemeği”, “ekmek kırmak”, “paylaşım”,
+      “sevgi veya agape şöleni” olarak da bilinen bu sofra, bizzat Rab İsa
+      tarafından tesis edilmiş ve yine bizzat Rab İsa tarafından yapılması
+      buyurulmuştur. (1Kor. 11:20-25). Bu sofranın anlamına gelince, ekmek ve
+      şarabı alan bir kimse bu hareketiyle, Rabbin kurtuluş sağlayan ölümünü
+      anar (1Kor. 11:24) , Tanrı'yla, Mesih'le ve kiliseyi teşkil eden
+      kardeşleriyle uyumda ve birlik içinde olduğunu beyan eder (1Kor. 10:17).
+      Aynı zamanda bu sofraya katılan, yine bununla dünya insanlarına Mesih'in
+      kendileri için öldüğünü ve O'nun yeniden dünyaya geleceğini ilan eder
+      (1Kor. 11:26).
     question: >-
       Rab'bin Sofrası / Komünyon nedir? Rab'bin Sofrası'nı Nasıl ve Neden
       Kutlarız?
