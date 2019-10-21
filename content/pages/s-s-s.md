@@ -1459,8 +1459,16 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Rab'bin Sofrası / Komünyon nedir? Rab'bin Sofrası'nı
-      Nasıl ve Neden Kutlarız?
+      için yanıtladık. “Rabbin son akşam yemeği”, “ekmek kırmak”, “paylaşım”,
+      “sevgi veya agape şöleni” olarak da bilinen bu sofra, bizzat Rab İsa
+      tarafından tesis edilmiş ve yine bizzat Rab İsa tarafından yapılması
+      buyurulmuştur. (1Kor. 11:20-25). Bu sofranın anlamına gelince, ekmek ve
+      şarabı alan bir kimse bu hareketiyle, Rabbin kurtuluş sağlayan ölümünü
+      anar (1Kor. 11:24) , Tanrı'yla, Mesih'le ve kiliseyi teşkil eden
+      kardeşleriyle uyumda ve birlik içinde olduğunu beyan eder (1Kor. 10:17).
+      Aynı zamanda bu sofraya katılan, yine bununla dünya insanlarına Mesih'in
+      kendileri için öldüğünü ve O'nun yeniden dünyaya geleceğini ilan eder
+      (1Kor. 11:26).
     question: >-
       Rab'bin Sofrası / Komünyon nedir? Rab'bin Sofrası'nı Nasıl ve Neden
       Kutlarız?
