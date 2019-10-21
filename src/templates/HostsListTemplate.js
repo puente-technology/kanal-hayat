@@ -11,7 +11,7 @@ import HostsList from '../components/HostsPage';
 // )
 
 // Export Default HomePage for front-end
-const SeriesListPage = (data) => {
+const HostsListPage = (data) => {
   const hostList = new Set()
   const hosts = data.data.hosts.edges
   let { edges } = data.data.allMarkdownRemark
@@ -24,7 +24,7 @@ const SeriesListPage = (data) => {
   edges = {
     // title: edges[0].node && edges[0].node.frontmatter.title,
     ...edges.filter(x => x.node.fields.slug !== '/series/'),
-    title: 'Seriler',
+    title: 'Hosts',
   }
   console.log('asma templates hostList', hostList)
   console.log('asma templates hosts', hostList)
@@ -36,11 +36,11 @@ const SeriesListPage = (data) => {
   )
 }
 
-export default SeriesListPage;
+export default HostsListPage;
 
 export const pageQuery = graphql`
-query SeriesList {
-  allMarkdownRemark(filter: {fields: {contentType: {regex: "/series/|/series-page/"}}}) {
+query HostsList {
+  allMarkdownRemark(filter: {fields: {contentType: {regex: "/hosts/"}}}) {
     edges {
       node {
         fields {

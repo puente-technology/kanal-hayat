@@ -2,7 +2,7 @@
 template: Host
 title: Can Nuroğlu
 host: Can Nuroğlu
-coverImage: /images/uploads/dsc01005.jpg
+coverImage: /images/uploads/can-nuroğlu-save-for-web-1.jpg
 html: >-
   # Can Nuroğlu
 

@@ -55,6 +55,7 @@ class Host extends PureComponent {
       data,
     } = this.props
     const hostArr = data.host.nodes
+    console.log('asma host', hostArr)
     const { frontmatter } = hostArr[0]
     const hostName = frontmatter.host
     const seriesArr = data.series.nodes
@@ -72,7 +73,7 @@ class Host extends PureComponent {
         </div>
         <div className="HostSeries">
           <span className="HostTile">
-          PROGRAMLAR
+          PROGRAMLARR
             <img alt="Programlar" src="/images/Polygondown.png" />
           </span>
           <div className="HostSeries">
@@ -114,7 +115,7 @@ class Host extends PureComponent {
 }
 
 export default connect(state => ({
-  hosts: state.app.hosts,
+  // hosts: state.app.hosts,
   episode: state.app.episode,
   episodes: state.app.episodes,
   handleCloseClick: state.app.handleCloseClick,

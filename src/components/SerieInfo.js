@@ -32,13 +32,16 @@ class SerieInfo extends PureComponent {
         block: 'start',
       });
     }
+    console.log('asma serieInfo render componentDidMount', this.props);
   }
 
   getHostUrl = (hostName) => {
     const { hosts } = this.props
+    console.log('asma getHostUrl', this.props);
     if (hosts) {
       const result = hosts.map((el) => {
         const { fields, frontmatter } = el.node
+        console.log('asma hostName', hostName);
         if (frontmatter.host === hostName) {
           return fields.slug
         }
@@ -53,6 +56,7 @@ class SerieInfo extends PureComponent {
       frontmatter,
       hosts,
     } = this.props
+    console.log('asma hanndlePlayClick hosts', this.props);
     const { episodes } = frontmatter
     const { episode, index } = JSON.parse(e.target.value)
     this.setState({ isOpen: true })
@@ -80,6 +84,7 @@ class SerieInfo extends PureComponent {
       handleCardCloseClick,
       slug,
     } = this.props;
+    console.log('asma serieInfo render', this.props);
     const { episodes } = frontmatter;
     const limitedEpisodes = episodes.slice(0, 3)
     return (
@@ -151,5 +156,5 @@ class SerieInfo extends PureComponent {
 }
 export default connect(state => ({
   test: state,
-  hosts: state.app.hosts,
+  // hosts: state.app.hosts,
 }), null)(SerieInfo)

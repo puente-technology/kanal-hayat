@@ -3,14 +3,14 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import './SeriesList.scss'
-import SerieCard from './SerieCard';
+import HostCard from './HostCard';
 import SerieInfo from './SerieInfo';
 import Categories from './Categories';
 import Dropdown from './Dropdown';
 
 const rightArrow = require('../../static/images/right-arrow-black.svg');
 
-class SeriesList extends Component {
+class HostsList extends Component {
   constructor(props) {
     super(props)
     this.myRef = React.createRef();
@@ -219,69 +219,58 @@ class SeriesList extends Component {
       sortByDateBool,
     } = this.state;
     const { hosts, hostList } = this.props
-    console.log('asma seriesList hosts', hosts)
-    console.log('asma listSeries ', listSeries)
-    const renderSeries = []
-    for (let i = 0; i < listSeries.length; i += 1) {
-      const { frontmatter, fields } = listSeries[i].node
+    const renderHosts = []
+    for (let i = 0; i < hosts.length; i += 1) {
+      const { frontmatter, fields } = hosts[i].node
       if (i.toString() === expandedDiv) {
-        if (i % 2 === 0 && listSeries.length > 1 && !!listSeries[i + 1]) {
-          const nextFields = listSeries[i + 1].node.fields
-          const nextFronmatter = listSeries[i + 1].node.frontmatter
-          console.log('asma hosts to be pushed', hosts)
-          renderSeries.push(
+        if (i % 2 === 0 && hosts.length > 1 && !!hosts[i + 1]) {
+          const nextFields = hosts[i + 1].node.fields
+          const nextFronmatter = hosts[i + 1].node.frontmatter
+          renderHosts.push(
             <React.Fragment>
-              <SerieCard
+              <HostCard
                 handleClick={this.handleCardClick}
                 key={i}
                 frontmatter={frontmatter}
                 slug={fields.slug}
                 value={i}
+                hosts={hosts}
               />
-              <SerieCard
+              <HostCard
                 handleClick={this.handleCardClick}
                 key={i + 1}
                 frontmatter={nextFronmatter}
                 slug={nextFields.slug}
                 value={i + 1}
-              />
-              <SerieInfo
-                slug={fields.slug}
-                handleCardCloseClick={this.handleCardCloseClick}
-                frontmatter={frontmatter}
                 hosts={hosts}
               />
             </React.Fragment>,
           )
           i += 1
         } else {
-          renderSeries.push(
+          renderHosts.push(
             <React.Fragment>
-              <SerieCard
+              <HostCard
                 handleClick={this.handleCardClick}
                 key={i}
                 frontmatter={frontmatter}
                 slug={fields.slug}
                 value={i}
-              />
-              <SerieInfo
-                slug={fields.slug}
-                handleCardCloseClick={this.handleCardCloseClick}
-                frontmatter={frontmatter}
                 hosts={hosts}
               />
             </React.Fragment>,
           )
         }
       } else {
-        renderSeries.push(
+        renderHosts.push(
           <React.Fragment>
-            <SerieCard
+            <HostCard
               handleClick={this.handleCardClick}
               key={i}
               frontmatter={frontmatter}
               slug={fields.slug}
               value={i}
+              hosts={hosts}
             />
           </React.Fragment>,
         )
@@ -289,38 +278,6 @@ class SeriesList extends Component {
     }
     return (
       <div className="Series">
-        <div className="SeriesListCategories" onScroll={this.handleScroll}>
-          { scrollLeftPosition > 20 && scrollLeftPosition <= scrollLeftMax
-          && (
-          <div className="categoryArrowLeft">
-            <button
-              type="button"
-              style={{
-                background: `url(${rightArrow}) no-repeat`,
-                backgroundSize: 'contain',
-                border: 'none',
-              }}
-              className="left-arrow"
-            />
-          </div>
-          )}
-          <Categories onClick={this.handleCategoryClick} selectedCategories={selectedCategories} />
-          { scrollLeftPosition < scrollLeftMax
-          && (
-          <div className="categoryArrowRight">
-            <button
-              type="button"
-              style={{
-                background: `url(${rightArrow}) no-repeat`,
-                backgroundSize: 'contain',
-                border: 'none',
-              }}
-              className="right-arrow"
-            />
-          </div>
-          )}
-        </div>
-
         <div className="SeriesListSortAndFilter">
           <button
             value="title"
@@ -345,7 +302,7 @@ class SeriesList extends Component {
         </div>
         <div className="SeriesContainer">
           {
-            renderSeries.map(x => x)
+            renderHosts.map(x => x)
           }
         </div>
       </div>
@@ -353,7 +310,7 @@ class SeriesList extends Component {
   }
 }
 
-SeriesList.propTypes = {
+HostsList.propTypes = {
   data: PropTypes.any,
   hosts: PropTypes.any,
   hostList: PropTypes.any,
@@ -361,4 +318,4 @@ SeriesList.propTypes = {
 
 export default connect(state => ({
   test: state,
-}), null)(SeriesList)
+}), null)(HostsList)
