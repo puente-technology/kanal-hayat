@@ -1556,19 +1556,28 @@ questions:
           url: 'https://www.youtube.com/watch?v=yRTt3isvbmo'
           viewCount: '3036'
       - guests: .
-        host: Işık Abla ile
+        host: İhsan Özbek ile
         targetGroup: Herkes
         youtubeURL:
-          description: Açıklama
-          duration: PT29M24S
-          id: 29LVbBSUSOQ
-          imageURL: 'https://i.ytimg.com/vi/29LVbBSUSOQ/hqdefault.jpg'
+          description: |-
+            Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+            dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+            yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+            Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+            yanıtlıyor.Sakın kaçırmayın.
+            http://kanalhayat.tv/
+            http://www.youtube.com/kanalhayatplay
+            https://www.facebook.com/kanalhayat
+            https://twitter.com/kanalhayat
+          duration: PT27M35S
+          id: r3ziPlNoXYg
+          imageURL: 'https://i.ytimg.com/vi/r3ziPlNoXYg/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2014-10-28T11:27:07.000Z'
-          tags: 'mesihin,çektiği,acılar'
-          title: 57. Bölüm Mesih İnanlılarının Çektiği Acılar Ve Sıkıntılar
-          url: 'https://www.youtube.com/watch?v=29LVbBSUSOQ'
-          viewCount: '1073'
+          publishedAt: '2014-11-14T09:14:23.000Z'
+          tags: '#yeniden,#doğmak,Gerek'
+          title: 8. Bölüm Yeniden Doğmak Gerek
+          url: 'https://www.youtube.com/watch?v=r3ziPlNoXYg'
+          viewCount: '348'
       - guests: ''
         host: Leyla Erman ile
         targetGroup: Herkes
