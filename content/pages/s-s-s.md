@@ -288,8 +288,18 @@ questions:
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
       için yanıtladık. İncil Değiştirildi mi ve Kaç İncil Var? İncil'i Papazlar
       mı değiştirdi? Tanrı sözünü koruyamadı mı? Aşağıdaki programlarımızı
-      izleyebilirsiniz.Esen Kalın.
-    question: İncil Değiştirildi mi?
+      izleyebilirsiniz.Esen Kalın.Bugüne kadar bu iddiayı doğrulayacak en ufak
+      bir kanıt bile gösterilememiştir. İncil, Tanrı Sözü'dür ve böylesi bir
+      kitabın değiştirildiğinin iddia edilebilmesi için çok sağlam kanıtlar
+      ortaya konulmalıdır. İncil'in binlerce tarihi elyazmaları günümüzde
+      mevcuttur ve elimizdeki İncil'den farklı değillerdir. Bugün arkeoloji
+      müzelerinde 5.000'den fazla Grekçe elyazmaları İncil metni ve 9.000'den
+      fazla farklı dillere çevrilmiş İncil elyazmaları vardır.  "Kutsal Yasa`yı
+      ya da peygamberlerin sözlerini geçersiz kılmak için geldiğimi sanmayın.
+      Ben geçersiz kılmaya değil, tamamlamaya geldim. Size doğrusunu söyleyeyim,
+      yer ve gök ortadan kalkmadan, her şey gerçekleşmeden, Kutsal Yasa`dan
+      ufacık bir harf ya da bir nokta bile yok olmayacak." (Matta 5:17-18)
+    question: İncil'in Değiştirildi Doğru mu ?
     videos:
       - guests: .
         host: Can Nuroğlu ile
