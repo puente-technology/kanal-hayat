@@ -151,5 +151,5 @@ class SerieInfo extends PureComponent {
 }
 export default connect(state => ({
   test: state,
-  hosts: state.app.hosts,
+  // hosts: state.app.hosts,
 }), null)(SerieInfo)

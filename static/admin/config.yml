@@ -367,11 +367,10 @@ collections:
         fields:
           - label: "Series"
             name: "title"
-            widget: "relation"
+            widget: "option"
             collection: "series"
             searchFields: ["title"]
             valueField: "title"
-          - { name: subtitle, label: 'Bolum Ismi', widget: string }
           - label: 'Zaman'
             name: 'time'
             widget: 'object'
