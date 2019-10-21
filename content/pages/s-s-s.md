@@ -10,9 +10,20 @@ questions:
       için yanıtladık..İsa Mesih’i özel kılan tam olarak nedir? İncil’de İsa
       Mesih hangi kimliklere sahiptir?  İsa Mesih yaptığı mucizeler ve
       belirtileri kimin gücüyle yaptı? Tanrı'nın Oğlu Ne demektir? Aşağıdaki
-      programlarımızı izleyerek aklınıza takılan sorulara cevap
-      bulabilirsiniz.Esen Kalın.
-    question: İsa Mesih Kimdir?
+      programlarımızı izleyerek aklınıza takılan sorulara cevap bulabilirsiniz.
+      İsa Mesih'in Tanrı Oğlu olarak adlandırılması Hristiyanlar tarafından
+      ortaya konan bir şey değildir. Bunu ortaya koyan Kutsal Kitap'tır. Kutsal
+      Kitap'ın bir çok yerinde İsa Mesih bu adla tanıtılır. Tanrı Oğlu sıfatı
+      fiziksel değil ruhsal bir sıfattır. Dolayısıyla halkımız arasında
+      süregelen ve kulaktan dolma bilgiler olan Tanrı Oğlu kavramı hakkındaki
+      diğer görüşleri kesinlikle reddederiz.  "Melek ona, "Korkma Meryem” dedi,
+      "Sen Tanrı`nın lütfuna eriştin. Bak, gebe kalıp bir oğul doğuracak, adını
+      İsa koyacaksın. O büyük olacak, kendisine `Yüceler Yücesi`nin Oğlu`
+      denecek.  Meryem meleğe, "Bu nasıl olur? Ben erkeğe varmadım ki” dedi.
+      Melek ona şöyle yanıt verdi: "Kutsal Ruh senin üzerine gelecek, Yüceler
+      Yücesi`nin gücü sana gölge salacak. Bunun için doğacak olana kutsal, Tanrı
+      Oğlu denecek." (Luka 1.Bölüm) Esen Kalın.
+    question: İsa Mesih'e Neden Tanrı Oğlu Diyorsunuz ? İsa Mesih Kimdir?
     videos:
       - guests: .
         host: Hakan Taştan ile
@@ -288,8 +299,18 @@ questions:
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
       için yanıtladık. İncil Değiştirildi mi ve Kaç İncil Var? İncil'i Papazlar
       mı değiştirdi? Tanrı sözünü koruyamadı mı? Aşağıdaki programlarımızı
-      izleyebilirsiniz.Esen Kalın.
-    question: İncil Değiştirildi mi?
+      izleyebilirsiniz.Esen Kalın.Bugüne kadar bu iddiayı doğrulayacak en ufak
+      bir kanıt bile gösterilememiştir. İncil, Tanrı Sözü'dür ve böylesi bir
+      kitabın değiştirildiğinin iddia edilebilmesi için çok sağlam kanıtlar
+      ortaya konulmalıdır. İncil'in binlerce tarihi elyazmaları günümüzde
+      mevcuttur ve elimizdeki İncil'den farklı değillerdir. Bugün arkeoloji
+      müzelerinde 5.000'den fazla Grekçe elyazmaları İncil metni ve 9.000'den
+      fazla farklı dillere çevrilmiş İncil elyazmaları vardır.  "Kutsal Yasa`yı
+      ya da peygamberlerin sözlerini geçersiz kılmak için geldiğimi sanmayın.
+      Ben geçersiz kılmaya değil, tamamlamaya geldim. Size doğrusunu söyleyeyim,
+      yer ve gök ortadan kalkmadan, her şey gerçekleşmeden, Kutsal Yasa`dan
+      ufacık bir harf ya da bir nokta bile yok olmayacak." (Matta 5:17-18)
+    question: İncil'in Değiştirildi Doğru mu ?
     videos:
       - guests: .
         host: Can Nuroğlu ile
@@ -689,7 +710,12 @@ questions:
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
       için yanıtladık. .İznik Konseyinde ne oldu? İznik Konsili'nde Neler
       Yaşandı? (İncil Sallama Olayının Perde Arkası) Aşağıdaki programlarımızı
-      izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.
+      izleyerek detaylı bilgi edinebilirsiniz. Tarihsel kaynaklara göre İznik
+      Konseyine katılan kişiler sadece Mesih İsa'nın Tanrılığını tartışmak için
+      toplanmışlardır. İznik Konseyinde asla İncil metinlerinin doğruluğu ve
+      gerçekliği tartışılmadı. Bu konseye katılanlar arasında İncil metni ya da
+      içeriği konusunda herhangi bir ihtilafın olduğu kesinlikle
+      kaydedilmemiştir. Esen Kalın.
     question: 'İznik Konseyinde Neler oldu? '
     videos:
       - guests: .
@@ -1490,66 +1516,26 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Neden dünyada kötülük var ? İmanlılar neden acı çekiyor?
-    question: Neden dünyada kötülük var ? İmanlılar neden acı çekiyor?
+      için yanıtladık. "Bir Kutsal Yasa uzmanı, İsa`yı denemek amacıyla O`na
+      şunu sordu: "Öğretmenim, Kutsal Yasa`da en önemli buyruk hangisidir?” İsa
+      ona şu karşılığı verdi: "`Tanrın Rab`bi bütün yüreğinle, bütün canınla ve
+      bütün aklınla seveceksin.` İşte ilk ve en önemli buyruk budur. İlkine
+      benzeyen ikinci buyruk da şudur: `Komşunu kendin gibi seveceksin.` Kutsal
+      Yasa`nın tümü ve peygamberlerin sözleri bu iki buyruğa dayanır.” (Matta
+      22:35-40) Esen Kalın.
+    question: İncil'de Hangi Buyruklar Var?
     videos:
       - guests: .
-        host: İhsan Özbek ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: Açıklama
-          duration: PT28M1S
-          id: gz1KeX46ouo
-          imageURL: 'https://i.ytimg.com/vi/gz1KeX46ouo/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2015-03-24T11:37:53.000Z'
-          tags: neden
-          title: 32. Bölüm Neden Dünyada Kötülük Var?
-          url: 'https://www.youtube.com/watch?v=gz1KeX46ouo'
-          viewCount: '300'
-      - guests: .
-        host: Işık Abla ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: Açıklama
-          duration: PT29M24S
-          id: 29LVbBSUSOQ
-          imageURL: 'https://i.ytimg.com/vi/29LVbBSUSOQ/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2014-10-28T11:27:07.000Z'
-          tags: 'mesihin,çektiği,acılar'
-          title: 57. Bölüm Mesih İnanlılarının Çektiği Acılar Ve Sıkıntılar
-          url: 'https://www.youtube.com/watch?v=29LVbBSUSOQ'
-          viewCount: '1073'
-      - guests: ''
-        host: Leyla Erman ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ' '
-          duration: PT28M19S
-          id: 69g523gpuCM
-          imageURL: 'https://i.ytimg.com/vi/69g523gpuCM/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2013-02-08T11:59:37.000Z'
-          tags: >-
-            isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
-          title: BizBize - Neden İmanlılar Acı Çekiyorlar 1
-          url: 'https://www.youtube.com/watch?v=69g523gpuCM'
-          viewCount: '52'
-      - guests: .
-        host: Banu Çelik ile
+        host: Hakan Taştan ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            Banu Çelik ve konuklarıyla birlikte farklı konularda kelam temelinde
-            gerçekleştirdiği "Derin Değişim" programını sayfamızdan takip
-            edebilirsiniz.Esen Kalın.
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
 
-            Adanmış Hayatlar
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
 
-            Kaygılı Bir Kadın Marta
-
-            İncil'deki Samiriyeli Kadın..
+            Esen Kalın.
 
             http://kanalhayat.tv/
 
@@ -1558,16 +1544,67 @@ questions:
             https://www.facebook.com/kanalhayat
 
             https://twitter.com/kanalhayat
-          duration: PT28M46S
-          id: b-Fmh4MfXQg
-          imageURL: 'https://i.ytimg.com/vi/b-Fmh4MfXQg/hqdefault.jpg'
+          duration: PT28M58S
+          id: yRTt3isvbmo
+          imageURL: 'https://i.ytimg.com/vi/yRTt3isvbmo/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2018-07-19T22:00:51.000Z'
+          publishedAt: '2015-09-11T07:01:26.000Z'
           tags: >-
-            acı,çekerken,rab,nerdesin,derin,değişim,rabbin,ayakları,dibindeki,bir
-            kadın,meryem
-          title: 'RUT : ACI ÇEKERKEN RAB NEREDESİN? [1]'
-          url: 'https://www.youtube.com/watch?v=b-Fmh4MfXQg'
-          viewCount: '352'
+            isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+            Hayat,neler olacak,kutsal ruh,Mesih kimdi,Hakan Tastan
+          title: 'Gerçeğin Sesi - Tanrı Yolunda Yürümek Nedir? [52]'
+          url: 'https://www.youtube.com/watch?v=yRTt3isvbmo'
+          viewCount: '3036'
+      - guests: .
+        host: İhsan Özbek ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: |-
+            Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+            dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+            yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+            Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+            yanıtlıyor.Sakın kaçırmayın.
+            http://kanalhayat.tv/
+            http://www.youtube.com/kanalhayatplay
+            https://www.facebook.com/kanalhayat
+            https://twitter.com/kanalhayat
+          duration: PT27M35S
+          id: r3ziPlNoXYg
+          imageURL: 'https://i.ytimg.com/vi/r3ziPlNoXYg/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2014-11-14T09:14:23.000Z'
+          tags: '#yeniden,#doğmak,Gerek'
+          title: 8. Bölüm Yeniden Doğmak Gerek
+          url: 'https://www.youtube.com/watch?v=r3ziPlNoXYg'
+          viewCount: '348'
+      - guests: ''
+        host: Joyce Meyer ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT24M34S
+          id: wQDreLqXwLc
+          imageURL: 'https://i.ytimg.com/vi/wQDreLqXwLc/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2017-10-23T06:45:59.000Z'
+          tags: 'cesurca,yaşamak'
+          title: 1096 1 Cesurca Yaşamak 1
+          url: 'https://www.youtube.com/watch?v=wQDreLqXwLc'
+          viewCount: '144'
+      - guests: .
+        host: Güçlü Erman ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: Pastör Güçlü Erman
+          duration: PT28M28S
+          id: GCVhjZY_F1Y
+          imageURL: 'https://i.ytimg.com/vi/GCVhjZY_F1Y/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2016-04-27T09:17:21.000Z'
+          tags: buyruk
+          title: UYANIŞ - Babalara Buyruklar 1
+          url: 'https://youtu.be/GCVhjZY_F1Y'
+          viewCount: '256'
 ---
 
