@@ -8346,10 +8346,10 @@ netlify-cms-widget-image@^2.3.3:
   resolved "https://registry.yarnpkg.com/netlify-cms-widget-image/-/netlify-cms-widget-image-2.3.3.tgz#536f680f8e9b70f2edbd9a9d6bb44c8edadc4394"
   integrity sha512-ERsZmSeYplZRF0SZjRHAePBf4f4+EhH8lZ7eE+0kEFF7jPhoitzPU0My17Vn3KQXNWJLutIZN0u4u/I00aU7dw==
 
-netlify-cms-widget-linked-option@^0.4.5:
-  version "0.4.5"
-  resolved "https://registry.yarnpkg.com/netlify-cms-widget-linked-option/-/netlify-cms-widget-linked-option-0.4.5.tgz#51219f8e5726ab4797ccf865a5fa8bca101c66bf"
-  integrity sha512-ZyJMOsrVEcAVOkey8es4tsUcebUq4zh3G/pBIdcKl2EOSlBkNKJeC1jp+M9AO1QbK2k+s3D6w5LqhrQU49KFQg==
+netlify-cms-widget-linked-option@^0.4.6:
+  version "0.4.6"
+  resolved "https://registry.yarnpkg.com/netlify-cms-widget-linked-option/-/netlify-cms-widget-linked-option-0.4.6.tgz#ee62c616e8ffcf5136230de4929aeee8f049d861"
+  integrity sha512-qNL8jpwSuAHM1QLRITkJsziSjlqxQLrHxh9mM7aHTYjKe3xgY5LRsQrVXoifI6diTQb5HdIqgNjMBt70L1+OdA==
   dependencies:
     netlify-cms-ui-default "^2.6.4"
     prop-types "^15.6.1"
