@@ -551,9 +551,26 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Hristiyanlar nasıl dua ediyorlar? Hristiyanlar kime dua
-      ediyor? Gerçek dua nasıl ediliyor? Aşağıdaki programlarımızı izleyerek
-      detaylı bilgi edinebilirsiniz.Esen Kalın.
+      için yanıtladık. Aşağıdaki programlarımızı izleyerek detaylı bilgi
+      edinebilirsiniz.  Dua Rab’bi çağırmak ve O’nunla konuşmaktır. Muhtaç
+      durumumuzu ona bildirmektir. İsa aracılığıyla Tanrı ile
+      barıştırıldığımızda Kendisiyle olan dostluğumuzu ihmal etmemeliyiz.
+      O’nunla zaman geçirmeliyiz. Bize söylemek istediklerini dinlemeyi
+      öğrenmeliyiz. Bütün varlığı yaratan ve onlarla irtibata geçmek için
+      kendini açıklamış olan Tanrı’yla ruhsal bir cevaptır dua. Duanın kapsamı
+      yalnızca Tanrı’yla konuşmayı içermemektedir. Tanrı’yı çağırmak ve O’nunla
+      dertleşmek, sonra O’ndan ruhsal anlamda cevaplar beklemek, hiçbir söz
+      söylemeden, yürek derinliğinden O’nu yüceltmek O’na tapınmak ve bütün
+      gereksinimlerimizi O’ndan istemektir de.“Dua ettiğinizde putperestler gibi
+      putperestler gibi boş sözler tekrarlayıp durmayın. Onlar söz kalabalığıyla
+      seslerini duyurabileceklerini sanırlar. Siz onlara benzemeyin. Çünkü
+      Babanız nelere gereksiniminiz olduğunu daha siz O’ndan dilemedene önceden
+      bilir. Bunun için siz şöyle dua edin : Göklerdeki Babamız; Adın kutsal
+      kılınsın. Egemenliğin gelsin. Gökte olduğu gibi yeryüzünde de Senin
+      istediğin olsun. Bu gün bize gündelik ekmeğimizi ver. Bize karşı suç
+      işleyenleri bağışladığımız gibi Sen de bizim suçlarımızı bağışla.
+      Ayartılmamıza izin verme. Kötü olandan bizi kurtar. Çünkü egemenlik, güç
+      ve yücelik Sonsuzlara dek senindir, Amin Matta 6:7-13 Esen Kalın.
     question: Hristiyanlık'ta Nasıl Dua Edilir?
     videos:
       - guests: .
