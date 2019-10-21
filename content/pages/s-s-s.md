@@ -1526,19 +1526,35 @@ questions:
     question: İncil'de Hangi Buyruklar Var?
     videos:
       - guests: .
-        host: İhsan Özbek ile
+        host: Hakan Taştan ile
         targetGroup: Herkes
         youtubeURL:
-          description: Açıklama
-          duration: PT28M1S
-          id: gz1KeX46ouo
-          imageURL: 'https://i.ytimg.com/vi/gz1KeX46ouo/hqdefault.jpg'
+          description: >-
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
+
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+            Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M58S
+          id: yRTt3isvbmo
+          imageURL: 'https://i.ytimg.com/vi/yRTt3isvbmo/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2015-03-24T11:37:53.000Z'
-          tags: neden
-          title: 32. Bölüm Neden Dünyada Kötülük Var?
-          url: 'https://www.youtube.com/watch?v=gz1KeX46ouo'
-          viewCount: '300'
+          publishedAt: '2015-09-11T07:01:26.000Z'
+          tags: >-
+            isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+            Hayat,neler olacak,kutsal ruh,Mesih kimdi,Hakan Tastan
+          title: 'Gerçeğin Sesi - Tanrı Yolunda Yürümek Nedir? [52]'
+          url: 'https://www.youtube.com/watch?v=yRTt3isvbmo'
+          viewCount: '3036'
       - guests: .
         host: Işık Abla ile
         targetGroup: Herkes
