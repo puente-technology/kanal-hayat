@@ -55,7 +55,6 @@ class Host extends PureComponent {
       data,
     } = this.props
     const hostArr = data.host.nodes
-    console.log('asma host', hostArr)
     const { frontmatter } = hostArr[0]
     const hostName = frontmatter.host
     const seriesArr = data.series.nodes

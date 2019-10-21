@@ -29,10 +29,10 @@ class HostsList extends Component {
   componentDidMount() {
     const { data } = this.props;
     this.setState({ listSeries: this.dataIntoArray(data) })
-    this.sortSeriesByPopularity()
+    // this.sortSeriesByPopularity()
   }
 
-  dataIntoArray = data => (Object.values(data).filter(x => x !== 'Seriler'))
+  dataIntoArray = data => (Object.values(data).filter(x => x !== 'Sunucular'))
 
   handleLanguageChange = (value) => {
     const valueType = value === 'Turkce' ? '0' : '1'
@@ -59,7 +59,7 @@ class HostsList extends Component {
     this.setState({ listSeries: res })
   }
 
-  sortSeriesByPopularity = () => {
+  /*sortSeriesByPopularity = () => {
     const { data } = this.props;
     const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => {
       const aRand = Math.floor(Math.random() * 101)
@@ -74,7 +74,7 @@ class HostsList extends Component {
       return 0
     })
     this.setState({ listSeries: res })
-  }
+  }*/
 
   handleTargetChange = (value) => {
     let { listSeries } = this.state;
@@ -108,7 +108,7 @@ class HostsList extends Component {
     this.sortByName()
   }
 
-  sortByName = () => {
+  /*sortByName = () => {
     const { sortByNameBool, sortByDateBool, listSeries } = this.state
     const { data } = this.props;
     let dataToSort = data
@@ -126,7 +126,7 @@ class HostsList extends Component {
       return 0
     })
     this.setState({ listSeries: res, sortByNameBool: !sortByNameBool })
-  }
+  }*/
 
   handleTextChange = (e) => {
     let { listSeries } = this.state;
@@ -176,7 +176,7 @@ class HostsList extends Component {
     });
   }
 
-  sortByDate = () => {
+  /*sortByDate = () => {
     const { data } = this.props;
     const { sortByDateBool, sortByNameBool, listSeries } = this.state
     let dataToSort = data
@@ -200,7 +200,7 @@ class HostsList extends Component {
       return 0;
     })
     this.setState({ listSeries: res, sortByDateBool: !sortByDateBool })
-  }
+  }*/
 
   handleScroll = (e) => {
     const elem = e.target;
@@ -218,9 +218,9 @@ class HostsList extends Component {
       sortByNameBool,
       sortByDateBool,
     } = this.state;
-    const { hosts, hostList } = this.props
+    const { hosts, hostList, data } = this.props
     const renderHosts = []
-    for (let i = 0; i < hosts.length; i += 1) {
+    for (let i = 0; i < listSeries.length; i += 1) {
       const { frontmatter, fields } = hosts[i].node
       if (i.toString() === expandedDiv) {
         if (i % 2 === 0 && hosts.length > 1 && !!hosts[i + 1]) {

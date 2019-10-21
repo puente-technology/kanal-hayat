@@ -1,5 +1,5 @@
 ---
-template: Host
+template: HostsListTemplate
 slug: hosts
-title: Hosts
+title: Sunucular
 ---

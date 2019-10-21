@@ -3,7 +3,7 @@ locale: en
 template: AboutUs
 featuredImage: /images/uploads/kanal-hayat-save-for-web.jpg
 slug: about-us
-title: HAKKIMIZDA
+title: KANAL HAYAT HAKKINDA
 content:
   about: >-
     Kanal Hayat Televizyonu, Hotbird 13E uydusu üzerinden yayınlarına devam

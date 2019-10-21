@@ -15,7 +15,6 @@ const HostsListPage = (data) => {
   const hostList = new Set()
   const hosts = data.data.hosts.edges
   let { edges } = data.data.allMarkdownRemark
-  hostList.add('Sunucu Ismi')
   Object.entries(edges).forEach(([index, object]) => {
     if (object.node.frontmatter.host) {
       hostList.add(object.node.frontmatter.host)
@@ -24,10 +23,8 @@ const HostsListPage = (data) => {
   edges = {
     // title: edges[0].node && edges[0].node.frontmatter.title,
     ...edges.filter(x => x.node.fields.slug !== '/series/'),
-    title: 'Hosts',
+    title: 'Sunucular',
   }
-  console.log('asma templates hostList', hostList)
-  console.log('asma templates hosts', hostList)
   return (
     <LayoutComp>
       <HostsList data={edges} hosts={hosts} hostList={[...hostList]} />

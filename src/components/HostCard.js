@@ -16,22 +16,8 @@ class HostCard extends Component {
     handleClick(e.target.value)
   }
 
-  getHostUrl = (hostName) => {
-    const { hosts } = this.props
-    if (hosts) {
-      const result = hosts.map((el) => {
-        const { fields, frontmatter } = el.node
-        if (frontmatter.host === hostName) {
-          return fields.slug
-        }
-      })
-      return result
-    }
-  }
-
-
   render() {
-    const { frontmatter, value } = this.props
+    const { frontmatter, value, slug } = this.props
     const { isClicked } = this.state
     return (
       <React.Fragment>
@@ -44,7 +30,7 @@ class HostCard extends Component {
 
         >
           <Link
-            to={this.getHostUrl(frontmatter.host)}
+            to={slug}
           >
             <button
               type="button"
@@ -71,6 +57,7 @@ HostCard.propTypes = {
   handleClick: PropTypes.func,
   value: PropTypes.any,
   hosts: PropTypes.any,
+  slug: PropTypes.any,
 }
 
 

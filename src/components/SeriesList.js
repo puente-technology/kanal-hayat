@@ -219,8 +219,6 @@ class SeriesList extends Component {
       sortByDateBool,
     } = this.state;
     const { hosts, hostList } = this.props
-    console.log('asma seriesList hosts', hosts)
-    console.log('asma listSeries ', listSeries)
     const renderSeries = []
     for (let i = 0; i < listSeries.length; i += 1) {
       const { frontmatter, fields } = listSeries[i].node
@@ -228,7 +226,6 @@ class SeriesList extends Component {
         if (i % 2 === 0 && listSeries.length > 1 && !!listSeries[i + 1]) {
           const nextFields = listSeries[i + 1].node.fields
           const nextFronmatter = listSeries[i + 1].node.frontmatter
-          console.log('asma hosts to be pushed', hosts)
           renderSeries.push(
             <React.Fragment>
               <SerieCard

@@ -26,11 +26,9 @@ const SeriesListPage = (data) => {
     ...edges.filter(x => x.node.fields.slug !== '/series/'),
     title: 'Seriler',
   }
-  console.log('asma templates hostList', hostList)
-  console.log('asma templates hosts', hostList)
   return (
     <LayoutComp>
-      <HostsList data={edges} hosts={hosts} hostList={[...hostList]} />
+      <SeriesList data={edges} hosts={hosts} hostList={[...hostList]} />
     </LayoutComp>
 
   )
