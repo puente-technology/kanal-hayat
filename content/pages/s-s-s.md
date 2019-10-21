@@ -202,9 +202,18 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık.Teslis Nedir? Nereden Çıktı Bu "Üçlü Birlik"(Teslis)?
-      Hristiyanlar üç Tanrı'ya mı inanıyor? 
-    question: Tevhid'te Teslis - Üçlü Birlik Nedir?
+      için yanıtladık. Bizler üç Tanrı'ya değil, tüm evreni Söz'üyle yaratmış
+      tek bir Tanrı'ya inanıyoruz. Yüce Tanrı, Kendi doğaüstü varlığını bize üç
+      kişilikte göstermiştir. Tanrı, öz varlığında ezelden ebediyete kadar var
+      olan, uyum ve birlik içerisinde hareket eden üç ayrı kişisel benlikten
+      ibaret olup bir bütün olarak görünmektedir: Baba, Oğul ve Kutsal Ruh. Bu
+      konu her ne kadar karışık gibi gözükse de asıl karışıklık yaratan şey,
+      sonsuz ve sınırsız bir Tanrı'yı kendi sınırlı beynimizin düşünce yapısına
+      göre betimlemektir. Matta 28:19'daki ayete baktığımızda İsa Mesih'in
+      kendini Baba ve Kutsal Ruh'la beraber tek bir kişi olarak belirttiğini
+      görürüz: "Bu nedenle gidin, bütün ulusları öğrencilerim olarak yetiştirin;
+      onları Baba, Oğul ve Kutsal Ruh`un adıyla vaftiz edin." Esen Kalın.
+    question: Üç Tanrı'ya Mı İnanıyoruz? Tevhid'te Teslis - Üçlü Birlik Nedir?
     videos:
       - guests: .
         host: Ahmet Güvener ile
