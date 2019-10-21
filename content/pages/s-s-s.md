@@ -1593,37 +1593,18 @@ questions:
           url: 'https://www.youtube.com/watch?v=wQDreLqXwLc'
           viewCount: '144'
       - guests: .
-        host: Banu Çelik ile
+        host: Güçlü Erman ile
         targetGroup: Herkes
         youtubeURL:
-          description: >-
-            Banu Çelik ve konuklarıyla birlikte farklı konularda kelam temelinde
-            gerçekleştirdiği "Derin Değişim" programını sayfamızdan takip
-            edebilirsiniz.Esen Kalın.
-
-            Adanmış Hayatlar
-
-            Kaygılı Bir Kadın Marta
-
-            İncil'deki Samiriyeli Kadın..
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT28M46S
-          id: b-Fmh4MfXQg
-          imageURL: 'https://i.ytimg.com/vi/b-Fmh4MfXQg/hqdefault.jpg'
+          description: Pastör Güçlü Erman
+          duration: PT28M28S
+          id: GCVhjZY_F1Y
+          imageURL: 'https://i.ytimg.com/vi/GCVhjZY_F1Y/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2018-07-19T22:00:51.000Z'
-          tags: >-
-            acı,çekerken,rab,nerdesin,derin,değişim,rabbin,ayakları,dibindeki,bir
-            kadın,meryem
-          title: 'RUT : ACI ÇEKERKEN RAB NEREDESİN? [1]'
-          url: 'https://www.youtube.com/watch?v=b-Fmh4MfXQg'
-          viewCount: '352'
+          publishedAt: '2016-04-27T09:17:21.000Z'
+          tags: buyruk
+          title: UYANIŞ - Babalara Buyruklar 1
+          url: 'https://youtu.be/GCVhjZY_F1Y'
+          viewCount: '256'
 ---
 
