@@ -1516,8 +1516,14 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Neden dünyada kötülük var ? İmanlılar neden acı çekiyor?
-    question: Neden dünyada kötülük var ? İmanlılar neden acı çekiyor?
+      için yanıtladık. "Bir Kutsal Yasa uzmanı, İsa`yı denemek amacıyla O`na
+      şunu sordu: "Öğretmenim, Kutsal Yasa`da en önemli buyruk hangisidir?” İsa
+      ona şu karşılığı verdi: "`Tanrın Rab`bi bütün yüreğinle, bütün canınla ve
+      bütün aklınla seveceksin.` İşte ilk ve en önemli buyruk budur. İlkine
+      benzeyen ikinci buyruk da şudur: `Komşunu kendin gibi seveceksin.` Kutsal
+      Yasa`nın tümü ve peygamberlerin sözleri bu iki buyruğa dayanır.” (Matta
+      22:35-40) Esen Kalın.
+    question: İncil'de Hangi Buyruklar Var?
     videos:
       - guests: .
         host: İhsan Özbek ile
