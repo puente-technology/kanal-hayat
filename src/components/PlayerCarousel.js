@@ -74,8 +74,8 @@ class Carousel extends Component {
   render() {
     const { direction } = this.state
     return (
-      <div id="carousel" className="noselect">
-        <button type="button" className="arrow arrow-left" onClick={this.leftClick}><img src={arrovSvg} alt="LeftArrow" /></button>
+      <div id="player-carousel" className="noselect">
+        <button type="button" className="arrow arrow-left-programmlar" onClick={this.leftClick}><img className="carousel-arrow" src={arrovSvg} alt="LeftArrow" /></button>
         <div style={{ display: 'flex' }}>
           <ReactCSSTransitionGroup
             component={React.Fragment}
@@ -84,7 +84,7 @@ class Carousel extends Component {
             {this.generateItems()}
           </ReactCSSTransitionGroup>
         </div>
-        <button type="button" className="arrow arrow-right" onClick={this.rightClick}><img src={arrovSvg} alt="RightArrow" /></button>
+        <button type="button" className="arrow arrow-right-programmlar" onClick={this.rightClick}><img className="carousel-arrow" src={arrovSvg} alt="RightArrow" /></button>
       </div>
     )
   }

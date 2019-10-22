@@ -340,6 +340,12 @@
   .Episode {
     margin-left: 21px;
   }
+
+  .EpisodeVideo {
+    width: 240px;
+    height: 150px;
+    margin-bottom: 20px;
+  }
   
   .SeriesListCategories {
     flex-wrap: nowrap;
@@ -349,8 +355,14 @@
     margin-right: 30px;
     margin-left: 30px;
   }
+
+  .SeriesListSortAndFilter {
+    align-items: center;
+    flex-direction: column;
+    margin-top: 15px;
+  }
   
-  .category {
+  .category { 
     font-size: 13px;
     &.active {
       font-size: 18px;
@@ -358,10 +370,24 @@
   }
   
   .SortButton {
-    min-width: 63px;
-    height: 19px;
-    font-size: 11px;
-    line-height: 15px;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    color: black;
+    background-color: rgba(241, 241, 241, 0.5);
+    border-color: #2e6da4;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    width: 100px;
+    text-align: center;
+    margin-bottom: 10px;
   }
 
   .categoryArrowRight {
@@ -378,6 +404,47 @@
     transform: rotate(180deg);
   }
 }
+
+@media (min-width: 1800px) {
+ 
+  .EpisodeVideo {
+    width: 382px !important;
+    height: 285px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .Episode {
+    margin-left: 22px;
+    margin-top: 15px;
+  }
+  .EpisodeVideo {
+    width: 240px;
+    height: 150px;
+  }
+  .minicontainer {
+    display: flex;
+    width: 356px;
+    margin-top: 12px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-bottom: 53px;
+    position: relative;
+  }
+  .subminititle {
+    font-size: 14px;
+    line-height: 25px;
+    text-transform: capitalize;
+    color: #3d3d3d;
+    width: 100%;
+  }
+  .details {
+    font-size: 12px;
+  }
+
+}
+
+
 select::-ms-expand {
   display: none;
 }

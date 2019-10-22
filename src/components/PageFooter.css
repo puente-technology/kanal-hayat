@@ -6,7 +6,7 @@
 }
 .bannerHeader {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   flex-direction: row;
   margin-top: 28px;
 }
@@ -122,6 +122,21 @@
   margin-right: 16px;
 }
 
+.rightColumn {
+  margin-right: 60px;
+}
+
+@media (max-width: 768px) {
+  .menuHeader {
+    margin-left: 20px;
+  }
+  .rightColumn {
+    margin-left: 20px;
+  }
+  .footerInfo {
+    margin-top: 0px; 
+  }
+}
 @media (max-width: 576px) {
   .footerBanner {
     height: 355px;

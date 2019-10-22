@@ -22,6 +22,7 @@ class SeriesList extends Component {
     listSeries: [],
     scrollLeftPosition: 0,
     scrollLeftMax: 1,
+    windowWidth: window.innerWidth,
     sortByNameBool: false,
     sortByDateBool: false,
   }
@@ -29,6 +30,11 @@ class SeriesList extends Component {
   componentDidMount() {
     const { data } = this.props;
     this.setState({ listSeries: this.dataIntoArray(data) })
+    window.addEventListener('resize', this.handleWindowSizeChange);
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener('resize', this.handleWindowSizeChange);
     this.sortSeriesByPopularity()
   }
 
@@ -208,6 +214,10 @@ class SeriesList extends Component {
     this.setState(() => ({ scrollLeftMax, scrollLeftPosition: elem.scrollLeft }));
   }
 
+  handleWindowSizeChange = () => {
+    this.setState({ windowWidth: window.innerWidth });
+  };
+
   render() {
     const {
       expandedDiv,
@@ -215,15 +225,45 @@ class SeriesList extends Component {
       listSeries,
       scrollLeftMax,
       scrollLeftPosition,
+      windowWidth,
       sortByNameBool,
       sortByDateBool,
     } = this.state;
     const { hosts, hostList } = this.props
     const renderSeries = []
+    const isMobile = windowWidth <= 1305;
     for (let i = 0; i < listSeries.length; i += 1) {
       const { frontmatter, fields } = listSeries[i].node
       if (i.toString() === expandedDiv) {
-        if (i % 2 === 0 && listSeries.length > 1 && !!listSeries[i + 1]) {
+        if (isMobile) {
+          const nextFields = listSeries[i + 1].node.fields
+          const nextFronmatter = listSeries[i + 1].node.frontmatter
+          renderSeries.push(
+            <React.Fragment>
+              <SerieCard
+                handleClick={this.handleCardClick}
+                key={i}
+                frontmatter={frontmatter}
+                slug={fields.slug}
+                value={i}
+              />
+              <SerieInfo
+                slug={fields.slug}
+                handleCardCloseClick={this.handleCardCloseClick}
+                frontmatter={frontmatter}
+                hosts={hosts}
+              />
+              <SerieCard
+                handleClick={this.handleCardClick}
+                key={i + 1}
+                frontmatter={nextFronmatter}
+                slug={nextFields.slug}
+                value={i + 1}
+              />
+            </React.Fragment>,
+          )
+          i += 1
+        } else if (i % 2 === 0 && listSeries.length > 1 && !!listSeries[i + 1]) {
           const nextFields = listSeries[i + 1].node.fields
           const nextFronmatter = listSeries[i + 1].node.frontmatter
           renderSeries.push(

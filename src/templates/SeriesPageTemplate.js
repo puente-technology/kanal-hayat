@@ -126,7 +126,6 @@ class SeriesPageTemplate extends Component {
 }
 
 SeriesPageTemplate.propTypes = {
-  data: PropTypes.any,
   episodes: PropTypes.any,
   frontmatter: PropTypes.any,
 }
