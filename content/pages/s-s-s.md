@@ -486,7 +486,7 @@ questions:
           title: 11. Bölüm Kutsal Ruh'a Nasıl Sahip Olabiliriz?
           url: 'https://www.youtube.com/watch?v=kFqoAbWGToo'
           viewCount: '6633'
-  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. .Hristiyan ahlakı ve ibadeti nedir? Hristiyanların evliliğe bakış açılarını merak ediyorum? Hristiyanların yalana bakış açısını merak ediyorum? Hristiyanların günaha bakış açısını merak ediyorum? Aşağıdaki programları izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.'
+  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. Hristiyanlar kendi doğruluklarıyla değil, Tanrı''nın lütfuyla aklanmış  olan kutsallardır. Mesih İsa Hristiyanların önderi ve rehberidir. Hristiyanlar içlerinde bulunan Kutsal Ruh''un yardımıyla gün ve gün Mesih''e benzer olmak üzere değişirler. Bu değişim Mesih''e bakarak ve O''nda kavuşmuş oldukları yeni doğaya fark ederek gerçekleşir. Hristiyan ahlakının temelinde Mesih benim yerimde olsa ne yapardı sorusunun yanıtı yatar.  Hristiyanlar yaşamlarıyla İsa Mesih''i bu dünyadaki diğer insanlara yansıtır ve tanıtırlar. Kutsallık, Mesih''in lütfu aracılığıyla iman edildiğinde birden kavuşulan ama buna uygun düzeyde bir yaşam sürmek için bir yaşam boyu süren bir değişimdir. Kişi Mesih''in lütfu aracılığıyla  kavuşmuş olduğu kutsallığı, yani yeni doğasını fark ettikçe bu değişim hızlanır. Değişimin güç kaynağı Kutsal Ruh''tur. Esen Kalın.'
     question: Hristiyan Ahlakı ve İbadeti Nasıldır?
     videos:
       - guests: .
