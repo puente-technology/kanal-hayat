@@ -150,7 +150,7 @@ class PlayerInfoExpand extends Component {
             )
           }
         </div>
-        <div className="player-info-close-info" style={{ margin: '324px auto', transform: 'rotate(90deg)' }}>
+        <div className="player-info-close-info" style={{ margin: '340px auto', transform: 'rotate(90deg)' }}>
           <button
             type="button"
             width="50px"

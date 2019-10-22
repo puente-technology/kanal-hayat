@@ -72,7 +72,7 @@ class Host extends PureComponent {
         </div>
         <div className="HostSeries">
           <span className="HostTile">
-          PROGRAMLARR
+          PROGRAMLAR
             <img alt="Programlar" src="/images/Polygondown.png" />
           </span>
           <div className="HostSeries">

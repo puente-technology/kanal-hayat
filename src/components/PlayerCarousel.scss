@@ -109,14 +109,14 @@ $level1-left: 125px;
     left: $level-1-left + $level1-width;
     height: $level1-height - 30;
     width: $level1-width - 20;
-    line-height: $level1-height - 30;
+    //line-height: $level1-height - 30;
 }
 
 .right-enter.right-enter-active {
     left: $level-1-left;
     opacity: 1;
     height: $level1-height;
-    line-height: $level1-height;
+    //line-height: $level1-height;
     width: $level1-width;
     transition: left 1s, opacity 1s, height 1s, width 1s, margin-top 1s, line-height 1s;
 }
@@ -162,11 +162,12 @@ $level1-left: 125px;
 .info {
     height: 100px;
     width: 300px;
-    font-size: 11px;
+    font-size: 13px;
     position: absolute;
-    top: 120px;
+    // top: 120px;
     text-align: left;
-    padding-left: 20px;
+    // padding-left: 20px;
+    padding-top: 20px;
 }
 
 .infoDiv {
@@ -189,7 +190,36 @@ $level1-left: 125px;
         left: 70px;
     }
 }
+@media only screen and (max-width: 800px) and (min-width: 760px) {
+    .level1 {
+        left: 151px;
+    }
+    .level-1 {
+        left: 974px;
+    }
+    .level0 {
+        left: 460px;
+    }
 
+    .right-enter {
+        left: 974px;
+    }
+    
+    .right-enter.right-enter-active {
+        left: 974px;
+    
+    }
+    .right-leave {
+        left: 0;
+       
+    }
+    
+    .right-leave.right-leave-active {
+        left: 0;
+    }
+    
+
+}
 @media (max-width: 576px) {
 
     .info {
@@ -202,7 +232,7 @@ $level1-left: 125px;
     }
 
     .arrow {
-        margin-top: 25px !important;
+        margin-top: 40px !important;
     }
     .arrow-left-programmlar {
         left: 70px;
@@ -213,29 +243,29 @@ $level1-left: 125px;
     }
 
     .EpisodeVideoInfo {
-        height: 100px;
-        width: 140px;
+        height: 160px;
+        width: 200px;
     }
     .item {
         height: 100px;
         width: 140px;
     }
     .level0 {
-        left: 300px;
+        left: 500px;
     }
     .level-1 {
         left: 490px;
     }
     .level1 {
-        left: 125px;
+        left: 155px;
     }
 
     .left-enter {
-        left: -70px;
+        left: -15px;
      }
     
     .left-enter.left-enter-active {
-       left: 70px;
+       left: 120px;
     }
     .player-info {
         display: none;

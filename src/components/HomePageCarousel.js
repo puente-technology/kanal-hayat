@@ -180,7 +180,7 @@ class Item extends React.Component {
               src={id.image}
               width={280}
               height={150}
-              className="EpisodeVideo"
+              className="EpisodeVideoInfo"
             >
               <div className="playParavan">
                 {dateConverter(id.youtubeURL.duration)}

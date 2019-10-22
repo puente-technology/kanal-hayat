@@ -590,7 +590,10 @@ class Player extends Component {
             {isBigScreenState && (
             <div
               style={{
-                width: props.width, margin: '71px auto', height: '6rem', background: 'black',
+                // width: props.width,
+                margin: '71px auto !important',
+                height: '6rem',
+                background: 'black',
               }}
               className={['container-fluid', 'player-controls-container', props.expand ? 'expanded' : 'collapsed'].join(' ')}
             >

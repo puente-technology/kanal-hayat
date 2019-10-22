@@ -309,7 +309,7 @@ class Player extends Component {
         >
           <div id="playerBackdrop" className="'player-backdrop isBig" style={{ display: 'flex', flexDirection: isBigScreenState ? 'column' : 'row' }}>
             <div
-              className="live-stream-video-container"
+              className={`live-stream-video-container ${!isBigScreenState && 'mini'}`}
               style={isBigScreenState ? isBigStyle
                 : { width: isBigScreenState ? '40%' : this.getWidth() < 700 ? '100% !important' : '40%', display: 'flex', flexDirection: 'column-reverse' }}
             >

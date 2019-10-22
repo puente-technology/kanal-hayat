@@ -26,6 +26,22 @@ class Carousel extends Component {
     this.leftClick = this.moveLeft.bind(this)
   }
 
+  getWidth = () => {
+    if (typeof (window.innerWidth) === 'number') {
+      // Non-IE
+      return window.innerWidth;
+    } if (document.documentElement
+      && (document.documentElement.clientWidth || document.documentElement.clientHeight)) {
+      // IE 6+ in 'standards compliant mode'
+      return document.documentElement.clientWidth;
+    } if (document.body && (document.body.clientWidth || document.body.clientHeight)) {
+      // IE 4 compatible
+      return document.body.clientWidth;
+    }
+    return null
+  }
+  
+
   generateItems() {
     const { frontmatter, handleVideoUrlChange } = this.props
     const { active, items } = this.state
