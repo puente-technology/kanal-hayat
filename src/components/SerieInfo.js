@@ -21,11 +21,13 @@ class SerieInfo extends PureComponent {
     super(props);
     this.state = {
       isOpen: false,
+      hostSlugs: {},
     };
     this.myRef = React.createRef();
   }
 
   componentDidMount() {
+    this.getHostUrl()
     if (this.myRef.current) {
       this.myRef.current.scrollIntoView({
         behavior: 'smooth',
@@ -34,15 +36,15 @@ class SerieInfo extends PureComponent {
     }
   }
 
-  getHostUrl = (hostName) => {
+  getHostUrl = () => {
     const { hosts } = this.props
+    let dqsdqs = { }
     if (hosts) {
       const result = hosts.map((el) => {
         const { fields, frontmatter } = el.node
-        if (frontmatter.host === hostName) {
-          return fields.slug
-        }
+        dqsdqs = { ...dqsdqs, [frontmatter.host]: fields.slug }
       })
+      this.setState({ hostSlugs: dqsdqs })
       return result
     }
   }
@@ -74,7 +76,7 @@ class SerieInfo extends PureComponent {
   }
 
   render() {
-    const { isOpen } = this.state;
+    const { isOpen, hostSlugs } = this.state;
     const {
       frontmatter,
       handleCardCloseClick,
@@ -90,7 +92,7 @@ class SerieInfo extends PureComponent {
         </div>
         <div className="InformationHost">
           <Link
-            to={this.getHostUrl(frontmatter.host)}
+            to={hostSlugs[frontmatter.host]}
           >
             {frontmatter.host}
           </Link>
