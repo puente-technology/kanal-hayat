@@ -132,10 +132,10 @@ export default class FullPageSlider extends Component {
                   <Nav
                     key={i}
                     color={g.color}
-                    dispatch={dispatch}
-                    hosts={hosts}
                     nav={openNav}
                     openNav={this.handleOpenNav}
+                    dispatch={dispatch}
+                    hosts={hosts}
                   />
                   <img className="slide__img" src={g.image} alt={g.alt} />
                   <div className={`slide__caption ${g.color} ${g.align}`}>
