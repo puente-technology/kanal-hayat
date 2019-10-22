@@ -511,6 +511,9 @@ $track-border-width: 0px;
 			width: 68% !important;
 			margin: 48px auto !important;
 			top: 452px !important;
+			&.live-stream {
+				top: 0 !important;
+			}
 		}
 	}
 	
