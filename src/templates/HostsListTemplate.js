@@ -11,11 +11,11 @@ import HostsList from '../components/HostsPage';
 // )
 
 // Export Default HomePage for front-end
-const SeriesListPage = (data) => {
+const HostsListPage = (data) => {
   const hostList = new Set()
   const hosts = data.data.hosts.edges
+  console.log('asma data', data)
   let { edges } = data.data.allMarkdownRemark
-  hostList.add('Sunucu Ismi')
   Object.entries(edges).forEach(([index, object]) => {
     if (object.node.frontmatter.host) {
       hostList.add(object.node.frontmatter.host)
@@ -24,21 +24,21 @@ const SeriesListPage = (data) => {
   edges = {
     // title: edges[0].node && edges[0].node.frontmatter.title,
     ...edges.filter(x => x.node.fields.slug !== '/series/'),
-    title: 'Seriler',
+    title: 'Sunucular',
   }
   return (
     <LayoutComp>
-      <SeriesList data={edges} hosts={hosts} hostList={[...hostList]} />
+      <HostsList data={edges} hosts={hosts} hostList={[...hostList]} />
     </LayoutComp>
 
   )
 }
 
-export default SeriesListPage;
+export default HostsListPage;
 
 export const pageQuery = graphql`
-query SeriesList {
-  allMarkdownRemark(filter: {fields: {contentType: {regex: "/series/|/series-page/"}}}) {
+query HostsList {
+  allMarkdownRemark(filter: {fields: {contentType: {regex: "/hosts/"}}}) {
     edges {
       node {
         fields {
