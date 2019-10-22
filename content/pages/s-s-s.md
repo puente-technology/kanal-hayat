@@ -398,9 +398,23 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Kutsal Ruh nedir? Kutsal Ruh Tanrı mı?  Kutsal Ruh
-      öğretir mi ? Kutsal Ruhun amacı nedir? Aşağıdaki programlarımızı
-      izleyerek  detaylı bilgi edinebilirsiniz.Esen Kalın.
+      için yanıtladık. İbranice’de Kutsal Ruh’u anlatan kelime, “Ruakh” olarak
+      geçer ve enerji, nefes, rüzgar anlamına gelir. Durmayan, sürekli hareket
+      eden, yaratan, kontrol edilemeyen,  kısıtlanamayan bir güç.  Geçmişe
+      baktığımızda işleyişini ilk nerelerde görebiliriz? Tabi ki her şeyin
+      başında, Yaratılış’ın ilk paragrafında görebiliriz. Yaratılış 2’de, “Yer
+      boştu, yeryüzü şekilleri yoktu; engin karanlıklarla kaplıydı. Tanrı’nın
+      Ruhu suların üzerinde hareket ediyordu.” diye yazılmıştır. İşte Kutsal
+      Ruh; bu kaosun, boşluğun, biçimsizliğin içinden yaşam, düzen ve güzellik
+      yaratan Tanrı’nın Ruhu’dur.Kutsal Ruh Yaratılış’ta kaostan, boşluktan ve
+      biçimsizlikten; yaşam, düzen ve güzellik yaratıp şekillendirmişti. Şimdi
+      de doğrudan insana yaşam, düzen ve güzellik verip şekillendiriyor. Sonunda
+      her şeyi yenileyecekti. Peki nasıl yapacaktı bunu?  2000 yıl önce yemlikte
+      doğup büyüyen İsa’yı görüyoruz. Hizmetine başlamadan önce vaftiz olurken,
+      Kutsal Ruh’un bir güvercin gibi O’nun üzerine indiğini görüyoruz. Hem
+      Tanrı hem insan olan İsa’da, Tanrı’nın asıl amacını görebiliyoruz. İsyan
+      ve günahlarımızla bozduğumuz ve çürüttüğümüz her şeyi, işte İsa Mesih
+      aracığıyla Ruh yeniliyor ve şekillendiriyor.Esen Kalın.
     question: Kutsal Ruh Nedir?
     videos:
       - guests: .
