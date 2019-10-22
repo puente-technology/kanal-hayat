@@ -36,8 +36,9 @@
 }
 
 .ContactUsHeaderText{
-  width: 171px;
+  /* width: 171px; */
   height: 58px;
+  margin-top: 25px;
 }
 
 .ContactUsHeaderTextStyle {
@@ -49,7 +50,8 @@
   color: #3D3D3D;
 }
 .ContactUsInfoText {
-  display: flex
+  display: flex;
+  margin-top: 11px;
 }
 .ContactUsInfoTextStyleBold {
   
@@ -85,13 +87,26 @@
 
 .field {
   display: flex;
+  margin-top: 21px;
+}
+
+textarea,
+input.text,
+input[type="text"],
+input[type="button"],
+input[type="submit"],
+.input-checkbox {
+-webkit-appearance: none;
+border-radius: 0;
 }
 
 .fieldStyle {
+  -webkit-appearance: none;
   border-width: 0 0 0.5px;
   width: 357px;
   height: 30px;
-  padding: 6px;
+  line-height: 3;
+  border-radius: 0;
   /* border: 0.5px solid #3D3D3D; */
 }
 
@@ -144,4 +159,127 @@
   line-height: 21px;
   color: #FFF;
   margin-top: 24px;
+}
+.rightFieldStyle {
+  padding-left: 30px;
+}
+
+@media (min-width: 2000px) {
+  .contact-us{
+    align-items: center;
+  }
+  .fieldStyle {
+    width: 555px;
+    height: 35px;
+  }
+  .lineStyle {
+    width: 1140px;
+  }
+}
+@media (max-width: 768px) {
+  .contact-us {
+    align-items: center;
+    flex-direction: column-reverse;
+    height: auto;
+  }
+  .fieldStyle {
+    width: 320px;
+  }
+  .lineStyle {
+    width: 669px;
+  }
+  .contactInfo {
+    padding-bottom: 25px;
+  }
+  .buttonStyle{
+    width: 239px;
+  }
+}
+
+@media (max-width: 576px) {
+  .contact-us {
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+    height: auto;
+    margin-bottom: 31px;
+  }
+  
+  .contactInfo {
+    width: 100%;
+    padding-top: 0;
+    margin-left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 35px 0px;
+  }
+
+  .field {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+  }
+  
+  .logoImg {
+    width: 118px;
+  }
+  
+  .ContactUsHeaderText{
+    margin-top: 7px !important;
+    height: auto;
+    margin-bottom: 11px;
+    width: auto;
+  }
+  
+  .ContactUsHeaderTextStyle {
+    font-size: 15px;
+    line-height: 20px;
+    font-family: sans-serif;
+  }
+  .ContactUsInfoText {
+    margin-top: 8px !important;
+  }
+  .ContactUsInfoTextStyleBold {
+    font-size: 13px;
+    line-height: 18px;
+    font-family: sans-serif;
+  }
+  .rightFieldStyle {
+    padding-left: 0px;
+  }
+  .ContactUsInfoTextStyle {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  
+  .formHeader {
+    text-align: center;
+  }
+  
+  .form {
+    padding-top: 20px;
+    display: flex;
+    padding-left: 15px;
+  }
+  
+  .fieldStyle {
+    margin-top: 21px;
+  }
+  
+  .lineStyle {
+    width: 357px;
+  }
+
+  .logoContainer {
+    margin-bottom: 18px;
+  }
+
+  .logo {
+    width: auto;
+    height: auto;
+  }
+
+  .buttonStyle {
+    width: 200px;
+}
 }

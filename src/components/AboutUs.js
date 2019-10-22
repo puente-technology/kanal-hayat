@@ -15,6 +15,7 @@ const AboutUs = (props) => {
           style={{ position: 'relative' }}
           src={featuredImage}
           alt="Content"
+          className="imageContainerBackground"
         />
         <div className="gradientDiv" />
       </div>

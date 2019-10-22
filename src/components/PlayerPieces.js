@@ -219,14 +219,10 @@ export const PlayerButtons = ({
               style={{
                 background: `url(${bigScreen}) no-repeat`,
                 backgroundSize: 'contain',
-                border: 'none',
-                minWidth: '30px',
-                minHeight: '24px',
-                paddingTop: '1.8rem',
-                marginRight: '15px',
+
               }}
               onClick={isBigScreenClick}
-              className="player-volume-path"
+              className="player-volume-path-rec"
             />
           )
       }
@@ -240,7 +236,7 @@ export const PlayerButtons = ({
           minHeight: '20px',
         }}
         onClick={onFullScreenClick}
-        className="player-volume-path"
+        className="player-volume-path-full-screen"
       />
     </div>
   </div>

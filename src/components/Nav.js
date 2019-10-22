@@ -7,6 +7,9 @@ import Logo from './Logo'
 import './globalStyles.css'
 import './Nav.scss'
 
+const menuIcon = require('../../static/images/menu-icon.svg');
+const closeIcon = require('../../static/images/close.png');
+
 export class Navigation extends Component {
   static propTypes = {
     location: PropTypes.any,
@@ -37,6 +40,11 @@ export class Navigation extends Component {
     }
   }
 
+  handleOpenNav = () => {
+    const { color } = this.props;
+    color.openNav();
+  }
+
   render() {
     const { active } = this.state;
     const NavLink = ({
@@ -61,10 +69,11 @@ export class Navigation extends Component {
     return (
       <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
         <div className="Nav--Container container">
-          <Link style={{ position: 'absolute', left: '10px' }} to="/" onClick={this.handleLinkClick}>
+          <Link to="/" onClick={this.handleLinkClick}>
             <Logo />
           </Link>
-          <div className={`Nav--Links ${color.color}`}>
+          <div className={`Nav--Links ${color.color} ${color.nav ? 'side-menu-open' : ''}`}>
+            <button type="button" className="Nav--XIcon" onClick={this.handleOpenNav}><img className="Nav--XIcon--Img" src={closeIcon} alt="CloseIcon" /></button>
             <NavLink color={color} align={align} to="/">Ana Sayfa</NavLink>
             <NavLink color={color} align={align} to="/events">Yayın Akışı</NavLink>
             <NavLink color={color} align={align} to="/series">Programlar</NavLink>
@@ -80,6 +89,7 @@ export class Navigation extends Component {
             <button type="button" className="NavWatchNow">CANLI İZLE</button>
             <input style={{ display: 'none' }} className="Nav--Search" type="text" />
           </div>
+          <button type="button" className="Nav--MenuButton" onClick={this.handleOpenNav}><img src={menuIcon} alt="MenuIcon" /></button>
         </div>
       </nav>
     )

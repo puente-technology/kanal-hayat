@@ -79,3 +79,19 @@
     } 
   }  
 }
+
+@media (max-width: 576px) {
+  .dropdown {
+    margin-bottom: 10px;
+  }
+  .dropdown-menu {
+    margin-top: -18px;
+  }
+  .dropdown {
+    .dropdown-toggle {
+      min-width: 110px;
+    }
+  }
+  
+
+}

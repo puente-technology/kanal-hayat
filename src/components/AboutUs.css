@@ -28,6 +28,7 @@
   height: 720px;
   margin-top: 37px;
   margin-left: 24px;
+  text-align: justify;
 }
 .contenIntroductionText {
   
@@ -76,3 +77,103 @@
   margin-top: 24px;
 }
 
+@media (min-width: 2000px) {
+  .contentAbout {
+    width: auto; 
+    height: auto;
+    margin: 50px;
+    text-align: justify;
+}
+}
+
+@media (max-width: 768px) {
+  .about-us {
+    display: flex;
+    /* flex-direction: row; */
+    height: auto; 
+    /* flex-wrap: wrap; */
+    /* align-items: flex-start;*/
+  }
+  .imageContainer {
+    width: 50%;
+    /* height: 768px; */
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    float: left;
+  }
+  .imageContainer{
+    height: auto;
+  }
+  .contentContainer {
+    position: relative;
+    background: #FFF;
+    /* width: 100%; */
+    text-align: justify;
+  }
+  .contentAbout {
+    width: auto; 
+    height: auto; 
+    margin-top: 37px;
+    margin-left: 24px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+
+
+
+
+}
+@media (max-width: 576px) {
+  .about-us {
+    flex-direction: column;
+    height: fit-content;
+  }
+  
+  .imageContainer {
+    width: 100%;
+    height: 500px;
+  }
+  .imageContainerBackground {
+    position: static !important;
+    width: 100%;
+  }
+  
+  .gradientDiv {
+    background: linear-gradient(0deg, #FFF 0.1%, #FFF 10.6%, rgba(255, 255, 255, 0) 100%);
+    width: 100%;
+    margin-top: 8%;
+  }
+  .contentContainer {
+    display: flex;
+  }
+  .contentAbout{
+    height: fit-content;
+    margin-bottom: 45px;
+    margin-left: 0;
+    padding: 0px 18px;
+  }
+  .contenIntroductionText {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  
+  .contenFrekansText {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  .contenFrekans {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  
+  .contenAboutText {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  
+  .contenContactText {
+    font-size: 13px;
+    line-height: 18px;
+  }
+}

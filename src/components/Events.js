@@ -152,6 +152,10 @@ class Events extends Component {
                 const isNow = (itemStartTime <= timeNow && itemEndTime > timeNow)
                 return (
                   <div key={i} className="Event-Programme">
+                    <div className="Event-ProgrammeBorder">
+                      <div className="Event-Border" />
+                      <div className="Event-BlueDot" />
+                    </div>
                     <div className={`Event-Time ${isNow ? 'active' : ''}`}>
                       {item.time.startTime}
                     </div>
