@@ -9,9 +9,11 @@ import { StaticQuery, graphql } from 'gatsby'
 import './LiveNow.scss'
 import { sortTimeString } from '../utils/utils';
 
-export default () => (
-  <StaticQuery
-    query={graphql`
+export default ({ isLiveStream }) => {
+  console.log('asma isLiveStream', isLiveStream)
+  return (
+    <StaticQuery
+      query={graphql`
     query LiveNow {
       allMarkdownRemark(filter: {frontmatter: {template: {eq: "EventsPage"}}}) {
         nodes {
@@ -48,28 +50,30 @@ export default () => (
       }
     }
     `}
-    render={(data) => {
-      let eventData
-      data.mdfiles.edges.map((obj) => {
-        const time = moment(obj.node.frontmatter.title, 'YYYY MM DD')
-        if (moment(time).isSame(moment().format('YYYY MM DD'), 'week')) {
-          eventData = obj.node.frontmatter.eventList
-        }
-      })
-      return (
-        <LiveNowC eventList={eventData} />
+      render={(data) => {
+        let eventData
+        data.mdfiles.edges.map((obj) => {
+          const time = moment(obj.node.frontmatter.title, 'YYYY MM DD')
+          if (moment(time).isSame(moment().format('YYYY MM DD'), 'week')) {
+            eventData = obj.node.frontmatter.eventList
+          }
+        })
+        return (
+          <LiveNowC eventList={eventData} isLiveStream />
 
-      )
-    }
+        )
+      }
   }
-  />
-)
+    />
+  )
+}
 
 const sixHours = 60000 * 720;
 export const LiveNowC = (props) => {
   const {
-    eventList,
+    eventList, isLiveStream,
   } = props;
+  console.log('asma isLiveStream', isLiveStream)
   let firstLoadedDay = new Date().getDay().toString()
   if (firstLoadedDay === '0') firstLoadedDay = '99'
   const options = { hour12: false };
@@ -101,24 +105,24 @@ export const LiveNowC = (props) => {
 
   return (
     <div className="LiveNow">
-      <div className="LiveNow--Title">
+      <div className={`LiveNow--Title ${isLiveStream && 'live-stream'}`}>
         Şimdi Canlı Yayında!
       </div>
       <div className="LiveNow--Line" />
       <div className="LiveNow--Events">
         {
           filteredList.map((item, i) => (
-            <div className="LiveNow--Item" key={i}>
-              <span className={`Item-Header ${i === 0 ? 'now' : ''}`}>
+            <div className="LiveNow--Item" key={i} style={{ paddingTop: isLiveStream && 28, fontSize: isLiveStream && 14 }}>
+              <span className={`Item-Header ${i === 0 ? 'now' : ''}`} style={{ fontSize: isLiveStream && 14 }}>
                 {`${item.title}${i === 0 ? '(ŞİMDİ)' : ''}`}
               </span>
               <span className={`Item-SubHeader ${i === 0 ? 'now' : ''}`}>
                 {item.subtitle}
               </span>
-              <div className={`Item-Time ${i === 0 ? 'now' : ''}`}>
+              <div className={`Item-Time ${i === 0 ? 'now' : ''}`} style={{ fontSize: isLiveStream && 24 }}>
                 {item.time.startTime}
                 {
-                  i === 0 && <button type="button">Canlı İzle</button>
+                  i === 0 && <button type="button" style={{ width: isLiveStream && 90 }}>Canlı İzle</button>
                 }
               </div>
             </div>
@@ -131,4 +135,5 @@ export const LiveNowC = (props) => {
 
 LiveNowC.propTypes = {
   eventList: PropTypes.any,
+  isLiveStream: PropTypes.bool,
 }
