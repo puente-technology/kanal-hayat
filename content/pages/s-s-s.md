@@ -398,9 +398,23 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Kutsal Ruh nedir? Kutsal Ruh Tanrı mı?  Kutsal Ruh
-      öğretir mi ? Kutsal Ruhun amacı nedir? Aşağıdaki programlarımızı
-      izleyerek  detaylı bilgi edinebilirsiniz.Esen Kalın.
+      için yanıtladık. İbranice’de Kutsal Ruh’u anlatan kelime, “Ruakh” olarak
+      geçer ve enerji, nefes, rüzgar anlamına gelir. Durmayan, sürekli hareket
+      eden, yaratan, kontrol edilemeyen,  kısıtlanamayan bir güç.  Geçmişe
+      baktığımızda işleyişini ilk nerelerde görebiliriz? Tabi ki her şeyin
+      başında, Yaratılış’ın ilk paragrafında görebiliriz. Yaratılış 2’de, “Yer
+      boştu, yeryüzü şekilleri yoktu; engin karanlıklarla kaplıydı. Tanrı’nın
+      Ruhu suların üzerinde hareket ediyordu.” diye yazılmıştır. İşte Kutsal
+      Ruh; bu kaosun, boşluğun, biçimsizliğin içinden yaşam, düzen ve güzellik
+      yaratan Tanrı’nın Ruhu’dur.Kutsal Ruh Yaratılış’ta kaostan, boşluktan ve
+      biçimsizlikten; yaşam, düzen ve güzellik yaratıp şekillendirmişti. Şimdi
+      de doğrudan insana yaşam, düzen ve güzellik verip şekillendiriyor. Sonunda
+      her şeyi yenileyecekti. Peki nasıl yapacaktı bunu?  2000 yıl önce yemlikte
+      doğup büyüyen İsa’yı görüyoruz. Hizmetine başlamadan önce vaftiz olurken,
+      Kutsal Ruh’un bir güvercin gibi O’nun üzerine indiğini görüyoruz. Hem
+      Tanrı hem insan olan İsa’da, Tanrı’nın asıl amacını görebiliyoruz. İsyan
+      ve günahlarımızla bozduğumuz ve çürüttüğümüz her şeyi, işte İsa Mesih
+      aracığıyla Ruh yeniliyor ve şekillendiriyor.Esen Kalın.
     question: Kutsal Ruh Nedir?
     videos:
       - guests: .
@@ -472,7 +486,7 @@ questions:
           title: 11. Bölüm Kutsal Ruh'a Nasıl Sahip Olabiliriz?
           url: 'https://www.youtube.com/watch?v=kFqoAbWGToo'
           viewCount: '6633'
-  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. .Hristiyan ahlakı ve ibadeti nedir? Hristiyanların evliliğe bakış açılarını merak ediyorum? Hristiyanların yalana bakış açısını merak ediyorum? Hristiyanların günaha bakış açısını merak ediyorum? Aşağıdaki programları izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.'
+  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. Hristiyanlar kendi doğruluklarıyla değil, Tanrı''nın lütfuyla aklanmış  olan kutsallardır. Mesih İsa Hristiyanların önderi ve rehberidir. Hristiyanlar içlerinde bulunan Kutsal Ruh''un yardımıyla gün ve gün Mesih''e benzer olmak üzere değişirler. Bu değişim Mesih''e bakarak ve O''nda kavuşmuş oldukları yeni doğaya fark ederek gerçekleşir. Hristiyan ahlakının temelinde Mesih benim yerimde olsa ne yapardı sorusunun yanıtı yatar.  Hristiyanlar yaşamlarıyla İsa Mesih''i bu dünyadaki diğer insanlara yansıtır ve tanıtırlar. Kutsallık, Mesih''in lütfu aracılığıyla iman edildiğinde birden kavuşulan ama buna uygun düzeyde bir yaşam sürmek için bir yaşam boyu süren bir değişimdir. Kişi Mesih''in lütfu aracılığıyla  kavuşmuş olduğu kutsallığı, yani yeni doğasını fark ettikçe bu değişim hızlanır. Değişimin güç kaynağı Kutsal Ruh''tur. Esen Kalın.'
     question: Hristiyan Ahlakı ve İbadeti Nasıldır?
     videos:
       - guests: .
