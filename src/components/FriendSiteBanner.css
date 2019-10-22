@@ -3,8 +3,8 @@
   width: 100%;
   /* display: flex;
   flex-direction: row; */
-}
-.banner-container {
+ }
+ .banner-container {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -14,37 +14,37 @@
   background-size: cover;
   font-style: normal;
   position: relative;
-}
-.background {
+ }
+ .background {
   width: 100%;
   position: absolute;
-}
-
-.sideDiv {
+ }
+ 
+ .sideDiv {
   height: 375px;
   width: 100%;
   background: linear-gradient(270deg, #DDE6F5 0%, #EBF0F9 82.96%, rgba(246, 247, 252, 0) 100.81%);
-}
-
-.imageStyle {
+ }
+ 
+ .imageStyle {
   height: 100%;
   width: 100%;
   position: absolute;
-}
-
-.logoDiv {
+ }
+ 
+ .logoDiv {
   position: relative;
   display: flex;
   flex-direction: column;
-}
-
-.logoStyle {
+ }
+ 
+ .logoStyle {
   width: 284px;
   height: 116px;
   margin: 30px auto 46px;
-}
-
-.header {
+ }
+ 
+ .header {
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
@@ -52,16 +52,16 @@
   text-align: center;
   color: #FFFF;
   margin: 0 auto 10px;
-}
-
-.dark {
+ }
+ 
+ .dark {
   color: black
-}
-.liight {
+ }
+ .liight {
   color: white
-}
-
-.content {
+ }
+ 
+ .content {
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -84,43 +84,44 @@
   color: #FFFF;
   margin: 0 auto;
   margin-bottom: 40px;
-}
-
-@media (max-width: 576px) {
+ }
+ 
+ @media (max-width: 576px) {
   .friendSiteBannerContainer {
     height: 305px;
     display: flex;
   }
-
+ 
   .imageStyle {
   }
-
+ 
   .logoDiv {
     width: auto;
     align-items: center;
     padding: 34px 30px 0px 30px;
   }
-
+ 
   .logoStyle {
     width: 144px;
     height: 59px;
     margin: 0;
     margin-bottom: 30px;
   }
-
+ 
   .header {
     font-size: 15px;
   }
-
+ 
   .content {
     font-size: 13px;
     width: auto;
     text-align: justify;
   }
-
-  .button-fr {
+ 
+  .button {
     width: fit-content;
     height: 30px;
     font-size: 13px;
   }
-}
+ }
+ 
