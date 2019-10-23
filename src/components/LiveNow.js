@@ -44,6 +44,7 @@ export default () => (
                   serieNames {
                     label
                     value
+                    subtitles
                   }
                 subtitles
               }

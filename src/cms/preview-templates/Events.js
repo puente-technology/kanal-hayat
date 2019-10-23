@@ -39,18 +39,17 @@ const EventsPreviewTemplate = (list) => {
                     && (s.time && s.time.startTime === time))
                   let seriesInfo
                   let serieValue
-                  let subtitles
+                  // let subtitles
                   if (found) {
                     seriesInfo = found.seriesInfo[0] ? found.seriesInfo[0] : found.seriesInfo
                     serieValue = seriesInfo.serieNames.series
                       ? seriesInfo.serieNames.series.value : seriesInfo.serieNames.value
                     // eslint-disable-next-line prefer-destructuring
-                    subtitles = seriesInfo.subtitles
+                    // subtitles = seriesInfo.subtitles
                   }
                   return (
-                    <td style={{ display: 'flex', flexDirection: 'column' }}>
+                    <td>
                       {serieValue || ''}
-                      {subtitles || ''}
                     </td>
                   )
                 })

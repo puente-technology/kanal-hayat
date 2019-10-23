@@ -365,11 +365,11 @@ collections:
         name: 'eventList'
         widget: 'list'
         fields:
+          - { label: Title, name: title, widget: string }
           - label: 'Series Info'
             name: 'seriesInfo'
             widget: 'object'
             fields:
-              - { label: Title, name: title, widget: string }
               - {
                 label: "Series",
                 name: "serieNames",

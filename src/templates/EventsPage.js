@@ -51,6 +51,7 @@ query Events($id: String!, $locale: String) {
           serieNames {
             label
             value
+            subtitles
           }
           subtitles
         }
@@ -72,6 +73,7 @@ query Events($id: String!, $locale: String) {
               serieNames {
                 label
                 value
+                subtitles
               }
               subtitles
             }
