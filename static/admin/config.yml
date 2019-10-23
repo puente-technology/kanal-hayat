@@ -365,14 +365,18 @@ collections:
         name: 'eventList'
         widget: 'list'
         fields:
-          - {
-            label: "Series",
-            name: "title",
-            widget: "option",
-            collection: "series",
-            searchFields: ["title"],
-            valueField: "title"
-            }
+          - label: 'Series Info'
+            name: 'title'
+            widget: 'list'
+            fields:
+              - {
+                label: "Series",
+                name: "serieNames",
+                widget: "option",
+                collection: "series",
+                searchFields: ["title"],
+                valueField: "title"
+                }
           - label: 'Zaman'
             name: 'time'
             widget: 'object'
@@ -424,7 +428,7 @@ collections:
                     }
                   ],
                   multiple: true,
-                }
+              }
             
 
   - name: seriesCategories
