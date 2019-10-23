@@ -122,10 +122,10 @@ export const LiveNowC = (props) => {
             return (
               <div className="LiveNow--Item" key={i}>
                 <span className={`Item-Header ${i === 0 ? 'now' : ''}`}>
-                  {`${seriesInfo.serieNames.title}${i === 0 ? '(ŞİMDİ)' : ''}`}
+                  {`${seriesInfo.serieNames.value}${i === 0 ? '(ŞİMDİ)' : ''}`}
                 </span>
                 <span className={`Item-SubHeader ${i === 0 ? 'now' : ''}`}>
-                  {seriesInfo.serieNames.subtitle}
+                  {seriesInfo.subtitles}
                 </span>
                 <div className={`Item-Time ${i === 0 ? 'now' : ''}`}>
                   {time.startTime}

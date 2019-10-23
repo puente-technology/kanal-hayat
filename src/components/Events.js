@@ -157,7 +157,7 @@ class Events extends Component {
                         {seriesInfo.serieNames.value}
                       </p>
                       <p className="Event-Subtitle">
-                        {seriesInfo.serieNames.subtitle}
+                        {seriesInfo.subtitles}
                       </p>
                     </div>
                   </div>

@@ -37,11 +37,20 @@ const EventsPreviewTemplate = (list) => {
                   const found = sorted
                     .find(s => s.time && s.time.days && s.time.days.includes(value)
                     && (s.time && s.time.startTime === time))
-                  console.log('FOUND', found)
+                  let seriesInfo
+                  let serieValue
+                  let subtitles
+                  if (found) {
+                    seriesInfo = found.seriesInfo[0] ? found.seriesInfo[0] : found.seriesInfo
+                    serieValue = seriesInfo.serieNames.series
+                      ? seriesInfo.serieNames.series.value : seriesInfo.serieNames.value
+                    // eslint-disable-next-line prefer-destructuring
+                    subtitles = seriesInfo.subtitles
+                  }
                   return (
                     <td style={{ display: 'flex', flexDirection: 'column' }}>
-                      {found ? found.seriesInfo[0].serieNames.series.value : ''}
-                      {found ? found.seriesInfo[0].serieNames.subtitles : ''}
+                      {serieValue || ''}
+                      {subtitles || ''}
                     </td>
                   )
                 })
