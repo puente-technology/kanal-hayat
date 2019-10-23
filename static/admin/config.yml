@@ -369,6 +369,7 @@ collections:
             name: 'seriesInfo'
             widget: 'object'
             fields:
+              - { label: Title, name: title, widget: string }
               - {
                 label: "Series",
                 name: "serieNames",

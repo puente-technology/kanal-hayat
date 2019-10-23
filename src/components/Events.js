@@ -145,7 +145,6 @@ class Events extends Component {
                 startDay.setDate(today.getDate() - (today.getDay() - activeDay))
                 const itemStartTime = `${new Date(startDay).toLocaleDateString()} ${time.startTime}`
                 const itemEndTime = `${new Date(startDay).toLocaleDateString()} ${time.endTime}`
-
                 const isNow = (itemStartTime <= timeNow && itemEndTime > timeNow)
                 return (
                   <div key={i} className="Event-Programme">
