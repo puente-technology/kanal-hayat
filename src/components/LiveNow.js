@@ -17,8 +17,13 @@ export default () => (
         nodes {
           frontmatter {
             eventList {
-              subtitle
-              title
+              seriesInfo {
+                serieNames {
+                  label
+                  value
+                }
+                subtitles
+              }
               time {
                 days
                 startTime
@@ -34,8 +39,13 @@ export default () => (
             frontmatter {
               title
             eventList {
-              title
-              subtitle
+              seriesInfo {
+                serieNames {
+                  label
+                  value
+                }
+                subtitles
+              }
               time {
                 days
                 startTime
@@ -107,22 +117,25 @@ export const LiveNowC = (props) => {
       <div className="LiveNow--Line" />
       <div className="LiveNow--Events">
         {
-          filteredList.map((item, i) => (
-            <div className="LiveNow--Item" key={i}>
-              <span className={`Item-Header ${i === 0 ? 'now' : ''}`}>
-                {`${item.title}${i === 0 ? '(ŞİMDİ)' : ''}`}
-              </span>
-              <span className={`Item-SubHeader ${i === 0 ? 'now' : ''}`}>
-                {item.subtitle}
-              </span>
-              <div className={`Item-Time ${i === 0 ? 'now' : ''}`}>
-                {item.time.startTime}
-                {
-                  i === 0 && <button type="button">Canlı İzle</button>
-                }
+          filteredList.map((item, i) => {
+            const { seriesInfo, time } = item
+            return (
+              <div className="LiveNow--Item" key={i}>
+                <span className={`Item-Header ${i === 0 ? 'now' : ''}`}>
+                  {`${seriesInfo.serieNames.title}${i === 0 ? '(ŞİMDİ)' : ''}`}
+                </span>
+                <span className={`Item-SubHeader ${i === 0 ? 'now' : ''}`}>
+                  {seriesInfo.serieNames.subtitle}
+                </span>
+                <div className={`Item-Time ${i === 0 ? 'now' : ''}`}>
+                  {time.startTime}
+                  {
+                    i === 0 && <button type="button">Canlı İzle</button>
+                  }
+                </div>
               </div>
-            </div>
-          ))
+            )
+          })
         }
       </div>
     </div>

@@ -46,8 +46,13 @@ query Events($id: String!, $locale: String) {
     frontmatter {
       title
     eventList {
-      title
-      subtitle
+      seriesInfo {
+        serieNames {
+          label
+          value
+        }
+        subtitles
+      }
       time {
         days
         startTime
@@ -62,8 +67,13 @@ query Events($id: String!, $locale: String) {
         frontmatter {
           title
         eventList {
-          title
-          subtitle
+          seriesInfo {
+            serieNames {
+              label
+              value
+            }
+            subtitles
+          }
           time {
             days
             startTime

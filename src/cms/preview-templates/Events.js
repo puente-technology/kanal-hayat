@@ -38,8 +38,9 @@ const EventsPreviewTemplate = (list) => {
                     .find(s => s.time && s.time.days && s.time.days.includes(value)
                     && (s.time && s.time.startTime === time))
                   return (
-                    <td>
-                      {found ? found.title : ''}
+                    <td style={{ display: 'flex', flexDirection: 'column' }}>
+                      {found ? found.seriesInfo[0].serieNames.series.value : ''}
+                      {found ? found.seriesInfo[0].serieNames.subtitles : ''}
                     </td>
                   )
                 })
