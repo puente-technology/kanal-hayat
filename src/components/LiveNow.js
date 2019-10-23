@@ -16,6 +16,7 @@ export default () => (
       allMarkdownRemark(filter: {frontmatter: {template: {eq: "EventsPage"}}}) {
         nodes {
           frontmatter {
+            title
             eventList {
               seriesInfo {
                 serieNames {
@@ -38,12 +39,12 @@ export default () => (
           node {
             frontmatter {
               title
-            eventList {
-              seriesInfo {
-                serieNames {
-                  label
-                  value
-                }
+              eventList {
+                seriesInfo {
+                  serieNames {
+                    label
+                    value
+                  }
                 subtitles
               }
               time {
