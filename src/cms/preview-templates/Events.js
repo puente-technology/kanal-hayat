@@ -37,6 +37,7 @@ const EventsPreviewTemplate = (list) => {
                   const found = sorted
                     .find(s => s.time && s.time.days && s.time.days.includes(value)
                     && (s.time && s.time.startTime === time))
+                  console.log('FOUND', found)
                   return (
                     <td style={{ display: 'flex', flexDirection: 'column' }}>
                       {found ? found.seriesInfo[0].serieNames.series.value : ''}
