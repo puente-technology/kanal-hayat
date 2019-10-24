@@ -14,7 +14,6 @@ import HostsList from '../components/HostsPage';
 const HostsListPage = (data) => {
   const hostList = new Set()
   const hosts = data.data.hosts.edges
-  console.log('asma data', data)
   let { edges } = data.data.allMarkdownRemark
   Object.entries(edges).forEach(([index, object]) => {
     if (object.node.frontmatter.host) {
@@ -83,6 +82,9 @@ query HostsList {
         frontmatter {
           host
           coverImage
+          language
+          targetGroup
+          html
         }
       }
     }

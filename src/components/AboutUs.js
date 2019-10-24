@@ -1,15 +1,11 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import LiveStream from './LiveStream'
 import './AboutUs.css'
 
 const AboutUs = (props) => {
   const { content, featuredImage } = props;
   return (
     <div className="about-us">
-      <div className="test">
-        <LiveStream />
-      </div>
       <div className="imageContainer">
         <img
           style={{ position: 'relative' }}

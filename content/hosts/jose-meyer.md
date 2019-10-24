@@ -2,11 +2,11 @@
 template: Host
 title: Can Nuroğlu
 host: Can Nuroğlu
+language: '0'
+targetGroup: Herkes
 coverImage: /images/uploads/can-nuroğlu-save-for-web-1.jpg
 html: >-
   # Can Nuroğlu
-
-
   Yazar olan Can Nuroğlu evli ve 3 çocuk babasıdır. Amerika’da Emmaus İncil
   Üniversitesinde ilahiyat eğitimini tamamlamış olan Nuroğlu yaklaşık 11 yıl
   Diyarbakır Kilisesinde hizmet edip Kutsal Kitap (Tevrat-Zebur-İncil)

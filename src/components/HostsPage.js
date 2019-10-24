@@ -59,7 +59,7 @@ class HostsList extends Component {
     this.setState({ listSeries: res })
   }
 
-  /*sortSeriesByPopularity = () => {
+  sortSeriesByPopularity = () => {
     const { data } = this.props;
     const res = Object.values(data).filter(x => x !== 'Seriler').sort((a, b) => {
       const aRand = Math.floor(Math.random() * 101)
@@ -74,7 +74,7 @@ class HostsList extends Component {
       return 0
     })
     this.setState({ listSeries: res })
-  }*/
+  }
 
   handleTargetChange = (value) => {
     let { listSeries } = this.state;
@@ -108,14 +108,14 @@ class HostsList extends Component {
     this.sortByName()
   }
 
-  /*sortByName = () => {
+  sortByName = () => {
     const { sortByNameBool, sortByDateBool, listSeries } = this.state
     const { data } = this.props;
     let dataToSort = data
     if (sortByDateBool) {
       dataToSort = listSeries
     }
-    const res = Object.values(dataToSort).filter(x => x !== 'Seriler').sort((a, b) => {
+    const res = Object.values(dataToSort).filter(x => x !== 'Sunucular').sort((a, b) => {
       const atitle = a.node.frontmatter.title
       const btitle = b.node.frontmatter.title
       if (atitle > btitle) {
@@ -126,7 +126,7 @@ class HostsList extends Component {
       return 0
     })
     this.setState({ listSeries: res, sortByNameBool: !sortByNameBool })
-  }*/
+  }
 
   handleTextChange = (e) => {
     let { listSeries } = this.state;
@@ -176,14 +176,14 @@ class HostsList extends Component {
     });
   }
 
-  /*sortByDate = () => {
+  sortByDate = () => {
     const { data } = this.props;
     const { sortByDateBool, sortByNameBool, listSeries } = this.state
     let dataToSort = data
     if (sortByNameBool) {
       dataToSort = listSeries
     }
-    const res = Object.values(dataToSort).filter(x => x !== 'Seriler').sort((a, b) => {
+    const res = Object.values(dataToSort).filter(x => x !== 'Sunucular').sort((a, b) => {
       const episodesInfoA = a.node.frontmatter.episodes || []
       const episodesInfoB = b.node.frontmatter.episodes || []
       const aepisodes = episodesInfoA
@@ -200,7 +200,7 @@ class HostsList extends Component {
       return 0;
     })
     this.setState({ listSeries: res, sortByDateBool: !sortByDateBool })
-  }*/
+  }
 
   handleScroll = (e) => {
     const elem = e.target;
