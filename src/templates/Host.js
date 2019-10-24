@@ -114,7 +114,7 @@ class Host extends PureComponent {
 }
 
 export default connect(state => ({
-  hosts: state.app.hosts,
+  // hosts: state.app.hosts,
   episode: state.app.episode,
   episodes: state.app.episodes,
   handleCloseClick: state.app.handleCloseClick,

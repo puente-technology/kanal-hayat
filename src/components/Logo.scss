@@ -1,3 +1,5 @@
+@import "./variables";
+
 .Logo {
   display: flex;
   background-size: contain;
@@ -7,5 +9,10 @@
   width: 120px;
   align-items: center;
   justify-content: center;
-  margin-left: 67px;
+}
+@media (max-width: map-get($grid-breakpoints, md)) {
+	.Logo {
+    width: 80px;
+  }
+  
 }

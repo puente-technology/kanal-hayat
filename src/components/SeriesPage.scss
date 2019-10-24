@@ -71,11 +71,18 @@
   color: black;
 }
 
+@media (max-width: 768px) {
+  .TextInfo {
+    padding-top: 286px;
+    padding-left: 45px;
+  }
+}
 @media (max-width: 576px) {
   .customHeaderBanner {
     background-position: right !important;
   }
   .SeriesPage {
+    padding: 10px;
     padding-top: 20px;
     .Episode {
       margin-left: 21px;
@@ -83,20 +90,39 @@
       width: 100%;
     }
     .EpisodeVideo {
-      width: 100%;
+      width: 85%;
     }
     .minicontainer {
       margin-bottom: 20px;
+      padding-right: 26px;
+      width: 300px;
     }
+  }
+  .TextInfo {
+    padding-top: 338px;
+    padding-left: 11px;
+    padding-right: 11px;
+  }
+  .TextInfoTitle {
+    font-size: 17px;
+  }
+  .TextInfoHost{
+    font-size: 17px;
+  }
+  .TextInfoDescription {
+    margin-top: 0px;
+    font-size: 13px;
+    height: 98px;;
+  }
+  .TextInfoEpisodeBtns {
+    margin-top: 27px;
+  }
+  .TextInfoEpisodeTitle {
+    font-size: 14px;
+    line-height: 25px;
+  }
+  .TextInfoEpisodeBtns {
+    margin-top: 11px;
   }
 }
 
-.TextInfoAndSeason {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-}
-
-.seasonButton {
-  margin-left: 14px
-}

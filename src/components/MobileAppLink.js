@@ -25,7 +25,7 @@ const MobileAppLink = () => (
       </p>
       <div className="googlePlayStyle">
         <a rel="noopener noreferrer" href="https://www.google.com" target="_blank">
-          <img alt="googleplay" key="googleplay" src={googlePlay} style={{ paddingRight: '24px' }} />
+          <img alt="googleplay" key="googleplay" src={googlePlay} style={{ paddingRight: '24px' }} className="googlePlay" />
         </a>
         <a rel="noopener noreferrer" href="https://www.google.com" target="_blank">
           <img alt="appstore" key="appstore" src={appStore} />

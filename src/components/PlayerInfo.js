@@ -5,7 +5,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import { Link } from 'gatsby';
-import './PlayerInfo.css';
+import './PlayerInfo.scss';
 import Carousel from './PlayerCarousel';
 
 
@@ -150,7 +150,7 @@ class PlayerInfoExpand extends Component {
             )
           }
         </div>
-        <div className="player-info-close-info" style={{ margin: '324px auto', transform: 'rotate(90deg)' }}>
+        <div className="player-info-close-info" style={{ margin: '340px auto', transform: 'rotate(90deg)' }}>
           <button
             type="button"
             width="50px"
@@ -163,6 +163,7 @@ class PlayerInfoExpand extends Component {
               width: '23px',
               height: '40px',
               border: 'none',
+              cursor: 'pointer',
             }}
           />
         </div>

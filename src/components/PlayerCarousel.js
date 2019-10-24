@@ -26,6 +26,21 @@ class Carousel extends Component {
     this.leftClick = this.moveLeft.bind(this)
   }
 
+  getWidth = () => {
+    if (typeof (window.innerWidth) === 'number') {
+      // Non-IE
+      return window.innerWidth;
+    } if (document.documentElement
+      && (document.documentElement.clientWidth || document.documentElement.clientHeight)) {
+      // IE 6+ in 'standards compliant mode'
+      return document.documentElement.clientWidth;
+    } if (document.body && (document.body.clientWidth || document.body.clientHeight)) {
+      // IE 4 compatible
+      return document.body.clientWidth;
+    }
+    return null
+  }
+
   generateItems() {
     const { frontmatter, handleVideoUrlChange } = this.props
     const { active, items } = this.state
@@ -74,8 +89,8 @@ class Carousel extends Component {
   render() {
     const { direction } = this.state
     return (
-      <div id="carousel" className="noselect">
-        <button type="button" className="arrow arrow-left" onClick={this.leftClick}><img src={arrovSvg} alt="LeftArrow" /></button>
+      <div id="player-carousel" className="noselect">
+        <button type="button" className="arrow arrow-left-programmlar" onClick={this.leftClick}><img className="carousel-arrow" src={arrovSvg} alt="LeftArrow" /></button>
         <div style={{ display: 'flex' }}>
           <ReactCSSTransitionGroup
             component={React.Fragment}
@@ -84,7 +99,7 @@ class Carousel extends Component {
             {this.generateItems()}
           </ReactCSSTransitionGroup>
         </div>
-        <button type="button" className="arrow arrow-right" onClick={this.rightClick}><img src={arrovSvg} alt="RightArrow" /></button>
+        <button type="button" className="arrow arrow-right-programmlar" onClick={this.rightClick}><img className="carousel-arrow" src={arrovSvg} alt="RightArrow" /></button>
       </div>
     )
   }

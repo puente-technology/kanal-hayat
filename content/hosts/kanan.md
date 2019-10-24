@@ -1,8 +1,8 @@
 ---
 template: Host
-title: Can Nuroğlu
-host: Can Nuroğlu
-language: '0'
+title: Rick and Morty
+host: Rick
+language: '1'
 targetGroup: Herkes
 coverImage: /images/uploads/can-nuroğlu-save-for-web-1.jpg
 html: >-

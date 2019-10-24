@@ -3,57 +3,37 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import './SeriesList.scss'
-import SerieCard from './SerieCard';
+import HostCard from './HostCard';
 import SerieInfo from './SerieInfo';
 import Categories from './Categories';
 import Dropdown from './Dropdown';
 
 const rightArrow = require('../../static/images/right-arrow-black.svg');
 
-class SeriesList extends Component {
+class HostsList extends Component {
   constructor(props) {
     super(props)
     this.myRef = React.createRef();
+  }
 
-    this.state = {
-      expandedDiv: '',
-      selectedCategories: [],
-      listSeries: [],
-      scrollLeftPosition: 0,
-      scrollLeftMax: 1,
-      windowWidth: null,
-      sortByNameBool: false,
-      sortByDateBool: false,
-    }
+  state = {
+    expandedDiv: '',
+    selectedCategories: [],
+    listSeries: [],
+    scrollLeftPosition: 0,
+    scrollLeftMax: 1,
+    sortByNameBool: false,
+    sortByDateBool: false,
   }
 
   componentDidMount() {
     const { data } = this.props;
-    this.setState({ listSeries: this.dataIntoArray(data), windowWidth: this.getWidth() })
-    window.addEventListener('resize', this.handleWindowSizeChange);
+    console.log('data', data)
+    this.setState({ listSeries: this.dataIntoArray(data) })
+    // this.sortSeriesByPopularity()
   }
 
-  componentWillUnmount() {
-    window.removeEventListener('resize', this.handleWindowSizeChange);
-    this.sortSeriesByPopularity()
-  }
-
-  dataIntoArray = data => (Object.values(data).filter(x => x !== 'Seriler'))
-
-  getWidth = () => {
-    if (typeof (window.innerWidth) === 'number') {
-      // Non-IE
-      return window.innerWidth;
-    } if (document.documentElement
-      && (document.documentElement.clientWidth || document.documentElement.clientHeight)) {
-      // IE 6+ in 'standards compliant mode'
-      return document.documentElement.clientWidth;
-    } if (document.body && (document.body.clientWidth || document.body.clientHeight)) {
-      // IE 4 compatible
-      return document.body.clientWidth;
-    }
-    return null
-  }
+  dataIntoArray = data => (Object.values(data).filter(x => x !== 'Sunucular'))
 
   handleLanguageChange = (value) => {
     const valueType = value === 'Turkce' ? '0' : '1'
@@ -136,7 +116,7 @@ class SeriesList extends Component {
     if (sortByDateBool) {
       dataToSort = listSeries
     }
-    const res = Object.values(dataToSort).filter(x => x !== 'Seriler').sort((a, b) => {
+    const res = Object.values(dataToSort).filter(x => x !== 'Sunucular').sort((a, b) => {
       const atitle = a.node.frontmatter.title
       const btitle = b.node.frontmatter.title
       if (atitle > btitle) {
@@ -204,7 +184,7 @@ class SeriesList extends Component {
     if (sortByNameBool) {
       dataToSort = listSeries
     }
-    const res = Object.values(dataToSort).filter(x => x !== 'Seriler').sort((a, b) => {
+    const res = Object.values(dataToSort).filter(x => x !== 'Sunucular').sort((a, b) => {
       const episodesInfoA = a.node.frontmatter.episodes || []
       const episodesInfoB = b.node.frontmatter.episodes || []
       const aepisodes = episodesInfoA
@@ -229,14 +209,6 @@ class SeriesList extends Component {
     this.setState(() => ({ scrollLeftMax, scrollLeftPosition: elem.scrollLeft }));
   }
 
-  handleWindowSizeChange = () => {
-    let widthValue
-    if (typeof (window.innerWidth) === 'number') {
-      widthValue = window.innerWidth
-    }
-    this.setState({ windowWidth: widthValue });
-  };
-
   render() {
     const {
       expandedDiv,
@@ -244,100 +216,62 @@ class SeriesList extends Component {
       listSeries,
       scrollLeftMax,
       scrollLeftPosition,
-      windowWidth,
       sortByNameBool,
       sortByDateBool,
     } = this.state;
-    const { hosts, hostList } = this.props
-    const renderSeries = []
-    const isMobile = windowWidth <= 1305;
+    const { hosts, hostList, data } = this.props
+    const renderHosts = []
     for (let i = 0; i < listSeries.length; i += 1) {
-      const { frontmatter, fields } = listSeries[i].node
+      const { frontmatter, fields } = hosts[i].node
       if (i.toString() === expandedDiv) {
-        if (isMobile) {
-          const nextFields = listSeries[i + 1].node.fields
-          const nextFronmatter = listSeries[i + 1].node.frontmatter
-          renderSeries.push(
+        if (i % 2 === 0 && hosts.length > 1 && !!hosts[i + 1]) {
+          const nextFields = hosts[i + 1].node.fields
+          const nextFronmatter = hosts[i + 1].node.frontmatter
+          renderHosts.push(
             <React.Fragment>
-              <SerieCard
+              <HostCard
                 handleClick={this.handleCardClick}
                 key={i}
                 frontmatter={frontmatter}
                 slug={fields.slug}
                 value={i}
-              />
-              <SerieInfo
-                slug={fields.slug}
-                handleCardCloseClick={this.handleCardCloseClick}
-                frontmatter={frontmatter}
                 hosts={hosts}
               />
-              <SerieCard
+              <HostCard
                 handleClick={this.handleCardClick}
                 key={i + 1}
                 frontmatter={nextFronmatter}
                 slug={nextFields.slug}
                 value={i + 1}
-              />
-            </React.Fragment>,
-          )
-          i += 1
-        } else if (i % 2 === 0 && listSeries.length > 1 && !!listSeries[i + 1]) {
-          const nextFields = listSeries[i + 1].node.fields
-          const nextFronmatter = listSeries[i + 1].node.frontmatter
-          renderSeries.push(
-            <React.Fragment>
-              <SerieCard
-                handleClick={this.handleCardClick}
-                key={i}
-                frontmatter={frontmatter}
-                slug={fields.slug}
-                value={i}
-              />
-              <SerieCard
-                handleClick={this.handleCardClick}
-                key={i + 1}
-                frontmatter={nextFronmatter}
-                slug={nextFields.slug}
-                value={i + 1}
-              />
-              <SerieInfo
-                slug={fields.slug}
-                handleCardCloseClick={this.handleCardCloseClick}
-                frontmatter={frontmatter}
                 hosts={hosts}
               />
             </React.Fragment>,
           )
           i += 1
         } else {
-          renderSeries.push(
+          renderHosts.push(
             <React.Fragment>
-              <SerieCard
+              <HostCard
                 handleClick={this.handleCardClick}
                 key={i}
                 frontmatter={frontmatter}
                 slug={fields.slug}
                 value={i}
-              />
-              <SerieInfo
-                slug={fields.slug}
-                handleCardCloseClick={this.handleCardCloseClick}
-                frontmatter={frontmatter}
                 hosts={hosts}
               />
             </React.Fragment>,
           )
         }
       } else {
-        renderSeries.push(
+        renderHosts.push(
           <React.Fragment>
-            <SerieCard
+            <HostCard
               handleClick={this.handleCardClick}
               key={i}
               frontmatter={frontmatter}
               slug={fields.slug}
               value={i}
+              hosts={hosts}
             />
           </React.Fragment>,
         )
@@ -345,38 +279,6 @@ class SeriesList extends Component {
     }
     return (
       <div className="Series">
-        <div className="SeriesListCategories" onScroll={this.handleScroll}>
-          { scrollLeftPosition > 20 && scrollLeftPosition <= scrollLeftMax
-          && (
-          <div className="categoryArrowLeft">
-            <button
-              type="button"
-              style={{
-                background: `url(${rightArrow}) no-repeat`,
-                backgroundSize: 'contain',
-                border: 'none',
-              }}
-              className="left-arrow"
-            />
-          </div>
-          )}
-          <Categories onClick={this.handleCategoryClick} selectedCategories={selectedCategories} />
-          { scrollLeftPosition < scrollLeftMax
-          && (
-          <div className="categoryArrowRight">
-            <button
-              type="button"
-              style={{
-                background: `url(${rightArrow}) no-repeat`,
-                backgroundSize: 'contain',
-                border: 'none',
-              }}
-              className="right-arrow"
-            />
-          </div>
-          )}
-        </div>
-
         <div className="SeriesListSortAndFilter">
           <button
             value="title"
@@ -386,22 +288,23 @@ class SeriesList extends Component {
           >
             Program İsmi
           </button>
-          <button
+          {/* <button
             value="date"
             onClick={this.handleSortByDateClick}
             type="button"
             className={sortByDateBool ? 'SortButton active' : 'SortButton'}
           >
             Tarih
-          </button>
-          <Dropdown handleLanguageChange={this.handleLanguageChange} list={['Dil', 'Turkce', 'English']} />
+          </button> */}
+          {/* <Dropdown handleLanguageChange=
+            {this.handleLanguageChange} list={['Dil', 'Turkce', 'English']} /> */}
           <Dropdown handleTargetChange={this.handleTargetChange} list={['Hedef Kitle', 'Herkes', 'Çocuk', 'Genç', 'Yetişkin']} />
           {/* <Dropdown handleHostChange={this.handleHostChange} list={hostList} /> */}
           <input onChange={this.handleTextChange} className="Nav--Search filter" type="text" />
         </div>
         <div className="SeriesContainer">
           {
-            renderSeries.map(x => x)
+            renderHosts.map(x => x)
           }
         </div>
       </div>
@@ -409,7 +312,7 @@ class SeriesList extends Component {
   }
 }
 
-SeriesList.propTypes = {
+HostsList.propTypes = {
   data: PropTypes.any,
   hosts: PropTypes.any,
   hostList: PropTypes.any,
@@ -417,4 +320,4 @@ SeriesList.propTypes = {
 
 export default connect(state => ({
   test: state,
-}), null)(SeriesList)
+}), null)(HostsList)
