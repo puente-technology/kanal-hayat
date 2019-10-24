@@ -83,7 +83,11 @@ export default (isLiveStream) => {
           }
         })
         return (
-          <LiveNowC eventList={eventData} dispatch={liveBool.dispatch} isLiveStream={liveBool.isLiveStream} />
+          <LiveNowC
+            eventList={eventData}
+            dispatch={liveBool.dispatch}
+            isLiveStream={liveBool.isLiveStream}
+          />
 
         )
       }
@@ -154,7 +158,7 @@ export const LiveNowC = (props) => {
             const { seriesInfo, time } = item
             return (
               <div className="LiveNow--Item" key={i} style={{ paddingTop: isLiveStream && 28, fontSize: isLiveStream && 14 }}>
-                <span className={`Item-Header ${i === 0 ? 'now' : ''}`} style={{ fontSize: isLiveStream && 14 }} >
+                <span className={`Item-Header ${i === 0 ? 'now' : ''}`} style={{ fontSize: isLiveStream && 14 }}>
                   {`${seriesInfo.serieNames.series.value}${i === 0 ? '(ŞİMDİ)' : ''}`}
                 </span>
                 <span className={`Item-SubHeader ${i === 0 ? 'now' : ''}`}>
@@ -163,7 +167,8 @@ export const LiveNowC = (props) => {
                 <div className={`Item-Time ${i === 0 ? 'now' : ''}`} style={{ fontSize: isLiveStream && 24 }}>
                   {time.startTime}
                   {
-                    i === 0 && !isLiveStream && <button onClick={handleChange} type="button" style={{ width: isLiveStream && 90 }}>Canlı İzle</button>
+                    i === 0 && !isLiveStream
+                    && <button onClick={handleChange} type="button" style={{ width: isLiveStream && 90 }}>Canlı İzle</button>
                   }
                 </div>
               </div>

@@ -1,5 +1,5 @@
 /* eslint-disable react/jsx-no-bind */
-import React, { PureComponent }  from 'react';
+import React, { PureComponent } from 'react';
 import { StaticQuery, graphql } from 'gatsby'
 import PropTypes from 'prop-types';
 import Nav from './Nav';

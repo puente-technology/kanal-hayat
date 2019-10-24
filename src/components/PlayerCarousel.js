@@ -40,7 +40,6 @@ class Carousel extends Component {
     }
     return null
   }
-  
 
   generateItems() {
     const { frontmatter, handleVideoUrlChange } = this.props
