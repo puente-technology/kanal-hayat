@@ -14,17 +14,21 @@ class SeriesList extends Component {
   constructor(props) {
     super(props)
     this.myRef = React.createRef();
-  }
 
-  state = {
-    expandedDiv: '',
-    selectedCategories: [],
-    listSeries: [],
-    scrollLeftPosition: 0,
-    scrollLeftMax: 1,
-    windowWidth: typeof (window.innerWidth) === 'number' ? window.innerWidth : '',
-    sortByNameBool: false,
-    sortByDateBool: false,
+    let widthValue
+    if (typeof (window.innerWidth) === 'number') {
+      widthValue = window.innerWidth
+    }
+    this.state = {
+      expandedDiv: '',
+      selectedCategories: [],
+      listSeries: [],
+      scrollLeftPosition: 0,
+      scrollLeftMax: 1,
+      windowWidth: widthValue,
+      sortByNameBool: false,
+      sortByDateBool: false,
+    }
   }
 
   componentDidMount() {
