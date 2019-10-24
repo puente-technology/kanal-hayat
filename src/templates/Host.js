@@ -68,7 +68,7 @@ class Host extends PureComponent {
           <Nav color="light" />
         </div>
         <div className="HostDescription">
-          <Content source={frontmatter.html} />
+          {frontmatter.html}
         </div>
         <div className="HostSeries">
           <span className="HostTile">
