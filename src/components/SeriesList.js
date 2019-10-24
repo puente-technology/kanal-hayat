@@ -30,6 +30,7 @@ class SeriesList extends Component {
   componentDidMount() {
     const { data } = this.props;
     this.setState({ listSeries: this.dataIntoArray(data), windowWidth: this.getWidth() })
+    this.sortSeriesByPopularity()
     window.addEventListener('resize', this.handleWindowSizeChange);
   }
 
