@@ -12,7 +12,7 @@ import { toggleDarkMode } from '../state/app';
 import './LiveNow.scss'
 import { sortTimeString } from '../utils/utils';
 
-export default ({ isLiveStream }) => {
+export default (isLiveStream) => {
   return (
     <StaticQuery
       query={graphql`
@@ -20,9 +20,20 @@ export default ({ isLiveStream }) => {
       allMarkdownRemark(filter: {frontmatter: {template: {eq: "EventsPage"}}}) {
         nodes {
           frontmatter {
+            title
             eventList {
-              subtitle
-              title
+              seriesInfo {
+                serieNames {
+                  series {
+                    label
+                    value
+                  }
+                  subtitles {
+                    label
+                    value
+                  }
+                }
+              }
               time {
                 days
                 startTime
@@ -37,9 +48,19 @@ export default ({ isLiveStream }) => {
           node {
             frontmatter {
               title
-            eventList {
-              title
-              subtitle
+              eventList {
+                seriesInfo {
+                  serieNames {
+                    series {
+                      label
+                      value
+                    }
+                    subtitles {
+                      label
+                      value
+                    }
+                  }
+              }
               time {
                 days
                 startTime
@@ -53,6 +74,7 @@ export default ({ isLiveStream }) => {
     }
     `}
       render={(data) => {
+        const liveBool = isLiveStream
         let eventData
         data.mdfiles.edges.map((obj) => {
           const time = moment(obj.node.frontmatter.title, 'YYYY MM DD')
@@ -61,7 +83,7 @@ export default ({ isLiveStream }) => {
           }
         })
         return (
-          <LiveNowC eventList={eventData} isLiveStream />
+          <LiveNowC eventList={eventData} dispatch={liveBool.dispatch} isLiveStream={liveBool.isLiveStream} />
 
         )
       }
@@ -128,22 +150,25 @@ export const LiveNowC = (props) => {
       <div className="LiveNow--Line" />
       <div className="LiveNow--Events">
         {
-          filteredList.map((item, i) => (
-            <div className="LiveNow--Item" key={i} style={{ paddingTop: isLiveStream && 28, fontSize: isLiveStream && 14 }}>
-              <span className={`Item-Header ${i === 0 ? 'now' : ''}`} style={{ fontSize: isLiveStream && 14 }}>
-                {`${item.title}${i === 0 ? '(ŞİMDİ)' : ''}`}
-              </span>
-              <span className={`Item-SubHeader ${i === 0 ? 'now' : ''}`}>
-                {item.subtitle}
-              </span>
-              <div className={`Item-Time ${i === 0 ? 'now' : ''}`} style={{ fontSize: isLiveStream && 24 }}>
-                {item.time.startTime}
-                {
-                  i === 0 && !isLiveStream && <button onClick={handleChange} type="button" style={{ width: isLiveStream && 90 }}>Canlı İzle</button>
-                }
+          filteredList.map((item, i) => {
+            const { seriesInfo, time } = item
+            return (
+              <div className="LiveNow--Item" key={i} style={{ paddingTop: isLiveStream && 28, fontSize: isLiveStream && 14 }}>
+                <span className={`Item-Header ${i === 0 ? 'now' : ''}`} style={{ fontSize: isLiveStream && 14 }} >
+                  {`${seriesInfo.serieNames.series.value}${i === 0 ? '(ŞİMDİ)' : ''}`}
+                </span>
+                <span className={`Item-SubHeader ${i === 0 ? 'now' : ''}`}>
+                  {seriesInfo.serieNames.subtitles.value}
+                </span>
+                <div className={`Item-Time ${i === 0 ? 'now' : ''}`} style={{ fontSize: isLiveStream && 24 }}>
+                  {time.startTime}
+                  {
+                    i === 0 && !isLiveStream && <button onClick={handleChange} type="button" style={{ width: isLiveStream && 90 }}>Canlı İzle</button>
+                  }
+                </div>
               </div>
-            </div>
-          ))
+            )
+          })
         }
       </div>
     </div>

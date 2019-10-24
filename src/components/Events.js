@@ -60,8 +60,6 @@ class Events extends Component {
     const elem = e.target;
     const scrollLeftMax = elem.scrollWidth - elem.clientWidth;
     this.setState(() => ({ scrollLeftMax, scrollWeekPosition: elem.scrollLeft }));
-    // console.log('onScroll', elem.clientWidth);
-    // console.log('onScroll', elem.scrollLeft, elem.scrollHeight, elem.scrollWidth);
   }
 
   render() {
@@ -69,8 +67,7 @@ class Events extends Component {
     const { dispatch } = this.props
     // console.log('State', this.state)
     const timeNow = new Date().toLocaleString();
-    // console.log('Time Now', timeNow)
-    // console.log('Scroll Event Week Position : ', scrollWeekPosition, scrollLeftMax);
+
     return (
       <React.Fragment>
         <LiveNowC dispatch={dispatch} eventList={this.filteredList} />
@@ -144,12 +141,12 @@ class Events extends Component {
           <div className="Event-SubContainer">
             {
               this.filteredList && this.filteredList.map((item, i) => {
+                const { seriesInfo, time } = item
                 const today = new Date();
                 const startDay = new Date();
                 startDay.setDate(today.getDate() - (today.getDay() - activeDay))
-                const itemStartTime = `${new Date(startDay).toLocaleDateString()} ${item.time.startTime}`
-                const itemEndTime = `${new Date(startDay).toLocaleDateString()} ${item.time.endTime}`
-
+                const itemStartTime = `${new Date(startDay).toLocaleDateString()} ${time.startTime}`
+                const itemEndTime = `${new Date(startDay).toLocaleDateString()} ${time.endTime}`
                 const isNow = (itemStartTime <= timeNow && itemEndTime > timeNow)
                 return (
                   <div key={i} className="Event-Programme">
@@ -158,14 +155,14 @@ class Events extends Component {
                       <div className="Event-BlueDot" />
                     </div>
                     <div className={`Event-Time ${isNow ? 'active' : ''}`}>
-                      {item.time.startTime}
+                      {time.startTime}
                     </div>
                     <div className={`Event-Name ${isNow ? 'active' : ''}`}>
                       <p className="Event-Title">
-                        {item.title}
+                        {seriesInfo.serieNames.series.value}
                       </p>
                       <p className="Event-Subtitle">
-                        {item.subtitle}
+                        {seriesInfo.serieNames.subtitles.value}
                       </p>
                     </div>
                   </div>

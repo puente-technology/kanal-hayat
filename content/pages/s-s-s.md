@@ -7,12 +7,24 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık..İsa Mesih’i özel kılan tam olarak nedir? İncil’de İsa
-      Mesih hangi kimliklere sahiptir?  İsa Mesih yaptığı mucizeler ve
-      belirtileri kimin gücüyle yaptı? Tanrı'nın Oğlu Ne demektir? Aşağıdaki
-      programlarımızı izleyerek aklınıza takılan sorulara cevap
-      bulabilirsiniz.Esen Kalın.
-    question: İsa Mesih Kimdir?
+      için yanıtladık.. Aşağıdaki programlarımızı izleyerek aklınıza takılan
+      sorulara cevap bulabilirsiniz. İsa Mesih'in Tanrı Oğlu olarak
+      adlandırılması Hristiyanlar tarafından ortaya konan bir şey değildir. Bunu
+      ortaya koyan Kutsal Kitap'tır. Kutsal Kitap'ın bir çok yerinde İsa Mesih
+      bu adla tanıtılır. Tanrı Oğlu sıfatı fiziksel değil ruhsal bir sıfattır.
+      Dolayısıyla halkımız arasında süregelen ve kulaktan dolma bilgiler olan
+      Tanrı Oğlu kavramı hakkındaki diğer görüşleri kesinlikle reddederiz. 
+      "Melek ona, "Korkma Meryem” dedi, "Sen Tanrı`nın lütfuna eriştin. Bak,
+      gebe kalıp bir oğul doğuracak, adını İsa koyacaksın. O büyük olacak,
+      kendisine `Yüceler Yücesi`nin Oğlu` denecek.  Meryem meleğe, "Bu nasıl
+      olur? Ben erkeğe varmadım ki” dedi. Melek ona şöyle yanıt verdi: "Kutsal
+      Ruh senin üzerine gelecek, Yüceler Yücesi`nin gücü sana gölge salacak.
+      Bunun için doğacak olana kutsal, Tanrı Oğlu denecek." (Luka 1.Bölüm) Esen
+      Kalın.
+    question: >-
+      İsa Mesih'e Neden Tanrı Oğlu Diyorsunuz ? İsa Mesih’i özel kılan tam
+      olarak nedir? İsa Mesih yaptığı mucizeleri ve belirtileri kimin gücüyle
+      yaptı? 
     videos:
       - guests: .
         host: Hakan Taştan ile
@@ -191,9 +203,18 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık.Teslis Nedir? Nereden Çıktı Bu "Üçlü Birlik"(Teslis)?
-      Hristiyanlar üç Tanrı'ya mı inanıyor? 
-    question: Tevhid'te Teslis - Üçlü Birlik Nedir?
+      için yanıtladık. Bizler üç Tanrı'ya değil, tüm evreni Söz'üyle yaratmış
+      tek bir Tanrı'ya inanıyoruz. Yüce Tanrı, Kendi doğaüstü varlığını bize üç
+      kişilikte göstermiştir. Tanrı, öz varlığında ezelden ebediyete kadar var
+      olan, uyum ve birlik içerisinde hareket eden üç ayrı kişisel benlikten
+      ibaret olup bir bütün olarak görünmektedir: Baba, Oğul ve Kutsal Ruh. Bu
+      konu her ne kadar karışık gibi gözükse de asıl karışıklık yaratan şey,
+      sonsuz ve sınırsız bir Tanrı'yı kendi sınırlı beynimizin düşünce yapısına
+      göre betimlemektir. Matta 28:19'daki ayete baktığımızda İsa Mesih'in
+      kendini Baba ve Kutsal Ruh'la beraber tek bir kişi olarak belirttiğini
+      görürüz: "Bu nedenle gidin, bütün ulusları öğrencilerim olarak yetiştirin;
+      onları Baba, Oğul ve Kutsal Ruh`un adıyla vaftiz edin." Esen Kalın.
+    question: Üç Tanrı'ya Mı İnanıyoruz? Tevhid'te Teslis - Üçlü Birlik Nedir?
     videos:
       - guests: .
         host: Ahmet Güvener ile
@@ -288,8 +309,18 @@ questions:
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
       için yanıtladık. İncil Değiştirildi mi ve Kaç İncil Var? İncil'i Papazlar
       mı değiştirdi? Tanrı sözünü koruyamadı mı? Aşağıdaki programlarımızı
-      izleyebilirsiniz.Esen Kalın.
-    question: İncil Değiştirildi mi?
+      izleyebilirsiniz.Esen Kalın.Bugüne kadar bu iddiayı doğrulayacak en ufak
+      bir kanıt bile gösterilememiştir. İncil, Tanrı Sözü'dür ve böylesi bir
+      kitabın değiştirildiğinin iddia edilebilmesi için çok sağlam kanıtlar
+      ortaya konulmalıdır. İncil'in binlerce tarihi elyazmaları günümüzde
+      mevcuttur ve elimizdeki İncil'den farklı değillerdir. Bugün arkeoloji
+      müzelerinde 5.000'den fazla Grekçe elyazmaları İncil metni ve 9.000'den
+      fazla farklı dillere çevrilmiş İncil elyazmaları vardır.  "Kutsal Yasa`yı
+      ya da peygamberlerin sözlerini geçersiz kılmak için geldiğimi sanmayın.
+      Ben geçersiz kılmaya değil, tamamlamaya geldim. Size doğrusunu söyleyeyim,
+      yer ve gök ortadan kalkmadan, her şey gerçekleşmeden, Kutsal Yasa`dan
+      ufacık bir harf ya da bir nokta bile yok olmayacak." (Matta 5:17-18)
+    question: İncil'in Değiştirildi Doğru mu ?
     videos:
       - guests: .
         host: Can Nuroğlu ile
@@ -368,9 +399,23 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Kutsal Ruh nedir? Kutsal Ruh Tanrı mı?  Kutsal Ruh
-      öğretir mi ? Kutsal Ruhun amacı nedir? Aşağıdaki programlarımızı
-      izleyerek  detaylı bilgi edinebilirsiniz.Esen Kalın.
+      için yanıtladık. İbranice’de Kutsal Ruh’u anlatan kelime, “Ruakh” olarak
+      geçer ve enerji, nefes, rüzgar anlamına gelir. Durmayan, sürekli hareket
+      eden, yaratan, kontrol edilemeyen,  kısıtlanamayan bir güç.  Geçmişe
+      baktığımızda işleyişini ilk nerelerde görebiliriz? Tabi ki her şeyin
+      başında, Yaratılış’ın ilk paragrafında görebiliriz. Yaratılış 2’de, “Yer
+      boştu, yeryüzü şekilleri yoktu; engin karanlıklarla kaplıydı. Tanrı’nın
+      Ruhu suların üzerinde hareket ediyordu.” diye yazılmıştır. İşte Kutsal
+      Ruh; bu kaosun, boşluğun, biçimsizliğin içinden yaşam, düzen ve güzellik
+      yaratan Tanrı’nın Ruhu’dur.Kutsal Ruh Yaratılış’ta kaostan, boşluktan ve
+      biçimsizlikten; yaşam, düzen ve güzellik yaratıp şekillendirmişti. Şimdi
+      de doğrudan insana yaşam, düzen ve güzellik verip şekillendiriyor. Sonunda
+      her şeyi yenileyecekti. Peki nasıl yapacaktı bunu?  2000 yıl önce yemlikte
+      doğup büyüyen İsa’yı görüyoruz. Hizmetine başlamadan önce vaftiz olurken,
+      Kutsal Ruh’un bir güvercin gibi O’nun üzerine indiğini görüyoruz. Hem
+      Tanrı hem insan olan İsa’da, Tanrı’nın asıl amacını görebiliyoruz. İsyan
+      ve günahlarımızla bozduğumuz ve çürüttüğümüz her şeyi, işte İsa Mesih
+      aracığıyla Ruh yeniliyor ve şekillendiriyor.Esen Kalın.
     question: Kutsal Ruh Nedir?
     videos:
       - guests: .
@@ -442,7 +487,7 @@ questions:
           title: 11. Bölüm Kutsal Ruh'a Nasıl Sahip Olabiliriz?
           url: 'https://www.youtube.com/watch?v=kFqoAbWGToo'
           viewCount: '6633'
-  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. .Hristiyan ahlakı ve ibadeti nedir? Hristiyanların evliliğe bakış açılarını merak ediyorum? Hristiyanların yalana bakış açısını merak ediyorum? Hristiyanların günaha bakış açısını merak ediyorum? Aşağıdaki programları izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.'
+  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. Hristiyanlar kendi doğruluklarıyla değil, Tanrı''nın lütfuyla aklanmış  olan kutsallardır. Mesih İsa Hristiyanların önderi ve rehberidir. Hristiyanlar içlerinde bulunan Kutsal Ruh''un yardımıyla gün ve gün Mesih''e benzer olmak üzere değişirler. Bu değişim Mesih''e bakarak ve O''nda kavuşmuş oldukları yeni doğaya fark ederek gerçekleşir. Hristiyan ahlakının temelinde Mesih benim yerimde olsa ne yapardı sorusunun yanıtı yatar.  Hristiyanlar yaşamlarıyla İsa Mesih''i bu dünyadaki diğer insanlara yansıtır ve tanıtırlar. Kutsallık, Mesih''in lütfu aracılığıyla iman edildiğinde birden kavuşulan ama buna uygun düzeyde bir yaşam sürmek için bir yaşam boyu süren bir değişimdir. Kişi Mesih''in lütfu aracılığıyla  kavuşmuş olduğu kutsallığı, yani yeni doğasını fark ettikçe bu değişim hızlanır. Değişimin güç kaynağı Kutsal Ruh''tur. Esen Kalın.'
     question: Hristiyan Ahlakı ve İbadeti Nasıldır?
     videos:
       - guests: .
@@ -521,9 +566,26 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Hristiyanlar nasıl dua ediyorlar? Hristiyanlar kime dua
-      ediyor? Gerçek dua nasıl ediliyor? Aşağıdaki programlarımızı izleyerek
-      detaylı bilgi edinebilirsiniz.Esen Kalın.
+      için yanıtladık. Aşağıdaki programlarımızı izleyerek detaylı bilgi
+      edinebilirsiniz.  Dua Rab’bi çağırmak ve O’nunla konuşmaktır. Muhtaç
+      durumumuzu ona bildirmektir. İsa aracılığıyla Tanrı ile
+      barıştırıldığımızda Kendisiyle olan dostluğumuzu ihmal etmemeliyiz.
+      O’nunla zaman geçirmeliyiz. Bize söylemek istediklerini dinlemeyi
+      öğrenmeliyiz. Bütün varlığı yaratan ve onlarla irtibata geçmek için
+      kendini açıklamış olan Tanrı’yla ruhsal bir cevaptır dua. Duanın kapsamı
+      yalnızca Tanrı’yla konuşmayı içermemektedir. Tanrı’yı çağırmak ve O’nunla
+      dertleşmek, sonra O’ndan ruhsal anlamda cevaplar beklemek, hiçbir söz
+      söylemeden, yürek derinliğinden O’nu yüceltmek O’na tapınmak ve bütün
+      gereksinimlerimizi O’ndan istemektir de.“Dua ettiğinizde putperestler gibi
+      putperestler gibi boş sözler tekrarlayıp durmayın. Onlar söz kalabalığıyla
+      seslerini duyurabileceklerini sanırlar. Siz onlara benzemeyin. Çünkü
+      Babanız nelere gereksiniminiz olduğunu daha siz O’ndan dilemedene önceden
+      bilir. Bunun için siz şöyle dua edin : Göklerdeki Babamız; Adın kutsal
+      kılınsın. Egemenliğin gelsin. Gökte olduğu gibi yeryüzünde de Senin
+      istediğin olsun. Bu gün bize gündelik ekmeğimizi ver. Bize karşı suç
+      işleyenleri bağışladığımız gibi Sen de bizim suçlarımızı bağışla.
+      Ayartılmamıza izin verme. Kötü olandan bizi kurtar. Çünkü egemenlik, güç
+      ve yücelik Sonsuzlara dek senindir, Amin Matta 6:7-13 Esen Kalın.
     question: Hristiyanlık'ta Nasıl Dua Edilir?
     videos:
       - guests: .
@@ -602,7 +664,7 @@ questions:
           title: Hristiyanlık Şeriatı - Seçilmişlik ve Dua
           url: 'https://www.youtube.com/watch?v=WxBiFjMSpDg'
           viewCount: '492'
-  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. .Hristiyanlıkta evlilik nasıldır? Hristiyanlık’ta evlilik ve aile olgusu nasıldır? İncil evlilik hakkında neler söylüyor? aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz..Esen Kalın.'
+  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. İncil Efesliler bölümündeki ayetler Kutsal Kitap’a uygun başarılı bir evliliğe kaynak olarak epey derindir. “Ey kadınlar, Rab’be bağımlı olduğunuz gibi, kocalarınıza bağımlı olun. Çünkü Mesih bedenin kurtarıcısı olarak kilisenin başı olduğu gibi, erkek de kadının başıdır” (Efesliler 5:22-23). “Ey kocalar, Mesih kiliseyi nasıl sevip onun uğruna kendini feda ettiyse, siz de karılarınızı öyle sevin” (Efesliler 5:25). “Aynı biçimde kocalar da karılarını kendi bedenleri gibi sevmelidir. Karısını seven kendini sever. Hiç kimse hiçbir zaman kendi bedeninden nefret etmemiştir. Tersine, onu besler ve kayırır; tıpkı Mesih’in kiliseyi besleyip kayırdığı gibi” (Efesliler 5:28-29). “Bunun için adam annesini babasını bırakıp karısına bağlanacak, ikisi tek beden olacak” (Efesliler 5:31).  İmanlı bir karı koca Tanrı’nın ilkelerini hayatlarında uyguladıklarında evlilikleri Kutsal Kitap’a uygun olur. Kutsal Kitap’a uygun bir evlilik, hem erkeğin ve hem de kadının başının Mesih olduğu dengeli bir evliliktir. Kutsal Kitap’taki evlilik kavramı, iki bireyin Mesih’in kilisesiyle birliğini gösteren birliğidir.Esen Kalın.'
     question: 'Hristiyanlıkta Evlilik '
     videos:
       - guests: .
@@ -689,7 +751,12 @@ questions:
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
       için yanıtladık. .İznik Konseyinde ne oldu? İznik Konsili'nde Neler
       Yaşandı? (İncil Sallama Olayının Perde Arkası) Aşağıdaki programlarımızı
-      izleyerek detaylı bilgi edinebilirsiniz.Esen Kalın.
+      izleyerek detaylı bilgi edinebilirsiniz. Tarihsel kaynaklara göre İznik
+      Konseyine katılan kişiler sadece Mesih İsa'nın Tanrılığını tartışmak için
+      toplanmışlardır. İznik Konseyinde asla İncil metinlerinin doğruluğu ve
+      gerçekliği tartışılmadı. Bu konseye katılanlar arasında İncil metni ya da
+      içeriği konusunda herhangi bir ihtilafın olduğu kesinlikle
+      kaydedilmemiştir. Esen Kalın.
     question: 'İznik Konseyinde Neler oldu? '
     videos:
       - guests: .
@@ -862,10 +929,14 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Hristiyanlıkta kurtuluş kesin mi? İman ettiğimde
-      kurtulacağımı nasıl bilebilirim? Kurtuluş için bir şey yapmam gerekiyor
-      mu? Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen
-      Kalın.
+      için yanıtladık. İncil Romalılar 10:8 ayette belirtildiği gibi "Ne
+      deniyor? “Tanrı sözü sana yakındır, Ağzında ve yüreğindedir.” İşte
+      duyurduğumuz iman sözü budur.İsa’nın Rab olduğunu ağzınla açıkça söyler ve
+      Tanrı’nın O’nu ölümden dirilttiğine yürekten iman edersen, kurtulacaksın.
+      Çünkü insan yürekten iman ederek aklanır, imanını ağzıyla açıklayarak
+      kurtulur.Kutsal Yazı, “O’na iman eden utandırılmayacak” diyor.Çünkü Yahudi
+      Grek ayrımı yoktur, aynı Rab hepsinin Rabbi’dir. Kendisini çağıranların
+      tümüne eliaçıktır. “Rab’bi adıyla çağıran herkes kurtulacak.”"
     question: Mesih'te kurtuluş kesin mi ? Kurtuluş için bir şey yapmam gerekiyor mu?
     videos:
       - guests: .
@@ -980,8 +1051,20 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Vaftiz Nedir? İman ettim ama vaftiz olmasam olur mu ?
-      Vaftiz mi bizi kurtarıyor? İsa Mesih vaftiz oldu mu ?
+      için yanıtladık. Hristiyanlık’ta vaftiz kavramını sürekli duyarız.
+      Hristiyanlığın en önemli ritüellerinden birisidir vaftizdir. Peki vaftiz
+      nedir? Nereden gelir? Hristiyanlar neden vaftiz olurlar?  Hristiyanlığın
+      temel vurgusu, günahlarımızın sonucu olarak Tanrı ile bozulmuş olan
+      ilişkilerimizin, İsa Mesih’in çarmıh üzerindeki kefareti ile onarılması,
+      barışın sağlanması ve günaha olan köleliğimizin sona erdirilmesidir ve
+      vaftiz bu inancın en önemli dışavurumudur. Vaftiz olmanın öneminin
+      yanında, İsa Mesih’in son buyruğu olduğu için çok önemlidir. İsa Mesih
+      göğe yükselmeden önce öğrencilerine şöyle buyurmuştur:  “Gökte ve
+      yeryüzünde bütün yetki bana verildi. Bu nedenle gidin, bütün ulusları
+      öğrencilerim olarak yetiştirin; onları Baba, Oğul ve Kutsal Ruh’un adıyla
+      vaftiz edin; size buyurduğum her şeye uymayı onlara öğretin. İşte ben,
+      dünyanın sonuna dek her an sizinle birlikteyim.” (Matta 28:18-20) Esen
+      Kalın.
     question: Vaftiz Nedir? İman Ettim Vaftiz Olmam Gerekiyor Mu?
     videos:
       - guests: .
@@ -1040,8 +1123,26 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Hristiyanlıkta kurban var mı ? Son kurban nedir? İsa
-      Mesih neden çarmıha gitti?
+      için yanıtladık.Adem ile Havva’nın, Aden Bahçesi’nde Tanrı’ya itaatsizlik
+      edip, ‘iyi ile kötüyü bilme’ ağacının meyvesinden yemesiyle, insan günaha
+      düşmüş oldu. Böylece insan doğasına, ‘günahlı’ bir doğa dahil oldu. İnsan
+      ilk yaratıldığı haldeki gibi kusursuz ve günahsız olan niteliklerini
+      kaybetti. Dahası, insanın günahlı doğaya sahip olmasıyla birlikte, Tanrı
+      ile arasındaki ilişki de bozuldu. “Adem, ‘Bahçede sesini duyunca korktum.
+      Çünkü çıplaktım, bu yüzden gizlendim’ dedi. RAB Tanrı, ‘Çıplak olduğunu
+      sana kim söyledi?’ diye sordu, ‘Sana meyvesini yeme dediğim ağaçtan mı
+      yedin?’” (Yaratılış 3:11-12)  Bundan sonra Yaratılış 3. bölümde Tanrı’nın
+      bir kurban kestiğini ve bu kurbanın derisinden Adem ile Havva için
+      giysiler yapıp onları giydirdiğini görüyoruz (bkz. Yaratılış 3:21).
+      Tanrı’nın insanın günahı için sağladığı kurban çarmıha gerilen İsa
+      Mesih’tir. Bunun dışındaki hiçbir kurban insanın günahını temiz kılamaz,
+      “Çünkü boğalarla tekelerin kanı günahları ortadan kaldıramaz.” (İbraniler
+      10:4) İlk kurbanı Tanrı kesmiştir ve bunu, ‘kurbanı’, Kendisinin tedarik
+      edeceğini belirtmek için yapmıştır. Son kurbanı da Tanrı kesmiştir, İsa
+      Mesih’in çarmıh üzerindeki ölümüyle insanın günahı temizlenmiş, üçüncü gün
+      ölümden dirilişiyle de günahın sonucu olan ölüm ortadan kalkmıştır. Artık
+      Tanrı’ya İsa Mesih’in kurbanı aracılığıyla yaklaşan hiç kimse üzerinde
+      günahın ve ölümün hükmü yoktur. Esen Kalın.
     question: Hristiyanlıkta kurban var mı ? Son kurban nedir?
     videos:
       - guests: .
@@ -1120,8 +1221,17 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Kilise Nedir? İman ettim kiliseye gitmem gerekiyor mu ?
-      İmanlı değilim kilise gidebilir miyim?
+      için yanıtladık. Aden Bahçesi’nde Adem ve Havva, ‘iyiyi ve kötüyü bilme
+      ağacı’ndan yediklerinde günah işlemiş oldular ve bu günahın en önemli
+      sonucu olarak Tanrı’dan ayrılmak zorunda kaldılar. Tanrı ile ilişkileri
+      bozuldu ve koptu. Çünkü Tanrı kutsaldır. İsa Mesih’in yeryüzüne gelme
+      amacı, insanların önce Tanrı’yla, sonra da birbirleriyle ilişkilerini
+      yenilemekti. Bunun için insanların günahlarından ve dolayısıyla
+      sonuçlarından kurtulmaları gerekiyordu. İsa Mesih çarmıhta işte tam da
+      bunu gerçekleştirdi. İsa Mesih’in öğrencisi olmanın en önemli getirisi,
+      Tanrı’yla devam eden ilişkimiz boyunca İsa Mesih benzerliğine
+      dönüşmemizdir. İşte gündelik hayatımızda böyle bir lütfu paylaşıp deneyim
+      edeceğimiz yerdir kilise.
     question: >-
       Kilise Nedir? İman ettim kiliseye gitmem gerekiyor mu ? İmanlı değilim
       kilise gidebilir miyim?
@@ -1206,7 +1316,17 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Günahlarımız nedir ? Kim Günahları bağışlayabilir? 
+      için yanıtladık. Günah deyince çoğumuzun aklına, Tanrı’nın kurallarına
+      uymama ya da iyi ve kötü arasında seçim yapma gibi konular gelir. Hatta
+      bunlardan adam öldürme ve zina gibi günahları büyük; yalan söyleme, yan
+      gözle bakma gibi günahları ise küçük günahlar olarak görürüz. Aslında bu
+      kendimizi aldatmaktır. Günah işleyen herkes günahın kölesi olmuştur ve
+      Tanrı’dan uzaklaşmıştır. Mesih’in dediği gibi:  35 “Köle ev halkının
+      sürekli bir üyesi değildir, ama oğul sürekli üyesidir. 36 Bunun için, Oğul
+      sizi özgür kılarsa, gerçekten özgür olursunuz.” İncil- (Yuhanna 8:34-36) 
+      Kutsal Kitap tercümesinde günah, “hedefe ulaşamama” manasına gelir. Tabi
+      ki buradaki, “hedef” Tanrı’nın bizim için belirlemiş olduğu standarttır ve
+      İsa Mesih bunu açığa çıkarmıştır.Esen Kalın.
     question: Günah nedir ? Kim Günahları bağışlayabilir?
     videos:
       - guests: Test
@@ -1358,8 +1478,16 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Rab'bin Sofrası / Komünyon nedir? Rab'bin Sofrası'nı
-      Nasıl ve Neden Kutlarız?
+      için yanıtladık. “Rabbin son akşam yemeği”, “ekmek kırmak”, “paylaşım”,
+      “sevgi veya agape şöleni” olarak da bilinen bu sofra, bizzat Rab İsa
+      tarafından tesis edilmiş ve yine bizzat Rab İsa tarafından yapılması
+      buyurulmuştur. (1Kor. 11:20-25). Bu sofranın anlamına gelince, ekmek ve
+      şarabı alan bir kimse bu hareketiyle, Rabbin kurtuluş sağlayan ölümünü
+      anar (1Kor. 11:24) , Tanrı'yla, Mesih'le ve kiliseyi teşkil eden
+      kardeşleriyle uyumda ve birlik içinde olduğunu beyan eder (1Kor. 10:17).
+      Aynı zamanda bu sofraya katılan, yine bununla dünya insanlarına Mesih'in
+      kendileri için öldüğünü ve O'nun yeniden dünyaya geleceğini ilan eder
+      (1Kor. 11:26).
     question: >-
       Rab'bin Sofrası / Komünyon nedir? Rab'bin Sofrası'nı Nasıl ve Neden
       Kutlarız?
@@ -1490,66 +1618,26 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Neden dünyada kötülük var ? İmanlılar neden acı çekiyor?
-    question: Neden dünyada kötülük var ? İmanlılar neden acı çekiyor?
+      için yanıtladık. "Bir Kutsal Yasa uzmanı, İsa`yı denemek amacıyla O`na
+      şunu sordu: "Öğretmenim, Kutsal Yasa`da en önemli buyruk hangisidir?” İsa
+      ona şu karşılığı verdi: "`Tanrın Rab`bi bütün yüreğinle, bütün canınla ve
+      bütün aklınla seveceksin.` İşte ilk ve en önemli buyruk budur. İlkine
+      benzeyen ikinci buyruk da şudur: `Komşunu kendin gibi seveceksin.` Kutsal
+      Yasa`nın tümü ve peygamberlerin sözleri bu iki buyruğa dayanır.” (Matta
+      22:35-40) Esen Kalın.
+    question: İncil'de Hangi Buyruklar Var?
     videos:
       - guests: .
-        host: İhsan Özbek ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: Açıklama
-          duration: PT28M1S
-          id: gz1KeX46ouo
-          imageURL: 'https://i.ytimg.com/vi/gz1KeX46ouo/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2015-03-24T11:37:53.000Z'
-          tags: neden
-          title: 32. Bölüm Neden Dünyada Kötülük Var?
-          url: 'https://www.youtube.com/watch?v=gz1KeX46ouo'
-          viewCount: '300'
-      - guests: .
-        host: Işık Abla ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: Açıklama
-          duration: PT29M24S
-          id: 29LVbBSUSOQ
-          imageURL: 'https://i.ytimg.com/vi/29LVbBSUSOQ/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2014-10-28T11:27:07.000Z'
-          tags: 'mesihin,çektiği,acılar'
-          title: 57. Bölüm Mesih İnanlılarının Çektiği Acılar Ve Sıkıntılar
-          url: 'https://www.youtube.com/watch?v=29LVbBSUSOQ'
-          viewCount: '1073'
-      - guests: ''
-        host: Leyla Erman ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ' '
-          duration: PT28M19S
-          id: 69g523gpuCM
-          imageURL: 'https://i.ytimg.com/vi/69g523gpuCM/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2013-02-08T11:59:37.000Z'
-          tags: >-
-            isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
-          title: BizBize - Neden İmanlılar Acı Çekiyorlar 1
-          url: 'https://www.youtube.com/watch?v=69g523gpuCM'
-          viewCount: '52'
-      - guests: .
-        host: Banu Çelik ile
+        host: Hakan Taştan ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            Banu Çelik ve konuklarıyla birlikte farklı konularda kelam temelinde
-            gerçekleştirdiği "Derin Değişim" programını sayfamızdan takip
-            edebilirsiniz.Esen Kalın.
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
 
-            Adanmış Hayatlar
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
 
-            Kaygılı Bir Kadın Marta
-
-            İncil'deki Samiriyeli Kadın..
+            Esen Kalın.
 
             http://kanalhayat.tv/
 
@@ -1558,16 +1646,67 @@ questions:
             https://www.facebook.com/kanalhayat
 
             https://twitter.com/kanalhayat
-          duration: PT28M46S
-          id: b-Fmh4MfXQg
-          imageURL: 'https://i.ytimg.com/vi/b-Fmh4MfXQg/hqdefault.jpg'
+          duration: PT28M58S
+          id: yRTt3isvbmo
+          imageURL: 'https://i.ytimg.com/vi/yRTt3isvbmo/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2018-07-19T22:00:51.000Z'
+          publishedAt: '2015-09-11T07:01:26.000Z'
           tags: >-
-            acı,çekerken,rab,nerdesin,derin,değişim,rabbin,ayakları,dibindeki,bir
-            kadın,meryem
-          title: 'RUT : ACI ÇEKERKEN RAB NEREDESİN? [1]'
-          url: 'https://www.youtube.com/watch?v=b-Fmh4MfXQg'
-          viewCount: '352'
+            isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+            Hayat,neler olacak,kutsal ruh,Mesih kimdi,Hakan Tastan
+          title: 'Gerçeğin Sesi - Tanrı Yolunda Yürümek Nedir? [52]'
+          url: 'https://www.youtube.com/watch?v=yRTt3isvbmo'
+          viewCount: '3036'
+      - guests: .
+        host: İhsan Özbek ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: |-
+            Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
+            dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
+            yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
+            Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
+            yanıtlıyor.Sakın kaçırmayın.
+            http://kanalhayat.tv/
+            http://www.youtube.com/kanalhayatplay
+            https://www.facebook.com/kanalhayat
+            https://twitter.com/kanalhayat
+          duration: PT27M35S
+          id: r3ziPlNoXYg
+          imageURL: 'https://i.ytimg.com/vi/r3ziPlNoXYg/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2014-11-14T09:14:23.000Z'
+          tags: '#yeniden,#doğmak,Gerek'
+          title: 8. Bölüm Yeniden Doğmak Gerek
+          url: 'https://www.youtube.com/watch?v=r3ziPlNoXYg'
+          viewCount: '348'
+      - guests: ''
+        host: Joyce Meyer ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT24M34S
+          id: wQDreLqXwLc
+          imageURL: 'https://i.ytimg.com/vi/wQDreLqXwLc/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2017-10-23T06:45:59.000Z'
+          tags: 'cesurca,yaşamak'
+          title: 1096 1 Cesurca Yaşamak 1
+          url: 'https://www.youtube.com/watch?v=wQDreLqXwLc'
+          viewCount: '144'
+      - guests: .
+        host: Güçlü Erman ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: Pastör Güçlü Erman
+          duration: PT28M28S
+          id: GCVhjZY_F1Y
+          imageURL: 'https://i.ytimg.com/vi/GCVhjZY_F1Y/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2016-04-27T09:17:21.000Z'
+          tags: buyruk
+          title: UYANIŞ - Babalara Buyruklar 1
+          url: 'https://youtu.be/GCVhjZY_F1Y'
+          viewCount: '256'
 ---
 

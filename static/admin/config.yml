@@ -365,13 +365,19 @@ collections:
         name: 'eventList'
         widget: 'list'
         fields:
-          - label: "Series"
-            name: "title"
-            widget: "relation"
-            collection: "series"
-            searchFields: ["title"]
-            valueField: "title"
-          - { name: subtitle, label: 'Bolum Ismi', widget: string }
+          - { label: Title, name: title, widget: string }
+          - label: 'Series Info'
+            name: 'seriesInfo'
+            widget: 'object'
+            fields:
+              - {
+                label: "Series",
+                name: "serieNames",
+                widget: "option",
+                collection: "series",
+                searchFields: ["title"],
+                valueField: "title"
+                }
           - label: 'Zaman'
             name: 'time'
             widget: 'object'
@@ -423,7 +429,7 @@ collections:
                     }
                   ],
                   multiple: true,
-                }
+              }
             
 
   - name: seriesCategories

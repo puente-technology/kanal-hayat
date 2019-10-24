@@ -9,6 +9,7 @@ import EventsPreviewTemplate from '../cms/preview-templates/Events';
 
 // Export Template for use in CMS preview
 export const EventsTemplate = (data) => {
+  console.log(data)
   let eventData
   if (data.mdfiles) {
     data.mdfiles.edges.map((obj) => {
@@ -45,15 +46,25 @@ query Events($id: String!, $locale: String) {
   page: markdownRemark(id: { eq: $id }, frontmatter: { locale: { eq: $locale }}) {
     frontmatter {
       title
-    eventList {
-      title
-      subtitle
-      time {
-        days
-        startTime
-        endTime
+      eventList {
+        seriesInfo {
+          serieNames {
+            series {
+              label
+              value
+            }
+            subtitles {
+              label
+              value
+            }
+          }
+        }
+        time {
+          days
+          startTime
+          endTime
+        } 
       }
-    }
     }
   }
   mdfiles :  allMarkdownRemark(filter: {fields: {contentType: {regex: "/yayin/"}}}) {
@@ -61,15 +72,25 @@ query Events($id: String!, $locale: String) {
       node {
         frontmatter {
           title
-        eventList {
-          title
-          subtitle
-          time {
-            days
-            startTime
-            endTime
+          eventList {
+            seriesInfo {
+              serieNames {
+                series {
+                  label
+                  value
+                }
+                subtitles {
+                  label
+                  value
+                }
+              }
+            }
+            time {
+              days
+              startTime
+              endTime
+            }
           }
-        }
         }
       }
     }

@@ -27,7 +27,7 @@ export const HomePageTemplate = (data) => {
           ? <FullPageSlider autoSlide gallery={data.gallery} slideTime={5000} />
           : <HomePageSlider data={data.gallery} />
       }
-      <LiveNow />
+      <LiveNow dispatch={data.dispatch} isLiveStream={false} />
       {
         program
         && <ProgrammeHomePage data={program} hosts={data.hosts} dispatch={data.dispatch} />

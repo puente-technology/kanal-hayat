@@ -1,7 +1,7 @@
 import React from 'react'
 import CMS from 'netlify-cms-app'
 import youtube from "netlify-cms-widget-youtube-extended";
-import option from "netlify-cms-linked-option-widget";
+import option from "netlify-cms-widget-linked-option";
 
 import './cms-util'
 import { HomePageTemplate } from '../templates/HomePage'
@@ -16,7 +16,7 @@ import EventsPage, { EventsTemplate } from '../templates/EventsPage';
 
 CMS.registerWidget("youtube", youtubeControl, youtubePreview);
 
-CMS.registerWidget("option", Control, Preview);
+CMS.registerWidget("option", optionComponent, optionPreview);
 
 
 CMS.registerPreviewTemplate('home-page', ({ entry }) => {
