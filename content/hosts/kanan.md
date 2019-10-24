@@ -1,19 +1,10 @@
 ---
 template: Host
-title: Rick and Morty
-host: Rick
-language: '1'
+title: 'Hakan Taştan '
+host: Hakan Taştan
+language: '0'
 targetGroup: Herkes
-coverImage: /images/uploads/can-nuroğlu-save-for-web-1.jpg
-html: >-
-  # Can Nuroğlu
-  Yazar olan Can Nuroğlu evli ve 3 çocuk babasıdır. Amerika’da Emmaus İncil
-  Üniversitesinde ilahiyat eğitimini tamamlamış olan Nuroğlu yaklaşık 11 yıl
-  Diyarbakır Kilisesinde hizmet edip Kutsal Kitap (Tevrat-Zebur-İncil)
-  öğretmiştir. Şu an Kıbrıs’ta bulunan Nuroğlu ”Hey Gâvur Anlatsana!”, ”Yeter ki
-  İnsan Olsun!”, ”Allah Sevgidir”, ”Dünyanın Sonu”, “Sorgulayan Gelsin!” adlı
-  kitapların yazarı olmakla birlikte Kutsal Kitap’ın bölümleriyle ilgili yorum
-  kitapları yazmıştır ve yazmaya devam etmektedir. Ayrıca birçok televizyon
-  programı yapmıştır ve yeni programları için çekimlere devam edilmektedir.
+coverImage: /images/uploads/hakan-tastan-save-for-web.jpg
+html: "Eski kiliseler neden Türkiye’de kuruldu? Peygamberler neden İsa\r Mesih’i işaret ettiler? İsa Mesih’in çarmıhta dökülen kanı hakkında\r bilinmesi gerekenler nedir? Pastör Hakan Taştan ve konukları,\rHristiyan bakış açısıyla Kutsal Kitap ve İncil’den ele aldıkları\r birbirinden önemli konuları \"Gerçeğin Sesi\" programı ile Kanal Hayat\r ekranlarına taşıyor. Sakın kaçırmayın."
 ---
 
