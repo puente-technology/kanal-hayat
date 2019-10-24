@@ -21,7 +21,7 @@ class SeriesList extends Component {
       listSeries: [],
       scrollLeftPosition: 0,
       scrollLeftMax: 1,
-      windowWidth: this.getWidth(),
+      windowWidth: null,
       sortByNameBool: false,
       sortByDateBool: false,
     }
@@ -29,7 +29,7 @@ class SeriesList extends Component {
 
   componentDidMount() {
     const { data } = this.props;
-    this.setState({ listSeries: this.dataIntoArray(data) })
+    this.setState({ listSeries: this.dataIntoArray(data), windowWidth: this.getWidth() })
     window.addEventListener('resize', this.handleWindowSizeChange);
   }
 

@@ -17,12 +17,15 @@ class ProgrammeHomePage extends Component {
     super(props);
 
     this.state = {
-      windowWidth: this.getWidth(),
+      windowWidth: null,
     };
   }
 
   componentDidMount() {
     window.addEventListener('resize', this.handleWindowSizeChange);
+    this.setState({
+      windowWidth: this.getWidth()
+    })
   }
 
   componentWillUnmount() {
