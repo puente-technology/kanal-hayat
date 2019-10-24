@@ -4,7 +4,18 @@
   /* display: flex;
   flex-direction: row; */
 }
-
+.banner-container {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-style: normal;
+  /* display: flex; */
+  background-size: cover;
+  font-style: normal;
+  position: relative;
+  height: 340px;
+}
 .background {
   width: 100%;
   position: absolute;
@@ -17,17 +28,15 @@
 }
 
 .imageStyle {
-  height: 375px;
+  height: 100%;
   width: 100%;
+  position: absolute;
 }
 
 .logoDiv {
   position: relative;
   display: flex;
   flex-direction: column;
-  width: 887px;
-  float: right;
-  height: 100%;
 }
 
 .logoStyle {
@@ -37,13 +46,12 @@
 }
 
 .header {
-  font-family: Muli;
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
   line-height: 30px;
   text-align: center;
-  color: #3D3D3D;
+  color: #FFFF;
   margin: 0 auto 10px;
 }
 
@@ -55,52 +63,50 @@
 }
 
 .content {
-  font-family: Muli;
   font-style: normal;
   font-weight: normal;
-  font-size: 15px;
-  line-height: 19px;
+  font-size: 16px;
   text-align: center;
-  color: #3D3D3D;
+  color: #FFFF;
   margin-bottom: 15px;
-  width: 495px;
+  width: 68%;
   margin: 0 auto 22px;
-  max-height: 60px;
   overflow-y: scroll;
 }
 
-.button {
+.button-fr {
   background-color: Transparent;
-  width: 250px;
-  height: 45px;
-  border: 1px solid #3D3D3D;
+  height: 50px;
+  border: 1px solid #FFFF;
   box-sizing: border-box;
-  font-family: Segoe UI;
   font-size: 18px;
   line-height: 24px;
   text-align: center;
-  color: #3D3D3D;
+  color: #FFFF;
   margin: 0 auto;
+  margin-bottom: 40px;
 }
 
 @media (max-width: 576px) {
   .friendSiteBannerContainer {
-    height: 304px;
+    height: 305px;
     display: flex;
   }
 
   .imageStyle {
-    height: 304px;
   }
 
   .logoDiv {
-    padding-left: 30%;
     width: auto;
+    align-items: center;
+    padding: 34px 30px 0px 30px;
   }
 
   .logoStyle {
     width: 144px;
     height: 59px;
+    margin: 0;
+    margin-bottom: 30px;
   }
 
   .header {
@@ -110,11 +116,33 @@
   .content {
     font-size: 13px;
     width: auto;
+    text-align: justify;
   }
 
-  .button {
-    width: 150px;
+  .button-fr {
+    width: fit-content;
     height: 30px;
     font-size: 13px;
+  }
+
+  .slide__caption--btn {
+    background: transparent;
+    width: 250px;
+    height: 50px;
+    padding: 10px 60px 10px 60px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 25px;
+    width: fit-content;
+    height: 30px;
+    font-size: 13px;
+    &.light {
+      border: white 1px solid;
+      color: white;
+    }
+    &.dark {
+      border: black 1px solid;
+      color: black;
+    }
   }
 }

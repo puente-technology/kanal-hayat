@@ -9,15 +9,16 @@ import EventsPreviewTemplate from '../cms/preview-templates/Events';
 
 // Export Template for use in CMS preview
 export const EventsTemplate = (data) => {
-  console.log(data)
   let eventData
   if (data.mdfiles) {
-    data.mdfiles.edges.map((obj) => {
-      const time = moment(obj.node.frontmatter.title, 'YYYY MM DD')
-      if (moment(time).isSame(moment().format('YYYY MM DD'), 'week')) {
-        eventData = obj.node.frontmatter.eventList
-      }
-    })
+    if (data.mdfiles.edges) {
+      data.mdfiles.edges.map((obj) => {
+        const time = moment(obj.node.frontmatter.title, 'YYYY MM DD')
+        if (moment(time).isSame(moment().format('YYYY MM DD'), 'week')) {
+          eventData = obj.node.frontmatter.eventList
+        }
+      })
+    }
   }
   return (
     <React.Fragment>

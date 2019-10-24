@@ -22,6 +22,7 @@ export const query = graphql`
 export default class FullPageSlider extends Component {
   state = {
     id: 0,
+    openNav: false,
   }
 
   getElement = {};
@@ -48,6 +49,11 @@ export default class FullPageSlider extends Component {
       return arr2;
     }
     return Array.from(arr);
+  }
+
+  handleOpenNav = () => {
+    const { openNav } = this.state;
+    this.setState(() => ({ openNav: !openNav }));
   }
 
   addClass(numOfSlide) {
@@ -110,6 +116,7 @@ export default class FullPageSlider extends Component {
   }
 
   render() {
+    const { openNav } = this.state;
     const {
       gallery,
       dispatch,
@@ -122,7 +129,14 @@ export default class FullPageSlider extends Component {
             {
               gallery.map((g, i) => (
                 <div id="slide" key={i} className="slide" data-slide-id={i}>
-                  <Nav key={i} color={g.color} dispatch={dispatch} hosts={hosts} />
+                  <Nav
+                    key={i}
+                    color={g.color}
+                    nav={openNav}
+                    openNav={this.handleOpenNav}
+                    dispatch={dispatch}
+                    hosts={hosts}
+                  />
                   <img className="slide__img" src={g.image} alt={g.alt} />
                   <div className={`slide__caption ${g.color} ${g.align}`}>
                     <span className="slide__caption--program">

@@ -88,8 +88,8 @@ class Carousel extends Component {
   render() {
     const { direction } = this.state
     return (
-      <div id="carousel" className="noselect">
-        <button type="button" className="arrow arrow-left" onClick={this.leftClick}><img src={arrovSvg} alt="LeftArrow" /></button>
+      <div id="home-carousel" className="noselect">
+        <button type="button" className="arrow arrow-left" onClick={this.leftClick}><img className="arrow-img" src={arrovSvg} alt="LeftArrow" /></button>
         <div style={{ display: 'flex' }}>
           <ReactCSSTransitionGroup
             component={React.Fragment}
@@ -98,7 +98,7 @@ class Carousel extends Component {
             {this.generateItems()}
           </ReactCSSTransitionGroup>
         </div>
-        <button type="button" className="arrow arrow-right" onClick={this.rightClick}><img src={arrovSvg} alt="RightArrow" /></button>
+        <button type="button" className="arrow arrow-right" onClick={this.rightClick}><img className="arrow-img" src={arrovSvg} alt="RightArrow" /></button>
       </div>
     )
   }
@@ -180,7 +180,7 @@ class Item extends React.Component {
               src={id.image}
               width={280}
               height={150}
-              className="EpisodeVideo"
+              className="EpisodeVideoInfo"
             >
               <div className="playParavan">
                 {dateConverter(id.youtubeURL.duration)}

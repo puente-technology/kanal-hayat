@@ -18,15 +18,31 @@
   color: #3d3d3d;
   width: 555px !important;
   margin-top: 20px;
+
+  margin: 10px 15px;
+  text-align: justify;
 }
 
 .HostSeries {
   margin-left: 67px;
   margin-right: 67px;
   margin-top: 35px;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
 }
 
 .HostTile {
   margin-left: 67px;
 
+}
+
+@media (max-width: 576px) {
+  .HostSeries {
+    margin-left: 0px;
+  }
+  .HostTile {
+    font-size: 20px;
+  
+  }
 }

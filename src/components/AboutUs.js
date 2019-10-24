@@ -1,6 +1,5 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-
 import './AboutUs.css'
 
 const AboutUs = (props) => {
@@ -12,6 +11,7 @@ const AboutUs = (props) => {
           style={{ position: 'relative' }}
           src={featuredImage}
           alt="Content"
+          className="imageContainerBackground"
         />
         <div className="gradientDiv" />
       </div>

@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
+import { connect } from 'react-redux';
 import { eventWeek, sortTimeString } from '../utils/utils';
-
 import './Events.scss'
 import { LiveNowC } from './LiveNow';
 import { dayPeriods } from '../constants/generics';
@@ -64,11 +64,13 @@ class Events extends Component {
 
   render() {
     const { activeDay, scrollWeekPosition, scrollLeftMax } = this.state;
+    const { dispatch } = this.props
+    // console.log('State', this.state)
     const timeNow = new Date().toLocaleString();
 
     return (
       <React.Fragment>
-        <LiveNowC eventList={this.filteredList} />
+        <LiveNowC dispatch={dispatch} eventList={this.filteredList} />
         <div className="Event-Week" onScroll={this.handleScroll}>
           { scrollWeekPosition > 23 && scrollWeekPosition <= scrollLeftMax
           && (
@@ -148,6 +150,10 @@ class Events extends Component {
                 const isNow = (itemStartTime <= timeNow && itemEndTime > timeNow)
                 return (
                   <div key={i} className="Event-Programme">
+                    <div className="Event-ProgrammeBorder">
+                      <div className="Event-Border" />
+                      <div className="Event-BlueDot" />
+                    </div>
                     <div className={`Event-Time ${isNow ? 'active' : ''}`}>
                       {time.startTime}
                     </div>
@@ -172,7 +178,9 @@ class Events extends Component {
 
 Events.propTypes = {
   eventList: PropTypes.any,
+  dispatch: PropTypes.any,
 }
 
-
-export default Events;
+export default connect(state => ({
+  liveStream: state.app.liveStream,
+}), null)(Events)

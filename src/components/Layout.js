@@ -3,6 +3,7 @@ import { connect } from 'react-redux';
 import Helmet from 'react-helmet'
 import PropTypes from 'prop-types';
 import Player from './Player';
+import LiveStream from './LiveStream'
 
 class LayoutComp extends PureComponent {
   static propTypes = {
@@ -13,6 +14,7 @@ class LayoutComp extends PureComponent {
     playing: PropTypes.any,
     index: PropTypes.any,
     handleCloseClick: PropTypes.any,
+    liveStream: PropTypes.any,
   };
 
   constructor(props) {
@@ -30,6 +32,7 @@ class LayoutComp extends PureComponent {
       frontmatter,
       handleCloseClick,
       playing,
+      liveStream,
     } = this.props
     return (
       <Fragment>
@@ -52,6 +55,9 @@ class LayoutComp extends PureComponent {
               />
             )
           }
+          {liveStream && (
+            <LiveStream />
+          )}
         </div>
       </Fragment>
     )
@@ -66,4 +72,5 @@ export default connect(state => ({
   index: state.app.index || null,
   handleCloseClick: state.app.handleCloseClick || null,
   isActive: state.app.isOpen || null,
+  liveStream: state.app.liveStream || null,
 }), null)(LayoutComp)

@@ -468,7 +468,13 @@ collections:
           name: coverImage,
           widget: image,
         }
-      - { label: Sunucu, name: host, widget: string }
+      - label: "Sunucu"
+        name: "hosts"
+        widget: "relation"
+        collection: "hosts"
+        searchFields: ["title"]
+        valueField: "title"
+        displayFields: ["title"]
       - label: İzlenmesi
         name: popularity
         widget: select
@@ -518,13 +524,17 @@ collections:
     fields: # The fields each document in this collection have
       - { label: Template, name: template, widget: hidden, default: Host }
       - { label: Title, name: title, widget: string }
-      - label: "Sunucu"
-        name: "host"
-        widget: "relation"
-        collection: "series"
-        searchFields: ["host"]
-        valueField: "host"
-        displayFields: ["host"]
+      - { label: Sunucu Ismi, name: host, widget: string }
+      - label: Dil
+        name: language
+        widget: select
+        options:
+          - { label: "Türkçe", value: "0" }
+          - { label: "English", value: "1" }
+      - label: Hedef Kitle
+        name: targetGroup
+        widget: select
+        options: ["Çocuk",  "Genç", "Yetişkin", "Herkes"]
       - {
         label: Kapak Resmi,
         name: coverImage,
