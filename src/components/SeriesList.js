@@ -22,7 +22,7 @@ class SeriesList extends Component {
     listSeries: [],
     scrollLeftPosition: 0,
     scrollLeftMax: 1,
-    windowWidth: window.innerWidth,
+    windowWidth: typeof (window.innerWidth) === 'number' ? window.innerWidth : '',
     sortByNameBool: false,
     sortByDateBool: false,
   }
@@ -215,7 +215,11 @@ class SeriesList extends Component {
   }
 
   handleWindowSizeChange = () => {
-    this.setState({ windowWidth: window.innerWidth });
+    let widthValue
+    if (typeof (window.innerWidth) === 'number') {
+      widthValue = window.innerWidth
+    }
+    this.setState({ windowWidth: widthValue });
   };
 
   render() {

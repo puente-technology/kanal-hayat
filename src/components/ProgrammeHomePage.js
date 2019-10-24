@@ -15,8 +15,13 @@ class ProgrammeHomePage extends Component {
 
   constructor(props) {
     super(props);
+    let widthValue
+    if (typeof (window.innerWidth) === 'number') {
+      widthValue = window.innerWidth
+    }
+
     this.state = {
-      windowWidth: window.innerWidth,
+      windowWidth: widthValue,
     };
   }
 
@@ -54,7 +59,11 @@ class ProgrammeHomePage extends Component {
   }
 
   handleWindowSizeChange = () => {
-    this.setState({ windowWidth: window.innerWidth });
+    let widthValue
+    if (typeof (window.innerWidth) === 'number') {
+      widthValue = window.innerWidth
+    }
+    this.setState({ windowWidth: widthValue });
   };
 
   render() {
