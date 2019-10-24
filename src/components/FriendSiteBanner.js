@@ -1,7 +1,7 @@
 /* eslint-disable react/jsx-no-bind */
 import React from 'react';
 import { StaticQuery, graphql } from 'gatsby'
-import './FriendSiteBanner.css';
+import './FriendSiteBanner.scss';
 
 export default () => (
   <StaticQuery
@@ -51,9 +51,9 @@ const FriendSiteBanner = (edge) => {
         <p style={{ color: node.color === 'dark' ? 'black' : 'white' }} className="content">
           {node.content}
         </p>
-        <button type="button" className="button-fr">
-          {node.buttonText}
-        </button>
+        <span style={{ textAlign: 'center' }}>
+          <a href={node.buttonText} target="_blank" rel="noreferrer noopener" className={`slide__caption--btn ${node.color}`}>Siteye Git</a>
+        </span>
       </div>
     </div>
   )

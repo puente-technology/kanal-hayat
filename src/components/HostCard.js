@@ -17,7 +17,11 @@ class HostCard extends Component {
   }
 
   render() {
-    const { frontmatter, value, slug } = this.props
+    const {
+      frontmatter,
+      value,
+      slug,
+    } = this.props
     const { isClicked } = this.state
     return (
       <React.Fragment>
@@ -56,7 +60,6 @@ HostCard.propTypes = {
   frontmatter: PropTypes.any,
   handleClick: PropTypes.func,
   value: PropTypes.any,
-  hosts: PropTypes.any,
   slug: PropTypes.any,
 }
 

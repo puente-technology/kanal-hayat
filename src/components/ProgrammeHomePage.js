@@ -119,7 +119,7 @@ class ProgrammeHomePage extends Component {
                                     className="EpisodeVideo"
                                   >
                                     <div className="playParavan">
-                                    {dateConverter(thumb.youtubeURL.duration)}
+                                      {dateConverter(thumb.youtubeURL.duration)}
                                     </div>
                                   </button>
                                 )
@@ -138,7 +138,7 @@ class ProgrammeHomePage extends Component {
                                     className="EpisodeVideo"
                                   >
                                     <div className="playParavan">
-                                    {dateConverter(thumb.youtubeURL.duration)}
+                                      {dateConverter(thumb.youtubeURL.duration)}
                                     </div>
                                   </button>
                                 )

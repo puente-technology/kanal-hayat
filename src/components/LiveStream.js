@@ -1,3 +1,4 @@
+/* eslint-disable no-nested-ternary */
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { connect } from 'react-redux';
@@ -232,6 +233,22 @@ class Player extends Component {
 
   onFullCloseScreenClick = () => {
     const { isOpen } = this.state;
+    const {
+      dispatch,
+    } = this.props;
+    dispatch(toggleDarkMode(
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+    ))
     this.setState({ isOpen: !isOpen })
   }
 
@@ -278,7 +295,7 @@ class Player extends Component {
       const height = this.getHeight() * 0.5
       props.height = height
       props.width = width
-      isBigStyle.margin = '8% auto'
+      isBigStyle.margin = '5% auto'
       isBigStyle.marginBottom = '0px'
       isBigStyle.display = 'flex'
       isBigStyle.justifyContent = 'center'
@@ -293,7 +310,6 @@ class Player extends Component {
     }
     props.progressFrequency = 100
     props.ref = this.ref
-    console.log('asma this.getWidth()', this.getWidth())
     return (
       isOpen && (
       <div style={{ backgroundColor: '#3d3d3d' }}>
@@ -403,4 +419,5 @@ export default connect(state => ({
   isActive: state.app.isOpen || '',
   hosts: state.app.hosts || '',
   isBigScreen: state.app.isBigScreen,
+  liveStream: state.app.liveStream,
 }), null)(Player)

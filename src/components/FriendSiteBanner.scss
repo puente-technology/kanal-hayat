@@ -14,6 +14,7 @@
   background-size: cover;
   font-style: normal;
   position: relative;
+  height: 340px;
 }
 .background {
   width: 100%;
@@ -122,5 +123,26 @@
     width: fit-content;
     height: 30px;
     font-size: 13px;
+  }
+
+  .slide__caption--btn {
+    background: transparent;
+    width: 250px;
+    height: 50px;
+    padding: 10px 60px 10px 60px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 25px;
+    width: fit-content;
+    height: 30px;
+    font-size: 13px;
+    &.light {
+      border: white 1px solid;
+      color: white;
+    }
+    &.dark {
+      border: black 1px solid;
+      color: black;
+    }
   }
 }

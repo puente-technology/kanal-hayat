@@ -287,15 +287,16 @@ class HostsList extends Component {
           >
             Program İsmi
           </button>
-          <button
+          {/* <button
             value="date"
             onClick={this.handleSortByDateClick}
             type="button"
             className={sortByDateBool ? 'SortButton active' : 'SortButton'}
           >
             Tarih
-          </button>
-          <Dropdown handleLanguageChange={this.handleLanguageChange} list={['Dil', 'Turkce', 'English']} />
+          </button> */}
+          {/* <Dropdown handleLanguageChange=
+            {this.handleLanguageChange} list={['Dil', 'Turkce', 'English']} /> */}
           <Dropdown handleTargetChange={this.handleTargetChange} list={['Hedef Kitle', 'Herkes', 'Çocuk', 'Genç', 'Yetişkin']} />
           {/* <Dropdown handleHostChange={this.handleHostChange} list={hostList} /> */}
           <input onChange={this.handleTextChange} className="Nav--Search filter" type="text" />

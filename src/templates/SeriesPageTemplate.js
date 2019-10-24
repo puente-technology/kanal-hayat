@@ -128,6 +128,7 @@ class SeriesPageTemplate extends Component {
 SeriesPageTemplate.propTypes = {
   episodes: PropTypes.any,
   frontmatter: PropTypes.any,
+  data: PropTypes.any,
 }
 
 
@@ -259,7 +260,7 @@ class CustomHeaderBanner extends Component {
                 {description}
               </div>
               <div className="TextInfoEpisode">
-                <div className="TextInfoAndSeason">
+                <div style={{ display: 'flex' }} className="TextInfoAndSeason">
                   <div className="TextInfoEpisodeTitle">
                   Bölümler
                   </div>

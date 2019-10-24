@@ -1,16 +1,18 @@
+/* eslint-disable react/prop-types */
+/* eslint-disable no-unused-vars */
+/* eslint-disable arrow-body-style */
 /* eslint-disable array-callback-return */
 /* eslint-disable react/jsx-no-bind */
 import React from 'react';
 import moment from 'moment'
 import PropTypes from 'prop-types';
-
 import { StaticQuery, graphql } from 'gatsby'
+import { toggleDarkMode } from '../state/app';
 // import { sortTimeString } from '../utils/utils';
 import './LiveNow.scss'
 import { sortTimeString } from '../utils/utils';
 
 export default ({ isLiveStream }) => {
-  console.log('asma isLiveStream', isLiveStream)
   return (
     <StaticQuery
       query={graphql`
@@ -71,9 +73,8 @@ export default ({ isLiveStream }) => {
 const sixHours = 60000 * 720;
 export const LiveNowC = (props) => {
   const {
-    eventList, isLiveStream,
+    eventList, isLiveStream, dispatch,
   } = props;
-  console.log('asma isLiveStream', isLiveStream)
   let firstLoadedDay = new Date().getDay().toString()
   if (firstLoadedDay === '0') firstLoadedDay = '99'
   const options = { hour12: false };
@@ -103,6 +104,22 @@ export const LiveNowC = (props) => {
     filteredList = filteredList.slice(0, 4)
   }
 
+  const handleChange = () => {
+    dispatch(toggleDarkMode(
+      null,
+      null,
+      true,
+      null,
+      null,
+      null,
+      false,
+      null,
+      false,
+      true,
+      true,
+    ))
+  }
+
   return (
     <div className="LiveNow">
       <div className={`LiveNow--Title ${isLiveStream && 'live-stream'}`}>
@@ -122,7 +139,7 @@ export const LiveNowC = (props) => {
               <div className={`Item-Time ${i === 0 ? 'now' : ''}`} style={{ fontSize: isLiveStream && 24 }}>
                 {item.time.startTime}
                 {
-                  i === 0 && <button type="button" style={{ width: isLiveStream && 90 }}>Canlı İzle</button>
+                  i === 0 && !isLiveStream && <button onClick={handleChange} type="button" style={{ width: isLiveStream && 90 }}>Canlı İzle</button>
                 }
               </div>
             </div>
