@@ -49,12 +49,14 @@ query Events($id: String!, $locale: String) {
       eventList {
         seriesInfo {
           serieNames {
-            label
-            value
-          }
-          subtitles {
-            label
-            value
+            series {
+              label
+              value
+            }
+            subtitles {
+              label
+              value
+            }
           }
         }
         time {
@@ -73,12 +75,14 @@ query Events($id: String!, $locale: String) {
           eventList {
             seriesInfo {
               serieNames {
-                label
-                value
-              }
-              subtitles {
-                label
-                value
+                series {
+                  label
+                  value
+                }
+                subtitles {
+                  label
+                  value
+                }
               }
             }
             time {

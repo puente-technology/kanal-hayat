@@ -153,10 +153,10 @@ class Events extends Component {
                     </div>
                     <div className={`Event-Name ${isNow ? 'active' : ''}`}>
                       <p className="Event-Title">
-                        {seriesInfo.serieNames.value}
+                        {seriesInfo.serieNames.series.value}
                       </p>
                       <p className="Event-Subtitle">
-                        {seriesInfo.subtitles.value}
+                        {seriesInfo.serieNames.subtitles.value}
                       </p>
                     </div>
                   </div>

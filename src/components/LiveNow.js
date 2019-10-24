@@ -20,12 +20,14 @@ export default () => (
             eventList {
               seriesInfo {
                 serieNames {
-                  label
-                  value
-                }
-                subtitles {
-                  label
-                  value
+                  series {
+                    label
+                    value
+                  }
+                  subtitles {
+                    label
+                    value
+                  }
                 }
               }
               time {
@@ -45,13 +47,15 @@ export default () => (
               eventList {
                 seriesInfo {
                   serieNames {
-                    label
-                    value
+                    series {
+                      label
+                      value
+                    }
+                    subtitles {
+                      label
+                      value
+                    }
                   }
-                subtitles {
-                  label
-                  value
-                }
               }
               time {
                 days
@@ -129,10 +133,10 @@ export const LiveNowC = (props) => {
             return (
               <div className="LiveNow--Item" key={i}>
                 <span className={`Item-Header ${i === 0 ? 'now' : ''}`}>
-                  {`${seriesInfo.serieNames.value}${i === 0 ? '(ŞİMDİ)' : ''}`}
+                  {`${seriesInfo.serieNames.series.value}${i === 0 ? '(ŞİMDİ)' : ''}`}
                 </span>
                 <span className={`Item-SubHeader ${i === 0 ? 'now' : ''}`}>
-                  {seriesInfo.subtitles.value}
+                  {seriesInfo.serieNames.subtitles.value}
                 </span>
                 <div className={`Item-Time ${i === 0 ? 'now' : ''}`}>
                   {time.startTime}
