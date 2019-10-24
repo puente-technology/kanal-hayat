@@ -23,9 +23,7 @@ class ProgrammeHomePage extends Component {
 
   componentDidMount() {
     window.addEventListener('resize', this.handleWindowSizeChange);
-    this.setState({
-      windowWidth: this.getWidth()
-    })
+    this.setState({ windowWidth: this.getWidth() })
   }
 
   componentWillUnmount() {
