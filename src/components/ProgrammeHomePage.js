@@ -51,7 +51,7 @@ class ProgrammeHomePage extends Component {
   }
 
   getWidth = () => {
-    if (typeof (window.innerWidth) === 'number') {
+    if ((typeof window !== 'undefined')) {
       // Non-IE
       return window.innerWidth;
     } if (document.documentElement
@@ -71,7 +71,7 @@ class ProgrammeHomePage extends Component {
 
   handleWindowSizeChange = () => {
     let widthValue
-    if (typeof (window.innerWidth) === 'number') {
+    if ((typeof window !== 'undefined')) {
       widthValue = window.innerWidth
     }
     this.setState({ windowWidth: widthValue });

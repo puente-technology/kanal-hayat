@@ -41,7 +41,7 @@ class SeriesList extends Component {
   dataIntoArray = data => (Object.values(data).filter(x => x !== 'Seriler'))
 
   getWidth = () => {
-    if (typeof (window.innerWidth) === 'number') {
+    if ((typeof window !== 'undefined')) {
       // Non-IE
       return window.innerWidth;
     } if (document.documentElement
@@ -231,7 +231,7 @@ class SeriesList extends Component {
 
   handleWindowSizeChange = () => {
     let widthValue
-    if (typeof (window.innerWidth) === 'number') {
+    if ((typeof window !== 'undefined')) {
       widthValue = window.innerWidth
     }
     this.setState({ windowWidth: widthValue });
