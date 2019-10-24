@@ -51,9 +51,11 @@ query Events($id: String!, $locale: String) {
           serieNames {
             label
             value
-            subtitles
           }
-          subtitles
+          subtitles {
+            label
+            value
+          }
         }
         time {
           days
@@ -73,9 +75,11 @@ query Events($id: String!, $locale: String) {
               serieNames {
                 label
                 value
-                subtitles
               }
-              subtitles
+              subtitles {
+                label
+                value
+              }
             }
             time {
               days

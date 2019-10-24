@@ -23,7 +23,10 @@ export default () => (
                   label
                   value
                 }
-                subtitles
+                subtitles {
+                  label
+                  value
+                }
               }
               time {
                 days
@@ -44,9 +47,11 @@ export default () => (
                   serieNames {
                     label
                     value
-                    subtitles
                   }
-                subtitles
+                subtitles {
+                  label
+                  value
+                }
               }
               time {
                 days
@@ -127,7 +132,7 @@ export const LiveNowC = (props) => {
                   {`${seriesInfo.serieNames.value}${i === 0 ? '(ŞİMDİ)' : ''}`}
                 </span>
                 <span className={`Item-SubHeader ${i === 0 ? 'now' : ''}`}>
-                  {seriesInfo.subtitles}
+                  {seriesInfo.subtitles.value}
                 </span>
                 <div className={`Item-Time ${i === 0 ? 'now' : ''}`}>
                   {time.startTime}
