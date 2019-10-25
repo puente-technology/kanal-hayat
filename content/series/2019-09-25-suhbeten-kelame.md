@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: SUHBETEN KELAME 2.SEZON
 publishDate: .
 coverImage: /images/uploads/10.jpg
-host: Şaban Ok ile
+hosts: MİLAZIM RASOYAN
 popularity: '1'
 description: |-
   SUHBETEN KELAME programını Kanal Hayat ekranlarından 
