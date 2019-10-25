@@ -1,7 +1,7 @@
 ---
 template: Host
-title: Dar Kapıdan Girenler
-host: Dar Kapıdan Girenler
+title: ALİ KALKANDELEN
+host: ALİ KALKANDELEN
 language: '0'
 targetGroup: Herkes
 coverImage: /images/uploads/ali-kalkandelen.jpg
