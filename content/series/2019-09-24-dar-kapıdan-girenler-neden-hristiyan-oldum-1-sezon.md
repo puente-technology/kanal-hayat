@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: DAR KAPIDAN GİRENLER  1.SEZON
 publishDate: .
 coverImage: /images/uploads/6.jpg
-host: Ali Kalkandelen ile
+hosts: ALİ KALKANDELEN
 popularity: '1'
 description: |-
   Neden Hristiyan Oldum?
