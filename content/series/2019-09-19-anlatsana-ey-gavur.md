@@ -3,8 +3,8 @@ template: SeriesPageTemplate
 title: Anlatsana Ey Gavur
 publishDate: .
 coverImage: /images/uploads/anlatsana-ey-gavur.jpg
-host: Can Nuroğlu
-popularity: '5'
+hosts: Can Nuroğlu
+popularity: '1'
 description: >-
   Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur! Anlatsana
   programını Kanal Hayat ekranlarından veya youtube sayfamızdan takip
