@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: Kıyamet Günü
 publishDate: .
 coverImage: /images/uploads/can-nuroğlu-kıyamet-günü.jpg
-host: Can Nuroğlu
+hosts: Can Nuroğlu
 popularity: '5'
 description: >-
   Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kıyamet Günü"
