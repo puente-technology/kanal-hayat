@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: KUTSALLIĞA DAVET
 publishDate: .
 coverImage: /images/uploads/ki̇rkor.jpg
-host: Kirkor Ağabaloğlu ile
+hosts: KİRKOR Ağabaloğlu
 popularity: '1'
 description: |
   Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" 
