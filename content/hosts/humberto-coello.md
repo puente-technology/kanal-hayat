@@ -1,7 +1,7 @@
 ---
 template: Host
-title: Humberto Coello
-host: Humberto Coello
+title: UMUT KALESİ
+host: UMUT KALESİ
 language: '0'
 targetGroup: Herkes
 coverImage: /images/uploads/kelam-kültür-kahve.png
