@@ -1,6 +1,6 @@
 ---
 template: Host
-title: Pervin Kalkandelen
+title: PERVİN KALKANDELEN
 host: Pervin Kalkandelen
 language: '0'
 targetGroup: Herkes
