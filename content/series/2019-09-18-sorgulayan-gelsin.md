@@ -3,8 +3,8 @@ template: SeriesPageTemplate
 title: SORGULAYAN GELSİN
 publishDate: .
 coverImage: /images/uploads/sorgulayan-save-for-web.jpg
-host: Can Nuroğlu
-popularity: '10'
+hosts: Can Nuroğlu
+popularity: '1'
 description: |
   Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği 
   "Sorgulayan Gelsin" programını Kanal Hayat ekranlarından 
