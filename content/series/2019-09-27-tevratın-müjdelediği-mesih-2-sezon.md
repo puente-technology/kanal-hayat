@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: TEVRAT'IN MÜJDELEDİĞİ MESİH 2.SEZON
 publishDate: .
 coverImage: /images/uploads/tevratin-müj-mesi̇h-sezon-2-save-for-web.jpg
-host: Ahmet Güvener ile
+hosts: Abuna Gabriel ve Ahmet Güvener
 popularity: '5'
 description: |-
   Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz
