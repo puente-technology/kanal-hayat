@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: KUTSAL SIRLAR - Sizden Gelen Sorular
+title: KUTSAL SIRLAR - SİZDEN GELEN SORULAR
 publishDate: .
 coverImage: /images/uploads/kutsal-sırlar-save-for-web.jpg
 hosts: Serdar Dedeoğlu
@@ -18,14 +18,6 @@ description: >-
   3- Neden dört kitabınız var? İncilin orjinali nerede?
 
   4- İsa söylendiği gibi Rab olsaydı, bana iyi deme Dermiydi?
-
-  http://kanalhayat.tv/
-
-  http://www.youtube.com/kanalhayatplay
-
-  https://www.facebook.com/kanalhayat
-
-  https://twitter.com/kanalhayat
 targetGroup: Herkes
 language: '0'
 selectedCategories:
