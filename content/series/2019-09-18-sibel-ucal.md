@@ -3,20 +3,12 @@ template: SeriesPageTemplate
 title: HRİSTİYAN İLAHİLER
 publishDate: .
 coverImage: /images/uploads/song-3-save-for-web.jpg
-host: Sibel Üçal ile
+hosts: SİBEL ÜÇAL
 popularity: '5'
 description: >-
   Sibel Üçal'ın seslendirdiği "Haykır Yüreğim" adlı Hristiyan İlahilerden oluşan
   albümü Kanal Hayat ekranından dinleyebilir veya youtube takip
   edebilirsiniz.Teşekkürler.
-
-  http://kanalhayat.tv/
-
-  http://www.youtube.com/kanalhayatplay
-
-  https://www.facebook.com/kanalhayat
-
-  https://twitter.com/kanalhayat
 targetGroup: Herkes
 language: '0'
 selectedCategories:
