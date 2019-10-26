@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: KUTSAL KİTAP ÇALIŞMALARI 3.SEZON
 publishDate: .
 coverImage: /images/uploads/21.jpg
-host: Dr.Charles Stanley ile
+hosts: Charles Stanley
 popularity: '5'
 description: |-
   Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını 
