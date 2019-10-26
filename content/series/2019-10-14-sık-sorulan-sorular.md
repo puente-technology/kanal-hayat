@@ -3,7 +3,8 @@ template: SeriesPageTemplate
 title: SIK SORULAN SORULAR
 publishDate: .
 coverImage: /images/uploads/sık-sorulan-sorular.png
-host: Kamil Musa ile
+hosts: KAMİL MUSA
+popularity: '5'
 description: >-
   Kamil Musa'nın hazırlayıp sunduğu Kutsal Kitap temelindeki "Sık Sorulan
   Sorular" hakkında ki programı Kanal Hayat ekranlarından veya youtube
