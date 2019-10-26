@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: NUH'UN GEMİSİ
 publishDate: .
 coverImage: /images/uploads/noaark.jpg
-host: 'Kanal Hayat '
+hosts: FİLMLER
 popularity: '5'
 description: |-
   Çocuklar! Sizleri düşünmediğimizi sanmayın. Tanrı ve peygamberler
