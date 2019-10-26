@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: DAR KAPIDAN GİRENLER  2.SEZON
 publishDate: .
 coverImage: /images/uploads/dar-kapı-2.png
-host: Ali Kalkandelen ile
+hosts: ALİ KALKANDELEN
 popularity: '1'
 description: |
   Neden Hristiyan Oldum?
