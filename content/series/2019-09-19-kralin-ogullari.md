@@ -3,21 +3,13 @@ template: SeriesPageTemplate
 title: Kralın Oğulları
 publishDate: .
 coverImage: /images/uploads/gerçek-bir-adam-olmakb.jpg
-host: Işık Abla
+hosts: Can Nuroğlu
 popularity: '1'
 description: >-
   Işık Abla'nın "Kralın Oğulları" programını Kanal Hayat ekranlarından veya
   youtube sayfamızdan takip edebilirsiniz.
 
   Esen Kalın.
-
-  http://kanalhayat.tv/
-
-  http://www.youtube.com/kanalhayatplay
-
-  https://www.facebook.com/kanalhayat
-
-  https://twitter.com/kanalhayat
 targetGroup: Herkes
 language: '0'
 selectedCategories:
