@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: TÜRKMEN KADIN PROGRAMLARI
 publishDate: .
 coverImage: /images/uploads/30.jpg
-host: Durmuş Joşguny
+hosts: Merýem - TÜRKMEN KADIN PROGRAMLARIMIZ
 popularity: '5'
 description: |-
   Türken Kadın Programlarımızı Kanal Hayat ekranlarından veya 
