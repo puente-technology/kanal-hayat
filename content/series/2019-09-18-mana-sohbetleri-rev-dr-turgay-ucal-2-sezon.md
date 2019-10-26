@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: Mânâ Sohbetleri  2.Sezon
 publishDate: .
 coverImage: /images/uploads/turgay-ucal-save-for-web.jpg
-host: Rev.Dr. Turgay Üçal
+hosts: TURGAY ÜÇAL
 popularity: '5'
 description: |-
   Mesih'in Öğrencisi Olmak Ne Demektir?
@@ -11,10 +11,6 @@ description: |-
   "Mânâ Sohbetleri" sayfamızdan takip edebilirsiniz.
   Mânâ Sohbetleri - 2.Sezon (1.Bölüm)
   Rev. Dr. Turgay Üçal
-  http://kanalhayat.tv/
-  http://www.youtube.com/kanalhayatplay
-  https://www.facebook.com/kanalhayat
-  https://twitter.com/kanalhayat
 targetGroup: Herkes
 language: '0'
 selectedCategories:
