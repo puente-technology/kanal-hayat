@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: GERÇEĞİN SESİ 2
 publishDate: .
 coverImage: /images/uploads/dsc01143.jpg
-host: Hakan Taştan ile
+hosts: 'Hakan Taştan '
 popularity: '1'
 description: >-
   Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap ışığında
