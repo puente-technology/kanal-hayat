@@ -15,16 +15,6 @@ description: >-
 
   Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Havari Notları"
   programını sayfamızdan takip edebilirsiniz. 
-
-  Esen Kalın.
-
-  http://kanalhayat.tv/
-
-  http://www.youtube.com/kanalhayatplay
-
-  https://www.facebook.com/kanalhayat.tv
-
-  https://twitter.com/kanalhayat
 targetGroup: Herkes
 language: '0'
 selectedCategories:
