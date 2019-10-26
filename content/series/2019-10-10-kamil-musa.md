@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: Kamil Musa
 publishDate: .
 coverImage: /images/uploads/kamil.png
-host: Kamil Musa ile
+hosts: KAMİL MUSA
 popularity: '5'
 description: >-
   Kamil Musa'nın hazırlayıp sunduğu Kutsal Kitap temelindeki birbirinden farklı
