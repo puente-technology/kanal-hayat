@@ -14,14 +14,6 @@ description: >-
   Allah mı ? Tanrı mı, Fark Eder mi ?
 
   Allah'ın Özü Nedir?
-
-  http://kanalhayat.tv/
-
-  http://www.youtube.com/kanalhayatplay
-
-  https://www.facebook.com/kanalhayat
-
-  https://twitter.com/kanalhayat
 targetGroup: Herkes
 language: '0'
 selectedCategories:
