@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: DÜNYANIN SONU
 publishDate: .
 coverImage: /images/uploads/dünyanın-sonu.jpg
-host: Can Nuroğlu ile
+hosts: Can Nuroğlu
 popularity: '5'
 description: |-
   Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği  
