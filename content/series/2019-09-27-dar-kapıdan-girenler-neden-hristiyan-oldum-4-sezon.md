@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: DAR KAPIDAN GİRENLER 4.SEZON
 publishDate: .
 coverImage: /images/uploads/dar-kapıdan-girenler-4-sezon.jpg
-host: Ali Kalkandelen ile
+hosts: ALİ KALKANDELEN
 popularity: '1'
 description: |-
   Neden Hristiyan Oldum?
