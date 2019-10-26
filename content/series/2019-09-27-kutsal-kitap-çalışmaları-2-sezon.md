@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: KUTSAL KİTAP ÇALIŞMALARI 2.SEZON
 publishDate: .
 coverImage: /images/uploads/19.jpg
-host: Dr.Charles Stanley ile
+hosts: ALİ KALKANDELEN
 popularity: '5'
 description: |-
   Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını
