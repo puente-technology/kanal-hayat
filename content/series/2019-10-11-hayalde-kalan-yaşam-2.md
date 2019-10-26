@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: HAYALDE KALAN YAŞAM 2
 publishDate: .
 coverImage: /images/uploads/2.jpg
-host: 'Ali Kalkandelen ve Ahmet Güvener ile '
+hosts: ALİ KALKANDELEN
 popularity: '5'
 description: >-
   Ali Kalkandelen ve Ahmet Güvener beraber hazırlayıp sundukları "Hayalde Kalan
