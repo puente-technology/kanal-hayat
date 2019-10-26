@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: HEY GİDİ KARADENİZ
 publishDate: .
 coverImage: /images/uploads/17.jpg
-host: İhsan Özbek ile
+hosts: İHSAN ÖZBEK
 popularity: '5'
 description: |-
   Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
