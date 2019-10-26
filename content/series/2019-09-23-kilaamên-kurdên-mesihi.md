@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: KİLAAMêN KURdêN MESİHİ
 publishDate: .
 coverImage: /images/uploads/şaban-ok.png
-host: Şaban Ok ile
+hosts: Şaban Ok
 popularity: '5'
 description: |-
   Hristiyan İlahiler (Kürtçe Dilinde) 
