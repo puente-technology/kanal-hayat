@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: DAR KAPIDAN GİRENLER 5.SEZON
 publishDate: .
 coverImage: /images/uploads/dar-kapıdan-5sezon.jpg
-host: Ali Kalkandelen ile
+hosts: ALİ KALKANDELEN
 popularity: '1'
 description: |-
   Neden Hristiyan Oldum?
