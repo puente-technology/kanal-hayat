@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: Allah Sevgidir
 publishDate: .
 coverImage: /images/uploads/allah-sevgidir-save-for-web.jpg
-host: Can Nuroğlu
+hosts: Can Nuroğlu
 popularity: '5'
 description: >-
   Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"
@@ -14,14 +14,6 @@ description: >-
   Allah mı ? Tanrı mı, Fark Eder mi ?
 
   Allah'ın Özü Nedir?
-
-  http://kanalhayat.tv/
-
-  http://www.youtube.com/kanalhayatplay
-
-  https://www.facebook.com/kanalhayat
-
-  https://twitter.com/kanalhayat
 targetGroup: Herkes
 language: '0'
 selectedCategories:
