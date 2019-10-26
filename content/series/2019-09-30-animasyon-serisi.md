@@ -1,9 +1,9 @@
 ---
 template: SeriesPageTemplate
 title: animasyon serisi
-publishDate: '66'
+publishDate: .
 coverImage: /images/uploads/animasyon-serisi.jpg
-host: kk
+hosts: FİLMLER
 popularity: '5'
 description: jkhkj
 targetGroup: Genç
