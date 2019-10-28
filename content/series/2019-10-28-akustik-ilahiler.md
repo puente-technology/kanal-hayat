@@ -2581,5 +2581,142 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=oMONBaPDE3g&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=24&t=0s
       viewCount: '5709'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, “Korkuya Esir
+        Değilim” ilahisinin akustik kaydı ile Andrew, Devrim ve Katie
+        karşınızda!
+
+
+        "Bir melodiyle çözüldüm işte.
+
+        Sarındım tüm sevginle.
+
+        Düşmanlarımdan korkmuyorum ben,
+
+        kurtuluş ezgisiyle.
+
+
+        // Korkuya esir değilim,
+
+        Tanrı’ çocuğuyum ben. //
+
+
+        Ana rahminde, beni sen seçtin,
+
+        adımla sen çağırdın.
+
+        Yeniden doğdum, ailen oldum,
+
+        sevgin damarlarımda.
+
+
+        Sarındım tüm sevginle,
+
+        sarındım tüm görkeminle.
+
+        Çocukların olduk senin Rab,
+
+        kurtuluş müjdesiyle.
+
+
+        Yardın denizleri geçeyim diye,
+
+        korkum yok yüce sevginle.
+
+        Sen kurtardın beni söylüyorum,
+
+        Tanrı’ çocuğuyum ben..."
+
+
+        Söz & Müzik: Jonathan & Melissa Helser
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -İnancımızı Paylaşmak [Kelam Kültür Kahve]
+
+        https://youtu.be/OVEooVsaOCs
+
+
+        -Acaba #3 - Dindarlık Nedir?
+
+        https://youtu.be/emOPymiNtTo
+
+
+        -Bayram & Gökhan - Şükür Sana [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/VuuOjCXo5oA
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT3M31S
+      id: wQItUYJGp4M
+      imageURL: 'https://i.ytimg.com/vi/wQItUYJGp4M/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-16T08:59:14.000Z'
+      tags: >-
+        Umut,Kalesi,Umut
+        Kalesi,Hristiyanlık,hristiyan,İsa,Mesih,Akustik,İlahi,Akustik
+        İlahi,Din,İnanç,Özgürlük,Korku,Esaret,sevgi,Kurtuluş,Korkmuyorum,ezgi,Tanrı,yüce,melodi,Bir
+        Melodiyle Çözdüm İşte,Korkuya Esir Değilim,Tanrı Çocuğuyum
+        Ben,Devrim,Andrew,Katherine,Christianity,jesus,God,hope,grace,lütuf,müzik,music,hristiyan
+        müziği
+      title: >-
+        Andrew, Katie & Devrim - Korkuya Esir Değilim [Akustik | Hristiyan
+        İlahisi]
+      url: >-
+        https://www.youtube.com/watch?v=wQItUYJGp4M&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=25&t=0s
+      viewCount: '15032'
 ---
 
