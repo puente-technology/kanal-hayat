@@ -475,5 +475,129 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=V65JatwYFwA&list=PLargJSHzmn5kImufqEv8ONuQpvnBrDN6q&index=6&t=0s
       viewCount: '28125'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin yepyeni bir serisi olan, ‘’Akustik Tapınma’’yı size
+        sunduğumuz için çok heyecanlıyız! Yeni serimizin ilk ilahisi, "Layık”
+        ile karşınızdayız!
+
+
+        "Layık, layık, layık
+
+        Övgüyü almaya
+
+        Kutsal,  kutsal, kutsal
+
+        Tanrı’nın oğlusun
+
+        İsa, İsa, İsa
+
+        Tanrı’nın oğlusun
+
+
+        Sen müthişsin
+
+        Güç Tanrısı
+
+        Görkem Rabbi
+
+        Gel bizi doldur
+
+
+        Müthişsin
+
+        Güçlüsün
+
+        Görkemli
+
+        Gel bizi doldur"
+
+
+        Söz & Müzik: Paul Wilbur
+
+
+        ======================
+
+
+        "Akustik Tapınma” serimizde tapınmacı arkadaşlarımız, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirirken, bunun Hristiyan ibadetini yansıtmak için de bir fırsat
+        olmasını istiyoruz. Dileğimiz, sayfamıza yeni ezgiler yükleyerek,
+        zamanla her tarzda müziği seven tapınmacılara bereket olan büyük bir
+        arşiv yaratmak. Amacımız, Tanrı’ya müzikle tapınmanın değerini yansıtmak
+        ve böylece insanları Tanrı’ya yaklaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Kilisede Neden İlahi Söylenir? [Kelam Kültür Kahve]
+
+        https://youtu.be/JgigR6qr-Xw
+
+
+        -Ümit - Esenliğin Gelsin [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/kgxrJG-_1GE
+
+
+        -Acaba #17 - Yüreğim Nasıl Huzurlu Olur?
+
+        https://youtu.be/9qpvRL6U6_w
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT7M4S
+      id: Y6b0mhbIAfo
+      imageURL: 'https://i.ytimg.com/vi/Y6b0mhbIAfo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-04-10T15:32:59.000Z'
+      tags: >-
+        akustik,tapinma,umut
+        kalesi,ilahi,ibadet,hristiyan,hristiyanlik,tanri,allah,incil,kutsal
+        kitap,tevrat,zebur,layik,isa,mesih,kutsal,müthis,paul
+        wilbur,worthy,acoustic,turkish worship,turkce ilahi,hristiyan ilahisi
+      title: 'Layık [Akustik Tapınma | Hristiyan İbadeti]'
+      url: >-
+        https://www.youtube.com/watch?v=Y6b0mhbIAfo&list=PLargJSHzmn5kImufqEv8ONuQpvnBrDN6q&index=7&t=0s
+      viewCount: '35257'
 ---
 
