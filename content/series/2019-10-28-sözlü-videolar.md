@@ -274,5 +274,134 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Sj2-v_mBdFE&list=PLargJSHzmn5kC0PQwjAPp76w1x5DAeU6U&index=4&t=0s
       viewCount: '6596'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin Sözlü Videolar serisinde, "Hayranım" albümünde yer alan,
+        söz ve müziği Vedat Pektaş'a ait olan, “O Sadık Kalacak" ilahisiyle
+        devam ediyoruz.
+
+
+        "Hayranım" albümünün tamamına bu linkten ulaşabilirsiniz:
+        https://shemamedia.com
+
+
+        “İsa'yla birlikte öldüysek
+
+        Yine O'nunla birlikte yaşayacağız
+
+        Dayanırsak O'nunla birlikte
+
+        Egemenlik süreceğiz
+
+               Biz sadık kalmasak da
+               O sadık kalacak
+               Biz zayıf düşsek de
+               O gücümüz olacak
+               Bizim günahlarımızı üstlenen Rab
+
+        Kendi özüne aykırı davranamaz
+
+        Hiçbir zaman kendi çıkarını aramaz
+
+        Sevgisinden ötürü bizim için ölen Rab
+
+
+        Sevgisi ne yücedir
+
+        Bizim için savaştı
+
+        Ve son zaferi kazandı
+
+        Kendi mirasını bizimle paylaştı
+
+        Ve çocukları biz olduk"
+
+
+        Söz & Müzik: Vedat Pektaş
+
+        Çekim yeri: Rize
+
+
+        ======================
+
+
+        "Sözlü Videolar" serimizde tapınmacı arkadaşlarımızın, kendi
+        besteledikleri ilahileri seslendirdikleri sizlere sunuyoruz. İstiyoruz
+        ki, sayfamıza yeni ezgiler yükleyerek, zamanla her tarzda müziği seven
+        tapınmacılara bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya
+        müzikle tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Her Şeyi Rab’be Bırak - Hristiyan İlahisi
+
+        https://youtu.be/ApRb0LrZFN4
+
+
+        -Tanrı Adaletli midir? [Kelam Kültür Kahve]
+
+        https://youtu.be/J0KA0_eIkuQ
+
+
+        -Acaba #15 - Hristiyanlığı Hiç Duymadılarsa?
+
+        https://youtu.be/O5ir3KtvaA4
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M43S
+      id: 9HAbXqpE3OU
+      imageURL: 'https://i.ytimg.com/vi/9HAbXqpE3OU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-03-27T09:21:25.000Z'
+      tags: >-
+        hayranım,o sadik kalacak,adrienne neusch,vedat pektas,umut
+        kalesi,hristiyanlık,sozlu video,incil,isa
+        mesih,kilise,katolik,protestan,ortodoks,tapinma,ibadet,ilahi,inanc,sevgi,sadaket
+      title: 'O Sadık Kalacak [Sözlü Video | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=9HAbXqpE3OU&list=PLargJSHzmn5kC0PQwjAPp76w1x5DAeU6U&index=5&t=0s
+      viewCount: '8377'
 ---
 
