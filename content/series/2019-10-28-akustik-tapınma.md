@@ -247,5 +247,135 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ZF9K7aiqFQ0&list=PLargJSHzmn5kImufqEv8ONuQpvnBrDN6q&index=4&t=0s
       viewCount: '9981'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’ndeki, ‘’Akustik Tapınma’’ serimize, “Sana Bakıyorum”
+        ilahisi ile devam ediyoruz!
+
+
+        "Sana bakıyorum, Rabbim.
+
+        Arkama bakmadan!
+
+        İzlerim yolunu, Rabbim
+
+        İzlerim sevinçle, Rabbim
+
+        İzlerim durmadan, Rabbim
+
+        Arkama bakmadan
+
+
+        Seni seviyorum, Rabbim.
+
+        Arkama bakmadan!
+
+        Severim huzurunu, Rab.
+
+        Severim dostluğunu, Rab.
+
+        Severim durmadan, Rabbim.
+
+        Arkama bakmadan
+
+
+        Seni bekliyorum, Rabbim.
+
+        Ruhunla dolayım!
+
+        Severim gelişini, Rab.
+
+        Özlerim gelişini, Rab.
+
+        Hazırla beni, ey Rabbim.
+
+        Seninle olayım"
+
+
+        Söz & Müzik:
+
+
+        ======================
+
+
+        "Akustik Tapınma” serimizde tapınmacı arkadaşlarımız, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirirken, bunun Hristiyan ibadetini yansıtmak için de bir fırsat
+        olmasını istiyoruz. Dileğimiz, sayfamıza yeni ezgiler yükleyerek,
+        zamanla her tarzda müziği seven tapınmacılara bereket olan büyük bir
+        arşiv yaratmak. Amacımız, Tanrı’ya müzikle tapınmanın değerini yansıtmak
+        ve böylece insanları Tanrı’ya yaklaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Taht Üzerinde Oturana [Akustik Tapınma | Hristiyan İbadeti]
+
+        https://youtu.be/V65JatwYFwA
+
+
+        -Hristiyanlığın Diğer İnanışlardan Farkı Nedir?  [Kelam Kültür Kahve]
+
+        https://youtu.be/GyTrpaTrOFs
+
+
+        -İnancını Sorgula! | Spoken Word
+
+        https://youtu.be/3TBKF577Ino
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT6M34S
+      id: X7379oGF5NQ
+      imageURL: 'https://i.ytimg.com/vi/X7379oGF5NQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-05-07T11:59:46.000Z'
+      tags: >-
+        umut
+        kalesi,akustik,tapinma,ilahi,ibadet,genclik,turkce,turk,hristiyan,hristiyanlik,inanc,rab,tanri,allah,kilise,protestan,katolik,ortodoks,mezhep,isa,mesih,hac,carmih,baba,ogul,ruh,kutsal
+        ruh
+      title: 'Sana Bakıyorum [Akustik Tapınma | Hristiyan İbadeti]'
+      url: >-
+        https://www.youtube.com/watch?v=X7379oGF5NQ&list=PLargJSHzmn5kImufqEv8ONuQpvnBrDN6q&index=5&t=0s
+      viewCount: '31789'
 ---
 
