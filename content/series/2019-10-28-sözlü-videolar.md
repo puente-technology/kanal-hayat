@@ -778,5 +778,132 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=dLi-1n2KdXQ&list=PLargJSHzmn5kC0PQwjAPp76w1x5DAeU6U&index=8&t=0s
       viewCount: '46219'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Yeni serimiz olan, Umut Kalesi’nin Sözlü Videolar’ıyla devam ediyoruz.
+        "Hayranım" albümünde yer alan, söz ve müziği Adrienne Neusch'a ait olan,
+        "Sana Hayranım" ilahisiyle karşınızdayız!
+
+
+        "Hayranım" albümünün tamamına bu linkten ulaşabilirsiniz:
+        https://shemamedia.com
+
+
+        "Görkemli, kutsal Rab
+
+        Tahtında egemensin
+
+        Yüce, kuvvetli Kral
+
+        Kudretle yönetirsin
+
+          Ben kimim ki beni böyle sevesin?
+          Ben kimim ki benimle ilgilenesin?
+          Tapınırım!
+
+          Sana hayranım, Rab
+          Muhteşem işlerine
+          Bana olan sevgine
+          Sana hayranım, Rab
+          Dünya elinde olan bizde konut kuruyor
+          Hayranım Sana, hayranım Sana
+
+        Başlangıç ve Son
+
+        Zaman Seni kapsayamaz
+
+        Ebedi sevgini
+
+        Yürekler kavrayamaz"
+
+
+        Söz & Müzik: Adrienne Neusch
+
+        Çekim yeri: İstanbul
+
+
+        ======================
+
+
+        "Sözlü Videolar" serimizde tapınmacı arkadaşlarımızın, kendi
+        besteledikleri ilahileri seslendirdikleri sizlere sunuyoruz. İstiyoruz
+        ki, sayfamıza yeni ezgiler yükleyerek, zamanla her tarzda müziği seven
+        tapınmacılara bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya
+        müzikle tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -4 Dakika - 19 İlahi [Cup Song | Hristiyan İlahileri]
+
+        https://youtu.be/TX7VhdzuhV8
+
+
+        -Acaba #7 - Nasıl Hristiyan Olduk?
+
+        https://youtu.be/2LYAoJcfgiQ
+
+
+        -Paranın Hristiyanlık’taki Yeri Nedir? [Kelam Kültür Kahve]
+
+        https://youtu.be/Ib1OdAb00hI
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT5M21S
+      id: 4lLSGMt17sQ
+      imageURL: 'https://i.ytimg.com/vi/4lLSGMt17sQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-07-05T11:00:22.000Z'
+      tags: >-
+        Umut,kalesi,turkish christian music,hristiyan ilahi,Adrienne Neusch,Sana
+        hayranım,Rab,Görkemli,kutsal Rab,Ben kimim ki beni böyle
+        sevesin?,Hristiyanlık,Hristiyan,İsa,Mesih,Rab İsa,Başlangıç ve
+        son,yürek,ebedi sevgi,aşk,kuran,incil,sadakat,yemin,gençlik
+        kanalı,tevrat,zebur,değişti mi
+      title: 'Sana Hayranım [Sözlü Video | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=4lLSGMt17sQ&list=PLargJSHzmn5kC0PQwjAPp76w1x5DAeU6U&index=9&t=0s
+      viewCount: '49020'
 ---
 
