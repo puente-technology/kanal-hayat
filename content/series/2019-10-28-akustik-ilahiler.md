@@ -2462,5 +2462,124 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=OgC6pv5VF4c&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=23&t=0s
       viewCount: '5061'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, “Tapınmak
+        İstiyorum” ilahisinin akustik kaydı ile David ve Nathan karşınızda!
+
+
+        "Tapınmak istiyorum 
+
+        Tapınmayı seçiyorum
+
+        Tanrım sana sesleniyorum
+
+        Tanrım sana geliyorum
+
+
+        Ne kadar derin hayatın 
+
+        Övgülerim sende yücelsin
+
+        Dualarımı sunuyorum sana
+
+        Tanrım sana geliyorum 
+
+
+        Dünyayı yaratan Tanrı
+
+        Işığınla aydınlat ruhumu 
+
+        Seni arıyorum güveniyorum 
+
+        Tanrım sana geliyorum"
+
+
+        Söz & Müzik: David
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Ali - Avlularına Al Beni  [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/LhK7N2sVmug
+
+
+        -Tanrı Hikayeni Yazarsa [Değiştiren Tanrı]
+
+        https://youtu.be/KWkBMtmZpw0
+
+
+        -Kilisede Neden İlahi Söylenir? [Kelam Kültür Kahve]
+
+        https://youtu.be/JgigR6qr-Xw
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M49S
+      id: oMONBaPDE3g
+      imageURL: 'https://i.ytimg.com/vi/oMONBaPDE3g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-23T09:07:10.000Z'
+      tags: >-
+        Umut,Kalesi,Umut Kalesi,Akustik,İlahiler,Akustik
+        İlahiler,Hristiyanlık,Hristiyan,İsa,Mesih,Hristiyan
+        İlahiler,Nathan,David,Tapınma,Tapınmak İstiyorum,Tanrım,Tanrı,Tanrım
+        sana geliyorum,Dünyayı Yaratan
+        Tanrı,Övgü,Dua,Christianity,God,Jesus,worship,lütuf,güveniyorum,seçim,inanç,dünya,yaratıcı,ışık,aramak,aydınlık,ilahi,tapinma,ibadet,inanc,kilise
+      title: 'David - Tapınmak İstiyorum [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=oMONBaPDE3g&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=24&t=0s
+      viewCount: '5709'
 ---
 
