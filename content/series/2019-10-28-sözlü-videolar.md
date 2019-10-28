@@ -403,5 +403,127 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=9HAbXqpE3OU&list=PLargJSHzmn5kC0PQwjAPp76w1x5DAeU6U&index=5&t=0s
       viewCount: '8377'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin Sözlü Videolar serisine, "Hayranım" albümünde yer alan,
+        söz ve müziği Adrienne Neusch’e ait olan, “Gelin Bakın" ilahisiyle devam
+        ediyoruz.
+
+
+        "Hayranım" albümünün tamamına bu linkten ulaşabilirsiniz:
+        https://shemamedia.com
+
+
+        //  Gelin, bakın Tanrımız ne büyük
+
+        Sevinelim tüm yaptıklarına
+
+        Kudretle O yanıtlar bizi
+
+        Tanrımız gibisi yok  //
+
+           //  "Ne müthiş işlerin var!"
+           Biz haykırırız
+           "Öyle büyük gücün var ki
+           Düşmanların eğiliyor Senin önünde
+           Tüm dünya tapsın Sana!"  //
+
+        //  Gelin bakın Tanrımız ne büyük
+
+        O'dur bize zafer kazandıran
+
+        Ulusların sevincidir
+
+        Tanrımız gibisi yok  //
+
+
+        Söz & Müzik: Adrienne Neusch
+
+
+        Çekim yeri: Mardin
+
+
+        ======================
+
+
+        "Sözlü Videolar" serimizde tapınmacı arkadaşlarımızın, kendi
+        besteledikleri ilahileri seslendirdikleri sizlere sunuyoruz. İstiyoruz
+        ki, sayfamıza yeni ezgiler yükleyerek, zamanla her tarzda müziği seven
+        tapınmacılara bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya
+        müzikle tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Manolya - Temiz Eller [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/scad1ABXdLk
+
+
+        -Acaba #2 - Tanrı'yı Kanıtlayabilir miyiz?
+
+        https://youtu.be/wOHxbrluyQs
+
+
+        -Paranın Hristiyanlık’taki Yeri Nedir? [Kelam Kültür Kahve]
+
+        https://youtu.be/Ib1OdAb00hI
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT3M34S
+      id: 0D1-7pbVw24
+      imageURL: 'https://i.ytimg.com/vi/0D1-7pbVw24/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-02-12T09:46:19.000Z'
+      tags: >-
+        umut,kalesi,sözlü
+        videolar,hristiyan,ilahi,isa,mesih,incil,kilise,tapınma,Gelin bakın
+        Tanrımız ne büyük,Sevinelim tüm yaptıklarına,Kudretle O yanıtlar
+        bizi,Tanrımız gibisi yok,Ne müthiş
+      title: 'Gelin Bakın [Sözlü Video | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=0D1-7pbVw24&list=PLargJSHzmn5kC0PQwjAPp76w1x5DAeU6U&index=6&t=0s
+      viewCount: '5587'
 ---
 
