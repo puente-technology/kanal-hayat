@@ -124,14 +124,14 @@ class PlayerInfoExpand extends Component {
               {targetGroup || ''}
             </p>
           </div>
-          <div className="player-info-info-div">
+          {/* <div className="player-info-info-div">
             <p className="player-info-text-bold">
             Anahtar Kelimeler:
             </p>
             <p className="player-info-text-lighter" style={{ height: '32px', overflow: 'scroll' }}>
               {episodeInfo.youtubeURL.tags}
             </p>
-          </div>
+          </div> */}
           <div style={{ marginTop: '20px' }}>
             <p className="player-info-text-bold">
               Bölümler

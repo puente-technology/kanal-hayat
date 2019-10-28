@@ -286,7 +286,7 @@ class HostsList extends Component {
             type="button"
             className={sortByNameBool ? 'SortButton active' : 'SortButton'}
           >
-            Program İsmi
+            Sunucu İsmi
           </button>
           {/* <button
             value="date"
