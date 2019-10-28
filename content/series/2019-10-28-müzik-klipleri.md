@@ -497,5 +497,123 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Ik1M0acSk0M&list=PLargJSHzmn5l08XvVzJ2ekW8kuYNLfGNH&index=5&t=0s
       viewCount: '88475'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Adrienne Neusch'ın "Varlığın" albümünde yer alan  "Ulu Tanrımız İyi
+        Tanrımız" ilahisi karşınızda!
+
+
+        "Varlığın" albümünün tamamına ulaşmak için bu linki kullanabilirsiniz:
+        https://shemamedia.com
+
+
+        "Görkem hüküm sürene
+
+        Övgü tahtta oturana
+
+        Onur harikalar yapana
+
+        Ne ulusun, Tanrı! Ne ulusun!
+
+          Gökleri övgüyle dolduracağız
+          En yüce hamtları yükselteceğiz
+          Seni her şeyden çok seveceğiz
+          Ulu Tanrımız, iyi Tanrımız
+
+        Görkem ölümü yenene
+
+        Övgü bizi güçlü kılana
+
+        Onur 'Benimsiniz' diyene
+
+        Ne iyisin, Tanrı! Ne iyisin!
+
+           // Yüce adın yayıldıkça, Krallar Kralı, Rabler Rabbi
+          Övgüler de dünyanın dört bucağında artıyor //"
+
+        Söz & Müzik: Adrienne Neusch
+
+
+        ======================
+
+
+        "Müzik Klipleri" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ilahileri seslendirmeleri için bir fırsat sunuyoruz.
+        İstiyoruz ki, sayfamıza yeni ezgiler yükleyerek, zamanla her tarzda
+        müziği seven tapınmacılara bereket olan büyük bir arşiv yaratalım.
+        Amacımız, Tanrı’ya müzikle tapınmanın değerini yansıtmak ve böylece
+        insanları Tanrı’ya yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -İnancımızı Paylaşmak [Kelam Kültür Kahve]
+
+        https://youtu.be/OVEooVsaOCs
+
+
+        -Acaba #15 - Hristiyanlığı Hiç Duymadılarsa?
+
+        https://youtu.be/O5ir3KtvaA4
+
+
+        -Perde Yırtıldı - Hristiyan İlahisi
+
+        https://youtu.be/Ik1M0acSk0M
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M10S
+      id: Es2IST5-5lk
+      imageURL: 'https://i.ytimg.com/vi/Es2IST5-5lk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-02T09:00:01.000Z'
+      tags: >-
+        kalesi,umut,türkçe,isa,incil,varlığın,dans,iman,turkce,turk,Türkçe,müzik,music,middle
+        east,christian,christianity,worship,turkish,türk,ilahi,hristiyanlık,ilahisi,hristiyan,Adrienne,Neusch,dance,Tanrı,Uu,Ulu
+        Tanrımız,God,Jesus,Music clip,Turkish Christian Worship song
+      title: Ulu Tanrımız İyi Tanrımız - Hristiyan İlahisi
+      url: >-
+        https://www.youtube.com/watch?v=Es2IST5-5lk&list=PLargJSHzmn5l08XvVzJ2ekW8kuYNLfGNH&index=6&t=0s
+      viewCount: '96559'
 ---
 
