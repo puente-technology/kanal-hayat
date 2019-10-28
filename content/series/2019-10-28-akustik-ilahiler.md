@@ -2828,5 +2828,115 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=LhK7N2sVmug&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=26&t=0s
       viewCount: '3889'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, “Ya Rab”
+        ilahisinin akustik kaydı ile Michal ve Lukas karşınızda!
+
+
+        "Dünyada tatmadığım emsalsiz sevgi verdin,
+
+        Bana, "Kıymetli kuzum, çocuğumsun sen" dedin.
+
+
+        // Ya Rab, ya Rab, ya Rab, İsa,
+
+        Ya Rab, ya Rab, ya Rab, İsa. //
+
+
+        Yüreğim hiç bilmediği sahibine kavuştu,
+
+        Bırakıp tüm yükünü Kutsal Ruhun'la coştu
+
+
+        Şimdi tek istediğim güzelliğini övmek,
+
+        Yüzüne bakıp seni sevdiğimi söylemek 
+
+
+        Söz & Müzik: Meltem Göksu
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Acaba #6 - İslam’ı Araştırdık mı?
+
+        https://youtu.be/q_aFe82CJD8
+
+
+        -Michal - Umudumu Rab’be Bağlıyorum Kelam Kültür Kahve]
+
+        https://youtu.be/dLi-1n2KdXQ
+
+
+        -Tanrı İyiyse Acı Neden Var? [Kelam Kültür Kahve]
+
+        https://youtu.be/SMFCsw9NeVs
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT2M59S
+      id: mf6QV5_Ug9A
+      imageURL: 'https://i.ytimg.com/vi/mf6QV5_Ug9A/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-26T09:19:25.000Z'
+      tags: >-
+        hristiyan,ilahisi,hristiyanlık,mesih,isa
+        mesih,peygamberler,tanrı,zebur,incil,Akustik,Müzik,Music,Türk,Umut,kalesi,Hz,İsa,Tapınma,Worship,Christianity,Michal,Lukas,yaRab,Rab,Allah,Jesus,umut
+        kalesi,acoustic,ibadet,inanc,kilise
+      title: 'Michal & Lukas - Ya Rab [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=mf6QV5_Ug9A&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=27&t=0s
+      viewCount: '24449'
 ---
 
