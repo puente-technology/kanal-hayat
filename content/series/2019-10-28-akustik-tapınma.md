@@ -377,5 +377,103 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=X7379oGF5NQ&list=PLargJSHzmn5kImufqEv8ONuQpvnBrDN6q&index=5&t=0s
       viewCount: '31789'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’ndeki, ‘’Akustik Tapınma’’ serimizin ikinci ilahisi, "Taht
+        Üzerinde” ile karşınızdayız!
+
+
+        "Taht üzerinde oturana
+
+        Ve kuzuya ebetler ebedince
+
+           //  Bereket ve hürmet
+           Ve izzet ve kudret olsun!  //"
+
+        Söz & Müzik: David Goodman
+
+
+        ======================
+
+
+        "Akustik Tapınma” serimizde tapınmacı arkadaşlarımız, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirirken, bunun Hristiyan ibadetini yansıtmak için de bir fırsat
+        olmasını istiyoruz. Dileğimiz, sayfamıza yeni ezgiler yükleyerek,
+        zamanla her tarzda müziği seven tapınmacılara bereket olan büyük bir
+        arşiv yaratmak. Amacımız, Tanrı’ya müzikle tapınmanın değerini yansıtmak
+        ve böylece insanları Tanrı’ya yaklaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Paskalya & Diriliş Gerçeği [Kelam Kültür Kahve]
+
+        https://youtu.be/J1iFKlv3h8I
+
+
+        -Layık [Akustik Tapınma | Hristiyan İbadeti]
+
+        https://youtu.be/Y6b0mhbIAfo
+
+
+        -Acaba #19 - Tanrı İnsan Olabilir mi?
+
+        https://youtu.be/D9Ceavvvbtg
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M4S
+      id: V65JatwYFwA
+      imageURL: 'https://i.ytimg.com/vi/V65JatwYFwA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-04-24T09:09:22.000Z'
+      tags: >-
+        umut kalesi,akustik,tapinma,hristiyan,ibadet,hristiyanlik,david
+        goodman,taht,isa,mesih,tanri,allah,yahweh,yahve,kutsal
+        kitap,incil,kilise,ortodoks,katolik,protestan,ilahi
+      title: 'Taht Üzerinde Oturana [Akustik Tapınma | Hristiyan İbadeti]'
+      url: >-
+        https://www.youtube.com/watch?v=V65JatwYFwA&list=PLargJSHzmn5kImufqEv8ONuQpvnBrDN6q&index=6&t=0s
+      viewCount: '28125'
 ---
 
