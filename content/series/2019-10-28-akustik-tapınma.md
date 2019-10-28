@@ -231,5 +231,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=jafb-VVnEfo&list=PLargJSHzmn5kImufqEv8ONuQpvnBrDN6q&index=3&t=0s
       viewCount: '7011'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: "Umut Kalesi’ndeki, ‘’Akustik Tapınma’’ serimize, “Yücelerin En Yücesi” ilahisi ile devam ediyoruz!\n\n\"Yücelerin en yücesi\nTüm evrenin hazinesi\nHayatımın efendisi\nGünlerimin tek sahibi, günlerimin tek sahibi\n\n\_\_Haleluya, haleluya\n\_\_İsa Mesih Rab'bimdir\n\_\_Haleluya, haleluya\n\_\_İsa Mesih Rab'bimdir, İsa Mesih Rab'bimdir\n\nYaslıların tesellisi\nUlusların ümidi\nKırgınların Barış Prensi\nİşte benim Mesih'im\nİşte benim Mesih'im\n\nSen çarmıha gerildin\nOr'da ölümü Sen yendin\nSen göğe yükseldin\nYol, Gerçek, Yaşam Sensin\nYol, Gerçek, Yaşam Sensin\"\n\nSöz & Müzik: Aaron Miller\n\n======================\n\n\"Akustik Tapınma” serimizde tapınmacı arkadaşlarımız, kendi besteledikleri ya da kendi yorumlarını kattıkları ilahileri seslendirirken, bunun Hristiyan ibadetini yansıtmak için de bir fırsat olmasını istiyoruz. Dileğimiz, sayfamıza yeni ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara bereket olan büyük bir arşiv yaratmak. Amacımız, Tanrı’ya müzikle tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya yaklaştırmaktır.\n\n======================\n\nSOSYAL MEDYA HESAPLARIMIZ:\_\n\nİlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin hikayeleri ve daha fazlası için ► https://www.umutkalesi.com\n\nFacebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia\_\n\nTwitter’da ► http://twitter.com/umutkalesimedia\_\n\nVe Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi\_\n\nSiz de videolarımızı beğenebilir, kanalımıza abone olabilir ve videoların altına yorum yaparak merak ettiğiniz sorular için bizimle iletişime geçebilirsiniz\n\n======================\n\nBU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:\n\n-Sana Bakıyorum [Akustik Tapınma | Hristiyan İbadeti]\nhttps://youtu.be/X7379oGF5NQ\n\n-Paskalya & Diriliş Gerçeği [Kelam Kültür Kahve]\nhttps://youtu.be/J1iFKlv3h8I\n\n-Acaba #13 - İsa Mesih Tanrı’nın Oğlu mu, Yoksa Tanrı’nın Kendisi midir?\nhttps://youtu.be/U43yD9LQ4Lw\n\n======================\n\nUMUT KALESİ KİMDİR?\n\nUmut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren; Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel söyleşilerin yer aldığı Youtube kanalıdır."
+      duration: PT3M36S
+      id: ZF9K7aiqFQ0
+      imageURL: 'https://i.ytimg.com/vi/ZF9K7aiqFQ0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-08-08T13:50:15.000Z'
+      tags: >-
+        ilahi,kilise,umut
+        kalesi,tanri,allah,inanc,iman,hristiyan,tapinma,hristiyanlik,ibadet,isa,mesih,yuce
+      title: 'Yücelerin En Yücesi [Akustik Tapınma | Hristiyan İbadeti]'
+      url: >-
+        https://www.youtube.com/watch?v=ZF9K7aiqFQ0&list=PLargJSHzmn5kImufqEv8ONuQpvnBrDN6q&index=4&t=0s
+      viewCount: '9981'
 ---
 
