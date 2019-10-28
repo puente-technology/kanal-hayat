@@ -374,5 +374,128 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=uhZ6ZNfkw38&list=PLargJSHzmn5l08XvVzJ2ekW8kuYNLfGNH&index=4&t=0s
       viewCount: '74690'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Adrienne Neusch'ın "Varlığın" albümünde yer alan  "Perde Yırtıldı"
+        ilahisi karşınızda!
+
+
+        "Varlığın" albümünün tamamına ulaşmak için bu linki kullanabilirsiniz:
+        https://shemamedia.com
+
+
+        "Yıllarca kurtarışın vaat edildi ve bekledik
+
+        Babamızdan ayrı kalmıştık ama bizi hiç bırakmadın
+
+        Yüreğinde bizi taşıdın, zaman geçtikçe lütfun birikti
+
+        Engellerin hepsini kaldırdın ve günahımı yüklendin çarmıhta
+
+          Tamamlandı her şey verdiğin son nefeste
+          Yeryüzü sarsıldı ve perde yırtıldı
+
+          Merhamet büyük bir sel gibi tapınaktan fışkırdı
+          Birikmiş lütfun nehir gibi üzerimden taştı taştı
+          Derin sevginde kayboldum
+
+        Ne ölüm, ne karanlık, ne de mezar Seni tutabildi
+
+        Karanlığın gücü yoktu ki Seni yenip alt edebilsin
+
+        Babamla beni barıştırdın kendi canını feda ederek
+
+        Yalnızlığım ve utancımın yerine Sen sevgini verdin"
+
+
+        Söz & Müzik: Adrienne Neusch
+
+
+        ======================
+
+
+        "Müzik Klipleri" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ilahileri seslendirmeleri için bir fırsat sunuyoruz.
+        İstiyoruz ki, sayfamıza yeni ezgiler yükleyerek, zamanla her tarzda
+        müziği seven tapınmacılara bereket olan büyük bir arşiv yaratalım.
+        Amacımız, Tanrı’ya müzikle tapınmanın değerini yansıtmak ve böylece
+        insanları Tanrı’ya yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Ümit - Rab İsa Sana Geldim [Akustik | Hristiyan İlahisi] 
+
+        https://youtu.be/IvBFosPk_z0
+
+
+        -Ulu Tanrımız İyi Tanrımız - Hristiyan İlahisi
+
+        https://youtu.be/Es2IST5-5lk
+
+
+        -İnancını Sorgula! - Spoken Word
+
+        https://youtu.be/3TBKF577Ino
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT6M50S
+      id: Ik1M0acSk0M
+      imageURL: 'https://i.ytimg.com/vi/Ik1M0acSk0M/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-03-27T09:11:32.000Z'
+      tags: >-
+        Umut,Kalesi,Varlığın,Adrienne,Adrienne Neusch,Perde
+        Yırtıldı,Perde,Yırtıldı,Hristiyan,İlahisi,İlahi,Tapınma,Çarmıh,Yıllarca
+        kurtarışı vaad edildi ve bekledik,babamızdan ayrı kalmıştık,Merhamet
+        büyük bir sel gibi,tapınak,Aşk,Sevgi,derin sevgi,kayboldu,İsa
+        Mesih,Ölüm,Karanlık,Mezar,Karanlığın gücü,Işık,Tamamlandı herşey,son
+        nefes,yer yüzü sarsıldı,yer
+        yüzü,sel,merhamet,hristiyan,hristiyanlık,incil,kutsal
+        kitap,Tanrı,Allah,Rab,yaşam,yaşam ağacı,hayat,deprem
+      title: Perde Yırtıldı - Hristiyan İlahisi
+      url: >-
+        https://www.youtube.com/watch?v=Ik1M0acSk0M&list=PLargJSHzmn5l08XvVzJ2ekW8kuYNLfGNH&index=5&t=0s
+      viewCount: '88475'
 ---
 
