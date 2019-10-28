@@ -256,5 +256,123 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=TX7VhdzuhV8&list=PLargJSHzmn5l08XvVzJ2ekW8kuYNLfGNH&index=3&t=0s
       viewCount: '32162'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Adrienne Neusch'ın "Varlığın" albümünde yer alan  "Layıksın" ilahisi
+        karşınızda!
+
+
+        "Varlığın" albümünün tamamına ulaşmak için bu linki kullanabilirsiniz:
+        https://shemamedia.com
+
+
+        "Elimde ne varsa Sana veriyorum
+
+        Senin yanında her şey süprüntü
+
+
+        Adanmış, ayrılmış, Sana ait olayım
+
+          Sen layıksın, Rabbim layıksın
+          Yaşamıma, her şeyime değersin
+
+        Geride kalan her şeyi unutup
+
+        İleride olana uzanarak koşarım
+
+        Böyle bir sevgi yok bütün dünyada
+
+        Kendini feda ettin, Senden ne esirgerim?
+
+          Yüreğimin sahibi, canımı veririm
+          Hayatımı sunarım Sana
+          Hak ettiğin övgüyü alman için"
+
+        Söz & Müzik: Adrienne Neusch
+
+
+        ======================
+
+
+        "Müzik Klipleri" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ilahileri seslendirmeleri için bir fırsat sunuyoruz.
+        İstiyoruz ki, sayfamıza yeni ezgiler yükleyerek, zamanla her tarzda
+        müziği seven tapınmacılara bereket olan büyük bir arşiv yaratalım.
+        Amacımız, Tanrı’ya müzikle tapınmanın değerini yansıtmak ve böylece
+        insanları Tanrı’ya yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Tanrı Hikayeni Yazarsa [Değiştiren Tanrı]
+
+        https://youtu.be/KWkBMtmZpw0
+
+
+        -Perde Yırtıldı - Hristiyan İlahisi
+
+        https://youtu.be/Ik1M0acSk0M
+
+
+        -Sahte Tanrılar - Spoken Word 
+
+        https://youtu.be/H6NLbt6fvlo
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT7M4S
+      id: uhZ6ZNfkw38
+      imageURL: 'https://i.ytimg.com/vi/uhZ6ZNfkw38/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-06-19T09:00:08.000Z'
+      tags: >-
+        Umut,kalesi,ilahi,akustik,hane,hristiyan,hristiyanlık,rab,rabbe,övgü,özgür,Adrienne
+        Neusch,Varlığın,Layıksın,albüm,album,varligin,klip,kilise,papaz,rahip,ölüm,yaşam,muhteşem,mekke,kudüs,medine,incil,kuran,tevrat,elimde
+        ne varsa sana veriyoryum,senin yanında her şey süprütü,adanmış ayrılmış
+        sana ait olayım,sana ait olayım,rabbim layıksın,yaşamıma her şeyime
+        değersin,seni bırakmam
+      title: Layıksın - Hristiyan İlahisi
+      url: >-
+        https://www.youtube.com/watch?v=uhZ6ZNfkw38&list=PLargJSHzmn5l08XvVzJ2ekW8kuYNLfGNH&index=4&t=0s
+      viewCount: '74690'
 ---
 
