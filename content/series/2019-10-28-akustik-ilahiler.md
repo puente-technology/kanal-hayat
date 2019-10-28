@@ -1925,5 +1925,106 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=yx7CkKSXlzA&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=18&t=0s
       viewCount: '3176'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Yükseltiriz”
+        ilahisinin akustik kaydı ile Ceremi ve Mişel karşınızda! 
+
+
+        " // Yükseltiriz, yüceltiriz
+           Herkes görsün 
+           Görkemini yükseltiriz //
+           
+           Tüm görkeme layıksın
+           Tüm övgüye layıksın
+           Senin güzelliğini
+           Görmek istiyoruz
+           Layık krallığını
+           
+           Sen tamamen güzelsin
+           Kutsallığın müthiştir
+           Bu yeri doldursun Rab
+           Varlığın tatlıdır
+           Rab İsa gel
+
+           Bedenlerimizi iyileştir
+           Bizi kurtar kralımız
+           Seni tamamen bilelim
+           Sen de bizi bilirsin
+           Herşeyimizsin"
+
+        Söz & Müzik: Ceremi
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Acaba #6 - İslam’ı Araştırdık mı?
+
+        https://youtu.be/q_aFe82CJD8
+
+
+        -Hristiyanlar Nasıl İbadet Eder? [Kelam Kültür Kahve]
+
+        https://youtu.be/bYkKk4_Sqv0
+
+
+        -Ceremi & Mişel - Sen Layıksın Övgüye [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/OgC6pv5VF4c
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT5M43S
+      id: WioWLCr0UeE
+      imageURL: 'https://i.ytimg.com/vi/WioWLCr0UeE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-02-27T08:58:04.000Z'
+      tags: >-
+        Umut,Kalesi,Kule,Zafer,Yükseltiriz,Yüceltiriz,Herkez görsün
+        görkemini,Ceremi,Mişel,Hristiyanlık,Hristiyan,İsa,Mesih,Tanrı,God,Jesus,Ulu,Yüce,Adalet,Eşitlik,sevgi,Love,Allah,Kayıran,Esirgeyen,koruyan,Zaferli,Sabır,merhametli,Sadık,Kutsal
+        Kitap,İncil,Mezmur,Tapınma,İlahi,Akustik,Hristiyan ilahileri,Akustik
+        ezgiler,Ezgi,music,müzik,Kutsallığın müthiştir,Rab İsa gel
+      title: 'Ceremi & Mişel - Yükseltiriz [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=WioWLCr0UeE&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=19&t=0s
+      viewCount: '2489'
 ---
 
