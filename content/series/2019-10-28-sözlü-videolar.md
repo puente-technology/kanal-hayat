@@ -158,5 +158,121 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=T9jOsF08kh0&list=PLargJSHzmn5kC0PQwjAPp76w1x5DAeU6U&index=3&t=0s
       viewCount: '9861'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin Sözlü Videolar serisinde, “Seni Seviyorum” albümünde yer
+        alan; söz ve müziği Onur Yöş’e ait olan ve Kayra Akpınar tarafından
+        seslendirilen, “Evindeyim” ilahisiyle devam ediyoruz.
+
+
+        “Seni Seviyorum” albümünün tamamına bu linkten ulaşabilirsiniz:
+        https://shemamedia.com
+
+
+        “Evindeyim
+
+        Huzuruna geldim
+
+        Beni kabul eden Tanrı
+
+        İyisin
+
+         Hayranım Rab Sana
+         Beni al kollarına
+         Hiçbir şey istemem
+         Varlığın beni yeniler
+
+        Evindeyim
+
+        Başka bir arzum yok
+
+        Seninle buluşmak 
+
+        Sana tapınmak"
+
+
+        Söz & Müzik: Onur Yöş
+
+
+        ======================
+
+
+        "Sözlü Videolar" serimizde tapınmacı arkadaşlarımızın, kendi
+        besteledikleri ilahileri seslendirdikleri sizlere sunuyoruz. İstiyoruz
+        ki, sayfamıza yeni ezgiler yükleyerek, zamanla her tarzda müziği seven
+        tapınmacılara bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya
+        müzikle tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Kayra - Zamanın Öncesinde [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/0-kRVSZATrs
+
+
+        -Cennet Nasıl Bir Yer? [Kelam Kültür Kahve]
+
+        https://youtu.be/otRh5fq9e-Q
+
+
+        -Acaba #21 - Haçlı Seferleri Hakkında Düşündüklerimiz
+
+        https://youtu.be/REHUgJJUgQU
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT3M3S
+      id: Sj2-v_mBdFE
+      imageURL: 'https://i.ytimg.com/vi/Sj2-v_mBdFE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-05-21T08:59:36.000Z'
+      tags: >-
+        hristiyan,ilahi,sözlü video,müzik,tapinma,inanc,ibadet,umut kalesi,seni
+        seviyorum,tanri,allah,kilise,isa,mesih,rab,kurtarici
+      title: 'Evindeyim [Sözlü Video | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=Sj2-v_mBdFE&list=PLargJSHzmn5kC0PQwjAPp76w1x5DAeU6U&index=4&t=0s
+      viewCount: '6596'
 ---
 
