@@ -427,5 +427,139 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=3JbRTC5xi6E&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=5&t=0s
       viewCount: '9656'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Sevgim
+        Olmasa” ilahisinin akustik kaydı ile Melis, Esin, Eren, Lukas, Burak &
+        Lisl karşınızda! 
+
+
+        "// Eğer insanların meleklerin diliyle konuşsam
+
+        Eğer bütün sırları bilsem her tür bilgiye sahip olsam
+
+        Dağları yerinden oynatacak kadar büyük bir imanım olsa
+
+        Bedenimi yakılmak üzere teslim etsem...
+
+        Ama sevgim olmasa bir hiçim //
+
+
+        Sevgi sabırlıdır
+
+        Sevgi şefkatlidir
+
+        Sevgi kıskanmaz, övünmez, böbürlenmez
+
+        Sevgi kaba davranmaz
+
+        Kendi çıkarını aramaz
+
+        Kolayca öfkelenmez kötülüğün hesabını tutmaz, tutmaz
+
+        Sevgi haksızlığa sevinmez ama gerçek olanla sevinir
+
+        Sevgi her şeye katlanır
+
+        Her şeye inanır
+
+        Her şeyi ümit eder
+
+        Her şeye dayanır
+
+        Sevgi asla son bulmaz"
+
+
+        Söz: İncil / 1. Korintliler 13. bölüm
+
+        Müzik: Melis
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Işıl - Kartal Gibi [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/ksoR1XyGhbc
+
+
+        -Ümit - Esenliğin Gelsin [Akustik | Hristiyan İlahisi] 
+
+        https://youtu.be/kgxrJG-_1GE
+
+
+        -Acaba #7 - Nasıl Hristiyan Olduk?
+
+        https://youtu.be/2LYAoJcfgiQ
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M50S
+      id: YmKuAAylVzU
+      imageURL: 'https://i.ytimg.com/vi/YmKuAAylVzU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-03-12T09:00:27.000Z'
+      tags: >-
+        umut,kalesi,akustik,ilahiler,akustik
+        hane,hane,hristiyanlık,hristiyan,ilahi,sevgim olmasa,sevgi asla son
+        bulmaz,Sevgi sabırlıdır,Sevgi şefkatlidir,Sevgi
+        kıskanmaz,övünmez,böbürlenmez,Sevgi kaba davranmaz,Kendi çıkarını
+        aramaz,Kolayca öfkelenmez kötülüğün hesabını tutmaz,Her şeyi ümit
+        eder,Sevgi her şeye katlanır,Her şeye
+        inanır,incil,tevrat,zebur,tapınma,müzik,İsa Mesih,kilise
+      title: 'Melis - Sevgim Olmasa  [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=YmKuAAylVzU&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=6&t=0s
+      viewCount: '12149'
 ---
 
