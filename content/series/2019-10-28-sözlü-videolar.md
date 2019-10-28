@@ -35,5 +35,128 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=oZzDO4XwBGg&list=PLargJSHzmn5kC0PQwjAPp76w1x5DAeU6U&index=2&t=0s
       viewCount: '2603'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin sözlü videolar serisinde, ‘’Sevgisin’’  ilahisiyle devam
+        ediyoruz.
+
+        “Hayranım” albümündeki, söz ve müziği Tilmann Geske’ye ait olan bu
+        ilahi, Vedat Pektaş ve Adrienne Neusch tarafından seslendirildi. 
+
+
+        "Hayranım" albümünün tamamına bu linkten ulaşabilirsiniz:
+        https://shemamedia.com
+
+
+        "// Görkemli (görkemli)
+
+        Muhteşem (muhteşem)
+
+        Şahane (şahane)
+
+        Sağ elin korkunç güce sahiptir  //
+
+
+        Hayatımı almaya layıksın değersin
+
+        Oğlunu bizim için verdin
+
+        Hayatımı almaya layıksın değersin
+
+        Her şeyimi değiştir Ya Rab
+
+        Her şeyime biçim ver Ya Rab
+
+        Doldur beni bur'dayım ya Rab!
+
+          Sevgisin Tanrımız Rab sevgidir (Rab sevgidir)
+          Sevdin sen sarıldım sana Rab İsa
+          Sevgisin Tanrımız Rab sevgidir (Rab sevgidir)
+          Sevdin sen ben de seni seviyorum
+          Sevgisin"
+
+        Söz & Müzik: Tilmann Geske
+
+
+        ======================
+
+
+        "Sözlü Videolar" serimizde tapınmacı arkadaşlarımızın, kendi
+        besteledikleri ilahileri seslendirdikleri sizlere sunuyoruz. İstiyoruz
+        ki, sayfamıza yeni ezgiler yükleyerek, zamanla her tarzda müziği seven
+        tapınmacılara bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya
+        müzikle tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -O Sadık Kalacak [Sözlü Video | Hristiyan İlahisi] 
+
+        https://youtu.be/9HAbXqpE3OU
+
+
+        -Evindeyim [Sözlü Video | Hristiyan İlahisi] 
+
+        https://youtu.be/Sj2-v_mBdFE
+
+
+        -İnancımız Paylaşmak [Kelam Kültür Kahve]
+
+        https://youtu.be/OVEooVsaOCs
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT8M21S
+      id: T9jOsF08kh0
+      imageURL: 'https://i.ytimg.com/vi/T9jOsF08kh0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-07-24T12:00:26.000Z'
+      tags: >-
+        umut kalesi,ilahi,sozlu video,tilmann
+        geske,inanc,kilise,iman,malatya,isa,mesih,hristiyan,hristyanlik,hac,carmih,allah,tanri,yaratan
+      title: 'Sevgisin [Sözlü Video | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=T9jOsF08kh0&list=PLargJSHzmn5kC0PQwjAPp76w1x5DAeU6U&index=3&t=0s
+      viewCount: '9861'
 ---
 
