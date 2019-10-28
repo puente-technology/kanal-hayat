@@ -2130,5 +2130,118 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=twzBtI9UBMQ&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=20&t=0s
       viewCount: '6829'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Gökleri Aç
+        Rab” ilahisinin akustik kaydı ile Alice ve Nathan karşınızda! 
+
+
+        " Gökleri aç Rab üzerimize
+          Gökleri aç yağmurun yağsın
+          Senin halkınız biz diktiğin bağınız biz
+          Gökleri aç yağmurun yağsın
+
+          Bahçendeki ağaçlar kuruyup gitti
+          Zeytin ve şarap da tükendi
+          Bağın ıssız kaldı duvarları çöktü
+          Rab yokluğunda yakarırız
+
+          Kendine döndür bizi, ya Rab, döneriz
+          Yeniden canlandır halkını
+          Sürgünden kurtar bizi eve götür
+          Egemenliğine kavuştur
+
+          // Yağsın, yağsın, halkın üzerine yağsın  //
+          // Yağmurunu gönder, Yağmurunu gönder  // "
+
+        Söz & Müzik: Ingrid Rosario
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da! ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Kader & Özgür İrade Görüşleri [Kelam Kültür Kahve]
+
+        https://youtu.be/R_UGX0MS5t4
+
+
+        -İşkolik [Kısa Film]
+
+        https://youtu.be/4RmGYLFizQI
+
+
+        -Alice & Nathan - Teslim Oldum [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/wQb12cQ_Aak
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT5M16S
+      id: TTcF9lcZREs
+      imageURL: 'https://i.ytimg.com/vi/TTcF9lcZREs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-02-13T09:00:14.000Z'
+      tags: >-
+        Umut,Kalesi,İlahiler,İlahi,Tapınma,Akustik,Akustik
+        ilahiler,Allah,Tanrı,Rab,İsa,Mesih,Rab
+        İsa,Adalet,Eşitlik,Ulu,Yüce,Jesus,Tapınmak,God,Müzik,Music,Alice,Nathan,Gökleri
+        Aç Rab,Gökyüzü,İsa Mesih,Gökleri aç yağmurun yağsın,Kendine döndür bizi
+        ya Rab,ya Rab,Hristiyan,Hristiyanlık,Hristiyan ilahileri,Yağmurunu
+        gönder,diktiğin bağınız biz,Senin halkınız
+        biz,Yağsın,yağmur,yagmur,Gokleri Ac Rab,zeytin,Zeytin
+        Ağacı,Şarap,Üzüm,Bağcılık
+      title: 'Alice & Nathan - Gökleri Aç Rab [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=TTcF9lcZREs&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=21&t=0s
+      viewCount: '18542'
 ---
 
