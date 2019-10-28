@@ -671,5 +671,113 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=0-kRVSZATrs&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=7&t=0s
       viewCount: '9035'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Temiz Eller”
+        ilahisinin akustik kaydı ile Manolya, Emel, Moein ve Selçuk karşınızda! 
+
+
+        "Kalbim eğilir, dizim çöker
+         Kutsal Ruh gururumu kır
+         Kötülükten gözüm’ çevir
+         Putlarımı kırdım Rab
+
+           // Bana temiz eller
+           Pak bir yürek ver
+           Ruhumu başkasına
+           Sunmayayım  //
+
+           // Ey Tanrım bizi
+           Yüzünü arayan bir
+           Bir halk yap
+           Ey Yakup'un Tanrısı  //"
+
+        Söz & Müzik: Charlie Hall
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Kilisede Neden İlahi Söylenir? [Kelam Kültür Kahve]
+
+        https://youtu.be/JgigR6qr-Xw
+
+
+        -Sana Hayranım [Sözlü Video | Hristiyan İlahisi]
+
+        https://youtu.be/4lLSGMt17sQ
+
+
+        -İşkolik [Kısa Film]
+
+        https://youtu.be/4RmGYLFizQI
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M3S
+      id: scad1ABXdLk
+      imageURL: 'https://i.ytimg.com/vi/scad1ABXdLk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-01-22T09:00:24.000Z'
+      tags: >-
+        umut,kalesi,akustik,ilahiler,manolya,temiz,eller,incil,isa,mesih,rab,allah,yakup,tanrı,Kalbim
+        eğilir,dizim çöker,Kutsal Ruh gururumu kır,Kötülükten gözüm
+        çevir,Putlarımı kırdım Rab,Bana temiz eller,Pak bir yürek ver,Ruhumu
+        başkasına Sunmayayım,Ey Tanrım bizi,Yüzünü arayan bir,Bir halk yap,Ey
+        Yakup'un Tanrısı,hristiyan,hristiyanlık,tevrat,zebur,christian music
+      title: 'Manolya - Temiz Eller [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=scad1ABXdLk&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=8&t=0s
+      viewCount: '21075'
 ---
 
