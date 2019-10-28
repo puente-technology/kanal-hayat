@@ -2026,5 +2026,109 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=WioWLCr0UeE&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=19&t=0s
       viewCount: '2489'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Haleluya”
+        ilahisinin akustik kaydı ile Andrew, Devrim ve Humberto karşınızda! 
+
+
+        "Değişmez ve sonsuz akıl almaz sevgin
+         Bana destek veren güçlü kayadır
+         Bana huzur veren gizem dolu sevgin
+         Tutsak olduğumda kurtarıcımdır
+
+         // Haleluya, Haleluya
+          Haleluya, ezgi söylerim //
+
+         Yükseklerde doğan şaşırtıcı sevgin
+         İçimde büyüyen derin coşkudur
+         Seni gördüğümde iyiliğin parlar
+         Bana doğuşunu hissediyorum "
+
+        Söz & Müzik: Brian Doerksen
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da! ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Tanrı mı Yoksa Allah mı Demeliyiz? [Kelam Kültür Kahve]
+
+        https://youtu.be/SulLso6tYZU
+
+
+        -Acaba #16 - Türkiye'de Hristiyan Olarak Yaşamak
+
+        https://youtu.be/Fw78fzUgi8c
+
+
+        -Andrew, Katie & Devrim - Korkuya Esir Değilim [Akustik | Hristiyan
+        İlahisi] https://youtu.be/wQItUYJGp4M
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT2M13S
+      id: twzBtI9UBMQ
+      imageURL: 'https://i.ytimg.com/vi/twzBtI9UBMQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-02-20T09:04:23.000Z'
+      tags: >-
+        Umut,Kalesi,Akustik,İlahiler,Hristiyan,Hristiyanlık,Mesih,Jesus,İsa,Rab,Senin
+        iyiliğini Gördüğümde,Müzik,Music,Baba,Ulu,Tanrı,God,Akıl almaz
+        sevgin,Değişmez ve sonsuz,Haleluya,Haleluya ezgi söylerim,yükseklerde
+        doğan,Andrew,Devrim,Humberto,tapınma,yücelik,sonsuz,sevgi,iyi,iyilik,merhamet,hareketli,hareketli
+        müzik,ibadet,inanc,kilise,iman
+      title: 'Andrew, Devrim & Humberto - Haleluya [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=twzBtI9UBMQ&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=20&t=0s
+      viewCount: '6829'
 ---
 
