@@ -2349,5 +2349,118 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=UoQ2OEU7quM&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=22&t=0s
       viewCount: '41843'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Sen Layıksın
+        Övgüye” ilahisinin akustik kaydı ile Ceremi ve Mişel karşınızda! 
+
+
+        "Azizler, melekler
+
+        Secde ederler
+
+        İhtiyarlar Rab'be taçlarını sunar
+
+        Ezgi söyler
+         
+        Sen layıksın övgüye
+
+        Sen layıksın herşeye
+
+        Senden ve Senin için herşey var oldu        
+
+        Tüm görkeme layıksın
+         
+        Gece gündüz, gündüz gece yükselsin
+
+        Övgüler Senin önünde buhur gibi
+
+        Gece gündüz, gündüz gece yükselsin
+
+        Övgüler Senin önünde buhur gibi
+         
+        Tek Layık Olan galip geldi - Yahuda Aslanı
+
+        Tek Layık Olan galip geldi - Davut’un Kökü
+                          
+        Tanrım, Sen insan oldun
+
+        Beden aldın Sen ne güzelsin"
+
+
+        Söz & Müzik: David Brymer
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Hristiyanlar Nasıl Oruç Tutar? [Kelam Kültür Kahve]
+
+        https://youtu.be/5JAPAu087I4
+
+
+        -Acaba #10 - Yaratıcı’yı Sorgulayamaz mıyız?
+
+        https://youtu.be/k061o04UnYg
+
+
+        -Ceremi & Mişel - Yükseltiriz [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/WioWLCr0UeE
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT6M7S
+      id: OgC6pv5VF4c
+      imageURL: 'https://i.ytimg.com/vi/OgC6pv5VF4c/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-30T08:58:26.000Z'
+      tags: >-
+        Umut,Kalesi,Ceremi,Mişel,Sen layıksın
+        övgüye,Tanrı,God,İsa,Jesus,Mesih,Aslan,Kral,Hristiyan,Hristiyanlık,Aziz,Zafer,Gece,Gündüz,Buhur,Tanrım
+        sen insan oldun,Beden aldın,Sen ne güzelsin,Tek layık olan galip
+        geldi,Yahuda Aslanı,Davut,Akustik,Akustik ilahi,Hristiyan
+        ilahi,İlahi,İlahiler
+      title: 'Ceremi & Mişel - Sen Layıksın Övgüye [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=OgC6pv5VF4c&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=23&t=0s
+      viewCount: '5061'
 ---
 
