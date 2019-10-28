@@ -525,5 +525,142 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=0D1-7pbVw24&list=PLargJSHzmn5kC0PQwjAPp76w1x5DAeU6U&index=6&t=0s
       viewCount: '5587'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İsa Mesih'in doğuşunu kutladığımız Doğuş Bayramı’nın yaklaştığı bu
+        günlerde, Umut Kalesi’nin Sözlü Videolar’ına, "Meleklere Kulak Verin"
+        albümünde yer alan ve Işıl Öçal’ın seslendirdiği, "Dünya Karanlıktadır"
+        ilahisiyle devam ediyoruz.
+
+
+        "Meleklere Kulak Verin" albümünün tamamına bu linkten ulaşabilirsiniz:
+        https://shemamedia.com
+
+
+        "Dünya karanlıktadır, günaha esir
+
+        Fakat Beytlehem'de umut belirir
+
+        Derin giz çözülüyor açığa çıkan
+
+        Ağlayan bir bebek yemlikte yatan
+
+
+        //  Uyan uyan Mesih doğmuştur
+          Göksel krallık kurulmuştur
+          Ezgi okusun melekler
+          Her yeri sevindirsinler
+          Tanrı'ya övgü sunulsun
+          Dünyada haber duyulsun
+          Çanlar çınlasın neşeyle
+          Her ulus coşsun müjdeyle
+          Rab geldi //
+
+        Göksel nura bürünmüş bütün melekler
+
+        En yükseklerde Tanrı'yı över.
+
+        Esenlik yayıldıkça umut doğuyor
+
+        Rab bebek gözünden bize bakıyor.
+
+
+        Zayıf güçlendirilir, gurur kırılır
+
+        Boş düşünceler tümden yıkılır
+
+        Tanrı merhametlidir, aç doyurulur
+
+        Alçakgönüllü kazanır onur."
+
+
+        Söz & Müzik: Graham Kendrick
+
+        Çekim yeri: İstanbul
+
+
+        ======================
+
+
+        "Sözlü Videolar" serimizde tapınmacı arkadaşlarımızın, kendi
+        besteledikleri ilahileri seslendirdikleri sizlere sunuyoruz. İstiyoruz
+        ki, sayfamıza yeni ezgiler yükleyerek, zamanla her tarzda müziği seven
+        tapınmacılara bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya
+        müzikle tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Neden Noel'i Kutluyoruz? [Kelam Kültür Kahve]
+
+        https://youtu.be/3Ot0jd6iiN4
+
+
+        -İşkolik [Kısa Film]
+
+        https://youtu.be/4RmGYLFizQI
+
+
+        -SEZE - Yüceltiriz [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/u-m1lqi_9X0
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M46S
+      id: _jnQr37BHIE
+      imageURL: 'https://i.ytimg.com/vi/_jnQr37BHIE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-12-14T09:18:02.000Z'
+      tags: >-
+        umut,kalesi,doğuş,bayramı,hristiyan,hristiyanık,ilahi,ilahiler,noel,isa,mesih,tanrı
+        oğlu,ışıl,Dünya karanlıktadır,günaha esir,Fakat Beytlehem'de umut
+        belirir,sözlü video,Uyan uyan Mesih doğmuştur,Göksel nura bürünmüş bütün
+        melekler,Rab geldi,Zayıf güçlendirilir,gurur kırılır,Rab bebek gözünden
+        bize bakıyor,Tanrı,Allah,protestan,kilise,yaşam,gerçek,yol,Christmas
+      title: 'Dünya Karanlıktadır [Sözlü Video | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=_jnQr37BHIE&list=PLargJSHzmn5kC0PQwjAPp76w1x5DAeU6U&index=7&t=0s
+      viewCount: '11708'
 ---
 
