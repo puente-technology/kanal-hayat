@@ -905,5 +905,130 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=4lLSGMt17sQ&list=PLargJSHzmn5kC0PQwjAPp76w1x5DAeU6U&index=9&t=0s
       viewCount: '49020'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin yepyeni bir serisi olan Sözlü Videolar’la karşınızdayız.
+        "Hayranım" albümünde yer alan, söz ve müziği Adrienne Neusch'a ait olan,
+        "Nasıl Bir Sevgi Bu" ilahisi sizlerle!
+
+
+        "Hayranım" albümünün tamamına bu linkten ulaşabilirsiniz:
+        https://shemamedia.com
+
+
+        "Sessizlikte Seni beklerken
+         Her şey eriyip gidiyor
+         Bu dünya beni tatmin edemez
+         Aradığım Senin yüzün
+
+         Senden gelen bir ses duydum
+         "Gel, çocuğum, sevgimi dökeyim"
+
+         Nasıl bir sevgi bu!
+         Bilgimi aşıyor
+         Deniz gibi beni sarıyor
+         Çocuğun olarak
+         Sevginde kalayım
+         Babam beni çok seviyor
+
+         Sevgin derinlere indikçe
+         Duvarlarım yıkılıyor
+         Yeni bir özgürlüğe kavuştum
+         Geri dönmem, asla dönmem
+
+         Tekrar, tekrar sesini duyarım
+         "Gel, çocuğum, sevgimi dökeyim" "
+
+        Söz & Müzik: Adrienne Neusch
+
+        Çekim Yeri: Deniz görüntüleri için İstanbul Şile ve Riva / Dağ
+        görüntüleri için Antakya.
+
+
+        ======================
+
+
+        "Sözlü Videolar" serimizde tapınmacı arkadaşlarımızın, kendi
+        besteledikleri ilahileri seslendirdikleri sizlere sunuyoruz. İstiyoruz
+        ki, sayfamıza yeni ezgiler yükleyerek, zamanla her tarzda müziği seven
+        tapınmacılara bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya
+        müzikle tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Acaba #7 - Nasıl Hristiyan Olduk?
+
+        https://youtu.be/2LYAoJcfgiQ
+
+
+        -Michal - Umudumu Rab'be Bağlıyorum [Akustik | Hristiyan İlahisi] 
+
+        https://youtu.be/8rzxOEysntM
+
+
+        -Kilise Düzeni & Disiplini [Kelam Kültür Kahve]
+
+        https://youtu.be/pPUyfvs78Pg
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT6M49S
+      id: 8GzXRAF1B1E
+      imageURL: 'https://i.ytimg.com/vi/8GzXRAF1B1E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-05-09T12:11:00.000Z'
+      tags: >-
+        umut,kalesi,sözlü,video,şarkı,hristiyan,hristiyanlık,mesih,isa,peygamber,isa
+        kimdir,isa tanrı mı allah mı,kudus,ya muhammet,ya
+        ali,mekke,kutsal,allah,tanrı,rab,gerçek,nedir,God,Jesus,Adrienne
+        Neusch,slow,hristiyan ilahisi,ilahi,sessizlik,sevgi,aşk,kişisel
+        gelişim,huzur,sakin müzik,Turkish Christian Worship
+        song,türk,kürt,amerikan,bulgar,arap,içsel huzur,dinginlik,doğa,doğa
+        güzellikleri,pop,müzik,alternatif,ruhsal ezgiler
+      title: 'Nasıl Bir Sevgi Bu [Sözlü Video | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=8GzXRAF1B1E&list=PLargJSHzmn5kC0PQwjAPp76w1x5DAeU6U&index=10&t=0s
+      viewCount: '61316'
 ---
 
