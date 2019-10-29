@@ -256,3 +256,60 @@
 
 
 }
+
+@media (min-width: 2500px){
+  .Event-Week {
+    margin-top: 135px;
+  }
+  .Event {
+    font-size: 55px;
+    line-height: 75px;
+    margin-right: 155px;
+  }
+  .Event-Filters {
+    margin-top: 105px;
+  }
+  .Filter-Button {
+    height: 66px;
+    width: 237px;
+    font-size: 25px;
+  }
+  .Event-Container {
+    margin-top: 95px;
+  }
+  .Event-SubContainer {
+    height: 1065px;
+  }
+  .Event-Programme {
+    height: 155px;
+    width: 2077px;
+  }
+  .Event-Border {
+    height: 155px;
+    border-left: 1px solid rgba(61, 61, 61, 1);
+    left: 10px;
+  }
+  .Event-BlueDot {
+    width: 20px;
+    height: 20px;
+  }
+  .Event-Time {
+    height: 155px;
+    width: 367px;
+    font-size: 65px;
+  }
+  .Event-Name {
+    height: 155px;
+    width: 1171px;
+  }
+  .Event-Title {
+    font-size: 35px;
+    line-height: 42px;
+    margin-bottom: 10px;
+    padding-top: 35px;
+  }
+  .Event-Subtitle {
+    font-size: 30px;
+    line-height: 37px;
+  }
+}

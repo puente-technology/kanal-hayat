@@ -10,7 +10,7 @@ const qrCode = require('../../static/images/qrcode.svg');
 const MobileAppLink = () => (
   <div className="containerMobileAppLink">
     <div className="qrCodeStyle">
-      <img alt="qrCode" key="qrCode" src={qrCode} />
+      <img className="qrCode" alt="qrCode" key="qrCode" src={qrCode} />
     </div>
     <div className="appLink">
       <p className="firstText">
@@ -28,7 +28,7 @@ const MobileAppLink = () => (
           <img alt="googleplay" key="googleplay" src={googlePlay} style={{ paddingRight: '24px' }} className="googlePlay" />
         </a>
         <a rel="noopener noreferrer" href="https://www.google.com" target="_blank">
-          <img alt="appstore" key="appstore" src={appStore} />
+          <img alt="appstore" key="appstore" src={appStore} className="appStore" />
         </a>
       </div>
     </div>

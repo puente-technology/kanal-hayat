@@ -333,3 +333,19 @@
   -webkit-border-radius: 0px;
   border-radius: 0;
 }
+
+@media (min-width: 2500px){
+  .Nav--Container {
+    height: 10rem;
+  }
+  .NavLink {
+    font-size: 38px;
+    line-height: 45px;
+    margin-right: 50px;
+  }
+  .NavWatchNow {
+    height: 58px;
+    width: 263px;
+    font-size: 28px;
+  }
+}
