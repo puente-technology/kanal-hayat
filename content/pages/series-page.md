@@ -1,6 +1,6 @@
 ---
 template: SeriesList
 slug: series
-title: Seriler
+title: Programlar
 ---
 
