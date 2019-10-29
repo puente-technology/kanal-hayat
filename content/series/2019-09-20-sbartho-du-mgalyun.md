@@ -14,7 +14,7 @@ description: >-
 
   Esenlik Olsun.
 targetGroup: Herkes
-language: '0'
+language: '2'
 selectedCategories:
   - Rehberlik
   - Kutsal Kitap Dersleri
