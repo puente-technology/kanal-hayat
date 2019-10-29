@@ -5,93 +5,69 @@ title: Main Slider
 gallery:
   - align: left
     alt: Hakan Taştan ile
-    link: 'series/ge-rc-egi-n-sesi/'
     color: light
     image: /images/uploads/hakan-tastan-save-for-web.jpg
+    link: series/ge-rc-egi-n-sesi/
     title: Gerçeğin Sesi
   - align: center
     alt: Ahmet Güvener ile
     color: light
-    link: 'series/h-ri-stiyan-s-eria-ti/'
     image: /images/uploads/main-page-3-save-for-web.jpg
+    link: series/h-ri-stiyan-s-eria-ti/
     title: 'Hristiyan Şeriatı '
-  - align: center
-    alt: Ali Kalkandelen ile
-    color: light
-    link: 'series/ev-li-lik-sohbetleri/'
-    image: /images/uploads/evlilik-sohbetleri.png
-    title: Evlilik Sohbetleri
   - align: right
     alt: Can Nuroğlu ile
-    link: 'series/h-ri-stiyan-ahla-ki/'
     color: light
     image: /images/uploads/can-nuroğlu-save-for-web-1.jpg
+    link: series/h-ri-stiyan-ahla-ki/
     title: Hristiyan Ahlakı
   - align: center
     alt: Paulus Bartuma ile
     color: light
     image: /images/uploads/paulus-bartuma-save-for-web.jpg
-    link: 'series/sbartho-du-mgalyun/'
+    link: series/sbartho-du-mgalyun/
     title: Sbartho Du Mgalyun
   - align: left
     alt: Isik Abla ile
     color: light
-    link: 'series/muht-es-em-et-ki-li-dualar/'
     image: /images/uploads/ışık-abla.png
+    link: series/muht-es-em-et-ki-li-dualar/
     title: Muhteşem Etkili Dualar
   - align: right
     alt: Serdar Dedeoğlu ile
     color: light
-    link: 'series/kutsal-si-rlar-sizden-gelen-sorular/'
     image: /images/uploads/serdar-dedeoğlu.png
+    link: series/kutsal-si-rlar-sizden-gelen-sorular/
     title: 'Kutsal Sırlar '
   - align: right
     alt: Gülhan ile
     color: light
-    link: 'series/umut-isigi/'
     image: /images/uploads/gulhan-slider.jpg
+    link: series/umut-isigi/
     title: Umut Işığı
   - align: right
     alt: Ender Peker ile
     color: light
-    link: 'series/exlaga-i-ncile-incil-ahla-ki/'
     image: /images/uploads/ender-peker.png
+    link: series/exlaga-i-ncile-incil-ahla-ki/
     title: Exlaq'a İncil'ê (İncil Ahlakı)
-  - align: left
-    alt: Sibel Üçal ile
-    color: light
-    link: ''
-    image: /images/uploads/sibel-üçal.png
-    title: Hristiyan İlahiler
   - align: center
     alt: Milazım Rasoyan ve Şaban Ok ile
     color: light
-    link: 'series/suhbeten-kelame/'
     image: /images/uploads/saban-and-milazim.jpg
+    link: series/suhbeten-kelame/
     title: SUHBETÊN KELAMÊ
   - align: left
     alt: Rev.Dr. Turgay Üçal ile
     color: light
     image: /images/uploads/turgay-ucal-ii.jpg
-    link: 'series/mana-sohbetle-ri/'
+    link: series/mana-sohbetle-ri/
     title: Mânâ SOHBETLERİ
-  - align: left
-    alt: 'Güçlü Erman ile '
-    color: light
-    image: /images/uploads/güçlü-erman-slider-save-for-web.jpg
-    link: ''
-    title: Uyanış
-  - align: left
-    alt: Batır Nuroğlu ile
-    color: light
-    image: /images/uploads/batır-nuroğlu-1.jpg
-    link: ''
-    title: Mukaddes Ruh
   - align: right
     alt: İhsan Özbek ile
     color: light
-    link: 'series/hey-gi-di-karadeniz/'
     image: /images/uploads/17.jpg
+    link: series/hey-gi-di-karadeniz/
     title: EY GİDİ KARADENİZ
 program1:
   align: left
