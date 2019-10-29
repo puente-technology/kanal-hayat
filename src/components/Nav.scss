@@ -127,6 +127,20 @@
   display: none;
 }
 
+@media (min-width: 2500px) { 
+  .Nav--Search {
+    width: 300px !important;
+    &.filter {
+      background: url(http://localhost:8000/images/Vectorsearch-dark.png) no-repeat 7px;
+      border-bottom: black 0.5px solid;
+      color: black;
+      background-size: 35px;
+      padding-left: 50px;
+    }
+  }
+  
+}
+
 @media (max-width: map-get($grid-breakpoints, md)) {
   .Nav {
     top: 18px;

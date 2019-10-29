@@ -11,6 +11,7 @@
   text-align: left;
   padding: 10px;
   padding-left: 20px;
+  text-align: justify;
 }
 
 
@@ -23,8 +24,13 @@
   cursor:pointer;
 }
 
+.answer-text-container {
+  padding: 20px 30px;
+  padding-right: 40px;
+}
+
 .answer-text {
-  font-family: Muli;
+  font-family: Nunito;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -40,8 +46,13 @@
   font-size: 16px;
   margin: 8px 2px;
   cursor: pointer;
-  border-color: #FFFF #FFFF #E5E5E5 #FFFF;
+  border-color: #47598E00 #47598E00 #E5E5E5 #47598E00;
   outline:none;
+  background-color: transparent;
+  border-bottom-width: 1px;
+  text-align: justify;
+  padding-bottom: 12px;
+  padding-top: 20px;
 }
 
 .videos-container {
@@ -85,6 +96,37 @@
   font-size: 18px;
   line-height: 25px;
 }
+
+@media (min-width: 2500px) { 
+  .minicontainer {
+    margin-bottom: 53px;
+    width: 600px !important;
+  }
+  .subminititle {
+    font-size: 28px !important;
+    line-height: 45px !important;
+  }
+  .details {
+    font-size: 24px !important;
+  }
+  .question-text {
+    font-size: 28px !important;
+  }
+  .answer-text {
+    font-size: 28px !important;
+    line-height: 50px;
+  }
+  .answer-text-container {
+    padding: 30px 50px;
+    padding-right: 60px;
+  }
+  .videos-container {
+    margin-top: 12px !important;
+    padding: 0px 40px !important;
+  }
+
+}
+
 @media (max-width: map-get($grid-breakpoints, sm)) {
 	.question-text {
 		font-size: 13px;
@@ -92,6 +134,11 @@
   .s-s-s {
     padding: 20px 30px;
   }
+
+  .answer-text-container {
+    padding: 0px;
+  }
+
   .answer-text {
     font-size: 13px;
   }

@@ -272,6 +272,54 @@
   }
 }
 
+@media (min-width: 2500px) { 
+  .SortButton {
+    font-size: 40px;
+  }
+  .filter {
+    font-size: 35px;
+  }
+  .SeriesListSortAndFilter {
+    margin-top: 40px;
+    margin-bottom: 50px;
+  }
+  .Series {
+    margin-left: 85px;
+    margin-right: 85px;
+  }
+  .SerieCard {
+    background-size: cover !important;
+    height: 350px;
+    width: 600px;
+    margin-bottom: 35px;
+    margin-right: 35px;
+  }
+  .paravan {
+    height: 350px;
+    width: 600px;
+  }
+  .SeriesContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .category {
+    font-size: 30px;
+  }
+  .InformationTitle {
+    font-size: 35px;
+  }
+  .InformationDesc {
+    font-size: 27px;
+  }
+  .Episodes {
+    font-size: 27px;
+  }
+  .EpisodeVideo {
+    width: 600px !important;
+    height: 300px !important;
+  }
+}
 @media (max-width: 576px) {
   .Series {
     margin-left: 0;

@@ -68,8 +68,8 @@ export class Navigation extends Component {
   }
 
   handleOpenNav = () => {
-    const { color } = this.props;
-    color.openNav();
+    const { active } = this.state;
+    this.setState(() => ({ active: !active }));
   }
 
   handleLiveNowClick = () => {

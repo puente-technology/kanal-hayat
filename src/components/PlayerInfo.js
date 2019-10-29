@@ -71,7 +71,7 @@ class PlayerInfoExpand extends Component {
         className="player-info-container"
         style={{
           width: playerProps.width,
-          height: '800px',
+          height: 'auto',
           background: 'black',
           bottom: '0',
           margin: '0 auto',

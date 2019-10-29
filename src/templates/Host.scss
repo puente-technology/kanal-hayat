@@ -14,13 +14,11 @@
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
-
   color: #3d3d3d;
-  width: 555px !important;
-  margin-top: 20px;
-
-  margin: 10px 15px;
+  width: 70% !important;
+  margin: 30px;
   text-align: justify;
+  text-indent: 50px;
 }
 
 .HostSeries {
@@ -35,6 +33,15 @@
 .HostTile {
   margin-left: 67px;
 
+}
+
+@media (min-width: 2500px) { 
+  .Content {
+    font-size: 35px;
+    margin: 80px;
+    text-indent: 70px;
+  }
+  
 }
 
 @media (max-width: 576px) {
