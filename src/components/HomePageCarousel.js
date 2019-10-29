@@ -124,6 +124,7 @@ class Item extends React.Component {
   }
 
   hanndlePlayClick = (e) => {
+    console.log('asma home carousel page', this.props)
     const {
       dispatch,
       hosts,

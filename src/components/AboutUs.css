@@ -77,6 +77,38 @@
   margin-top: 24px;
 }
 
+@media (min-width: 2500px) { 
+  .about-us {
+    height: 100%;
+  }
+  .imageContainer {
+    height: auto;
+}
+  .contenIntroductionText {
+    font-size: 29px;
+    line-height: 45px;
+  }
+  .contenFrekansText {
+    font-size: 29px;
+    line-height: 45px;
+  }
+  .contenFrekans {
+    font-size: 29px;
+    line-height: 45px;
+  }
+  .contentAbout {
+    font-size: 29px;
+    line-height: 45px;
+  }
+  .contenContactText {
+    font-size: 29px;
+    line-height: 45px;
+  }
+  .contenAboutText {
+    font-size: 29px;
+    line-height: 45px;
+  }
+}
 @media (min-width: 2000px) {
   .contentAbout {
     width: auto; 

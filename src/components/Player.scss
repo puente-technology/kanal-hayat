@@ -433,6 +433,92 @@ $track-border-width: 0px;
 	left: -1rem;
 }
 
+@media (min-width: 2500px) { 
+	.elipse-sml {
+		height: 40px !important;
+	}
+	.elipse-md {
+		height: 44px !important;
+	}
+	.elipse-lg {
+		height: 48px !important;
+	}
+	.player-volume-icon {
+		min-width: 58px;
+		min-height: 58px;
+		padding: 4px;
+		left: -8rem;
+	}
+	.player-volume-bar {
+		left: 0rem;
+		margin-top: 0.875rem;
+	}
+	.player-volume-path {
+		min-width: 44px !important;
+		min-height: 58px !important;
+		padding: 4px !important;
+		&.expand {
+			min-width: 62px;
+			padding-top: 2.8rem;
+		}
+	}
+	.player-volume-path-rec {
+		min-width: 58px !important;
+		min-height: 58px !important;
+		padding: 4px !important;
+	}
+	.player-volume-path-full-screen {
+		min-width: 44px !important;
+		min-height: 58px !important;
+		padding: 4px !important;
+	}
+	.player-screen-control {
+		&.isBig {
+			margin-top: 2rem !important;
+		}
+	}
+	.player-controls-svg-isBig {
+		width: 70px !important;
+		height: 33px !important;
+		padding-top: 71px !important;
+		&.right {
+			width: 85px !important;
+    		height: 33px !important;
+    		padding-top: 84px !important;
+		}
+	}
+
+	#player {
+		&.collapsed {
+			&.show {
+				&.isBig {
+					height: 100% !important;
+				}
+			}
+			height: 14rem !important;
+		}
+	}
+
+	#player.collapsed.show {
+		#reactPlayer {
+			&.collapsed {
+				width: 28rem !important;
+				height: 14rem !important;
+			}
+		}
+	}
+	.player-controls-container {
+		&.collapsed {
+			height: 14rem;
+		}
+	}  
+	.player-elapsed {
+		font-size: 25px;
+	}
+	.player-remaining {
+		font-size: 25px;
+	}
+}
 
 @media (max-width: map-get($grid-breakpoints, md)) {
 	.player-info-txt {
@@ -515,10 +601,88 @@ $track-border-width: 0px;
 			top: 479px !important;
 			&.live-stream {
 				top: 0 !important;
+				height: auto;
 			}
 		}
 	}
 	
+}
+
+@media (min-width: 2500px) { 
+	.elipse-sml {
+		height: 40px !important;
+	}
+	.elipse-md {
+		height: 44px !important;
+	}
+	.elipse-lg {
+		height: 48px !important;
+	}
+	.player-volume-icon {
+		min-width: 58px;
+		min-height: 58px;
+		padding: 4px;
+		left: -8rem;
+	}
+	.player-volume-bar {
+		left: 0rem;
+		margin-top: 0.875rem;
+	}
+	.player-volume-path {
+		min-width: 58px !important;
+		min-height: 58px !important;
+		padding: 4px !important;
+		&.expand {
+			min-width: 62px;
+			padding-top: 2.8rem;
+		}
+	}
+	.player-screen-control {
+		&.isBig {
+			margin-top: 2rem !important;
+		}
+	}
+	.player-controls-svg-isBig {
+		width: 70px !important;
+		height: 33px !important;
+		padding-top: 71px !important;
+		&.right {
+			width: 85px !important;
+    		height: 33px !important;
+    		padding-top: 84px !important;
+		}
+	}
+
+	#player {
+		&.collapsed {
+			height: 14rem !important;
+		}
+	}
+	
+	#player.collapsed.show {
+		#reactPlayer {
+			&.collapsed {
+				width: 28rem !important;
+				height: 14rem !important;
+			}
+		}
+	}
+	.player-controls-container {
+		&.collapsed {
+			height: 14rem;
+		}
+	}  
+	.col {
+		margin-left: 13rem !important;
+	}
+	.player-title {
+		font-size: 30px;
+    	line-height: 40px;
+		&.colapsed {
+			width: auto;
+		}
+	}
+
 }
 @media (max-width: map-get($grid-breakpoints, md)) {
 	.player-info-txt {
@@ -626,6 +790,8 @@ input[type=range]::-moz-range-thumb {
 	justify-content: flex-end;
 	width: 25%;
 	flex-grow: 1;
+	display: flex;
+    justify-content: center;
 }
 .bigScreenInfo {
 	position: absolute;
@@ -979,10 +1145,9 @@ input[type=range]::-moz-range-thumb {
 		margin-top: 15px;
 		padding-top: 7px;
 	}
-	/* .player-bar-bar {
-		right: 25px;
+	.player-bar-bar {
 		left: 6rem !important;
-	}*/
+	}
 	.player-expand .player-screen-control {
 		margin-top: 28px;
 		margin-right: -6px;

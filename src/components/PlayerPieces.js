@@ -76,7 +76,7 @@ export const PlayerControls = ({
       onClick={playerProps.playerPrev}
       style={{
         marginLeft: '31px',
-        paddingTop: '32px',
+        // paddingTop: '32px',
         background: `url(${prevVideo}) no-repeat`,
         backgroundSize: 'cover',
         border: 'none',
@@ -97,7 +97,7 @@ export const PlayerControls = ({
             style={{
               marginLeft: '10px',
               marginRight: '10px',
-              paddingTop: '32px',
+              // paddingTop: '32px',
               background: `url(${pauseSvg}) no-repeat`,
               backgroundSize: 'contain',
               border: 'none',
@@ -116,7 +116,7 @@ export const PlayerControls = ({
             style={{
               marginLeft: '10px',
               marginRight: '10px',
-              paddingTop: '32px',
+              // paddingTop: '32px',
               background: `url(${playSvg}) no-repeat`,
               backgroundSize: 'contain',
               border: 'none',
@@ -137,7 +137,7 @@ export const PlayerControls = ({
         onClick={playerProps.playerNext}
         style={{
           marginRight: '31px',
-          paddingTop: '32px',
+          // paddingTop: '32px',
           background: `url(${nextVideo}) no-repeat`,
           backgroundSize: 'contain',
           border: 'none',

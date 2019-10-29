@@ -35,6 +35,15 @@
 
 }
 
+@media (min-width: 2500px) { 
+  .Content {
+    font-size: 35px;
+    margin: 80px;
+    text-indent: 70px;
+  }
+  
+}
+
 @media (max-width: 576px) {
   .HostSeries {
     margin-left: 0px;

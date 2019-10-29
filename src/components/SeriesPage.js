@@ -27,6 +27,7 @@ class SeriesPage extends Component {
       frontmatter,
       hosts,
     } = this.props
+    console.log('asma series page', this.props)
     const { episode, index } = JSON.parse(e.target.value)
     this.setState({ isOpen: true })
     dispatch(toggleDarkMode(

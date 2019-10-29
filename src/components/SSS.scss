@@ -96,6 +96,37 @@
   font-size: 18px;
   line-height: 25px;
 }
+
+@media (min-width: 2500px) { 
+  .minicontainer {
+    margin-bottom: 53px;
+    width: 600px !important;
+  }
+  .subminititle {
+    font-size: 28px !important;
+    line-height: 45px !important;
+  }
+  .details {
+    font-size: 24px !important;
+  }
+  .question-text {
+    font-size: 28px !important;
+  }
+  .answer-text {
+    font-size: 28px !important;
+    line-height: 50px;
+  }
+  .answer-text-container {
+    padding: 30px 50px;
+    padding-right: 60px;
+  }
+  .videos-container {
+    margin-top: 12px !important;
+    padding: 0px 40px !important;
+  }
+
+}
+
 @media (max-width: map-get($grid-breakpoints, sm)) {
 	.question-text {
 		font-size: 13px;
