@@ -24,7 +24,7 @@ export const EventsTemplate = (data) => {
     <React.Fragment>
       {
         data.frontmatter
-          ? <Events title={data.frontmatter.title} eventList={eventData} />
+          ? <Events series={data.series} title={data.frontmatter.title} eventList={eventData} />
           : <EventsPreviewTemplate eventList={data.eventList} />
       }
     </React.Fragment>
@@ -32,9 +32,9 @@ export const EventsTemplate = (data) => {
 }
 
 // Export Default HomePage for front-end
-const EventsPage = ({ data: { page, mdfiles } }) => (
+const EventsPage = ({ data: { page, mdfiles, series } }) => (
   <LayoutComp>
-    <EventsTemplate {...page} {...page.frontmatter} mdfiles={mdfiles} />
+    <EventsTemplate {...page} {...page.frontmatter} mdfiles={mdfiles} series={series} />
   </LayoutComp>
 )
 
@@ -65,6 +65,19 @@ query Events($id: String!, $locale: String) {
           startTime
           endTime
         } 
+      }
+    }
+  }
+  series : allMarkdownRemark(filter: {fields: {contentType: {regex: "/series/|/series-page/"}}}) {
+    edges {
+      node {
+        fields {
+          slug
+        }
+        frontmatter {
+          host
+          title
+        }
       }
     }
   }

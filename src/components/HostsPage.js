@@ -28,7 +28,6 @@ class HostsList extends Component {
 
   componentDidMount() {
     const { data } = this.props;
-    console.log('data', data)
     this.setState({ listSeries: this.dataIntoArray(data) })
     // this.sortSeriesByPopularity()
   }

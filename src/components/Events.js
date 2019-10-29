@@ -1,6 +1,10 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable consistent-return */
+/* eslint-disable array-callback-return */
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { connect } from 'react-redux';
+import { Link } from 'gatsby';
 import { eventWeek, sortTimeString } from '../utils/utils';
 import './Events.scss'
 import { LiveNowC } from './LiveNow';
@@ -14,6 +18,7 @@ class Events extends Component {
     dayPeriod: dayPeriods.ALL.value,
     scrollWeekPosition: 0,
     scrollLeftMax: 1,
+    urlIndex: {},
   }
 
   filteredList = [];
@@ -22,12 +27,29 @@ class Events extends Component {
     this.setState({
       activeDay: new Date().getDay().toString(),
     })
+    this.initUrls()
     let firstLoadedDay = new Date().getDay().toString()
     if (firstLoadedDay === '0') firstLoadedDay = '99'
     const { eventList } = this.props;
-    const filtered = eventList.filter(event => event.time.days
-      .some(d => d === parseInt(firstLoadedDay, 10)))
-    this.filteredList = filtered.sort(sortTimeString);
+    if (eventList) {
+      const filtered = eventList.filter(event => event.time.days
+        .some(d => d === parseInt(firstLoadedDay, 10)))
+      this.filteredList = filtered.sort(sortTimeString);
+    }
+  }
+
+  initUrls = () => {
+    const { series } = this.props
+    let tempObj = {}
+    Object.entries(series).map(([key, val]) => {
+      Object.entries(val).map(([key1, obj]) => {
+        if (obj.node) {
+          const { fields, frontmatter } = obj.node
+          tempObj = { ...tempObj, [frontmatter.title]: fields.slug }
+        }
+      })
+    })
+    this.setState({ urlIndex: tempObj })
   }
 
   handleDateChange = (e) => {
@@ -63,14 +85,18 @@ class Events extends Component {
   }
 
   render() {
-    const { activeDay, scrollWeekPosition, scrollLeftMax } = this.state;
-    const { dispatch } = this.props
-    // console.log('State', this.state)
+    const {
+      activeDay,
+      scrollWeekPosition,
+      scrollLeftMax,
+      urlIndex,
+    } = this.state;
+    const { dispatch, eventList, series } = this.props
     const timeNow = new Date().toLocaleString();
 
     return (
       <React.Fragment>
-        <LiveNowC dispatch={dispatch} eventList={this.filteredList} />
+        <LiveNowC series={series} dispatch={dispatch} eventList={eventList} />
         <div className="Event-Week" onScroll={this.handleScroll}>
           { scrollWeekPosition > 23 && scrollWeekPosition <= scrollLeftMax
           && (
@@ -158,9 +184,11 @@ class Events extends Component {
                       {time.startTime}
                     </div>
                     <div className={`Event-Name ${isNow ? 'active' : ''}`}>
-                      <p className="Event-Title">
+                      <Link
+                        to={urlIndex[seriesInfo.serieNames.series.value]}
+                      >
                         {seriesInfo.serieNames.series.value}
-                      </p>
+                      </Link>
                       <p className="Event-Subtitle">
                         {seriesInfo.serieNames.subtitles.value}
                       </p>
@@ -179,6 +207,7 @@ class Events extends Component {
 Events.propTypes = {
   eventList: PropTypes.any,
   dispatch: PropTypes.any,
+  series: PropTypes.any,
 }
 
 export default connect(state => ({
