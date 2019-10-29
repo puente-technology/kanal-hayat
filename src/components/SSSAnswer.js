@@ -46,9 +46,11 @@ class SSSAnswer extends Component {
         <div
           className="answer-container"
         >
-          <span className="answer-text">
-            {answer}
-          </span>
+          <div className="answer-text-container">
+            <span className="answer-text">
+              {answer}
+            </span>
+          </div>
           <div className="videos-container">
             {videos.map((items, index) => (
               <div>

@@ -80,6 +80,23 @@
   }  
 }
 
+@media (min-width: 2500px) { 
+  .dropdown {
+    .dropdown-toggle {
+      font-size: 40px;
+    }
+    .dropdown-menu {
+      max-height: max-content;
+      li {
+        & > a {
+          font-size: 40px;
+        }
+      }
+    }
+  }
+  
+}
+
 @media (max-width: 576px) {
   .dropdown {
     margin-bottom: 10px;

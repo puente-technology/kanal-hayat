@@ -389,7 +389,7 @@ class Player extends Component {
                 background: 'black',
                 position: 'relative',
                 padding: 0,
-                display: this.getWidth() < 700 ? !isBigScreenState && 'none' : 'table',
+                display: this.getWidth() < 700 ? !isBigScreenState && 'none' : 'flex',
               }}
               className={['container-fluid', 'player-controls-container', props.expand ? 'expanded' : 'collapsed', isOpen && 'live-stream'].join(' ')}
             >

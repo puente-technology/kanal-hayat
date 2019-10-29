@@ -179,6 +179,44 @@ $level1-left: 125px;
     display: flex;
 }
 
+@media (min-width: 2500px) { 
+    .arrow-left-programmlar {
+        left: -400px;
+    }
+    .EpisodeVideoInfo {
+        height: 276px;
+        width: 450px;
+    }
+
+    .infoDiv {
+        font-size: 25px;
+    }
+
+    .infoDivView {
+        font-size: 20px;
+    }
+    .arrow-right-programmlar {
+        left: 1300px;
+    }
+    .level1 {
+        height: 176px;
+        width: 250px;
+        left: -250px;
+    }
+    .level0 {
+        height: 176px;
+        width: 250px;
+        left: 280px;
+    }
+    .level-1 {
+        height: 176px;
+        width: 250px;
+        left: 800px;
+    }
+
+
+
+}
 @media (max-width: 800px) {
     #player-carousel{
         left: -99px;
@@ -244,7 +282,7 @@ $level1-left: 125px;
 
     .EpisodeVideoInfo {
         height: 160px;
-        width: 200px;
+        width: 250px;
     }
     .item {
         height: 100px;
