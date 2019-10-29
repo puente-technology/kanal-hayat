@@ -492,7 +492,11 @@ collections:
         widget: select
         options:
           - { label: "Türkçe", value: "0" }
-          - { label: "English", value: "1" }
+          - { label: "Kurdish", value: "1" }
+          - { label: "Uzbek", value: "2" }
+          - { label: "Syriani (Aramaic)", value: "3" }
+          - { label: "Turkmen", value: "3" }
+
       - label: "Kategori"
         name: "selectedCategories"
         widget: "relation"
@@ -530,7 +534,10 @@ collections:
         widget: select
         options:
           - { label: "Türkçe", value: "0" }
-          - { label: "English", value: "1" }
+          - { label: "Kurdish", value: "1" }
+          - { label: "Uzbek", value: "2" }
+          - { label: "Syriani (Aramaic)", value: "3" }
+          - { label: "Turkmen", value: "3" }
       - label: Hedef Kitle
         name: targetGroup
         widget: select
