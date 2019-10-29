@@ -379,24 +379,34 @@ class SeriesList extends Component {
         </div>
 
         <div className="SeriesListSortAndFilter">
-          <button
-            value="title"
-            onClick={this.handleSortByClick}
-            type="button"
-            className={sortByNameBool ? 'SortButton active' : 'SortButton'}
-          >
-            Program İsmi
-          </button>
-          <button
-            value="date"
-            onClick={this.handleSortByDateClick}
-            type="button"
-            className={sortByDateBool ? 'SortButton active' : 'SortButton'}
-          >
-            Tarih
-          </button>
-          <Dropdown handleLanguageChange={this.handleLanguageChange} list={['Dil', 'Turkce', 'English']} />
-          <Dropdown handleTargetChange={this.handleTargetChange} list={['Hedef Kitle', 'Herkes', 'Çocuk', 'Genç', 'Yetişkin']} />
+          <div style={{ display: 'flex' }}>
+            <p style={{ marginRight: '10px' }}>
+              Sirala:
+            </p>
+            <button
+              value="title"
+              onClick={this.handleSortByClick}
+              type="button"
+              className={sortByNameBool ? 'SortButton active' : 'SortButton'}
+            >
+              Program İsmi
+            </button>
+            <button
+              value="date"
+              onClick={this.handleSortByDateClick}
+              type="button"
+              className={sortByDateBool ? 'SortButton active' : 'SortButton'}
+            >
+              Tarih
+            </button>
+          </div>
+          <div style={{ display: 'flex' }}>
+            <p style={{ marginRight: '10px' }}>
+              Filtrele:
+            </p>
+            <Dropdown handleLanguageChange={this.handleLanguageChange} list={['Dil', 'Turkce', 'English']} />
+            <Dropdown handleTargetChange={this.handleTargetChange} list={['Hedef Kitle', 'Herkes', 'Çocuk', 'Genç', 'Yetişkin']} />
+          </div>
           {/* <Dropdown handleHostChange={this.handleHostChange} list={hostList} /> */}
           <input onChange={this.handleTextChange} className="Nav--Search filter" type="text" />
         </div>

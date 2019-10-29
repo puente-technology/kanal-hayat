@@ -5,18 +5,10 @@ publishDate: .
 coverImage: /images/uploads/can-nuroglu-save-for-web.jpg
 hosts: Can Nuroğlu
 popularity: '5'
-description: >-
+description: >
   Banu Çelik sunumu ve İncil  öğretmeni Can Nuroğlu'nun  Kutsal Kitap ışığında 
   gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal Hayat ekranından veya
   youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
-
-  http://kanalhayat.tv/
-
-  http://www.youtube.com/kanalhayatplay
-
-  https://www.facebook.com/kanalhayat
-
-  https://twitter.com/kanalhayat
 targetGroup: Herkes
 language: '0'
 selectedCategories:
