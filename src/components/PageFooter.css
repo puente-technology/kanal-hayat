@@ -193,3 +193,69 @@
     display: none;
   }
 }
+
+@media (min-width: 2500px){
+  .bannerHeader {
+    margin-top: 80px;
+  }
+  .footerBanner {
+    height: 44vh;
+  }
+  .menuTextStyle {
+    font-size: 55px;
+    line-height: 52px;
+    margin-bottom: 25px;
+  }
+  .menuContentStyle {
+    font-size: 32px;
+    line-height: 36px;
+    margin-bottom: 15px;
+  }
+  .registerColumn {
+    font-size: 38px;
+    line-height: 45px;
+  }
+  .emailInput {
+    font-size: 35px;
+    line-height: 45px;
+    width: 600px;
+    height: 74px;
+    padding-left: 30px;
+    margin-bottom: 25px;
+    border: 1.5px solid #FFFF;
+  }
+  .emailInput::placeholder {
+    font-size: 35px;
+  }
+  .register-btn {
+    font-size: 38px;
+    line-height: 45px;
+    height: auto;
+    width: 600px;
+    height: 74px;
+  }
+  .mostViewedCol {
+    font-size: 55px;
+    line-height: 52px;
+    margin-bottom: 25px;
+  }
+  .copyRightInfo {
+    font-size: 30px;
+    line-height: 39px;
+    margin-left: 130px;
+  }
+  .languageSelection {
+    font-size: 34px;
+    line-height: 39px;
+  }
+  .footerInfo {
+    margin-top: 70px;
+  }
+  .iconStyle {
+    height: 40px;
+    margin-right: 25px;
+  }
+  .iconsColmStyle {
+    margin-right: 125px;
+  }
+}

@@ -117,3 +117,37 @@
   margin-top: 24px;
   margin-right: 64px;
 }
+
+@media (min-width: 2500px){
+  .containerMobileAppLink {
+    height: 56vh;  
+  }
+  .qrCodeStyle {
+    padding-top: 175px;
+  }
+  .qrCode {
+    height: 400px;
+  }
+  .appLink {
+    padding-top: 4%;
+  }
+  .firstText {
+    font-size: 34px;
+    line-height: 40px;
+  }
+  .secondText {
+    font-size: 34px;
+    line-height: 43px;
+  }
+  .thirdText {
+    font-size: 28px;
+    line-height: 35px;
+    width: 603px;
+  }
+  .googlePlay {
+    height: 85px;
+  }
+  .appStore {
+    height: 85px;
+  }
+}

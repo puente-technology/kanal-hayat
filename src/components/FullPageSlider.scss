@@ -535,3 +535,37 @@ body {
    }
 
 }
+
+@media (min-width: 2500px){
+  .slide__caption {
+    max-width: 620px;
+    top: 555px !important;
+  }
+  .slide__caption--line {
+    width: 380px;
+  }
+  .slide__caption--title {
+    font-size: 100px;
+    line-height: 100px;
+    padding-top: 10px;
+    padding-bottom: 35px;
+  }
+  .slide__caption--program {
+    font-size: 46px;
+  }
+  .slide__caption--btn {
+    width: 870px;
+    height: 100px;
+  }
+  .indicators__list {
+    bottom: 4rem;
+  }
+  .indicators__item {
+    width: 68px;
+    height: 21px;
+    border-radius: 35px;
+  }
+  .indicators__item:not(:last-child) {
+    margin-right: 2rem;
+  }
+}
