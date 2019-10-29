@@ -187,6 +187,8 @@
 		padding-top: 18px;
 		width: 50%;
 		flex-grow: 1;
+		display: flex;
+    	justify-content: center;
 	}
 }
 .player-controls-svg {
@@ -510,7 +512,7 @@ $track-border-width: 0px;
 		.player-controls-container.collapsed {
 			width: 87% ;
 			margin: 48px auto ;
-			top: 452px !important;
+			top: 479px !important;
 			&.live-stream {
 				top: 0 !important;
 			}
@@ -678,7 +680,7 @@ input[type=range]::-moz-range-thumb {
 				margin: 0 !important;
 				padding: 0 !important;
 				position: absolute;
-				top: 380px;
+				top: 385px;
 				&.live-stream {
 					width: 60% !important;
 					margin: auto !important;

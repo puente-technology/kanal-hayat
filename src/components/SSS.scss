@@ -11,6 +11,7 @@
   text-align: left;
   padding: 10px;
   padding-left: 20px;
+  text-align: justify;
 }
 
 
@@ -23,8 +24,13 @@
   cursor:pointer;
 }
 
+.answer-text-container {
+  padding: 20px 30px;
+  padding-right: 40px;
+}
+
 .answer-text {
-  font-family: Muli;
+  font-family: Nunito;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -40,8 +46,13 @@
   font-size: 16px;
   margin: 8px 2px;
   cursor: pointer;
-  border-color: #FFFF #FFFF #E5E5E5 #FFFF;
+  border-color: #47598E00 #47598E00 #E5E5E5 #47598E00;
   outline:none;
+  background-color: transparent;
+  border-bottom-width: 1px;
+  text-align: justify;
+  padding-bottom: 12px;
+  padding-top: 20px;
 }
 
 .videos-container {
@@ -92,6 +103,11 @@
   .s-s-s {
     padding: 20px 30px;
   }
+
+  .answer-text-container {
+    padding: 0px;
+  }
+
   .answer-text {
     font-size: 13px;
   }
