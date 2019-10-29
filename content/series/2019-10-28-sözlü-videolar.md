@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: SÖZLÜ VİDEOLAR
 publishDate: .
-coverImage: /images/uploads/1.png
+coverImage: /images/uploads/4.png
 hosts: UMUT KALESİ
 popularity: '5'
 description: >-
