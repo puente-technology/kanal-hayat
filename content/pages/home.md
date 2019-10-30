@@ -12,7 +12,7 @@ gallery:
   - align: center
     alt: Ahmet Güvener ile
     color: light
-    image: /images/uploads/main-page-3-save-for-web.jpg
+    image: /images/uploads/ahmet-1.jpg
     link: series/h-ri-stiyan-s-eria-ti/
     title: 'Hristiyan Şeriatı '
   - align: right
