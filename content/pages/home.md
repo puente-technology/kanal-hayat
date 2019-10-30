@@ -238,6 +238,31 @@ program2:
         url: >-
           https://www.youtube.com/watch?v=BYUISfHicOM&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=5&t=0s
         viewCount: '2296'
+    - image: /images/uploads/18.jpg
+      youtubeURL:
+        description: >-
+          Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını
+          sayfamızdan takip edebilirsiniz.
+
+          Esen Kalın.
+
+          http://kanalhayat.tv/
+
+          http://www.youtube.com/kanalhayatplay
+
+          https://www.facebook.com/kanalhayat
+
+          https://twitter.com/kanalhayat
+        duration: PT28M1S
+        id: zc7mgBpdd2Q
+        imageURL: 'https://i.ytimg.com/vi/zc7mgBpdd2Q/hqdefault.jpg'
+        mediaType: video
+        publishedAt: '2013-09-09T11:50:32.000Z'
+        tags: teselli
+        title: 62. Bölüm Teselli Kaynağımız Tanrı
+        url: >-
+          https://www.youtube.com/watch?v=zc7mgBpdd2Q&list=PLQfi14V3hH0JPs3k-QHYnuRzRZbDytRr9&index=2
+        viewCount: '373'
   title: Charles Stanley / İNCİL ÖĞRETMENİ
 ---
 
