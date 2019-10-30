@@ -833,9 +833,27 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. .Misyonerlik Nedir? Bölücülük mü?Misyonerler kimlerdir?
-      Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen
-      Kalın.
+      için yanıtladık. Aşağıdaki programlarımızı izleyerek detaylı bilgi
+      edinebilirsiniz. Hristiyanlık inancını karalamak için kullanılan tek,
+      “malzeme” Haçlı Seferleri’dir. Hristiyanlar tarafından yapılan her şeyin
+      Hristiyanlığa uygun olduğunu düşünmek doğru değildir. Haçlı Seferlerinin
+      de Hristiyanlar tarafından yapılması, Hristiyanlığın böyle bir eyleme izin
+      verdiğini kanıtlamaz. İncil’i okuduğumuzda yalnızca sevgi görürüz.
+      Hristiyanlıkta şiddete yer yoktur. Hatta İncil’de şöyle yazar:  “Tanrı
+      sevgidir. Sevgi de yaşayan, Tanrı’da yaşar, Tanrı da onda yaşar” İncil
+      1.Yuhanna 4:16 İnanç uğruna savaşmak, Hristiyan’ın ve Hristiyanlığın
+      ruhuna aykırıdır. Hiçbir gerçek Hristiyan’ın, ne Haçlı Seferlerini ne de
+      diğer din savaşlarını savunması mümkün değildir. Çünkü bunlar, İncil’e
+      aykırıdır. Bir Hristiyan’ın görevleri arasında savaşmak değil, savaşları
+      durdurmak; yani barışı sağlamak vardır:  “ Ne mutlu barışı sağlayanlara!
+      Onlara Tanrı oğulları denecek.” (Matta 5:9) İsa Mesih, düşmanlarımızı bile
+      sevmemizi istememiş miydi?  Düşmanlarınızı sevin, sizden nefret edenlere
+      iyilik yapın, size lanet edenlere iyilik dileyin, size hakaret edenler
+      için dua edin… insanların size nasıl davranmasını istiyorsanız, sizde
+      onlara öyle davranın. Eğer yalnız sizi sevenleri severseniz, bu size ne
+      övgü kazandırır? Günahkarlar bile kendilerini sevenleri severler. Size
+      iyilik yapanlara iyilik yaparsanız, bu size ne övgü kazandırır?
+      Günahkarlar bile öyle yaparlar….” (Luka 6:27-34)
     question: Misyonerlerin Çıkardığı Savaşlar
     videos:
       - guests: .
