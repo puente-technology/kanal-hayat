@@ -36,7 +36,7 @@ gallery:
   - align: right
     alt: Serdar Dedeoğlu ile
     color: light
-    image: /images/uploads/serdar-dedeoğlu.png
+    image: /images/uploads/serdar-1.jpg
     link: series/kutsal-si-rlar-sizden-gelen-sorular/
     title: 'Kutsal Sırlar '
   - align: right
