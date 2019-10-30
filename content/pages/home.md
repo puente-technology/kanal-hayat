@@ -30,7 +30,7 @@ gallery:
   - align: left
     alt: Isik Abla ile
     color: light
-    image: /images/uploads/ışık-abla.png
+    image: /images/uploads/işık-1.png
     link: series/muht-es-em-et-ki-li-dualar/
     title: Muhteşem Etkili Dualar
   - align: right
