@@ -1422,7 +1422,12 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Sizi kim veya kimler Finanse ediyor ? Çalışıyor musunuz? 
+      için yanıtladık. Temel inanç öğretilerimiz arasında yer alan bir öğretiye
+      göre her iman eden kazancının bir kısmını müjdesel hizmetler için
+      kullanılmak üzere kilisesine vermektedir. Bu olay zorunlu veya belli bir
+      üyelik aidatı değil tümüyle kişinin imanının bir sonucudur. Kiliseler
+      ticari kurumlar değildir.Toplanan para İsa Mesih’in müjdesi ve merhamet
+      hizmetleri için değerlendirilir.
     question: 'Sizi kim veya kimler Finanse ediyor ? Çalışıyor musunuz? '
     videos:
       - guests: .
