@@ -42,7 +42,7 @@ gallery:
   - align: right
     alt: Gülhan ile
     color: light
-    image: /images/uploads/gulhan-slider.jpg
+    image: /images/uploads/gülhan-1.jpg
     link: series/umut-isigi/
     title: Umut Işığı
   - align: right
