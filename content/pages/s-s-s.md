@@ -119,15 +119,15 @@ questions:
       bu sorunun cevabını verecek olan yine Tanrı’dır. Kendi kimliğini
       yaratılışına açıklayabilecek olan tek yetkili yine O’dur. Kutsal Kitaba
       baktığımızda ; Yuhanna 4:24 Tanrı Ruhtur…der. 1.Yuhanna 4:8  “Tanrı
-      sevgidir.” Ve O’nun sevgisi paylaşılan tek taraflı olan bir sevgi
-      değildir.  1.Yuhanna 1:5 “Tanrı ışıktır”  Ayrıca başka yerde Yuhanna 1:9.
-      Ayette şöyle devam etmektedir; Dünyaya gelen, her insanı aydınlatan gerçek
-      ışık vardı.  O, dünyadaydı, dünya O’nun aracılığıyla var oldu, ama dünya
-      O’nu tanımadı.  Kendi yurduna geldi, ama kendi halkı O’nu kabul etmedi. 
-      Kendisini kabul edip adına iman edenlerin hepsine Tanrı’nın çocukları olma
-      hakkını verdi.  Onlar ne kandan, ne beden ne de insan isteğinden doğdular;
-      tersine, Tanrı’dan doğdular. Daha fazla bilgi edinmek için lütfen
-      programlarımızı izleyin.
+      sevgidir.” Ve O’nun sevgisi tek taraflı olan bir sevgi değildir. 1.Yuhanna
+      1:5 “Tanrı ışıktır”  Ayrıca başka yerde Yuhanna 1:9. Ayette şöyle devam
+      etmektedir; Dünyaya gelen, her insanı aydınlatan gerçek ışık vardı.  O,
+      dünyadaydı, dünya O’nun aracılığıyla var oldu, ama dünya O’nu tanımadı. 
+      Kendi yurduna geldi, ama kendi halkı O’nu kabul etmedi.  Kendisini kabul
+      edip adına iman edenlerin hepsine Tanrı’nın çocukları olma hakkını verdi. 
+      Onlar ne kandan, ne beden ne de insan isteğinden doğdular; tersine,
+      Tanrı’dan doğdular. Daha fazla bilgi edinmek için lütfen programlarımızı
+      izleyin.
     question: Hristiyanlıkta Tanrı'nın Kimliği ?
     videos:
       - guests: .
