@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Allah Sevgidir
 publishDate: .
-coverImage: /images/uploads/allah-sevgidir-save-for-web.jpg
+coverImage: /images/uploads/anlatsana-ey-gavur.jpg
 hosts: Can Nuroğlu
 popularity: '5'
 description: >-
