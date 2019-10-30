@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Umut Işığı
 publishDate: .
-coverImage: /images/uploads/gulhan-save-for-web.jpg
+coverImage: /images/uploads/gülhan-1.jpg
 hosts: Gülhan
 popularity: '1'
 description: >-
