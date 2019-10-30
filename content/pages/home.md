@@ -24,13 +24,13 @@ gallery:
   - align: center
     alt: Paulus Bartuma ile
     color: light
-    image: /images/uploads/paulus-bartuma-save-for-web.jpg
+    image: /images/uploads/paulus-1.jpg
     link: series/sbartho-du-mgalyun/
     title: Sbartho Du Mgalyun
   - align: left
     alt: Isik Abla ile
     color: light
-    image: /images/uploads/ışık-abla.png
+    image: /images/uploads/işık-1.png
     link: series/muht-es-em-et-ki-li-dualar/
     title: Muhteşem Etkili Dualar
   - align: right
@@ -165,7 +165,7 @@ program1:
   title: Joyce Meyer / VAİZ
 program2:
   align: left
-  bgImage: /images/uploads/charles-stanley.jpg
+  bgImage: /images/uploads/charles-1.jpg
   color: light
   content: |-
     İmanlı yaşamındaki denenmelerle nasıl baş edebiliriz? İsa Mesih’in
