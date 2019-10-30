@@ -60,7 +60,7 @@ gallery:
   - align: left
     alt: Rev.Dr. Turgay Üçal ile
     color: light
-    image: /images/uploads/turgay-ucal-ii.jpg
+    image: /images/uploads/turgay-1.jpg
     link: series/mana-sohbetle-ri/
     title: Mânâ SOHBETLERİ
   - align: right
