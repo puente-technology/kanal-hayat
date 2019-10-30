@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: İÇİMİZDEN BİRİ
 publishDate: .
 coverImage: /images/uploads/icimizden-biri.jpg
-hosts: FİLMLER
+host: FİLMLER
 popularity: '5'
 description: >-
   Sosyal hayatta aramızda yaşayan insanların hastalıklarını,ruhsal

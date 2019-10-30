@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: DAR KAPIDAN GİRENLER 8.SEZON
 publishDate: .
 coverImage: /images/uploads/neden-hristiyan-oldum-8-save-for-web.jpg
-hosts: ALİ KALKANDELEN
+host: ALİ KALKANDELEN
 popularity: '1'
 description: >-
   Neden Hristiyan Oldum?

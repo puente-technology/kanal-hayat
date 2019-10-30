@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: Sbartho Du Mgalyun
 publishDate: .
 coverImage: /images/uploads/paulus-1.jpg
-hosts: Paulus Bartuma
+host: Paulus Bartuma
 popularity: '10'
 description: >-
   Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "

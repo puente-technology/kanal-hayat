@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: EVLİLİK SOHBETLERİ 1.SEZON
 publishDate: .
 coverImage: /images/uploads/evlilik-sohbetleri-1-sezonn.jpg
-hosts: ALİ KALKANDELEN
+host: ALİ KALKANDELEN
 popularity: '5'
 description: >
   Ali ve Pervin Kalkandelen'in sunumuyla evlilik hakkındaki sohbetlerini

@@ -469,7 +469,7 @@ collections:
           widget: image,
         }
       - label: "Sunucu"
-        name: "hosts"
+        name: "host"
         widget: "relation"
         collection: "hosts"
         searchFields: ["title"]

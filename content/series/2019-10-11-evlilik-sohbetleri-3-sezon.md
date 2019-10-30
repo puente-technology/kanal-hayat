@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: EVLİLİK SOHBETLERİ 3.SEZON
 publishDate: .
 coverImage: /images/uploads/evlilik-sohbetleri-2.png
-hosts: ALİ KALKANDELEN
+host: ALİ KALKANDELEN
 popularity: '1'
 description: >-
   Ali ve Pervin Kalkandelen'in sunumuyla evlilik hakkındaki sohbetlerini Kanal

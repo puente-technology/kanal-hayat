@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: 'HEY GİDİ KARADENİZ - 2.SEZON '
 publishDate: .
 coverImage: /images/uploads/17.jpg
-hosts: İHSAN ÖZBEK
+host: İHSAN ÖZBEK
 popularity: '1'
 description: |-
   Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,

@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: TÜRKMEN PROGRAMLARIMIZ
 publishDate: .
 coverImage: /images/uploads/batır-nuroğlu-2-save-for-web.jpg
-hosts: BATIR NUROĞLU
+host: BATIR NUROĞLU
 popularity: '5'
 description: >-
   Batır Nuroğlu'nun hazırlayıp sunduğu Türkmen programlarını Kanal Hayat

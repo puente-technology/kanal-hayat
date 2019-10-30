@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: AKUSTİK İLAHİLER
 publishDate: .
 coverImage: /images/uploads/3.png
-hosts: UMUT KALESİ
+host: UMUT KALESİ
 popularity: '5'
 description: >-
   "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi besteledikleri

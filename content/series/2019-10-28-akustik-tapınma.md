@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: Akustik Tapınma
 publishDate: .
 coverImage: /images/uploads/2.png
-hosts: UMUT KALESİ
+host: UMUT KALESİ
 popularity: '5'
 description: >-
   "Akustik Tapınma” serimizde tapınmacı arkadaşlarımıza, kendi besteledikleri ya

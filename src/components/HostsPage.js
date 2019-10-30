@@ -27,8 +27,8 @@ class HostsList extends Component {
   }
 
   componentDidMount() {
-    const { data } = this.props;
-    this.setState({ listSeries: this.dataIntoArray(data) })
+    const { hosts } = this.props;
+    this.setState({ listSeries: this.dataIntoArray(hosts) })
     // this.sortSeriesByPopularity()
   }
 
@@ -130,17 +130,16 @@ class HostsList extends Component {
 
   handleTextChange = (e) => {
     let { listSeries } = this.state;
-    const { data } = this.props;
+    const { hosts } = this.props;
     if (e.target.value && listSeries.length === 0) {
-      listSeries = this.dataIntoArray(data)
+      listSeries = this.dataIntoArray(hosts)
     }
     if (e.target.value === '') {
-      listSeries = this.dataIntoArray(data)
+      listSeries = this.dataIntoArray(hosts)
     }
     const res = listSeries
       .filter(d => (
-        d.node.frontmatter.title.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().includes(e.target.value.toLowerCase())
-        || d.node.frontmatter.host.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().includes(e.target.value.toLowerCase())
+        d.node.frontmatter.host.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().includes(e.target.value.toLowerCase())
       ))
     this.setState({ listSeries: res, selectedCategories: [], expandedDiv: '' })
   }
@@ -221,11 +220,11 @@ class HostsList extends Component {
     const { hosts, hostList, data } = this.props
     const renderHosts = []
     for (let i = 0; i < listSeries.length; i += 1) {
-      const { frontmatter, fields } = hosts[i].node
+      const { frontmatter, fields } = listSeries[i].node
       if (i.toString() === expandedDiv) {
-        if (i % 2 === 0 && hosts.length > 1 && !!hosts[i + 1]) {
-          const nextFields = hosts[i + 1].node.fields
-          const nextFronmatter = hosts[i + 1].node.frontmatter
+        if (i % 2 === 0 && listSeries.length > 1 && !!hosts[i + 1]) {
+          const nextFields = listSeries[i + 1].node.fields
+          const nextFronmatter = listSeries[i + 1].node.frontmatter
           renderHosts.push(
             <React.Fragment>
               <HostCard

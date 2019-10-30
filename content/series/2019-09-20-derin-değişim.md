@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: Derin Değişim
 publishDate: .
 coverImage: /images/uploads/banu.png
-hosts: BANU ÇELİK
+host: BANU ÇELİK
 popularity: '5'
 description: >-
   Banu Çelik ve konuklarıyla birlikte farklı konularda kelam temelinde

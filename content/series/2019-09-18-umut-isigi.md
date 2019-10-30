@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: Umut Işığı
 publishDate: .
 coverImage: /images/uploads/gülhan-1.jpg
-hosts: Gülhan
+host: Gülhan
 popularity: '1'
 description: >-
   Gülhan'ın hazırlayıp sunduğu Hristiyan Ruhsallığı hakkındaki "Umut Işığı"

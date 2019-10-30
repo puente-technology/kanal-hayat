@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: MÜZİK KLİPLERİ
 publishDate: .
 coverImage: /images/uploads/1.png
-hosts: UMUT KALESİ
+host: UMUT KALESİ
 popularity: '5'
 description: >-
   "Müzik Klipleri" serimizde tapınmacı arkadaşlarımıza, kendi besteledikleri

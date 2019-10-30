@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: TÜRKMEN KADIN PROGRAMLARI
 publishDate: .
 coverImage: /images/uploads/30.jpg
-hosts: Merýem - TÜRKMEN KADIN PROGRAMLARIMIZ
+host: Merýem - TÜRKMEN KADIN PROGRAMLARIMIZ
 popularity: '5'
 description: |-
   Türken Kadın Programlarımızı Kanal Hayat ekranlarından veya 

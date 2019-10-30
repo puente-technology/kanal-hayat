@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: 'KORUZUTHO SURYOYO '
 publishDate: .
 coverImage: /images/uploads/koruzutho-suryoyo-save-for-web.jpg
-hosts: Paulus Bartuma
+host: Paulus Bartuma
 popularity: '5'
 description: >-
   Paulus Bartuma ile "Koruzutho Suryoyo / Süryanice Dilinde Vaaz" programını

@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: EXLAG'A İNCİL'E  (İNCİL AHLAKI)
 publishDate: .
 coverImage: /images/uploads/i̇nci̇l-ahlaki.png
-hosts: Ender Peker
+host: Ender Peker
 popularity: '1'
 description: |-
   Pastör Ender Peker'in  sunumuyla (Kürtçe Dilinde) gerçekleştirdiği

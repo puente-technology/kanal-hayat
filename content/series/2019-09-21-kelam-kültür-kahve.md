@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: Kelam Kültür Kahve
 publishDate: .
 coverImage: /images/uploads/kelam-kültür-kahve.png
-hosts: UMUT KALESİ
+host: UMUT KALESİ
 popularity: '10'
 description: >-
   Kelam Kültür ve Kahve Hristiyan bakış açısıyla farklı konuları birbirinden

@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: Allah Sevgidir
 publishDate: .
 coverImage: /images/uploads/anlatsana-ey-gavur.jpg
-hosts: Can Nuroğlu
+host: Can Nuroğlu
 popularity: '5'
 description: >-
   Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah Sevgidir"

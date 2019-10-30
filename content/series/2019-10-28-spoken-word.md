@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: Spoken Word
 publishDate: .
 coverImage: /images/uploads/5.png
-hosts: UMUT KALESİ
+host: UMUT KALESİ
 popularity: '10'
 description: >-
   "Spoken Word" serimizle, yazar arkadaşlarımızın yüreklerinde güçlü bir arzuyla

@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: BÜYÜTEÇ MEZEPOTAMYA
 publishDate: .
 coverImage: /images/uploads/büyüteç-save-for-web.jpg
-hosts: Serdar Dedeoğlu
+host: Serdar Dedeoğlu
 popularity: '1'
 description: |-
   Serdar Dedeoğlu ve Gülhan ile Büyüteç Mezepotamya 

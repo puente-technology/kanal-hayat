@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: HRİSTİYAN ŞERİATI
 publishDate: ..
 coverImage: /images/uploads/ahmet-1.jpg
-hosts: Abuna Gabriel ve Ahmet Güvener
+host: Abuna Gabriel ve Ahmet Güvener
 popularity: '5'
 description: |-
   Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile 

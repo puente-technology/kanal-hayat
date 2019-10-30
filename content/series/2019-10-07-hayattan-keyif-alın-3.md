@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: HAYATTAN KEYİF ALIN 3
 publishDate: .
 coverImage: /images/uploads/rrr.jpg
-hosts: Joyce Meyer
+host: Joyce Meyer
 popularity: '10'
 description: >-
   Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından nasıl özgür

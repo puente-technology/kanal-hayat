@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: DAR KAPIDAN GİRENLER  6.SEZON
 publishDate: .
 coverImage: /images/uploads/4.jpg
-hosts: ALİ KALKANDELEN
+host: ALİ KALKANDELEN
 popularity: '1'
 description: |-
   Ali Kalkandelen'in sunumu ve konuklarının katılımıyla gerçekleştirdiği
