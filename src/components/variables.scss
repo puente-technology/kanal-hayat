@@ -56,3 +56,18 @@ $grid-breakpoints: (
 //     font-style: normal;
 //     font-weight: 100;
 // }
+
+html {
+  button {
+    &:hover {
+      cursor: pointer;
+    }
+    &:focus {
+      outline: none;
+    }
+  }
+}
+
+::-webkit-scrollbar {
+  display: none;
+}

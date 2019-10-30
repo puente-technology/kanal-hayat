@@ -6,7 +6,7 @@
 
 .HostDescription {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 .Content {
@@ -17,8 +17,6 @@
   color: #3d3d3d;
   width: 70% !important;
   margin: 30px;
-  text-align: justify;
-  text-indent: 50px;
 }
 
 .HostSeries {

@@ -5,7 +5,7 @@
 }
 
 .TextInfo {
-  padding-top: 286px;
+  padding-top: 250px;
   padding-left: 120px;
 }
 
@@ -28,11 +28,14 @@
   font-size: 18px;
   line-height: 25px;
   color: #ffffff;
-  height: 98px;;
+  // height: 98px;;
 }
 
 .TextInfoEpisode {
   padding-top: 25px;
+  .dropdown-menu {
+    background-color: rgba(241, 241, 241, 1);
+  }
 }
 
 .TextInfoEpisodeTitle {
@@ -41,6 +44,7 @@
   line-height: 25px;
   text-transform: capitalize;
   color: #ffffff;
+  margin-right: 20px;
 }
 
 .TextInfoEpisodeBtns {
@@ -112,7 +116,7 @@
   .TextInfoDescription {
     margin-top: 0px;
     font-size: 13px;
-    height: 98px;;
+    // height: 98px;;
   }
   .TextInfoEpisodeBtns {
     margin-top: 27px;

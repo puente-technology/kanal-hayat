@@ -379,7 +379,7 @@ class SeriesList extends Component {
         </div>
 
         <div className="SeriesListSortAndFilter">
-          <div style={{ display: 'flex' }}>
+          <div style={{ display: 'flex', alignItems: 'center' }}>
             <p style={{ marginRight: '10px' }}>
               Sirala:
             </p>
@@ -400,7 +400,7 @@ class SeriesList extends Component {
               Tarih
             </button>
           </div>
-          <div style={{ display: 'flex' }}>
+          <div style={{ display: 'flex', alignItems: 'center' }}>
             <p style={{ marginRight: '10px' }}>
               Filtrele:
             </p>

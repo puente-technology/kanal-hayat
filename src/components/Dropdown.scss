@@ -35,6 +35,9 @@
       border-right: 4px solid transparent;
       border-left: 4px solid transparent;
     }
+    &:focus {
+      outline: none;
+    }  
   }
 
   .dropdown-menu {
@@ -50,7 +53,7 @@
     font-size: 14px;
     text-align: left;
     list-style: none;
-    background-color: rgba(241, 241, 241, 0.8);
+    background-color: rgba(241, 241, 241, 1);
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
     border: 1px solid #ccc;
@@ -76,8 +79,8 @@
         white-space: nowrap;
         text-decoration: none;
       }
-    } 
-  }  
+    }
+  }
 }
 
 @media (min-width: 2500px) { 
