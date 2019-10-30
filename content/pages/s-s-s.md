@@ -114,10 +114,14 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Tanrı’nın Kimliği Nasıl Anlayabiliriz? Kutsal Kitap bize
-      Tanrı’nın Kimliğini açıklar mı ? Tanrı Kendini Kutsal Kitap’ta bize nasıl
-      açıklıyor? Aşağıdaki programlarımızı izleyerek detaylı bilgi
-      edinebilirsiniz.Esen Kalın.
+      için yanıtladık. Sizce Tanrı’nın Kimliğini en iyi şekilde kim
+      açıklayabilir ? Tabi ki bu konuda herkes bir fikir sahibidir ama aslında
+      bu sorunun cevabını verecek olan yine Tanrı’dır. Kendi kimliğini
+      yaratılışına açıklayabilecek olan tek yetkili yine O’dur. Kutsal Kitaba
+      baktığımızda ; Yuhanna 4:24 Tanrı Ruhtur…diyor. der. 1.Yuhanna 4:8  “Tanrı
+      sevgidir.” Ve O’nun sevgisi paylaşılan tek taraflı olan bir sevgi
+      değildir. Devamında… 1.Yuhanna 1:5 “Tanrı ışıktır” der. Daha fazla bilgi
+      edinmek için lütfen programlarımızı izleyin. 
     question: Hristiyanlıkta Tanrı'nın Kimliği ?
     videos:
       - guests: .
