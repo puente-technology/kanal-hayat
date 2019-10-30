@@ -4,7 +4,7 @@ title: IŞIK ABLA
 host: IŞIK ABLA
 language: '0'
 targetGroup: Herkes
-coverImage: /images/uploads/ışık-abla.png
+coverImage: /images/uploads/işık-1.png
 html: |-
   Mesih imanlıları günah dolu dünya ikliminde imanlarını nasıl
    korumalı, nasıl yaşamalı, İblise karşı nasıl mücadele etmeli? Işık
