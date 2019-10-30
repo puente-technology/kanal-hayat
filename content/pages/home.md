@@ -66,7 +66,7 @@ gallery:
   - align: right
     alt: İhsan Özbek ile
     color: light
-    image: /images/uploads/17.jpg
+    image: /images/uploads/ihsan-1.jpg
     link: series/hey-gi-di-karadeniz/
     title: EY GİDİ KARADENİZ
 program1:
