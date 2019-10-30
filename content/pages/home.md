@@ -71,7 +71,7 @@ gallery:
     title: EY GİDİ KARADENİZ
 program1:
   align: left
-  bgImage: /images/uploads/joyce-meyer-3.jpg
+  bgImage: /images/uploads/joyce-1.jpg
   color: light
   content: |-
     Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından
