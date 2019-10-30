@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Sbartho Du Mgalyun
 publishDate: .
-coverImage: /images/uploads/_dsc166999.jpg
+coverImage: /images/uploads/paulus-1.jpg
 hosts: Paulus Bartuma
 popularity: '10'
 description: >-
@@ -14,7 +14,7 @@ description: >-
 
   Esenlik Olsun.
 targetGroup: Herkes
-language: '0'
+language: '2'
 selectedCategories:
   - Rehberlik
   - Kutsal Kitap Dersleri
