@@ -36,7 +36,7 @@ gallery:
   - align: right
     alt: Serdar Dedeoğlu ile
     color: light
-    image: /images/uploads/serdar-1.png
+    image: /images/uploads/serdar-2.png
     link: series/kutsal-si-rlar-sizden-gelen-sorular/
     title: 'Kutsal Sırlar '
   - align: right
@@ -48,7 +48,7 @@ gallery:
   - align: right
     alt: Ender Peker ile
     color: light
-    image: /images/uploads/ender-peker.png
+    image: /images/uploads/ender-1.png
     link: series/exlaga-i-ncile-incil-ahla-ki/
     title: Exlaq'a İncil'ê (İncil Ahlakı)
   - align: center
@@ -60,7 +60,7 @@ gallery:
   - align: left
     alt: Rev.Dr. Turgay Üçal ile
     color: light
-    image: /images/uploads/turgay-ucal-ii.jpg
+    image: /images/uploads/turgay-1.jpg
     link: series/mana-sohbetle-ri/
     title: Mânâ SOHBETLERİ
   - align: right
