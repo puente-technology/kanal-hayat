@@ -1,7 +1,7 @@
 ---
 locale: en
 template: AboutUs
-featuredImage: /images/uploads/kanal-hayat-save-for-web.jpg
+featuredImage: /images/uploads/abous-us-1.jpg
 slug: about-us
 title: KANAL HAYAT HAKKINDA
 content:
