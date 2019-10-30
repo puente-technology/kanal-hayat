@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: HRİSTİYAN ŞERİATI
 publishDate: ..
-coverImage: /images/uploads/hristiyan-şeriatı-save-for-web.jpg
+coverImage: /images/uploads/ahmet-1.jpg
 hosts: Abuna Gabriel ve Ahmet Güvener
 popularity: '5'
 description: |-
