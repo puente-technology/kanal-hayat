@@ -54,7 +54,7 @@ gallery:
   - align: center
     alt: Milazım Rasoyan ve Şaban Ok ile
     color: light
-    image: /images/uploads/saban-and-milazim.jpg
+    image: /images/uploads/şaban-1.jpg
     link: series/suhbeten-kelame/
     title: SUHBETÊN KELAMÊ
   - align: left
