@@ -18,7 +18,7 @@ gallery:
   - align: right
     alt: Can Nuroğlu ile
     color: light
-    image: /images/uploads/can-nuroğlu-save-for-web-1.jpg
+    image: /images/uploads/can-1.jpg
     link: series/h-ri-stiyan-ahla-ki/
     title: Hristiyan Ahlakı
   - align: center
