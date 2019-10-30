@@ -24,7 +24,7 @@ gallery:
   - align: center
     alt: Paulus Bartuma ile
     color: light
-    image: /images/uploads/paulus-bartuma-save-for-web.jpg
+    image: /images/uploads/paulus-1.jpg
     link: series/sbartho-du-mgalyun/
     title: Sbartho Du Mgalyun
   - align: left
