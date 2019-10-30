@@ -36,13 +36,13 @@ gallery:
   - align: right
     alt: Serdar Dedeoğlu ile
     color: light
-    image: /images/uploads/serdar-1.png
+    image: /images/uploads/serdar-1.jpg
     link: series/kutsal-si-rlar-sizden-gelen-sorular/
     title: 'Kutsal Sırlar '
   - align: right
     alt: Gülhan ile
     color: light
-    image: /images/uploads/gülhan-1.jpg
+    image: /images/uploads/gulhan-slider.jpg
     link: series/umut-isigi/
     title: Umut Işığı
   - align: right
