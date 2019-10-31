@@ -1,7 +1,7 @@
 ---
 template: Host
-title: UFUK ABİ
-host: UFUK ABİ
+title: PUSULA ÇOCUK PROGRAMI
+host: PUSULA ÇOCUK PROGRAMI
 language: '0'
 targetGroup: Herkes
 coverImage: /images/uploads/pusula.png
