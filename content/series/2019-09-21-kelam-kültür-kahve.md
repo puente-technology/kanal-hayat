@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Kelam Kültür Kahve
 publishDate: .
-coverImage: /images/uploads/kelam-kültür-kahve.png
+coverImage: /images/uploads/kelam-1.png
 host: UMUT KALESİ
 popularity: '10'
 description: >-
