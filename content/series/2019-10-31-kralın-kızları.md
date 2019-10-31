@@ -304,5 +304,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=oCcF4T5Pt5E&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=12&t=0s
       viewCount: '223'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Hırs Tehlikesi - Kralın Kızları 11
+
+        Işık Abla'nın "Kralın Kızları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kal ın.
+
+        http://kanalhayat.tv
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M57S
+      id: b0LjGh-Ow0k
+      imageURL: 'https://i.ytimg.com/vi/b0LjGh-Ow0k/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-07-28T05:13:44.000Z'
+      tags: '#hırs,#tehlikesi'
+      title: Hırs Tehlikesi - Kralın Kızları 11
+      url: >-
+        https://www.youtube.com/watch?v=b0LjGh-Ow0k&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=11&t=0s
+      viewCount: '162'
 ---
 
