@@ -150,7 +150,7 @@ class Item extends React.Component {
         />
         <div className="info">
           <div className="infoDiv">
-            {`${id.youtubeURL.title.slice(0, 25)}: `}
+            {`${id.youtubeURL.title}: `}
           </div>
           <div className="infoDiv">
             {frontmatter.host || ''}

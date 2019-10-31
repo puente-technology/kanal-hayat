@@ -278,26 +278,32 @@ class HostsList extends Component {
     return (
       <div className="Series">
         <div className="SeriesListSortAndFilter">
-          <button
-            value="title"
-            onClick={this.handleSortByClick}
-            type="button"
-            className={sortByNameBool ? 'SortButton active' : 'SortButton'}
-          >
-            Sunucu İsmi
-          </button>
-          {/* <button
-            value="date"
-            onClick={this.handleSortByDateClick}
-            type="button"
-            className={sortByDateBool ? 'SortButton active' : 'SortButton'}
-          >
-            Tarih
-          </button> */}
-          {/* <Dropdown handleLanguageChange=
-            {this.handleLanguageChange} list={['Dil', 'Turkce', 'English']} /> */}
-          <Dropdown handleTargetChange={this.handleTargetChange} list={['Hedef Kitle', 'Herkes', 'Çocuk', 'Genç', 'Yetişkin']} />
-          {/* <Dropdown handleHostChange={this.handleHostChange} list={hostList} /> */}
+          <div style={{ display: 'flex', alignItems: 'center' }}>
+            <p style={{ marginRight: '10px' }}>Sirala : </p>
+            <button
+              value="title"
+              onClick={this.handleSortByClick}
+              type="button"
+              className={sortByNameBool ? 'SortButton active' : 'SortButton'}
+            >
+              Sunucu İsmi
+            </button>
+          </div>
+          <div style={{ display: 'flex', alignItems: 'center' }}>
+            {/* <button
+              value="date"
+              onClick={this.handleSortByDateClick}
+              type="button"
+              className={sortByDateBool ? 'SortButton active' : 'SortButton'}
+            >
+              Tarih
+            </button> */}
+            <p style={{ marginRight: '10px' }}>Filtrele : </p>
+            {/* <Dropdown handleLanguageChange=
+              {this.handleLanguageChange} list={['Dil', 'Turkce', 'English']} /> */}
+            <Dropdown handleTargetChange={this.handleTargetChange} list={['Hedef Kitle', 'Herkes', 'Çocuk', 'Genç', 'Yetişkin']} />
+            {/* <Dropdown handleHostChange={this.handleHostChange} list={hostList} /> */}
+          </div>
           <input onChange={this.handleTextChange} className="Nav--Search filter" type="text" />
         </div>
         <div className="SeriesContainer">

@@ -136,7 +136,7 @@ export class PageFooter extends Component {
           <div className="iconsColmStyle">
             {
               Object.entries(icons).map(([key, val]) => (
-                <a href={iconsLink[key]} rel="noopener noreferrer" target="_blank">
+                <a href={iconsLink[key]} rel="noopener noreferrer" target="_blank" className="socialIconsLinks">
                   <img alt={key} className="iconStyle" key={key} src={val} />
                 </a>
               ))

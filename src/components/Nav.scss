@@ -17,7 +17,7 @@
 .Nav--Links {
   display: flex;
   align-items: center;
-  margin-left: 94px;
+  margin-left: 10px;
   &.light {
     color: white !important;
   }
@@ -62,6 +62,7 @@
   padding-top: 3px;
   font-size: 18px;
   line-height: 18px;
+  white-space: nowrap;
 }
 
 .NavLink:hover,

@@ -24,7 +24,7 @@ export const HomePageTemplate = (data) => {
     <div>
       {
         data.frontmatter
-          ? <FullPageSlider autoSlide gallery={data.gallery} slideTime={5000} />
+          ? <FullPageSlider autoSlide gallery={data.gallery} slideTime={7000} />
           : <HomePageSlider data={data.gallery} />
       }
       <LiveNow dispatch={data.dispatch} isLiveStream={false} />

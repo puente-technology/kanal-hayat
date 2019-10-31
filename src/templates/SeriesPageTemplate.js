@@ -256,11 +256,11 @@ class CustomHeaderBanner extends Component {
               <div className="TextInfoHost">
                 {host}
               </div>
-              <div className="TextInfoDescription" style={{ width: '90%' }}>
+              <div className="TextInfoDescription" style={{ width: '35%' }}>
                 {description}
               </div>
               <div className="TextInfoEpisode">
-                <div style={{ display: 'flex' }} className="TextInfoAndSeason">
+                <div style={{ display: 'flex', alignItems: 'center' }} className="TextInfoAndSeason">
                   <div className="TextInfoEpisodeTitle">
                   Bölümler
                   </div>

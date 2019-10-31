@@ -31,8 +31,7 @@
 }
 
 .paravan {
-  background-color: rgba(0, 0, 0, 0.6);
-  background-size: cover;
+  background-color: transparent;
   height: 300px;
   width: 560px;
   border: 0;
@@ -42,7 +41,8 @@
   top: 0;
   position: absolute;
   &:hover {
-    background-color: transparent;
+    background-color: rgba(0, 0, 0, 0.6);
+    background-size: cover;
     cursor: pointer;
   }
   &:focus {
