@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: 'Tek Yol, Gerçek ve Hayat 2'
 publishDate: .
 coverImage: /images/uploads/mutluluğun-sırrı.png
-host: Işık Abla ile
+host: IŞIK ABLA
 popularity: '5'
 description: |-
   Mesih imanlıları günah dolu dünya ikliminde imanlarını nasıl
