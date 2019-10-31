@@ -276,5 +276,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=r9rTkestUv4&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=10&t=0s
       viewCount: '211'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kıskançlığın Ortaya Çıkışı - Kralın Kızları 10
+
+        Işık Abla'nın "Kralın Kızları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kal ın.
+
+        http://kanalhayat.tv
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M58S
+      id: oCcF4T5Pt5E
+      imageURL: 'https://i.ytimg.com/vi/oCcF4T5Pt5E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-08-25T13:08:07.000Z'
+      tags: '#kıskançlık,Ortaya,Çıkışı'
+      title: Kıskançlığın Ortaya Çıkışı - Kralın Kızları 10
+      url: >-
+        https://www.youtube.com/watch?v=oCcF4T5Pt5E&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=12&t=0s
+      viewCount: '223'
 ---
 
