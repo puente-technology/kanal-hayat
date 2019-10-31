@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: EŞSİZ MESİH
 publishDate: .
-coverImage: /images/uploads/essiz-mesih.jpg
+coverImage: /images/uploads/essiz-mesih-1.jpg
 host: Nizar Shaheen ile
 popularity: '1'
 description: >-
