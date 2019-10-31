@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: DEĞİŞTİREN TANRI
 publishDate: .
-coverImage: /images/uploads/6.png
+coverImage: /images/uploads/66.png
 host: UMUT KALESİ
 popularity: '5'
 description: >-
