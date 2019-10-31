@@ -472,5 +472,18 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Xc6tgOl8F8w&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=17&t=0s
       viewCount: '200'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M35S
+      id: jVXJG1S5RWI
+      imageURL: 'https://i.ytimg.com/vi/jVXJG1S5RWI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-12-13T11:44:35.000Z'
+      tags: kapı
+      title: 17. Cinlere Kapıları Kapatmak
+      url: 'https://youtu.be/jVXJG1S5RWI'
+      viewCount: '492'
 ---
 
