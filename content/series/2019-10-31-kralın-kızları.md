@@ -360,5 +360,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=SvhRMzBsgNY&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=13&t=0s
       viewCount: '222'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Mutsuz Anneler - Kralın Kızları 13
+
+        Işık Abla'nın "Kralın Kızları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kal ın.
+
+        http://kanalhayat.tv
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M58S
+      id: a1wZqXAvRzs
+      imageURL: 'https://i.ytimg.com/vi/a1wZqXAvRzs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-12-13T11:43:08.000Z'
+      tags: '#mutsuz,#anneler,Kralın,Kızları'
+      title: Mutsuz Anneler - Kralın Kızları 13
+      url: >-
+        https://www.youtube.com/watch?v=a1wZqXAvRzs&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=14&t=0s
+      viewCount: '336'
 ---
 
