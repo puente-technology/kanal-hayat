@@ -132,5 +132,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=R0_BcKm-_eg&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=5&t=0s
       viewCount: '620'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Tanrı'nın Sevgisine Şükret - Kralın Kızları 5
+
+        Işık Abla'nın "Kralın Kızları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+
+        Category
+      duration: PT27M55S
+      id: 2OuZX70TyfA
+      imageURL: 'https://i.ytimg.com/vi/2OuZX70TyfA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T08:02:13.000Z'
+      tags: '#tanrının,#sevgisine,ŞÜKRET'
+      title: TANRI’NIN SEVGISINE ŞÜKRET-KRALIN KIZLARI 05
+      url: >-
+        https://www.youtube.com/watch?v=2OuZX70TyfA&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=6&t=0s
+      viewCount: '258'
 ---
 
