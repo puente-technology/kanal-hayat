@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: HAYATTAN KEYİF ALIN
 publishDate: .
-coverImage: /images/uploads/rrr.jpg
+coverImage: /images/uploads/joyce-meyer-enjoying-everyday-life.jpeg
 host: Joyce Meyer
 popularity: '10'
 description: >-
