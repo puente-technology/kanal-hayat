@@ -257,5 +257,40 @@ episodes:
       title: 42. Bölüm (Tanrı Sözü Aracılığıyla Bizimle Konuşur)
       url: 'https://youtu.be/Uk0liKwLRUI'
       viewCount: '571'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M16S
+      id: ySYWQMlPFyM
+      imageURL: 'https://i.ytimg.com/vi/ySYWQMlPFyM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-02-20T15:05:30.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 43. Bölüm (Dünyanın Sonu)
+      url: 'https://youtu.be/ySYWQMlPFyM'
+      viewCount: '622'
 ---
 
