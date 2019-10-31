@@ -444,5 +444,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Z7LMDxRsgds&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=16&t=0s
       viewCount: '386'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Köleliğe Son - Kralın Kızları 16
+
+        Işık Abla'nın "Kralın Kızları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M30S
+      id: Xc6tgOl8F8w
+      imageURL: 'https://i.ytimg.com/vi/Xc6tgOl8F8w/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-12-13T11:44:11.000Z'
+      tags: '#köleliğe,Son,Kralın,Kızları'
+      title: Köleliğe Son - Kralın Kızları 16
+      url: >-
+        https://www.youtube.com/watch?v=Xc6tgOl8F8w&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=17&t=0s
+      viewCount: '200'
 ---
 
