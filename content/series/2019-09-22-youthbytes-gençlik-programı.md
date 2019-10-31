@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: YouthBytes - Gençlik Programı
 publishDate: .
-coverImage: /images/uploads/youthbytes-gençlik-programı.jpg
+coverImage: /images/uploads/youth-1.jpg
 host: Chad Daniel ile
 popularity: '5'
 description: |-
