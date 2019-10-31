@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: MESİH'İN MESELLERİ
 publishDate: .
-coverImage: /images/uploads/mesihin-meselleri.png
+coverImage: /images/uploads/meseller-1.png
 host: Abuna Gabriel ve Ahmet Güvener
 popularity: '1'
 description: >-
