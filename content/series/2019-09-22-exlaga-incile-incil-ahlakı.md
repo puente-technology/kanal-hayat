@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: EXLAG'A İNCİL'E  (İNCİL AHLAKI)
 publishDate: .
-coverImage: /images/uploads/i̇nci̇l-ahlaki.png
+coverImage: /images/uploads/i̇nci̇l-ahlaki-1.png
 host: Ender Peker
 popularity: '1'
 description: |-
