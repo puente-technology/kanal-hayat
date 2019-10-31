@@ -162,5 +162,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=2OuZX70TyfA&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=6&t=0s
       viewCount: '258'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Korkunun Zincirlerini Kır - Kralın Kızları 6
+
+        Işık Abla'nın "Kralın Kızları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+
+        Category
+      duration: PT27M57S
+      id: wyqyL3M7D9g
+      imageURL: 'https://i.ytimg.com/vi/wyqyL3M7D9g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-25T12:38:07.000Z'
+      tags: '#korkunun,Zincirlerini,Kır'
+      title: KORKUNUN ZINCIRLERINI KIR-KRALIN KIZLARI 06
+      url: >-
+        https://www.youtube.com/watch?v=wyqyL3M7D9g&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=7&t=0s
+      viewCount: '149'
 ---
 
