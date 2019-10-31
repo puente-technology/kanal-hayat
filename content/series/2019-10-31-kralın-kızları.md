@@ -416,5 +416,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=JUY_1v3hsdE&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=15&t=0s
       viewCount: '206'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kadın Olmak – Güzellik Nedir? - Kralın Kızları 15
+
+        Işık Abla'nın "Kralın Kızları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M2S
+      id: Z7LMDxRsgds
+      imageURL: 'https://i.ytimg.com/vi/Z7LMDxRsgds/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-12-13T11:44:01.000Z'
+      tags: '#kadın,Olmak,Güzellik,Nedir?,Kralın,Kızları'
+      title: Kadın Olmak – Güzellik Nedir? - Kralın Kızları 15
+      url: >-
+        https://www.youtube.com/watch?v=Z7LMDxRsgds&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=16&t=0s
+      viewCount: '386'
 ---
 
