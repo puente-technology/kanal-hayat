@@ -192,5 +192,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=wyqyL3M7D9g&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=7&t=0s
       viewCount: '149'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kendine Güvenme , Tanrı'ya Güven - Kralın Kızları 7
+
+        Işık Abla'nın "Kralın Kızları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: YbQWtfZByFM
+      imageURL: 'https://i.ytimg.com/vi/YbQWtfZByFM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-25T12:38:21.000Z'
+      tags: '#tanrıya,#güven,#kendine,#değil'
+      title: 'Kendine Güvenme , Tanrı''ya Güven - Kralın Kızları 7'
+      url: >-
+        https://www.youtube.com/watch?v=YbQWtfZByFM&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=8&t=0s
+      viewCount: '258'
 ---
 
