@@ -102,5 +102,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=jVkvU0dyEK0&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=4&t=0s
       viewCount: '191'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kafandaki Düşmana Ait Düşünceleri Çıkar - Kralın Kızları 4
+
+        Işık Abla'nın "Kralın Kızları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+
+        Category
+      duration: PT27M58S
+      id: R0_BcKm-_eg
+      imageURL: 'https://i.ytimg.com/vi/R0_BcKm-_eg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T08:01:15.000Z'
+      tags: '#kafandaki,#düşmana,#ait,#düşünceleri,Çıkar'
+      title: Kafandaki Düşmana Ait Düşünceleri Çıkar - Kralın Kızları 4
+      url: >-
+        https://www.youtube.com/watch?v=R0_BcKm-_eg&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=5&t=0s
+      viewCount: '620'
 ---
 
