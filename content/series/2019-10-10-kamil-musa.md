@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Kamil Musa
 publishDate: .
-coverImage: /images/uploads/kamil.png
+coverImage: /images/uploads/kamil-1.png
 host: KAMİL MUSA
 popularity: '5'
 description: >-
