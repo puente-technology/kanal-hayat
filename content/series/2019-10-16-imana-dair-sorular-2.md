@@ -327,5 +327,40 @@ episodes:
       title: 44. Bölüm (Gerçeği Sevgiyle Yaklaşmak)
       url: 'https://youtu.be/Qkz0mVjbQvg'
       viewCount: '637'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M16S
+      id: oLt5OneNFo0
+      imageURL: 'https://i.ytimg.com/vi/oLt5OneNFo0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-02-20T15:01:48.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 45. Bölüm (Kutsal Kitap Taklit Edilebilir mi?)
+      url: 'https://youtu.be/oLt5OneNFo0'
+      viewCount: '815'
 ---
 
