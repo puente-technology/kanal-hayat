@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Düşten Öte
 publishDate: .
-coverImage: /images/uploads/dusten-ote.jpg
+coverImage: /images/uploads/dusten-ote-1.jpg
 host: FİLMLER
 popularity: '1'
 description: >-
