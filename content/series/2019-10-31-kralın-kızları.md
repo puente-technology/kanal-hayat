@@ -72,5 +72,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=cN_KJTswxT4&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=3&t=0s
       viewCount: '250'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Yanlız Tanrı'nın Sözlerini Kabul Et - Kralın Kızları 3
+
+        Işık Abla'nın "Kralın Kızları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+
+        Category
+      duration: PT28M1S
+      id: jVkvU0dyEK0
+      imageURL: 'https://i.ytimg.com/vi/jVkvU0dyEK0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-25T12:37:14.000Z'
+      tags: '#kabul,#et,#tanrının,#sözlerini'
+      title: Yanlız Tanrı'nın Sözlerini Kabul Et - Kralın Kızları 3
+      url: >-
+        https://www.youtube.com/watch?v=jVkvU0dyEK0&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=4&t=0s
+      viewCount: '191'
 ---
 
