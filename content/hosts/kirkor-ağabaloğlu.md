@@ -4,7 +4,7 @@ title: KİRKOR Ağabaloğlu
 host: KİRKOR Ağabaloğlu
 language: '0'
 targetGroup: Herkes
-coverImage: /images/uploads/ki̇rkor.jpg
+coverImage: /images/uploads/ki̇rkor-1.jpg
 html: >-
   Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet" programını Kanal
   Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.
