@@ -15,6 +15,9 @@
 .googlePlayStyle {
   text-align: center
 }
+.googlePlayStyle img:hover {
+  cursor: pointer;
+}
 
 .firstText {
   
