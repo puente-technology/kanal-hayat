@@ -220,5 +220,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=YbQWtfZByFM&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=8&t=0s
       viewCount: '258'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Üzülme! Bırak Tanrı Yüreğini Sevinçle Doldursun - Kralın Kızları 8
+
+        Işık Abla'nın "Kralın Kızları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M57S
+      id: tQEeh2NCSls
+      imageURL: 'https://i.ytimg.com/vi/tQEeh2NCSls/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-07-27T10:25:24.000Z'
+      tags: '#sevinçle,#doldursun,#üzülme,#bırak'
+      title: Üzülme! Bırak Tanrı Yüreğini Sevinçle Doldursun - Kralın Kızları 8
+      url: >-
+        https://www.youtube.com/watch?v=tQEeh2NCSls&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=9&t=0s
+      viewCount: '196'
 ---
 
