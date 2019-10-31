@@ -152,5 +152,40 @@ episodes:
       title: 39. Bölüm (Evlilik Nedir ? Kadın ve Erkek İlişkisi )
       url: 'https://youtu.be/Dc7zDLmYBzc'
       viewCount: '692'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M16S
+      id: 5b5aMnubCr0
+      imageURL: 'https://i.ytimg.com/vi/5b5aMnubCr0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-02-20T14:36:11.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 40. Bölüm (Evlilik) Kadın ve Erkek İlişkisi - Devamı..
+      url: 'https://youtu.be/5b5aMnubCr0'
+      viewCount: '655'
 ---
 
