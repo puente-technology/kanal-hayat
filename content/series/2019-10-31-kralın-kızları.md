@@ -388,5 +388,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=a1wZqXAvRzs&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=14&t=0s
       viewCount: '336'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İyi Bir Anne ve İyi Bir Kayınvalide Olmak - Kralın Kızları 14
+
+        Işık Abla'nın "Kralın Kızları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M37S
+      id: JUY_1v3hsdE
+      imageURL: 'https://i.ytimg.com/vi/JUY_1v3hsdE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-12-13T11:43:42.000Z'
+      tags: '#anne,Olmak,Kayınvalide,İyi,Kralın,Kızları'
+      title: İyi Bir Anne ve İyi Bir Kayınvalide Olmak - Kralın Kızları 14
+      url: >-
+        https://www.youtube.com/watch?v=JUY_1v3hsdE&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=15&t=0s
+      viewCount: '206'
 ---
 
