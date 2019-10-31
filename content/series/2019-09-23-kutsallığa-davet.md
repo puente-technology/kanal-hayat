@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: KUTSALLIĞA DAVET
 publishDate: .
-coverImage: /images/uploads/ki̇rkor.jpg
+coverImage: /images/uploads/ki̇rkor-1.jpg
 host: KİRKOR Ağabaloğlu
 popularity: '1'
 description: |
