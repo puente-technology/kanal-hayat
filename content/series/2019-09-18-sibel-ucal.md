@@ -7,8 +7,10 @@ host: SİBEL ÜÇAL
 popularity: '5'
 description: >-
   Sibel Üçal'ın seslendirdiği "Haykır Yüreğim" adlı Hristiyan İlahilerden oluşan
-  albümü Kanal Hayat ekranından dinleyebilir veya youtube takip
-  edebilirsiniz.Teşekkürler.
+  albümü Kanal Hayat ekranından dinleyebilir veya youtube sayfamızdan takip
+  edebilirsiniz.
+
+  Esen Kalın.
 targetGroup: Herkes
 language: '0'
 selectedCategories:
