@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Kralın Oğulları
 publishDate: .
-coverImage: /images/uploads/gerçek-bir-adam-olmakb.jpg
+coverImage: /images/uploads/kralın-1.jpg
 host: IŞIK ABLA
 popularity: '1'
 description: >-
