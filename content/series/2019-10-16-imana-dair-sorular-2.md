@@ -467,5 +467,40 @@ episodes:
       title: 49. Bölüm (Yaratılış Nasıl Oldu?)
       url: 'https://youtu.be/wKJAhd0NsqI'
       viewCount: '574'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M16S
+      id: Ru6Etx3itmg
+      imageURL: 'https://i.ytimg.com/vi/Ru6Etx3itmg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-02-21T12:50:02.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 50. Bölüm (Kutsal Kitapların Vahiy Olguları)
+      url: 'https://youtu.be/Ru6Etx3itmg'
+      viewCount: '954'
 ---
 
