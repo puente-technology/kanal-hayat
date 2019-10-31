@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: 'SUHBETÊN KELAMÊ '
 publishDate: .
 coverImage: /images/uploads/11.jpg
-host: Şaban Ok ile
+host: MİLAZIM RASOYAN
 popularity: '1'
 description: |-
   SUHBETÊN KELAMÊ programını Kanal Hayat Ekranlarından 
