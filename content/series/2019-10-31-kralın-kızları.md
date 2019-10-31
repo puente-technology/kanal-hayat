@@ -248,5 +248,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=tQEeh2NCSls&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=9&t=0s
       viewCount: '196'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Sözlerine Dikkat Et! - Kralın Kızları 9
+
+        Işık Abla'nın "Kralın Kızları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kal ın.
+
+        http://kanalhayat.tv
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M59S
+      id: r9rTkestUv4
+      imageURL: 'https://i.ytimg.com/vi/r9rTkestUv4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-07-27T10:25:56.000Z'
+      tags: '#dikkat,#et'
+      title: Sözlerine Dikkat Et! - Kralın Kızları 9
+      url: >-
+        https://www.youtube.com/watch?v=r9rTkestUv4&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=10&t=0s
+      viewCount: '211'
 ---
 
