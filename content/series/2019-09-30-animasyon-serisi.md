@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: animasyon serisi
 publishDate: .
-coverImage: /images/uploads/animasyon-serisi.jpg
+coverImage: /images/uploads/animasyon-serisi-1.jpg
 host: FİLMLER
 popularity: '5'
 description: jkhkj
