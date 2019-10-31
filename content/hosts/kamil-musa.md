@@ -4,7 +4,7 @@ title: KAMİL MUSA
 host: KAMİL MUSA
 language: '0'
 targetGroup: Herkes
-coverImage: /images/uploads/kamil.png
+coverImage: /images/uploads/kamil-1.png
 html: >-
   İsa Mesih hangi mucizeleri yaptı? İsa Mesih’in neden kurban edilmesi
   gerekiyordu? Sahte peygamberleri nasıl tanıyabiliriz? Cine tutsaklık nedir?
