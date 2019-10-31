@@ -432,5 +432,40 @@ episodes:
       title: 48. Bölüm (Mucizelere İnanbilir Miyiz?)
       url: 'https://youtu.be/VonwuQ7pII8'
       viewCount: '568'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M21S
+      id: wKJAhd0NsqI
+      imageURL: 'https://i.ytimg.com/vi/wKJAhd0NsqI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-02-21T12:48:31.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 49. Bölüm (Yaratılış Nasıl Oldu?)
+      url: 'https://youtu.be/wKJAhd0NsqI'
+      viewCount: '574'
 ---
 
