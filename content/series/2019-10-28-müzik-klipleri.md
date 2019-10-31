@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: MÜZİK KLİPLERİ
 publishDate: .
-coverImage: /images/uploads/1.png
+coverImage: /images/uploads/11.png
 host: UMUT KALESİ
 popularity: '5'
 description: >-
