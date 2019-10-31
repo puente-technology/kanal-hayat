@@ -485,5 +485,18 @@ episodes:
       title: 17. Cinlere Kapıları Kapatmak
       url: 'https://youtu.be/jVXJG1S5RWI'
       viewCount: '492'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M31S
+      id: pjE5c7vOOIs
+      imageURL: 'https://i.ytimg.com/vi/pjE5c7vOOIs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-12-13T11:44:56.000Z'
+      tags: ruh
+      title: 18. Kötü Ruhların Gücünü Kırmak
+      url: 'https://youtu.be/pjE5c7vOOIs'
+      viewCount: '629'
 ---
 
