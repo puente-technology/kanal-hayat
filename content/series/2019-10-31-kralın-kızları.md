@@ -332,5 +332,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=b0LjGh-Ow0k&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=11&t=0s
       viewCount: '162'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Rab'be Şükretmek - Kralın Kızları 12
+
+        Işık Abla'nın "Kralın Kızları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kal ın.
+
+        http://kanalhayat.tv
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M57S
+      id: SvhRMzBsgNY
+      imageURL: 'https://i.ytimg.com/vi/SvhRMzBsgNY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-07-28T05:14:11.000Z'
+      tags: '#şükür,Rab''be,Kralın,Kızları'
+      title: Rab'be Şükretmek - Kralın Kızları 12
+      url: >-
+        https://www.youtube.com/watch?v=SvhRMzBsgNY&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=13&t=0s
+      viewCount: '222'
 ---
 
