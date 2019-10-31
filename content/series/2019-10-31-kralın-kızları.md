@@ -44,5 +44,33 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=FkIS7MwiDk0&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=2&t=0s
       viewCount: '380'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        İnsanlara Değil Tanrı'ya Güven - Kralın Kızları 2 
+
+        Işık Abla'nın "Kralın Kızları" programını sayfamızdan takip
+        edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M57S
+      id: cN_KJTswxT4
+      imageURL: 'https://i.ytimg.com/vi/cN_KJTswxT4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T08:00:10.000Z'
+      tags: '#kralın,#kızları,#tanrının,#gözünde,#güzelsin,#tanrıya,#güven'
+      title: İnsanlara Değil Tanrı'ya Güven - Kralın Kızları 2
+      url: >-
+        https://www.youtube.com/watch?v=cN_KJTswxT4&list=PLQfi14V3hH0JS8AQrtkWt3wpBW5iNZnku&index=3&t=0s
+      viewCount: '250'
 ---
 
