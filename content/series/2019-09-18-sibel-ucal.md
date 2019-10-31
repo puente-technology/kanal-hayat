@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: HRİSTİYAN İLAHİLER
 publishDate: .
-coverImage: /images/uploads/song-3-save-for-web.jpg
+coverImage: /images/uploads/sibel-üçal-1.png
 host: SİBEL ÜÇAL
 popularity: '5'
 description: >-
