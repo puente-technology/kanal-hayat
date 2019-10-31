@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: İMANA DAİR SORULAR 2
 publishDate: .
-coverImage: /images/uploads/zekeriya-butrus.png
+coverImage: /images/uploads/zekeriya-butrus-1.png
 host: Zekeriya Butrus ile
 popularity: '1'
 description: >-
