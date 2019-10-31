@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: KİLİSENİN DOĞUŞU
 publishDate: .
 coverImage: /images/uploads/15.jpg
-hosts: Can Nuroğlu
+host: Can Nuroğlu
 popularity: '5'
 description: >-
   Yaşadığımız coğrafya tarih kaynıyor. Eski Roma döneminden kalma pek çok

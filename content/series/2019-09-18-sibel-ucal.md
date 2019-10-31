@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: HRİSTİYAN İLAHİLER
 publishDate: .
 coverImage: /images/uploads/song-3-save-for-web.jpg
-hosts: SİBEL ÜÇAL
+host: SİBEL ÜÇAL
 popularity: '5'
 description: >-
   Sibel Üçal'ın seslendirdiği "Haykır Yüreğim" adlı Hristiyan İlahilerden oluşan

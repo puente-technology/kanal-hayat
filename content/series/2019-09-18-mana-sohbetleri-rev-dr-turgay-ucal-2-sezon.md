@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: Mânâ Sohbetleri  2.Sezon
 publishDate: .
 coverImage: /images/uploads/turgay-ucal-save-for-web.jpg
-hosts: TURGAY ÜÇAL
+host: TURGAY ÜÇAL
 popularity: '5'
 description: |-
   Mesih'in Öğrencisi Olmak Ne Demektir?

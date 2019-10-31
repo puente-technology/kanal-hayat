@@ -4,7 +4,7 @@ title: TURGAY ÜÇAL
 host: TURGAY ÜÇAL
 language: '0'
 targetGroup: Herkes
-coverImage: /images/uploads/turgay-ucal-ii.jpg
+coverImage: /images/uploads/turgay-1.jpg
 html: |-
   İsa Mesih’in öğrencisi olmak için aranan şartlar nedir?
   Öğrenciliğimizde ilerlemek, yüksek ruhsal seviyelere ulaşmak nasıl

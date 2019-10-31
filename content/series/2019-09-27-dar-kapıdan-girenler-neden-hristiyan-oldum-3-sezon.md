@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: DAR KAPIDAN GİRENLER 3.SEZON
 publishDate: .
 coverImage: /images/uploads/dar-kapıdan-3-sezon.jpg
-hosts: ALİ KALKANDELEN
+host: ALİ KALKANDELEN
 popularity: '1'
 description: |-
   Neden Hristiyan Oldum?

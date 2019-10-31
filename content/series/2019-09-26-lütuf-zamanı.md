@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: LÜTUF ZAMANI
 publishDate: .
 coverImage: /images/uploads/13.jpg
-hosts: İSMAİL SERİNKAN
+host: İSMAİL SERİNKAN
 popularity: '5'
 description: |-
   İsmail Serinkan'ın hazırlayıp sunduğu "Lütuf Zamanı"

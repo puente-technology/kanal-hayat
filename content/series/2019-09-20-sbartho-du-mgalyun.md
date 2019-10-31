@@ -2,8 +2,8 @@
 template: SeriesPageTemplate
 title: Sbartho Du Mgalyun
 publishDate: .
-coverImage: /images/uploads/_dsc166999.jpg
-hosts: Paulus Bartuma
+coverImage: /images/uploads/paulus-1.jpg
+host: Paulus Bartuma
 popularity: '10'
 description: >-
   Paulus Bartuma sunumu ve Yosef Yoseph'in katılımıyla gerçekleştirilen "
@@ -14,7 +14,7 @@ description: >-
 
   Esenlik Olsun.
 targetGroup: Herkes
-language: '0'
+language: '2'
 selectedCategories:
   - Rehberlik
   - Kutsal Kitap Dersleri

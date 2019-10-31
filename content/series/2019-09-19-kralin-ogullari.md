@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: Kralın Oğulları
 publishDate: .
 coverImage: /images/uploads/gerçek-bir-adam-olmakb.jpg
-hosts: Can Nuroğlu
+host: Can Nuroğlu
 popularity: '1'
 description: >-
   Işık Abla'nın "Kralın Oğulları" programını Kanal Hayat ekranlarından veya

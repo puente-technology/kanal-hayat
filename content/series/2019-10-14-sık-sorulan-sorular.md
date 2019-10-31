@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: SIK SORULAN SORULAR
 publishDate: .
 coverImage: /images/uploads/sık-sorulan-sorular.png
-hosts: KAMİL MUSA
+host: KAMİL MUSA
 popularity: '5'
 description: >-
   Kamil Musa'nın hazırlayıp sunduğu Kutsal Kitap temelindeki "Sık Sorulan

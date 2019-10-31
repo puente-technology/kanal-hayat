@@ -114,10 +114,20 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Tanrı’nın Kimliği Nasıl Anlayabiliriz? Kutsal Kitap bize
-      Tanrı’nın Kimliğini açıklar mı ? Tanrı Kendini Kutsal Kitap’ta bize nasıl
-      açıklıyor? Aşağıdaki programlarımızı izleyerek detaylı bilgi
-      edinebilirsiniz.Esen Kalın.
+      için yanıtladık. Sizce Tanrı’nın Kimliğini en iyi şekilde kim
+      açıklayabilir ? Tabi ki bu konuda herkes bir fikir sahibidir ama aslında
+      bu sorunun cevabını verecek olan yine Tanrı’dır. Kendi kimliğini
+      yaratılışına açıklayabilecek olan tek yetkili yine O’dur. Kutsal Kitaba
+      baktığımızda ; Yuhanna 4:24 Tanrı Ruhtur…der. 1.Yuhanna 4:8  “Tanrı
+      sevgidir.” Ve O’nun sevgisi tek taraflı olan bir sevgi değildir. 1.Yuhanna
+      1:5 “Tanrı ışıktır”  Ayrıca başka yerde Yuhanna 1:9. Ayette şöyle devam
+      etmektedir; Dünyaya gelen, her insanı aydınlatan gerçek ışık vardı.  O,
+      dünyadaydı, dünya O’nun aracılığıyla var oldu, ama dünya O’nu tanımadı. 
+      Kendi yurduna geldi, ama kendi halkı O’nu kabul etmedi.  Kendisini kabul
+      edip adına iman edenlerin hepsine Tanrı’nın çocukları olma hakkını verdi. 
+      Onlar ne kandan, ne beden ne de insan isteğinden doğdular; tersine,
+      Tanrı’dan doğdular. Daha fazla bilgi edinmek için lütfen programlarımızı
+      izleyin.
     question: Hristiyanlıkta Tanrı'nın Kimliği ?
     videos:
       - guests: .
@@ -833,9 +843,27 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. .Misyonerlik Nedir? Bölücülük mü?Misyonerler kimlerdir?
-      Aşağıdaki programlarımızı izleyerek detaylı bilgi edinebilirsiniz.Esen
-      Kalın.
+      için yanıtladık. Aşağıdaki programlarımızı izleyerek detaylı bilgi
+      edinebilirsiniz. Hristiyanlık inancını karalamak için kullanılan tek,
+      “malzeme” Haçlı Seferleri’dir. Hristiyanlar tarafından yapılan her şeyin
+      Hristiyanlığa uygun olduğunu düşünmek doğru değildir. Haçlı Seferlerinin
+      de Hristiyanlar tarafından yapılması, Hristiyanlığın böyle bir eyleme izin
+      verdiğini kanıtlamaz. İncil’i okuduğumuzda yalnızca sevgi görürüz.
+      Hristiyanlıkta şiddete yer yoktur. Hatta İncil’de şöyle yazar:  “Tanrı
+      sevgidir. Sevgi de yaşayan, Tanrı’da yaşar, Tanrı da onda yaşar” İncil
+      1.Yuhanna 4:16 İnanç uğruna savaşmak, Hristiyan’ın ve Hristiyanlığın
+      ruhuna aykırıdır. Hiçbir gerçek Hristiyan’ın, ne Haçlı Seferlerini ne de
+      diğer din savaşlarını savunması mümkün değildir. Çünkü bunlar, İncil’e
+      aykırıdır. Bir Hristiyan’ın görevleri arasında savaşmak değil, savaşları
+      durdurmak; yani barışı sağlamak vardır:  “ Ne mutlu barışı sağlayanlara!
+      Onlara Tanrı oğulları denecek.” (Matta 5:9) İsa Mesih, düşmanlarımızı bile
+      sevmemizi istememiş miydi?  Düşmanlarınızı sevin, sizden nefret edenlere
+      iyilik yapın, size lanet edenlere iyilik dileyin, size hakaret edenler
+      için dua edin… insanların size nasıl davranmasını istiyorsanız, sizde
+      onlara öyle davranın. Eğer yalnız sizi sevenleri severseniz, bu size ne
+      övgü kazandırır? Günahkarlar bile kendilerini sevenleri severler. Size
+      iyilik yapanlara iyilik yaparsanız, bu size ne övgü kazandırır?
+      Günahkarlar bile öyle yaparlar….” (Luka 6:27-34)
     question: Misyonerlerin Çıkardığı Savaşlar
     videos:
       - guests: .
@@ -1404,7 +1432,12 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Sizi kim veya kimler Finanse ediyor ? Çalışıyor musunuz? 
+      için yanıtladık. Temel inanç öğretilerimiz arasında yer alan bir öğretiye
+      göre her iman eden kazancının bir kısmını müjdesel hizmetler için
+      kullanılmak üzere kilisesine vermektedir. Bu olay zorunlu veya belli bir
+      üyelik aidatı değil tümüyle kişinin imanının bir sonucudur. Kiliseler
+      ticari kurumlar değildir.Toplanan para İsa Mesih’in müjdesi ve merhamet
+      hizmetleri için değerlendirilir.
     question: 'Sizi kim veya kimler Finanse ediyor ? Çalışıyor musunuz? '
     videos:
       - guests: .

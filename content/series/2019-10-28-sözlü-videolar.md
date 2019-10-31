@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: SÖZLÜ VİDEOLAR
 publishDate: .
 coverImage: /images/uploads/4.png
-hosts: UMUT KALESİ
+host: UMUT KALESİ
 popularity: '5'
 description: >-
   "Sözlü Videolar" serimizde tapınmacı arkadaşlarımızın, kendi besteledikleri

@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: SOKAĞIN DİLİ
 publishDate: .
 coverImage: /images/uploads/2.jpg
-hosts: Abuna Gabriel ve Ahmet Güvener
+host: Abuna Gabriel ve Ahmet Güvener
 popularity: '5'
 description: |-
   Ali Kalkandelen ve Ahmet Güvener ile birbirinden farklı güncel konuların

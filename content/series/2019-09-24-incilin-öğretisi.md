@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: İNCİL'İN ÖĞRETİSİ
 publishDate: .
 coverImage: /images/uploads/i̇ncil-öğreti-2.jpg
-hosts: Can Nuroğlu
+host: Can Nuroğlu
 popularity: '5'
 description: |-
   Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği 

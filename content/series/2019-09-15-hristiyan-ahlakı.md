@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: HRİSTİYAN AHLAKI
 publishDate: .
 coverImage: /images/uploads/can-nuroglu-save-for-web.jpg
-hosts: Can Nuroğlu
+host: Can Nuroğlu
 popularity: '5'
 description: >
   Banu Çelik sunumu ve İncil  öğretmeni Can Nuroğlu'nun  Kutsal Kitap ışığında 

@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: KUTSAL KİTAP ÇALIŞMALARI
 publishDate: .
 coverImage: /images/uploads/18.jpg
-hosts: Charles Stanley
+host: Charles Stanley
 popularity: '5'
 description: |-
   Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını Kanal Hayat 

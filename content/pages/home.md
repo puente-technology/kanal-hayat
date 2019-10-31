@@ -12,66 +12,66 @@ gallery:
   - align: center
     alt: Ahmet Güvener ile
     color: light
-    image: /images/uploads/main-page-3-save-for-web.jpg
+    image: /images/uploads/ahmet-1.jpg
     link: series/h-ri-stiyan-s-eria-ti/
     title: 'Hristiyan Şeriatı '
   - align: right
     alt: Can Nuroğlu ile
     color: light
-    image: /images/uploads/can-nuroğlu-save-for-web-1.jpg
+    image: /images/uploads/can-1.jpg
     link: series/h-ri-stiyan-ahla-ki/
     title: Hristiyan Ahlakı
   - align: center
     alt: Paulus Bartuma ile
     color: light
-    image: /images/uploads/paulus-bartuma-save-for-web.jpg
+    image: /images/uploads/paulus-1.jpg
     link: series/sbartho-du-mgalyun/
     title: Sbartho Du Mgalyun
   - align: left
     alt: Isik Abla ile
     color: light
-    image: /images/uploads/ışık-abla.png
+    image: /images/uploads/işık-1.png
     link: series/muht-es-em-et-ki-li-dualar/
     title: Muhteşem Etkili Dualar
   - align: right
     alt: Serdar Dedeoğlu ile
     color: light
-    image: /images/uploads/serdar-dedeoğlu.png
+    image: /images/uploads/serdar-2.png
     link: series/kutsal-si-rlar-sizden-gelen-sorular/
     title: 'Kutsal Sırlar '
   - align: right
     alt: Gülhan ile
     color: light
-    image: /images/uploads/gulhan-slider.jpg
+    image: /images/uploads/gülhan-1.jpg
     link: series/umut-isigi/
     title: Umut Işığı
   - align: right
     alt: Ender Peker ile
     color: light
-    image: /images/uploads/ender-peker.png
+    image: /images/uploads/ender-1.png
     link: series/exlaga-i-ncile-incil-ahla-ki/
     title: Exlaq'a İncil'ê (İncil Ahlakı)
   - align: center
     alt: Milazım Rasoyan ve Şaban Ok ile
     color: light
-    image: /images/uploads/saban-and-milazim.jpg
+    image: /images/uploads/şaban-1.jpg
     link: series/suhbeten-kelame/
     title: SUHBETÊN KELAMÊ
   - align: left
     alt: Rev.Dr. Turgay Üçal ile
     color: light
-    image: /images/uploads/turgay-ucal-ii.jpg
+    image: /images/uploads/turgay-1.jpg
     link: series/mana-sohbetle-ri/
     title: Mânâ SOHBETLERİ
   - align: right
     alt: İhsan Özbek ile
     color: light
-    image: /images/uploads/17.jpg
+    image: /images/uploads/ihsan-1.jpg
     link: series/hey-gi-di-karadeniz/
     title: EY GİDİ KARADENİZ
 program1:
   align: left
-  bgImage: /images/uploads/joyce-meyer-3.jpg
+  bgImage: /images/uploads/joyce-1.jpg
   color: light
   content: |-
     Zihnimizdeki kalıpları nasıl kırabiliriz? İnsan bağımlılıklarından
@@ -165,7 +165,7 @@ program1:
   title: Joyce Meyer / VAİZ
 program2:
   align: left
-  bgImage: /images/uploads/charles-stanley.jpg
+  bgImage: /images/uploads/charles-1.jpg
   color: light
   content: |-
     İmanlı yaşamındaki denenmelerle nasıl baş edebiliriz? İsa Mesih’in

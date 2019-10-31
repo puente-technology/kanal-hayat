@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: TEVRAT'IN MÜJDELEDİĞİ MESİH
 publishDate: .
 coverImage: /images/uploads/3.jpg
-hosts: Abuna Gabriel ve Ahmet Güvener
+host: Abuna Gabriel ve Ahmet Güvener
 popularity: '5'
 description: |-
   Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör 

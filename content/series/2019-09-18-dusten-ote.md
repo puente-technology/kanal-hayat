@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: Düşten Öte
 publishDate: .
 coverImage: /images/uploads/dusten-ote.jpg
-hosts: FİLMLER
+host: FİLMLER
 popularity: '1'
 description: >-
   Düşten Öte serisi, Mısırlı cihatçı Halil, Nijeryalı çoban Mohammed,
