@@ -654,5 +654,18 @@ episodes:
       title: 33. Bölüm Öfke Ne Zaman Günahtır!
       url: 'https://youtu.be/9XrKJObbc2M'
       viewCount: '151'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M56S
+      id: Luyrsm54Sfk
+      imageURL: 'https://i.ytimg.com/vi/Luyrsm54Sfk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-28T07:26:37.000Z'
+      tags: egemen
+      title: 34. Bölüm Tanri’nın Egemenliği
+      url: 'https://youtu.be/Luyrsm54Sfk'
+      viewCount: '77'
 ---
 
