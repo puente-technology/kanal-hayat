@@ -850,5 +850,19 @@ episodes:
       title: 57- Dua Ve Orucun Gücü
       url: 'https://youtu.be/sp6st3uEHX0'
       viewCount: '1536'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M30S
+      id: 5lyOdWek32g
+      imageURL: 'https://i.ytimg.com/vi/5lyOdWek32g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-08-23T08:19:25.000Z'
+      tags: >-
+        peygamberlik,hediyesi,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 58- Peygamberlik Hediyesi
+      url: 'https://youtu.be/5lyOdWek32g'
+      viewCount: '346'
 ---
 
