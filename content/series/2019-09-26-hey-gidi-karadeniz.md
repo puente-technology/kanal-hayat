@@ -992,5 +992,18 @@ episodes:
       title: 60. Bölüm Çevre Koruması
       url: 'https://youtu.be/8QRTfPHM5qU'
       viewCount: '35'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M11S
+      id: p4K1Ct7JLrg
+      imageURL: 'https://i.ytimg.com/vi/p4K1Ct7JLrg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T14:29:58.000Z'
+      tags: Namus
+      title: 61. Bölüm Namus
+      url: 'https://youtu.be/p4K1Ct7JLrg'
+      viewCount: '84'
 ---
 
