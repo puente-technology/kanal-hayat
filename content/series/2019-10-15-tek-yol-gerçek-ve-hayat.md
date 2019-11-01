@@ -554,5 +554,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=u0u3rvi6kTE&list=PL902ABEBDFF147040&index=37&t=0s
       viewCount: '3637'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M32S
+      id: Ospxip1P0CY
+      imageURL: 'https://i.ytimg.com/vi/Ospxip1P0CY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-05T12:08:59.000Z'
+      tags: >-
+        kutsal,ruhun,gücü,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 39- Kutsal Ruh'un Gücü
+      url: >-
+        https://www.youtube.com/watch?v=Ospxip1P0CY&list=PL902ABEBDFF147040&index=39&t=0s
+      viewCount: '1444'
 ---
 
