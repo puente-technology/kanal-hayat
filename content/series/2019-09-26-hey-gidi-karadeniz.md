@@ -1005,5 +1005,18 @@ episodes:
       title: 61. Bölüm Namus
       url: 'https://youtu.be/p4K1Ct7JLrg'
       viewCount: '84'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M50S
+      id: cY8SukdnjiU
+      imageURL: 'https://i.ytimg.com/vi/cY8SukdnjiU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T14:30:03.000Z'
+      tags: Korku
+      title: 62. Bölüm Korku
+      url: 'https://youtu.be/cY8SukdnjiU'
+      viewCount: '285'
 ---
 
