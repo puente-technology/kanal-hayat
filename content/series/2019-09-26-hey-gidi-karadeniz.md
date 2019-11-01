@@ -823,5 +823,18 @@ episodes:
       title: 46. Bölüm İbadet
       url: 'https://youtu.be/Xb3JRHbx_-g'
       viewCount: '179'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT30M5S
+      id: X1Q71Ma5_jw
+      imageURL: 'https://i.ytimg.com/vi/X1Q71Ma5_jw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-31T07:04:19.000Z'
+      tags: Sürgün
+      title: 47. Bölüm Sürgün
+      url: 'https://youtu.be/X1Q71Ma5_jw'
+      viewCount: '181'
 ---
 
