@@ -1203,5 +1203,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ub6100DiKfE&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=13&t=0s
       viewCount: '752'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M2S
+      id: bn0RVpV8-0U
+      imageURL: 'https://i.ytimg.com/vi/bn0RVpV8-0U/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-19T12:12:56.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+        stanley
+      title: 42. Bölüm  Öfkenin Sonuçları
+      url: >-
+        https://www.youtube.com/watch?v=bn0RVpV8-0U&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=14&t=0s
+      viewCount: '439'
 ---
 
