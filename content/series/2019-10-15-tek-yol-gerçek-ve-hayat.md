@@ -584,5 +584,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=hBMKG_5qAbY&list=PL902ABEBDFF147040&index=40&t=0s
       viewCount: '576'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M32S
+      id: X8qDMd_Xn-g
+      imageURL: 'https://i.ytimg.com/vi/X8qDMd_Xn-g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-26T09:51:05.000Z'
+      tags: >-
+        diriltme,gücü,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 41- Tanrı'nın Diriltme Gücü
+      url: >-
+        https://www.youtube.com/watch?v=X8qDMd_Xn-g&list=PL902ABEBDFF147040&index=41&t=0s
+      viewCount: '378'
 ---
 
