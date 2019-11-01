@@ -849,5 +849,18 @@ episodes:
       title: 48. Bölüm Antlaşma
       url: 'https://youtu.be/STakB9ELQTc'
       viewCount: '50'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M53S
+      id: Tnm6FHtTQGQ
+      imageURL: 'https://i.ytimg.com/vi/Tnm6FHtTQGQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-31T07:05:06.000Z'
+      tags: Acı Çekme
+      title: 49. Bölüm Acı Çekme
+      url: 'https://youtu.be/Tnm6FHtTQGQ'
+      viewCount: '179'
 ---
 
