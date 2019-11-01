@@ -1574,5 +1574,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Og-qBrCUEFc&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=26&t=0s
       viewCount: '417'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        55. Bölüm - Tanrı'yla Yürürken: Deneme Zamanlarında
+
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: IZY7zVmn3j0
+      imageURL: 'https://i.ytimg.com/vi/IZY7zVmn3j0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-23T05:36:18.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason
+      title: '55. Bölüm - Tanrı''yla Yürürken: Deneme Zamanlarında'
+      url: >-
+        https://www.youtube.com/watch?v=IZY7zVmn3j0&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=27&t=0s
+      viewCount: '789'
 ---
 
