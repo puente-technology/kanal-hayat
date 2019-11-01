@@ -862,5 +862,18 @@ episodes:
       title: 49. Bölüm Acı Çekme
       url: 'https://youtu.be/Tnm6FHtTQGQ'
       viewCount: '179'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M28S
+      id: eEwjwMUajlI
+      imageURL: 'https://i.ytimg.com/vi/eEwjwMUajlI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-31T07:05:27.000Z'
+      tags: Savaş
+      title: 50. Bölüm Ruhsal Savaş
+      url: 'https://youtu.be/eEwjwMUajlI'
+      viewCount: '275'
 ---
 
