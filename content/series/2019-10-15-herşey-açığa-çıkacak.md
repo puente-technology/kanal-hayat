@@ -2,8 +2,9 @@
 template: SeriesPageTemplate
 title: Herşey Açığa Çıkacak
 publishDate: .
-coverImage: /images/uploads/habakuk-ilahisi.png
-host: Kanal Hayat ile
+coverImage: /images/uploads/herşey-1.png
+host: UMUT KALESİ
+popularity: '5'
 description: >-
   İncil'deki benzetmelerin anlatımı ve Hristiyan ilahilerin oluşturdu "Her şey
   Açığa Çıkacak" programını Kanal Hayat ekranlarından veya youtube sayfamızdan
