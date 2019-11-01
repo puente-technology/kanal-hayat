@@ -966,5 +966,18 @@ episodes:
       title: 58. Bölüm Batıl İnanç
       url: 'https://youtu.be/M2WZaBoUP4U'
       viewCount: '87'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M42S
+      id: mQBl2VvoQps
+      imageURL: 'https://i.ytimg.com/vi/mQBl2VvoQps/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T14:10:32.000Z'
+      tags: Yalan
+      title: 59. Bölüm Yalan
+      url: 'https://youtu.be/mQBl2VvoQps'
+      viewCount: '52'
 ---
 
