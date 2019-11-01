@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: EVLİLİK SOHBETLERİ 3.SEZON
 publishDate: .
-coverImage: /images/uploads/evlilik-sohbetleri-2.png
+coverImage: /images/uploads/evlilik-sohbetleri.png
 host: ALİ KALKANDELEN
 popularity: '1'
 description: >-
