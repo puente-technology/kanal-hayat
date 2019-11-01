@@ -797,5 +797,18 @@ episodes:
       title: 44. Bölüm Tanrı'nın Gözünde Evlilik
       url: 'https://youtu.be/rFJlHJTKNu8'
       viewCount: '62'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M14S
+      id: PUg8UYlsaNQ
+      imageURL: 'https://i.ytimg.com/vi/PUg8UYlsaNQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-31T07:03:36.000Z'
+      tags: Geçişi
+      title: 45. Bölüm İsa’nın Yerimize Geçişi
+      url: 'https://youtu.be/PUg8UYlsaNQ'
+      viewCount: '70'
 ---
 
