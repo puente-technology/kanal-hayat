@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: KUTSAL KİTAP ÇALIŞMALARI
 publishDate: .
-coverImage: /images/uploads/18.jpg
+coverImage: /images/uploads/1274_20174189656004.jpg
 host: Charles Stanley
 popularity: '5'
 description: |-
