@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: NUH'UN GEMİSİ
 publishDate: .
-coverImage: /images/uploads/noaark.jpg
+coverImage: /images/uploads/noaark-1.jpg
 host: FİLMLER
 popularity: '5'
 description: |-
