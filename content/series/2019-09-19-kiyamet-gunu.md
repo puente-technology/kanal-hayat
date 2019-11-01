@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Kıyamet Günü
 publishDate: .
-coverImage: /images/uploads/can-nuroğlu-kıyamet-günü.jpg
+coverImage: /images/uploads/kıyamet-günü-1.jpg
 host: Can Nuroğlu
 popularity: '5'
 description: >-
