@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: KUTSAL KİTAP ÇALIŞMALARI 3.SEZON
 publishDate: .
-coverImage: /images/uploads/21.jpg
+coverImage: /images/uploads/stanley-reis.jpg
 host: Charles Stanley
 popularity: '5'
 description: |-
