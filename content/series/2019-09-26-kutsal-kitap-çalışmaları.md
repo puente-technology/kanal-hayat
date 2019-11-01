@@ -1045,5 +1045,37 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=9LXfNrH-iYM&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=7&t=0s
       viewCount: '578'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: EVNjS0I1DvA
+      imageURL: 'https://i.ytimg.com/vi/EVNjS0I1DvA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-08-27T09:54:22.000Z'
+      tags: >-
+        hristiyan,kilise,peygamber,isa mesih,protestan,katolik,ahiret
+        günü,kıyamet,yargı,günah,hristiyanlık,ahiret,hz isa,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal
+        ruh,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestanlar,zekeriya
+        butros,kirkor ağabaloğlu
+      title: 37. Bölüm Hizmet İçin Atanmak
+      url: >-
+        https://www.youtube.com/watch?v=EVNjS0I1DvA&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=8&t=0s
+      viewCount: '568'
 ---
 
