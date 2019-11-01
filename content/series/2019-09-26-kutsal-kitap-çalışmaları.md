@@ -1543,5 +1543,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=_6vxc4Pspik&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=25&t=0s
       viewCount: '599'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        54. Bölüm - Tanrı'yla Yürürken: Ne Bekliyorsunuz?
+
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: Og-qBrCUEFc
+      imageURL: 'https://i.ytimg.com/vi/Og-qBrCUEFc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-23T05:34:47.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason
+      title: '54. Bölüm - Tanrı''yla Yürürken: Ne Bekliyorsunuz?'
+      url: >-
+        https://www.youtube.com/watch?v=Og-qBrCUEFc&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=26&t=0s
+      viewCount: '417'
 ---
 
