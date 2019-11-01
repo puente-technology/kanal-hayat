@@ -48,7 +48,7 @@ gallery:
   - align: right
     alt: Ender Peker ile
     color: light
-    image: /images/uploads/ender-1.png
+    image: /images/uploads/ender-2.png
     link: series/exlaga-i-ncile-incil-ahla-ki/
     title: Exlaq'a İncil'ê (İncil Ahlakı)
   - align: center
