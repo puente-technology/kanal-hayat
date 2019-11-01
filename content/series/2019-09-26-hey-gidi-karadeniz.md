@@ -693,5 +693,18 @@ episodes:
       title: 36. Bölüm Dinlenme
       url: 'https://youtu.be/_RgMfH_Uyrs'
       viewCount: '51'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M12S
+      id: VQsNg9uzPHs
+      imageURL: 'https://i.ytimg.com/vi/VQsNg9uzPHs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-28T07:54:53.000Z'
+      tags: aile
+      title: 37. Bölüm Aile
+      url: 'https://youtu.be/VQsNg9uzPHs'
+      viewCount: '69'
 ---
 
