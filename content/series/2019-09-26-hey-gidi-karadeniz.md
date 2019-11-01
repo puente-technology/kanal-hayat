@@ -784,5 +784,18 @@ episodes:
       title: 43. Bölüm Beden Alma
       url: 'https://youtu.be/UcHMKGCuTl4'
       viewCount: '55'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M10S
+      id: rFJlHJTKNu8
+      imageURL: 'https://i.ytimg.com/vi/rFJlHJTKNu8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-31T07:03:09.000Z'
+      tags: Evlilik
+      title: 44. Bölüm Tanrı'nın Gözünde Evlilik
+      url: 'https://youtu.be/rFJlHJTKNu8'
+      viewCount: '62'
 ---
 
