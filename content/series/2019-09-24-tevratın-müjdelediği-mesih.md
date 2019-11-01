@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: TEVRAT'IN MÜJDELEDİĞİ MESİH
 publishDate: .
-coverImage: /images/uploads/3.jpg
+coverImage: /images/uploads/tevrat-müj.mesih.png
 host: Abuna Gabriel ve Ahmet Güvener
 popularity: '5'
 description: |-
