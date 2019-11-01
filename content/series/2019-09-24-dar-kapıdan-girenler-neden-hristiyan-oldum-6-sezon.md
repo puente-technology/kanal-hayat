@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: DAR KAPIDAN GİRENLER  6.SEZON
 publishDate: .
-coverImage: /images/uploads/4.jpg
+coverImage: /images/uploads/6.jpg
 host: ALİ KALKANDELEN
 popularity: '1'
 description: |-
