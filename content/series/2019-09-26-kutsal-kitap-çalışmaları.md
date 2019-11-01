@@ -1013,5 +1013,37 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=sL-Jgh4Ogj8&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=6&t=0s
       viewCount: '299'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: 9LXfNrH-iYM
+      imageURL: 'https://i.ytimg.com/vi/9LXfNrH-iYM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-08-27T09:54:40.000Z'
+      tags: >-
+        hristiyan,kilise,peygamber,isa mesih,protestan,katolik,ahiret
+        günü,kıyamet,yargı,günah,hristiyanlık,ahiret,hz isa,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal
+        ruh,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestanlar,zekeriya
+        butros,kirkor ağabaloğlu
+      title: 36. Bölüm Tanrısal Bir Yaşama Çağrı
+      url: >-
+        https://www.youtube.com/watch?v=9LXfNrH-iYM&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=7&t=0s
+      viewCount: '578'
 ---
 
