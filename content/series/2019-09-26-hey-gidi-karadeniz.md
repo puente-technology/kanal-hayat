@@ -927,5 +927,18 @@ episodes:
       title: 55. Bölüm Önderlik
       url: 'https://youtu.be/rqM2N_Zl6js'
       viewCount: '51'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M2S
+      id: sfxY5veE_Es
+      imageURL: 'https://i.ytimg.com/vi/sfxY5veE_Es/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T14:03:23.000Z'
+      tags: Yaşlılık
+      title: 56. Bölüm Yaşlılık
+      url: 'https://youtu.be/sfxY5veE_Es'
+      viewCount: '29'
 ---
 
