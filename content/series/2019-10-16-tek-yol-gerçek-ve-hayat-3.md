@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: 'Tek Yol, Gerçek ve Hayat 3'
 publishDate: .
-coverImage: /images/uploads/mutluluğun-sırrı.png
+coverImage: /images/uploads/maxresdefault.jpg
 host: IŞIK ABLA
 popularity: '5'
 description: |-
