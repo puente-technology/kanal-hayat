@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Herşey Açığa Çıkacak
 publishDate: .
-coverImage: /images/uploads/herşey-1.png
+coverImage: /images/uploads/maxresdefault-1-.jpg
 host: UMUT KALESİ
 popularity: '5'
 description: >-
