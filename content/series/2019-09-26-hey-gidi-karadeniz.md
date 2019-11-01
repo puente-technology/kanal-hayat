@@ -771,5 +771,18 @@ episodes:
       title: 42. Bölüm Onarılma
       url: 'https://youtu.be/qh-7OS-ht3I'
       viewCount: '53'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M44S
+      id: UcHMKGCuTl4
+      imageURL: 'https://i.ytimg.com/vi/UcHMKGCuTl4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-31T07:02:40.000Z'
+      tags: beden alma
+      title: 43. Bölüm Beden Alma
+      url: 'https://youtu.be/UcHMKGCuTl4'
+      viewCount: '55'
 ---
 
