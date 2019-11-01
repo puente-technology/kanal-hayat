@@ -836,5 +836,18 @@ episodes:
       title: 47. Bölüm Sürgün
       url: 'https://youtu.be/X1Q71Ma5_jw'
       viewCount: '181'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M5S
+      id: STakB9ELQTc
+      imageURL: 'https://i.ytimg.com/vi/STakB9ELQTc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-31T07:04:43.000Z'
+      tags: Antlaşma
+      title: 48. Bölüm Antlaşma
+      url: 'https://youtu.be/STakB9ELQTc'
+      viewCount: '50'
 ---
 
