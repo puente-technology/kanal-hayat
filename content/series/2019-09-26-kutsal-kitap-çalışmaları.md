@@ -1481,5 +1481,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=MJIg01nW83w&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=23&t=0s
       viewCount: '321'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        52. Bölüm - Diğerleri Bize Yanlış Yaptığında
+
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: cFxv9e1e1Tc
+      imageURL: 'https://i.ytimg.com/vi/cFxv9e1e1Tc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-22T12:28:21.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason
+      title: 52. Bölüm - Diğerleri Bize Yanlış Yaptığında
+      url: >-
+        https://www.youtube.com/watch?v=cFxv9e1e1Tc&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=24&t=0s
+      viewCount: '575'
 ---
 
