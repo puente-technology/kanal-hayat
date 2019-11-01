@@ -803,5 +803,25 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=D-VQwc3-HbQ&list=PL902ABEBDFF147040&index=54&t=0s
       viewCount: '4049'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M4S
+      id: KvXxLoXY9jE
+      imageURL: 'https://i.ytimg.com/vi/KvXxLoXY9jE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-08-22T11:57:47.000Z'
+      tags: >-
+        hristiyan,kilise,peygamber,isa mesih,protestan,katolik,ahiret
+        günü,kıyamet,yargı,günah,hristiyanlık,ahiret,hz isa,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal
+        ruh,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestanlar,zekeriya
+        butros,kirkor ağabaloğlu
+      title: 55- Ruh'ta Büyümek
+      url: >-
+        https://www.youtube.com/watch?v=KvXxLoXY9jE&list=PL902ABEBDFF147040&index=55&t=0s
+      viewCount: '740'
 ---
 
