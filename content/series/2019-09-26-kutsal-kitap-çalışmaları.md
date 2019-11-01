@@ -1419,5 +1419,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Elb3i0ExDfY&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=21&t=0s
       viewCount: '536'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        50. Bölüm İsyanın Yıkımları
+
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M
+      id: _dNBYS31Gn4
+      imageURL: 'https://i.ytimg.com/vi/_dNBYS31Gn4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-11-19T12:44:25.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason
+      title: 50. Bölüm İsyanın Yıkımları
+      url: >-
+        https://www.youtube.com/watch?v=_dNBYS31Gn4&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=22&t=0s
+      viewCount: '374'
 ---
 
