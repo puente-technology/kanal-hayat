@@ -888,5 +888,18 @@ episodes:
       title: 51. Bölüm Bakıma ve Yardıma İhtiyaç
       url: 'https://youtu.be/HO61GHqWL50'
       viewCount: '40'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M15S
+      id: 8Nk18KrSNzk
+      imageURL: 'https://i.ytimg.com/vi/8Nk18KrSNzk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T13:31:53.000Z'
+      tags: Toplum
+      title: 52. Bölüm Toplum Hayatı
+      url: 'https://youtu.be/8Nk18KrSNzk'
+      viewCount: '67'
 ---
 
