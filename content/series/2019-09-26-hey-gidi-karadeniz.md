@@ -732,5 +732,18 @@ episodes:
       title: 39. Bölüm Kurtuluş
       url: 'https://youtu.be/EttXD7t66Go'
       viewCount: '56'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M9S
+      id: ks_3ogvLsh0
+      imageURL: 'https://i.ytimg.com/vi/ks_3ogvLsh0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-21T12:16:58.000Z'
+      tags: 'kutsal,ruh'
+      title: 40. Bölüm  Kutsal Ruh
+      url: 'https://youtu.be/ks_3ogvLsh0'
+      viewCount: '211'
 ---
 
