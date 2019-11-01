@@ -810,5 +810,18 @@ episodes:
       title: 45. Bölüm İsa’nın Yerimize Geçişi
       url: 'https://youtu.be/PUg8UYlsaNQ'
       viewCount: '70'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M31S
+      id: Xb3JRHbx_-g
+      imageURL: 'https://i.ytimg.com/vi/Xb3JRHbx_-g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-31T07:03:56.000Z'
+      tags: İbadet
+      title: 46. Bölüm İbadet
+      url: 'https://youtu.be/Xb3JRHbx_-g'
+      viewCount: '179'
 ---
 
