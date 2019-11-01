@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: EVLİLİK SOHBETLERİ 1.SEZON
 publishDate: .
-coverImage: /images/uploads/evlilik-sohbetleri-1-sezonn.jpg
+coverImage: /images/uploads/evlilik-sohbetleri.png
 host: ALİ KALKANDELEN
 popularity: '5'
 description: >
