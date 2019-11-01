@@ -981,5 +981,37 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=BYUISfHicOM&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=5&t=0s
       viewCount: '2307'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: sL-Jgh4Ogj8
+      imageURL: 'https://i.ytimg.com/vi/sL-Jgh4Ogj8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-08-27T09:24:23.000Z'
+      tags: >-
+        hristiyan,kilise,peygamber,isa mesih,protestan,katolik,ahiret
+        günü,kıyamet,yargı,günah,hristiyanlık,ahiret,hz isa,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal
+        ruh,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestanlar,zekeriya
+        butros,kirkor ağabaloğlu
+      title: 35. Bölüm Bir Babanın İzinde
+      url: >-
+        https://www.youtube.com/watch?v=sL-Jgh4Ogj8&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=6&t=0s
+      viewCount: '299'
 ---
 
