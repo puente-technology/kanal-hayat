@@ -836,5 +836,19 @@ episodes:
       title: 56- İç Huzur
       url: 'https://youtu.be/xKqyCSIJS6A'
       viewCount: '575'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M30S
+      id: sp6st3uEHX0
+      imageURL: 'https://i.ytimg.com/vi/sp6st3uEHX0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-08-23T08:07:29.000Z'
+      tags: >-
+        dua,ve,orucun,gücü,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman
+      title: 57- Dua Ve Orucun Gücü
+      url: 'https://youtu.be/sp6st3uEHX0'
+      viewCount: '1536'
 ---
 
