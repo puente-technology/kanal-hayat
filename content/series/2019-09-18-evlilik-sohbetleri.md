@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: EVLİLİK SOHBETLERİ
 publishDate: .
-coverImage: /images/uploads/evlilik-sohbetleri-save-for-web.jpg
+coverImage: /images/uploads/evlilik-prog.png
 host: ALİ KALKANDELEN
 popularity: '5'
 description: |-
