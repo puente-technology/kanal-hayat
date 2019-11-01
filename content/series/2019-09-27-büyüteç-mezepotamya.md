@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: BÜYÜTEÇ MEZEPOTAMYA
 publishDate: .
-coverImage: /images/uploads/büyüteç-save-for-web.jpg
+coverImage: /images/uploads/inancın-ifadesi.png
 host: Serdar Dedeoğlu
 popularity: '1'
 description: |-
