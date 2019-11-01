@@ -1,8 +1,8 @@
 ---
 template: SeriesPageTemplate
-title: KUTSAL KİTAP ÇALIŞMALARI 3.SEZON
+title: KUTSAL KİTAP ÇALIŞMALARI 2.SEZON
 publishDate: .
-coverImage: /images/uploads/21.jpg
+coverImage: /images/uploads/stanley-reis.jpg
 host: Charles Stanley
 popularity: '5'
 description: |-
@@ -585,5 +585,35 @@ episodes:
       title: 'İsa Mesih, Kaybolmuşu Arayan Kurtarıcı  [92]'
       url: 'https://youtu.be/W1ID9GC6jjQ'
       viewCount: '2172'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M3S
+      id: q5FmovQHNvA
+      imageURL: 'https://i.ytimg.com/vi/q5FmovQHNvA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-06-07T07:32:40.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 88. Bölüm - Annemizi Nasıl Sevmeliyiz
+      url: 'https://youtu.be/q5FmovQHNvA'
+      viewCount: '881'
 ---
 
