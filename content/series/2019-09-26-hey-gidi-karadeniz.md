@@ -875,5 +875,18 @@ episodes:
       title: 50. Bölüm Ruhsal Savaş
       url: 'https://youtu.be/eEwjwMUajlI'
       viewCount: '275'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M48S
+      id: HO61GHqWL50
+      imageURL: 'https://i.ytimg.com/vi/HO61GHqWL50/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T13:31:04.000Z'
+      tags: İhtiyaç
+      title: 51. Bölüm Bakıma ve Yardıma İhtiyaç
+      url: 'https://youtu.be/HO61GHqWL50'
+      viewCount: '40'
 ---
 
