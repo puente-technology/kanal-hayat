@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: SIK SORULAN SORULAR
 publishDate: .
-coverImage: /images/uploads/sık-sorulan-sorular.png
+coverImage: /images/uploads/sık-sorulan-sorular-1.png
 host: KAMİL MUSA
 popularity: '5'
 description: >-
