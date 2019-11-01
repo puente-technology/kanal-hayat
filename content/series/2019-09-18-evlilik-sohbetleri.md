@@ -1,8 +1,8 @@
 ---
 template: SeriesPageTemplate
-title: EVLİLİK SOHBETLERİ
+title: EVLİLİK SOHBETLERİ 2.SEZON
 publishDate: .
-coverImage: /images/uploads/evlilik-sohbetleri-save-for-web.jpg
+coverImage: /images/uploads/evlilik-prog.png
 host: ALİ KALKANDELEN
 popularity: '5'
 description: |-
