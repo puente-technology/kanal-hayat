@@ -953,5 +953,18 @@ episodes:
       title: 57. Bölüm Bencillik
       url: 'https://youtu.be/rgEtZlYwiKU'
       viewCount: '139'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M32S
+      id: M2WZaBoUP4U
+      imageURL: 'https://i.ytimg.com/vi/M2WZaBoUP4U/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T14:10:19.000Z'
+      tags: İnanç
+      title: 58. Bölüm Batıl İnanç
+      url: 'https://youtu.be/M2WZaBoUP4U'
+      viewCount: '87'
 ---
 
