@@ -1636,5 +1636,36 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=_zwRqkwPAes&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=28&t=0s
       viewCount: '390'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        57. Bölüm - Korkular Saldırdığında
+
+        Dr.Charles Stanley ile "Kutsal Kitap Çalışmaları" programını sayfamızdan
+        takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M1S
+      id: nEtj9K-f_rA
+      imageURL: 'https://i.ytimg.com/vi/nEtj9K-f_rA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2013-07-23T05:36:10.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason
+      title: 57. Bölüm - Korkular Saldırdığında
+      url: >-
+        https://www.youtube.com/watch?v=nEtj9K-f_rA&list=PLQfi14V3hH0Jhg4GCr2xq3pIz23Ie8R46&index=29&t=0s
+      viewCount: '427'
 ---
 
