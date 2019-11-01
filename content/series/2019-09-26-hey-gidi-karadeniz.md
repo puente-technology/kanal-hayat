@@ -641,5 +641,18 @@ episodes:
       title: 32. Bölüm Neden Dünyada Kötülük Var?
       url: 'https://youtu.be/gz1KeX46ouo'
       viewCount: '291'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT27M55S
+      id: 9XrKJObbc2M
+      imageURL: 'https://i.ytimg.com/vi/9XrKJObbc2M/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-03-24T13:10:29.000Z'
+      tags: öfke
+      title: 33. Bölüm Öfke Ne Zaman Günahtır!
+      url: 'https://youtu.be/9XrKJObbc2M'
+      viewCount: '151'
 ---
 
