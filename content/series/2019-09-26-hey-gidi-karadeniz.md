@@ -719,5 +719,18 @@ episodes:
       title: 38. Bölüm Kefaret
       url: 'https://youtu.be/tSBLzFqN0XU'
       viewCount: '65'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M45S
+      id: EttXD7t66Go
+      imageURL: 'https://i.ytimg.com/vi/EttXD7t66Go/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-07-21T11:56:58.000Z'
+      tags: kurtuluş
+      title: 39. Bölüm Kurtuluş
+      url: 'https://youtu.be/EttXD7t66Go'
+      viewCount: '56'
 ---
 
