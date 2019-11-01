@@ -979,5 +979,18 @@ episodes:
       title: 59. Bölüm Yalan
       url: 'https://youtu.be/mQBl2VvoQps'
       viewCount: '52'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M3S
+      id: 8QRTfPHM5qU
+      imageURL: 'https://i.ytimg.com/vi/8QRTfPHM5qU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T14:27:09.000Z'
+      tags: Çevre
+      title: 60. Bölüm Çevre Koruması
+      url: 'https://youtu.be/8QRTfPHM5qU'
+      viewCount: '35'
 ---
 
