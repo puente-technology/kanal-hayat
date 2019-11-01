@@ -940,5 +940,18 @@ episodes:
       title: 56. Bölüm Yaşlılık
       url: 'https://youtu.be/sfxY5veE_Es'
       viewCount: '29'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M21S
+      id: rgEtZlYwiKU
+      imageURL: 'https://i.ytimg.com/vi/rgEtZlYwiKU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T14:10:12.000Z'
+      tags: Bencillik
+      title: 57. Bölüm Bencillik
+      url: 'https://youtu.be/rgEtZlYwiKU'
+      viewCount: '139'
 ---
 
