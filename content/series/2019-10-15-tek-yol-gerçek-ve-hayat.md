@@ -723,5 +723,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=V-NiDSx8p1k&list=PL902ABEBDFF147040&index=49&t=0s
       viewCount: '818'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M12S
+      id: oMZ41KL8wew
+      imageURL: 'https://i.ytimg.com/vi/oMZ41KL8wew/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-07-09T14:34:52.000Z'
+      tags: >-
+        nefret,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı,kin
+      title: 50- Nefret 1
+      url: >-
+        https://www.youtube.com/watch?v=oMZ41KL8wew&list=PL902ABEBDFF147040&index=50&t=0s
+      viewCount: '557'
 ---
 
