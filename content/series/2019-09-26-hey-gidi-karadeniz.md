@@ -706,5 +706,18 @@ episodes:
       title: 37. Bölüm Aile
       url: 'https://youtu.be/VQsNg9uzPHs'
       viewCount: '69'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M7S
+      id: tSBLzFqN0XU
+      imageURL: 'https://i.ytimg.com/vi/tSBLzFqN0XU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-05-29T08:09:12.000Z'
+      tags: kefaret
+      title: 38. Bölüm Kefaret
+      url: 'https://youtu.be/tSBLzFqN0XU'
+      viewCount: '65'
 ---
 
