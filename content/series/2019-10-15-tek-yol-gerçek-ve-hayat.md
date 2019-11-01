@@ -482,5 +482,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=vZ9ntb5suQ0&list=PL902ABEBDFF147040&index=32&t=0s
       viewCount: '311'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT58M30S
+      id: '-Dj3uJ02iOI'
+      imageURL: 'https://i.ytimg.com/vi/-Dj3uJ02iOI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-02-14T12:20:47.000Z'
+      tags: >-
+        cinleri,kovmak,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: 33- Cinleri Kovmak
+      url: >-
+        https://www.youtube.com/watch?v=-Dj3uJ02iOI&list=PL902ABEBDFF147040&index=33&t=0s
+      viewCount: '2112'
 ---
 
