@@ -1024,5 +1024,36 @@ episodes:
       title: 'Gerçeğin Sesi - Yaratan Baba [63]'
       url: 'https://youtu.be/KFaxseqxUAQ'
       viewCount: '152'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        64. Bölüm Dağdaki Vaaz
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi 
+
+        "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M37S
+      id: m5vZGdmUpDk
+      imageURL: 'https://i.ytimg.com/vi/m5vZGdmUpDk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T09:25:55.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Hakan Tastan
+      title: 'Gerçeğin Sesi - Dağdaki Vaaz [64]'
+      url: 'https://youtu.be/m5vZGdmUpDk'
+      viewCount: '421'
 ---
 
