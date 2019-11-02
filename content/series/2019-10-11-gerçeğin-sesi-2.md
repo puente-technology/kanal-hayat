@@ -964,5 +964,34 @@ episodes:
       title: 'Gerçeğin Sesi - Mezmur 91 ve Teşvik Sözleri [61]'
       url: 'https://youtu.be/6vuAgyvJclU'
       viewCount: '950'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi 
+
+        "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+        Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M49S
+      id: 8NXKTZm1soQ
+      imageURL: 'https://i.ytimg.com/vi/8NXKTZm1soQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-03T10:41:31.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+        Hayat,neler olacak,kutsal ruh,Mesih kimdi,Hakan Tastan
+      title: 'Gerçeğin Sesi - Hristiyanlığın İlkeleri [62]'
+      url: 'https://youtu.be/8NXKTZm1soQ'
+      viewCount: '586'
 ---
 
