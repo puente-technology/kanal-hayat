@@ -1081,5 +1081,18 @@ episodes:
       title: 'Gerçeğin Sesi - Günahsız Olan İlk Taşı Atsın [66]'
       url: 'https://youtu.be/yhBXmYjo4Jw'
       viewCount: '212'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M21S
+      id: ZV3JnR99UE8
+      imageURL: 'https://i.ytimg.com/vi/ZV3JnR99UE8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T11:50:43.000Z'
+      tags: 'iyi,işlerimiz'
+      title: 'Gerçeğin Sesi - İyi İşlerimiz Bizi Kurtarır mı? [67]'
+      url: 'https://youtu.be/ZV3JnR99UE8'
+      viewCount: '305'
 ---
 
