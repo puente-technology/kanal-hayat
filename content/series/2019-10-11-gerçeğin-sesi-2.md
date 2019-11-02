@@ -1152,5 +1152,18 @@ episodes:
       title: 'Gerçeğin Sesi - Çarmıh [71]'
       url: 'https://youtu.be/kM4OQrMdkUQ'
       viewCount: '832'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT29M5S
+      id: NnF9131N_mo
+      imageURL: 'https://i.ytimg.com/vi/NnF9131N_mo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T14:38:04.000Z'
+      tags: peygamber
+      title: 'Gerçeğin Sesi - Daniel Peygamber [72]'
+      url: 'https://youtu.be/NnF9131N_mo'
+      viewCount: '1723'
 ---
 
