@@ -1230,5 +1230,18 @@ episodes:
       title: 'Gerçeğin Sesi - Ölümsüz Tohum [79]'
       url: 'https://youtu.be/1ygARCJZ6vQ'
       viewCount: '207'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT28M28S
+      id: BskV6Q7nbE4
+      imageURL: 'https://i.ytimg.com/vi/BskV6Q7nbE4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T13:38:05.000Z'
+      tags: 'acılara,dayanmak'
+      title: 'Gerçeğin Sesi - Acılara Dayanmak [80]'
+      url: 'https://youtu.be/BskV6Q7nbE4'
+      viewCount: '654'
 ---
 
