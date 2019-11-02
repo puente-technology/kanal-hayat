@@ -1243,5 +1243,18 @@ episodes:
       title: 'Gerçeğin Sesi - Acılara Dayanmak [80]'
       url: 'https://youtu.be/BskV6Q7nbE4'
       viewCount: '654'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT28M32S
+      id: Lums06xrwtw
+      imageURL: 'https://i.ytimg.com/vi/Lums06xrwtw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T13:38:46.000Z'
+      tags: mesihin yolu
+      title: 'Gerçeğin Sesi - Mesih''in Yolu [81]'
+      url: 'https://youtu.be/Lums06xrwtw'
+      viewCount: '514'
 ---
 
