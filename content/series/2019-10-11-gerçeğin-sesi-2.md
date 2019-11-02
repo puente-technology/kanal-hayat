@@ -1055,5 +1055,18 @@ episodes:
       title: 'Gerçeğin Sesi - Dağdaki Vaaz [64]'
       url: 'https://youtu.be/m5vZGdmUpDk'
       viewCount: '421'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M37S
+      id: e2KQKSlT7AI
+      imageURL: 'https://i.ytimg.com/vi/e2KQKSlT7AI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2015-11-09T11:22:39.000Z'
+      tags: 'isanın,yüceliği'
+      title: 'Gerçeğin Sesi - İsa''nın Yüceliği [65]'
+      url: 'https://youtu.be/e2KQKSlT7AI'
+      viewCount: '567'
 ---
 
