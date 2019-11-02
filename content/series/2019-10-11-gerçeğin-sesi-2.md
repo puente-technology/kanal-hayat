@@ -1204,5 +1204,18 @@ episodes:
       title: 'Gerçeğin Sesi - Mahkumiyetten Özgürlüğe [76]'
       url: 'https://youtu.be/HLiJiGHKw7g'
       viewCount: '550'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT28M58S
+      id: kaYlzCw_KAs
+      imageURL: 'https://i.ytimg.com/vi/kaYlzCw_KAs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T13:35:28.000Z'
+      tags: romalılar 12
+      title: 'Gerçeğin Sesi - Romalılar 12 [78]'
+      url: 'https://youtu.be/kaYlzCw_KAs'
+      viewCount: '179'
 ---
 
