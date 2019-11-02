@@ -1068,5 +1068,18 @@ episodes:
       title: 'Gerçeğin Sesi - İsa''nın Yüceliği [65]'
       url: 'https://youtu.be/e2KQKSlT7AI'
       viewCount: '567'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M9S
+      id: yhBXmYjo4Jw
+      imageURL: 'https://i.ytimg.com/vi/yhBXmYjo4Jw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T11:35:28.000Z'
+      tags: günahsız
+      title: 'Gerçeğin Sesi - Günahsız Olan İlk Taşı Atsın [66]'
+      url: 'https://youtu.be/yhBXmYjo4Jw'
+      viewCount: '212'
 ---
 
