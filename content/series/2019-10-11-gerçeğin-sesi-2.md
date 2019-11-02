@@ -1107,5 +1107,18 @@ episodes:
       title: 'Gerçeğin Sesi - Tanrı Ağladı [68]'
       url: 'https://youtu.be/McROSYP1jb0'
       viewCount: '380'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT29M1S
+      id: OevWVUcoJeU
+      imageURL: 'https://i.ytimg.com/vi/OevWVUcoJeU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T12:22:27.000Z'
+      tags: 'isa,ve,günahkar'
+      title: 'Gerçeğin Sesi - İsa''nın Günahkara Bakışı[69]'
+      url: 'https://youtu.be/OevWVUcoJeU'
+      viewCount: '599'
 ---
 
