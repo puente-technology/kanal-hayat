@@ -19,18 +19,24 @@
   margin: 30px 50px;
 }
 
-.HostSeries {
-  margin-left: 67px;
-  margin-right: 67px;
-  margin-top: 35px;
+.HostSeriesContainer {
+  width: 100%;
   display: flex;
-  justify-content: flex-start;
   flex-wrap: wrap;
 }
 
+.HostSeries {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin: 0px 50px;
+}
+
+
 .HostTile {
   margin-left: 67px;
-
+  margin-bottom: 40px;
 }
 
 @media (min-width: 2500px) { 
@@ -48,6 +54,10 @@
   }
   .HostTile {
     font-size: 20px;
-  
+    margin-left: 0px;
+    margin-bottom: 20px;
+  }
+  .HostContainer {
+    height: 200px;
   }
 }

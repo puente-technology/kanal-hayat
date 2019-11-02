@@ -1162,6 +1162,9 @@ input[type=range]::-moz-range-thumb {
 		left: 116px;
 		margin-top: 13px;
 	}
+	.dummyDiv {
+		display: none;
+	}
 }
 
 @media only screen and (max-width: 440px) and (min-width: 400px) {

@@ -10,6 +10,7 @@ class SeriesPage extends Component {
     frontmatter: PropTypes.any.isRequired,
     dispatch: PropTypes.any,
     hosts: PropTypes.any,
+    divHeight: PropTypes.any,
   };
 
   constructor(props) {
@@ -48,10 +49,10 @@ class SeriesPage extends Component {
   }
 
   render() {
-    const { episodes } = this.props;
+    const { episodes, divHeight } = this.props;
     const { isOpen } = this.state;
     return (
-      <div className="SeriesPage">
+      <div className="SeriesPage" style={{ paddingTop: 280 }}>
         {
           episodes.map((episode, index) => (
             <div key={index} className="Episode">
