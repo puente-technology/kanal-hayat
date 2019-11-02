@@ -1178,5 +1178,18 @@ episodes:
       title: 'Gerçeğin Sesi - Davut''un Sözleri [73]'
       url: 'https://youtu.be/xxCzhvEvRyc'
       viewCount: '652'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT28M38S
+      id: bnecyUBj5V4
+      imageURL: 'https://i.ytimg.com/vi/bnecyUBj5V4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-24T17:06:55.000Z'
+      tags: kan
+      title: 'Gerçeğin Sesi - Kan [75]'
+      url: 'https://youtu.be/bnecyUBj5V4'
+      viewCount: '457'
 ---
 
