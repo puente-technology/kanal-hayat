@@ -1094,5 +1094,18 @@ episodes:
       title: 'Gerçeğin Sesi - İyi İşlerimiz Bizi Kurtarır mı? [67]'
       url: 'https://youtu.be/ZV3JnR99UE8'
       viewCount: '305'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: Açıklama
+      duration: PT28M23S
+      id: McROSYP1jb0
+      imageURL: 'https://i.ytimg.com/vi/McROSYP1jb0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T12:08:23.000Z'
+      tags: 'tanrı,ağladı'
+      title: 'Gerçeğin Sesi - Tanrı Ağladı [68]'
+      url: 'https://youtu.be/McROSYP1jb0'
+      viewCount: '380'
 ---
 
