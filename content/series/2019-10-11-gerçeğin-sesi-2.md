@@ -1191,5 +1191,18 @@ episodes:
       title: 'Gerçeğin Sesi - Kan [75]'
       url: 'https://youtu.be/bnecyUBj5V4'
       viewCount: '457'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT29M24S
+      id: HLiJiGHKw7g
+      imageURL: 'https://i.ytimg.com/vi/HLiJiGHKw7g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-24T17:07:08.000Z'
+      tags: özgürlük
+      title: 'Gerçeğin Sesi - Mahkumiyetten Özgürlüğe [76]'
+      url: 'https://youtu.be/HLiJiGHKw7g'
+      viewCount: '550'
 ---
 
