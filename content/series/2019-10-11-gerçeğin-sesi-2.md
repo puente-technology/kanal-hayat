@@ -1139,5 +1139,18 @@ episodes:
       title: 'Gerçeğin Sesi - Yaratan Rab''bi Dinleyin [70]'
       url: 'https://youtu.be/Jdiq52s2YmU'
       viewCount: '1763'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT28M1S
+      id: kM4OQrMdkUQ
+      imageURL: 'https://i.ytimg.com/vi/kM4OQrMdkUQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-01-11T06:15:44.000Z'
+      tags: 'çarmıh,nedir?'
+      title: 'Gerçeğin Sesi - Çarmıh [71]'
+      url: 'https://youtu.be/kM4OQrMdkUQ'
+      viewCount: '832'
 ---
 
