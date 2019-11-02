@@ -229,16 +229,6 @@ class CustomHeaderBanner extends Component {
     this.setState({ seasonsInfo: serisSeasonInfo })
   }
 
-  componentDidUpdate() {
-    console.log('asma 2 ', this.headerRef)
-    const { setDivHeight } = this.props;
-    if (this.headerRef.current) {
-      console.log('componentDidUpdate  ')
-      setDivHeight(this.headerRef.current.clientHeight);
-    }
-    
-  }
-
   getDivHeight = () => {
     const value = this.headerRef;
     console.log('this.headerRef ', value)
