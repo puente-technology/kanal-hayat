@@ -1217,5 +1217,18 @@ episodes:
       title: 'Gerçeğin Sesi - Romalılar 12 [78]'
       url: 'https://youtu.be/kaYlzCw_KAs'
       viewCount: '179'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: ''
+      duration: PT28M50S
+      id: 1ygARCJZ6vQ
+      imageURL: 'https://i.ytimg.com/vi/1ygARCJZ6vQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-02-27T13:36:39.000Z'
+      tags: tohum
+      title: 'Gerçeğin Sesi - Ölümsüz Tohum [79]'
+      url: 'https://youtu.be/1ygARCJZ6vQ'
+      viewCount: '207'
 ---
 
