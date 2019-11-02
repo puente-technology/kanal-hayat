@@ -1120,5 +1120,24 @@ episodes:
       title: 'Gerçeğin Sesi - İsa''nın Günahkara Bakışı[69]'
       url: 'https://youtu.be/OevWVUcoJeU'
       viewCount: '599'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        Yaratan Rab'bi Dinleyin
+
+        Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+        ışığında gerçekleştirdi 
+
+        "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+      duration: PT28M53S
+      id: Jdiq52s2YmU
+      imageURL: 'https://i.ytimg.com/vi/Jdiq52s2YmU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2016-02-15T12:36:39.000Z'
+      tags: '#yaratan #rab #kutsal #kitap'
+      title: 'Gerçeğin Sesi - Yaratan Rab''bi Dinleyin [70]'
+      url: 'https://youtu.be/Jdiq52s2YmU'
+      viewCount: '1763'
 ---
 
