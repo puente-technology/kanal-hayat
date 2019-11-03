@@ -1058,5 +1058,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=j3kM_Eb0cHw&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=38&t=0s
       viewCount: '601'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M15S
+      id: 3jHwYZ63aXc
+      imageURL: 'https://i.ytimg.com/vi/3jHwYZ63aXc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T09:59:00.000Z'
+      tags: 'kurban,mesih,isa'
+      title: Tevrat'ın Müjdelediği Mesih - Fısıh Kurbanı Mesih 38.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=3jHwYZ63aXc&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=39&t=0s
+      viewCount: '382'
 ---
 
