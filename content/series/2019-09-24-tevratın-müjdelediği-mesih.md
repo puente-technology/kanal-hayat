@@ -904,5 +904,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=f-pljcPKFjo&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=33&t=0s
       viewCount: '334'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT30M4S
+      id: MZ7IBJ1bi4s
+      imageURL: 'https://i.ytimg.com/vi/MZ7IBJ1bi4s/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-07-13T10:07:34.000Z'
+      tags: 'ibrahim,peygamber'
+      title: Tevrat'ın Müjdelediği Mesih - İbrahim Babamızın Vaadi 33.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=MZ7IBJ1bi4s&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=34&t=0s
+      viewCount: '210'
 ---
 
