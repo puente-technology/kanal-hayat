@@ -766,5 +766,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=vVhg06eHErc&list=PL3CD8FD04C3D1F082&index=89&t=0s
       viewCount: '37'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Hayat her an son bulabilir. Hazır mısın?
+      duration: PT7M25S
+      id: sHLxFDVMUOU
+      imageURL: 'https://i.ytimg.com/vi/sHLxFDVMUOU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2008-04-04T23:40:31.000Z'
+      tags: 'tohunm,seed,olum,death,hayat,life'
+      title: 'Gelişen Öykü 14: Alış Veriş'
+      url: >-
+        https://www.youtube.com/watch?v=sHLxFDVMUOU&list=PL3CD8FD04C3D1F082&index=90&t=0s
+      viewCount: '156'
 ---
 
