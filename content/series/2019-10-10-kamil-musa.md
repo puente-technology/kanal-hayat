@@ -512,5 +512,35 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=YJfEs80hnGQ&list=PL3CD8FD04C3D1F082&index=69&t=0s
       viewCount: '32'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT14M15S
+      id: r7L_MauhpbA
+      imageURL: 'https://i.ytimg.com/vi/r7L_MauhpbA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T11:38:26.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Kadın Nedir - Ester 02 Bölüm 1
+      url: >-
+        https://www.youtube.com/watch?v=r7L_MauhpbA&list=PL3CD8FD04C3D1F082&index=70&t=0s
+      viewCount: '58'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT13M26S
+      id: vLf-RSWgyho
+      imageURL: 'https://i.ytimg.com/vi/vLf-RSWgyho/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T09:47:36.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Kadın Nedir - En sevdiğimiz Kişi Bölüm 2
+      url: >-
+        https://www.youtube.com/watch?v=vLf-RSWgyho&list=PL3CD8FD04C3D1F082&index=73&t=0s
+      viewCount: '62'
 ---
 
