@@ -620,5 +620,22 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=xXMh0NJlJG8&list=PL3CD8FD04C3D1F082&index=79&t=0s
       viewCount: '279'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Hayat koşulları bazı kişilerin aşağılık bir ortamda bocalamalarına yol
+        açar. "Zina" çok kötü bir şey, ama iyi düşünürsek kendi hayatımızda kötü
+        şeylerin olduğunu görebilir miyiz.
+      duration: PT7M36S
+      id: upseeHpwbUM
+      imageURL: 'https://i.ytimg.com/vi/upseeHpwbUM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2007-01-09T18:34:52.000Z'
+      tags: 'zine,bağış,günah,tövbe'
+      title: 'Gelişen Öykü 04: Tutuklu'
+      url: >-
+        https://www.youtube.com/watch?v=upseeHpwbUM&list=PL3CD8FD04C3D1F082&index=80&t=0s
+      viewCount: '277'
 ---
 
