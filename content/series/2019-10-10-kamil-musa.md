@@ -752,5 +752,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=v3Ltmlox7XU&list=PL3CD8FD04C3D1F082&index=88&t=0s
       viewCount: '81'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT7M24S
+      id: vVhg06eHErc
+      imageURL: 'https://i.ytimg.com/vi/vVhg06eHErc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2009-12-26T15:38:49.000Z'
+      tags: 'STG,13,Turkish,Master'
+      title: Gelisen Oyku 13 - Olumlu Bir Degisim
+      url: >-
+        https://www.youtube.com/watch?v=vVhg06eHErc&list=PL3CD8FD04C3D1F082&index=89&t=0s
+      viewCount: '37'
 ---
 
