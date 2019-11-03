@@ -637,5 +637,22 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=upseeHpwbUM&list=PL3CD8FD04C3D1F082&index=80&t=0s
       viewCount: '277'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Her savaşın bir özelliği vardır. Savaşların ortak yönü düşmanı tanıma
+        gereğidir. Ruhsal alanda en amansız düşman İblistir. Onu kim yenebilir?
+        İzleyiniz
+      duration: PT7M8S
+      id: yzfVXXwuKqk
+      imageURL: 'https://i.ytimg.com/vi/yzfVXXwuKqk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2007-03-19T16:54:03.000Z'
+      tags: 'savaş,düşman,iblis,şeytan,Tanrı,zafer'
+      title: 'Gelişen Öykü 05: Savaş'
+      url: >-
+        https://www.youtube.com/watch?v=yzfVXXwuKqk&list=PL3CD8FD04C3D1F082&index=81&t=0s
+      viewCount: '368'
 ---
 
