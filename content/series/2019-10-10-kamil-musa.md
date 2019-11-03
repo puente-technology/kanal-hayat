@@ -654,5 +654,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=yzfVXXwuKqk&list=PL3CD8FD04C3D1F082&index=81&t=0s
       viewCount: '368'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT7M28S
+      id: mPcyvS5cv6E
+      imageURL: 'https://i.ytimg.com/vi/mPcyvS5cv6E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2009-12-26T14:54:50.000Z'
+      tags: 'Isa,Incil,Kutsal,Kitap,Mucize,Tanri'
+      title: Gelisen Oyku 06 - Bir Onder Araniyor
+      url: >-
+        https://www.youtube.com/watch?v=mPcyvS5cv6E&list=PL3CD8FD04C3D1F082&index=82&t=0s
+      viewCount: '37'
 ---
 
