@@ -954,5 +954,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=MZ7IBJ1bi4s&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=34&t=0s
       viewCount: '210'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M42S
+      id: uKf3iUbJQ8c
+      imageURL: 'https://i.ytimg.com/vi/uKf3iUbJQ8c/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-07-13T10:07:08.000Z'
+      tags: 'mesihin,soyu'
+      title: Tevrat'ın Müjdelediği Mesih -  Mesih'in Soyu 34.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=uKf3iUbJQ8c&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=35&t=0s
+      viewCount: '141'
 ---
 
