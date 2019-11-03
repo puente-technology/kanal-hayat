@@ -1291,5 +1291,40 @@ episodes:
       title: 43. Bölüm (Dünyanın Sonu)
       url: 'https://youtu.be/ySYWQMlPFyM'
       viewCount: '623'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M26S
+      id: Qkz0mVjbQvg
+      imageURL: 'https://i.ytimg.com/vi/Qkz0mVjbQvg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-02-20T15:01:54.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 44. Bölüm (Gerçeği Sevgiyle Yaklaşmak)
+      url: 'https://youtu.be/Qkz0mVjbQvg'
+      viewCount: '638'
 ---
 
