@@ -710,5 +710,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=on2N9vcZR8M&list=PL3CD8FD04C3D1F082&index=85&t=0s
       viewCount: '214'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: İsa Hakkında bir Öykü
+      duration: PT7M25S
+      id: Es882rhSCxw
+      imageURL: 'https://i.ytimg.com/vi/Es882rhSCxw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2008-05-22T15:23:25.000Z'
+      tags: 'İsa,ölüm,Mesih,Hristiyan'
+      title: Gelişen Öykü 10 - Ölüm Kalım Meselesi
+      url: >-
+        https://www.youtube.com/watch?v=Es882rhSCxw&list=PL3CD8FD04C3D1F082&index=86&t=0s
+      viewCount: '166'
 ---
 
