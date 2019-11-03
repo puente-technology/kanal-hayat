@@ -497,5 +497,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=P5VBqH-8gxE&list=PL3CD8FD04C3D1F082&index=68&t=0s
       viewCount: '61'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT14M42S
+      id: YJfEs80hnGQ
+      imageURL: 'https://i.ytimg.com/vi/YJfEs80hnGQ/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T12:17:57.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Kadın Nedir - Ester 02 Bölüm 2
+      url: >-
+        https://www.youtube.com/watch?v=YJfEs80hnGQ&list=PL3CD8FD04C3D1F082&index=69&t=0s
+      viewCount: '32'
 ---
 
