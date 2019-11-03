@@ -1501,5 +1501,24 @@ episodes:
       title: 50. Bölüm (Kutsal Kitapların Vahiy Olguları)
       url: 'https://youtu.be/Ru6Etx3itmg'
       viewCount: '955'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M21S
+      id: 5801N_fSHvI
+      imageURL: 'https://i.ytimg.com/vi/5801N_fSHvI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-08-22T06:26:05.000Z'
+      tags: >-
+        hristiyan,kilise,peygamber,isa mesih,protestan,katolik,ahiret
+        günü,kıyamet,yargı,günah,hristiyanlık,ahiret,hz isa,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal
+        ruh,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü erman,protestanlar,zekeriya
+        butros,kirkor ağabaloğlu
+      title: 51. Bölüm (Kutsal Kitapların Vahiy Olguları) Devamı...
+      url: 'https://youtu.be/5801N_fSHvI'
+      viewCount: '570'
 ---
 
