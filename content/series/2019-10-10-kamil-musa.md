@@ -794,5 +794,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=iLBHdjEQeCg&list=PL3CD8FD04C3D1F082&index=91&t=0s
       viewCount: '174'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT7M25S
+      id: THo65Rsb7hU
+      imageURL: 'https://i.ytimg.com/vi/THo65Rsb7hU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2009-12-26T15:53:37.000Z'
+      tags: 'STG,16,Turkish,Master'
+      title: Gelisen Oyku 16 - Son Kurusa Kadar
+      url: >-
+        https://www.youtube.com/watch?v=THo65Rsb7hU&list=PL3CD8FD04C3D1F082&index=92&t=0s
+      viewCount: '91'
 ---
 
