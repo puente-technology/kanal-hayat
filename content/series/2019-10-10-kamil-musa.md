@@ -542,5 +542,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=vLf-RSWgyho&list=PL3CD8FD04C3D1F082&index=73&t=0s
       viewCount: '62'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT15M46S
+      id: Vv36dTD0kfw
+      imageURL: 'https://i.ytimg.com/vi/Vv36dTD0kfw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T09:13:27.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Kadın Nedir - En sevdiğimiz Kişi Bölüm 1
+      url: >-
+        https://www.youtube.com/watch?v=Vv36dTD0kfw&list=PL3CD8FD04C3D1F082&index=74&t=0s
+      viewCount: '66'
 ---
 
