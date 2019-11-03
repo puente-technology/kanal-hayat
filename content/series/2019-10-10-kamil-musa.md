@@ -437,5 +437,20 @@ episodes:
       title: Kadın Nedir - İlişkide Bencillik Bölüm 1
       url: 'https://youtu.be/kD5ndQ63rfQ'
       viewCount: '130'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M23S
+      id: 8-Jj_sj7Zv4
+      imageURL: 'https://i.ytimg.com/vi/8-Jj_sj7Zv4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-08T08:48:16.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Kadin Nedir Serisi 01   Alkol ve Siz
+      url: >-
+        https://www.youtube.com/watch?v=8-Jj_sj7Zv4&list=PL3CD8FD04C3D1F082&index=65&t=0s
+      viewCount: '226'
 ---
 
