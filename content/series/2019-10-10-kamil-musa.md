@@ -572,5 +572,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=f9-2EgVkL9I&list=PL3CD8FD04C3D1F082&index=75&t=0s
       viewCount: '170'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Dış görünüş aldatır. Birisi zengin ve mutlu gözükebilir, ama o kişinin
+        içini yakan neler olabilir?
+      duration: PT7M8S
+      id: M8qTp2lSu_w
+      imageURL: 'https://i.ytimg.com/vi/M8qTp2lSu_w/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2007-04-03T12:49:47.000Z'
+      tags: 'Üçkayıtçı,zengin,mutsuz,küçük,mutluluk,Tanrı,İsa'
+      title: 'Gelişen Öykü 01: Gümrük Memuru Zakay'
+      url: >-
+        https://www.youtube.com/watch?v=M8qTp2lSu_w&list=PL3CD8FD04C3D1F082&index=77&t=0s
+      viewCount: '1053'
 ---
 
