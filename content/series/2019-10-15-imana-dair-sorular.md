@@ -1361,5 +1361,40 @@ episodes:
       title: 45. Bölüm (Kutsal Kitap Taklit Edilebilir mi?)
       url: 'https://youtu.be/oLt5OneNFo0'
       viewCount: '816'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M16S
+      id: TeHflrQx5rA
+      imageURL: 'https://i.ytimg.com/vi/TeHflrQx5rA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-02-21T12:50:47.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 46. Bölüm (İsa Mesih'in Günümüzdeki Resimleri Gerçek mi?)
+      url: 'https://youtu.be/TeHflrQx5rA'
+      viewCount: '627'
 ---
 
