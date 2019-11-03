@@ -822,5 +822,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=hxTRkS2BS9Y&list=PL3CD8FD04C3D1F082&index=93&t=0s
       viewCount: '42'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT7M26S
+      id: 4QbrA6UhkLs
+      imageURL: 'https://i.ytimg.com/vi/4QbrA6UhkLs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2009-12-26T17:02:42.000Z'
+      tags: 'STG,18,Turkish,Master'
+      title: Gelişen Öykü 18 - Gözleri Görmeyen Kimmiş
+      url: >-
+        https://www.youtube.com/watch?v=4QbrA6UhkLs&list=PL3CD8FD04C3D1F082&index=94&t=0s
+      viewCount: '76'
 ---
 
