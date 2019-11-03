@@ -604,5 +604,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=lu6wQz_dp3I&list=PL3CD8FD04C3D1F082&index=78&t=0s
       viewCount: '832'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Krallıklar, hükümranlıklar insanın insanı yönetmesi oluyor. Ancak
+        bunların üstünde tam iktidar sahibi kimdir?
+      duration: PT7M28S
+      id: xXMh0NJlJG8
+      imageURL: 'https://i.ytimg.com/vi/xXMh0NJlJG8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2007-03-29T12:43:48.000Z'
+      tags: 'İktidar,Güç,icra,söz,İsa,öğretim'
+      title: 'Gelişen Öykü 03: İktidar'
+      url: >-
+        https://www.youtube.com/watch?v=xXMh0NJlJG8&list=PL3CD8FD04C3D1F082&index=79&t=0s
+      viewCount: '279'
 ---
 
