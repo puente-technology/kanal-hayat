@@ -1435,5 +1435,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=CuTBDmkRRS0&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=53&t=0s
       viewCount: '357'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M57S
+      id: 4rVAiLrPgQg
+      imageURL: 'https://i.ytimg.com/vi/4rVAiLrPgQg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-07-08T10:37:17.000Z'
+      tags: 'pavlus,kimdir?'
+      title: Tevrat'ın Müjdelediği Mesih - Hristiyanlara göre Pavlus Kimdir? 53.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=4rVAiLrPgQg&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=54&t=0s
+      viewCount: '566'
 ---
 
