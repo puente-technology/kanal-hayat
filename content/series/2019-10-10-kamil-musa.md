@@ -668,5 +668,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=mPcyvS5cv6E&list=PL3CD8FD04C3D1F082&index=82&t=0s
       viewCount: '37'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Bir kişi bile bile ölüme nasıl gidebilir?
+      duration: PT7M30S
+      id: 76r2sdy0A6E
+      imageURL: 'https://i.ytimg.com/vi/76r2sdy0A6E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2007-08-17T12:16:40.000Z'
+      tags: 'İsa,ölüm,Mesih,Hristiyan'
+      title: 'Gelişen Öykü 07: Anlaması Zor bir Plan'
+      url: >-
+        https://www.youtube.com/watch?v=76r2sdy0A6E&list=PL3CD8FD04C3D1F082&index=83&t=0s
+      viewCount: '289'
 ---
 
