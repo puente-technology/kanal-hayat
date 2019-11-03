@@ -1133,5 +1133,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=tulCHokAxpU&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=41&t=0s
       viewCount: '1267'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M32S
+      id: aLtyJ2SjmkA
+      imageURL: 'https://i.ytimg.com/vi/aLtyJ2SjmkA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-11-06T16:21:02.000Z'
+      tags: 'evlilik,konusu'
+      title: Tevrat'ın Müjdelediği Mesih - Evlilik Konusu 1-  41.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=aLtyJ2SjmkA&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=42&t=0s
+      viewCount: '487'
 ---
 
