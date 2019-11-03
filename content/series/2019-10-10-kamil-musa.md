@@ -557,5 +557,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Vv36dTD0kfw&list=PL3CD8FD04C3D1F082&index=74&t=0s
       viewCount: '66'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M34S
+      id: f9-2EgVkL9I
+      imageURL: 'https://i.ytimg.com/vi/f9-2EgVkL9I/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-08T15:54:45.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Kadin Nedir Serisi 02   Dil ve Dedikodu
+      url: >-
+        https://www.youtube.com/watch?v=f9-2EgVkL9I&list=PL3CD8FD04C3D1F082&index=75&t=0s
+      viewCount: '170'
 ---
 
