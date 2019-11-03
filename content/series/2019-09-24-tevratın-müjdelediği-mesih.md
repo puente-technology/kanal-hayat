@@ -1410,5 +1410,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=zQbIt4NVBvE&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=52&t=0s
       viewCount: '327'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT29M3S
+      id: CuTBDmkRRS0
+      imageURL: 'https://i.ytimg.com/vi/CuTBDmkRRS0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-04-02T20:13:00.000Z'
+      tags: bağışlamak
+      title: Tevrat'ın Müjdelediği Mesih -  Bağışlamak 52.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=CuTBDmkRRS0&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=53&t=0s
+      viewCount: '357'
 ---
 
