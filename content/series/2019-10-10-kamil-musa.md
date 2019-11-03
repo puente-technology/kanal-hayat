@@ -588,5 +588,21 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=M8qTp2lSu_w&list=PL3CD8FD04C3D1F082&index=77&t=0s
       viewCount: '1053'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Kötürüm bir gencin mucizevi şekilde şifa buluşu. Yakın dostları onu
+        İsa'nın yanına taşırlar ve sonra......
+      duration: PT7M21S
+      id: lu6wQz_dp3I
+      imageURL: 'https://i.ytimg.com/vi/lu6wQz_dp3I/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2007-01-03T21:24:33.000Z'
+      tags: 'Mucize,İsa,şifa,doslar,dinciler'
+      title: 'Gelişen Öykü 02: Kör Göze Şifa'
+      url: >-
+        https://www.youtube.com/watch?v=lu6wQz_dp3I&list=PL3CD8FD04C3D1F082&index=78&t=0s
+      viewCount: '832'
 ---
 
