@@ -1006,5 +1006,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ZJnwEobx78A&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=36&t=0s
       viewCount: '198'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M39S
+      id: OzojN3-VZhY
+      imageURL: 'https://i.ytimg.com/vi/OzojN3-VZhY/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-07-13T10:07:07.000Z'
+      tags: 'yusufun,iyilikleri,peygamber'
+      title: >-
+        Tevrat'ın Müjdelediği Mesih - Yusuf'un iyiliklerini unutan Mısırlılar
+        36.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=OzojN3-VZhY&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=37&t=0s
+      viewCount: '142'
 ---
 
