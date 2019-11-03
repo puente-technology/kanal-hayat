@@ -1083,5 +1083,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=3jHwYZ63aXc&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=39&t=0s
       viewCount: '382'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M35S
+      id: ih-uFV0K9n0
+      imageURL: 'https://i.ytimg.com/vi/ih-uFV0K9n0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T09:59:00.000Z'
+      tags: 'on,emir,öfke,cinayet'
+      title: Tevrat'ın Müjdelediği Mesih - On Emir   Öfke ve Cinayet 39.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=ih-uFV0K9n0&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=40&t=0s
+      viewCount: '472'
 ---
 
