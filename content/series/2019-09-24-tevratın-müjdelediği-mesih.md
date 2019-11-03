@@ -1108,5 +1108,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ih-uFV0K9n0&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=40&t=0s
       viewCount: '472'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M53S
+      id: tulCHokAxpU
+      imageURL: 'https://i.ytimg.com/vi/tulCHokAxpU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-10-23T06:43:02.000Z'
+      tags: 'musa,gelen,on,emir,neydi?'
+      title: Tevrat'ın Müjdelediği Mesih -  Musa'ya gelen On Emir neydi? 40.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=tulCHokAxpU&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=41&t=0s
+      viewCount: '1267'
 ---
 
