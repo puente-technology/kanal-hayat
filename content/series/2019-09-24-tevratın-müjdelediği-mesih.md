@@ -1033,5 +1033,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=OzojN3-VZhY&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=37&t=0s
       viewCount: '142'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M39S
+      id: j3kM_Eb0cHw
+      imageURL: 'https://i.ytimg.com/vi/j3kM_Eb0cHw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-09-20T09:59:00.000Z'
+      tags: 'kutsal,kitabın,gücü'
+      title: Tevrat'ın Müjdelediği Mesih - Kutsal Kitabın Gücü 37.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=j3kM_Eb0cHw&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=38&t=0s
+      viewCount: '601'
 ---
 
