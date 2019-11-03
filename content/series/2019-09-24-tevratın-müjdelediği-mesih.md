@@ -1385,5 +1385,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=dUpL4L3C3B8&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=51&t=0s
       viewCount: '305'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M15S
+      id: zQbIt4NVBvE
+      imageURL: 'https://i.ytimg.com/vi/zQbIt4NVBvE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-29T12:24:56.000Z'
+      tags: sevgi
+      title: Tevrat'ın Müjdelediği Mesih - Sevgi 51.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=zQbIt4NVBvE&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=52&t=0s
+      viewCount: '327'
 ---
 
