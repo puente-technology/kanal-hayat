@@ -1308,5 +1308,32 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Cxaz-A6uf6g&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=48&t=0s
       viewCount: '508'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        48 - Tövbe ve İtiraf 2
+
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M13S
+      id: 1HSIWkK93L0
+      imageURL: 'https://i.ytimg.com/vi/1HSIWkK93L0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-17T12:52:13.000Z'
+      tags: '#tövbe,#itiraf,#tevrat,#müjde,#isa'
+      title: Tevrat'ın Müjdelediği Mesih - Tövbe ve İtiraf 2 - 48.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=1HSIWkK93L0&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=49&t=0s
+      viewCount: '190'
 ---
 
