@@ -1208,5 +1208,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=I8ER77KNHGc&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=44&t=0s
       viewCount: '108'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M47S
+      id: cMynucpfcBM
+      imageURL: 'https://i.ytimg.com/vi/cMynucpfcBM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-13T16:57:05.000Z'
+      tags: 'şabat,günü'
+      title: Tevrat'ın Müjdelediği Mesih - Şabat Günü ve İsa Mesih 44.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=cMynucpfcBM&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=45&t=0s
+      viewCount: '1641'
 ---
 
