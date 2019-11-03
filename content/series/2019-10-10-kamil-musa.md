@@ -724,5 +724,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=Es882rhSCxw&list=PL3CD8FD04C3D1F082&index=86&t=0s
       viewCount: '166'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: İsanın Hayatı hakkında bir öykü
+      duration: PT7M25S
+      id: 40MdSZ81IA0
+      imageURL: 'https://i.ytimg.com/vi/40MdSZ81IA0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2008-05-22T19:00:37.000Z'
+      tags: 'Incil,Tanri'
+      title: Gelişen Öykü 11 - Her Şey Ters Gidecek
+      url: >-
+        https://www.youtube.com/watch?v=40MdSZ81IA0&list=PL3CD8FD04C3D1F082&index=87&t=0s
+      viewCount: '342'
 ---
 
