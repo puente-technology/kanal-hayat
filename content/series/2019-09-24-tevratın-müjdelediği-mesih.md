@@ -1335,5 +1335,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=1HSIWkK93L0&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=49&t=0s
       viewCount: '190'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT27M26S
+      id: YTmlnQeEwYI
+      imageURL: 'https://i.ytimg.com/vi/YTmlnQeEwYI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-22T11:42:01.000Z'
+      tags: Alçakgönüllülük
+      title: Tevrat'ın Müjdelediği Mesih - Alçakgönüllülük
+      url: >-
+        https://www.youtube.com/watch?v=YTmlnQeEwYI&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=50&t=0s
+      viewCount: '247'
 ---
 
