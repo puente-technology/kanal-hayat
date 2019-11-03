@@ -1081,5 +1081,40 @@ episodes:
       title: 36. Bölüm (Tanrı'nın Elçisi Kimdir? Özellikleri Nelerdir?)
       url: 'https://youtu.be/w-iknvHPCKY'
       viewCount: '961'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize sorduğumuz
+        pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı sayfamızdan
+        takip edebilirsiniz.
+
+        Tanrı var mı ? 
+
+        Tanrı Oğlu Ne Demek?
+
+        Hristiyanlık Kavramı Nedir?
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M16S
+      id: 3C1qeEAf9Nc
+      imageURL: 'https://i.ytimg.com/vi/3C1qeEAf9Nc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-02-20T14:28:32.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: 37. Bölüm (Tanrı'nın Elçisi Kimdir? Özellikleri Nelerdir?) devamı...
+      url: 'https://youtu.be/3C1qeEAf9Nc'
+      viewCount: '768'
 ---
 
