@@ -1360,5 +1360,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=YTmlnQeEwYI&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=50&t=0s
       viewCount: '247'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M39S
+      id: dUpL4L3C3B8
+      imageURL: 'https://i.ytimg.com/vi/dUpL4L3C3B8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-04-02T20:13:16.000Z'
+      tags: adalet
+      title: Tevrat'ın Müjdelediği Mesih - Adalet 50.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=dUpL4L3C3B8&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=51&t=0s
+      viewCount: '305'
 ---
 
