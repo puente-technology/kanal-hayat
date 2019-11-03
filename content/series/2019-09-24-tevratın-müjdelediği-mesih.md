@@ -1258,5 +1258,30 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=MXyZ9JaNy7g&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=46&t=0s
       viewCount: '232'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile Pastör
+        Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın Müjdelediği
+        Mesih" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT28M45S
+      id: DZhWPM_yiME
+      imageURL: 'https://i.ytimg.com/vi/DZhWPM_yiME/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-29T14:08:47.000Z'
+      tags: 'yalan,yere,tanıklık,etmek'
+      title: Tevrat'ın Müjdelediği Mesih - Yalan Yere Tanıklık 2 - 46.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=DZhWPM_yiME&list=PLQfi14V3hH0IRsYCONiTEUC6slse8HtM9&index=47&t=0s
+      viewCount: '149'
 ---
 
