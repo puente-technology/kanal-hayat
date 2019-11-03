@@ -682,5 +682,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=76r2sdy0A6E&list=PL3CD8FD04C3D1F082&index=83&t=0s
       viewCount: '289'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT7M19S
+      id: ON6SxP3ZWn0
+      imageURL: 'https://i.ytimg.com/vi/ON6SxP3ZWn0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2009-12-26T15:09:29.000Z'
+      tags: 'Tanri,Isa,Mesih,Gunah,Bagis,Kutsal,Kitap,Hristiyan'
+      title: Gelisen Oyku 08 - Cennet Yeryuzune Indi
+      url: >-
+        https://www.youtube.com/watch?v=ON6SxP3ZWn0&list=PL3CD8FD04C3D1F082&index=84&t=0s
+      viewCount: '102'
 ---
 
