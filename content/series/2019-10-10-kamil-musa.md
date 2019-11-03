@@ -878,5 +878,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=CY95D3kRgNg&list=PL3CD8FD04C3D1F082&index=97&t=0s
       viewCount: '72'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT7M23S
+      id: GKrwOjMFQSE
+      imageURL: 'https://i.ytimg.com/vi/GKrwOjMFQSE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2009-12-26T17:48:05.000Z'
+      tags: 'STG,22,Turkish,Master'
+      title: Gelisen Oyku 22 - Buna Ne Dersiniz?
+      url: >-
+        https://www.youtube.com/watch?v=GKrwOjMFQSE&list=PL3CD8FD04C3D1F082&index=98&t=0s
+      viewCount: '65'
 ---
 
