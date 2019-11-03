@@ -836,5 +836,19 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=4QbrA6UhkLs&list=PL3CD8FD04C3D1F082&index=94&t=0s
       viewCount: '76'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT7M26S
+      id: UGYn2h8o9Cg
+      imageURL: 'https://i.ytimg.com/vi/UGYn2h8o9Cg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2009-12-26T16:33:48.000Z'
+      tags: 'STG,19,Turkish,Master'
+      title: Gelisen Oyku 19 - Artik Layik Degil
+      url: >-
+        https://www.youtube.com/watch?v=UGYn2h8o9Cg&list=PL3CD8FD04C3D1F082&index=95&t=0s
+      viewCount: '56'
 ---
 
