@@ -482,5 +482,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=pxY1god8RNo&list=PL3CD8FD04C3D1F082&index=67&t=0s
       viewCount: '48'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT14M43S
+      id: P5VBqH-8gxE
+      imageURL: 'https://i.ytimg.com/vi/P5VBqH-8gxE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-10-26T13:07:51.000Z'
+      tags: >-
+        isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Kadın Nedir - Hacer Bölüm 1
+      url: >-
+        https://www.youtube.com/watch?v=P5VBqH-8gxE&list=PL3CD8FD04C3D1F082&index=68&t=0s
+      viewCount: '61'
 ---
 
