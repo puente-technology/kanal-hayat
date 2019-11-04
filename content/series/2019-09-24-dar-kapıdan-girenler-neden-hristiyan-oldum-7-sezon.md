@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: DAR KAPIDAN GİRENLER  7.SEZON
 publishDate: .
-coverImage: /images/uploads/7-sezon.jpg
+coverImage: /images/uploads/6.jpg
 host: ALİ KALKANDELEN
 popularity: '1'
 description: |-
