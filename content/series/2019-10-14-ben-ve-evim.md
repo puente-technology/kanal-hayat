@@ -613,5 +613,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=nBuoKa71SmU&list=PLC1288EB43D3BFE33&index=42&t=0s
       viewCount: '89'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M10S
+      id: 1MbCEZCaiSg
+      imageURL: 'https://i.ytimg.com/vi/1MbCEZCaiSg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-12-16T10:24:11.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 55. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=1MbCEZCaiSg&list=PLC1288EB43D3BFE33&index=43&t=0s
+      viewCount: '126'
 ---
 
