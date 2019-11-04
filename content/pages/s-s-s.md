@@ -1634,88 +1634,65 @@ questions:
       benzeyen ikinci buyruk da şudur: `Komşunu kendin gibi seveceksin.` Kutsal
       Yasa`nın tümü ve peygamberlerin sözleri bu iki buyruğa dayanır.” (Matta
       22:35-40) Esen Kalın.
-    question: İncil'de Hangi Buyruklar Var?
+    question: Avrupa Hristiyanlığı Bırakırken siz neden inanıyorsunuz?
     videos:
       - guests: .
         host: Hakan Taştan ile
         targetGroup: Herkes
         youtubeURL:
-          description: >-
-            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
-            ışığında gerçekleştirdi 
-
-            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
-
-            Esen Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT28M58S
-          id: yRTt3isvbmo
-          imageURL: 'https://i.ytimg.com/vi/yRTt3isvbmo/hqdefault.jpg'
+          description: Gerçeğin Sesi - Hakan Taştan
+          duration: PT29M20S
+          id: XMnzZ_y1-oc
+          imageURL: 'https://i.ytimg.com/vi/XMnzZ_y1-oc/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2015-09-11T07:01:26.000Z'
-          tags: >-
-            isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
-            Hayat,neler olacak,kutsal ruh,Mesih kimdi,Hakan Tastan
-          title: 'Gerçeğin Sesi - Tanrı Yolunda Yürümek Nedir? [52]'
-          url: 'https://www.youtube.com/watch?v=yRTt3isvbmo'
-          viewCount: '3036'
+          publishedAt: '2018-05-29T08:23:37.000Z'
+          tags: 'batı,kültürü,ve,hristiyanlık'
+          title: 'Gerçeğin Sesi - Batı Kültürü ve Gerçek Hristiyanlık [109]'
+          url: 'https://www.youtube.com/watch?v=XMnzZ_y1-oc '
+          viewCount: '841'
       - guests: .
-        host: İhsan Özbek ile
+        host: Serdar Dedeoğlu ile
         targetGroup: Herkes
         youtubeURL:
-          description: |-
-            Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
-            dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
-            yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
-            Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
-            yanıtlıyor.Sakın kaçırmayın.
-            http://kanalhayat.tv/
-            http://www.youtube.com/kanalhayatplay
-            https://www.facebook.com/kanalhayat
-            https://twitter.com/kanalhayat
-          duration: PT27M35S
-          id: r3ziPlNoXYg
-          imageURL: 'https://i.ytimg.com/vi/r3ziPlNoXYg/hqdefault.jpg'
+          description: Açıklama
+          duration: PT27M7S
+          id: tbIzCkoXTtI
+          imageURL: 'https://i.ytimg.com/vi/tbIzCkoXTtI/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2014-11-14T09:14:23.000Z'
-          tags: '#yeniden,#doğmak,Gerek'
-          title: 8. Bölüm Yeniden Doğmak Gerek
-          url: 'https://www.youtube.com/watch?v=r3ziPlNoXYg'
-          viewCount: '348'
+          publishedAt: '2015-07-20T08:53:37.000Z'
+          tags: Sorularla Hristiyanlık 1
+          title: 26. Bölüm Sorularla Hristiyanlık 1
+          url: 'https://www.youtube.com/watch?v=tbIzCkoXTtI  '
+          viewCount: '722'
       - guests: ''
-        host: Joyce Meyer ile
+        host: Can Nuroğlu ile
         targetGroup: Herkes
         youtubeURL:
-          description: ''
-          duration: PT24M34S
-          id: wQDreLqXwLc
-          imageURL: 'https://i.ytimg.com/vi/wQDreLqXwLc/hqdefault.jpg'
+          description: >-
+            Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+            ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal
+            Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen
+            Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT27M11S
+          id: UzotzuYs8m0
+          imageURL: 'https://i.ytimg.com/vi/UzotzuYs8m0/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2017-10-23T06:45:59.000Z'
-          tags: 'cesurca,yaşamak'
-          title: 1096 1 Cesurca Yaşamak 1
-          url: 'https://www.youtube.com/watch?v=wQDreLqXwLc'
-          viewCount: '144'
-      - guests: .
-        host: Güçlü Erman ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: Pastör Güçlü Erman
-          duration: PT28M28S
-          id: GCVhjZY_F1Y
-          imageURL: 'https://i.ytimg.com/vi/GCVhjZY_F1Y/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2016-04-27T09:17:21.000Z'
-          tags: buyruk
-          title: UYANIŞ - Babalara Buyruklar 1
-          url: 'https://youtu.be/GCVhjZY_F1Y'
-          viewCount: '256'
+          publishedAt: '2019-01-22T11:46:08.000Z'
+          tags: >-
+            hristiyan,ahlakına,giriş
+            nedir?,günah,helal,haram,para,faiz,borç,cinsellik,din,müslümanlık,müslüman,ehli
+            sünnet,sahipleri,cemaat,muhammet,Rab,isa mesih kimdir?,incil okdunuz
+            mu?
+          title: Hristiyan Ahlakı - Hristiyan Ahlakına Giriş
+          url: 'https://youtu.be/UzotzuYs8m0'
+          viewCount: '1169'
 ---
 
