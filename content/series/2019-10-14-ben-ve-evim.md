@@ -538,5 +538,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=VLNzvVtUNAw&list=PLC1288EB43D3BFE33&index=37&t=0s
       viewCount: '88'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M20S
+      id: 8yC0XSM5izM
+      imageURL: 'https://i.ytimg.com/vi/8yC0XSM5izM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-11-22T13:41:19.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 50. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=8yC0XSM5izM&list=PLC1288EB43D3BFE33&index=38&t=0s
+      viewCount: '60'
 ---
 
