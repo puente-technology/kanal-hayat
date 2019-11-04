@@ -703,5 +703,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=37GiIPHdJNA&list=PLC1288EB43D3BFE33&index=48&t=0s
       viewCount: '75'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M39S
+      id: gTha7GCoZ4w
+      imageURL: 'https://i.ytimg.com/vi/gTha7GCoZ4w/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-12T08:23:13.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 61. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=gTha7GCoZ4w&list=PLC1288EB43D3BFE33&index=49&t=0s
+      viewCount: '47'
 ---
 
