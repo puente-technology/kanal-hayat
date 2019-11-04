@@ -797,5 +797,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=mlZmPrSL95g&list=PLC1288EB43D3BFE33&index=54&t=0s
       viewCount: '108'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT29M3S
+      id: N5yHHDS1o-4
+      imageURL: 'https://i.ytimg.com/vi/N5yHHDS1o-4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-12T12:52:14.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 67. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=N5yHHDS1o-4&list=PLC1288EB43D3BFE33&index=55&t=0s
+      viewCount: '95'
 ---
 
