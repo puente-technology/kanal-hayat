@@ -835,5 +835,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=eL25EnuwHic&list=PL8F7E18D33C4FACAA&index=52&t=0s
       viewCount: '3184'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT25M11S
+      id: MQG1-11jWuw
+      imageURL: 'https://i.ytimg.com/vi/MQG1-11jWuw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T08:13:35.000Z'
+      tags: >-
+        Mesih'e,Güvenmek,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret
+      title: Mesih'e Güvenmek 1
+      url: >-
+        https://www.youtube.com/watch?v=MQG1-11jWuw&list=PL8F7E18D33C4FACAA&index=53&t=0s
+      viewCount: '5205'
 ---
 
