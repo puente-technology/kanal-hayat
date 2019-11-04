@@ -568,5 +568,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=9fuXLbgoC3o&list=PLC1288EB43D3BFE33&index=39&t=0s
       viewCount: '149'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M20S
+      id: drpYU2aRppU
+      imageURL: 'https://i.ytimg.com/vi/drpYU2aRppU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-12-08T09:59:47.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 52. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=drpYU2aRppU&list=PLC1288EB43D3BFE33&index=40&t=0s
+      viewCount: '173'
 ---
 
