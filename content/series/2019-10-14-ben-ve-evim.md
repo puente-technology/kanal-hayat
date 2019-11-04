@@ -688,5 +688,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=LbsT1jPGJ1o&list=PLC1288EB43D3BFE33&index=47&t=0s
       viewCount: '71'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M34S
+      id: 37GiIPHdJNA
+      imageURL: 'https://i.ytimg.com/vi/37GiIPHdJNA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-12T10:41:58.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 60. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=37GiIPHdJNA&list=PLC1288EB43D3BFE33&index=48&t=0s
+      viewCount: '75'
 ---
 
