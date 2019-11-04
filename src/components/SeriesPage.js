@@ -52,7 +52,7 @@ class SeriesPage extends Component {
     const { episodes, divHeight } = this.props;
     const { isOpen } = this.state;
     return (
-      <div className="SeriesPage" style={{ paddingTop: 400 }}>
+      <div className="SeriesPage" style={{ paddingTop: 430 }}>
         {
           episodes.map((episode, index) => (
             <div key={index} className="Episode">
