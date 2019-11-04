@@ -523,5 +523,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=F1lhPZei94U&list=PLC1288EB43D3BFE33&index=36&t=0s
       viewCount: '84'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ''
+      duration: PT28M1S
+      id: VLNzvVtUNAw
+      imageURL: 'https://i.ytimg.com/vi/VLNzvVtUNAw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-12-08T10:01:09.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 49. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=VLNzvVtUNAw&list=PLC1288EB43D3BFE33&index=37&t=0s
+      viewCount: '88'
 ---
 
