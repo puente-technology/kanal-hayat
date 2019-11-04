@@ -1,6 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+import { shuffle } from 'lodash';
 import { connect } from 'react-redux';
 import './SeriesList.scss'
 import HostCard from './HostCard';
@@ -24,11 +25,13 @@ class HostsList extends Component {
     scrollLeftMax: 1,
     sortByNameBool: false,
     sortByDateBool: false,
+    tagetChangeBool: false,
   }
 
   componentDidMount() {
     const { hosts } = this.props;
-    this.setState({ listSeries: this.dataIntoArray(hosts) })
+    this.setState({ listSeries: shuffle(this.dataIntoArray(hosts)) })
+
     // this.sortSeriesByPopularity()
   }
 
@@ -83,7 +86,7 @@ class HostsList extends Component {
     let res = listSeries;
     if (value !== 'Hedef Kitle') {
       res = listSeries
-        .filter(d => d.node.frontmatter.targetGroup === value)
+        .filter(d => d.node.frontmatter.title === value)
     }
     this.setState({ listSeries: res })
   }
@@ -109,7 +112,12 @@ class HostsList extends Component {
   }
 
   sortByName = () => {
-    const { sortByNameBool, sortByDateBool, listSeries } = this.state
+    const {
+      sortByNameBool,
+      sortByDateBool,
+      listSeries,
+      tagetChangeBool,
+    } = this.state
     const { data } = this.props;
     let dataToSort = data
     if (sortByDateBool) {
@@ -125,7 +133,11 @@ class HostsList extends Component {
       }
       return 0
     })
-    this.setState({ listSeries: res, sortByNameBool: !sortByNameBool })
+    this.setState({
+      listSeries: res,
+      sortByNameBool: !sortByNameBool,
+      tagetChangeBool: !tagetChangeBool,
+    })
   }
 
   handleTextChange = (e) => {
@@ -216,15 +228,17 @@ class HostsList extends Component {
       scrollLeftPosition,
       sortByNameBool,
       sortByDateBool,
+      tagetChangeBool,
     } = this.state;
     const { hosts, hostList, data } = this.props
+    const series = tagetChangeBool ? listSeries : shuffle(listSeries)
     const renderHosts = []
-    for (let i = 0; i < listSeries.length; i += 1) {
-      const { frontmatter, fields } = listSeries[i].node
+    for (let i = 0; i < series.length; i += 1) {
+      const { frontmatter, fields } = series[i].node
       if (i.toString() === expandedDiv) {
-        if (i % 2 === 0 && listSeries.length > 1 && !!hosts[i + 1]) {
-          const nextFields = listSeries[i + 1].node.fields
-          const nextFronmatter = listSeries[i + 1].node.frontmatter
+        if (i % 2 === 0 && series.length > 1 && !!hosts[i + 1]) {
+          const nextFields = series[i + 1].node.fields
+          const nextFronmatter = series[i + 1].node.frontmatter
           renderHosts.push(
             <React.Fragment>
               <HostCard
