@@ -850,5 +850,25 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=MQG1-11jWuw&list=PL8F7E18D33C4FACAA&index=53&t=0s
       viewCount: '5205'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT25M11S
+      id: thtAC1w5QYc
+      imageURL: 'https://i.ytimg.com/vi/thtAC1w5QYc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T08:04:18.000Z'
+      tags: >-
+        Mesih'e,Güvenmek,hristiyanlık,ahiret,kıyamet,hz
+        isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+        anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Mesih'e Güvenmek 2
+      url: >-
+        https://www.youtube.com/watch?v=thtAC1w5QYc&list=PL8F7E18D33C4FACAA&index=54&t=0s
+      viewCount: '2401'
 ---
 
