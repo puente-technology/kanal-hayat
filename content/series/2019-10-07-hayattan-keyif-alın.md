@@ -678,5 +678,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=7HwioK4CqUw&list=PL8F7E18D33C4FACAA&index=43&t=0s
       viewCount: '689'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT22M52S
+      id: UDENncaT3sU
+      imageURL: 'https://i.ytimg.com/vi/UDENncaT3sU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T07:05:07.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Doğruluğun Özellikleri
+      url: >-
+        https://www.youtube.com/watch?v=UDENncaT3sU&list=PL8F7E18D33C4FACAA&index=44&t=0s
+      viewCount: '1735'
 ---
 
