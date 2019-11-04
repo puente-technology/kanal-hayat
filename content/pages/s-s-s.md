@@ -5,26 +5,25 @@ template: SSS
 title: S. S. S.
 questions:
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık.. Aşağıdaki programlarımızı izleyerek aklınıza takılan
-      sorulara cevap bulabilirsiniz. İsa Mesih'in Tanrı Oğlu olarak
-      adlandırılması Hristiyanlar tarafından ortaya konan bir şey değildir. Bunu
-      ortaya koyan Kutsal Kitap'tır. Kutsal Kitap'ın bir çok yerinde İsa Mesih
-      bu adla tanıtılır. Tanrı Oğlu sıfatı fiziksel değil ruhsal bir sıfattır.
-      Dolayısıyla halkımız arasında süregelen ve kulaktan dolma bilgiler olan
-      Tanrı Oğlu kavramı hakkındaki diğer görüşleri kesinlikle reddederiz. 
-      "Melek ona, "Korkma Meryem” dedi, "Sen Tanrı`nın lütfuna eriştin. Bak,
-      gebe kalıp bir oğul doğuracak, adını İsa koyacaksın. O büyük olacak,
-      kendisine `Yüceler Yücesi`nin Oğlu` denecek.  Meryem meleğe, "Bu nasıl
-      olur? Ben erkeğe varmadım ki” dedi. Melek ona şöyle yanıt verdi: "Kutsal
-      Ruh senin üzerine gelecek, Yüceler Yücesi`nin gücü sana gölge salacak.
-      Bunun için doğacak olana kutsal, Tanrı Oğlu denecek." (Luka 1.Bölüm) Esen
-      Kalın.
-    question: >-
-      İsa Mesih'e Neden Tanrı Oğlu Diyorsunuz ? İsa Mesih’i özel kılan tam
-      olarak nedir? İsa Mesih yaptığı mucizeleri ve belirtileri kimin gücüyle
-      yaptı? 
+      Hristiyanlık inancına göre İsa, Tanrı’nın sevgi olduğunu bize ileten, daha
+      önce Yasa (Şeriat) ile kurtulmaya çalışan ve Tanrı tarafından ödül olarak
+      cenneti edinmek için mükemmel bir kul olmaya gayret eden insana aslında
+      Tanrı sevgisinin herşeyin özü, değiştirici gücü olduğunu öğreten bir
+      kişiydi. İsa insan olarak öğrettiği bu üstün felsefesinin yanında çeşitli
+      mucizeleri ile de gündeme gelmiştir. Ama asıl onu eşsiz kılan ve diğer
+      bütün peygamberlerden ayıran özelliği doğa kanunları üzerindeki
+      yetkisidir. Yağmuru, fırtınayı, güneşi kontrolü altına alabilen bir kişi,
+      insan olamazdı. Bu yüzden Kilise, İsa’nın kim olduğunu daha iyi
+      açıklayabilmek ve insanlara bu doğruyu aktarabilmek adına “Üçlü birlik”
+      adı verilen bir teolojiyi vurgulamıştır. Buna göre Göksel Tanrı, Oğul
+      (İsa), ve Kutsal Ruh olmak üzere Yaratıcı kendisini üç şekilde ifşa etmiş
+      olur. Göksel Tanrı, Tek tanrıya inanan insanların aşina oldukları bir
+      kavram olup, Görünmeyen Tanrı’dır. Oğul kavramı ise, Tanrı’nın yeryüzünde
+      görünen ve şekil alıp insanların arasında yaşayan bir sureti olarak göze
+      çarpar. Bu durumda İsa’nın içindeki öz Tanrı olarak kabul edilmiş ve
+      dolayısıyla İsa’ya da tapınılmıştır. Bu konuda açıklayıcı programlarımızı
+      incelemek isterseniz aşağıdaki linklere tıklayabilirsiniz.
+    question: İsa Tanrı değildir.Buna Nasıl inanıyorsunuz?
     videos:
       - guests: .
         host: Hakan Taştan ile
@@ -315,22 +314,11 @@ questions:
           url: 'https://www.youtube.com/watch?v=bFT81Dw_bnc'
           viewCount: '2544'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. İncil Değiştirildi mi ve Kaç İncil Var? İncil'i Papazlar
-      mı değiştirdi? Tanrı sözünü koruyamadı mı? Aşağıdaki programlarımızı
-      izleyebilirsiniz.Esen Kalın.Bugüne kadar bu iddiayı doğrulayacak en ufak
-      bir kanıt bile gösterilememiştir. İncil, Tanrı Sözü'dür ve böylesi bir
-      kitabın değiştirildiğinin iddia edilebilmesi için çok sağlam kanıtlar
-      ortaya konulmalıdır. İncil'in binlerce tarihi elyazmaları günümüzde
-      mevcuttur ve elimizdeki İncil'den farklı değillerdir. Bugün arkeoloji
-      müzelerinde 5.000'den fazla Grekçe elyazmaları İncil metni ve 9.000'den
-      fazla farklı dillere çevrilmiş İncil elyazmaları vardır.  "Kutsal Yasa`yı
-      ya da peygamberlerin sözlerini geçersiz kılmak için geldiğimi sanmayın.
-      Ben geçersiz kılmaya değil, tamamlamaya geldim. Size doğrusunu söyleyeyim,
-      yer ve gök ortadan kalkmadan, her şey gerçekleşmeden, Kutsal Yasa`dan
-      ufacık bir harf ya da bir nokta bile yok olmayacak." (Matta 5:17-18)
-    question: İncil'in Değiştirildi Doğru mu ?
+      İncil kitabı değiştirilmiş olsa idi, günümüzde değişmemiş ve değişmiş
+      olmak üzere iki çeşit İncil bulunurdu ki böyle bir durum söz konusu
+      değildir. Bu konuda açıklayıcı programlarımızı incelemek isterseniz
+      aşağıdaki linklere tıklayabilirsiniz.
+    question: İncil Değiştirilmiştir. Neden halen inanıyorsunuz?
     videos:
       - guests: .
         host: Can Nuroğlu ile
@@ -407,26 +395,19 @@ questions:
           url: 'https://www.youtube.com/watch?v=3vZ5m_brbLM'
           viewCount: '8688'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. İbranice’de Kutsal Ruh’u anlatan kelime, “Ruakh” olarak
-      geçer ve enerji, nefes, rüzgar anlamına gelir. Durmayan, sürekli hareket
-      eden, yaratan, kontrol edilemeyen,  kısıtlanamayan bir güç.  Geçmişe
-      baktığımızda işleyişini ilk nerelerde görebiliriz? Tabi ki her şeyin
-      başında, Yaratılış’ın ilk paragrafında görebiliriz. Yaratılış 2’de, “Yer
-      boştu, yeryüzü şekilleri yoktu; engin karanlıklarla kaplıydı. Tanrı’nın
-      Ruhu suların üzerinde hareket ediyordu.” diye yazılmıştır. İşte Kutsal
-      Ruh; bu kaosun, boşluğun, biçimsizliğin içinden yaşam, düzen ve güzellik
-      yaratan Tanrı’nın Ruhu’dur.Kutsal Ruh Yaratılış’ta kaostan, boşluktan ve
-      biçimsizlikten; yaşam, düzen ve güzellik yaratıp şekillendirmişti. Şimdi
-      de doğrudan insana yaşam, düzen ve güzellik verip şekillendiriyor. Sonunda
-      her şeyi yenileyecekti. Peki nasıl yapacaktı bunu?  2000 yıl önce yemlikte
-      doğup büyüyen İsa’yı görüyoruz. Hizmetine başlamadan önce vaftiz olurken,
-      Kutsal Ruh’un bir güvercin gibi O’nun üzerine indiğini görüyoruz. Hem
-      Tanrı hem insan olan İsa’da, Tanrı’nın asıl amacını görebiliyoruz. İsyan
-      ve günahlarımızla bozduğumuz ve çürüttüğümüz her şeyi, işte İsa Mesih
-      aracığıyla Ruh yeniliyor ve şekillendiriyor.Esen Kalın.
-    question: Kutsal Ruh Nedir?
+      Hristiyanlar tarihin hiçbir döneminde “son din şu anda bizimkisi, en
+      geçerli din budur” söyleminde bulunmamışlardır. Hristiyanlık inancı
+      kişinin Tanrısal yolda değişmesini içeren, derin öğretişler barındıran bir
+      inanç olup, diğer dinlerle ve felsefelerle bir yarışmaya girmek istemez.
+      İsa’nın Tanrısal gücüne (onun dinine değil) sığınan bir varlık, Tanrı’nın
+      sevgisini kazanır. İnsanın bir dine değil, Tanrı ile kişisel bir ilişkiye
+      ve kötü düşüncelerden, düşmüş fikilerden (günahlı yaşamdan) kurtulmaya
+      ihtiyacı vardır. Bunun için Tanrı yeterli ve gerekli herşeyi göndermiştir.
+      İsa’nın çarmıhtaki ölümünün ötesinde bağışlayıcı hiçbir olay söz konusu
+      değildir ve olamaz. Dolayısıyla Hristiyanlar yeni bir din arayan bir
+      kişiler olmamıştır. Bu konuda açıklayıcı programlarımızı incelemek
+      isterseniz aşağıdaki linklere tıklayabilirsiniz.
+    question: Son din Hristiyanlık değildir. Neden halen buna inanıyorsunuz?
     videos:
       - guests: .
         host: Hakan Taştan ile
@@ -955,17 +936,22 @@ questions:
           url: 'https://www.youtube.com/watch?v=eqx0ZkQeTDA'
           viewCount: '1490'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. İncil Romalılar 10:8 ayette belirtildiği gibi "Ne
-      deniyor? “Tanrı sözü sana yakındır, Ağzında ve yüreğindedir.” İşte
-      duyurduğumuz iman sözü budur.İsa’nın Rab olduğunu ağzınla açıkça söyler ve
-      Tanrı’nın O’nu ölümden dirilttiğine yürekten iman edersen, kurtulacaksın.
-      Çünkü insan yürekten iman ederek aklanır, imanını ağzıyla açıklayarak
-      kurtulur.Kutsal Yazı, “O’na iman eden utandırılmayacak” diyor.Çünkü Yahudi
-      Grek ayrımı yoktur, aynı Rab hepsinin Rabbi’dir. Kendisini çağıranların
-      tümüne eliaçıktır. “Rab’bi adıyla çağıran herkes kurtulacak.”"
-    question: Mesih'te kurtuluş kesin mi ? Kurtuluş için bir şey yapmam gerekiyor mu?
+      İncil tektir. Herhangi bir büyük kitapçıya veya kütüphaneye gittiğinizde
+      “İncil okumak istiyorum” dediğinizde size tek bir İncil (Yeni Ahit)
+      verilecektir. İncil’in içinde değişik kişilerin (İslam’daki raviler gibi)
+      bildirimiyle yazılmış bölümler mevcuttur. Belki bundan ötürü olsa gerek
+      halk arasında “çok İncil var” diye bir söylem gelişmiştir. Oysa Matta,
+      Markos, Luka ve Yuhanna’nın yazmış olduğu bu kitapçıklar, ya da Pavlus’un
+      yazmış olduğu mektuplar, İncil kitabının içindeki BÖLÜMLERDİR. Daha önce
+      serbest halde ve ayrı ayrı kiliselerde okunan bu bölümler 3. Yüzyılda
+      Kilise tarafından İncil adı altında birleştirilmiş, tek kitap haline
+      dönüştürülmüştür. Bunu ansiklopedinin fasiküllerinin ciltlenip bir araya
+      getirilmesi işlemi de diyebiliriz. İncil’in içindeki bölümlerde
+      anlatılanlar bir bütünlük teşkil eder ve İsa’nın yaşamı, mucizeleri ve
+      felsefesi üzerinde anlatılardan oluşur. İncil, Tanrısal yolda ve imanda
+      gelişmek isteyen, Tanrı’yı ve insanlığın yaratılma amacını anlamaya
+      çalışan bir kişinin mutlaka okuması gereken bir kitaptır. 
+    question: Neden birçok İnciliniz var?
     videos:
       - guests: .
         host: Can Nuroğlu ile
@@ -1149,29 +1135,20 @@ questions:
           url: 'https://youtu.be/DanYnWZnKJY'
           viewCount: '430'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık.Adem ile Havva’nın, Aden Bahçesi’nde Tanrı’ya itaatsizlik
-      edip, ‘iyi ile kötüyü bilme’ ağacının meyvesinden yemesiyle, insan günaha
-      düşmüş oldu. Böylece insan doğasına, ‘günahlı’ bir doğa dahil oldu. İnsan
-      ilk yaratıldığı haldeki gibi kusursuz ve günahsız olan niteliklerini
-      kaybetti. Dahası, insanın günahlı doğaya sahip olmasıyla birlikte, Tanrı
-      ile arasındaki ilişki de bozuldu. “Adem, ‘Bahçede sesini duyunca korktum.
-      Çünkü çıplaktım, bu yüzden gizlendim’ dedi. RAB Tanrı, ‘Çıplak olduğunu
-      sana kim söyledi?’ diye sordu, ‘Sana meyvesini yeme dediğim ağaçtan mı
-      yedin?’” (Yaratılış 3:11-12)  Bundan sonra Yaratılış 3. bölümde Tanrı’nın
-      bir kurban kestiğini ve bu kurbanın derisinden Adem ile Havva için
-      giysiler yapıp onları giydirdiğini görüyoruz (bkz. Yaratılış 3:21).
-      Tanrı’nın insanın günahı için sağladığı kurban çarmıha gerilen İsa
-      Mesih’tir. Bunun dışındaki hiçbir kurban insanın günahını temiz kılamaz,
-      “Çünkü boğalarla tekelerin kanı günahları ortadan kaldıramaz.” (İbraniler
-      10:4) İlk kurbanı Tanrı kesmiştir ve bunu, ‘kurbanı’, Kendisinin tedarik
-      edeceğini belirtmek için yapmıştır. Son kurbanı da Tanrı kesmiştir, İsa
-      Mesih’in çarmıh üzerindeki ölümüyle insanın günahı temizlenmiş, üçüncü gün
-      ölümden dirilişiyle de günahın sonucu olan ölüm ortadan kalkmıştır. Artık
-      Tanrı’ya İsa Mesih’in kurbanı aracılığıyla yaklaşan hiç kimse üzerinde
-      günahın ve ölümün hükmü yoktur. Esen Kalın.
-    question: Hristiyanlıkta kurban var mı ? Son kurban nedir?
+      Günümüzde Barnabas deyince halkımız gizemli, saklı, üstü örtülü bir
+      kitabın varlığını hatırlıyor. Oysa Barnabas adı verilen şahıs İsa’dan
+      sonraki yüzyılda yaşamış bir iman adamıdır. Günümüzde “üstü örtülü”
+      denilen Barnabas adındaki kitap ise aslında gayet açık ve internette dahi
+      okunabilen bir metindir ve bu kitabın Mesih’in öğrencisi olan Barnabas ile
+      bir ilgisi yoktur. Bu konuda araştırma yapıldığında ve Barnabas İncili
+      adındaki metin okunduğunda içindeki çelişkiler göze çarpar. Tarihi
+      bilgiler eksiktir, özensizdir ve Hz. Muhammed’den bahseder. (Gerçek
+      Barnabas, Hz. Muhammed’den çok önce yaşamıştır). Bize göre bu metni
+      Hristiyan inancını Müslüman bakış açısı ile çarpıtmaya çalışan 17. Yüzyıl
+      yazarlarından birisi yazmış olup, kitabın adını Barnabas İncili koyarak
+      kendince ilgi çekmeye çalışmıştır. Bu konuda açıklayıcı programlarımızı
+      incelemek isterseniz aşağıdaki linklere tıklayabilirsiniz.
+    question: Barnabas İncil’i nerede saklıyorsunuz? Neden birçok İnciliniz var?
     videos:
       - guests: .
         host: 'Serdar Dedeoğlu ve Gülhan ile '
@@ -1430,15 +1407,13 @@ questions:
           url: 'https://www.youtube.com/watch?v=uKq_Ar4dyaQ'
           viewCount: '206'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Temel inanç öğretilerimiz arasında yer alan bir öğretiye
-      göre her iman eden kazancının bir kısmını müjdesel hizmetler için
-      kullanılmak üzere kilisesine vermektedir. Bu olay zorunlu veya belli bir
-      üyelik aidatı değil tümüyle kişinin imanının bir sonucudur. Kiliseler
-      ticari kurumlar değildir.Toplanan para İsa Mesih’in müjdesi ve merhamet
-      hizmetleri için değerlendirilir.
-    question: 'Sizi kim veya kimler Finanse ediyor ? Çalışıyor musunuz? '
+      Misyonerlik, İsa’nın özgür edici bilgisini, felsefesini ve müjdeli
+      kurtuluş haberini insanlara iletmeye çalışan insanlara verilen isimdir.
+      Türkçesi “hizmet eden/görevli” anlamına gelen bu terim maalesef
+      Türkiye’mizde yanlış anlamalara sebebiyet vermektedir. Gerçek misyonerler
+      tarihin her döneminde hastaneler, okullar, insanlık için yararlı şeyler
+      yapmışlar, İsa’nın “insanları sevin” emrini yerine getirmişlerdir. 
+    question: Siz misyonerlik mi yapıyorsunuz?
     videos:
       - guests: .
         host: Ahmet Güvener ile
