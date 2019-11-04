@@ -697,5 +697,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=UDENncaT3sU&list=PL8F7E18D33C4FACAA&index=44&t=0s
       viewCount: '1735'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT22M30S
+      id: 4zkZHXcGG_0
+      imageURL: 'https://i.ytimg.com/vi/4zkZHXcGG_0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T07:09:11.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Yetkiye Saygı Duymak Tanrı'nın Gözünde Bir Görevdir
+      url: >-
+        https://www.youtube.com/watch?v=4zkZHXcGG_0&list=PL8F7E18D33C4FACAA&index=45&t=0s
+      viewCount: '577'
 ---
 
