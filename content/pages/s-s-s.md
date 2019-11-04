@@ -5,26 +5,25 @@ template: SSS
 title: S. S. S.
 questions:
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık.. Aşağıdaki programlarımızı izleyerek aklınıza takılan
-      sorulara cevap bulabilirsiniz. İsa Mesih'in Tanrı Oğlu olarak
-      adlandırılması Hristiyanlar tarafından ortaya konan bir şey değildir. Bunu
-      ortaya koyan Kutsal Kitap'tır. Kutsal Kitap'ın bir çok yerinde İsa Mesih
-      bu adla tanıtılır. Tanrı Oğlu sıfatı fiziksel değil ruhsal bir sıfattır.
-      Dolayısıyla halkımız arasında süregelen ve kulaktan dolma bilgiler olan
-      Tanrı Oğlu kavramı hakkındaki diğer görüşleri kesinlikle reddederiz. 
-      "Melek ona, "Korkma Meryem” dedi, "Sen Tanrı`nın lütfuna eriştin. Bak,
-      gebe kalıp bir oğul doğuracak, adını İsa koyacaksın. O büyük olacak,
-      kendisine `Yüceler Yücesi`nin Oğlu` denecek.  Meryem meleğe, "Bu nasıl
-      olur? Ben erkeğe varmadım ki” dedi. Melek ona şöyle yanıt verdi: "Kutsal
-      Ruh senin üzerine gelecek, Yüceler Yücesi`nin gücü sana gölge salacak.
-      Bunun için doğacak olana kutsal, Tanrı Oğlu denecek." (Luka 1.Bölüm) Esen
-      Kalın.
-    question: >-
-      İsa Mesih'e Neden Tanrı Oğlu Diyorsunuz ? İsa Mesih’i özel kılan tam
-      olarak nedir? İsa Mesih yaptığı mucizeleri ve belirtileri kimin gücüyle
-      yaptı? 
+      Hristiyanlık inancına göre İsa, Tanrı’nın sevgi olduğunu bize ileten, daha
+      önce Yasa (Şeriat) ile kurtulmaya çalışan ve Tanrı tarafından ödül olarak
+      cenneti edinmek için mükemmel bir kul olmaya gayret eden insana aslında
+      Tanrı sevgisinin herşeyin özü, değiştirici gücü olduğunu öğreten bir
+      kişiydi. İsa insan olarak öğrettiği bu üstün felsefesinin yanında çeşitli
+      mucizeleri ile de gündeme gelmiştir. Ama asıl onu eşsiz kılan ve diğer
+      bütün peygamberlerden ayıran özelliği doğa kanunları üzerindeki
+      yetkisidir. Yağmuru, fırtınayı, güneşi kontrolü altına alabilen bir kişi,
+      insan olamazdı. Bu yüzden Kilise, İsa’nın kim olduğunu daha iyi
+      açıklayabilmek ve insanlara bu doğruyu aktarabilmek adına “Üçlü birlik”
+      adı verilen bir teolojiyi vurgulamıştır. Buna göre Göksel Tanrı, Oğul
+      (İsa), ve Kutsal Ruh olmak üzere Yaratıcı kendisini üç şekilde ifşa etmiş
+      olur. Göksel Tanrı, Tek tanrıya inanan insanların aşina oldukları bir
+      kavram olup, Görünmeyen Tanrı’dır. Oğul kavramı ise, Tanrı’nın yeryüzünde
+      görünen ve şekil alıp insanların arasında yaşayan bir sureti olarak göze
+      çarpar. Bu durumda İsa’nın içindeki öz Tanrı olarak kabul edilmiş ve
+      dolayısıyla İsa’ya da tapınılmıştır. Bu konuda açıklayıcı programlarımızı
+      incelemek isterseniz aşağıdaki linklere tıklayabilirsiniz.
+    question: İsa Tanrı değildir.Buna Nasıl inanıyorsunuz?
     videos:
       - guests: .
         host: Hakan Taştan ile
@@ -315,22 +314,11 @@ questions:
           url: 'https://www.youtube.com/watch?v=bFT81Dw_bnc'
           viewCount: '2544'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. İncil Değiştirildi mi ve Kaç İncil Var? İncil'i Papazlar
-      mı değiştirdi? Tanrı sözünü koruyamadı mı? Aşağıdaki programlarımızı
-      izleyebilirsiniz.Esen Kalın.Bugüne kadar bu iddiayı doğrulayacak en ufak
-      bir kanıt bile gösterilememiştir. İncil, Tanrı Sözü'dür ve böylesi bir
-      kitabın değiştirildiğinin iddia edilebilmesi için çok sağlam kanıtlar
-      ortaya konulmalıdır. İncil'in binlerce tarihi elyazmaları günümüzde
-      mevcuttur ve elimizdeki İncil'den farklı değillerdir. Bugün arkeoloji
-      müzelerinde 5.000'den fazla Grekçe elyazmaları İncil metni ve 9.000'den
-      fazla farklı dillere çevrilmiş İncil elyazmaları vardır.  "Kutsal Yasa`yı
-      ya da peygamberlerin sözlerini geçersiz kılmak için geldiğimi sanmayın.
-      Ben geçersiz kılmaya değil, tamamlamaya geldim. Size doğrusunu söyleyeyim,
-      yer ve gök ortadan kalkmadan, her şey gerçekleşmeden, Kutsal Yasa`dan
-      ufacık bir harf ya da bir nokta bile yok olmayacak." (Matta 5:17-18)
-    question: İncil'in Değiştirildi Doğru mu ?
+      İncil kitabı değiştirilmiş olsa idi, günümüzde değişmemiş ve değişmiş
+      olmak üzere iki çeşit İncil bulunurdu ki böyle bir durum söz konusu
+      değildir. Bu konuda açıklayıcı programlarımızı incelemek isterseniz
+      aşağıdaki linklere tıklayabilirsiniz.
+    question: İncil Değiştirilmiştir. Neden halen inanıyorsunuz?
     videos:
       - guests: .
         host: Can Nuroğlu ile
@@ -407,37 +395,34 @@ questions:
           url: 'https://www.youtube.com/watch?v=3vZ5m_brbLM'
           viewCount: '8688'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. İbranice’de Kutsal Ruh’u anlatan kelime, “Ruakh” olarak
-      geçer ve enerji, nefes, rüzgar anlamına gelir. Durmayan, sürekli hareket
-      eden, yaratan, kontrol edilemeyen,  kısıtlanamayan bir güç.  Geçmişe
-      baktığımızda işleyişini ilk nerelerde görebiliriz? Tabi ki her şeyin
-      başında, Yaratılış’ın ilk paragrafında görebiliriz. Yaratılış 2’de, “Yer
-      boştu, yeryüzü şekilleri yoktu; engin karanlıklarla kaplıydı. Tanrı’nın
-      Ruhu suların üzerinde hareket ediyordu.” diye yazılmıştır. İşte Kutsal
-      Ruh; bu kaosun, boşluğun, biçimsizliğin içinden yaşam, düzen ve güzellik
-      yaratan Tanrı’nın Ruhu’dur.Kutsal Ruh Yaratılış’ta kaostan, boşluktan ve
-      biçimsizlikten; yaşam, düzen ve güzellik yaratıp şekillendirmişti. Şimdi
-      de doğrudan insana yaşam, düzen ve güzellik verip şekillendiriyor. Sonunda
-      her şeyi yenileyecekti. Peki nasıl yapacaktı bunu?  2000 yıl önce yemlikte
-      doğup büyüyen İsa’yı görüyoruz. Hizmetine başlamadan önce vaftiz olurken,
-      Kutsal Ruh’un bir güvercin gibi O’nun üzerine indiğini görüyoruz. Hem
-      Tanrı hem insan olan İsa’da, Tanrı’nın asıl amacını görebiliyoruz. İsyan
-      ve günahlarımızla bozduğumuz ve çürüttüğümüz her şeyi, işte İsa Mesih
-      aracığıyla Ruh yeniliyor ve şekillendiriyor.Esen Kalın.
-    question: Kutsal Ruh Nedir?
+      Hristiyanlar tarihin hiçbir döneminde “son din şu anda bizimkisi, en
+      geçerli din budur” söyleminde bulunmamışlardır. Hristiyanlık inancı
+      kişinin Tanrısal yolda değişmesini içeren, derin öğretişler barındıran bir
+      inanç olup, diğer dinlerle ve felsefelerle bir yarışmaya girmek istemez.
+      İsa’nın Tanrısal gücüne (onun dinine değil) sığınan bir varlık, Tanrı’nın
+      sevgisini kazanır. İnsanın bir dine değil, Tanrı ile kişisel bir ilişkiye
+      ve kötü düşüncelerden, düşmüş fikilerden (günahlı yaşamdan) kurtulmaya
+      ihtiyacı vardır. Bunun için Tanrı yeterli ve gerekli herşeyi göndermiştir.
+      İsa’nın çarmıhtaki ölümünün ötesinde bağışlayıcı hiçbir olay söz konusu
+      değildir ve olamaz. Dolayısıyla Hristiyanlar yeni bir din arayan bir
+      kişiler olmamıştır. Bu konuda açıklayıcı programlarımızı incelemek
+      isterseniz aşağıdaki linklere tıklayabilirsiniz.
+    question: Son din Hristiyanlık değildir. Neden halen buna inanıyorsunuz?
     videos:
       - guests: .
-        host: Hakan Taştan ile
+        host: Can Nuroğlu ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            95-Gerçeğin Sesi - Kutsal Ruh Nedir?  
-
-            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
-            ışığında gerçekleştirdi "Gerçeğin Sesi" programını sayfamızdan takip
+            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Allah
+            Sevgidir" programını Kanal Hayat ekranından veya sayfamızdan takip
             edebilirsiniz.Esen Kalın.
+
+            Allah'ı tanımak mümkün mü ?
+
+            Allah mı ? Tanrı mı, Fark Eder mi ?
+
+            Allah'ın Özü Nedir?
 
             http://kanalhayat.tv/
 
@@ -446,24 +431,29 @@ questions:
             https://www.facebook.com/kanalhayat
 
             https://twitter.com/kanalhayat
-          duration: PT27M23S
-          id: bFT81Dw_bnc
-          imageURL: 'https://i.ytimg.com/vi/bFT81Dw_bnc/hqdefault.jpg'
+          duration: PT26M56S
+          id: UGz-6SwKUyE
+          imageURL: 'https://i.ytimg.com/vi/UGz-6SwKUyE/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2018-05-01T08:42:33.000Z'
-          tags: 'hristiyan,incil,kilise,#kutsal,#ruh'
-          title: 95-Gerçeğin Sesi - Kutsal Ruh Nedir?
-          url: 'https://www.youtube.com/watch?v=bFT81Dw_bnc'
-          viewCount: '2558'
+          publishedAt: '2014-04-01T11:39:22.000Z'
+          tags: >-
+            isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
+            Hayat,neler olacak,kutsal ruh,Mesih kimdi,Allah Sevgidir,Can
+            Nuroğlu,Allahı Tanımak
+          title: Allah Sevgidir - Allah'ı Nasıl Nitelendirebiliriz? - 5.Bölüm
+          url: 'https://www.youtube.com/watch?v=UGz-6SwKUyE '
+          viewCount: '1157'
       - guests: .
         host: Can Nuroğlu ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            2- Kutsal Ruh’un Gelişi
+            Hey Gavur! Anlatsana...
 
-            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
-            Doğuşu" programını sayfamızdan takip edebilirsiniz. 
+            Hristiyanlığın İslam'a bakışı
+
+            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur!
+            Anlatsana." programını sayfamızdan takip edebilirsiniz. 
 
             Esen Kalın.
 
@@ -474,29 +464,49 @@ questions:
             https://www.facebook.com/kanalhayat
 
             https://twitter.com/kanalhayat
-          duration: PT28M35S
-          id: nm--RNjJkyQ
-          imageURL: 'https://i.ytimg.com/vi/nm--RNjJkyQ/hqdefault.jpg'
+          duration: PT25M22S
+          id: 5Q_1qY_kKg4
+          imageURL: 'https://i.ytimg.com/vi/5Q_1qY_kKg4/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2016-01-19T07:58:37.000Z'
-          tags: 'kutsal,ruhun,etkin,oluşu,gelişi'
-          title: Kilisenin Doğuşu - Kutsal Ruh’un Gelişi 2.Bölüm
-          url: 'https://www.youtube.com/watch?v=nm--RNjJkyQ'
-          viewCount: '3645'
+          publishedAt: '2013-04-04T21:06:29.000Z'
+          tags: >-
+            Kutsal,hristiyanlık,ahiret,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,kutsal
+            ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
+            butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
+            Hayat,Pusula,kiyamet gunu,gavur
+          title: Hey Gavur! Anlatsana - Hristiyanlığın İslam'a Bakışı 7.Bölüm
+          url: 'https://www.youtube.com/watch?v=5Q_1qY_kKg4  '
+          viewCount: '65334'
       - guests: .
-        host: Işık Abla ve Memduh Uysal ile
+        host: Can Nuroğlu ile
         targetGroup: Herkes
         youtubeURL:
-          description: ''
-          duration: PT29M25S
-          id: kFqoAbWGToo
-          imageURL: 'https://i.ytimg.com/vi/kFqoAbWGToo/hqdefault.jpg'
+          description: >-
+            Tanrı'yı sorgulamak günah mı? - [Sorgulayan Gelsin 01]
+
+            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Sorgulayan
+            Gelsin" programını sayfamızdan takip edebilirsiniz. 
+
+            Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M6S
+          id: 5Qe7222lmbA
+          imageURL: 'https://i.ytimg.com/vi/5Qe7222lmbA/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2013-07-11T08:23:33.000Z'
-          tags: kutsal ruh
-          title: 11. Bölüm Kutsal Ruh'a Nasıl Sahip Olabiliriz?
-          url: 'https://www.youtube.com/watch?v=kFqoAbWGToo'
-          viewCount: '6633'
+          publishedAt: '2017-11-01T08:57:18.000Z'
+          tags: >-
+            Hristiyan,Hristiyanlık,#sorgulayan,#gelsin,#tanrıyı,#sorgulamak,#günah,#mı?
+          title: 'Tanrı''yı sorgulamak günah mı? - [Sorgulayan Gelsin 01]'
+          url: 'https://www.youtube.com/watch?v=5Qe7222lmbA '
+          viewCount: '6895'
   - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. Hristiyanlar kendi doğruluklarıyla değil, Tanrı''nın lütfuyla aklanmış  olan kutsallardır. Mesih İsa Hristiyanların önderi ve rehberidir. Hristiyanlar içlerinde bulunan Kutsal Ruh''un yardımıyla gün ve gün Mesih''e benzer olmak üzere değişirler. Bu değişim Mesih''e bakarak ve O''nda kavuşmuş oldukları yeni doğaya fark ederek gerçekleşir. Hristiyan ahlakının temelinde Mesih benim yerimde olsa ne yapardı sorusunun yanıtı yatar.  Hristiyanlar yaşamlarıyla İsa Mesih''i bu dünyadaki diğer insanlara yansıtır ve tanıtırlar. Kutsallık, Mesih''in lütfu aracılığıyla iman edildiğinde birden kavuşulan ama buna uygun düzeyde bir yaşam sürmek için bir yaşam boyu süren bir değişimdir. Kişi Mesih''in lütfu aracılığıyla  kavuşmuş olduğu kutsallığı, yani yeni doğasını fark ettikçe bu değişim hızlanır. Değişimin güç kaynağı Kutsal Ruh''tur. Esen Kalın.'
     question: Hristiyan Ahlakı ve İbadeti Nasıldır?
     videos:
@@ -955,53 +965,37 @@ questions:
           url: 'https://www.youtube.com/watch?v=eqx0ZkQeTDA'
           viewCount: '1490'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. İncil Romalılar 10:8 ayette belirtildiği gibi "Ne
-      deniyor? “Tanrı sözü sana yakındır, Ağzında ve yüreğindedir.” İşte
-      duyurduğumuz iman sözü budur.İsa’nın Rab olduğunu ağzınla açıkça söyler ve
-      Tanrı’nın O’nu ölümden dirilttiğine yürekten iman edersen, kurtulacaksın.
-      Çünkü insan yürekten iman ederek aklanır, imanını ağzıyla açıklayarak
-      kurtulur.Kutsal Yazı, “O’na iman eden utandırılmayacak” diyor.Çünkü Yahudi
-      Grek ayrımı yoktur, aynı Rab hepsinin Rabbi’dir. Kendisini çağıranların
-      tümüne eliaçıktır. “Rab’bi adıyla çağıran herkes kurtulacak.”"
-    question: Mesih'te kurtuluş kesin mi ? Kurtuluş için bir şey yapmam gerekiyor mu?
+      İncil tektir. Herhangi bir büyük kitapçıya veya kütüphaneye gittiğinizde
+      “İncil okumak istiyorum” dediğinizde size tek bir İncil (Yeni Ahit)
+      verilecektir. İncil’in içinde değişik kişilerin (İslam’daki raviler gibi)
+      bildirimiyle yazılmış bölümler mevcuttur. Belki bundan ötürü olsa gerek
+      halk arasında “çok İncil var” diye bir söylem gelişmiştir. Oysa Matta,
+      Markos, Luka ve Yuhanna’nın yazmış olduğu bu kitapçıklar, ya da Pavlus’un
+      yazmış olduğu mektuplar, İncil kitabının içindeki BÖLÜMLERDİR. Daha önce
+      serbest halde ve ayrı ayrı kiliselerde okunan bu bölümler 3. Yüzyılda
+      Kilise tarafından İncil adı altında birleştirilmiş, tek kitap haline
+      dönüştürülmüştür. Bunu ansiklopedinin fasiküllerinin ciltlenip bir araya
+      getirilmesi işlemi de diyebiliriz. İncil’in içindeki bölümlerde
+      anlatılanlar bir bütünlük teşkil eder ve İsa’nın yaşamı, mucizeleri ve
+      felsefesi üzerinde anlatılardan oluşur. İncil, Tanrısal yolda ve imanda
+      gelişmek isteyen, Tanrı’yı ve insanlığın yaratılma amacını anlamaya
+      çalışan bir kişinin mutlaka okuması gereken bir kitaptır. 
+    question: Neden birçok İnciliniz var?
     videos:
       - guests: .
         host: Can Nuroğlu ile
         targetGroup: Herkes
         youtubeURL:
-          description: >-
-            Hey Gavur! Anlatsana...
-
-            Hristiyanlıkta Kurtuluş
-
-            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur!
-            Anlatsana." programını sayfamızdan takip edebilirsiniz. 
-
-            Esen Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT27M50S
-          id: wHEozNYEmhk
-          imageURL: 'https://i.ytimg.com/vi/wHEozNYEmhk/hqdefault.jpg'
+          description: Hristiyan İnanç Savunması Bölüm 4
+          duration: PT29M
+          id: VRd8q5xI33I
+          imageURL: 'https://i.ytimg.com/vi/VRd8q5xI33I/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2013-04-16T12:48:30.000Z'
-          tags: >-
-            Kutsal,hristiyanlık,ahiret,hz
-            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,kutsal
-            ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
-            butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
-            Hayat,Pusula,kiyamet gunu,gavur
-          title: Hey Gavur! Anlatsana - Hristiyanlıkta Kurtuluş 5.Bölüm
-          url: 'https://www.youtube.com/watch?v=wHEozNYEmhk'
-          viewCount: '4361'
+          publishedAt: '2018-07-24T02:32:45.000Z'
+          tags: Hristiyan
+          title: Hristiyan inancı ve İncil Metinleri
+          url: 'https://www.youtube.com/watch?v=VRd8q5xI33I '
+          viewCount: '1921'
       - guests: .
         host: Ahmet Güvener ile
         targetGroup: Herkes
@@ -1149,103 +1143,83 @@ questions:
           url: 'https://youtu.be/DanYnWZnKJY'
           viewCount: '430'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık.Adem ile Havva’nın, Aden Bahçesi’nde Tanrı’ya itaatsizlik
-      edip, ‘iyi ile kötüyü bilme’ ağacının meyvesinden yemesiyle, insan günaha
-      düşmüş oldu. Böylece insan doğasına, ‘günahlı’ bir doğa dahil oldu. İnsan
-      ilk yaratıldığı haldeki gibi kusursuz ve günahsız olan niteliklerini
-      kaybetti. Dahası, insanın günahlı doğaya sahip olmasıyla birlikte, Tanrı
-      ile arasındaki ilişki de bozuldu. “Adem, ‘Bahçede sesini duyunca korktum.
-      Çünkü çıplaktım, bu yüzden gizlendim’ dedi. RAB Tanrı, ‘Çıplak olduğunu
-      sana kim söyledi?’ diye sordu, ‘Sana meyvesini yeme dediğim ağaçtan mı
-      yedin?’” (Yaratılış 3:11-12)  Bundan sonra Yaratılış 3. bölümde Tanrı’nın
-      bir kurban kestiğini ve bu kurbanın derisinden Adem ile Havva için
-      giysiler yapıp onları giydirdiğini görüyoruz (bkz. Yaratılış 3:21).
-      Tanrı’nın insanın günahı için sağladığı kurban çarmıha gerilen İsa
-      Mesih’tir. Bunun dışındaki hiçbir kurban insanın günahını temiz kılamaz,
-      “Çünkü boğalarla tekelerin kanı günahları ortadan kaldıramaz.” (İbraniler
-      10:4) İlk kurbanı Tanrı kesmiştir ve bunu, ‘kurbanı’, Kendisinin tedarik
-      edeceğini belirtmek için yapmıştır. Son kurbanı da Tanrı kesmiştir, İsa
-      Mesih’in çarmıh üzerindeki ölümüyle insanın günahı temizlenmiş, üçüncü gün
-      ölümden dirilişiyle de günahın sonucu olan ölüm ortadan kalkmıştır. Artık
-      Tanrı’ya İsa Mesih’in kurbanı aracılığıyla yaklaşan hiç kimse üzerinde
-      günahın ve ölümün hükmü yoktur. Esen Kalın.
-    question: Hristiyanlıkta kurban var mı ? Son kurban nedir?
+      Günümüzde Barnabas deyince halkımız gizemli, saklı, üstü örtülü bir
+      kitabın varlığını hatırlıyor. Oysa Barnabas adı verilen şahıs İsa’dan
+      sonraki yüzyılda yaşamış bir iman adamıdır. Günümüzde “üstü örtülü”
+      denilen Barnabas adındaki kitap ise aslında gayet açık ve internette dahi
+      okunabilen bir metindir ve bu kitabın Mesih’in öğrencisi olan Barnabas ile
+      bir ilgisi yoktur. Bu konuda araştırma yapıldığında ve Barnabas İncili
+      adındaki metin okunduğunda içindeki çelişkiler göze çarpar. Tarihi
+      bilgiler eksiktir, özensizdir ve Hz. Muhammed’den bahseder. (Gerçek
+      Barnabas, Hz. Muhammed’den çok önce yaşamıştır). Bize göre bu metni
+      Hristiyan inancını Müslüman bakış açısı ile çarpıtmaya çalışan 17. Yüzyıl
+      yazarlarından birisi yazmış olup, kitabın adını Barnabas İncili koyarak
+      kendince ilgi çekmeye çalışmıştır. Bu konuda açıklayıcı programlarımızı
+      incelemek isterseniz aşağıdaki linklere tıklayabilirsiniz.
+    question: Barnabas İncil’i nerede saklıyorsunuz? Neden birçok İnciliniz var?
     videos:
       - guests: .
-        host: 'Serdar Dedeoğlu ve Gülhan ile '
-        targetGroup: Herkes
-        youtubeURL:
-          description: Açıklama
-          duration: PT28M11S
-          id: HCPthLmYOGs
-          imageURL: 'https://i.ytimg.com/vi/HCPthLmYOGs/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2015-05-29T06:47:17.000Z'
-          tags: çarmıh
-          title: 20. Bölüm Kurban ve Çarmıh
-          url: 'https://www.youtube.com/watch?v=HCPthLmYOGs'
-          viewCount: '333'
-      - guests: .
-        host: Zekeriya Butrus ile
+        host: 'Hakan Taştan ile '
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize
-            sorduğumuz pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı
-            sayfamızdan takip edebilirsiniz.
+            Barnabas İncili Sahte mi?
 
-            Tanrı var mı ? 
+            Pastor Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
 
-            Tanrı Oğlu Ne Demek?
-
-            Hristiyanlık Kavramı Nedir?
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT29M1S
-          id: 077Kd8FcflA
-          imageURL: 'https://i.ytimg.com/vi/077Kd8FcflA/hqdefault.jpg'
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+          duration: PT27M55S
+          id: mMfB4Oio4Tc
+          imageURL: 'https://i.ytimg.com/vi/mMfB4Oio4Tc/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2011-11-10T11:15:51.000Z'
+          publishedAt: '2018-06-29T07:08:18.000Z'
+          tags: 'hristiyan,#isa #mesih #kimdir #barnabas #incil'
+          title: 'Barnabas İncili Sahte mi? [119]'
+          url: 'https://www.youtube.com/watch?v=mMfB4Oio4Tc '
+          viewCount: '2277'
+      - guests: .
+        host: Can Nuroğlu ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: Hristiyan İnanç Savunması Bölüm 4
+          duration: PT29M
+          id: VRd8q5xI33I
+          imageURL: 'https://i.ytimg.com/vi/VRd8q5xI33I/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2018-07-24T02:32:45.000Z'
+          tags: Hristiyan
+          title: Hristiyan inancı ve İncil Metinleri
+          url: 'https://www.youtube.com/watch?v=VRd8q5xI33I'
+          viewCount: '1921'
+      - guests: .
+        host: Hakan Taştan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            7. Bölüm: Barnaba İncili Nedir ve İznik Konseyinde Neler Oldu?
+
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
+
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
+
+            Esen Kalın.
+          duration: PT28M
+          id: XF31_gse7_M
+          imageURL: 'https://i.ytimg.com/vi/XF31_gse7_M/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-11-12T08:14:30.000Z'
           tags: >-
-            Hristiyanlık,hristiyan,hz
-            isa,peygamber,allah,tanrı,kiyamet,ahiret,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,İman,Hz.,İsa,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
-          title: 13. Bölüm (İsa'nın kurban edilmesi)
-          url: 'https://www.youtube.com/watch?v=077Kd8FcflA'
-          viewCount: '1187'
-      - guests: .
-        host: Ahmet Güvener ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
-            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın
-            Müjdelediği Mesih" programını sayfamızdan takip edebilirsiniz.Esen
-            Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT28M15S
-          id: 3jHwYZ63aXc
-          imageURL: 'https://i.ytimg.com/vi/3jHwYZ63aXc/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2017-09-20T09:59:00.000Z'
-          tags: 'kurban,mesih,isa'
-          title: Tevrat'ın Müjdelediği Mesih - Fısıh Kurbanı Mesih 38.Bölüm
-          url: 'https://www.youtube.com/watch?v=3jHwYZ63aXc'
-          viewCount: '382'
+            hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa
+            mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
+            stanley,joyce meyer,ışık abla,güçlü
+            erman,protestan,protestanlar,Barnaba,Kanal Hayat
+          title: '7. Bölüm: Barnaba İncili Nedir ve İznik Konseyinde Neler Oldu?'
+          url: 'https://youtu.be/XF31_gse7_M'
+          viewCount: '9091'
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
@@ -1430,27 +1404,41 @@ questions:
           url: 'https://www.youtube.com/watch?v=uKq_Ar4dyaQ'
           viewCount: '206'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Temel inanç öğretilerimiz arasında yer alan bir öğretiye
-      göre her iman eden kazancının bir kısmını müjdesel hizmetler için
-      kullanılmak üzere kilisesine vermektedir. Bu olay zorunlu veya belli bir
-      üyelik aidatı değil tümüyle kişinin imanının bir sonucudur. Kiliseler
-      ticari kurumlar değildir.Toplanan para İsa Mesih’in müjdesi ve merhamet
-      hizmetleri için değerlendirilir.
-    question: 'Sizi kim veya kimler Finanse ediyor ? Çalışıyor musunuz? '
+      Misyonerlik, İsa’nın özgür edici bilgisini, felsefesini ve müjdeli
+      kurtuluş haberini insanlara iletmeye çalışan insanlara verilen isimdir.
+      Türkçesi “hizmet eden/görevli” anlamına gelen bu terim maalesef
+      Türkiye’mizde yanlış anlamalara sebebiyet vermektedir. Gerçek misyonerler
+      tarihin her döneminde hastaneler, okullar, insanlık için yararlı şeyler
+      yapmışlar, İsa’nın “insanları sevin” emrini yerine getirmişlerdir. 
+    question: Siz misyonerlik mi yapıyorsunuz?
     videos:
       - guests: .
         host: Ahmet Güvener ile
         targetGroup: Herkes
         youtubeURL:
+          description: Sokağın Dili
+          duration: PT30M10S
+          id: x-ukMPVRfyg
+          imageURL: 'https://i.ytimg.com/vi/x-ukMPVRfyg/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2015-01-13T08:25:01.000Z'
+          tags: 'misyoner,kime,denir?'
+          title: Sokağın Dili - Misyoner kime denir? 2.Bölüm
+          url: 'https://www.youtube.com/watch?v=x-ukMPVRfyg'
+          viewCount: '596'
+      - guests: .
+        host: Can Nuroğlu ile
+        targetGroup: Herkes
+        youtubeURL:
           description: >-
-            Maddi Sunular ve Ondalık
+            Hey Gavur! Anlatsana... 
 
-            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
-            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan
-            Şeriatı" programını Kanal Hayat ekranından veya youtube sayfamızdan
-            takip edebilirsiniz.
+            Misyonerler ve Hristiyanların Çıkardığı Savaşlar
+
+            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur!
+            Anlatsana." programını sayfamızdan takip edebilirsiniz. 
+
+            Esen Kalın.
 
             http://kanalhayat.tv/
 
@@ -1459,55 +1447,43 @@ questions:
             https://www.facebook.com/kanalhayat
 
             https://twitter.com/kanalhayat
-          duration: PT27M18S
-          id: AXRb4lLFWrY
-          imageURL: 'https://i.ytimg.com/vi/AXRb4lLFWrY/hqdefault.jpg'
+          duration: PT28M18S
+          id: 5OaUWWmnzSQ
+          imageURL: 'https://i.ytimg.com/vi/5OaUWWmnzSQ/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-10-08T07:52:57.000Z'
+          publishedAt: '2013-02-10T18:58:28.000Z'
           tags: >-
-            maddi,sunular,ondalık,masraflar,ödemeler,kilise,masrafları,misyonerler,türkiye,kktc,iman,şeriat
-          title: 75- Maddi Sunular ve Ondalık - Hristiyan Şeriatı
-          url: 'https://www.youtube.com/watch?v=AXRb4lLFWrY'
-          viewCount: '136'
+            isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+          title: >-
+            Hey Gavur! Anlatsana - Misyonerler ve Hristiyanların Çıkardığı
+            Savaşlar 2.Bölüm
+          url: 'https://www.youtube.com/watch?v=5OaUWWmnzSQ'
+          viewCount: '6155'
       - guests: .
-        host: Güçlü Erman ile
+        host: Hakan Taştan ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            Pastör Güçlü Erman'ın konuklarıyla birlikte birbirinden farklı
-            konuları sizler için  sunduğu "UYANIŞ" programını sayfamızdan takip
-            edebilirsiniz.Esen Kalın.
+            15. Bölüm: Haçlı Seferleri Ve Misyonerlik Nedir?
 
-            http://kanalhayat.tv/
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
 
-            http://www.youtube.com/kanalhayatplay
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
 
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT28M41S
-          id: 5-FwaCl3W6Q
-          imageURL: 'https://i.ytimg.com/vi/5-FwaCl3W6Q/hqdefault.jpg'
+            Esen Kalın.
+          duration: PT25M1S
+          id: L-ISg7R_coY
+          imageURL: 'https://i.ytimg.com/vi/L-ISg7R_coY/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2017-03-09T13:51:02.000Z'
-          tags: ondalık
-          title: UYANIŞ (Neden Ondalık? 1 - HD) Pastör Güçlü Erman
-          url: 'https://youtu.be/5-FwaCl3W6Q'
-          viewCount: '214'
-      - guests: .
-        host: Ali Kalkandelen ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ''
-          duration: PT29M26S
-          id: YFc_p3i6ABY
-          imageURL: 'https://i.ytimg.com/vi/YFc_p3i6ABY/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2013-09-10T06:48:02.000Z'
-          tags: Para Konusu
-          title: 64. Bölüm Hristiyanlıkta ve Kilisede Para Konusu
-          url: 'https://www.youtube.com/watch?v=YFc_p3i6ABY'
-          viewCount: '227'
+          publishedAt: '2012-12-06T07:57:14.000Z'
+          tags: >-
+            hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa mesih,mesih,Rab,Allah,Turkey,Istanbul,Asker
+          title: '15. Bölüm: Haçlı Seferleri Ve Misyonerlik Nedir?'
+          url: 'https://www.youtube.com/watch?v=L-ISg7R_coY'
+          viewCount: '2148'
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
@@ -1658,88 +1634,65 @@ questions:
       benzeyen ikinci buyruk da şudur: `Komşunu kendin gibi seveceksin.` Kutsal
       Yasa`nın tümü ve peygamberlerin sözleri bu iki buyruğa dayanır.” (Matta
       22:35-40) Esen Kalın.
-    question: İncil'de Hangi Buyruklar Var?
+    question: Avrupa Hristiyanlığı Bırakırken siz neden inanıyorsunuz?
     videos:
       - guests: .
         host: Hakan Taştan ile
         targetGroup: Herkes
         youtubeURL:
-          description: >-
-            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
-            ışığında gerçekleştirdi 
-
-            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
-
-            Esen Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT28M58S
-          id: yRTt3isvbmo
-          imageURL: 'https://i.ytimg.com/vi/yRTt3isvbmo/hqdefault.jpg'
+          description: Gerçeğin Sesi - Hakan Taştan
+          duration: PT29M20S
+          id: XMnzZ_y1-oc
+          imageURL: 'https://i.ytimg.com/vi/XMnzZ_y1-oc/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2015-09-11T07:01:26.000Z'
-          tags: >-
-            isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
-            Hayat,neler olacak,kutsal ruh,Mesih kimdi,Hakan Tastan
-          title: 'Gerçeğin Sesi - Tanrı Yolunda Yürümek Nedir? [52]'
-          url: 'https://www.youtube.com/watch?v=yRTt3isvbmo'
-          viewCount: '3036'
+          publishedAt: '2018-05-29T08:23:37.000Z'
+          tags: 'batı,kültürü,ve,hristiyanlık'
+          title: 'Gerçeğin Sesi - Batı Kültürü ve Gerçek Hristiyanlık [109]'
+          url: 'https://www.youtube.com/watch?v=XMnzZ_y1-oc '
+          viewCount: '841'
       - guests: .
-        host: İhsan Özbek ile
+        host: Serdar Dedeoğlu ile
         targetGroup: Herkes
         youtubeURL:
-          description: |-
-            Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
-            dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
-            yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
-            Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
-            yanıtlıyor.Sakın kaçırmayın.
-            http://kanalhayat.tv/
-            http://www.youtube.com/kanalhayatplay
-            https://www.facebook.com/kanalhayat
-            https://twitter.com/kanalhayat
-          duration: PT27M35S
-          id: r3ziPlNoXYg
-          imageURL: 'https://i.ytimg.com/vi/r3ziPlNoXYg/hqdefault.jpg'
+          description: Açıklama
+          duration: PT27M7S
+          id: tbIzCkoXTtI
+          imageURL: 'https://i.ytimg.com/vi/tbIzCkoXTtI/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2014-11-14T09:14:23.000Z'
-          tags: '#yeniden,#doğmak,Gerek'
-          title: 8. Bölüm Yeniden Doğmak Gerek
-          url: 'https://www.youtube.com/watch?v=r3ziPlNoXYg'
-          viewCount: '348'
+          publishedAt: '2015-07-20T08:53:37.000Z'
+          tags: Sorularla Hristiyanlık 1
+          title: 26. Bölüm Sorularla Hristiyanlık 1
+          url: 'https://www.youtube.com/watch?v=tbIzCkoXTtI  '
+          viewCount: '722'
       - guests: ''
-        host: Joyce Meyer ile
+        host: Can Nuroğlu ile
         targetGroup: Herkes
         youtubeURL:
-          description: ''
-          duration: PT24M34S
-          id: wQDreLqXwLc
-          imageURL: 'https://i.ytimg.com/vi/wQDreLqXwLc/hqdefault.jpg'
+          description: >-
+            Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+            ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal
+            Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen
+            Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT27M11S
+          id: UzotzuYs8m0
+          imageURL: 'https://i.ytimg.com/vi/UzotzuYs8m0/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2017-10-23T06:45:59.000Z'
-          tags: 'cesurca,yaşamak'
-          title: 1096 1 Cesurca Yaşamak 1
-          url: 'https://www.youtube.com/watch?v=wQDreLqXwLc'
-          viewCount: '144'
-      - guests: .
-        host: Güçlü Erman ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: Pastör Güçlü Erman
-          duration: PT28M28S
-          id: GCVhjZY_F1Y
-          imageURL: 'https://i.ytimg.com/vi/GCVhjZY_F1Y/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2016-04-27T09:17:21.000Z'
-          tags: buyruk
-          title: UYANIŞ - Babalara Buyruklar 1
-          url: 'https://youtu.be/GCVhjZY_F1Y'
-          viewCount: '256'
+          publishedAt: '2019-01-22T11:46:08.000Z'
+          tags: >-
+            hristiyan,ahlakına,giriş
+            nedir?,günah,helal,haram,para,faiz,borç,cinsellik,din,müslümanlık,müslüman,ehli
+            sünnet,sahipleri,cemaat,muhammet,Rab,isa mesih kimdir?,incil okdunuz
+            mu?
+          title: Hristiyan Ahlakı - Hristiyan Ahlakına Giriş
+          url: 'https://youtu.be/UzotzuYs8m0'
+          viewCount: '1169'
 ---
 
