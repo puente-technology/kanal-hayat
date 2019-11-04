@@ -659,5 +659,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=5FQPBw72ARw&list=PL8F7E18D33C4FACAA&index=42&t=0s
       viewCount: '807'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: Mükemmeliğin Ardından Gitmek 2
+      duration: PT25M11S
+      id: 7HwioK4CqUw
+      imageURL: 'https://i.ytimg.com/vi/7HwioK4CqUw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T07:07:41.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Mükemmeliğin Ardından Gitmek 2
+      url: >-
+        https://www.youtube.com/watch?v=7HwioK4CqUw&list=PL8F7E18D33C4FACAA&index=43&t=0s
+      viewCount: '689'
 ---
 
