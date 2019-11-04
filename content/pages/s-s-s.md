@@ -936,17 +936,22 @@ questions:
           url: 'https://www.youtube.com/watch?v=eqx0ZkQeTDA'
           viewCount: '1490'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. İncil Romalılar 10:8 ayette belirtildiği gibi "Ne
-      deniyor? “Tanrı sözü sana yakındır, Ağzında ve yüreğindedir.” İşte
-      duyurduğumuz iman sözü budur.İsa’nın Rab olduğunu ağzınla açıkça söyler ve
-      Tanrı’nın O’nu ölümden dirilttiğine yürekten iman edersen, kurtulacaksın.
-      Çünkü insan yürekten iman ederek aklanır, imanını ağzıyla açıklayarak
-      kurtulur.Kutsal Yazı, “O’na iman eden utandırılmayacak” diyor.Çünkü Yahudi
-      Grek ayrımı yoktur, aynı Rab hepsinin Rabbi’dir. Kendisini çağıranların
-      tümüne eliaçıktır. “Rab’bi adıyla çağıran herkes kurtulacak.”"
-    question: Mesih'te kurtuluş kesin mi ? Kurtuluş için bir şey yapmam gerekiyor mu?
+      İncil tektir. Herhangi bir büyük kitapçıya veya kütüphaneye gittiğinizde
+      “İncil okumak istiyorum” dediğinizde size tek bir İncil (Yeni Ahit)
+      verilecektir. İncil’in içinde değişik kişilerin (İslam’daki raviler gibi)
+      bildirimiyle yazılmış bölümler mevcuttur. Belki bundan ötürü olsa gerek
+      halk arasında “çok İncil var” diye bir söylem gelişmiştir. Oysa Matta,
+      Markos, Luka ve Yuhanna’nın yazmış olduğu bu kitapçıklar, ya da Pavlus’un
+      yazmış olduğu mektuplar, İncil kitabının içindeki BÖLÜMLERDİR. Daha önce
+      serbest halde ve ayrı ayrı kiliselerde okunan bu bölümler 3. Yüzyılda
+      Kilise tarafından İncil adı altında birleştirilmiş, tek kitap haline
+      dönüştürülmüştür. Bunu ansiklopedinin fasiküllerinin ciltlenip bir araya
+      getirilmesi işlemi de diyebiliriz. İncil’in içindeki bölümlerde
+      anlatılanlar bir bütünlük teşkil eder ve İsa’nın yaşamı, mucizeleri ve
+      felsefesi üzerinde anlatılardan oluşur. İncil, Tanrısal yolda ve imanda
+      gelişmek isteyen, Tanrı’yı ve insanlığın yaratılma amacını anlamaya
+      çalışan bir kişinin mutlaka okuması gereken bir kitaptır. 
+    question: Neden birçok İnciliniz var?
     videos:
       - guests: .
         host: Can Nuroğlu ile
@@ -1402,15 +1407,13 @@ questions:
           url: 'https://www.youtube.com/watch?v=uKq_Ar4dyaQ'
           viewCount: '206'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Temel inanç öğretilerimiz arasında yer alan bir öğretiye
-      göre her iman eden kazancının bir kısmını müjdesel hizmetler için
-      kullanılmak üzere kilisesine vermektedir. Bu olay zorunlu veya belli bir
-      üyelik aidatı değil tümüyle kişinin imanının bir sonucudur. Kiliseler
-      ticari kurumlar değildir.Toplanan para İsa Mesih’in müjdesi ve merhamet
-      hizmetleri için değerlendirilir.
-    question: 'Sizi kim veya kimler Finanse ediyor ? Çalışıyor musunuz? '
+      Misyonerlik, İsa’nın özgür edici bilgisini, felsefesini ve müjdeli
+      kurtuluş haberini insanlara iletmeye çalışan insanlara verilen isimdir.
+      Türkçesi “hizmet eden/görevli” anlamına gelen bu terim maalesef
+      Türkiye’mizde yanlış anlamalara sebebiyet vermektedir. Gerçek misyonerler
+      tarihin her döneminde hastaneler, okullar, insanlık için yararlı şeyler
+      yapmışlar, İsa’nın “insanları sevin” emrini yerine getirmişlerdir. 
+    question: Siz misyonerlik mi yapıyorsunuz?
     videos:
       - guests: .
         host: Ahmet Güvener ile
