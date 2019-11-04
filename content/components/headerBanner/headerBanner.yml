@@ -1,13 +1,13 @@
 list:
   - image: /images/uploads/hakkımızda-banner-1.jpg
     title: KANAL HAYAT HAKKINDA
-  - image: /images/uploads/iletişim-1.jpg
+  - image: /images/uploads/iletişim-1.png
     title: İletişim
   - image: 'https://i.ibb.co/xHDqcZm/km.png'
     title: Test
   - image: 'https://i.ibb.co/xHDqcZm/km.png'
     title: Test2
-  - image: /images/uploads/adrian.png
+  - image: /images/uploads/addriann.png
     title: Yayın Akışı
   - image: /images/uploads/sunucular.png
     title: Seriler
