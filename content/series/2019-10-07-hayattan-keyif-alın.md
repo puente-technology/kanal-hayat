@@ -716,5 +716,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=4zkZHXcGG_0&list=PL8F7E18D33C4FACAA&index=45&t=0s
       viewCount: '577'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT21M43S
+      id: YvVOJOhg2U8
+      imageURL: 'https://i.ytimg.com/vi/YvVOJOhg2U8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T07:40:41.000Z'
+      tags: >-
+        İlişkilerimizi,Geliştirmek,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: İlişkilerimizi Geliştirmek 1
+      url: >-
+        https://www.youtube.com/watch?v=YvVOJOhg2U8&list=PL8F7E18D33C4FACAA&index=46&t=0s
+      viewCount: '1441'
 ---
 
