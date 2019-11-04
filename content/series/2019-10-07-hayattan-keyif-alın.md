@@ -731,5 +731,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=YvVOJOhg2U8&list=PL8F7E18D33C4FACAA&index=46&t=0s
       viewCount: '1441'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT21M41S
+      id: HMM-qvrZgS8
+      imageURL: 'https://i.ytimg.com/vi/HMM-qvrZgS8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T07:43:56.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: İlişkilerimizi Geliştirmek 2
+      url: >-
+        https://www.youtube.com/watch?v=HMM-qvrZgS8&list=PL8F7E18D33C4FACAA&index=47&t=0s
+      viewCount: '787'
 ---
 
