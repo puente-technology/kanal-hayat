@@ -643,5 +643,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=2nxGx_sLLek&list=PLC1288EB43D3BFE33&index=44&t=0s
       viewCount: '117'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT58M42S
+      id: PHETZRQ9j14
+      imageURL: 'https://i.ytimg.com/vi/PHETZRQ9j14/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2011-12-16T11:12:30.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 57. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=PHETZRQ9j14&list=PLC1288EB43D3BFE33&index=45&t=0s
+      viewCount: '382'
 ---
 
