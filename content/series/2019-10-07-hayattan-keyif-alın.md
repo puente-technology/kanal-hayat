@@ -606,5 +606,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=mXkQxtjRD94&list=PL8F7E18D33C4FACAA&index=39&t=0s
       viewCount: '737'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT25M11S
+      id: ADWacgE-PUw
+      imageURL: 'https://i.ytimg.com/vi/ADWacgE-PUw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T06:38:45.000Z'
+      tags: >-
+        Rab,İncil,hristiyanlık,ahiret,kıyamet,hz
+        isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+        anlatsana,kutsal ruh,isa
+        mesih,mesih,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles stanley,joyce
+        meyer,ışık abla,güçlü erman,protestan,protestanlar,zekeriya butros
+      title: Değişmek İçin Asla Geç Değildir 1
+      url: >-
+        https://www.youtube.com/watch?v=ADWacgE-PUw&list=PL8F7E18D33C4FACAA&index=40&t=0s
+      viewCount: '8604'
 ---
 
