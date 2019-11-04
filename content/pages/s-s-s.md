@@ -986,37 +986,16 @@ questions:
         host: Can Nuroğlu ile
         targetGroup: Herkes
         youtubeURL:
-          description: >-
-            Hey Gavur! Anlatsana...
-
-            Hristiyanlıkta Kurtuluş
-
-            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur!
-            Anlatsana." programını sayfamızdan takip edebilirsiniz. 
-
-            Esen Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT27M50S
-          id: wHEozNYEmhk
-          imageURL: 'https://i.ytimg.com/vi/wHEozNYEmhk/hqdefault.jpg'
+          description: Hristiyan İnanç Savunması Bölüm 4
+          duration: PT29M
+          id: VRd8q5xI33I
+          imageURL: 'https://i.ytimg.com/vi/VRd8q5xI33I/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2013-04-16T12:48:30.000Z'
-          tags: >-
-            Kutsal,hristiyanlık,ahiret,hz
-            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,kutsal
-            ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
-            butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
-            Hayat,Pusula,kiyamet gunu,gavur
-          title: Hey Gavur! Anlatsana - Hristiyanlıkta Kurtuluş 5.Bölüm
-          url: 'https://www.youtube.com/watch?v=wHEozNYEmhk'
-          viewCount: '4361'
+          publishedAt: '2018-07-24T02:32:45.000Z'
+          tags: Hristiyan
+          title: Hristiyan inancı ve İncil Metinleri
+          url: 'https://www.youtube.com/watch?v=VRd8q5xI33I '
+          viewCount: '1921'
       - guests: .
         host: Ahmet Güvener ile
         targetGroup: Herkes
@@ -1437,13 +1416,29 @@ questions:
         host: Ahmet Güvener ile
         targetGroup: Herkes
         youtubeURL:
+          description: Sokağın Dili
+          duration: PT30M10S
+          id: x-ukMPVRfyg
+          imageURL: 'https://i.ytimg.com/vi/x-ukMPVRfyg/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2015-01-13T08:25:01.000Z'
+          tags: 'misyoner,kime,denir?'
+          title: Sokağın Dili - Misyoner kime denir? 2.Bölüm
+          url: 'https://www.youtube.com/watch?v=x-ukMPVRfyg'
+          viewCount: '596'
+      - guests: .
+        host: Can Nuroğlu ile
+        targetGroup: Herkes
+        youtubeURL:
           description: >-
-            Maddi Sunular ve Ondalık
+            Hey Gavur! Anlatsana... 
 
-            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
-            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan
-            Şeriatı" programını Kanal Hayat ekranından veya youtube sayfamızdan
-            takip edebilirsiniz.
+            Misyonerler ve Hristiyanların Çıkardığı Savaşlar
+
+            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur!
+            Anlatsana." programını sayfamızdan takip edebilirsiniz. 
+
+            Esen Kalın.
 
             http://kanalhayat.tv/
 
@@ -1452,55 +1447,43 @@ questions:
             https://www.facebook.com/kanalhayat
 
             https://twitter.com/kanalhayat
-          duration: PT27M18S
-          id: AXRb4lLFWrY
-          imageURL: 'https://i.ytimg.com/vi/AXRb4lLFWrY/hqdefault.jpg'
+          duration: PT28M18S
+          id: 5OaUWWmnzSQ
+          imageURL: 'https://i.ytimg.com/vi/5OaUWWmnzSQ/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-10-08T07:52:57.000Z'
+          publishedAt: '2013-02-10T18:58:28.000Z'
           tags: >-
-            maddi,sunular,ondalık,masraflar,ödemeler,kilise,masrafları,misyonerler,türkiye,kktc,iman,şeriat
-          title: 75- Maddi Sunular ve Ondalık - Hristiyan Şeriatı
-          url: 'https://www.youtube.com/watch?v=AXRb4lLFWrY'
-          viewCount: '136'
+            isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+          title: >-
+            Hey Gavur! Anlatsana - Misyonerler ve Hristiyanların Çıkardığı
+            Savaşlar 2.Bölüm
+          url: 'https://www.youtube.com/watch?v=5OaUWWmnzSQ'
+          viewCount: '6155'
       - guests: .
-        host: Güçlü Erman ile
+        host: Hakan Taştan ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            Pastör Güçlü Erman'ın konuklarıyla birlikte birbirinden farklı
-            konuları sizler için  sunduğu "UYANIŞ" programını sayfamızdan takip
-            edebilirsiniz.Esen Kalın.
+            15. Bölüm: Haçlı Seferleri Ve Misyonerlik Nedir?
 
-            http://kanalhayat.tv/
+            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
+            ışığında gerçekleştirdi 
 
-            http://www.youtube.com/kanalhayatplay
+            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
 
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT28M41S
-          id: 5-FwaCl3W6Q
-          imageURL: 'https://i.ytimg.com/vi/5-FwaCl3W6Q/hqdefault.jpg'
+            Esen Kalın.
+          duration: PT25M1S
+          id: L-ISg7R_coY
+          imageURL: 'https://i.ytimg.com/vi/L-ISg7R_coY/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2017-03-09T13:51:02.000Z'
-          tags: ondalık
-          title: UYANIŞ (Neden Ondalık? 1 - HD) Pastör Güçlü Erman
-          url: 'https://youtu.be/5-FwaCl3W6Q'
-          viewCount: '214'
-      - guests: .
-        host: Ali Kalkandelen ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ''
-          duration: PT29M26S
-          id: YFc_p3i6ABY
-          imageURL: 'https://i.ytimg.com/vi/YFc_p3i6ABY/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2013-09-10T06:48:02.000Z'
-          tags: Para Konusu
-          title: 64. Bölüm Hristiyanlıkta ve Kilisede Para Konusu
-          url: 'https://www.youtube.com/watch?v=YFc_p3i6ABY'
-          viewCount: '227'
+          publishedAt: '2012-12-06T07:57:14.000Z'
+          tags: >-
+            hristiyanlık,ahiret,kıyamet,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+            anlatsana,kutsal ruh,isa mesih,mesih,Rab,Allah,Turkey,Istanbul,Asker
+          title: '15. Bölüm: Haçlı Seferleri Ve Misyonerlik Nedir?'
+          url: 'https://www.youtube.com/watch?v=L-ISg7R_coY'
+          viewCount: '2148'
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
