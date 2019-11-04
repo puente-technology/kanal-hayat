@@ -644,5 +644,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=iY9jgNlQh3E&list=PL8F7E18D33C4FACAA&index=41&t=0s
       viewCount: '2689'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT25M11S
+      id: 5FQPBw72ARw
+      imageURL: 'https://i.ytimg.com/vi/5FQPBw72ARw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T07:07:38.000Z'
+      tags: >-
+        Mükemmeliğin,Ardından,Gitmek,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise
+      title: Mükemmeliğin Ardından Gitmek 1
+      url: >-
+        https://www.youtube.com/watch?v=5FQPBw72ARw&list=PL8F7E18D33C4FACAA&index=42&t=0s
+      viewCount: '807'
 ---
 
