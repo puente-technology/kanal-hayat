@@ -737,5 +737,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=mwpq96gLWh4&list=PLC1288EB43D3BFE33&index=50&t=0s
       viewCount: '61'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M24S
+      id: lCwXoEu33TU
+      imageURL: 'https://i.ytimg.com/vi/lCwXoEu33TU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-12T09:57:53.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 63. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=lCwXoEu33TU&list=PLC1288EB43D3BFE33&index=51&t=0s
+      viewCount: '89'
 ---
 
