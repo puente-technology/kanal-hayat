@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: HAYATTAN KEYİF ALIN 3
+title: HAYATTAN KEYİF ALIN 2
 publishDate: .
 coverImage: /images/uploads/joyce-meyer-enjoying-everyday-life.jpeg
 host: Joyce Meyer
