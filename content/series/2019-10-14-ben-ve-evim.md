@@ -752,5 +752,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=lCwXoEu33TU&list=PLC1288EB43D3BFE33&index=51&t=0s
       viewCount: '89'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M32S
+      id: F3YO1IhY_iI
+      imageURL: 'https://i.ytimg.com/vi/F3YO1IhY_iI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-12T09:57:04.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 64. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=F3YO1IhY_iI&list=PLC1288EB43D3BFE33&index=52&t=0s
+      viewCount: '56'
 ---
 
