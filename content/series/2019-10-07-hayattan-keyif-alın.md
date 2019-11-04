@@ -750,5 +750,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=HMM-qvrZgS8&list=PL8F7E18D33C4FACAA&index=47&t=0s
       viewCount: '787'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT23M4S
+      id: 4jA6JPKIv-s
+      imageURL: 'https://i.ytimg.com/vi/4jA6JPKIv-s/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T07:39:13.000Z'
+      tags: >-
+        Mesih'te,Tam,Olmak,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet
+      title: Mesih'te Tam Olmak
+      url: >-
+        https://www.youtube.com/watch?v=4jA6JPKIv-s&list=PL8F7E18D33C4FACAA&index=48&t=0s
+      viewCount: '3927'
 ---
 
