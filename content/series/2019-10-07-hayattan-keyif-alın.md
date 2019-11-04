@@ -496,5 +496,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=_z3aJy-3Vm8&list=PL8F7E18D33C4FACAA&index=33&t=0s
       viewCount: '2236'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT25M51S
+      id: 7ufqm1NHNq4
+      imageURL: 'https://i.ytimg.com/vi/7ufqm1NHNq4/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-27T06:50:46.000Z'
+      tags: >-
+        tanrı,ile,yaşamak,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet
+      title: Sevgi Yolunda Yürümek 2. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=7ufqm1NHNq4&list=PL8F7E18D33C4FACAA&index=34&t=0s
+      viewCount: '715'
 ---
 
