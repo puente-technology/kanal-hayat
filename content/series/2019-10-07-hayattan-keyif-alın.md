@@ -481,5 +481,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=YRnzD0A9lzc&list=PL8F7E18D33C4FACAA&index=31&t=0s
       viewCount: '2436'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT25M51S
+      id: _z3aJy-3Vm8
+      imageURL: 'https://i.ytimg.com/vi/_z3aJy-3Vm8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-27T06:52:55.000Z'
+      tags: >-
+        sevgi,yolunda,yürümek,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Sevgi Yolunda Yürümek 1. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=_z3aJy-3Vm8&list=PL8F7E18D33C4FACAA&index=33&t=0s
+      viewCount: '2236'
 ---
 
