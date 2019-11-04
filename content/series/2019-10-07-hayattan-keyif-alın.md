@@ -900,5 +900,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=aCcjsQgU0-I&list=PL8F7E18D33C4FACAA&index=56&t=0s
       viewCount: '492'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT25M11S
+      id: dU9NT0_b4So
+      imageURL: 'https://i.ytimg.com/vi/dU9NT0_b4So/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T08:52:24.000Z'
+      tags: >-
+        Acı,Ya,da,İyi:,Seçim,Sizinisa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret
+      title: 'Acı Ya da İyi: Seçim Sizin 2'
+      url: >-
+        https://www.youtube.com/watch?v=dU9NT0_b4So&list=PL8F7E18D33C4FACAA&index=58&t=0s
+      viewCount: '1011'
 ---
 
