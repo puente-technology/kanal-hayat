@@ -780,5 +780,25 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=LR4FzI4X2_0&list=PL8F7E18D33C4FACAA&index=49&t=0s
       viewCount: '1455'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT25M11S
+      id: PqWzVFZ9lvw
+      imageURL: 'https://i.ytimg.com/vi/PqWzVFZ9lvw/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T08:01:19.000Z'
+      tags: >-
+        Yanık,hristiyanlık,ahiret,kıyamet,hz
+        isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+        anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Yanık Ama Acı Değil
+      url: >-
+        https://www.youtube.com/watch?v=PqWzVFZ9lvw&list=PL8F7E18D33C4FACAA&index=50&t=0s
+      viewCount: '1136'
 ---
 
