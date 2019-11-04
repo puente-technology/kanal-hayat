@@ -782,5 +782,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=tOMz36jThHg&list=PLC1288EB43D3BFE33&index=53&t=0s
       viewCount: '61'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT28M36S
+      id: mlZmPrSL95g
+      imageURL: 'https://i.ytimg.com/vi/mlZmPrSL95g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-03-12T13:13:57.000Z'
+      tags: >-
+        cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+      title: Ben Ve Evim 66. Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=mlZmPrSL95g&list=PLC1288EB43D3BFE33&index=54&t=0s
+      viewCount: '108'
 ---
 
