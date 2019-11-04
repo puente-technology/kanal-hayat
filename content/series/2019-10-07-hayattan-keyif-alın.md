@@ -556,5 +556,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=nbB6hWq1yok&list=PL8F7E18D33C4FACAA&index=36&t=0s
       viewCount: '11425'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT27M51S
+      id: XX2bxz3_I-o
+      imageURL: 'https://i.ytimg.com/vi/XX2bxz3_I-o/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-04-02T12:31:06.000Z'
+      tags: >-
+        Joyce,Meyer,tanıklık,cinsel,taciz,tecavüz,aileiçi,Tanrı,Rab,inciltme,gerçek,özgürlük,dua,yardım,tabu,genç,mücadele,sözsel,fiziksel,değerli,şifa,tamamlanmak,bereket,üzgün,iman,sevgi,vaftiz,tanrı,ile,yaşamak,isa,mesih,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,kıyamet,günü,Allah,depresyon,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet
+      title: 'Joyce Meyer''ın Kişisel Tanıklığı, 2'
+      url: >-
+        https://www.youtube.com/watch?v=XX2bxz3_I-o&list=PL8F7E18D33C4FACAA&index=37&t=0s
+      viewCount: '4631'
 ---
 
