@@ -395,26 +395,19 @@ questions:
           url: 'https://www.youtube.com/watch?v=3vZ5m_brbLM'
           viewCount: '8688'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. İbranice’de Kutsal Ruh’u anlatan kelime, “Ruakh” olarak
-      geçer ve enerji, nefes, rüzgar anlamına gelir. Durmayan, sürekli hareket
-      eden, yaratan, kontrol edilemeyen,  kısıtlanamayan bir güç.  Geçmişe
-      baktığımızda işleyişini ilk nerelerde görebiliriz? Tabi ki her şeyin
-      başında, Yaratılış’ın ilk paragrafında görebiliriz. Yaratılış 2’de, “Yer
-      boştu, yeryüzü şekilleri yoktu; engin karanlıklarla kaplıydı. Tanrı’nın
-      Ruhu suların üzerinde hareket ediyordu.” diye yazılmıştır. İşte Kutsal
-      Ruh; bu kaosun, boşluğun, biçimsizliğin içinden yaşam, düzen ve güzellik
-      yaratan Tanrı’nın Ruhu’dur.Kutsal Ruh Yaratılış’ta kaostan, boşluktan ve
-      biçimsizlikten; yaşam, düzen ve güzellik yaratıp şekillendirmişti. Şimdi
-      de doğrudan insana yaşam, düzen ve güzellik verip şekillendiriyor. Sonunda
-      her şeyi yenileyecekti. Peki nasıl yapacaktı bunu?  2000 yıl önce yemlikte
-      doğup büyüyen İsa’yı görüyoruz. Hizmetine başlamadan önce vaftiz olurken,
-      Kutsal Ruh’un bir güvercin gibi O’nun üzerine indiğini görüyoruz. Hem
-      Tanrı hem insan olan İsa’da, Tanrı’nın asıl amacını görebiliyoruz. İsyan
-      ve günahlarımızla bozduğumuz ve çürüttüğümüz her şeyi, işte İsa Mesih
-      aracığıyla Ruh yeniliyor ve şekillendiriyor.Esen Kalın.
-    question: Kutsal Ruh Nedir?
+      Hristiyanlar tarihin hiçbir döneminde “son din şu anda bizimkisi, en
+      geçerli din budur” söyleminde bulunmamışlardır. Hristiyanlık inancı
+      kişinin Tanrısal yolda değişmesini içeren, derin öğretişler barındıran bir
+      inanç olup, diğer dinlerle ve felsefelerle bir yarışmaya girmek istemez.
+      İsa’nın Tanrısal gücüne (onun dinine değil) sığınan bir varlık, Tanrı’nın
+      sevgisini kazanır. İnsanın bir dine değil, Tanrı ile kişisel bir ilişkiye
+      ve kötü düşüncelerden, düşmüş fikilerden (günahlı yaşamdan) kurtulmaya
+      ihtiyacı vardır. Bunun için Tanrı yeterli ve gerekli herşeyi göndermiştir.
+      İsa’nın çarmıhtaki ölümünün ötesinde bağışlayıcı hiçbir olay söz konusu
+      değildir ve olamaz. Dolayısıyla Hristiyanlar yeni bir din arayan bir
+      kişiler olmamıştır. Bu konuda açıklayıcı programlarımızı incelemek
+      isterseniz aşağıdaki linklere tıklayabilirsiniz.
+    question: Son din Hristiyanlık değildir. Neden halen buna inanıyorsunuz?
     videos:
       - guests: .
         host: Hakan Taştan ile
@@ -1137,29 +1130,20 @@ questions:
           url: 'https://youtu.be/DanYnWZnKJY'
           viewCount: '430'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık.Adem ile Havva’nın, Aden Bahçesi’nde Tanrı’ya itaatsizlik
-      edip, ‘iyi ile kötüyü bilme’ ağacının meyvesinden yemesiyle, insan günaha
-      düşmüş oldu. Böylece insan doğasına, ‘günahlı’ bir doğa dahil oldu. İnsan
-      ilk yaratıldığı haldeki gibi kusursuz ve günahsız olan niteliklerini
-      kaybetti. Dahası, insanın günahlı doğaya sahip olmasıyla birlikte, Tanrı
-      ile arasındaki ilişki de bozuldu. “Adem, ‘Bahçede sesini duyunca korktum.
-      Çünkü çıplaktım, bu yüzden gizlendim’ dedi. RAB Tanrı, ‘Çıplak olduğunu
-      sana kim söyledi?’ diye sordu, ‘Sana meyvesini yeme dediğim ağaçtan mı
-      yedin?’” (Yaratılış 3:11-12)  Bundan sonra Yaratılış 3. bölümde Tanrı’nın
-      bir kurban kestiğini ve bu kurbanın derisinden Adem ile Havva için
-      giysiler yapıp onları giydirdiğini görüyoruz (bkz. Yaratılış 3:21).
-      Tanrı’nın insanın günahı için sağladığı kurban çarmıha gerilen İsa
-      Mesih’tir. Bunun dışındaki hiçbir kurban insanın günahını temiz kılamaz,
-      “Çünkü boğalarla tekelerin kanı günahları ortadan kaldıramaz.” (İbraniler
-      10:4) İlk kurbanı Tanrı kesmiştir ve bunu, ‘kurbanı’, Kendisinin tedarik
-      edeceğini belirtmek için yapmıştır. Son kurbanı da Tanrı kesmiştir, İsa
-      Mesih’in çarmıh üzerindeki ölümüyle insanın günahı temizlenmiş, üçüncü gün
-      ölümden dirilişiyle de günahın sonucu olan ölüm ortadan kalkmıştır. Artık
-      Tanrı’ya İsa Mesih’in kurbanı aracılığıyla yaklaşan hiç kimse üzerinde
-      günahın ve ölümün hükmü yoktur. Esen Kalın.
-    question: Hristiyanlıkta kurban var mı ? Son kurban nedir?
+      Günümüzde Barnabas deyince halkımız gizemli, saklı, üstü örtülü bir
+      kitabın varlığını hatırlıyor. Oysa Barnabas adı verilen şahıs İsa’dan
+      sonraki yüzyılda yaşamış bir iman adamıdır. Günümüzde “üstü örtülü”
+      denilen Barnabas adındaki kitap ise aslında gayet açık ve internette dahi
+      okunabilen bir metindir ve bu kitabın Mesih’in öğrencisi olan Barnabas ile
+      bir ilgisi yoktur. Bu konuda araştırma yapıldığında ve Barnabas İncili
+      adındaki metin okunduğunda içindeki çelişkiler göze çarpar. Tarihi
+      bilgiler eksiktir, özensizdir ve Hz. Muhammed’den bahseder. (Gerçek
+      Barnabas, Hz. Muhammed’den çok önce yaşamıştır). Bize göre bu metni
+      Hristiyan inancını Müslüman bakış açısı ile çarpıtmaya çalışan 17. Yüzyıl
+      yazarlarından birisi yazmış olup, kitabın adını Barnabas İncili koyarak
+      kendince ilgi çekmeye çalışmıştır. Bu konuda açıklayıcı programlarımızı
+      incelemek isterseniz aşağıdaki linklere tıklayabilirsiniz.
+    question: Barnabas İncil’i nerede saklıyorsunuz? Neden birçok İnciliniz var?
     videos:
       - guests: .
         host: 'Serdar Dedeoğlu ve Gülhan ile '
