@@ -885,5 +885,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=fxzdt3nLqkM&list=PL8F7E18D33C4FACAA&index=55&t=0s
       viewCount: '572'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT25M11S
+      id: aCcjsQgU0-I
+      imageURL: 'https://i.ytimg.com/vi/aCcjsQgU0-I/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T08:53:09.000Z'
+      tags: >-
+        Yanık,Ama,Acı,Değil,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Yanık Ama Acı Değil 2
+      url: >-
+        https://www.youtube.com/watch?v=aCcjsQgU0-I&list=PL8F7E18D33C4FACAA&index=56&t=0s
+      viewCount: '492'
 ---
 
