@@ -815,5 +815,25 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=viNdEP5G-YU&list=PL8F7E18D33C4FACAA&index=51&t=0s
       viewCount: '4778'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT25M21S
+      id: eL25EnuwHic
+      imageURL: 'https://i.ytimg.com/vi/eL25EnuwHic/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T08:01:19.000Z'
+      tags: >-
+        Yalnızca,Mesih'e,Güvenirim,hristiyanlık,ahiret,kıyamet,hz
+        isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
+        anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Yalnızca Mesih'e Güvenirim 2
+      url: >-
+        https://www.youtube.com/watch?v=eL25EnuwHic&list=PL8F7E18D33C4FACAA&index=52&t=0s
+      viewCount: '3184'
 ---
 
