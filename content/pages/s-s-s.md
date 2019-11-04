@@ -5,26 +5,25 @@ template: SSS
 title: S. S. S.
 questions:
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık.. Aşağıdaki programlarımızı izleyerek aklınıza takılan
-      sorulara cevap bulabilirsiniz. İsa Mesih'in Tanrı Oğlu olarak
-      adlandırılması Hristiyanlar tarafından ortaya konan bir şey değildir. Bunu
-      ortaya koyan Kutsal Kitap'tır. Kutsal Kitap'ın bir çok yerinde İsa Mesih
-      bu adla tanıtılır. Tanrı Oğlu sıfatı fiziksel değil ruhsal bir sıfattır.
-      Dolayısıyla halkımız arasında süregelen ve kulaktan dolma bilgiler olan
-      Tanrı Oğlu kavramı hakkındaki diğer görüşleri kesinlikle reddederiz. 
-      "Melek ona, "Korkma Meryem” dedi, "Sen Tanrı`nın lütfuna eriştin. Bak,
-      gebe kalıp bir oğul doğuracak, adını İsa koyacaksın. O büyük olacak,
-      kendisine `Yüceler Yücesi`nin Oğlu` denecek.  Meryem meleğe, "Bu nasıl
-      olur? Ben erkeğe varmadım ki” dedi. Melek ona şöyle yanıt verdi: "Kutsal
-      Ruh senin üzerine gelecek, Yüceler Yücesi`nin gücü sana gölge salacak.
-      Bunun için doğacak olana kutsal, Tanrı Oğlu denecek." (Luka 1.Bölüm) Esen
-      Kalın.
-    question: >-
-      İsa Mesih'e Neden Tanrı Oğlu Diyorsunuz ? İsa Mesih’i özel kılan tam
-      olarak nedir? İsa Mesih yaptığı mucizeleri ve belirtileri kimin gücüyle
-      yaptı? 
+      Hristiyanlık inancına göre İsa, Tanrı’nın sevgi olduğunu bize ileten, daha
+      önce Yasa (Şeriat) ile kurtulmaya çalışan ve Tanrı tarafından ödül olarak
+      cenneti edinmek için mükemmel bir kul olmaya gayret eden insana aslında
+      Tanrı sevgisinin herşeyin özü, değiştirici gücü olduğunu öğreten bir
+      kişiydi. İsa insan olarak öğrettiği bu üstün felsefesinin yanında çeşitli
+      mucizeleri ile de gündeme gelmiştir. Ama asıl onu eşsiz kılan ve diğer
+      bütün peygamberlerden ayıran özelliği doğa kanunları üzerindeki
+      yetkisidir. Yağmuru, fırtınayı, güneşi kontrolü altına alabilen bir kişi,
+      insan olamazdı. Bu yüzden Kilise, İsa’nın kim olduğunu daha iyi
+      açıklayabilmek ve insanlara bu doğruyu aktarabilmek adına “Üçlü birlik”
+      adı verilen bir teolojiyi vurgulamıştır. Buna göre Göksel Tanrı, Oğul
+      (İsa), ve Kutsal Ruh olmak üzere Yaratıcı kendisini üç şekilde ifşa etmiş
+      olur. Göksel Tanrı, Tek tanrıya inanan insanların aşina oldukları bir
+      kavram olup, Görünmeyen Tanrı’dır. Oğul kavramı ise, Tanrı’nın yeryüzünde
+      görünen ve şekil alıp insanların arasında yaşayan bir sureti olarak göze
+      çarpar. Bu durumda İsa’nın içindeki öz Tanrı olarak kabul edilmiş ve
+      dolayısıyla İsa’ya da tapınılmıştır. Bu konuda açıklayıcı programlarımızı
+      incelemek isterseniz aşağıdaki linklere tıklayabilirsiniz.
+    question: İsa Tanrı değildir.Buna Nasıl inanıyorsunuz?
     videos:
       - guests: .
         host: Hakan Taştan ile
