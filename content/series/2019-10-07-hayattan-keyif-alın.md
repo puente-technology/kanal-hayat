@@ -934,5 +934,24 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=TE2UEGrmyVg&list=PL8F7E18D33C4FACAA&index=60&t=0s
       viewCount: '5096'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT25M11S
+      id: Fxbis5XCYTI
+      imageURL: 'https://i.ytimg.com/vi/Fxbis5XCYTI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T11:48:24.000Z'
+      tags: >-
+        hristiyanlık,ahiret,kıyamet,hz isa,hristiyan,kilise,vaftiz,incil,kutsal
+        kitap,tevrat,zebur,gavur anlatsana,kutsal ruh,isa
+        mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
+        stanley,joyce meyer,ışık abla,güçlü
+        erman,protestan,protestanlar,zekeriya butros
+      title: Olumsuz Duyguları Disiplin Etmek 1
+      url: >-
+        https://www.youtube.com/watch?v=Fxbis5XCYTI&list=PL8F7E18D33C4FACAA&index=61&t=0s
+      viewCount: '9401'
 ---
 
