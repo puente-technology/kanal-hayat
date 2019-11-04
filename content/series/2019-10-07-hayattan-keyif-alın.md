@@ -800,5 +800,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=PqWzVFZ9lvw&list=PL8F7E18D33C4FACAA&index=50&t=0s
       viewCount: '1136'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT25M26S
+      id: viNdEP5G-YU
+      imageURL: 'https://i.ytimg.com/vi/viNdEP5G-YU/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T08:06:04.000Z'
+      tags: >-
+        Sadece,Mesih'e,Güvenirim,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
+      title: Sadece Mesih'e Güvenirim
+      url: >-
+        https://www.youtube.com/watch?v=viNdEP5G-YU&list=PL8F7E18D33C4FACAA&index=51&t=0s
+      viewCount: '4778'
 ---
 
