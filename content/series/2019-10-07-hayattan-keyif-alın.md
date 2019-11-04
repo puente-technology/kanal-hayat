@@ -571,5 +571,20 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=XX2bxz3_I-o&list=PL8F7E18D33C4FACAA&index=37&t=0s
       viewCount: '4631'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: ' '
+      duration: PT25M11S
+      id: f2CzCxE3Qwk
+      imageURL: 'https://i.ytimg.com/vi/f2CzCxE3Qwk/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2012-05-31T06:43:30.000Z'
+      tags: >-
+        Vasatlık,Ve,Karmaşa,Elele,Gider,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak
+      title: Vasatlık Ve Karmaşa Elele Gider 1
+      url: >-
+        https://www.youtube.com/watch?v=f2CzCxE3Qwk&list=PL8F7E18D33C4FACAA&index=38&t=0s
+      viewCount: '1441'
 ---
 
