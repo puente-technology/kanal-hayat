@@ -1066,9 +1066,11 @@ input[type=range]::-moz-range-thumb {
 		text-align: center;
 		/* left: 0; */
 		/* right: 0; */
-		padding-top: 18px;
-		/* width: 50%; */
+		padding-top: 22px;
+		width: 75%;
+		justify-content: flex-end;
 		/* flex-grow: 1; */
+		
 	}
 	.player-artist.colapsed {
 		font-size: 14px;
