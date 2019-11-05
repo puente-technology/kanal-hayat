@@ -70,7 +70,7 @@ class Host extends PureComponent {
         <div className="HostDescription">
           <Content source={frontmatter.html} />
         </div>
-        <div className="HostSeries">
+        <div className="HostSeriesContainer">
           <span className="HostTile">
           PROGRAMLAR
             <img alt="Programlar" src="/images/Polygondown.png" />

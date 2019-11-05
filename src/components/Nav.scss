@@ -364,3 +364,12 @@
     font-size: 28px;
   }
 }
+
+@media (max-width: 576px){
+  .Nav--Search {
+    color: black !important;
+    background: url("/images/seach-black.svg");
+    background-position: left;
+    background-repeat: no-repeat;
+  }
+}

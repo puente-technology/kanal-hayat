@@ -76,6 +76,7 @@
   line-height: 38px;
   color: #ffffff;
   text-align: left;
+  font-size: 17px;
 }
 
 .SerieCardInformation {
@@ -329,11 +330,13 @@
   .SerieCard {
     margin-right: 0;
     margin-bottom: 0;
+    height: 56.25vw;
+    width: 100%;
   }
 
   .EpisodeVideo {
-    width: 180px !important;
-    height: 130px !important;
+    width: 280px !important;
+    height: 157px !important;
   }
   
   .Close {
@@ -359,6 +362,7 @@
   
   .SerieCardHost {
     line-height: 25px;
+    font-size: 15px;
   }
   
   .InformationTitle {
@@ -441,6 +445,10 @@
     width: 100px;
     text-align: center;
     margin-bottom: 10px;
+  }
+
+  .filteringTag {
+    font-size: 16px;
   }
 
   .categoryArrowRight {

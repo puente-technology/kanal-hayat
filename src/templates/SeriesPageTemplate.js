@@ -17,6 +17,7 @@ import Dropdown from '../components/Dropdown'
 class SeriesPageTemplate extends Component {
   state = {
     list: [],
+    divHeight: 0,
   }
 
   componentDidMount() {
@@ -93,12 +94,16 @@ class SeriesPageTemplate extends Component {
     this.setState({ list: res })
   }
 
+  setDivHeight = (h) => {
+    this.setState({ divHeight: h })
+  }
+
   render() {
     const {
       data: { page },
     } = this.props
 
-    const { list } = this.state
+    const { list, divHeight } = this.state
     const {
       title,
       coverImage,
@@ -117,8 +122,10 @@ class SeriesPageTemplate extends Component {
           handleTextChange={this.handleTextChange}
           handleSeasonChange={this.handleSeasonChange}
           episodes={page.frontmatter.episodes}
+          setDivHeight={this.setDivHeight}
+          divHeight={divHeight}
         />
-        <SeriesPage episodes={list} frontmatter={page.frontmatter} />
+        <SeriesPage divHeight={divHeight} episodes={list} frontmatter={page.frontmatter} />
 
       </SeriesPageLayout>
     )
@@ -173,6 +180,8 @@ query SeriesPageTemplate($id: String!, $locale: String) {
 }
 `
 class CustomHeaderBanner extends Component {
+  prevRef = null;
+
   static propTypes = {
     image: PropTypes.any,
     title: PropTypes.any,
@@ -183,10 +192,13 @@ class CustomHeaderBanner extends Component {
     handleTextChange: PropTypes.any,
     handleSeasonChange: PropTypes.any,
     episodes: PropTypes.any,
+    setDivHeight: PropTypes.any,
+    divHeight: PropTypes.any,
   };
 
   constructor(props) {
     super(props);
+    this.headerRef = React.createRef();
     this.state = {
       seasonsInfo: [],
     };
@@ -195,7 +207,7 @@ class CustomHeaderBanner extends Component {
   componentDidMount() {
     const { episodes } = this.props
     const serisSeasonInfo = ['Tüm Bölümer']
-
+    this.prevRef = this.headerRef.current;
     const list = episodes.sort(
       (a, b) => {
         const adate = a.youtubeURL.publishedAt
@@ -217,6 +229,12 @@ class CustomHeaderBanner extends Component {
     this.setState({ seasonsInfo: serisSeasonInfo })
   }
 
+  componentDidUpdate(prevProps) {
+    const { setDivHeight } = this.props
+    if (this.headerRef.current.clientHeight !== prevProps.divHeight) {
+      setDivHeight(this.headerRef.current.clientHeight)
+    }
+  }
 
   render() {
     const {
@@ -229,7 +247,6 @@ class CustomHeaderBanner extends Component {
       handleTextChange,
       handleSeasonChange,
     } = this.props;
-
     const { seasonsInfo } = this.state
 
     const seasonBtn = {
@@ -240,6 +257,7 @@ class CustomHeaderBanner extends Component {
       fontFamily: 'Nunito',
       fontStyle: 'normal',
     }
+
     return (
       <div>
         {
@@ -249,7 +267,8 @@ class CustomHeaderBanner extends Component {
             className="customHeaderBanner"
           >
             <Nav color="light" />
-            <div className="TextInfo">
+            <div className="TextInfo" ref={this.headerRef}>
+              {this.setDivHeight}
               <div className="TextInfoTitle">
                 {title}
               </div>

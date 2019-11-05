@@ -23,11 +23,13 @@
 }
 
 .TextInfoDescription {
+  width: 55%;
   margin-top: 15px;
   font-weight: normal;
   font-size: 18px;
   line-height: 25px;
   color: #ffffff;
+  text-align: justify;
   // height: 98px;;
 }
 
@@ -75,19 +77,38 @@
   color: black;
 }
 
+@media (min-width: 1400px) {
+  .TextInfoDescription {
+    width: 55% !important;
+  }
+  .TextInfo {
+    padding-left: 80px;
+  }
+}
 @media (max-width: 768px) {
   .TextInfo {
     padding-top: 286px;
     padding-left: 45px;
+    padding-right: 30px;
+  }
+  .TextInfoDescription {
+    width: 90% !important;
+    margin-top: 0px;
+    font-size: 17px;
+    // height: 98px;;
+  }
+  .TextInfoHost {
+    font-size: 25px;
   }
 }
 @media (max-width: 576px) {
   .customHeaderBanner {
     background-position: right !important;
+    height: 200px !important;
   }
   .SeriesPage {
     padding: 10px;
-    padding-top: 20px;
+    padding-top: 430px;
     .Episode {
       margin-left: 21px;
       margin-right: 21px;
@@ -103,19 +124,24 @@
     }
   }
   .TextInfo {
-    padding-top: 338px;
+    padding-top: 200px;
     padding-left: 11px;
     padding-right: 11px;
+    color: black;
   }
   .TextInfoTitle {
-    font-size: 17px;
+    font-size: 20px;
+    color: black;
   }
   .TextInfoHost{
-    font-size: 17px;
+    font-size: 16px;
+    color: black;
   }
   .TextInfoDescription {
+    width: 90% !important;
     margin-top: 0px;
     font-size: 13px;
+    color: black
     // height: 98px;;
   }
   .TextInfoEpisodeBtns {
@@ -124,9 +150,14 @@
   .TextInfoEpisodeTitle {
     font-size: 14px;
     line-height: 25px;
+    color: black !important;
   }
   .TextInfoEpisodeBtns {
     margin-top: 11px;
+  }
+  .TextInfoButton {
+    color: black;
+    border: 0.5px solid;
   }
 }
 
