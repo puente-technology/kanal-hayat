@@ -48,11 +48,26 @@ class SeriesPage extends Component {
     this.setState({ isOpen: false })
   }
 
+  getWidth = () => {
+    if (typeof (window.innerWidth) === 'number') {
+      // Non-IE
+      return window.innerWidth;
+    } if (document.documentElement
+      && (document.documentElement.clientWidth || document.documentElement.clientHeight)) {
+      // IE 6+ in 'standards compliant mode'
+      return document.documentElement.clientWidth;
+    } if (document.body && (document.body.clientWidth || document.body.clientHeight)) {
+      // IE 4 compatible
+      return document.body.clientWidth;
+    }
+    return null
+  }
+
   render() {
     const { episodes, divHeight } = this.props;
     const { isOpen } = this.state;
     return (
-      <div className="SeriesPage" style={{ }}>
+      <div className="SeriesPage" style={this.getWidth() < 700 ? { paddingTop: divHeight - 175 } : {}}>
         {
           episodes.map((episode, index) => (
             <div key={index} className="Episode">

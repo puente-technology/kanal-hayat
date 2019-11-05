@@ -94,8 +94,8 @@ class SeriesPageTemplate extends Component {
     this.setState({ list: res })
   }
 
-  setDivHeight = () => {
-    // this.setState({ divHeight: h - 200 })
+  setDivHeight = (h) => {
+    this.setState({ divHeight: h })
   }
 
   render() {
@@ -123,6 +123,7 @@ class SeriesPageTemplate extends Component {
           handleSeasonChange={this.handleSeasonChange}
           episodes={page.frontmatter.episodes}
           setDivHeight={this.setDivHeight}
+          divHeight={divHeight}
         />
         <SeriesPage divHeight={divHeight} episodes={list} frontmatter={page.frontmatter} />
 
@@ -179,6 +180,8 @@ query SeriesPageTemplate($id: String!, $locale: String) {
 }
 `
 class CustomHeaderBanner extends Component {
+  prevRef = null;
+
   static propTypes = {
     image: PropTypes.any,
     title: PropTypes.any,
@@ -190,12 +193,12 @@ class CustomHeaderBanner extends Component {
     handleSeasonChange: PropTypes.any,
     episodes: PropTypes.any,
     setDivHeight: PropTypes.any,
+    divHeight: PropTypes.any,
   };
 
   constructor(props) {
     super(props);
     this.headerRef = React.createRef();
-    console.log('asma ')
     this.state = {
       seasonsInfo: [],
     };
@@ -204,10 +207,7 @@ class CustomHeaderBanner extends Component {
   componentDidMount() {
     const { episodes } = this.props
     const serisSeasonInfo = ['Tüm Bölümer']
-    console.log('componentDidMount', this.headerRef)
-    if (this.headerRef.current) {
-      console.log('has been changed  ')
-    }
+    this.prevRef = this.headerRef.current;
     const list = episodes.sort(
       (a, b) => {
         const adate = a.youtubeURL.publishedAt
@@ -229,9 +229,11 @@ class CustomHeaderBanner extends Component {
     this.setState({ seasonsInfo: serisSeasonInfo })
   }
 
-  getDivHeight = () => {
-    const value = this.headerRef;
-    console.log('this.headerRef ', value.current)
+  componentDidUpdate(prevProps) {
+    const { setDivHeight } = this.props
+    if (this.headerRef.current.clientHeight !== prevProps.divHeight) {
+      setDivHeight(this.headerRef.current.clientHeight)
+    }
   }
 
   render() {
@@ -245,7 +247,6 @@ class CustomHeaderBanner extends Component {
       handleTextChange,
       handleSeasonChange,
     } = this.props;
-
     const { seasonsInfo } = this.state
 
     const seasonBtn = {
@@ -267,7 +268,7 @@ class CustomHeaderBanner extends Component {
           >
             <Nav color="light" />
             <div className="TextInfo" ref={this.headerRef}>
-              {this.getDivHeight()}
+              {this.setDivHeight}
               <div className="TextInfoTitle">
                 {title}
               </div>
