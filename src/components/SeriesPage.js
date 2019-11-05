@@ -17,9 +17,14 @@ class SeriesPage extends Component {
     super(props);
     this.state = {
       isOpen: false,
+      widthClient: '',
     };
   }
 
+
+  componentWillMount() {
+    this.setState({ widthClient: this.getWidth() })
+  }
 
   hanndlePlayClick = (e) => {
     const {
@@ -28,7 +33,6 @@ class SeriesPage extends Component {
       frontmatter,
       hosts,
     } = this.props
-    console.log('asma series page', this.props)
     const { episode, index } = JSON.parse(e.target.value)
     this.setState({ isOpen: true })
     dispatch(toggleDarkMode(
@@ -43,6 +47,7 @@ class SeriesPage extends Component {
       false,
     ))
   }
+
 
   handleCloseClick = () => {
     this.setState({ isOpen: false })
@@ -65,9 +70,9 @@ class SeriesPage extends Component {
 
   render() {
     const { episodes, divHeight } = this.props;
-    const { isOpen } = this.state;
+    const { isOpen, widthClient } = this.state;
     return (
-      <div className="SeriesPage" style={this.getWidth() < 700 ? { paddingTop: divHeight - 175 } : {}}>
+      <div className="SeriesPage" style={widthClient < 700 ? { paddingTop: divHeight - 175 } : {}}>
         {
           episodes.map((episode, index) => (
             <div key={index} className="Episode">
