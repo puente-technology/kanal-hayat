@@ -317,7 +317,7 @@
   }
   .EpisodeVideo {
     width: 600px !important;
-    height: 300px !important;
+    height: 284px !important;
   }
 }
 @media (max-width: 576px) {
@@ -333,7 +333,8 @@
 
   .EpisodeVideo {
     width: 180px !important;
-    height: 130px !important;
+    height: 101px !important;
+    margin-bottom: 20px;
   }
   
   .Close {
@@ -392,12 +393,6 @@
   
   .Episode {
     margin-left: 21px;
-  }
-
-  .EpisodeVideo {
-    width: 240px;
-    height: 150px;
-    margin-bottom: 20px;
   }
   
   .SeriesListCategories {
@@ -462,7 +457,7 @@
  
   .EpisodeVideo {
     width: 382px !important;
-    height: 285px !important;
+    height: 214px !important;
   }
 }
 
@@ -473,7 +468,7 @@
   }
   .EpisodeVideo {
     width: 240px;
-    height: 150px;
+    height: 135px;
   }
   .minicontainer {
     display: flex;
