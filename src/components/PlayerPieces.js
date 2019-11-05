@@ -446,6 +446,7 @@ export const PlayerButtonsBigScreenHover = ({
   <div onMouseLeave={toggleOnHoverOut} onMouseEnter={toggleOnHover} className="bigScreenInfo" style={{ width: playerProps.width, height: playerProps.height }}>
     <div style={{ display: 'flex', flexDirection: 'column' }}>
       <button
+        className="cancelIcon"
         type="button"
         style={{
           background: `url(${cancelSvg}) no-repeat`,
