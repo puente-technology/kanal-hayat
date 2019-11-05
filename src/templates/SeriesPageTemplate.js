@@ -94,8 +94,8 @@ class SeriesPageTemplate extends Component {
     this.setState({ list: res })
   }
 
-  setDivHeight = (h) => {
-    //this.setState({ divHeight: h - 200 })
+  setDivHeight = () => {
+    // this.setState({ divHeight: h - 200 })
   }
 
   render() {
@@ -231,7 +231,7 @@ class CustomHeaderBanner extends Component {
 
   getDivHeight = () => {
     const value = this.headerRef;
-    console.log('this.headerRef ', value)
+    console.log('this.headerRef ', value.current)
   }
 
   render() {
@@ -267,6 +267,7 @@ class CustomHeaderBanner extends Component {
           >
             <Nav color="light" />
             <div className="TextInfo" ref={this.headerRef}>
+              {this.getDivHeight()}
               <div className="TextInfoTitle">
                 {title}
               </div>
