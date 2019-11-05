@@ -451,7 +451,7 @@ export const PlayerButtonsBigScreenHover = ({
           background: `url(${cancelSvg}) no-repeat`,
           backgroundSize: 'contain',
           border: 'none',
-          minWidth: '30px',
+          minWidth: '50px',
           minHeight: '50px',
           marginBottom: '5px',
         }}

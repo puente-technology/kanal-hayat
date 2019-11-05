@@ -577,7 +577,7 @@ class Player extends Component {
               )
             }
             {
-              hoverBool && (
+              true && (
                 <PlayerButtonsBigScreenHover
                   onCloseClick={this.onCloseClick}
                   onShowInfo={this.onShowInfo}

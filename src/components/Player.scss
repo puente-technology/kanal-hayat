@@ -800,10 +800,11 @@ input[type=range]::-moz-range-thumb {
 	align-items: flex-end;
 	text-align: -webkit-right;
 	top: 0px;
-	margin: 41px auto;
-	left: 0;
+	// margin: 41px auto;
+	// left: 0;
 	right: 0;
-	padding-right: 23px;
+	padding-top: 10px;
+	padding-right: 10px;
 }
 
 @media (max-width: map-get($grid-breakpoints, md)) {
