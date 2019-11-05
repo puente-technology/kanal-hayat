@@ -144,6 +144,7 @@ class Item extends React.Component {
           style={{
             background: `url(${id.youtubeURL.imageURL})`,
             backgroundSize: 'cover',
+            backgroundPositionY: '50%',
             position: 'relative',
           }}
           className="EpisodeVideoInfo"

@@ -87,10 +87,10 @@
 	padding: 1rem;
 	&.collapsed {
 		color: white;
-		background: linear-gradient(rgba(0,0,0,0) -19.2%, #000000 53.49%);
+		background: linear-gradient(180deg, rgba(117, 126, 124, 0.3) 0%, rgba(117, 126, 124, 0.84) 38.54%, rgba(117, 126, 124, 0.99) 66.67%, #757E7C 100%); //linear-gradient(rgba(0,0,0,0) -19.2%, #000000 53.49%)
 	}
 	&.expanded {
-		background: linear-gradient(rgba(0, 0, 0, 0) -19.2%, #000000 53.49%);
+		background: linear-gradient(180deg, rgba(117, 126, 124, 0.3) 0%, rgba(117, 126, 124, 0.84) 38.54%, rgba(117, 126, 124, 0.99) 66.67%, #757E7C 100%);
 		color: $gray;
 	}
 }
@@ -210,7 +210,7 @@
 	&.right {
 		margin-left: -6px;
 		width: 35px;
-		height: 32px;
+		height: 26px;
 	}
 }
 .player-bar {
@@ -254,7 +254,7 @@
 	right: 0;
 	line-height: 1;
 	font-size: 18px;
-	margin-right: 6px;
+	// margin-right: 6px;
 }
 .player-elapsed {
 	position: absolute;
@@ -827,9 +827,10 @@ input[type=range]::-moz-range-thumb {
 				height: 15rem !important;
 			}
 			.player-bar {
-				width: 135%;
+				width: 105%;
 			}
 		}
+		
 		&.isBig {
 			height: 100%;
 			#reactPlayer {
@@ -883,7 +884,7 @@ input[type=range]::-moz-range-thumb {
 				z-index: 1;
 			}
 			.player-volume {
-				display: flex;
+				display: none;
 				top: 8px;
 				left: -40px;
 			}
@@ -913,6 +914,12 @@ input[type=range]::-moz-range-thumb {
 			.player-expand {
 				.player-screen-control {
 					margin-top: 1rem;
+				}
+			}
+			.playPause-button {
+				.player-controls-svg-isBig {
+					margin-left: 5px !important;
+					margin-top: 1px;
 				}
 			}
 		}
@@ -962,7 +969,7 @@ input[type=range]::-moz-range-thumb {
 	}
 
 	.player-controls-svg {
-		margin-left: 5px !important;
+		margin-left: 9px !important;
 		margin-right: 5px !important;
 		width: 11px;
 		height: 4px;
@@ -983,6 +990,9 @@ input[type=range]::-moz-range-thumb {
 		width: 45px;
 		margin-top: 45px;
 		padding-top: 7px;
+		.player-controls-svg {
+			height: 16px;
+		}
 	}
 
 	.player-info-collapsed {
@@ -1013,7 +1023,7 @@ input[type=range]::-moz-range-thumb {
 	.player-bar-bar {
 		right: 0px;
 		left: 0px;
-		width: 85%;
+		width: 100%;
 	}
 
 	.bigScreenInfo {
@@ -1056,9 +1066,11 @@ input[type=range]::-moz-range-thumb {
 		text-align: center;
 		/* left: 0; */
 		/* right: 0; */
-		padding-top: 18px;
-		/* width: 50%; */
+		padding-top: 22px;
+		width: 75%;
+		justify-content: flex-end;
 		/* flex-grow: 1; */
+		
 	}
 	.player-artist.colapsed {
 		font-size: 14px;
@@ -1084,6 +1096,10 @@ input[type=range]::-moz-range-thumb {
 			&.isBigVolumeAndScreen {
 				padding-left: 68px;
         		padding-top: 19px;
+			}
+			.player-bar-bar {
+				left: 6rem !important;
+				width: 85%;
 			}
 		}
 	}
@@ -1121,12 +1137,13 @@ input[type=range]::-moz-range-thumb {
 	.player-remaining {
 		/* right: -30px; */
 		font-size: 12px;
-    	margin-top: 10px;
+		margin-top: 13px;
+		right: -5px
 	}
 	.player-elapsed {
 		left: 5px;
 		font-size: 12px;
-    	margin-top: 10px;
+    	margin-top: 13px;
 	}
 	.fullscreen-button {
 		display: none;
@@ -1146,10 +1163,10 @@ input[type=range]::-moz-range-thumb {
 		padding-top: 7px;
 	}
 	.player-bar-bar {
-		left: 6rem !important;
+		left: 1rem !important;
 	}
 	.player-expand .player-screen-control {
-		margin-top: 28px;
+		margin-top: 31px;
 		margin-right: -6px;
 	}
 	#player.isBig .player-remaining {
