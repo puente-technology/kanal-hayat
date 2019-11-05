@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: DAR KAPIDAN GİRENLER  2.SEZON
 publishDate: .
-coverImage: /images/uploads/dar-kapı-2.png
+coverImage: /images/uploads/6.jpg
 host: ALİ KALKANDELEN
 popularity: '1'
 description: |

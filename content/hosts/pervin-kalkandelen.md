@@ -1,7 +1,7 @@
 ---
 template: Host
 title: PERVİN KALKANDELEN
-host: Pervin Kalkandelen
+host: PERVİN Kalkandelen
 language: '0'
 targetGroup: Herkes
 coverImage: /images/uploads/pervin-1.jpg

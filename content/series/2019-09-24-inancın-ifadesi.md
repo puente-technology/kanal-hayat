@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: İNANCIN İFADESİ
 publishDate: .
-coverImage: /images/uploads/inancın-ifadesi-save-for-web.jpg
+coverImage: /images/uploads/ekran-alıntısı.png
 host: Serdar Dedeoğlu
 popularity: '5'
 description: |-

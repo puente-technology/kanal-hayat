@@ -75,11 +75,7 @@ const ContactUsPage = (props) => {
             </div>
           </div>
           <div className="textArea" style={{ marginTop: '21px' }}>
-            <p className="messageLabel">
-              Mesaj *
-            </p>
-            <hr className="lineStyle" />
-            <textarea name="message" className="textAreaStyle" />
+            <textarea name="message" className="textAreaStyle" placeholder="Mesaj *" />
             <hr className="lineStyle" />
           </div>
           <p style={{ textAlign: 'center' }}>
