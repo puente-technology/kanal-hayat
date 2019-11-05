@@ -17,12 +17,12 @@ class SeriesPage extends Component {
     super(props);
     this.state = {
       isOpen: false,
-      widthClient: '',
+      widthClient: null,
     };
   }
 
 
-  componentWillMount() {
+  componentDidMount() {
     this.setState({ widthClient: this.getWidth() })
   }
 
