@@ -10,15 +10,21 @@ class SeriesPage extends Component {
     frontmatter: PropTypes.any.isRequired,
     dispatch: PropTypes.any,
     hosts: PropTypes.any,
+    divHeight: PropTypes.any,
   };
 
   constructor(props) {
     super(props);
     this.state = {
       isOpen: false,
+      widthClient: null,
     };
   }
 
+
+  componentDidMount() {
+    this.setState({ widthClient: this.getWidth() })
+  }
 
   hanndlePlayClick = (e) => {
     const {
@@ -27,7 +33,6 @@ class SeriesPage extends Component {
       frontmatter,
       hosts,
     } = this.props
-    console.log('asma series page', this.props)
     const { episode, index } = JSON.parse(e.target.value)
     this.setState({ isOpen: true })
     dispatch(toggleDarkMode(
@@ -43,15 +48,31 @@ class SeriesPage extends Component {
     ))
   }
 
+
   handleCloseClick = () => {
     this.setState({ isOpen: false })
   }
 
+  getWidth = () => {
+    if (typeof (window.innerWidth) === 'number') {
+      // Non-IE
+      return window.innerWidth;
+    } if (document.documentElement
+      && (document.documentElement.clientWidth || document.documentElement.clientHeight)) {
+      // IE 6+ in 'standards compliant mode'
+      return document.documentElement.clientWidth;
+    } if (document.body && (document.body.clientWidth || document.body.clientHeight)) {
+      // IE 4 compatible
+      return document.body.clientWidth;
+    }
+    return null
+  }
+
   render() {
-    const { episodes } = this.props;
-    const { isOpen } = this.state;
+    const { episodes, divHeight } = this.props;
+    const { isOpen, widthClient } = this.state;
     return (
-      <div className="SeriesPage">
+      <div className="SeriesPage" style={widthClient < 700 ? { paddingTop: divHeight - 175 } : {}}>
         {
           episodes.map((episode, index) => (
             <div key={index} className="Episode">

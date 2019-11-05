@@ -21,6 +21,7 @@
   margin-left: 100px;
 }
 .player-info-contet {
+  white-space: pre-line;
   width: 750px;
   font-family: Roboto;
   font-style: normal;
@@ -222,6 +223,7 @@
     font-size: 13px;
     width: auto;
     margin: 0;
+    height: auto;
   }
 
 }

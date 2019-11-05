@@ -1,19 +1,19 @@
 list:
-  - image: /images/uploads/hakkımızda-banner-1.jpg
+  - image: /images/uploads/hakkimizda.png
     title: KANAL HAYAT HAKKINDA
-  - image: /images/uploads/iletişim-1.jpg
+  - image: /images/uploads/iletişim-1.png
     title: İletişim
   - image: 'https://i.ibb.co/xHDqcZm/km.png'
     title: Test
   - image: 'https://i.ibb.co/xHDqcZm/km.png'
     title: Test2
-  - image: /images/uploads/yayın-akışı-1.jpg
+  - image: /images/uploads/addriann.png
     title: Yayın Akışı
-  - image: /images/uploads/kolaj-1.jpg
+  - image: /images/uploads/sunucular.png
     title: Seriler
-  - image: /images/uploads/kk-friend-banner-save-for-web.jpg
+  - image: /images/uploads/iletişim-1.png
     title: BİLGİ EDİN
   - image: /images/uploads/sss-1.jpg
     title: S. S. S.
-  - image: /images/uploads/kolaj-2.jpg
+  - image: /images/uploads/seriler.png
     title: Sunucular

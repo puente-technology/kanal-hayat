@@ -380,7 +380,7 @@ class SeriesList extends Component {
 
         <div className="SeriesListSortAndFilter">
           <div style={{ display: 'flex', alignItems: 'center' }}>
-            <p style={{ marginRight: '10px' }}>
+            <p className="filteringTag" style={{ marginRight: '10px' }}>
               Sirala:
             </p>
             <button
@@ -401,7 +401,7 @@ class SeriesList extends Component {
             </button>
           </div>
           <div style={{ display: 'flex', alignItems: 'center' }}>
-            <p style={{ marginRight: '10px' }}>
+            <p className="filteringTag" style={{ marginRight: '10px' }}>
               Filtrele:
             </p>
             <Dropdown handleLanguageChange={this.handleLanguageChange} list={['Dil', 'Turkce', 'English']} />

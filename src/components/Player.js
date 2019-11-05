@@ -616,7 +616,7 @@ class Player extends Component {
                   showProgressThumb={showProgressThumb}
                 />
                 <div className="isBigControls">
-                  <div style={{ width: '25%' }} />
+                  <div className="dummyDiv" style={{ width: '25%' }} />
                   <PlayerControls
                     playerProps={props}
                     playerNext={this.playerNext}

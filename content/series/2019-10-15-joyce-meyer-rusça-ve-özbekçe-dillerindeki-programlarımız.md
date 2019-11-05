@@ -2,8 +2,9 @@
 template: SeriesPageTemplate
 title: (Rusça ve Özbekçe) Programlarımız
 publishDate: .
-coverImage: /images/uploads/joyce-meyer-save-for-web.jpg
-host: Joyce Meyer ile
+coverImage: /images/uploads/joyce-meyer-enjoying-everyday-life.jpeg
+host: Joyce Meyer
+popularity: '5'
 description: >-
   Joyce Meyer'in  (Rusça ve Özbekçe) Dillerindeki Programlarını Kanal Hayat
   ekranlarından veya youtube sayfamızdan takip edebilirsiniz. Esen Kalın.
