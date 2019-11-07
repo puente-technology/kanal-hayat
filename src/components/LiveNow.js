@@ -12,6 +12,8 @@ import { toggleDarkMode } from '../state/app';
 import './LiveNow.scss'
 import { sortTimeString } from '../utils/utils';
 
+const scrollIndicator = require('../../static/images/scrollIndicator.svg');
+
 export default (isLiveStream) => {
   return (
     <StaticQuery
@@ -197,9 +199,9 @@ export class LiveNowC extends React.Component {
     if (filtered) {
       filteredList = filtered.sort((sortTimeString))
     }
-    if (filteredList && filteredList.length > 4) {
+    /* if (filteredList && filteredList.length > 4) {
       filteredList = filteredList.slice(0, 4)
-    }
+    } */
     return (
       <div className="LiveNow">
         <div className={`LiveNow--Title ${isLiveStream && 'live-stream'}`}>
@@ -241,6 +243,13 @@ export class LiveNowC extends React.Component {
           )
         }
         </div>
+        {
+        filteredList && (
+          <div className="LiveNow--ScrollIcon">
+            <img src={scrollIndicator} alt="scrolling" />
+          </div>
+        )
+        }
       </div>
     )
   }
