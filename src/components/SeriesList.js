@@ -10,6 +10,14 @@ import Dropdown from './Dropdown';
 
 const rightArrow = require('../../static/images/right-arrow-black.svg');
 
+const langValues = {
+  Türkçe: '0',
+  Kurdish: '1',
+  Uzbek: '2',
+  Syriani: '3',
+  Turkmen: '4',
+}
+
 class SeriesList extends Component {
   constructor(props) {
     super(props)
@@ -57,7 +65,7 @@ class SeriesList extends Component {
   }
 
   handleLanguageChange = (value) => {
-    const valueType = value === 'Turkce' ? '0' : '1'
+    const valueType = langValues[value]
     let { listSeries } = this.state;
     const { data } = this.props;
     listSeries = this.dataIntoArray(data)
@@ -404,7 +412,7 @@ class SeriesList extends Component {
             <p className="filteringTag" style={{ marginRight: '10px' }}>
               Filtrele:
             </p>
-            <Dropdown handleLanguageChange={this.handleLanguageChange} list={['Dil', 'Turkce', 'English']} />
+            <Dropdown handleLanguageChange={this.handleLanguageChange} list={['Dil', 'Türkçe', 'Kurdish', 'Uzbek', 'Syriani', 'Turkmen']} />
             <Dropdown handleTargetChange={this.handleTargetChange} list={['Hedef Kitle', 'Herkes', 'Çocuk', 'Genç', 'Yetişkin']} />
           </div>
           {/* <Dropdown handleHostChange={this.handleHostChange} list={hostList} /> */}
