@@ -113,105 +113,6 @@ questions:
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Sizce Tanrı’nın Kimliğini en iyi şekilde kim
-      açıklayabilir ? Tabi ki bu konuda herkes bir fikir sahibidir ama aslında
-      bu sorunun cevabını verecek olan yine Tanrı’dır. Kendi kimliğini
-      yaratılışına açıklayabilecek olan tek yetkili yine O’dur. Kutsal Kitaba
-      baktığımızda ; Yuhanna 4:24 Tanrı Ruhtur…der. 1.Yuhanna 4:8  “Tanrı
-      sevgidir.” Ve O’nun sevgisi tek taraflı olan bir sevgi değildir. 1.Yuhanna
-      1:5 “Tanrı ışıktır”  Ayrıca başka yerde Yuhanna 1:9. Ayette şöyle devam
-      etmektedir; Dünyaya gelen, her insanı aydınlatan gerçek ışık vardı.  O,
-      dünyadaydı, dünya O’nun aracılığıyla var oldu, ama dünya O’nu tanımadı. 
-      Kendi yurduna geldi, ama kendi halkı O’nu kabul etmedi.  Kendisini kabul
-      edip adına iman edenlerin hepsine Tanrı’nın çocukları olma hakkını verdi. 
-      Onlar ne kandan, ne beden ne de insan isteğinden doğdular; tersine,
-      Tanrı’dan doğdular. Daha fazla bilgi edinmek için lütfen programlarımızı
-      izleyin.
-    question: Hristiyanlıkta Tanrı'nın Kimliği ?
-    videos:
-      - guests: .
-        host: Zekeriya Butrus ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            Zekeriya Butrus "İmana Dair Sorular" programıyla kendimize
-            sorduğumuz pek çok soruyu Kutsal Kitap ışığında cevaplıyor.Programı
-            sayfamızdan takip edebilirsiniz.
-
-            Tanrı var mı ? 
-
-            Tanrı Oğlu Ne Demek?
-
-            Hristiyanlık Kavramı Nedir?
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT29M1S
-          id: eqx0ZkQeTDA
-          imageURL: 'https://i.ytimg.com/vi/eqx0ZkQeTDA/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2011-11-10T11:09:44.000Z'
-          tags: >-
-            Hristiyan,musevi,hz.isa,yahudi,hristiyanlik,barnabas
-            incili,ahiret,kiyamet,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
-          title: 08. Bölüm (Hristiyanlığın Tanrı kavramı/Haçlı seferleri)
-          url: 'https://www.youtube.com/watch?v=eqx0ZkQeTDA'
-          viewCount: '1489'
-      - guests: .
-        host: Can Nuroğlu ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            Hey Gavur! Anlatsana... 3- Hristiyanlıkta Tanrı'nın Kimliği
-
-            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur!
-            Anlatsana." programını sayfamızdan takip edebilirsiniz. 
-
-            Esen Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT28M46S
-          id: Ufq8rmr7V90
-          imageURL: 'https://i.ytimg.com/vi/Ufq8rmr7V90/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2013-02-28T22:35:38.000Z'
-          tags: >-
-            Kutsal,hristiyanlık,ahiret,hz
-            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,kutsal
-            ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
-            butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
-            Hayat,Pusula,kiyamet gunu,gavur,carmih
-          title: 3- Hristiyanlıkta Tanrı'nın Kimliği
-          url: 'https://www.youtube.com/watch?v=Ufq8rmr7V90'
-          viewCount: '9510'
-      - guests: .
-        host: Hakan Taştan ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ''
-          duration: PT28M38S
-          id: XLIMWH2r2yo
-          imageURL: 'https://i.ytimg.com/vi/XLIMWH2r2yo/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2017-02-27T13:39:27.000Z'
-          tags: 'yaratan,tanrı'
-          title: Gerçeğin Sesi - 82.Bölüm - Yaratan Tanrı
-          url: 'https://youtu.be/XLIMWH2r2yo'
-          viewCount: '414'
-  - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
       için yanıtladık. Bizler üç Tanrı'ya değil, tüm evreni Söz'üyle yaratmış
       tek bir Tanrı'ya inanıyoruz. Yüce Tanrı, Kendi doğaüstü varlığını bize üç
       kişilikte göstermiştir. Tanrı, öz varlığında ezelden ebediyete kadar var
@@ -287,15 +188,18 @@ questions:
           url: 'https://www.youtube.com/watch?v=sCYFo75gskU'
           viewCount: '11587'
       - guests: .
-        host: Hakan Taştan ile
+        host: Can Nuroğlu ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            95-Gerçeğin Sesi - Kutsal Ruh Nedir?  
+            Hey Gavur! Anlatsana...
 
-            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
-            ışığında gerçekleştirdi "Gerçeğin Sesi" programını sayfamızdan takip
-            edebilirsiniz.Esen Kalın.
+            Hristiyanlıkta Tanrı'nın Kimliği
+
+            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur!
+            Anlatsana." programını sayfamızdan takip edebilirsiniz. 
+
+            Esen Kalın.
 
             http://kanalhayat.tv/
 
@@ -304,15 +208,20 @@ questions:
             https://www.facebook.com/kanalhayat
 
             https://twitter.com/kanalhayat
-          duration: PT27M23S
-          id: bFT81Dw_bnc
-          imageURL: 'https://i.ytimg.com/vi/bFT81Dw_bnc/hqdefault.jpg'
+          duration: PT28M46S
+          id: Ufq8rmr7V90
+          imageURL: 'https://i.ytimg.com/vi/Ufq8rmr7V90/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2018-05-01T08:42:33.000Z'
-          tags: 'hristiyan,incil,kilise,#kutsal,#ruh'
-          title: 95-Gerçeğin Sesi - Kutsal Ruh Nedir?
-          url: 'https://www.youtube.com/watch?v=bFT81Dw_bnc'
-          viewCount: '2544'
+          publishedAt: '2013-02-28T22:35:38.000Z'
+          tags: >-
+            Kutsal,hristiyanlık,ahiret,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,kutsal
+            ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
+            butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
+            Hayat,Pusula,kiyamet gunu,gavur,carmih
+          title: Hey Gavur! Anlatsana - Hristiyanlıkta Tanrı'nın Kimliği 3.Bölüm
+          url: 'https://www.youtube.com/watch?v=Ufq8rmr7V90'
+          viewCount: '9715'
   - answer: >-
       İncil kitabı değiştirilmiş olsa idi, günümüzde değişmemiş ve değişmiş
       olmak üzere iki çeşit İncil bulunurdu ki böyle bir durum söz konusu
@@ -1668,31 +1577,15 @@ questions:
         host: Can Nuroğlu ile
         targetGroup: Herkes
         youtubeURL:
-          description: >-
-            Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
-            ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal
-            Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen
-            Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT27M11S
-          id: UzotzuYs8m0
-          imageURL: 'https://i.ytimg.com/vi/UzotzuYs8m0/hqdefault.jpg'
+          description: ''
+          duration: PT24M34S
+          id: wQDreLqXwLc
+          imageURL: 'https://i.ytimg.com/vi/wQDreLqXwLc/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-01-22T11:46:08.000Z'
-          tags: >-
-            hristiyan,ahlakına,giriş
-            nedir?,günah,helal,haram,para,faiz,borç,cinsellik,din,müslümanlık,müslüman,ehli
-            sünnet,sahipleri,cemaat,muhammet,Rab,isa mesih kimdir?,incil okdunuz
-            mu?
-          title: Hristiyan Ahlakı - Hristiyan Ahlakına Giriş
-          url: 'https://youtu.be/UzotzuYs8m0'
-          viewCount: '1169'
+          publishedAt: '2017-10-23T06:45:59.000Z'
+          tags: 'cesurca,yaşamak'
+          title: 1096 1 Cesurca Yaşamak 1
+          url: 'https://www.youtube.com/watch?v=wQDreLqXwLc'
+          viewCount: '144'
 ---
 
