@@ -1033,32 +1033,23 @@ questions:
         host: Ahmet Güvener ile
         targetGroup: Herkes
         youtubeURL:
-          description: ''
-          duration: PT26M49S
-          id: aqt3pVzPF0I
-          imageURL: 'https://i.ytimg.com/vi/aqt3pVzPF0I/hqdefault.jpg'
+          description: >-
+            Vaftiz Nedir? Neden Yapılıyor?
+
+            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
+            Pastör Ender Peker'in katılımıyla gerçekleştirdiği programı
+            sayfamızdan takip edebilirsiniz
+          duration: PT27M58S
+          id: e-gZ_Tn1yvQ
+          imageURL: 'https://i.ytimg.com/vi/e-gZ_Tn1yvQ/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2019-03-01T16:59:15.000Z'
-          tags: 'hristiyanlık,hristiyan,kilise,hz isa,isa mesih,incil'
-          title: İsa Mesih İnsan Değilse Neden Vaftiz Oldu?
-          url: 'https://www.youtube.com/watch?v=aqt3pVzPF0I'
-          viewCount: '1119'
+          publishedAt: '2019-04-09T11:39:14.000Z'
+          tags: '#vaftiz #nedir #kilise'
+          title: Vaftiz Nedir? Neden Yapılıyor?
+          url: 'https://youtu.be/e-gZ_Tn1yvQ'
+          viewCount: '1179'
       - guests: .
-        host: Memduh Uysal ve Işık Abla ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ''
-          duration: PT29M26S
-          id: 4us0OyZxKj8
-          imageURL: 'https://i.ytimg.com/vi/4us0OyZxKj8/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2013-09-04T12:10:19.000Z'
-          tags: 'şeria,ırmağı,vaftiz'
-          title: 23. Bölüm İsa Mesih Şeria Irmağında Vaftiz Ediliyor
-          url: 'https://www.youtube.com/watch?v=4us0OyZxKj8'
-          viewCount: '1348'
-      - guests: .
-        host: 'Hakan Taştan ile '
+        host: Hakan Taştan ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
@@ -1079,9 +1070,23 @@ questions:
             hristiyanlık,ahiret,kıyamet,hz
             isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
             anlatsana,kutsal ruh,isa mesih,mesih,Rab,Allah,Turkey,Istanbul,Asker
-          title: Gerçeğin Sesi - Vaftiz 31.Bölüm
+          title: Gerçeğin Sesi - Vaftiz Nedir?
           url: 'https://youtu.be/DanYnWZnKJY'
-          viewCount: '430'
+          viewCount: '433'
+      - guests: .
+        host: 'Charles Stanley ile '
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT28M2S
+          id: VH_vlgzJ69Q
+          imageURL: 'https://i.ytimg.com/vi/VH_vlgzJ69Q/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2016-03-01T12:05:28.000Z'
+          tags: 'Hristiyanlık,hristiyan vaaz,hristiyan'
+          title: 'Vaftiz, Kutsal Yazıların Açık Öğretisidir'
+          url: 'https://www.youtube.com/watch?v=VH_vlgzJ69Q'
+          viewCount: '226'
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
