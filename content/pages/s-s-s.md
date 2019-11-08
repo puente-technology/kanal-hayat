@@ -846,7 +846,7 @@ questions:
       koru. Egemenlik, Güç ve Yücelik sonsuzlara dek Senindir. Amin.” Dua sadece
       yazılı metinlere bağlı kalmak olarak anlaşılmamalıdır. Hristiyanlar hem
       toplu olarak hem de yalnız kaldıklarında Tanrı ile iletişim kurmaya
-      çalışıp O’na dertlerini anlatırlar. Ruhsal gelişim için oldukla etkili
+      çalışıp O’na dertlerini anlatırlar. Ruhsal gelişim için oldukça etkili
       olan dua hakkında daha detaylı bilgi edinmek isterseniz aşağıdaki
       programlarımızı inceleyebilirsiniz. 
     question: Hristiyanlık'ta Nasıl Dua Edilir?
@@ -1010,23 +1010,24 @@ questions:
           url: 'https://www.youtube.com/watch?v=t0eMqamzg04'
           viewCount: '809'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Hristiyanlık’ta vaftiz kavramını sürekli duyarız.
-      Hristiyanlığın en önemli ritüellerinden birisidir vaftizdir. Peki vaftiz
-      nedir? Nereden gelir? Hristiyanlar neden vaftiz olurlar?  Hristiyanlığın
-      temel vurgusu, günahlarımızın sonucu olarak Tanrı ile bozulmuş olan
-      ilişkilerimizin, İsa Mesih’in çarmıh üzerindeki kefareti ile onarılması,
-      barışın sağlanması ve günaha olan köleliğimizin sona erdirilmesidir ve
-      vaftiz bu inancın en önemli dışavurumudur. Vaftiz olmanın öneminin
-      yanında, İsa Mesih’in son buyruğu olduğu için çok önemlidir. İsa Mesih
-      göğe yükselmeden önce öğrencilerine şöyle buyurmuştur:  “Gökte ve
-      yeryüzünde bütün yetki bana verildi. Bu nedenle gidin, bütün ulusları
-      öğrencilerim olarak yetiştirin; onları Baba, Oğul ve Kutsal Ruh’un adıyla
-      vaftiz edin; size buyurduğum her şeye uymayı onlara öğretin. İşte ben,
-      dünyanın sonuna dek her an sizinle birlikteyim.” (Matta 28:18-20) Esen
-      Kalın.
-    question: Vaftiz Nedir? İman Ettim Vaftiz Olmam Gerekiyor Mu?
+      Vaftiz aracılığıyla İsa Mesih’in çarmıhtaki ölümüne ve dirilişine bir
+      şekilde ortak oluyoruz. Çünkü İsa Mesih bizim günahlarımızın kefaret
+      kurbanı olarak ölüyor ve 3 gün sonra diriliyor. Biz de vaftiz olduğumuzda,
+      suya battığımızda, günah dolu yaşamalarımıza bir nevi ölüyoruz ve sudan
+      çıktığımızda yeni bir yaşamla bir nevi diriliyoruz. Bu şekilde
+      günahlarımızın bağışlanmasıyla Yasa’nın değil, lütfun; ölümün değil,
+      yaşamın; kötülüğün değil, iyiliğin; savaşın değil, barışın çocukları
+      oluyoruz.  Bu yüzden vaftiz, Hristiyanlıktaki en önemli ritüellerden
+      biridir. Çünkü Tanrı’nın lütfu olan antlaşmayı, İsa Mesih ve çarmıh
+      aracılığıyla kölelikten kurtuluşu ve Kutsal Ruh’un gelişini, yani
+      Antlaşma’nın ve Tanrı’nın Krallığı’nın yüreklerimizde egemen olmasını
+      simgeler.  Vaftiz olmanın öneminin yanında, İsa Mesih’in son buyruğu da
+      çok çok önemlidir. İsa Mesih göğe yükselmeden önce öğrencilerine şöyle
+      buyurmuştur:  “Gökte ve yeryüzünde bütün yetki bana verildi. Bu nedenle
+      gidin, bütün ulusları öğrencilerim olarak yetiştirin; onları Baba, Oğul ve
+      Kutsal Ruh’un adıyla vaftiz edin." Vaftiz hakkında daha detaylı bilgi için
+      aşağıda sizler için videolar seçtik, lütfen izleyiniz. 
+    question: 'Vaftiz Nedir? '
     videos:
       - guests: .
         host: Ahmet Güvener ile
