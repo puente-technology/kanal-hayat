@@ -23,7 +23,7 @@ questions:
       çarpar. Bu durumda İsa’nın içindeki öz Tanrı olarak kabul edilmiş ve
       dolayısıyla İsa’ya da tapınılmıştır. Bu konuda açıklayıcı programlarımızı
       incelemek isterseniz aşağıdaki linklere tıklayabilirsiniz.
-    question: İsa Tanrı değildir.Buna Nasıl inanıyorsunuz?
+    question: İsa Tanrı değildir. Buna nasıl inanıyorsunuz?
     videos:
       - guests: .
         host: Hakan Taştan ile
@@ -233,7 +233,7 @@ questions:
       olmak üzere iki çeşit İncil bulunurdu ki böyle bir durum söz konusu
       değildir. Bu konuda açıklayıcı programlarımızı incelemek isterseniz
       aşağıdaki linklere tıklayabilirsiniz.
-    question: İncil Değiştirilmiştir. Neden halen inanıyorsunuz?
+    question: İncil değiştirilmiştir. Neden halen inanıyorsunuz?
     videos:
       - guests: .
         host: Can Nuroğlu ile
@@ -542,7 +542,7 @@ questions:
       yazarlarından birisi yazmış olup, kitabın adını Barnabas İncili koyarak
       kendince ilgi çekmeye çalışmıştır. Bu konuda açıklayıcı programlarımızı
       incelemek isterseniz aşağıdaki linklere tıklayabilirsiniz.
-    question: Barnabas İncil’i nerede saklıyorsunuz? Neden birçok İnciliniz var?
+    question: 'Barnabas İncil’i nerede saklıyorsunuz? '
     videos:
       - guests: .
         host: 'Hakan Taştan ile '
@@ -697,7 +697,7 @@ questions:
       benzeyen ikinci buyruk da şudur: `Komşunu kendin gibi seveceksin.` Kutsal
       Yasa`nın tümü ve peygamberlerin sözleri bu iki buyruğa dayanır.” (Matta
       22:35-40) Esen Kalın.
-    question: Avrupa Hristiyanlığı Bırakırken siz neden inanıyorsunuz?
+    question: Avrupa Hristiyanlığı bırakırken siz neden inanıyorsunuz?
     videos:
       - guests: .
         host: Hakan Taştan ile
