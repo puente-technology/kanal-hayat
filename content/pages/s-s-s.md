@@ -836,28 +836,19 @@ questions:
           url: 'https://www.youtube.com/watch?v=j3L3xbl_1M0'
           viewCount: '84'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Aşağıdaki programlarımızı izleyerek detaylı bilgi
-      edinebilirsiniz.  Dua Rab’bi çağırmak ve O’nunla konuşmaktır. Muhtaç
-      durumumuzu ona bildirmektir. İsa aracılığıyla Tanrı ile
-      barıştırıldığımızda Kendisiyle olan dostluğumuzu ihmal etmemeliyiz.
-      O’nunla zaman geçirmeliyiz. Bize söylemek istediklerini dinlemeyi
-      öğrenmeliyiz. Bütün varlığı yaratan ve onlarla irtibata geçmek için
-      kendini açıklamış olan Tanrı’yla ruhsal bir cevaptır dua. Duanın kapsamı
-      yalnızca Tanrı’yla konuşmayı içermemektedir. Tanrı’yı çağırmak ve O’nunla
-      dertleşmek, sonra O’ndan ruhsal anlamda cevaplar beklemek, hiçbir söz
-      söylemeden, yürek derinliğinden O’nu yüceltmek O’na tapınmak ve bütün
-      gereksinimlerimizi O’ndan istemektir de.“Dua ettiğinizde putperestler gibi
-      putperestler gibi boş sözler tekrarlayıp durmayın. Onlar söz kalabalığıyla
-      seslerini duyurabileceklerini sanırlar. Siz onlara benzemeyin. Çünkü
-      Babanız nelere gereksiniminiz olduğunu daha siz O’ndan dilemedene önceden
-      bilir. Bunun için siz şöyle dua edin : Göklerdeki Babamız; Adın kutsal
-      kılınsın. Egemenliğin gelsin. Gökte olduğu gibi yeryüzünde de Senin
-      istediğin olsun. Bu gün bize gündelik ekmeğimizi ver. Bize karşı suç
-      işleyenleri bağışladığımız gibi Sen de bizim suçlarımızı bağışla.
-      Ayartılmamıza izin verme. Kötü olandan bizi kurtar. Çünkü egemenlik, güç
-      ve yücelik Sonsuzlara dek senindir, Amin Matta 6:7-13 Esen Kalın.
+      Dua etmek kadim topluluklardan beri var olmuş, Yaratıcı ile konuşmak
+      olarak açıklanabilen bir durumdur. Hristiyanlar İsa’dan öğrendikleri “Ey
+      Göklerdeki Babamız” duasını değiştirmeden uygulayan topluluklardır. Bu dua
+      da şöyledir: “Ey Göklerdeki Babamız, adın Kutsal kılınsın, Hükümranlığın
+      gelsin. Göklerde olduğu gibi yeryüzünde de Senin isteğin olsun. Bugün
+      bizlere gündelik ekmeğimizi ver. Bize karşı suç işleyenleri bağışladığımız
+      gibi Sen de bizleri bağışla. Ayartılmamıza izin verme ve kötü olandan
+      koru. Egemenlik, Güç ve Yücelik sonsuzlara dek Senindir. Amin.” Dua sadece
+      yazılı metinlere bağlı kalmak olarak anlaşılmamalıdır. Hristiyanlar hem
+      toplu olarak hem de yalnız kaldıklarında Tanrı ile iletişim kurmaya
+      çalışıp O’na dertlerini anlatırlar. Ruhsal gelişim için oldukla etkili
+      olan dua hakkında daha detaylı bilgi edinmek isterseniz aşağıdaki
+      programlarımızı inceleyebilirsiniz. 
     question: Hristiyanlık'ta Nasıl Dua Edilir?
     videos:
       - guests: .
