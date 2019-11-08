@@ -111,20 +111,26 @@ questions:
           url: 'https://www.youtube.com/watch?v=IKX6ppjV_V8'
           viewCount: '4318'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Bizler üç Tanrı'ya değil, tüm evreni Söz'üyle yaratmış
-      tek bir Tanrı'ya inanıyoruz. Yüce Tanrı, Kendi doğaüstü varlığını bize üç
-      kişilikte göstermiştir. Tanrı, öz varlığında ezelden ebediyete kadar var
-      olan, uyum ve birlik içerisinde hareket eden üç ayrı kişisel benlikten
-      ibaret olup bir bütün olarak görünmektedir: Baba, Oğul ve Kutsal Ruh. Bu
-      konu her ne kadar karışık gibi gözükse de asıl karışıklık yaratan şey,
-      sonsuz ve sınırsız bir Tanrı'yı kendi sınırlı beynimizin düşünce yapısına
-      göre betimlemektir. Matta 28:19'daki ayete baktığımızda İsa Mesih'in
-      kendini Baba ve Kutsal Ruh'la beraber tek bir kişi olarak belirttiğini
-      görürüz: "Bu nedenle gidin, bütün ulusları öğrencilerim olarak yetiştirin;
-      onları Baba, Oğul ve Kutsal Ruh`un adıyla vaftiz edin." Esen Kalın.
-    question: Üç Tanrı'ya Mı İnanıyoruz? Tevhid'te Teslis - Üçlü Birlik Nedir?
+      Hristiyanlar 3 değişik Tanrı’ya inanmazlar. Tek Tanrı’ya inanırlar. Ancak
+      bu Tek Tanrı’yı tarif ederken üç değişik kişiliğinden bahsederler. Baba,
+      Oğul ve Kutsal Ruh. Bu konuyu şöyle açıklayabiliriz. İsa Mesih Tek Tanrı
+      için “Göklerde Olan Babamız” ifadesini kullanmıştır. Dolayısıyla
+      görünmeyen bir Tanrı mevcuttur ve Manevi ve Göksel Babamızdır. İsa Mesih
+      vaftiz olduğu ve dünyaya bu Baba’yı anlatmaya başladığı zaman göklerden
+      gelen bir ses duyulmuş ve İsa’yı göstererek “Oğlum budur!” demiştir.
+      Dolayısıyla İsa Mesih için Tanrı’nın Oğlu’dur demek yanlış olmaz. Burada
+      fiziksel bir oğulluk söz konusu değildir. Ancak İsa Tanrı’nın katından
+      gelmiş manevi bir Oğuldur ve bizi de Tanrı’nın oğulları ve kızları olmaya
+      davet eder. İsa Mesih göklere alındığı zaman “Size Baba’mın yanına gidince
+      oradan bir Yardımcı göndereceğim” demiştir. Sözünü ettiği bu kişi Kutsal
+      Ruhtur ve İsa’nın aramızdan ayrılmasından kısa süre sonra onun
+      öğrencilerinin üzerine inmiş ve çeşitli mucizeler yapmaya başlamıştır.
+      Kutsal Ruh gözle görünmez ama kişinin içinde yaşar ve iman ve mucize dolu
+      aktiviteler ile kendisini belli eder. Kutsal Ruh insanları değiştirip
+      Kutsal kılmak ve yukarıda da belirttiğimiz üzere, onları Tanrının
+      çocukları yapmak ve cennet için hazırlamak ister. Bu konuda daha fazla
+      bilgi için lütfen aşağıdaki videoları seyrediniz.
+    question: Hristiyanlar 3 Tanrı'ya mı inanıyor?
     videos:
       - guests: .
         host: Ahmet Güvener ile
