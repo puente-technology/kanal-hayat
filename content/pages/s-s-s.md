@@ -747,7 +747,19 @@ questions:
           title: 1096 1 Cesurca Yaşamak 1
           url: 'https://www.youtube.com/watch?v=wQDreLqXwLc'
           viewCount: '144'
-  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. Hristiyanlar kendi doğruluklarıyla değil, Tanrı''nın lütfuyla aklanmış  olan kutsallardır. Mesih İsa Hristiyanların önderi ve rehberidir. Hristiyanlar içlerinde bulunan Kutsal Ruh''un yardımıyla gün ve gün Mesih''e benzer olmak üzere değişirler. Bu değişim Mesih''e bakarak ve O''nda kavuşmuş oldukları yeni doğaya fark ederek gerçekleşir. Hristiyan ahlakının temelinde Mesih benim yerimde olsa ne yapardı sorusunun yanıtı yatar.  Hristiyanlar yaşamlarıyla İsa Mesih''i bu dünyadaki diğer insanlara yansıtır ve tanıtırlar. Kutsallık, Mesih''in lütfu aracılığıyla iman edildiğinde birden kavuşulan ama buna uygun düzeyde bir yaşam sürmek için bir yaşam boyu süren bir değişimdir. Kişi Mesih''in lütfu aracılığıyla  kavuşmuş olduğu kutsallığı, yani yeni doğasını fark ettikçe bu değişim hızlanır. Değişimin güç kaynağı Kutsal Ruh''tur. Esen Kalın.'
+  - answer: >-
+      Batı dünyası, büyük oranda Hristiyanlığı bırakmış olsa da Hristiyanlığın
+      özünü, aile geleneklerini, cemaatlerini, Tanrı sevgisini, müjdeciliği
+      devam ettirmeye çalışan kiliseler ve gruplar var olmaya devam etmiştir.
+      Bunlar kendi ibadetlerinde bir takım farklılıklar gösterse de her biri
+      özünde İncil’e sadık kalan gruplardır. İncil’de İsa bize İsrail’de bulunan
+      tapınağın yıkılacağını önceden bildirmiş, bundan böyle Yaratıcı ile olan
+      ibadetlerin içsel olacağını, kişilerin Tanrı’yı taştan duvarlar yerine
+      kendi bedeninde ve içselliklerinde araması gerektiğini ilan etmiştir.
+      Hristiyanlıkta ibadetler devam edip önemini korusa bile, imanlılar kendi
+      yüreklerinde Tanrı ile bir ilişki içine girmeye daha çok önem
+      vermişlerdir. Bu konuda daha fazla bilgi edinmek için lütfen videolarımızı
+      seyrediniz. 
     question: Hristiyan Ahlakı ve İbadeti Nasıldır?
     videos:
       - guests: .
