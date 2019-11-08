@@ -49,7 +49,7 @@ questions:
           mediaType: video
           publishedAt: '2018-01-29T12:27:54.000Z'
           tags: '#isa,#mesih,#kimdir?,#gerçeğin,#sesi,#dağdaki,#vaaz,#incil'
-          title: 90-Gerçeğin Sesi - İsa Mesih Kimdir?
+          title: İsa Mesih Kimdir?
           url: 'https://www.youtube.com/watch?v=dZqNZQnOCF0'
           viewCount: '7306'
       - guests: .
@@ -82,7 +82,7 @@ questions:
             ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
             butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
             Hayat,Pusula,kiyamet gunu,gavur,carmih
-          title: 4- Hristiyanlıkta Mesih'in Kimliği
+          title: Hristiyanlıkta Mesih'in Kimliği
           url: 'https://www.youtube.com/watch?v=B-TXrmlAFc0'
           viewCount: '5392'
       - guests: .
@@ -107,7 +107,7 @@ questions:
           mediaType: video
           publishedAt: '2016-06-03T06:27:48.000Z'
           tags: 'hristiyanlık,hristiyan'
-          title: 'İnancın İfadesi - İsa Mesih, Neden Tek Çare? 9.Bölüm'
+          title: 'İsa Mesih, Neden Tek Çaremiz? '
           url: 'https://www.youtube.com/watch?v=IKX6ppjV_V8'
           viewCount: '4318'
   - answer: >-
@@ -155,9 +155,7 @@ questions:
           mediaType: video
           publishedAt: '2017-07-13T10:07:10.000Z'
           tags: 'teslis,üçlü,birlik,nedir?'
-          title: >-
-            Tevrat'ın Müjdelediği Mesih -  “Tevhid’te Teslis” Üçlü Birlik nedir?
-            27.Bölüm
+          title: “Tevhid’te Teslis” Üçlü Birlik nedir?
           url: 'https://www.youtube.com/watch?v=VlJZAPJxHMk'
           viewCount: '1182'
       - guests: .
@@ -190,7 +188,7 @@ questions:
           tags: >-
             kiyamet,ahiret,hz isa,hristiyan,hristiyanlik,incil,barnabas,zekeriya
             butros,isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
-          title: 01. Bölüm (3 Tanrı mı var?)
+          title: 3 Tanrı mı var?
           url: 'https://www.youtube.com/watch?v=sCYFo75gskU'
           viewCount: '11587'
       - guests: .
@@ -225,7 +223,7 @@ questions:
             ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
             butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
             Hayat,Pusula,kiyamet gunu,gavur,carmih
-          title: Hey Gavur! Anlatsana - Hristiyanlıkta Tanrı'nın Kimliği 3.Bölüm
+          title: Hristiyanlıkta Tanrı'nın Kimliği
           url: 'https://www.youtube.com/watch?v=Ufq8rmr7V90'
           viewCount: '9715'
   - answer: >-
@@ -265,7 +263,7 @@ questions:
             ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
             butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
             Hayat,Pusula,kiyamet gunu,gavur
-          title: 1- İncil Değişti mi?
+          title: İncil Değişti mi?
           url: 'https://www.youtube.com/watch?v=Ui3sELeZ8vE'
           viewCount: '38998'
       - guests: .
@@ -292,7 +290,7 @@ questions:
             anlatsana,kutsal ruh,isa
             mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
             stanley,joyce meyer,ışık abla,güçlü erman,protestan,protestanlar
-          title: '8. Bölüm: İncil Değştirildi mi ve Kaç İncil Var?'
+          title: İncil Değştirildi mi ve Kaç İncil Var?
           url: 'https://www.youtube.com/watch?v=LKeyNJkGEOA'
           viewCount: '3606'
       - guests: .
@@ -306,7 +304,7 @@ questions:
           mediaType: video
           publishedAt: '2013-04-19T20:30:17.000Z'
           tags: incil
-          title: '5. Bölüm: , İncil Değişmiş midir?'
+          title: İncil Değişmiş midir?
           url: 'https://www.youtube.com/watch?v=3vZ5m_brbLM'
           viewCount: '8688'
   - answer: >-
@@ -355,7 +353,7 @@ questions:
             isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
             Hayat,neler olacak,kutsal ruh,Mesih kimdi,Allah Sevgidir,Can
             Nuroğlu,Allahı Tanımak
-          title: Allah Sevgidir - Allah'ı Nasıl Nitelendirebiliriz? - 5.Bölüm
+          title: Allah'ı Nasıl Nitelendirebiliriz?
           url: 'https://www.youtube.com/watch?v=UGz-6SwKUyE '
           viewCount: '1157'
       - guests: .
@@ -390,7 +388,7 @@ questions:
             ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
             butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
             Hayat,Pusula,kiyamet gunu,gavur
-          title: Hey Gavur! Anlatsana - Hristiyanlığın İslam'a Bakışı 7.Bölüm
+          title: Hristiyanlığın İslam'a Bakışı
           url: 'https://www.youtube.com/watch?v=5Q_1qY_kKg4  '
           viewCount: '65334'
       - guests: .
@@ -419,7 +417,7 @@ questions:
           publishedAt: '2017-11-01T08:57:18.000Z'
           tags: >-
             Hristiyan,Hristiyanlık,#sorgulayan,#gelsin,#tanrıyı,#sorgulamak,#günah,#mı?
-          title: 'Tanrı''yı sorgulamak günah mı? - [Sorgulayan Gelsin 01]'
+          title: Tanrı'yı sorgulamak günah mı?
           url: 'https://www.youtube.com/watch?v=5Qe7222lmbA '
           viewCount: '6895'
   - answer: >-
@@ -454,80 +452,6 @@ questions:
           title: Hristiyan inancı ve İncil Metinleri
           url: 'https://www.youtube.com/watch?v=VRd8q5xI33I '
           viewCount: '1921'
-      - guests: .
-        host: Ahmet Güvener ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
-            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Tevratı'ın
-            Müjdelediği Mesih" programını sayfamızdan takip edebilirsiniz.Esen
-            Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT28M18S
-          id: hIBiYtStrF4
-          imageURL: 'https://i.ytimg.com/vi/hIBiYtStrF4/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2019-07-15T17:47:53.000Z'
-          tags: 'kurtuluş,kesin,mi?'
-          title: >-
-            Tevrat'ın Müjdelediği Mesih - İsa Mesih'te Kurtuluş Kesin midir?
-            54.Bölüm
-          url: 'https://www.youtube.com/watch?v=hIBiYtStrF4'
-          viewCount: '285'
-      - guests: .
-        host: İhsan Özbek ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: Açıklama
-          duration: PT28M45S
-          id: EttXD7t66Go
-          imageURL: 'https://i.ytimg.com/vi/EttXD7t66Go/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2015-07-21T11:56:58.000Z'
-          tags: kurtuluş
-          title: 39. Bölüm Kurtuluş
-          url: 'https://www.youtube.com/watch?v=EttXD7t66Go'
-          viewCount: '55'
-      - guests: .
-        host: Kirkor Ağabaloğlu ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet"
-            programını Kanala Hayat ekranlarından veya youtube sayfamızdan takip
-            edebilirsiniz.
-
-            Esen Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT27M52S
-          id: cCIz3FC6_yw
-          imageURL: 'https://i.ytimg.com/vi/cCIz3FC6_yw/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2012-10-30T13:37:51.000Z'
-          tags: >-
-            Kutsalliga,Davet,15,hristiyanlık,ahiret,kıyamet,hz
-            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
-            anlatsana,kutsal ruh,isa
-            mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
-            stanley,joyce meyer,ışık abla,güçlü erman,protestan,protestanlar
-          title: '15. Bölüm: Açığa Çıkan Kurtuluş'
-          url: 'https://www.youtube.com/watch?v=cCIz3FC6_yw'
-          viewCount: '675'
   - answer: >-
       Günümüzde Barnabas deyince halkımız gizemli, saklı, üstü örtülü bir
       kitabın varlığını hatırlıyor. Oysa Barnabas adı verilen şahıs İsa’dan
@@ -561,7 +485,7 @@ questions:
           mediaType: video
           publishedAt: '2018-06-29T07:08:18.000Z'
           tags: 'hristiyan,#isa #mesih #kimdir #barnabas #incil'
-          title: 'Barnabas İncili Sahte mi? [119]'
+          title: Barnabas İncili Sahte mi?
           url: 'https://www.youtube.com/watch?v=mMfB4Oio4Tc '
           viewCount: '2277'
       - guests: .
@@ -603,7 +527,7 @@ questions:
             mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Abdullah,Darwin,Mason,charles
             stanley,joyce meyer,ışık abla,güçlü
             erman,protestan,protestanlar,Barnaba,Kanal Hayat
-          title: '7. Bölüm: Barnaba İncili Nedir ve İznik Konseyinde Neler Oldu?'
+          title: Barnabas İncili Nedir ve İznik Konseyinde Neler Oldu?
           url: 'https://youtu.be/XF31_gse7_M'
           viewCount: '9091'
   - answer: >-
@@ -626,7 +550,7 @@ questions:
           mediaType: video
           publishedAt: '2015-01-13T08:25:01.000Z'
           tags: 'misyoner,kime,denir?'
-          title: Sokağın Dili - Misyoner kime denir? 2.Bölüm
+          title: 'Misyoner kime denir? '
           url: 'https://www.youtube.com/watch?v=x-ukMPVRfyg'
           viewCount: '596'
       - guests: .
@@ -657,9 +581,7 @@ questions:
           publishedAt: '2013-02-10T18:58:28.000Z'
           tags: >-
             isa,mesih,Rab,Mesih,Kutsal,Ruh,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,neler,olacak,yargı
-          title: >-
-            Hey Gavur! Anlatsana - Misyonerler ve Hristiyanların Çıkardığı
-            Savaşlar 2.Bölüm
+          title: Misyonerler ve Hristiyanların Çıkardığı Savaşlar
           url: 'https://www.youtube.com/watch?v=5OaUWWmnzSQ'
           viewCount: '6155'
       - guests: .
@@ -684,7 +606,7 @@ questions:
             hristiyanlık,ahiret,kıyamet,hz
             isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
             anlatsana,kutsal ruh,isa mesih,mesih,Rab,Allah,Turkey,Istanbul,Asker
-          title: '15. Bölüm: Haçlı Seferleri Ve Misyonerlik Nedir?'
+          title: Haçlı Seferleri Ve Misyonerlik Nedir?
           url: 'https://www.youtube.com/watch?v=L-ISg7R_coY'
           viewCount: '2148'
   - answer: >-
@@ -716,7 +638,7 @@ questions:
           mediaType: video
           publishedAt: '2018-05-29T08:23:37.000Z'
           tags: 'batı,kültürü,ve,hristiyanlık'
-          title: 'Gerçeğin Sesi - Batı Kültürü ve Gerçek Hristiyanlık [109]'
+          title: 'Batı Kültürü ve Gerçek Hristiyanlık '
           url: 'https://www.youtube.com/watch?v=XMnzZ_y1-oc '
           viewCount: '841'
       - guests: .
@@ -730,23 +652,9 @@ questions:
           mediaType: video
           publishedAt: '2015-07-20T08:53:37.000Z'
           tags: Sorularla Hristiyanlık 1
-          title: 26. Bölüm Sorularla Hristiyanlık 1
+          title: Sorularla Hristiyanlık
           url: 'https://www.youtube.com/watch?v=tbIzCkoXTtI  '
           viewCount: '722'
-      - guests: ''
-        host: Can Nuroğlu ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ''
-          duration: PT24M34S
-          id: wQDreLqXwLc
-          imageURL: 'https://i.ytimg.com/vi/wQDreLqXwLc/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2017-10-23T06:45:59.000Z'
-          tags: 'cesurca,yaşamak'
-          title: 1096 1 Cesurca Yaşamak 1
-          url: 'https://www.youtube.com/watch?v=wQDreLqXwLc'
-          viewCount: '144'
   - answer: >-
       Batı dünyası, büyük oranda Hristiyanlığı bırakmış olsa da Hristiyanlığın
       özünü, aile geleneklerini, cemaatlerini, Tanrı sevgisini, müjdeciliği
@@ -792,7 +700,7 @@ questions:
             ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
             butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
             Hayat,Pusula,kiyamet gunu,gavur
-          title: 6- Hristiyan Ahlakı ve İbadeti
+          title: Hristiyan Ahlakı ve İbadeti
           url: 'https://www.youtube.com/watch?v=wF7x5bFV8Lg'
           viewCount: '23925'
       - guests: .
@@ -806,7 +714,7 @@ questions:
           mediaType: video
           publishedAt: '2015-07-31T07:03:56.000Z'
           tags: İbadet
-          title: 46. Bölüm İbadet
+          title: İbadet
           url: 'https://www.youtube.com/watch?v=Xb3JRHbx_-g'
           viewCount: '174'
       - guests: .
@@ -832,7 +740,7 @@ questions:
           mediaType: video
           publishedAt: '2016-02-15T11:06:07.000Z'
           tags: ibadet
-          title: 19. Bölüm İbadet
+          title: İbadet
           url: 'https://www.youtube.com/watch?v=j3L3xbl_1M0'
           viewCount: '84'
   - answer: >-
@@ -862,7 +770,7 @@ questions:
           mediaType: video
           publishedAt: '2013-10-23T13:43:30.000Z'
           tags: 'gerçek,dua,nasıl,edilir?'
-          title: 32. Bölüm Gerçek Dua Nasıl Edilir?
+          title: Dua Nasıl Edilir?
           url: 'https://www.youtube.com/watch?v=zUTQlmGfgow'
           viewCount: '6872'
       - guests: .
@@ -897,7 +805,7 @@ questions:
           mediaType: video
           publishedAt: '2018-12-01T20:04:48.000Z'
           tags: 'duanın,gücüne,inanın'
-          title: Umut Işığı - Dua'nın Gücüne İnanın
+          title: Dua'nın Gücüne İnanın
           url: 'https://www.youtube.com/watch?v=XnwQwjnROK8'
           viewCount: '822'
       - guests: .
@@ -924,7 +832,7 @@ questions:
           mediaType: video
           publishedAt: '2019-07-24T09:58:50.000Z'
           tags: 'seçilmişlik,hristiyan,şeriatı,dua'
-          title: Hristiyanlık Şeriatı - Seçilmişlik ve Dua
+          title: Seçilmişlik ve Dua
           url: 'https://www.youtube.com/watch?v=WxBiFjMSpDg'
           viewCount: '492'
   - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. İncil evliliğe oldukça değer vermiş, erkek ve kadının birbirlerini tamamlamaları için evlenmeleri gerektiğini öğütlemiştir. İncil Efesliler bölümündeki ayetler Kutsal Kitap’a uygun başarılı bir evliliğe kaynak olarak epey derindir. “Ey kadınlar, Rab’be bağımlı olduğunuz gibi, kocalarınıza bağımlı olun. Çünkü Mesih bedenin kurtarıcısı olarak kilisenin başı olduğu gibi, erkek de kadının başıdır” (Efesliler 5:22-23). “Ey kocalar, Mesih kiliseyi nasıl sevip onun uğruna kendini feda ettiyse, siz de karılarınızı öyle sevin” (Efesliler 5:25). “Aynı biçimde kocalar da karılarını kendi bedenleri gibi sevmelidir. Karısını seven kendini sever. Hiç kimse hiçbir zaman kendi bedeninden nefret etmemiştir. Tersine, onu besler ve kayırır; tıpkı Mesih’in kiliseyi besleyip kayırdığı gibi” (Efesliler 5:28-29). “Bunun için adam annesini babasını bırakıp karısına bağlanacak, ikisi tek beden olacak” (Efesliler 5:31).  İmanlı bir karı koca Tanrı’nın ilkelerini hayatlarında uyguladıklarında evlilikleri Kutsal Kitap’a uygun olur. Kutsal Kitap’a uygun bir evlilik, hem erkeğin ve hem de kadının başının Mesih olduğu dengeli bir evliliktir. Kutsal Kitap’taki evlilik kavramı, iki bireyin Mesih’in kilisesiyle birliğini gösteren birliğidir. Bu konuda daha detaylı bilgilenmek için sizler için bazı programlarımızın linklerini aşağıda paylaşıyoruz.'
@@ -954,7 +862,7 @@ questions:
           mediaType: video
           publishedAt: '2019-09-19T07:23:05.000Z'
           tags: '#evlilik #aile #yaşamı #mutluluk #hristiyanlık #efesliler'
-          title: Hristiyan Şeriatı - Evlilik I
+          title: 'Evlilik '
           url: 'https://www.youtube.com/watch?v=iM0UxRicoPo'
           viewCount: '116'
       - guests: .
@@ -980,7 +888,7 @@ questions:
           mediaType: video
           publishedAt: '2019-02-04T17:18:58.000Z'
           tags: 'hristiyanlık,hristiyan,isa mesih,isa,evlilik'
-          title: Hristiyan Ahlakı - Hristiyanlık'ta Evlilik
+          title: Hristiyanlık'ta Evlilik
           url: 'https://www.youtube.com/watch?v=2hcHDFYnWTA'
           viewCount: '1339'
       - guests: .
@@ -1006,27 +914,14 @@ questions:
           mediaType: video
           publishedAt: '2017-09-20T09:29:01.000Z'
           tags: '#evlilik,#ilk,#adım,#mutlu,#aile,#iletişim,#tek,#beden,#olmak'
-          title: Tek Beden Olmak - 1
+          title: Tek Beden Olmak nedir?
           url: 'https://www.youtube.com/watch?v=t0eMqamzg04'
           viewCount: '809'
   - answer: >-
-      Vaftiz aracılığıyla İsa Mesih’in çarmıhtaki ölümüne ve dirilişine bir
-      şekilde ortak oluyoruz. Çünkü İsa Mesih bizim günahlarımızın kefaret
-      kurbanı olarak ölüyor ve 3 gün sonra diriliyor. Biz de vaftiz olduğumuzda,
-      suya battığımızda, günah dolu yaşamalarımıza bir nevi ölüyoruz ve sudan
-      çıktığımızda yeni bir yaşamla bir nevi diriliyoruz. Bu şekilde
-      günahlarımızın bağışlanmasıyla Yasa’nın değil, lütfun; ölümün değil,
-      yaşamın; kötülüğün değil, iyiliğin; savaşın değil, barışın çocukları
-      oluyoruz.  Bu yüzden vaftiz, Hristiyanlıktaki en önemli ritüellerden
-      biridir. Çünkü Tanrı’nın lütfu olan antlaşmayı, İsa Mesih ve çarmıh
-      aracılığıyla kölelikten kurtuluşu ve Kutsal Ruh’un gelişini, yani
-      Antlaşma’nın ve Tanrı’nın Krallığı’nın yüreklerimizde egemen olmasını
-      simgeler.  Vaftiz olmanın öneminin yanında, İsa Mesih’in son buyruğu da
-      çok çok önemlidir. İsa Mesih göğe yükselmeden önce öğrencilerine şöyle
-      buyurmuştur:  “Gökte ve yeryüzünde bütün yetki bana verildi. Bu nedenle
-      gidin, bütün ulusları öğrencilerim olarak yetiştirin; onları Baba, Oğul ve
-      Kutsal Ruh’un adıyla vaftiz edin." Vaftiz hakkında daha detaylı bilgi için
-      aşağıda sizler için videolar seçtik, lütfen izleyiniz. 
+      Vaftiz, bir kişi Hristiyan olmaya kesin karar verdiği zaman kendisini
+      kilise içine kabul etmek adına yapılan bir törendir. Vaftizci Yahya
+      peygamber aracılığı ile İsa Mesih de vaftiz edilmiştir. Bu konuda daha
+      detaylı açıklamalar için aşağıdaki videoları izleyebilirsiniz. 
     question: 'Vaftiz Nedir? '
     videos:
       - guests: .
@@ -1070,7 +965,7 @@ questions:
             hristiyanlık,ahiret,kıyamet,hz
             isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
             anlatsana,kutsal ruh,isa mesih,mesih,Rab,Allah,Turkey,Istanbul,Asker
-          title: Gerçeğin Sesi - Vaftiz Nedir?
+          title: Vaftiz Nedir?
           url: 'https://youtu.be/DanYnWZnKJY'
           viewCount: '433'
       - guests: .
@@ -1088,34 +983,41 @@ questions:
           url: 'https://www.youtube.com/watch?v=VH_vlgzJ69Q'
           viewCount: '226'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Aden Bahçesi’nde Adem ve Havva, ‘iyiyi ve kötüyü bilme
-      ağacı’ndan yediklerinde günah işlemiş oldular ve bu günahın en önemli
-      sonucu olarak Tanrı’dan ayrılmak zorunda kaldılar. Tanrı ile ilişkileri
-      bozuldu ve koptu. Çünkü Tanrı kutsaldır. İsa Mesih’in yeryüzüne gelme
-      amacı, insanların önce Tanrı’yla, sonra da birbirleriyle ilişkilerini
-      yenilemekti. Bunun için insanların günahlarından ve dolayısıyla
-      sonuçlarından kurtulmaları gerekiyordu. İsa Mesih çarmıhta işte tam da
-      bunu gerçekleştirdi. İsa Mesih’in öğrencisi olmanın en önemli getirisi,
-      Tanrı’yla devam eden ilişkimiz boyunca İsa Mesih benzerliğine
-      dönüşmemizdir. İşte gündelik hayatımızda böyle bir lütfu paylaşıp deneyim
-      edeceğimiz yerdir kilise.
-    question: >-
-      Kilise Nedir? İman ettim kiliseye gitmem gerekiyor mu ? İmanlı değilim
-      kilise gidebilir miyim?
+      Hristiyanlık eşcinsellere olumlu, eşcinselliğe olumsuz yaklaşır. Bir örnek
+      verecek olursak, bir kişi kendisini insan değil de bir kedi sanıyorsa ve
+      kilise içerisinde bu şekilde kendini kabul ettirmek istiyorsa, gayet doğal
+      olarak ona olumlu yanıt verilmeyecektir. Bir insan olarak kendisi saygı
+      görür ama kendisi hakkında görüşü saygı görmeyecektir çünkü o görüş bir
+      yalandan ibarettir. İncil'e göre Tanrı bizleri erkek veya dişi olarak
+      yaratır. Bunun dışında başka şeylere inanmak, psikolojik bir sorun olarak
+      kabul edilir. Kişi bu konuda nazikçe uyarılır ve değişmesi beklenir. Bu
+      konuda daha detaylı bilgi için aşağıdaki videoları izleyebilirsiniz. 
+    question: Eşcinseller Hristiyan olabilir mi?
     videos:
+      - guests: .
+        host: Ali Kalkandelen ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ' '
+          duration: PT28M23S
+          id: tLdOx1GTbXY
+          imageURL: 'https://i.ytimg.com/vi/tLdOx1GTbXY/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2012-10-02T08:04:43.000Z'
+          tags: >-
+            cennet,cehennem,ölüm,olum,ötesi,kiyamet,kıyamet,günü,gunu,isa,mesih,tanri,tanrı,allah,hz,peygamberler,peygamber,ahiret,yargi
+          title: Eşcinsellik
+          url: 'https://www.youtube.com/watch?v=tLdOx1GTbXY'
+          viewCount: '1801'
       - guests: .
         host: Can Nuroğlu ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            Bölüm 1- Kilise nedir?
-
-            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Kilisenin
-            Doğuşu" programını sayfamızdan takip edebilirsiniz. 
-
-            Esen Kalın.
+            Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+            ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal
+            Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen
+            Kalın.
 
             http://kanalhayat.tv/
 
@@ -1124,135 +1026,27 @@ questions:
             https://www.facebook.com/kanalhayat
 
             https://twitter.com/kanalhayat
-          duration: PT26M33S
-          id: naah61yDqAY
-          imageURL: 'https://i.ytimg.com/vi/naah61yDqAY/hqdefault.jpg'
+          duration: PT28M22S
+          id: fWgsC--rmQI
+          imageURL: 'https://i.ytimg.com/vi/fWgsC--rmQI/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2016-01-19T07:58:10.000Z'
-          tags: 'kilisenin,doğuşu,kilise,nedir?'
-          title: Kilisenin Doğuşu - Kilise nedir? 1.Bölüm
-          url: 'https://www.youtube.com/watch?v=naah61yDqAY'
-          viewCount: '7160'
-      - guests: .
-        host: Işık Abla ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ''
-          duration: PT29M24S
-          id: Km1bRG_jqvc
-          imageURL: 'https://i.ytimg.com/vi/Km1bRG_jqvc/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2013-07-11T08:26:21.000Z'
-          tags: Kilisenin Görevleri Nedir?
-          title: 15. Bölüm Kilise Nedir? Kilisenin Görevleri Nedir?
-          url: 'https://www.youtube.com/watch?v=Km1bRG_jqvc'
-          viewCount: '2369'
-      - guests: .
-        host: Güçlü Erman ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ' Pastör Güçlü Erman yeni bir Uyanış serisi ile karşımızda.'
-          duration: PT29M30S
-          id: N1R_L_MNXB4
-          imageURL: 'https://i.ytimg.com/vi/N1R_L_MNXB4/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2012-10-03T11:33:11.000Z'
+          publishedAt: '2019-03-27T16:04:39.000Z'
           tags: >-
-            Nehir Kilisesi,İstanbul Nehir
-            Kilisesi,Vaaz,Öğreti,Hıristiyan,Hıristiyanlık,İsa Mesih,Kutsal
-            Kitap,Incil,Pastör Güçlü Erman,İman,Sevinç,Esenlik,Ruhsal
-            Gelişim,Bereket,Tanrı,Cennet,Cehennem,Kutsama,Şifa,Mucize,Kilise
-            River at Istanbul,Revival,Sermon,Church,Worship,Holy Ghost,Holy
-            Spirit,Jesus Christ,God,Fire of God,Bible,Turkish Revival
-            Ministries,Pastor Corey Erman
-          title: UYANIŞ (Kilise Hakkında Gerçekler 1) Pastör Güçlü Erman
-          url: 'https://www.youtube.com/watch?v=N1R_L_MNXB4'
-          viewCount: '514'
+            hristiyan ahlakı nedir?,hristiyanlık,Eşcinsellere,Bakışı
+            Nedir?,lgbt,lezbiyen,gay
+          title: Hristiyanların Eşcinsellere Bakışı Nedir?
+          url: 'https://www.youtube.com/watch?v=fWgsC--rmQI'
+          viewCount: '1617'
       - guests: .
-        host: Hakan Taştan ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: Gerçeğin Sesi - Hakan Taştan
-          duration: PT26M9S
-          id: 4P0CBQxrVAo
-          imageURL: 'https://i.ytimg.com/vi/4P0CBQxrVAo/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2018-05-29T07:59:18.000Z'
-          tags: kilise nedir?
-          title: 'Gerçeğin Sesi - "Kilise" aslında bir BİNA değildir [103]'
-          url: 'https://www.youtube.com/watch?v=4P0CBQxrVAo'
-          viewCount: '199'
-  - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Günah deyince çoğumuzun aklına, Tanrı’nın kurallarına
-      uymama ya da iyi ve kötü arasında seçim yapma gibi konular gelir. Hatta
-      bunlardan adam öldürme ve zina gibi günahları büyük; yalan söyleme, yan
-      gözle bakma gibi günahları ise küçük günahlar olarak görürüz. Aslında bu
-      kendimizi aldatmaktır. Günah işleyen herkes günahın kölesi olmuştur ve
-      Tanrı’dan uzaklaşmıştır. Mesih’in dediği gibi:  35 “Köle ev halkının
-      sürekli bir üyesi değildir, ama oğul sürekli üyesidir. 36 Bunun için, Oğul
-      sizi özgür kılarsa, gerçekten özgür olursunuz.” İncil- (Yuhanna 8:34-36) 
-      Kutsal Kitap tercümesinde günah, “hedefe ulaşamama” manasına gelir. Tabi
-      ki buradaki, “hedef” Tanrı’nın bizim için belirlemiş olduğu standarttır ve
-      İsa Mesih bunu açığa çıkarmıştır.Esen Kalın.
-    question: Günah nedir ? Kim Günahları bağışlayabilir?
-    videos:
-      - guests: Test
-        host: Test
-        targetGroup: Herkes
-        youtubeURL:
-          description: |-
-            Günah işleyerek neleri kaybetmeyi göze alırız? Yalan söylemekten,
-            dedikodu yapmaktan nasıl kurtulabiliriz? Kutsal bir yaşam
-            yaşamının püf noktaları nedir? Pastör İhsan Özbek’le Hey Gidi
-            Karadeniz!, merak edilen tüm soruları Kanal Hayat’ta sizler için
-            yanıtlıyor.Sakın kaçırmayın.
-            http://kanalhayat.tv/
-            http://www.youtube.com/kanalhayatplay
-            https://www.facebook.com/kanalhayat
-            https://twitter.com/kanalhayat
-          duration: PT27M48S
-          id: PBkgzAvI-b4
-          imageURL: 'https://i.ytimg.com/vi/PBkgzAvI-b4/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2015-02-16T13:17:22.000Z'
-          tags: '#günahtan,Kurtulmak,Mümkün,mü?'
-          title: 16.  Günahtan Kurtulmak Mümkün mü?
-          url: 'https://www.youtube.com/watch?v=PBkgzAvI-b4'
-          viewCount: '135'
-      - guests: .
-        host: Hakan Taştan ile
+        host: Humberto ile
         targetGroup: Herkes
         youtubeURL:
           description: >-
-            20. Bölüm: Günah
+            Eşcinsel & Hristiyan Olabilir miyim?
 
-            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
-            ışığında gerçekleştirdi 
-
-            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
-
-            Esen Kalın.
-          duration: PT28M
-          id: vHYIme567ek
-          imageURL: 'https://i.ytimg.com/vi/vHYIme567ek/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2013-02-14T13:46:09.000Z'
-          tags: 'S01E20,MPG,upperfield,#günah'
-          title: '20. Bölüm: Günah'
-          url: 'https://www.youtube.com/watch?v=vHYIme567ek'
-          viewCount: '1136'
-      - guests: .
-        host: Kirkor Ağabaloğlu ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet"
-            programını Kanala Hayat ekranlarından veya youtube sayfamızdan takip
-            edebilirsiniz.
-
-            Esen Kalın.
+            Eşcinsellik günah mı? Peki eşcinsel biri Hristiyan olabilir mi?
+            Kutsal Kitap bu konu hakkında neler diyor? Bu haftaki Kelam Kültür
+            Kahve’de bunları konuşuyoruz.
 
             http://kanalhayat.tv/
 
@@ -1261,154 +1055,17 @@ questions:
             https://www.facebook.com/kanalhayat
 
             https://twitter.com/kanalhayat
-          duration: PT25M40S
-          id: uKq_Ar4dyaQ
-          imageURL: 'https://i.ytimg.com/vi/uKq_Ar4dyaQ/hqdefault.jpg'
+          duration: PT29M31S
+          id: WHsOe077QrQ
+          imageURL: 'https://i.ytimg.com/vi/WHsOe077QrQ/hqdefault.jpg'
           mediaType: video
-          publishedAt: '2013-11-12T13:41:13.000Z'
-          tags: günah
-          title: 24. Bölüm İsa Günahları Bağışlar
-          url: 'https://www.youtube.com/watch?v=uKq_Ar4dyaQ'
-          viewCount: '206'
-  - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. “Rabbin son akşam yemeği”, “ekmek kırmak”, “paylaşım”,
-      “sevgi veya agape şöleni” olarak da bilinen bu sofra, bizzat Rab İsa
-      tarafından tesis edilmiş ve yine bizzat Rab İsa tarafından yapılması
-      buyurulmuştur. (1Kor. 11:20-25). Bu sofranın anlamına gelince, ekmek ve
-      şarabı alan bir kimse bu hareketiyle, Rabbin kurtuluş sağlayan ölümünü
-      anar (1Kor. 11:24) , Tanrı'yla, Mesih'le ve kiliseyi teşkil eden
-      kardeşleriyle uyumda ve birlik içinde olduğunu beyan eder (1Kor. 10:17).
-      Aynı zamanda bu sofraya katılan, yine bununla dünya insanlarına Mesih'in
-      kendileri için öldüğünü ve O'nun yeniden dünyaya geleceğini ilan eder
-      (1Kor. 11:26).
-    question: >-
-      Rab'bin Sofrası / Komünyon nedir? Rab'bin Sofrası'nı Nasıl ve Neden
-      Kutlarız?
-    videos:
-      - guests: .
-        host: Hakan Taştan ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            5. Bölüm: Rab'bin Sofrası (Kominyon)
-
-            Pastör Hakan Taştan'ın sunumu ve konuklarıyla birlikte Kutsal Kitap
-            ışığında gerçekleştirdi 
-
-            "Gerçeğin Sesi" programını sayfamızdan takip edebilirsiniz.
-
-            Esen Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat.tv
-
-            https://twitter.com/kanalhayat
-          duration: PT25M58S
-          id: '-L84aCyBGxc'
-          imageURL: 'https://i.ytimg.com/vi/-L84aCyBGxc/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2012-10-29T11:20:51.000Z'
+          publishedAt: '2016-09-22T17:41:21.000Z'
           tags: >-
-            Kutsal,hristiyanlık,ahiret,hz
-            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,kutsal
-            ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
-            butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
-            Hayat,Pusula,kiyamet gunu,gavur,Kominyon
-          title: '5. Bölüm: Rab''bin Sofrası (Kominyon)'
-          url: 'https://www.youtube.com/watch?v=-L84aCyBGxc'
-          viewCount: '1622'
-      - guests: .
-        host: Işık Abla ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ' '
-          duration: PT28M32S
-          id: O7AExWtzk1I
-          imageURL: 'https://i.ytimg.com/vi/O7AExWtzk1I/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2012-02-20T12:50:08.000Z'
-          tags: >-
-            hristiyanlık,ahiret,kıyamet,hz
-            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur
-            anlatsana,kutsal ruh,isa
-            mesih,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
-            stanley,joyce meyer,ışık abla,güçlü
-            erman,protestan,protestanlar,zekeriya butros
-          title: 87. Bölüm  Rab'bin Sofrası
-          url: 'https://www.youtube.com/watch?v=O7AExWtzk1I'
-          viewCount: '357'
-      - guests: .
-        host: Nizar Shaheen ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            İsa Mesih'in Doğumu, Soy Ağacı, Çocukluğu ve diğer birçok konunun
-            ele alındığı  "Eşsiz Mesih" programını Kanal Hayat Ekranlarında ve
-            youtube sayfamızdan takip edebilirsiniz.Esen kalın.
-
-            1-İsa Mesih Kimdir?
-
-            2-İsa Mesih'in Soyağacı
-
-            3-İsa Mesih'in Çocukluğu
-
-            4-İsa Mesih'in Vaftizi
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT26M17S
-          id: plrPQz6E3Wo
-          imageURL: 'https://i.ytimg.com/vi/plrPQz6E3Wo/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2014-02-20T11:29:14.000Z'
-          tags: >-
-            isa,mesih,Rab,Mesih,İncil,Kitap,Baba,Tanrı,kıyamet,günü,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Hristiyan,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Kilise,Ahiret,yargı,Kanal
-            Hayat,neler olacak,kutsal ruh,Mesih kimdi
-          title: 17- Son Akşam Yemeği
-          url: 'https://www.youtube.com/watch?v=plrPQz6E3Wo'
-          viewCount: '510'
-      - guests: .
-        host: Kirkor Ağabaloğlu ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            Kirkor Ağabaloğlu'nun hazırlayıp sunduğu "Kutsallığa Davet"
-            programını Kanala Hayat ekranlarından veya youtube sayfamızdan takip
-            edebilirsiniz.
-
-            Esen Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT27M57S
-          id: vJw8L_sNh64
-          imageURL: 'https://i.ytimg.com/vi/vJw8L_sNh64/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2012-09-24T14:29:36.000Z'
-          tags: >-
-            hristiyan,kilise,peygamber,isa mesih,protestan,katolik,ahiret
-            günü,kıyamet,yargı,günah,hristiyanlık,ahiret,hz
-            isa,vaftiz,incil,kutsal kitap,tevrat,zebur,gavur anlatsana,kutsal
-            ruh,mesih,Rab,Allah,Turkey,Istanbul,Kurdistan,Darwin,charles
-            stanley,joyce meyer,ışık abla,güçlü erman,protestanlar,zekeriya
-            butros
-          title: 'Kutsalliga Davet 09. Bölüm: Yaşam Ekmeği'
-          url: 'https://www.youtube.com/watch?v=vJw8L_sNh64'
-          viewCount: '2916'
+            inanç,gençlik,Hristiyan,Cinsellik,Şüphe,Depresyon,Eşcinsellik,Sigara,Alkol,Alışılmış
+            Kötülük,Bağımlılık,Kürtaj,Zenginlik,Kanal Hayat,gençler,hz
+            isa,homolar,ibadet
+          title: 'Eşcinsellik '
+          url: 'https://www.youtube.com/watch?v=WHsOe077QrQ'
+          viewCount: '6723'
 ---
 
