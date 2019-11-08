@@ -422,265 +422,6 @@ questions:
           title: 'Tanrı''yı sorgulamak günah mı? - [Sorgulayan Gelsin 01]'
           url: 'https://www.youtube.com/watch?v=5Qe7222lmbA '
           viewCount: '6895'
-  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. Hristiyanlar kendi doğruluklarıyla değil, Tanrı''nın lütfuyla aklanmış  olan kutsallardır. Mesih İsa Hristiyanların önderi ve rehberidir. Hristiyanlar içlerinde bulunan Kutsal Ruh''un yardımıyla gün ve gün Mesih''e benzer olmak üzere değişirler. Bu değişim Mesih''e bakarak ve O''nda kavuşmuş oldukları yeni doğaya fark ederek gerçekleşir. Hristiyan ahlakının temelinde Mesih benim yerimde olsa ne yapardı sorusunun yanıtı yatar.  Hristiyanlar yaşamlarıyla İsa Mesih''i bu dünyadaki diğer insanlara yansıtır ve tanıtırlar. Kutsallık, Mesih''in lütfu aracılığıyla iman edildiğinde birden kavuşulan ama buna uygun düzeyde bir yaşam sürmek için bir yaşam boyu süren bir değişimdir. Kişi Mesih''in lütfu aracılığıyla  kavuşmuş olduğu kutsallığı, yani yeni doğasını fark ettikçe bu değişim hızlanır. Değişimin güç kaynağı Kutsal Ruh''tur. Esen Kalın.'
-    question: Hristiyan Ahlakı ve İbadeti Nasıldır?
-    videos:
-      - guests: .
-        host: Can Nuroğlu ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            Hey Gavur! Anlatsana...6- Hristiyan Ahlakı ve İbadeti
-
-            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur!
-            Anlatsana." programını sayfamızdan takip edebilirsiniz. 
-
-            Esen Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT28M5S
-          id: wF7x5bFV8Lg
-          imageURL: 'https://i.ytimg.com/vi/wF7x5bFV8Lg/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2013-03-25T20:30:16.000Z'
-          tags: >-
-            Kutsal,hristiyanlık,ahiret,hz
-            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,kutsal
-            ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
-            butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
-            Hayat,Pusula,kiyamet gunu,gavur
-          title: 6- Hristiyan Ahlakı ve İbadeti
-          url: 'https://www.youtube.com/watch?v=wF7x5bFV8Lg'
-          viewCount: '23925'
-      - guests: .
-        host: İhsan Özbek ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: Açıklama
-          duration: PT28M31S
-          id: Xb3JRHbx_-g
-          imageURL: 'https://i.ytimg.com/vi/Xb3JRHbx_-g/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2015-07-31T07:03:56.000Z'
-          tags: İbadet
-          title: 46. Bölüm İbadet
-          url: 'https://www.youtube.com/watch?v=Xb3JRHbx_-g'
-          viewCount: '174'
-      - guests: .
-        host: İsmail Serinkan ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
-            Hayat ekranlarından veya 
-
-            youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT27M44S
-          id: j3L3xbl_1M0
-          imageURL: 'https://i.ytimg.com/vi/j3L3xbl_1M0/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2016-02-15T11:06:07.000Z'
-          tags: ibadet
-          title: 19. Bölüm İbadet
-          url: 'https://www.youtube.com/watch?v=j3L3xbl_1M0'
-          viewCount: '84'
-  - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. Aşağıdaki programlarımızı izleyerek detaylı bilgi
-      edinebilirsiniz.  Dua Rab’bi çağırmak ve O’nunla konuşmaktır. Muhtaç
-      durumumuzu ona bildirmektir. İsa aracılığıyla Tanrı ile
-      barıştırıldığımızda Kendisiyle olan dostluğumuzu ihmal etmemeliyiz.
-      O’nunla zaman geçirmeliyiz. Bize söylemek istediklerini dinlemeyi
-      öğrenmeliyiz. Bütün varlığı yaratan ve onlarla irtibata geçmek için
-      kendini açıklamış olan Tanrı’yla ruhsal bir cevaptır dua. Duanın kapsamı
-      yalnızca Tanrı’yla konuşmayı içermemektedir. Tanrı’yı çağırmak ve O’nunla
-      dertleşmek, sonra O’ndan ruhsal anlamda cevaplar beklemek, hiçbir söz
-      söylemeden, yürek derinliğinden O’nu yüceltmek O’na tapınmak ve bütün
-      gereksinimlerimizi O’ndan istemektir de.“Dua ettiğinizde putperestler gibi
-      putperestler gibi boş sözler tekrarlayıp durmayın. Onlar söz kalabalığıyla
-      seslerini duyurabileceklerini sanırlar. Siz onlara benzemeyin. Çünkü
-      Babanız nelere gereksiniminiz olduğunu daha siz O’ndan dilemedene önceden
-      bilir. Bunun için siz şöyle dua edin : Göklerdeki Babamız; Adın kutsal
-      kılınsın. Egemenliğin gelsin. Gökte olduğu gibi yeryüzünde de Senin
-      istediğin olsun. Bu gün bize gündelik ekmeğimizi ver. Bize karşı suç
-      işleyenleri bağışladığımız gibi Sen de bizim suçlarımızı bağışla.
-      Ayartılmamıza izin verme. Kötü olandan bizi kurtar. Çünkü egemenlik, güç
-      ve yücelik Sonsuzlara dek senindir, Amin Matta 6:7-13 Esen Kalın.
-    question: Hristiyanlık'ta Nasıl Dua Edilir?
-    videos:
-      - guests: .
-        host: Memduh Uysal ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: ''
-          duration: PT29M15S
-          id: zUTQlmGfgow
-          imageURL: 'https://i.ytimg.com/vi/zUTQlmGfgow/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2013-10-23T13:43:30.000Z'
-          tags: 'gerçek,dua,nasıl,edilir?'
-          title: 32. Bölüm Gerçek Dua Nasıl Edilir?
-          url: 'https://www.youtube.com/watch?v=zUTQlmGfgow'
-          viewCount: '6872'
-      - guests: .
-        host: Gülhan ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            Umut Işığı (Bölüm 3)
-
-            Gül Han'ın hazırlayıp sunduğu Hristiyan Ruhsallığı hakkındaki "Umut
-            Işığı" programını Kanal Hayat Ekranlarında ve youtube sayfamızdan
-            takip edebilirsiniz.
-
-            Ruh'ta Büyümek ve Derinleşmek
-
-            Kurtuluşumuz için Neden İsa Mesih'e ihtiyacımız var ?
-
-            Düşmanınızı Tanıyın..
-
-            Duanın gücüne inanın..
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT22M54S
-          id: XnwQwjnROK8
-          imageURL: 'https://i.ytimg.com/vi/XnwQwjnROK8/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2018-12-01T20:04:48.000Z'
-          tags: 'duanın,gücüne,inanın'
-          title: Umut Işığı - Dua'nın Gücüne İnanın
-          url: 'https://www.youtube.com/watch?v=XnwQwjnROK8'
-          viewCount: '822'
-      - guests: .
-        host: Ahmet Güvener ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            55 Seçilmişlik ve Dua
-
-            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
-            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan
-            Şeriatı" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT27M20S
-          id: WxBiFjMSpDg
-          imageURL: 'https://i.ytimg.com/vi/WxBiFjMSpDg/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2019-07-24T09:58:50.000Z'
-          tags: 'seçilmişlik,hristiyan,şeriatı,dua'
-          title: Hristiyanlık Şeriatı - Seçilmişlik ve Dua
-          url: 'https://www.youtube.com/watch?v=WxBiFjMSpDg'
-          viewCount: '492'
-  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. İncil Efesliler bölümündeki ayetler Kutsal Kitap’a uygun başarılı bir evliliğe kaynak olarak epey derindir. “Ey kadınlar, Rab’be bağımlı olduğunuz gibi, kocalarınıza bağımlı olun. Çünkü Mesih bedenin kurtarıcısı olarak kilisenin başı olduğu gibi, erkek de kadının başıdır” (Efesliler 5:22-23). “Ey kocalar, Mesih kiliseyi nasıl sevip onun uğruna kendini feda ettiyse, siz de karılarınızı öyle sevin” (Efesliler 5:25). “Aynı biçimde kocalar da karılarını kendi bedenleri gibi sevmelidir. Karısını seven kendini sever. Hiç kimse hiçbir zaman kendi bedeninden nefret etmemiştir. Tersine, onu besler ve kayırır; tıpkı Mesih’in kiliseyi besleyip kayırdığı gibi” (Efesliler 5:28-29). “Bunun için adam annesini babasını bırakıp karısına bağlanacak, ikisi tek beden olacak” (Efesliler 5:31).  İmanlı bir karı koca Tanrı’nın ilkelerini hayatlarında uyguladıklarında evlilikleri Kutsal Kitap’a uygun olur. Kutsal Kitap’a uygun bir evlilik, hem erkeğin ve hem de kadının başının Mesih olduğu dengeli bir evliliktir. Kutsal Kitap’taki evlilik kavramı, iki bireyin Mesih’in kilisesiyle birliğini gösteren birliğidir.Esen Kalın.'
-    question: 'Hristiyanlıkta Evlilik '
-    videos:
-      - guests: .
-        host: Ahmet Güvener ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            69 - Evlilik I
-
-            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
-            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan
-            Şeriatı" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT27M32S
-          id: iM0UxRicoPo
-          imageURL: 'https://i.ytimg.com/vi/iM0UxRicoPo/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2019-09-19T07:23:05.000Z'
-          tags: '#evlilik #aile #yaşamı #mutluluk #hristiyanlık #efesliler'
-          title: Hristiyan Şeriatı - Evlilik I
-          url: 'https://www.youtube.com/watch?v=iM0UxRicoPo'
-          viewCount: '116'
-      - guests: .
-        host: Can Nuroğlu ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
-            ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal
-            Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen
-            Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT27M37S
-          id: 2hcHDFYnWTA
-          imageURL: 'https://i.ytimg.com/vi/2hcHDFYnWTA/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2019-02-04T17:18:58.000Z'
-          tags: 'hristiyanlık,hristiyan,isa mesih,isa,evlilik'
-          title: Hristiyan Ahlakı - Hristiyanlık'ta Evlilik
-          url: 'https://www.youtube.com/watch?v=2hcHDFYnWTA'
-          viewCount: '1339'
-      - guests: .
-        host: Ali Kalkandelen ile
-        targetGroup: Herkes
-        youtubeURL:
-          description: >-
-            Tek Beden Olmak 
-
-            Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik
-            hakkındaki sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
-
-            http://kanalhayat.tv/
-
-            http://www.youtube.com/kanalhayatplay
-
-            https://www.facebook.com/kanalhayat
-
-            https://twitter.com/kanalhayat
-          duration: PT28M51S
-          id: t0eMqamzg04
-          imageURL: 'https://i.ytimg.com/vi/t0eMqamzg04/hqdefault.jpg'
-          mediaType: video
-          publishedAt: '2017-09-20T09:29:01.000Z'
-          tags: '#evlilik,#ilk,#adım,#mutlu,#aile,#iletişim,#tek,#beden,#olmak'
-          title: Tek Beden Olmak - 1
-          url: 'https://www.youtube.com/watch?v=t0eMqamzg04'
-          viewCount: '809'
   - answer: >-
       İncil tektir. Herhangi bir büyük kitapçıya veya kütüphaneye gittiğinizde
       “İncil okumak istiyorum” dediğinizde size tek bir İncil (Yeni Ahit)
@@ -1000,6 +741,265 @@ questions:
           title: 1096 1 Cesurca Yaşamak 1
           url: 'https://www.youtube.com/watch?v=wQDreLqXwLc'
           viewCount: '144'
+  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. Hristiyanlar kendi doğruluklarıyla değil, Tanrı''nın lütfuyla aklanmış  olan kutsallardır. Mesih İsa Hristiyanların önderi ve rehberidir. Hristiyanlar içlerinde bulunan Kutsal Ruh''un yardımıyla gün ve gün Mesih''e benzer olmak üzere değişirler. Bu değişim Mesih''e bakarak ve O''nda kavuşmuş oldukları yeni doğaya fark ederek gerçekleşir. Hristiyan ahlakının temelinde Mesih benim yerimde olsa ne yapardı sorusunun yanıtı yatar.  Hristiyanlar yaşamlarıyla İsa Mesih''i bu dünyadaki diğer insanlara yansıtır ve tanıtırlar. Kutsallık, Mesih''in lütfu aracılığıyla iman edildiğinde birden kavuşulan ama buna uygun düzeyde bir yaşam sürmek için bir yaşam boyu süren bir değişimdir. Kişi Mesih''in lütfu aracılığıyla  kavuşmuş olduğu kutsallığı, yani yeni doğasını fark ettikçe bu değişim hızlanır. Değişimin güç kaynağı Kutsal Ruh''tur. Esen Kalın.'
+    question: Hristiyan Ahlakı ve İbadeti Nasıldır?
+    videos:
+      - guests: .
+        host: Can Nuroğlu ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Hey Gavur! Anlatsana...6- Hristiyan Ahlakı ve İbadeti
+
+            Can Nuroğlu'nun Kutsal Kitap ışığında gerçekleştirdiği "Hey Gavur!
+            Anlatsana." programını sayfamızdan takip edebilirsiniz. 
+
+            Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M5S
+          id: wF7x5bFV8Lg
+          imageURL: 'https://i.ytimg.com/vi/wF7x5bFV8Lg/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-03-25T20:30:16.000Z'
+          tags: >-
+            Kutsal,hristiyanlık,ahiret,hz
+            isa,hristiyan,kilise,vaftiz,incil,kutsal kitap,tevrat,zebur,kutsal
+            ruh,isa mesih,Rab,Istanbul,Kurdistan,Darwin,güçlü erman,zekeriya
+            butros,isa,Mesih,İncil,Tanrı,Allah,depresyon,şifa,bereket,Özgürlük,Hastalık,Bunalım,Esenlik,Rahatlık,Mucize,Hristiyanlık,İman,Hz.,İsa,peygamber,İlah,Ruhsal,Protestan,Türk,Kıyamet,İntihar,Cennet,Cehennem,din,lanet,Cin,Pastör,Ahiret,yargı,Kanal
+            Hayat,Pusula,kiyamet gunu,gavur
+          title: 6- Hristiyan Ahlakı ve İbadeti
+          url: 'https://www.youtube.com/watch?v=wF7x5bFV8Lg'
+          viewCount: '23925'
+      - guests: .
+        host: İhsan Özbek ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: Açıklama
+          duration: PT28M31S
+          id: Xb3JRHbx_-g
+          imageURL: 'https://i.ytimg.com/vi/Xb3JRHbx_-g/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2015-07-31T07:03:56.000Z'
+          tags: İbadet
+          title: 46. Bölüm İbadet
+          url: 'https://www.youtube.com/watch?v=Xb3JRHbx_-g'
+          viewCount: '174'
+      - guests: .
+        host: İsmail Serinkan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            İsmail Serinkan'ın hazırlayıp sunduğu Lütuf Zamanı programını Kanal
+            Hayat ekranlarından veya 
+
+            youtube sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT27M44S
+          id: j3L3xbl_1M0
+          imageURL: 'https://i.ytimg.com/vi/j3L3xbl_1M0/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2016-02-15T11:06:07.000Z'
+          tags: ibadet
+          title: 19. Bölüm İbadet
+          url: 'https://www.youtube.com/watch?v=j3L3xbl_1M0'
+          viewCount: '84'
+  - answer: >-
+      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
+      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
+      için yanıtladık. Aşağıdaki programlarımızı izleyerek detaylı bilgi
+      edinebilirsiniz.  Dua Rab’bi çağırmak ve O’nunla konuşmaktır. Muhtaç
+      durumumuzu ona bildirmektir. İsa aracılığıyla Tanrı ile
+      barıştırıldığımızda Kendisiyle olan dostluğumuzu ihmal etmemeliyiz.
+      O’nunla zaman geçirmeliyiz. Bize söylemek istediklerini dinlemeyi
+      öğrenmeliyiz. Bütün varlığı yaratan ve onlarla irtibata geçmek için
+      kendini açıklamış olan Tanrı’yla ruhsal bir cevaptır dua. Duanın kapsamı
+      yalnızca Tanrı’yla konuşmayı içermemektedir. Tanrı’yı çağırmak ve O’nunla
+      dertleşmek, sonra O’ndan ruhsal anlamda cevaplar beklemek, hiçbir söz
+      söylemeden, yürek derinliğinden O’nu yüceltmek O’na tapınmak ve bütün
+      gereksinimlerimizi O’ndan istemektir de.“Dua ettiğinizde putperestler gibi
+      putperestler gibi boş sözler tekrarlayıp durmayın. Onlar söz kalabalığıyla
+      seslerini duyurabileceklerini sanırlar. Siz onlara benzemeyin. Çünkü
+      Babanız nelere gereksiniminiz olduğunu daha siz O’ndan dilemedene önceden
+      bilir. Bunun için siz şöyle dua edin : Göklerdeki Babamız; Adın kutsal
+      kılınsın. Egemenliğin gelsin. Gökte olduğu gibi yeryüzünde de Senin
+      istediğin olsun. Bu gün bize gündelik ekmeğimizi ver. Bize karşı suç
+      işleyenleri bağışladığımız gibi Sen de bizim suçlarımızı bağışla.
+      Ayartılmamıza izin verme. Kötü olandan bizi kurtar. Çünkü egemenlik, güç
+      ve yücelik Sonsuzlara dek senindir, Amin Matta 6:7-13 Esen Kalın.
+    question: Hristiyanlık'ta Nasıl Dua Edilir?
+    videos:
+      - guests: .
+        host: Memduh Uysal ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: ''
+          duration: PT29M15S
+          id: zUTQlmGfgow
+          imageURL: 'https://i.ytimg.com/vi/zUTQlmGfgow/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2013-10-23T13:43:30.000Z'
+          tags: 'gerçek,dua,nasıl,edilir?'
+          title: 32. Bölüm Gerçek Dua Nasıl Edilir?
+          url: 'https://www.youtube.com/watch?v=zUTQlmGfgow'
+          viewCount: '6872'
+      - guests: .
+        host: Gülhan ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Umut Işığı (Bölüm 3)
+
+            Gül Han'ın hazırlayıp sunduğu Hristiyan Ruhsallığı hakkındaki "Umut
+            Işığı" programını Kanal Hayat Ekranlarında ve youtube sayfamızdan
+            takip edebilirsiniz.
+
+            Ruh'ta Büyümek ve Derinleşmek
+
+            Kurtuluşumuz için Neden İsa Mesih'e ihtiyacımız var ?
+
+            Düşmanınızı Tanıyın..
+
+            Duanın gücüne inanın..
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT22M54S
+          id: XnwQwjnROK8
+          imageURL: 'https://i.ytimg.com/vi/XnwQwjnROK8/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2018-12-01T20:04:48.000Z'
+          tags: 'duanın,gücüne,inanın'
+          title: Umut Işığı - Dua'nın Gücüne İnanın
+          url: 'https://www.youtube.com/watch?v=XnwQwjnROK8'
+          viewCount: '822'
+      - guests: .
+        host: Ahmet Güvener ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            55 Seçilmişlik ve Dua
+
+            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
+            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan
+            Şeriatı" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT27M20S
+          id: WxBiFjMSpDg
+          imageURL: 'https://i.ytimg.com/vi/WxBiFjMSpDg/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2019-07-24T09:58:50.000Z'
+          tags: 'seçilmişlik,hristiyan,şeriatı,dua'
+          title: Hristiyanlık Şeriatı - Seçilmişlik ve Dua
+          url: 'https://www.youtube.com/watch?v=WxBiFjMSpDg'
+          viewCount: '492'
+  - answer: ' Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil''dir. Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler için yanıtladık. İncil Efesliler bölümündeki ayetler Kutsal Kitap’a uygun başarılı bir evliliğe kaynak olarak epey derindir. “Ey kadınlar, Rab’be bağımlı olduğunuz gibi, kocalarınıza bağımlı olun. Çünkü Mesih bedenin kurtarıcısı olarak kilisenin başı olduğu gibi, erkek de kadının başıdır” (Efesliler 5:22-23). “Ey kocalar, Mesih kiliseyi nasıl sevip onun uğruna kendini feda ettiyse, siz de karılarınızı öyle sevin” (Efesliler 5:25). “Aynı biçimde kocalar da karılarını kendi bedenleri gibi sevmelidir. Karısını seven kendini sever. Hiç kimse hiçbir zaman kendi bedeninden nefret etmemiştir. Tersine, onu besler ve kayırır; tıpkı Mesih’in kiliseyi besleyip kayırdığı gibi” (Efesliler 5:28-29). “Bunun için adam annesini babasını bırakıp karısına bağlanacak, ikisi tek beden olacak” (Efesliler 5:31).  İmanlı bir karı koca Tanrı’nın ilkelerini hayatlarında uyguladıklarında evlilikleri Kutsal Kitap’a uygun olur. Kutsal Kitap’a uygun bir evlilik, hem erkeğin ve hem de kadının başının Mesih olduğu dengeli bir evliliktir. Kutsal Kitap’taki evlilik kavramı, iki bireyin Mesih’in kilisesiyle birliğini gösteren birliğidir.Esen Kalın.'
+    question: 'Hristiyanlıkta Evlilik '
+    videos:
+      - guests: .
+        host: Ahmet Güvener ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            69 - Evlilik I
+
+            Pastör Ahmet Güvener'in  sunumu ve konukları Gabriel Akyüz ile
+            Pastör Ender Peker'in katılımıyla gerçekleştirdiği "Hristiyan
+            Şeriatı" programını sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT27M32S
+          id: iM0UxRicoPo
+          imageURL: 'https://i.ytimg.com/vi/iM0UxRicoPo/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2019-09-19T07:23:05.000Z'
+          tags: '#evlilik #aile #yaşamı #mutluluk #hristiyanlık #efesliler'
+          title: Hristiyan Şeriatı - Evlilik I
+          url: 'https://www.youtube.com/watch?v=iM0UxRicoPo'
+          viewCount: '116'
+      - guests: .
+        host: Can Nuroğlu ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Banu Çelik sunumu ve İncil öğretmeni Can Nuroğlu'nun  Kutsal Kitap
+            ışığında  gerçekleştirdikleri  "Hristiyan Ahlakı" programını Kanal
+            Hayat ekranından veya youtube sayfamızdan takip edebilirsiniz.Esen
+            Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT27M37S
+          id: 2hcHDFYnWTA
+          imageURL: 'https://i.ytimg.com/vi/2hcHDFYnWTA/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2019-02-04T17:18:58.000Z'
+          tags: 'hristiyanlık,hristiyan,isa mesih,isa,evlilik'
+          title: Hristiyan Ahlakı - Hristiyanlık'ta Evlilik
+          url: 'https://www.youtube.com/watch?v=2hcHDFYnWTA'
+          viewCount: '1339'
+      - guests: .
+        host: Ali Kalkandelen ile
+        targetGroup: Herkes
+        youtubeURL:
+          description: >-
+            Tek Beden Olmak 
+
+            Ali Kalkandelen ile Pervin Kalkandelen'in sunumuyla evlilik
+            hakkındaki sohbetlerini sayfamızdan takip edebilirsiniz.Esen Kalın.
+
+            http://kanalhayat.tv/
+
+            http://www.youtube.com/kanalhayatplay
+
+            https://www.facebook.com/kanalhayat
+
+            https://twitter.com/kanalhayat
+          duration: PT28M51S
+          id: t0eMqamzg04
+          imageURL: 'https://i.ytimg.com/vi/t0eMqamzg04/hqdefault.jpg'
+          mediaType: video
+          publishedAt: '2017-09-20T09:29:01.000Z'
+          tags: '#evlilik,#ilk,#adım,#mutlu,#aile,#iletişim,#tek,#beden,#olmak'
+          title: Tek Beden Olmak - 1
+          url: 'https://www.youtube.com/watch?v=t0eMqamzg04'
+          viewCount: '809'
   - answer: >-
       Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
       Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
