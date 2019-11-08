@@ -23,7 +23,7 @@ questions:
       çarpar. Bu durumda İsa’nın içindeki öz Tanrı olarak kabul edilmiş ve
       dolayısıyla İsa’ya da tapınılmıştır. Bu konuda açıklayıcı programlarımızı
       incelemek isterseniz aşağıdaki linklere tıklayabilirsiniz.
-    question: İsa Tanrı değildir.Buna Nasıl inanıyorsunuz?
+    question: İsa Tanrı değildir. Buna nasıl inanıyorsunuz?
     videos:
       - guests: .
         host: Hakan Taştan ile
@@ -233,7 +233,7 @@ questions:
       olmak üzere iki çeşit İncil bulunurdu ki böyle bir durum söz konusu
       değildir. Bu konuda açıklayıcı programlarımızı incelemek isterseniz
       aşağıdaki linklere tıklayabilirsiniz.
-    question: İncil Değiştirilmiştir. Neden halen inanıyorsunuz?
+    question: İncil değiştirilmiştir. Neden halen inanıyorsunuz?
     videos:
       - guests: .
         host: Can Nuroğlu ile
@@ -542,7 +542,7 @@ questions:
       yazarlarından birisi yazmış olup, kitabın adını Barnabas İncili koyarak
       kendince ilgi çekmeye çalışmıştır. Bu konuda açıklayıcı programlarımızı
       incelemek isterseniz aşağıdaki linklere tıklayabilirsiniz.
-    question: Barnabas İncil’i nerede saklıyorsunuz? Neden birçok İnciliniz var?
+    question: 'Barnabas İncil’i nerede saklıyorsunuz? '
     videos:
       - guests: .
         host: 'Hakan Taştan ile '
@@ -688,16 +688,22 @@ questions:
           url: 'https://www.youtube.com/watch?v=L-ISg7R_coY'
           viewCount: '2148'
   - answer: >-
-      Sevgili ziyaretçimiz, bizim temel kaynağımız Tanrı sözü olan İncil'dir.
-      Programlarımız da Hristiyanlık inancı hakkında sık sorulan soruları sizler
-      için yanıtladık. "Bir Kutsal Yasa uzmanı, İsa`yı denemek amacıyla O`na
-      şunu sordu: "Öğretmenim, Kutsal Yasa`da en önemli buyruk hangisidir?” İsa
-      ona şu karşılığı verdi: "`Tanrın Rab`bi bütün yüreğinle, bütün canınla ve
-      bütün aklınla seveceksin.` İşte ilk ve en önemli buyruk budur. İlkine
-      benzeyen ikinci buyruk da şudur: `Komşunu kendin gibi seveceksin.` Kutsal
-      Yasa`nın tümü ve peygamberlerin sözleri bu iki buyruğa dayanır.” (Matta
-      22:35-40) Esen Kalın.
-    question: Avrupa Hristiyanlığı Bırakırken siz neden inanıyorsunuz?
+      Batı medeniyetleri ve Avrupa eski tarihlerden itibaren İsa’nın öğretisini
+      kabul etmiş olup, günümüzde modernliğin ve politik etkilerin sonucunda
+      Hristiyanlığı bırakmaya yüz tutmuştur. Bunun sebebi günümüzde siyasetin
+      içine yerleşen mondernizmin etkisidir. Modern dünya aile kavramını yerle
+      bir etmiş, Hollywood’un etkisiyle aile ilişkileri zayıflamış, kişiler
+      teknolojinin yardımı ile bireyselleşmiş, cemaatler dağıtılmış, kişisel
+      özgürlükler pohpohlanarak birey yanlızlaştırılmış, adeta dinsizleşerek
+      Tanrı’sını unutmuştur. Şu andaki Avrupa bu hali ile Yaradan’ın görmek
+      istediği Avrupa değildir. Hal bu iken halkımızın Avrupa’yı Hristiyan
+      olarak görmesi, uyuşturucu, içki, seks ve her türlü özgürlük adı altında
+      yapılan sapıkça hareketi Hristiyanlığa mal etmesi kabul edilemez.
+      Unutulmamalıdır ki Avrupa, Hristiyanlığı bırakmış olsa da Hristiyanlığın
+      özünü, aile geleneklerini, cemaatlerini, Tanrı sevgisini, müjdeciliği
+      devam ettirmeye çalışan kiliseler ve gruplar var olmaya devam etmiştir. Bu
+      konuda daha detaylı bilgi için lütfen videolarımızı izleyiniz. 
+    question: Avrupa Hristiyanlığı bırakırken siz neden inanıyorsunuz?
     videos:
       - guests: .
         host: Hakan Taştan ile
