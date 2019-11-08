@@ -430,10 +430,10 @@ questions:
       halk arasında “çok İncil var” diye bir söylem gelişmiştir. Oysa Matta,
       Markos, Luka ve Yuhanna’nın yazmış olduğu bu kitapçıklar, ya da Pavlus’un
       yazmış olduğu mektuplar, İncil kitabının içindeki BÖLÜMLERDİR. Daha önce
-      serbest halde ve ayrı ayrı kiliselerde okunan bu bölümler 3. Yüzyılda
-      Kilise tarafından İncil adı altında birleştirilmiş, tek kitap haline
-      dönüştürülmüştür. Bunu ansiklopedinin fasiküllerinin ciltlenip bir araya
-      getirilmesi işlemi de diyebiliriz. İncil’in içindeki bölümlerde
+      serbest halde ve ayrı ayrı Hristiyan cemaatlerinde okunan bu bölümler 3.
+      Yüzyılda Ana Kilise tarafından İncil adı altında birleştirilmiş, tek kitap
+      haline dönüştürülmüştür. Bunu ansiklopedinin fasiküllerinin ciltlenip bir
+      araya getirilmesi işlemi de diyebiliriz. İncil’in içindeki bölümlerde
       anlatılanlar bir bütünlük teşkil eder ve İsa’nın yaşamı, mucizeleri ve
       felsefesi üzerinde anlatılardan oluşur. İncil, Tanrısal yolda ve imanda
       gelişmek isteyen, Tanrı’yı ve insanlığın yaratılma amacını anlamaya
