@@ -33,5 +33,396 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=755591sicCM&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=2&t=0s
       viewCount: '3499'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serimizde bu hafta, "İyisin Rab”
+        ilahisinin akustik kaydı ile Kayra, Yiğit ve Robert karşınızda! 
+
+
+        “Ya Rab, içimden bir ses duydum
+
+        Yüzümü ara dedin, burdayım
+
+        Ya Rab, Sana sesleniyorum
+
+        Yüreğim açıyorum, gel Rab
+
+
+        Sevgine göre anımsa beni
+
+        Çünkü sen iyisin Rab
+
+        Sana yakardım şifa verdin
+
+        Çünkü sen iyisin Rab
+
+
+        Kralım, gençlik günahlarımı
+
+        İsyanlarımı anımsama
+
+        Baba, öfken bir anlık sürer
+
+        Lütfun ise bir ömür kalır 
+
+
+        İyisin, sadıksın, yücesin Rab
+
+        Benimsin, Seninim, biz biriz Rab”
+
+
+        Söz & Müzik: Kayra
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Kayra - Canım Sana Feda [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/3JbRTC5xi6E
+
+
+        -Evindeyim [Sözlü Video | Hristiyan İlahisi]
+
+        https://youtu.be/Sj2-v_mBdFE
+
+
+        -Acaba #25 - Her Şey Tanrı’nın İradesine Göre midir?
+
+        https://youtu.be/nXNQwntn-q4
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT3M59S
+      id: Ig8EyqpIKZA
+      imageURL: 'https://i.ytimg.com/vi/Ig8EyqpIKZA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-07-10T10:00:14.000Z'
+      tags: >-
+        umut
+        kalesi,hristiyan,akustik,akustikhane,hristiyanlik,inanc,ibadet,iman,din,kilise,tapinma,ilahi,turkce
+        ilahi,hristiyan
+        ilahisi,isa,mesih,tanri,allah,yaratan,hac,carmih,protestan,katolik,ortodoks
+      title: 'Kayra - İyisin Rab [Akustik | Hristiyan İlahisi]'
+      url: 'https://www.youtube.com/watch?v=Ig8EyqpIKZA'
+      viewCount: '5627'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi'nin, "Akustik İlahiler" serisinde bu hafta, "Baba Evini
+        Özledim" ilahisi ile Damla, Kübra, Åsta ve Robert karşınızda!
+
+
+        “Avluların da olsaydım
+
+        Yanında Rab otursaydım
+
+        Yüzüne baksam
+
+        Sevgine doysam
+
+        Baba evini özledim
+
+
+        Her gün canım seni özler
+
+        Geleceksin yolun gözler
+
+        İçim çeker, yüreğim sızlar
+
+        Baba evini özledim.
+
+
+        Güneşimsin, kalkanımsın
+
+        Huzurumun kaynağısım
+
+        Acılar biter, yaşlar diner
+
+        Baba evini özledim.
+
+
+        İsa'nın önünde dursam
+
+        Yaralarına dokunsam
+
+        Ya Rab desem, hamtlar etsem
+
+        Baba evini özledim
+
+
+        Gözlerimi kapadığımda,
+
+        Bu dünyadan ayrıldığımda
+
+        Yanına gelirim, Kurtuldum bilirim
+
+        Baba evini özledim.”
+
+
+        Söz & Müzik: Banu Çelik
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da! ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Hristiyanlar Neden Vaftiz Oluyor? [Kelam Kültür Kahve]
+
+        https://youtu.be/XOOVVyVRtGo
+
+
+        -4 Dakika - 19 İlahi  [Cup Song  | Hristiyan İlahileri]
+
+        https://youtu.be/TX7VhdzuhV8
+
+
+        -O Sadık Kalacak [Sözlü Video | Hristiyan İlahisi]
+
+        https://youtu.be/9HAbXqpE3OU
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT5M54S
+      id: 0I-Rdm7SwAo
+      imageURL: 'https://i.ytimg.com/vi/0I-Rdm7SwAo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-06-25T12:50:09.000Z'
+      tags: >-
+        umut
+        kalesi,akustik,hristiyan,ilahi,kilise,inanc,hristiyanlik,tapinma,ibadet,tanri,allah,yaratan,umut,isa,mesih,iman
+      title: 'Damla - Baba Evini Özledim [Akustik | Hristiyan İlahisi]'
+      url: 'https://www.youtube.com/watch?v=0I-Rdm7SwAo'
+      viewCount: '13576'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Canım Sana
+        Feda” ilahisinin akustik kaydı ile Kayra, Yiğit, Tugay ve Robert
+        karşınızda! 
+
+
+        “Yıldızları elinde tutan
+
+        İnsan oldun, yüzünü gösterdin
+
+        Ve çarmıhta ölümü alt ettin
+
+        Kazandin
+
+        Şimdi ben özgürüm
+
+        Esareti hayatımdan çıkardın
+
+        Seninleyim
+
+
+        Bu Dünya’da ruhum sıkıldığı zaman
+
+        Abba Baba Sensin sığınağım
+
+
+        Yüce Rab canım sana feda
+
+        Sevgini hiç esirgemedin
+
+        Yaşamımı sunarım Sana
+
+        Sen yücel tüm yaptıklarımda
+
+
+        Sessizce gecelerce 
+
+        Kurtarıcım kalbini ararım
+
+        Karanlıkta yüzünü saklama Benden
+
+        Göreyim yüceliğini 
+
+        Alevlensin yüreğim ateşinle 
+
+        Kralım Sensin”
+
+
+        Söz & Müzik: Kayra
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Tanrı Hikayeni Yazarsa [Değiştiren Tanrı]
+
+        https://youtu.be/KWkBMtmZpw0
+
+
+        -Biz Acı Çekerken Tanrı Nerede? [Kelam Kültür Kahve]
+
+        https://youtu.be/FmrgpMPIEhQ
+
+
+        -Alice & Nathan - Teslim Oldum [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/wQb12cQ_Aak
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M26S
+      id: 3JbRTC5xi6E
+      imageURL: 'https://i.ytimg.com/vi/3JbRTC5xi6E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-06-11T08:51:22.000Z'
+      tags: >-
+        akustik,umut
+        kalesi,ilahi,tanri,rab,allah,isa,mesih,kilise,hristiyan,hristiyanlik,genclik,inanc,ibadet,tapinma,muzik,protestan,ortodoks,katolik
+      title: 'Kayra - Canım Sana Feda [Akustik | Hristiyan İlahisi]'
+      url: 'https://www.youtube.com/watch?v=3JbRTC5xi6E'
+      viewCount: '10359'
 ---
 
