@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: AKUSTİK İLAHİLER
 publishDate: .
-coverImage: /images/uploads/3.png
+coverImage: /images/uploads/baba-evini-özledim.png
 host: UMUT KALESİ
 popularity: '5'
 description: >-
