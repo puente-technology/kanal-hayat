@@ -2,7 +2,6 @@
 [build]
   command = "yarn build"
   publish = "public"
-
   ## Uncomment to use this redirect for Single Page Applications like create-react-app. 
   ## Not needed for static site generators.
   #[[redirects]]
@@ -18,3 +17,16 @@
   #  publish = "dist" # Folder with the static content for _redirect file
   
   ## more info on configuring this file: https://www.netlify.com/docs/netlify-toml-reference/ 
+# Asset optimization, mimicking what we accomplished earlier
+[build.processing]
+  skip_processing = false
+[build.processing.css]
+  bundle = true
+  minify = true
+[build.processing.js]
+  bundle = true
+  minify = true
+[build.processing.html]
+  pretty_urls = true
+[build.processing.images]
+  compress = true
