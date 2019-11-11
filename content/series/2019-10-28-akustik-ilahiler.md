@@ -156,5 +156,141 @@ episodes:
       title: 'Kayra - İyisin Rab [Akustik | Hristiyan İlahisi]'
       url: 'https://www.youtube.com/watch?v=Ig8EyqpIKZA'
       viewCount: '5627'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi'nin, "Akustik İlahiler" serisinde bu hafta, "Baba Evini
+        Özledim" ilahisi ile Damla, Kübra, Åsta ve Robert karşınızda!
+
+
+        “Avluların da olsaydım
+
+        Yanında Rab otursaydım
+
+        Yüzüne baksam
+
+        Sevgine doysam
+
+        Baba evini özledim
+
+
+        Her gün canım seni özler
+
+        Geleceksin yolun gözler
+
+        İçim çeker, yüreğim sızlar
+
+        Baba evini özledim.
+
+
+        Güneşimsin, kalkanımsın
+
+        Huzurumun kaynağısım
+
+        Acılar biter, yaşlar diner
+
+        Baba evini özledim.
+
+
+        İsa'nın önünde dursam
+
+        Yaralarına dokunsam
+
+        Ya Rab desem, hamtlar etsem
+
+        Baba evini özledim
+
+
+        Gözlerimi kapadığımda,
+
+        Bu dünyadan ayrıldığımda
+
+        Yanına gelirim, Kurtuldum bilirim
+
+        Baba evini özledim.”
+
+
+        Söz & Müzik: Banu Çelik
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da! ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Hristiyanlar Neden Vaftiz Oluyor? [Kelam Kültür Kahve]
+
+        https://youtu.be/XOOVVyVRtGo
+
+
+        -4 Dakika - 19 İlahi  [Cup Song  | Hristiyan İlahileri]
+
+        https://youtu.be/TX7VhdzuhV8
+
+
+        -O Sadık Kalacak [Sözlü Video | Hristiyan İlahisi]
+
+        https://youtu.be/9HAbXqpE3OU
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT5M54S
+      id: 0I-Rdm7SwAo
+      imageURL: 'https://i.ytimg.com/vi/0I-Rdm7SwAo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-06-25T12:50:09.000Z'
+      tags: >-
+        umut
+        kalesi,akustik,hristiyan,ilahi,kilise,inanc,hristiyanlik,tapinma,ibadet,tanri,allah,yaratan,umut,isa,mesih,iman
+      title: 'Damla - Baba Evini Özledim [Akustik | Hristiyan İlahisi]'
+      url: 'https://www.youtube.com/watch?v=0I-Rdm7SwAo'
+      viewCount: '13576'
 ---
 
