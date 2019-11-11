@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Spoken Word
 publishDate: .
-coverImage: /images/uploads/51.png
+coverImage: /images/uploads/spoken-word.png
 host: UMUT KALESİ
 popularity: '10'
 description: >-
