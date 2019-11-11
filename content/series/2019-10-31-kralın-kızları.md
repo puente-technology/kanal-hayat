@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: KRALIN KIZLARI
 publishDate: .
-coverImage: /images/uploads/işik-1.png
+coverImage: /images/uploads/kralın-kızları.png
 host: IŞIK ABLA
 popularity: '5'
 description: |-
