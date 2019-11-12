@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: Akustik Tapınma
 publishDate: .
-coverImage: /images/uploads/spoken-word.png
+coverImage: /images/uploads/akustik.png
 host: UMUT KALESİ
 popularity: '5'
 description: >-
