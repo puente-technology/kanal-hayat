@@ -560,5 +560,115 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=YmKuAAylVzU&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=6&t=0s
       viewCount: '12884'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Zamanın
+        Öncesinde ” ilahisinin akustik kaydı ile Kayra, Bora, Murat, Filip ve
+        Bozsi karşınızda! 
+
+
+        "Zamanın öncesinde adımı eline kazıdın Rab
+
+        Sevgini sunmak için uzun zaman bekledin sen
+
+
+        Geçen zaman değerimi değiştiremez
+
+        Ancak sevginin gerçeğini kanıtlar
+
+
+        Bana seslenirsin, sana güvenirim 
+
+        Tanırsın seversin beni  sonsuzlara dek"
+
+
+        Söz & Müzik: David Ruis
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Tanrı Hikayeni Yazarsa [Değiştiren Tanrı]
+
+        https://youtu.be/KWkBMtmZpw0
+
+
+        -Acaba #2 - Tanrı Kanıtlanabilir mi?
+
+        https://youtu.be/wOHxbrluyQs
+
+
+        -Haleluya [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/twzBtI9UBMQ
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M7S
+      id: 0-kRVSZATrs
+      imageURL: 'https://i.ytimg.com/vi/0-kRVSZATrs/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-02-26T09:00:00.000Z'
+      tags: >-
+        Umut,kalesi,akustik,ilahiler,kayra,zamanın öncesinde,Zamanın öncesinde
+        adımı eline kazıdın Rab,Sevgini sunmak için uzun zaman bekledin
+        sen,Geçen zaman değerimi değiştiremez,Ancak sevginin gerçeğini
+        kanıtlar,Bana seslenirsin,sana güvenirim,Tanırsın seversin beni
+        sonsuzlara dek,Hristiyan
+        ilahiler,hristiyanlık,incil,tevrat,zebur,kuran,İsa mesih,Muhammet
+      title: 'Kayra - Zamanın Öncesinde [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=0-kRVSZATrs&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=7&t=0s
+      viewCount: '9614'
 ---
 
