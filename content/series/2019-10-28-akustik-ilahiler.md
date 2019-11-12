@@ -293,5 +293,138 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=0I-Rdm7SwAo&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=4&t=0s
       viewCount: '13745'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Canım Sana
+        Feda” ilahisinin akustik kaydı ile Kayra, Yiğit, Tugay ve Robert
+        karşınızda! 
+
+
+        “Yıldızları elinde tutan
+
+        İnsan oldun, yüzünü gösterdin
+
+        Ve çarmıhta ölümü alt ettin
+
+        Kazandin
+
+        Şimdi ben özgürüm
+
+        Esareti hayatımdan çıkardın
+
+        Seninleyim
+
+
+        Bu Dünya’da ruhum sıkıldığı zaman
+
+        Abba Baba Sensin sığınağım
+
+
+        Yüce Rab canım sana feda
+
+        Sevgini hiç esirgemedin
+
+        Yaşamımı sunarım Sana
+
+        Sen yücel tüm yaptıklarımda
+
+
+        Sessizce gecelerce 
+
+        Kurtarıcım kalbini ararım
+
+        Karanlıkta yüzünü saklama Benden
+
+        Göreyim yüceliğini 
+
+        Alevlensin yüreğim ateşinle 
+
+        Kralım Sensin”
+
+
+        Söz & Müzik: Kayra
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Tanrı Hikayeni Yazarsa [Değiştiren Tanrı]
+
+        https://youtu.be/KWkBMtmZpw0
+
+
+        -Biz Acı Çekerken Tanrı Nerede? [Kelam Kültür Kahve]
+
+        https://youtu.be/FmrgpMPIEhQ
+
+
+        -Alice & Nathan - Teslim Oldum [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/wQb12cQ_Aak
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M26S
+      id: 3JbRTC5xi6E
+      imageURL: 'https://i.ytimg.com/vi/3JbRTC5xi6E/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-06-11T08:51:22.000Z'
+      tags: >-
+        akustik,umut
+        kalesi,ilahi,tanri,rab,allah,isa,mesih,kilise,hristiyan,hristiyanlik,genclik,inanc,ibadet,tapinma,muzik,protestan,ortodoks,katolik
+      title: 'Kayra - Canım Sana Feda [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=3JbRTC5xi6E&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=5&t=0s
+      viewCount: '10432'
 ---
 
