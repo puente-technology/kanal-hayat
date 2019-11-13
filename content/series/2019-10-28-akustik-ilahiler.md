@@ -1119,5 +1119,124 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=ksoR1XyGhbc&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=11&t=0s
       viewCount: '6841'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Esenliğin
+        Gelsin” ilahisinin akustik kaydı ile Ümit, Helin ve Samuel karşınızda!
+
+
+        "Sana yaklaşırız
+
+        Önünde alçalırız
+
+        Günahımızdan döner
+
+        Yüzünü ararız
+
+          Sesimizi işit bizi affet
+          Sesimizi işit ve bize şifa ver
+
+          Esenliğin gelsin
+          Sevgin dökülsün
+          Kurtuluşun aksın ülkemize
+          Müjden duyulsun
+          Yürekler açılsın
+          Adın yücelsin ülkemizde
+
+          Adın uğruna ya RAB
+          Sesimizi işit
+          Doğruluğumuzdan değil
+          Lütfundan diliyoruz!"
+
+        Söz & Müzik: Ümit 
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da! ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Işıl - Kartal Gibi [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/ksoR1XyGhbc
+
+
+        -Ümit - Rab İsa Sana Geldim[Akustik | Hristiyan İlahisi] 
+
+        https://youtu.be/IvBFosPk_z0
+
+
+        -Acaba #7 - Nasıl Hristiyan Olduk?
+
+        https://youtu.be/2LYAoJcfgiQ
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M52S
+      id: kgxrJG-_1GE
+      imageURL: 'https://i.ytimg.com/vi/kgxrJG-_1GE/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-08-28T10:21:35.000Z'
+      tags: >-
+        umut,kalesi,Hristiyan İlahisi,akustik,hane,Sana yaklaşırız,Önünde
+        alçalırız,Günahımızdan döner,Yüzünü ararız,Sesimizi işit bizi
+        affet,Sesimizi işit ve bize şifa ver,Esenliğin gelsin,Sevgin
+        dökülsün,Kurtuluşun aksın ülkemize,Müjden duyulsun,Yürekler açılsın,Adın
+        yücelsin ülkemizde,Adın uğruna ya RAB,Sesimizi işit,Doğruluğumuzdan
+        değil,Lütfundan
+        diliyoruz,Ümit,Helin,Samuel,İsa,Mesih,Rab,Allah,Tanrı,God,Jesus,tapınma,Hristiyanlık,Hristiyan,christian
+        music
+      title: 'Ümit - Esenliğin Gelsin [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=kgxrJG-_1GE&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=12&t=0s
+      viewCount: '27209'
 ---
 
