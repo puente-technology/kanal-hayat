@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: DEĞİŞTİREN TANRI
 publishDate: .
 coverImage: /images/uploads/6.png
-hosts: UMUT KALESİ
+host: UMUT KALESİ
 popularity: '5'
 description: >-
   İnsanların Tanrı’yla tecrübeleri bir masal değildir. Tanrı’nın insanların
