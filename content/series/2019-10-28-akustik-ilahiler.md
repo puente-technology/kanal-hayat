@@ -996,5 +996,128 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=3q2W4kCwLxg&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=10&t=0s
       viewCount: '26639'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Kartal Gibi”
+        ilahisinin akustik kaydı ile Işıl, Zeki, Tim ve Semih karşınızda!
+
+
+        "Rab’be övgüler sun ey gönlüm
+
+        Kutsal adına övgüler sun
+
+        Rab’be övgüler sun ey canım
+
+        İyiliklerini hiç unutma
+
+
+        Sana karşı hep sevecendir
+
+        Yaşamın onun elindedir,
+
+        Sevgisi bitmeyen Rab’dir
+
+        Bu nedenle gençliğinde kartal gibi tazelenir
+
+        Övgüler düşmesin dilinden
+
+
+        Bütün suçlarını bağışlayan
+
+        Hastalıklarını iyileştiren
+
+        Canını ölümden kurtaran 
+
+        Rab’be övgüler sun"
+
+
+        Söz & Müzik: Işıl
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Perde Yırtıldı - Hristiyan İlahisi
+
+        https://youtu.be/Ik1M0acSk0M
+
+
+        -Acaba #1 - Yenilikçi Dinler
+
+        https://youtu.be/nQ4LUNkTUis
+
+
+        -Din & Bilim Çelişir mi? [Kelam Kültür Kahve]
+
+        https://youtu.be/01lMeBxDjhg
+
+
+        ======================
+
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT3M3S
+      id: ksoR1XyGhbc
+      imageURL: 'https://i.ytimg.com/vi/ksoR1XyGhbc/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-09-26T10:15:20.000Z'
+      tags: >-
+        umut,kalesi,akustik,ilahi,kartal gibi,kartal,siyah,beyaz,ışıl,Rab’be
+        övgüler sun ey gönlüm,ey gönlüm,Sana karşı hep sevecendir,hristiyan
+        müzik,hristiyan ilahiler,hristiyanlık,hristiyan,kutsal,İsa Mesih,Rab,İsa
+        tanrı mı,oğlu mu,rab,allah,tanrı,god,jesus,christian
+        music,tapınma,ibadet
+      title: 'Işıl - Kartal Gibi  [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=ksoR1XyGhbc&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=11&t=0s
+      viewCount: '6841'
 ---
 
