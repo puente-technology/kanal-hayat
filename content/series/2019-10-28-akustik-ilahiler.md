@@ -883,5 +883,118 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=vWPJKP06tJY&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=9&t=0s
       viewCount: '50676'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Gör O'nun
+        Yüce Sevgisini” ilahisinin akustik kaydı ile Manolya, Emel, Moein ve
+        Selçuk karşınızda!
+
+
+        "Gör O'nun yüce sevgisini
+         Çivilendi haçta günahsız bedeni.
+         Bak O'na nasıl kurban oldu
+         Sevgisi adına bizim uğrumuza
+
+         İşte İsa görkeminde
+         Kralım benim için öldü
+         Tamamlandı kurtarıldım
+         Ölümün tüm gücü yenildi
+
+         Gör O'nun üstün sevgisini
+         Asla hak etmediğim merhamet gösterdi
+         Günahım ve bütün utancım
+         Çarmıhta yok oldu artık ben özgürüm!
+
+          Sevgin, sevgin, sevgin ne yüce Rab!"
+
+        Söz & Müzik: Tom Lockley
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da! ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Hristiyanlar Nasıl İbadet Eder? [Kelam Kültür Kahve]
+
+        https://youtu.be/bYkKk4_Sqv0
+
+
+        -Ulu Tanrımız İyi Tanrımız - Hristiyan İlahisi
+
+        https://youtu.be/Es2IST5-5lk
+
+
+        -SEZE - Umudum Rab'de [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/UoQ2OEU7quM
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT5M53S
+      id: 3q2W4kCwLxg
+      imageURL: 'https://i.ytimg.com/vi/3q2W4kCwLxg/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-11-27T09:20:56.000Z'
+      tags: >-
+        umut,kalesi,gör onun yüce
+        sevgisini,isa,mesih,rab,haç,tanrı,allah,God,jesus,tapınmak,ibadet,manolya,Çivilendi
+        haçta günahsız bedeni.,kurban,sevgi,sevgisi uğruna,İşte isa
+        görkeminde,kral,benim için öldü,ölümün gücü yenildi,gör onun üstün
+        sevgisini,asla hak etmedim merhamet gösterdi,günah,utanç,çarmıh,çarmıhta
+        yok oldu,artık ben özgürüm,müslüman,hristiyan,hristiyanlık,hristiyan
+        ilahileri,ilahi,akustik,akustik ilahiler
+      title: 'Manolya - Gör O''nun Yüce Sevgisini [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=3q2W4kCwLxg&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=10&t=0s
+      viewCount: '26639'
 ---
 
