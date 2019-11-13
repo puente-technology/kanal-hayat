@@ -1238,5 +1238,113 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=kgxrJG-_1GE&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=12&t=0s
       viewCount: '27209'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Umudumu
+        Rab'be Bağlıyorum” ilahisinin akustik kaydı ile Michal, Doğuhan, Selami,
+        Andie ve Noah karşınızda! 
+
+
+        "  //  Umudumu Rab'be bağlıyorum
+                 Umudumu Rab'be //
+
+          Yiğitler tökezler
+          Gençler yorulur
+          Rab'be umut bağlayanlar
+          Taze güce kavuşur
+
+          Koşar ama zayıf düşmem
+          Yürür ama yorulmam
+          Kanat açıp kartallar gibi
+          Yükseleceğim"
+
+        Söz & Müzik: Michal
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Acaba #10 - Yaratıcı’yı Sorgulayamaz mıyız?
+
+        https://youtu.be/k061o04UnYg
+
+
+        -Acaba #14 - Büyücülük, Wiccanlar ve Astroloji
+
+        https://youtu.be/d4hLr8mxf5w
+
+
+        -Ümit - Rab İsa Sana Geldim [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/IvBFosPk_z0
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M8S
+      id: 8rzxOEysntM
+      imageURL: 'https://i.ytimg.com/vi/8rzxOEysntM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-08-15T14:25:38.000Z'
+      tags: >-
+        umut,kalesi,akustik,ilahiler,hristiyan
+        ilahileri,hristiyanlık,papaz,rahip,katolik,protestanllık,ortodoks,koşar
+        ama zayıf düşmem,yürür ama yorulmam,kanat açıp kartallar
+        gibi,kartal,siyah,beyaz,yükselteceğim,yiğitler tökezler,gençler
+        yorulur,rabbe umut bağlayanlar,taze güce kavuşur,umudumu rabbe
+        bağlayacağım,umudum rabde
+      title: 'Michal - Umudumu Rab''be Bağlıyorum [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=8rzxOEysntM&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=13&t=0s
+      viewCount: '16223'
 ---
 
