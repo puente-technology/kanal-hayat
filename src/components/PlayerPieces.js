@@ -10,7 +10,7 @@ const playSvg = require('../../static/images/play.svg');
 const prevVideo = require('../../static/images/leftArrow.svg')
 const nextVideo = require('../../static/images/rightArrow.svg')
 const pauseSvg = require('../../static/images/pause.svg')
-const cancelSvg = require('../../static/images/cancelicon.svg')
+const cancelSvg = require('../../static/images/close.png')
 const volumeSvg = require('../../static/images/volume.svg');
 const elipse1 = require('../../static/images/elipse1.svg');
 const elipse2 = require('../../static/images/elipse2.svg');
@@ -446,12 +446,13 @@ export const PlayerButtonsBigScreenHover = ({
   <div onMouseLeave={toggleOnHoverOut} onMouseEnter={toggleOnHover} className="bigScreenInfo" style={{ width: playerProps.width, height: playerProps.height }}>
     <div style={{ display: 'flex', flexDirection: 'column' }}>
       <button
+        className="cancelIcon"
         type="button"
         style={{
           background: `url(${cancelSvg}) no-repeat`,
           backgroundSize: 'contain',
           border: 'none',
-          minWidth: '30px',
+          minWidth: '50px',
           minHeight: '50px',
           marginBottom: '5px',
         }}

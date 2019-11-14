@@ -800,10 +800,11 @@ input[type=range]::-moz-range-thumb {
 	align-items: flex-end;
 	text-align: -webkit-right;
 	top: 0px;
-	margin: 41px auto;
-	left: 0;
+	// margin: 41px auto;
+	// left: 0;
 	right: 0;
-	padding-right: 23px;
+	padding-top: 10px;
+	padding-right: 10px;
 }
 
 @media (max-width: map-get($grid-breakpoints, md)) {
@@ -1062,6 +1063,21 @@ input[type=range]::-moz-range-thumb {
 }
 
 @media (max-width: map-get($grid-breakpoints, sm)) {
+
+	.bigScreenInfo {
+		margin-top: 0px !important;
+		padding-top: 0px !important;
+    	padding-right: 0px !important;
+	}
+
+	.cancelIcon {
+		min-width: 30px !important;
+		min-height: 30px !important;
+		margin-bottom: 5px !important;
+		margin-top: 17px !important;
+	}
+
+
 	.player-controls.isBig {
 		text-align: center;
 		/* left: 0; */
