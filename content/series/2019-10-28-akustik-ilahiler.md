@@ -1346,5 +1346,117 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=8rzxOEysntM&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=13&t=0s
       viewCount: '16223'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Şükür Sana”
+        ilahisinin akustik kaydı ile Bayram ve Gökhan karşınızda! 
+
+
+        "İsa Mesih sana ben taparım
+         İsterim sana ben çalışayım.
+
+         Yalnız seni ben öveyim
+         Yalnız sana hizmet edeyim.
+         Çünkü sen benim için
+         Dövüldün, sövüldün..
+         Üçüncü gün dirildin 
+         Bize yaşam verdin İsa.
+
+         Şükür sana, şükür sana..
+
+         Kime ben derdimi söyleyeyim?
+         Güçlü iman ver bana sen İsam.
+
+         Derdime derman ol,
+         Günahımı sen affet.
+         Adımı yaz cennete Allah'ım.
+
+         Haleluya, haleluya..."
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -İşkolik [Kısa Film]
+
+        https://youtu.be/4RmGYLFizQI
+
+
+        -Kilisede Neden İlahi Söylenir? [Kelam Kültür Kahve]
+
+        https://youtu.be/JgigR6qr-Xw
+
+
+        -Ümit, Güldal & Bayram - Sana Şükürler  [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/F1os0BCJIZA
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M21S
+      id: VuuOjCXo5oA
+      imageURL: 'https://i.ytimg.com/vi/VuuOjCXo5oA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-07-31T15:17:51.000Z'
+      tags: >-
+        Umut,Kalesi,Akustik,İlahiler,Hane,Haleluya,İsa
+        mesih,Kilise,Gökhan,Bayrm,İsa mesih sana ben taparım,Derdime derman
+        ol,Şükür sana,Şükür,Bin,Seni bana verene,Çok
+        şükür,Dövüldün,Sövüldün,Cennet,Affet,Beni,Beni
+        affet,Ortodoks,Katolik,Protestan,Gavurluk,Gavur,Muhammed,Mekke,Medine,İslam,Müslüman,Hristiyan,Tanrı,Allah,God,Jesus,Yahve
+        yire
+      title: 'Bayram & Gökhan - Şükür Sana [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=VuuOjCXo5oA&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=14&t=0s
+      viewCount: '29951'
 ---
 
