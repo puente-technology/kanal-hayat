@@ -1591,5 +1591,115 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=xkwO7aNL8RI&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=15&t=0s
       viewCount: '27323'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Rab İsa Sana
+        Geldim” ilahisinin akustik kaydı ile Ümit karşınızda! 
+
+
+        "Evet Rab İsa sana geldim
+         Susadım ve acıktım sana geldim
+         Yorgunum ve yükümle sana geldim
+         Bıraktım hayatımın iğrenç oyuncaklarını
+
+         Tut beni ellerimden çek kaldır Ya Rab
+         Sana sımsıkı sarılıyorum
+         Her şeyimi sana verip geliyorum
+         Evet Rab İsa sana geliyorum.
+
+         Evet Rab İsa seninleyim
+         Kendimi sevgine teslim ettim
+         Aklandım ve özgürüm seninleyim
+         Aldığım değerli armağanın ile güvendeyim"
+
+        Söz & Müzik: Ümit
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Ümit - Esenliğin Gelsin [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/kgxrJG-_1GE
+
+
+        -İsa Tanrı mı? [Kelam Kültür Kahve]
+
+        https://youtu.be/GGckSJSMfng
+
+
+        -Acaba #8 - Özde Hristiyanlık
+
+        https://youtu.be/x8CATcq8oJ0
+
+
+        ======================
+
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M54S
+      id: IvBFosPk_z0
+      imageURL: 'https://i.ytimg.com/vi/IvBFosPk_z0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-05-29T09:19:25.000Z'
+      tags: >-
+        Umut,Kalesi,akustik,ilahiler,hristiyanlık,hristiyan,hristiyan
+        ilahileri,ilahi,kutsal,mekke,medine,kudüs,papaz,rahip,protestan,katolik,ortodoks,müslüman,yahudi,Ümit,Rab,Allah,Tanrı,Mesih,God,Jesus,Rab
+        İsa Sana Geldim,Tapınma,namaz,ibadet,Evet Rab İsa sana geldim,Susadım ve
+        acıktım sana geldim,Yorgunum,Tut beni ellerimden çek kaldır Ya Rab,Sana
+        sımsıkı sarılıyorum,Her şeyimi sana verip geliyorum,Aklandım ve
+        özgürüm,Kendimi sevgine teslim ettim,Aldığım değerli armağan,güvendeyim
+      title: 'Ümit - Rab İsa Sana Geldim [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=IvBFosPk_z0&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=16&t=0s
+      viewCount: '16612'
 ---
 
