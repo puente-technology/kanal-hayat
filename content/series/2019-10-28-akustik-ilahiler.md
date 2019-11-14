@@ -1815,5 +1815,114 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=F1os0BCJIZA&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=17&t=0s
       viewCount: '17777'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Kutsal”
+        ilahisinin akustik kaydı ile Chad karşınızda!
+
+
+        "Aklıma tek bir söz gelir
+         Ancak bir söz anlatabilir
+
+        Kutsal  Kutsal  Rab Tanrımız
+
+         Sana benzeyen yok
+         Sen kutsalsın
+         Kutsalsın
+
+        Kutsalsın, kutsalsın, kutsalsın Rab İsa
+
+        Yücesin, yücesin, yücesin Rab İsa
+
+        Layıksın, layıksın, layıksın hayatıma"
+
+
+        Söz & Müzik: Matt Gilman
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Hristiyanlığın Diğer İnanışlardan Farkı Nedir?  [Kelam Kültür Kahve]
+
+        https://youtu.be/GyTrpaTrOFs
+
+
+        -Acaba #10 - Yaratıcı’yı Sorgulayamaz mıyız?
+
+        https://youtu.be/k061o04UnYg
+
+
+        -Dünya Karanlıktadır [Sözlü Video | Hristiyan İlahisi]
+
+        https://youtu.be/_jnQr37BHIE
+
+
+        ======================
+
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT5M13S
+      id: yx7CkKSXlzA
+      imageURL: 'https://i.ytimg.com/vi/yx7CkKSXlzA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-03-06T08:59:24.000Z'
+      tags: >-
+        Umut,Kalesi,Akustik,İlahi,İlahiler,Kutsal,Sen kutsalsın,sana benzeyen
+        yok,kutsalsın,Aklıma tek bir söz,aklıma tek bir söz
+        gelir,Rab,Tanrı,Tanrımız,Chad
+        Kahana,Chad,hristiyan,hristiyanlık,İsa,Jesus,God,Tapınma,Lütuf,Allah,İncil,Kitap,Kitabı
+        mukaddes,Esenlik,Sevgi,Aşk,Ulu,yüce,layık,ibadet,inanc,kilise
+      title: 'Chad - Kutsal [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=yx7CkKSXlzA&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=18&t=0s
+      viewCount: '3281'
 ---
 
