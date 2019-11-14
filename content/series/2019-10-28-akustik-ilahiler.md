@@ -2242,5 +2242,111 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=TTcF9lcZREs&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=21&t=0s
       viewCount: '19448'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Umudum
+        Rab'de” ilahisinin akustik kaydı ile SEZE grubu karşınızda! 
+
+
+        "Düştüğümde Rab elini uzat
+         Dalgalar yüksek fırtına da var
+         Ama umudum Rab'de 
+         Sadık sözlerine 
+         Güveneceğim daima
+
+         Hiçtir bana bu dünya
+         Benim payıma düşensin Rab İsa
+         Bir gün yüce sofranda
+         Senin karşında olmak umuduyla
+         Yaşarım"
+
+        Söz & Müzik: Sinan
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Kilise Düzeni & Disiplini [Kelam Kültür Kahve]
+
+        https://youtu.be/pPUyfvs78Pg
+
+
+        -Sahte Tanrılar - Spoken Word
+
+        https://youtu.be/H6NLbt6fvlo
+
+
+        -SEZE - Yüceltiriz [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/u-m1lqi_9X0
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M36S
+      id: UoQ2OEU7quM
+      imageURL: 'https://i.ytimg.com/vi/UoQ2OEU7quM/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-02-07T14:10:52.000Z'
+      tags: >-
+        Umut,Kalesi,Umut
+        Kalesi,Akustik,İlahiler,İlahi,Tapınma,Hristiyan,Hristiyanlık,Christianity,Tanrı,God,Allah,Jesus,İsa,Mesih,İsa
+        Mesih,İsa Rab,Rab,Seze,Umudum Rab'de,Düştüğümde Rab elini
+        uzat,Dalga,Dalgalar,Fırtına,Fırtınalar,Güven,Sadakat,Hiçtir bana bu
+        dünya,Benim payıma düşensin Rab İsa,Benim payıma düşensin,Bir gün yüce
+        sofranda,Yaşarım,Adalet,Yaşam,Eşitlik,Merhamet,Sevgi,Love,Ulu,Yüce,Yüce
+        Allah
+      title: 'SEZE - Umudum Rab''de [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=UoQ2OEU7quM&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=22&t=0s
+      viewCount: '43557'
 ---
 
