@@ -1,6 +1,6 @@
 ---
 template: SeriesPageTemplate
-title: 'Tek Yol, Gerçek ve Hayat 3'
+title: 'Tek Yol, Gerçek ve Hayat 2'
 publishDate: .
 coverImage: /images/uploads/maxresdefault.jpg
 host: IŞIK ABLA

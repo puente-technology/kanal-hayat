@@ -114,6 +114,7 @@ class ProgrammeHomePage extends Component {
                     <Carousel
                       episodes={tempData.thumbnails}
                       activeEpisode={0}
+                      dispatch={dispatch}
                     />
                   ) : (
                     <div style={{ display: 'flex' }}>

@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: DAR KAPIDAN GİRENLER 8.SEZON
 publishDate: .
-coverImage: /images/uploads/neden-hristiyan-oldum-8-save-for-web.jpg
+coverImage: /images/uploads/6.jpg
 host: ALİ KALKANDELEN
 popularity: '1'
 description: >-

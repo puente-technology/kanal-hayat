@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: HEY GİDİ KARADENİZ
 publishDate: .
-coverImage: /images/uploads/ihsan-1.png
+coverImage: /images/uploads/i̇hsan-öz.png
 host: İHSAN ÖZBEK
 popularity: '5'
 description: |-

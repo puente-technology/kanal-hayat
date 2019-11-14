@@ -495,7 +495,7 @@ collections:
           - { label: "Kurdish", value: "1" }
           - { label: "Uzbek", value: "2" }
           - { label: "Syriani (Aramaic)", value: "3" }
-          - { label: "Turkmen", value: "3" }
+          - { label: "Turkmen", value: "4" }
 
       - label: "Kategori"
         name: "selectedCategories"
@@ -537,7 +537,7 @@ collections:
           - { label: "Kurdish", value: "1" }
           - { label: "Uzbek", value: "2" }
           - { label: "Syriani (Aramaic)", value: "3" }
-          - { label: "Turkmen", value: "3" }
+          - { label: "Turkmen", value: "4" }
       - label: Hedef Kitle
         name: targetGroup
         widget: select

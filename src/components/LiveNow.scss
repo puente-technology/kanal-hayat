@@ -28,7 +28,7 @@
 .LiveNow--Events {
   display: flex;
   // height: 97px;
-  justify-content: space-around;
+  justify-content: flex-start;
   overflow: scroll;
   padding: 0 20px;
   padding-bottom: 20px;
@@ -45,7 +45,9 @@
   color: rgba(61, 61, 61, 0.3);
   font-weight: bold;
   flex-direction: column;
-  margin-right: 65px;
+  margin-right: 35px;
+  white-space: nowrap;
+  padding-right: 30px;
 }
 
 .Item-Header {
@@ -83,6 +85,12 @@
     justify-content: center;
     margin-left: 20px;
   }
+}
+
+.LiveNow--ScrollIcon {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 13px;
 }
 
 @media (max-width: 576px) {

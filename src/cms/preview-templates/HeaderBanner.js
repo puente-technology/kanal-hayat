@@ -11,9 +11,9 @@ const HeaderBanner = data => (
             <div style={{ position: 'relative' }}>
               <img key={index} className="imageBackground" src={items.image} alt={items.title} />
               <div className="headerText">
-                <p style={{ paddingTop: '40px' }}>
+                <span style={{ paddingTop: '40px' }}>
                   {items.title}
-                </p>
+                </span>
               </div>
             </div>
           </div>

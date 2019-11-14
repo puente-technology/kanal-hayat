@@ -593,7 +593,7 @@ class Player extends Component {
                 // width: props.width,
                 margin: '71px auto !important',
                 height: '6rem',
-                background: 'black',
+                background: '#757E7C',
               }}
               className={['container-fluid', 'player-controls-container', props.expand ? 'expanded' : 'collapsed'].join(' ')}
             >

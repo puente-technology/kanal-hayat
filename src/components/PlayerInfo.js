@@ -72,7 +72,7 @@ class PlayerInfoExpand extends Component {
         style={{
           width: playerProps.width,
           height: 'auto',
-          background: 'black',
+          background: '#757E7C',
           bottom: '0',
           margin: '0 auto',
           display: 'flex',
