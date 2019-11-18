@@ -3,6 +3,7 @@ import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
 import './PlayerCarousel.scss';
 import PropTypes from 'prop-types';
 import { nFormatter } from '../utils/utils';
+import Tooltip from './Tooltip';
 
 const arrovSvg = require('../../static/images/expand.svg');
 
@@ -135,6 +136,17 @@ class Item extends React.Component {
       id,
       frontmatter,
     } = this.props
+    let videoTitle
+    if (id.youtubeURL.title.length <= 30) {
+      videoTitle = id.youtubeURL.title
+    } else if (id.youtubeURL.title.length > 30) {
+      videoTitle = (
+        <Tooltip message={id.youtubeURL.title} position="top">
+          {`${id.youtubeURL.title.slice(0, 40)}...`}
+        </Tooltip>
+      )
+    }
+
     const className = `item level${level}`
     return (
       <div className={className}>
@@ -151,7 +163,7 @@ class Item extends React.Component {
         />
         <div className="info">
           <div className="infoDiv">
-            {`${id.youtubeURL.title}: `}
+            {videoTitle}
           </div>
           <div className="infoDiv">
             {frontmatter.host || ''}
