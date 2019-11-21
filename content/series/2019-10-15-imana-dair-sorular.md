@@ -3,7 +3,7 @@ template: SeriesPageTemplate
 title: İMANA DAİR SORULAR
 publishDate: .
 coverImage: /images/uploads/zekeriya-butrus.png
-host: Zekeriya Butrus ile
+host: ZEKERİYA BUTRUS
 popularity: '1'
 description: >-
   (Father Zakaria Botros), 1934 doğumlu Mısırlı Kıpti Hristiyandır. 1992’den

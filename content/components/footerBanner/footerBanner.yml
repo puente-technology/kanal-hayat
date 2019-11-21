@@ -1,15 +1,11 @@
 program:
-  - link: >-
-      https://www.youtube.com/watch?v=Ui3sELeZ8vE&list=PLQfi14V3hH0ImPlsbox-87LciTNfLuRy6
-    programName: Anlatsana Ey Gavur
-  - link: >-
-      https://www.youtube.com/watch?v=lH03jeXeX24&list=PLQfi14V3hH0LrhqTWwKn8MOt_mAf9vmhh
+  - link: series/h-ri-stiyan-ahla-ki/
+    programName: Hristiyan Ahlakı
+  - link: series/ge-rc-egi-n-sesi/
     programName: Gerçeğin Sesi
-  - link: >-
-      https://www.youtube.com/watch?v=i2UTACBUf28&list=PLQfi14V3hH0LSYOXDLne85e9a_wvgGyo_
+  - link: series/h-ri-stiyan-s-eria-ti/
     programName: Hristiyan Şeriatı
-  - link: >-
-      https://www.youtube.com/watch?v=UzotzuYs8m0&list=PLQfi14V3hH0KcWHHuz9dinoQy3i-Rftjy
-    programName: Hristiyan Ahlâkı
-  - link: 'https://www.youtube.com/watch?v=UJgtgnlNibU&list=PLCFFCCDDA9D6C2653'
-    programName: 'Dar Kapıdan Girenler [Neden Hristiyan Oldum ?] '
+  - link: series/ev-li-lik-sohbetleri-3-sezon/
+    programName: Evlilik Sohbetleri 3.Sezon
+  - link: series/mana-sohbetle-ri/
+    programName: Mânâ Sohbetleri
