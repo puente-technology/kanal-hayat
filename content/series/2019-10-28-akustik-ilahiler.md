@@ -2460,5 +2460,138 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=VuuOjCXo5oA&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=14&t=0s
       viewCount: '30439'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi Akustik İlahiler serimizde bu hafta "Canım Tanrı'da”
+        ilahisinin akustik kaydı ile Işıl, Zeki ve Tim karşınızda! 
+
+
+        "Canım yalnız Tanrı’da huzur bulur
+
+        Kurtuluşum O’ndan gelir
+
+        Tek kayam kurtuluşum 
+
+        Canım yalnız Tanrı’da huzur bulur
+
+
+        Kalbim erir içimde O dokununca bana
+
+        Gözlerim görmese de varlığı yakın bana
+
+        Bir gün gelecek görkemiyle, bulutlarla  
+
+        Yüreğim sana dönük bekliyorum gel İsa 
+
+
+        Canım yalnız Tanrı’da huzur bulur
+
+        Çünkü umudum O’ndadır
+
+        Kalem O’dur sarsılmam
+
+        Güç O’nun ve sevgi de
+
+        Canım yalnız Tanrı’da huzur bulur
+
+
+        Kalbim erir içimde O dokununca bana
+
+        Gözlerim görmese de varlığı yakın bana
+
+        Bir gün gelecek görkemiyle, bulutlarla    
+
+        Yüreğim sana dönük bekliyorum gel İsa"
+
+
+        Söz & Müzik: Işıl
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Neden Noel'i Kutluyoruz? [Kelam Kültür Kahve]
+
+        https://youtu.be/3Ot0jd6iiN4
+
+
+        -Tanrı Hikayeni Yazarsa [Değiştiren Tanrı]
+
+        https://youtu.be/KWkBMtmZpw0
+
+
+        -Paranın Hristiyanlık’taki Yeri Nedir?  [Kelam Kültür Kahve]
+
+        https://youtu.be/Ib1OdAb00hI
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi; Hristiyanlık hakkında en çok merak edilen soruları ve
+        yanlış bilinen gerçekleri Kutsal Kitap öğretisinin ışığında yanıt veren,
+        Hristiyan müziklerinden parçaların ve Hristiyan inancı hakkında en
+        güncel söyleşilerin yer aldığı bir Youtube kanalıdır.
+      duration: PT4M44S
+      id: xkwO7aNL8RI
+      imageURL: 'https://i.ytimg.com/vi/xkwO7aNL8RI/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-07-17T09:00:08.000Z'
+      tags: >-
+        umut,kalesi,akustik,ilahiler,hristiyan,hristiyanlık,hane,canım,Tanrı,canım
+        tanrıda,Kalbim erir içimde O dokununca
+        bana,isa,mesih,allah,incil,değişti mi,tevrat,sorgula,kuran,Gözlerim
+        görmese de varlığı yakın bana,Yüreğim sana dönük bekliyorum gel İsa,Bir
+        gün gelecek görkemiyle,bulutlarla,Canım yalnız Tanrı’da huzur
+        bulur,Kurtuluşum O’ndan gelir Tek kayam kurtuluşum,aşk,sevgi,ruhsal
+        şifa,rusal
+      title: 'Işıl - Canım Tanrı''da [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=xkwO7aNL8RI&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=15&t=0s
+      viewCount: '27715'
 ---
 
