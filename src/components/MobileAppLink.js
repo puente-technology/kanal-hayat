@@ -16,12 +16,11 @@ const MobileAppLink = () => (
       <p className="firstText">
         Kanal Hayat uygulamamızı şimdi indirin!
       </p>
-      <p className="secondText">
-        Kanal Hayat
-      </p>
       <p className="thirdText">
-        consectetur adipiscing elit, sed do eiusmod tempor incididunt
-        ut labore et dolore magna aliqua.
+        Kanal Hayat yayınlarımıza,
+        facebook, youtube, instagram ve twitter sayfalarımıza,
+        web sitemize ve diğer hizmetlerimize kolayca ulaşabilmek
+        için lütfen uygulamamızı indirin
       </p>
       <div className="googlePlayStyle">
         <a rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.appmachine.p2697DD" target="_blank">
