@@ -2703,5 +2703,119 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=IvBFosPk_z0&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=16&t=0s
       viewCount: '17064'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Sana
+        Şükürler” ilahisinin akustik kaydı ile Ümit, Güldal, Bayram ve Gökhan
+        karşınızda! 
+
+
+        " Sevginle geldin bana 
+          Beni sen kurtardın
+          Rab senin yanında huzurluyum
+          Sevginle lütfun için
+          Hamdlar sunarım Rabbim
+          Kalbim tümüyle senin övgü sana
+
+        //  Sana şükürler sunarım //
+
+          Yerime feda oldun
+          Çarmıha gerildin
+          Sen sonsuz yaşamı bana verdin
+          Şimdi sana gelirim
+          Yüce kurtarıcıma
+          Gözlerine bakarım hayranlıkla
+
+          Övgüler İsa sana 
+          Yüce Kralıma
+          Şükürler sana İsa "
+
+        Söz & Müzik: Marcos Witt
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Acaba #9 - Tanrı'yı Tanıyabilir miyiz?
+
+        https://youtu.be/T0QKamxtWp8
+
+
+        -Sana Hayranım [Sözlü Video | Hristiyan İlahisi]
+
+        https://youtu.be/4lLSGMt17sQ
+
+
+        -Varlığın - Hristiyan İlahisi
+
+        https://youtu.be/z7glhhNZkdc
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT3M21S
+      id: F1os0BCJIZA
+      imageURL: 'https://i.ytimg.com/vi/F1os0BCJIZA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-04-24T10:35:37.000Z'
+      tags: >-
+        umut,kalesi,akustik,ilahiler,bir
+        milyon,tıklama,sevgi,mübarek,şükür,şükürler,şükür seni yaratana,sana
+        şükürler,Övgüler İsa sana,Sevginle geldin
+        bana,mesih,İsa,Rab,Allah,Tanrı,kurtarıcı,yüce,ulu,görkem,huzur,kral,feda,canım
+        feda,gözler,ayna,kalp,hristiyanlık,hristiyan,müslüman,hidayet,protestan,katolik,incil,incil
+        değişti mi,hristiyan ilahileri
+      title: 'Ümit, Güldal & Bayram - Sana Şükürler  [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=F1os0BCJIZA&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=17&t=0s
+      viewCount: '18139'
 ---
 
