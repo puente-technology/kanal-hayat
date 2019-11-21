@@ -2465,49 +2465,38 @@ episodes:
     season: '1'
     youtubeURL:
       description: >-
-        Umut Kalesi Akustik İlahiler serimizde bu hafta "Canım Tanrı'da”
-        ilahisinin akustik kaydı ile Işıl, Zeki ve Tim karşınızda! 
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, “Tapınmak
+        İstiyorum” ilahisinin akustik kaydı ile David ve Nathan karşınızda!
 
 
-        "Canım yalnız Tanrı’da huzur bulur
+        "Tapınmak istiyorum 
 
-        Kurtuluşum O’ndan gelir
+        Tapınmayı seçiyorum
 
-        Tek kayam kurtuluşum 
+        Tanrım sana sesleniyorum
 
-        Canım yalnız Tanrı’da huzur bulur
-
-
-        Kalbim erir içimde O dokununca bana
-
-        Gözlerim görmese de varlığı yakın bana
-
-        Bir gün gelecek görkemiyle, bulutlarla  
-
-        Yüreğim sana dönük bekliyorum gel İsa 
+        Tanrım sana geliyorum
 
 
-        Canım yalnız Tanrı’da huzur bulur
+        Ne kadar derin hayatın 
 
-        Çünkü umudum O’ndadır
+        Övgülerim sende yücelsin
 
-        Kalem O’dur sarsılmam
+        Dualarımı sunuyorum sana
 
-        Güç O’nun ve sevgi de
-
-        Canım yalnız Tanrı’da huzur bulur
+        Tanrım sana geliyorum 
 
 
-        Kalbim erir içimde O dokununca bana
+        Dünyayı yaratan Tanrı
 
-        Gözlerim görmese de varlığı yakın bana
+        Işığınla aydınlat ruhumu 
 
-        Bir gün gelecek görkemiyle, bulutlarla    
+        Seni arıyorum güveniyorum 
 
-        Yüreğim sana dönük bekliyorum gel İsa"
+        Tanrım sana geliyorum"
 
 
-        Söz & Müzik: Işıl
+        Söz & Müzik: David
 
 
         ======================
@@ -2531,7 +2520,6 @@ episodes:
         İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
         hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
 
-
         Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
 
 
@@ -2552,9 +2540,9 @@ episodes:
         BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
 
 
-        -Neden Noel'i Kutluyoruz? [Kelam Kültür Kahve]
+        -Ali - Avlularına Al Beni  [Akustik | Hristiyan İlahisi]
 
-        https://youtu.be/3Ot0jd6iiN4
+        https://youtu.be/LhK7N2sVmug
 
 
         -Tanrı Hikayeni Yazarsa [Değiştiren Tanrı]
@@ -2562,9 +2550,9 @@ episodes:
         https://youtu.be/KWkBMtmZpw0
 
 
-        -Paranın Hristiyanlık’taki Yeri Nedir?  [Kelam Kültür Kahve]
+        -Kilisede Neden İlahi Söylenir? [Kelam Kültür Kahve]
 
-        https://youtu.be/Ib1OdAb00hI
+        https://youtu.be/JgigR6qr-Xw
 
 
         ======================
@@ -2573,27 +2561,25 @@ episodes:
         UMUT KALESİ KİMDİR?
 
 
-        Umut Kalesi; Hristiyanlık hakkında en çok merak edilen soruları ve
-        yanlış bilinen gerçekleri Kutsal Kitap öğretisinin ışığında yanıt veren,
-        Hristiyan müziklerinden parçaların ve Hristiyan inancı hakkında en
-        güncel söyleşilerin yer aldığı bir Youtube kanalıdır.
-      duration: PT4M44S
-      id: xkwO7aNL8RI
-      imageURL: 'https://i.ytimg.com/vi/xkwO7aNL8RI/hqdefault.jpg'
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M49S
+      id: oMONBaPDE3g
+      imageURL: 'https://i.ytimg.com/vi/oMONBaPDE3g/hqdefault.jpg'
       mediaType: video
-      publishedAt: '2018-07-17T09:00:08.000Z'
+      publishedAt: '2018-01-23T09:07:10.000Z'
       tags: >-
-        umut,kalesi,akustik,ilahiler,hristiyan,hristiyanlık,hane,canım,Tanrı,canım
-        tanrıda,Kalbim erir içimde O dokununca
-        bana,isa,mesih,allah,incil,değişti mi,tevrat,sorgula,kuran,Gözlerim
-        görmese de varlığı yakın bana,Yüreğim sana dönük bekliyorum gel İsa,Bir
-        gün gelecek görkemiyle,bulutlarla,Canım yalnız Tanrı’da huzur
-        bulur,Kurtuluşum O’ndan gelir Tek kayam kurtuluşum,aşk,sevgi,ruhsal
-        şifa,rusal
-      title: 'Işıl - Canım Tanrı''da [Akustik | Hristiyan İlahisi]'
+        Umut,Kalesi,Umut Kalesi,Akustik,İlahiler,Akustik
+        İlahiler,Hristiyanlık,Hristiyan,İsa,Mesih,Hristiyan
+        İlahiler,Nathan,David,Tapınma,Tapınmak İstiyorum,Tanrım,Tanrı,Tanrım
+        sana geliyorum,Dünyayı Yaratan
+        Tanrı,Övgü,Dua,Christianity,God,Jesus,worship,lütuf,güveniyorum,seçim,inanç,dünya,yaratıcı,ışık,aramak,aydınlık,ilahi,tapinma,ibadet,inanc,kilise
+      title: 'David - Tapınmak İstiyorum [Akustik | Hristiyan İlahisi]'
       url: >-
-        https://www.youtube.com/watch?v=xkwO7aNL8RI&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=15&t=0s
-      viewCount: '27715'
+        https://www.youtube.com/watch?v=oMONBaPDE3g&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=24&t=0s
+      viewCount: '6135'
   - guests: ''
     season: '1'
     youtubeURL:
