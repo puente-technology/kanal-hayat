@@ -2937,5 +2937,129 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=mf6QV5_Ug9A&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=27&t=0s
       viewCount: '25441'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Teslim Oldum"
+        ilahisinin akustik kaydı ile Alice ve Nathan karşınızda!  
+
+
+        "Buradayım, dizlerim’ üstünde
+
+        Teslim olurum, teslim olurum
+
+
+        Beni bul, kendine yaklaştır
+
+        Sana muhtacım, sana muhtacım 
+
+
+        // Teslim oldum, teslim oldum
+
+        Seni istiyorum, seni istiyorum //
+
+
+        Beni doldur, merhamet, lütufla
+
+        Sana acıktım, sana acıktım
+
+
+        Kollarım açık, sesimi duyarsın
+
+        Bana konuş Rab, bana konuş Rab
+
+
+        Bir rüzgar gibi, içime üfle
+
+        İsteğin olsun, isteğin olsun bende 
+
+        Fırtına gibi, canımda işle
+
+        İsteğin olsun, isteğin olsun bende"
+
+
+        Söz & Müzik: Matt Crocker
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Tevrat, Zebur & İncil Değiştirildi mi? [Kelam Kültür Kahve]
+
+        https://youtu.be/Fo3KZK9og8Q
+
+
+        -Acaba #3 - Dindarlık Nedir?
+
+        https://youtu.be/emOPymiNtTo
+
+
+        -Alice & Nathan - Gökleri Aç Rab [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/TTcF9lcZREs
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M28S
+      id: wQb12cQ_Aak
+      imageURL: 'https://i.ytimg.com/vi/wQb12cQ_Aak/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-19T09:12:42.000Z'
+      tags: >-
+        Hristiyan,Ilahi,İlahi,İlahisi,Ilahisi,Umut
+        Kalesi,Akustik,Türkçe,Müzik,Music,Tapınma,Hristiyanlık,Mesih,İsa,Türk,worship,Turkish,Umut,Kalesi,Christinity,Teslim,Oldum,Alice,Nathan,hillsong,i
+        surrender,akustik,gitar,ibadet,inanc,kilise
+      title: 'Alice & Nathan - Teslim Oldum [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=wQb12cQ_Aak&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=28&t=0s
+      viewCount: '38282'
 ---
 
