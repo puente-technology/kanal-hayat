@@ -2352,41 +2352,44 @@ episodes:
     season: '1'
     youtubeURL:
       description: >-
-        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Şükür Sana”
-        ilahisinin akustik kaydı ile Bayram ve Gökhan karşınızda! 
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, "Sen Layıksın
+        Övgüye” ilahisinin akustik kaydı ile Ceremi ve Mişel karşınızda! 
 
 
-        "İsa Mesih sana ben taparım
-         İsterim sana ben çalışayım.
+        "Azizler, melekler
 
-         Yalnız seni ben öveyim
-         Yalnız sana hizmet edeyim.
-         Çünkü sen benim için
-         Dövüldün, sövüldün..
-         Üçüncü gün dirildin 
-         Bize yaşam verdin İsa.
+        Secde ederler
 
-         Şükür sana, şükür sana..
+        İhtiyarlar Rab'be taçlarını sunar
 
-         Kime ben derdimi söyleyeyim?
-         Güçlü iman ver bana sen İsam.
+        Ezgi söyler
+         
+        Sen layıksın övgüye
 
-         Derdime derman ol,
-         Günahımı sen affet.
-         Adımı yaz cennete Allah'ım.
+        Sen layıksın herşeye
 
-         Haleluya, haleluya..."
+        Senden ve Senin için herşey var oldu        
 
-        ======================
+        Tüm görkeme layıksın
+         
+        Gece gündüz, gündüz gece yükselsin
+
+        Övgüler Senin önünde buhur gibi
+
+        Gece gündüz, gündüz gece yükselsin
+
+        Övgüler Senin önünde buhur gibi
+         
+        Tek Layık Olan galip geldi - Yahuda Aslanı
+
+        Tek Layık Olan galip geldi - Davut’un Kökü
+                          
+        Tanrım, Sen insan oldun
+
+        Beden aldın Sen ne güzelsin"
 
 
-        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
-        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
-        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
-        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
-        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
-        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
-        yakınlaştırmaktır.
+        Söz & Müzik: David Brymer
 
 
         ======================
@@ -2397,7 +2400,6 @@ episodes:
 
         İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
         hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
-
 
         Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
 
@@ -2419,19 +2421,19 @@ episodes:
         BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
 
 
-        -İşkolik [Kısa Film]
+        -Hristiyanlar Nasıl Oruç Tutar? [Kelam Kültür Kahve]
 
-        https://youtu.be/4RmGYLFizQI
-
-
-        -Kilisede Neden İlahi Söylenir? [Kelam Kültür Kahve]
-
-        https://youtu.be/JgigR6qr-Xw
+        https://youtu.be/5JAPAu087I4
 
 
-        -Ümit, Güldal & Bayram - Sana Şükürler  [Akustik | Hristiyan İlahisi]
+        -Acaba #10 - Yaratıcı’yı Sorgulayamaz mıyız?
 
-        https://youtu.be/F1os0BCJIZA
+        https://youtu.be/k061o04UnYg
+
+
+        -Ceremi & Mişel - Yükseltiriz [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/WioWLCr0UeE
 
 
         ======================
@@ -2444,22 +2446,21 @@ episodes:
         bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
         Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
         söyleşilerin yer aldığı Youtube kanalıdır.
-      duration: PT4M21S
-      id: VuuOjCXo5oA
-      imageURL: 'https://i.ytimg.com/vi/VuuOjCXo5oA/hqdefault.jpg'
+      duration: PT6M7S
+      id: OgC6pv5VF4c
+      imageURL: 'https://i.ytimg.com/vi/OgC6pv5VF4c/hqdefault.jpg'
       mediaType: video
-      publishedAt: '2018-07-31T15:17:51.000Z'
+      publishedAt: '2018-01-30T08:58:26.000Z'
       tags: >-
-        Umut,Kalesi,Akustik,İlahiler,Hane,Haleluya,İsa
-        mesih,Kilise,Gökhan,Bayrm,İsa mesih sana ben taparım,Derdime derman
-        ol,Şükür sana,Şükür,Bin,Seni bana verene,Çok
-        şükür,Dövüldün,Sövüldün,Cennet,Affet,Beni,Beni
-        affet,Ortodoks,Katolik,Protestan,Gavurluk,Gavur,Muhammed,Mekke,Medine,İslam,Müslüman,Hristiyan,Tanrı,Allah,God,Jesus,Yahve
-        yire
-      title: 'Bayram & Gökhan - Şükür Sana [Akustik | Hristiyan İlahisi]'
+        Umut,Kalesi,Ceremi,Mişel,Sen layıksın
+        övgüye,Tanrı,God,İsa,Jesus,Mesih,Aslan,Kral,Hristiyan,Hristiyanlık,Aziz,Zafer,Gece,Gündüz,Buhur,Tanrım
+        sen insan oldun,Beden aldın,Sen ne güzelsin,Tek layık olan galip
+        geldi,Yahuda Aslanı,Davut,Akustik,Akustik ilahi,Hristiyan
+        ilahi,İlahi,İlahiler
+      title: 'Ceremi & Mişel - Sen Layıksın Övgüye [Akustik | Hristiyan İlahisi]'
       url: >-
-        https://www.youtube.com/watch?v=VuuOjCXo5oA&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=14&t=0s
-      viewCount: '30439'
+        https://www.youtube.com/watch?v=OgC6pv5VF4c&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=23&t=0s
+      viewCount: '5643'
   - guests: ''
     season: '1'
     youtubeURL:
