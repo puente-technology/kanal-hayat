@@ -2717,5 +2717,115 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=wQItUYJGp4M&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=25&t=0s
       viewCount: '16094'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, “Avlularına Al
+        Beni” ilahisinin akustik kaydı ile Ali ve Devrim karşınızda!
+
+
+        "Avlularına al beni ve Kutsal Yere,
+
+        Tunç sunağa kadar, çehreni görmek isterim.
+
+        İlahi söyleyen kahinin, kalabalığın ötesine.
+
+        Doğruluğa susadım, bir tek yerde bulunur.
+
+
+        En kutsal yere al beni,
+
+        Kuzunun kanı sayesinde.
+
+        En kutsal yere al beni,
+
+        Kor ile... arındır, bur'dayım.
+
+        Kor ile... arındır, bur'dayım"
+
+
+        Söz & Müzik: Dave Browning
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da! ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Acaba #5 - Hiç Kur'an Okuduk mu?
+
+        https://youtu.be/E4eLvQQW_Gg
+
+
+        -Andrew, Devrim & Humberto - Haleluya [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/twzBtI9UBMQ
+
+
+        -Hristiyanlar Nasıl İbadet Eder? [Kelam Kültür Kahve]
+
+        https://youtu.be/bYkKk4_Sqv0
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M7S
+      id: LhK7N2sVmug
+      imageURL: 'https://i.ytimg.com/vi/LhK7N2sVmug/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2018-01-09T09:52:40.000Z'
+      tags: >-
+        Rab,Allah,kahin,umut kalesi,kalesi,umut,kor ile arındır,Kor ile arındır
+        burdayım,Avlularına al beni,En kutsal yere al
+        beni,Kutsal,Ali,Devrim,Mesih,music,Müzik,worship,tapınma,İlahi,Akustik,AlBeni,Avlularına,Avlu,İsa,Tanrı,God,jesus,Christianity,hristiyan,Hristiyanlık,tanri,kilise,inanc,iman,ibadet
+      title: 'Ali  - Avlularına Al Beni  [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=LhK7N2sVmug&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=26&t=0s
+      viewCount: '4043'
 ---
 
