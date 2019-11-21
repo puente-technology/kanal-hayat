@@ -3061,5 +3061,143 @@ episodes:
       url: >-
         https://www.youtube.com/watch?v=wQb12cQ_Aak&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=28&t=0s
       viewCount: '38282'
+  - guests: ''
+    season: '1'
+    youtubeURL:
+      description: >-
+        Umut Kalesi’nin, ‘’Akustik İlahiler’’ serisinde bu hafta, “Yüceltiriz”
+        ilahisinin akustik kaydı ile SEZE grubu karşınızda!
+
+
+        “Egemen ol bana 
+
+        Bırakma dünyaya 
+
+        Yüzünü göster 
+
+
+        Gücünle yaşarım 
+
+        Affedip bağışlarım 
+
+        Çünkü sende aklandım 
+
+
+        Rab İsa Kral İsa 
+
+
+        //Nasıralı İsa 
+
+        Yücelip Kral oldu 
+
+        Gökte tahta oturdu 
+
+
+        Gökte olduğu gibi 
+
+        Yeryüzünde olsun 
+
+        Yüce ismin duyulsun// 
+
+
+        Yüceltiriz ×3 
+
+
+        Ne hakettiysem aldın 
+
+        Ne hakettiysen verdin 
+
+        Bu nasıl sevgi bilmek isterim 
+
+
+        Denizler kadar engin 
+
+        Rüzgarlar gibi nefesin 
+
+        İn üstüme Kutsal Ruh in”
+
+
+        Söz/Müzik: Sinan Kurşun 
+
+
+        ======================
+
+
+        "Akustik İlahiler" serimizde tapınmacı arkadaşlarımıza, kendi
+        besteledikleri ya da kendi yorumlarını kattıkları ilahileri
+        seslendirmeleri için bir fırsat sunuyoruz. İstiyoruz ki, sayfamıza yeni
+        ezgiler yükleyerek, zamanla her tarzda müziği seven tapınmacılara
+        bereket olan büyük bir arşiv yaratalım. Amacımız, Tanrı’ya müzikle
+        tapınmanın değerini yansıtmak ve böylece insanları Tanrı’ya
+        yakınlaştırmaktır.
+
+
+        ======================
+
+
+        SOSYAL MEDYA HESAPLARIMIZ: 
+
+
+        İlahi akorları, kamera arkası görüntüleri, programda çıkan gençlerin
+        hikayeleri ve daha fazlası için ► https://www.umutkalesi.com
+
+        Facebook’ta bizi beğenin! ► http://fb.me/umutkalesimedia 
+
+
+        Twitter’da ► http://twitter.com/umutkalesimedia 
+
+
+        Ve Instagram’da bizi takip edin! ► http://instagram.com/umutkalesi 
+
+
+        Siz de videolarımızı beğenebilir, kanalımıza abone olabilir ve
+        videoların altına yorum yaparak merak ettiğiniz sorular için bizimle
+        iletişime geçebilirsiniz
+
+
+        ======================
+
+
+        BU VİDEOLAR DA İLGİNİZİ ÇEKEBİLİR:
+
+
+        -Tanrı Adaletli midir? [Kelam Kültür Kahve]
+
+        https://youtu.be/J0KA0_eIkuQ
+
+
+        -SEZE - Umudum Rab’de [Akustik | Hristiyan İlahisi]
+
+        https://youtu.be/UoQ2OEU7quM
+
+
+        -Acaba #2 - Tanrı Kanıtlanabilir mi?
+
+        https://youtu.be/wOHxbrluyQs
+
+
+        ======================
+
+
+        UMUT KALESİ KİMDİR?
+
+
+        Umut Kalesi, Hristiyanlık hakkında en çok merak edilen sorulara ve
+        bilinen yanlışlara, Kutsal Kitap öğretisinin ışığında yanıt veren;
+        Hristiyan müzik parçalarının ve Hristiyan inancı hakkında en güncel
+        söyleşilerin yer aldığı Youtube kanalıdır.
+      duration: PT4M26S
+      id: u-m1lqi_9X0
+      imageURL: 'https://i.ytimg.com/vi/u-m1lqi_9X0/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2017-12-12T08:59:15.000Z'
+      tags: >-
+        Hristiyan,İlahi,İlahisi,Umut
+        Kalesi,Yüceltiriz,Akustik,SEZE,Sinan,Türkçe,Turkish,Worship,İsa,Mesih,Hrstiyanlık,Tapınma,Music,Müzik,Umut,Kalesi,Christianity,Türk,incil,hristiyan
+        ilahisi,haç,kilise,tapınma,yüceltmek,sevgi,ibadet,inanc
+      title: 'SEZE - Yüceltiriz [Akustik | Hristiyan İlahisi]'
+      url: >-
+        https://www.youtube.com/watch?v=u-m1lqi_9X0&list=PLargJSHzmn5nTYU5x4DDpzK1vjNnkD3I8&index=29&t=0s
+      viewCount: '11237'
 ---
 
