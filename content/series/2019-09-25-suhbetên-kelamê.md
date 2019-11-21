@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: 'SUHBETÊN KELAMÊ '
 publishDate: .
-coverImage: /images/uploads/11.jpg
+coverImage: /images/uploads/şaban-1.jpg
 host: MİLAZIM RASOYAN
 popularity: '1'
 description: |-
