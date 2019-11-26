@@ -32,6 +32,7 @@ class SeriesList extends Component {
       windowWidth: null,
       sortByNameBool: false,
       sortByDateBool: false,
+      numberOfitemsShown: 10,
     }
   }
 
@@ -246,6 +247,11 @@ class SeriesList extends Component {
     this.setState({ windowWidth: widthValue });
   };
 
+  showMoreItems = () => {
+    const { numberOfitemsShown } = this.state;
+    this.setState({ numberOfitemsShown: numberOfitemsShown * 2 })
+  }
+
   render() {
     const {
       expandedDiv,
@@ -256,11 +262,12 @@ class SeriesList extends Component {
       windowWidth,
       sortByNameBool,
       sortByDateBool,
+      numberOfitemsShown,
     } = this.state;
     const { hosts, hostList } = this.props
     const renderSeries = []
     const isMobile = windowWidth <= 1305;
-    for (let i = 0; i < listSeries.length; i += 1) {
+    listSeries.slice(0, numberOfitemsShown).map((item, i) => {
       const { frontmatter, fields } = listSeries[i].node
       if (i.toString() === expandedDiv) {
         if (isMobile) {
@@ -351,7 +358,8 @@ class SeriesList extends Component {
           </React.Fragment>,
         )
       }
-    }
+    })
+
     return (
       <div className="Series">
         <div className="SeriesListCategories" onScroll={this.handleScroll}>
@@ -420,9 +428,26 @@ class SeriesList extends Component {
         </div>
         <div className="SeriesContainer">
           {
-            renderSeries.map(x => x)
+            renderSeries.map(x => (
+              x
+            ))
           }
+
         </div>
+        { numberOfitemsShown < listSeries.length
+          && (
+          <div style={{ textAlign: 'center', padding: 20 }}>
+            <button
+              type="submit"
+              className="register-btn"
+              onClick={this.showMoreItems}
+            >
+                Show More Series
+            </button>
+          </div>
+          )
+        }
+
       </div>
     )
   }

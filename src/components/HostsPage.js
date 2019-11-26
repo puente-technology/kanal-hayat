@@ -26,6 +26,7 @@ class HostsList extends Component {
     sortByNameBool: false,
     sortByDateBool: false,
     tagetChangeBool: false,
+    numberOfitemsShown: 10,
   }
 
   componentDidMount() {
@@ -219,6 +220,11 @@ class HostsList extends Component {
     this.setState(() => ({ scrollLeftMax, scrollLeftPosition: elem.scrollLeft }));
   }
 
+  showMoreItems = () => {
+    const { numberOfitemsShown } = this.state;
+    this.setState({ numberOfitemsShown: numberOfitemsShown * 2 })
+  }
+
   render() {
     const {
       expandedDiv,
@@ -229,11 +235,12 @@ class HostsList extends Component {
       sortByNameBool,
       sortByDateBool,
       tagetChangeBool,
+      numberOfitemsShown,
     } = this.state;
     const { hosts, hostList, data } = this.props
     const series = tagetChangeBool ? listSeries : shuffle(listSeries)
     const renderHosts = []
-    for (let i = 0; i < series.length; i += 1) {
+    series.slice(0, numberOfitemsShown).map((item, i) => {
       const { frontmatter, fields } = series[i].node
       if (i.toString() === expandedDiv) {
         if (i % 2 === 0 && series.length > 1 && !!hosts[i + 1]) {
@@ -288,7 +295,7 @@ class HostsList extends Component {
           </React.Fragment>,
         )
       }
-    }
+    })
     return (
       <div className="Series">
         <div className="SeriesListSortAndFilter">
@@ -325,6 +332,19 @@ class HostsList extends Component {
             renderHosts.map(x => x)
           }
         </div>
+        { numberOfitemsShown < series.length
+          && (
+          <div style={{ textAlign: 'center', padding: 20 }}>
+            <button
+              type="submit"
+              className="register-btn"
+              onClick={this.showMoreItems}
+            >
+                Show More Hosts
+            </button>
+          </div>
+          )
+        }
       </div>
     )
   }
