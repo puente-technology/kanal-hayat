@@ -43,7 +43,7 @@ gallery:
     alt: Gülhan ile
     color: light
     image: /images/uploads/gülhan-1.jpg
-    link: series/umut-isigi/
+    link: series/umut-is-ig-i-2-sezon/
     title: Umut Işığı
   - align: right
     alt: Ender Peker ile
