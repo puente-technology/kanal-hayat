@@ -124,5 +124,41 @@ episodes:
       title: Kutsal Sırlar - Hristiyanlık Pavlus'un Dini mi? - 3.Bölüm
       url: 'https://www.youtube.com/watch?v=W3YJbd1CP0o'
       viewCount: '661'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        4- Hristiyanlık Evrim hakkında Ne diyor?
+
+        Çarmıhtaki yazının gizemi neydi? 
+
+        Süleyman Peygamberin sandığı nerede saklı? 
+
+        Hristiyanlığı Pavlus mu icat etti? 
+
+        Tek Tanrı varsa neden pek çok din var? 
+
+        Birbirinden gizemli konuları masaya yatıran vaiz ve İncil öğretmeni
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M15S
+      id: AN39ETAcszo
+      imageURL: 'https://i.ytimg.com/vi/AN39ETAcszo/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-10-25T04:25:24.000Z'
+      tags: >-
+        kutsal,sırlar,hristiyanlık,evrim,hakkında,diyor?,incil,big,bang,nedir?,insanlık,yaratılış,hristiyan
+        görüşü,kanal,hayat,evrim teorosi
+      title: Kutsal Sırlar - Hristiyanlık Evrim Hakkında Ne diyor? - 4.Bölüm
+      url: 'https://www.youtube.com/watch?v=AN39ETAcszo'
+      viewCount: '756'
 ---
 
