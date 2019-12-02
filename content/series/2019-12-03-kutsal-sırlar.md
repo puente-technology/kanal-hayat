@@ -199,5 +199,41 @@ episodes:
       title: Kutsal Sırlar - Yalanın Tarihi - 6.Bölüm
       url: 'https://youtu.be/RoLNmdV6vq8'
       viewCount: '283'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        5- Cennete Nasıl Gidilir?
+
+        Çarmıhtaki yazının gizemi neydi? 
+
+        Süleyman Peygamberin sandığı nerede saklı? 
+
+        Hristiyanlığı Pavlus mu icat etti? 
+
+        Tek Tanrı varsa neden pek çok din var? 
+
+        Birbirinden gizemli konuları masaya yatıran vaiz ve İncil öğretmeni
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M18S
+      id: wKBQlWufs8g
+      imageURL: 'https://i.ytimg.com/vi/wKBQlWufs8g/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-10-31T04:59:50.000Z'
+      tags: >-
+        kutsal,sırlar,nasıl,cennete,gidilir?,kurtuluş,adem,havva,iyi,işler,kanal,hayat,incil,tanrı
+      title: Kutsal Sırlar - Cennete Nasıl Gidilir? - 5.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=wKBQlWufs8g&list=PLQfi14V3hH0Kcq_0fOMr8rsDGvu0r3UdR&index=7&t=0s
+      viewCount: '924'
 ---
 
