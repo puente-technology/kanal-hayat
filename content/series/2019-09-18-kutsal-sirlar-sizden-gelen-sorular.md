@@ -2,7 +2,7 @@
 template: SeriesPageTemplate
 title: KUTSAL SIRLAR - SİZDEN GELEN SORULAR
 publishDate: .
-coverImage: /images/uploads/kutsal-sırlar-save-for-web.jpg
+coverImage: /images/uploads/serdar-2.png
 host: Serdar Dedeoğlu
 popularity: '5'
 description: >-
