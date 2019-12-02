@@ -89,5 +89,40 @@ episodes:
       title: İsa'nın Çarmıhındaki Levhanın Gizemi Neydi?  (Kutsal Sırlar - 1.Bölüm)
       url: 'https://www.youtube.com/watch?v=Z4wWFdfWDPA'
       viewCount: '1567'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        3) Hristiyanlık Pavlus'un Dini mi?
+
+        Çarmıhtaki yazının gizemi neydi? 
+
+        Süleyman Peygamberin sandığı nerede saklı? 
+
+        Hristiyanlığı Pavlus mu icat etti? 
+
+        Tek Tanrı varsa neden pek çok din var? 
+
+        Birbirinden gizemli konuları masaya yatıran vaiz ve İncil öğretmeni
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT25M22S
+      id: W3YJbd1CP0o
+      imageURL: 'https://i.ytimg.com/vi/W3YJbd1CP0o/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-10-17T07:14:47.000Z'
+      tags: >-
+        kutsal,sırlar,hristiyanlık,pavlusun,dini,mi?,incil,tevrat,zebur,kanal,hayat,serdar,dedeoğlu,mesihin,kulu
+      title: Kutsal Sırlar - Hristiyanlık Pavlus'un Dini mi? - 3.Bölüm
+      url: 'https://www.youtube.com/watch?v=W3YJbd1CP0o'
+      viewCount: '661'
 ---
 
