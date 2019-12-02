@@ -196,9 +196,8 @@ episodes:
       publishedAt: '2019-11-29T05:23:55.000Z'
       tags: >-
         kutsal,sırlar,yalanın,tarihi,nedir?,ilk,yalan,nasıl?,başladı,tevrat,yaratılış,kanal,hayat,türkiye,vaiz,müslüman,adem,havva,cennet,aden,bahçesi
-      title: Kutsal Sırlar - Yalanın Tarihi - 9.Bölüm
-      url: >-
-        https://www.youtube.com/watch?v=RoLNmdV6vq8&list=PLQfi14V3hH0Kcq_0fOMr8rsDGvu0r3UdR&index=2&t=0s
+      title: Kutsal Sırlar - Yalanın Tarihi - 6.Bölüm
+      url: 'https://youtu.be/RoLNmdV6vq8'
       viewCount: '283'
 ---
 
