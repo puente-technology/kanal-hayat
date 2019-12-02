@@ -160,5 +160,45 @@ episodes:
       title: Kutsal Sırlar - Hristiyanlık Evrim Hakkında Ne diyor? - 4.Bölüm
       url: 'https://www.youtube.com/watch?v=AN39ETAcszo'
       viewCount: '756'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        ►İlk yalan nasıl başladı?
+
+        ►Çarmıhtaki yazının gizemi neydi? 
+
+        ►Süleyman Peygamberin sandığı nerede saklı? 
+
+        ►Hristiyanlığı Pavlus mu icat etti? 
+
+        ►Tek Tanrı varsa neden pek çok din var? 
+
+        Birbirinden gizemli konuları masaya yatıran vaiz ve İncil öğretmeni
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın.
+
+        ------------------------------------------------------------
+
+        Bizi Takip Etmeyi Unutmayın!
+
+        ►http://kanalhayat.tv/
+
+        ►http://www.youtube.com/kanalhayatplay
+
+        ►https://www.facebook.com/kanalhayat
+
+        ►https://twitter.com/kanalhayat
+      duration: PT23M32S
+      id: RoLNmdV6vq8
+      imageURL: 'https://i.ytimg.com/vi/RoLNmdV6vq8/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-11-29T05:23:55.000Z'
+      tags: >-
+        kutsal,sırlar,yalanın,tarihi,nedir?,ilk,yalan,nasıl?,başladı,tevrat,yaratılış,kanal,hayat,türkiye,vaiz,müslüman,adem,havva,cennet,aden,bahçesi
+      title: Kutsal Sırlar - Yalanın Tarihi - 9.Bölüm
+      url: >-
+        https://www.youtube.com/watch?v=RoLNmdV6vq8&list=PLQfi14V3hH0Kcq_0fOMr8rsDGvu0r3UdR&index=2&t=0s
+      viewCount: '283'
 ---
 
