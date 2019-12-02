@@ -54,5 +54,40 @@ episodes:
       title: Kutsal Sırlar - Tanrı Yargılanırsa Sanık mı Tanık mı olur? - 6.Bölüm
       url: 'https://www.youtube.com/watch?v=xxNGDGSCfCo'
       viewCount: '509'
+  - guests: ''
+    season: '2'
+    youtubeURL:
+      description: >-
+        1- Çarmıhtaki Levhanın Gizemi
+
+        Çarmıhtaki yazının gizemi neydi? 
+
+        Süleyman Peygamberin sandığı nerede saklı? 
+
+        Hristiyanlığı Pavlus mu icat etti? 
+
+        Tek Tanrı varsa neden pek çok din var? 
+
+        Birbirinden gizemli konuları masaya yatıran vaiz ve İncil öğretmeni
+        Serdar Dedeoğlu’nun hazırlayıp sunduğu "Kutsal Sırlar" adlı program,
+        Kanal Hayat ekranlarında sizlerle. Sakın kaçırmayın.
+
+        http://kanalhayat.tv/
+
+        http://www.youtube.com/kanalhayatplay
+
+        https://www.facebook.com/kanalhayat
+
+        https://twitter.com/kanalhayat
+      duration: PT24M6S
+      id: Z4wWFdfWDPA
+      imageURL: 'https://i.ytimg.com/vi/Z4wWFdfWDPA/hqdefault.jpg'
+      mediaType: video
+      publishedAt: '2019-10-13T10:50:16.000Z'
+      tags: >-
+        #kutsal,#sırlar,Namaz,Oruç,Hac,Zekat,#tek,#tanrı,#süleyman,#hz,#pavlus,#hristiyanlık,#çarmıh,#levha
+      title: İsa'nın Çarmıhındaki Levhanın Gizemi Neydi?  (Kutsal Sırlar - 1.Bölüm)
+      url: 'https://www.youtube.com/watch?v=Z4wWFdfWDPA'
+      viewCount: '1567'
 ---
 
