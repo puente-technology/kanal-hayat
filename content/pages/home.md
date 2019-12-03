@@ -37,7 +37,7 @@ gallery:
     alt: Serdar Dedeoğlu ile
     color: light
     image: /images/uploads/serdar-2.png
-    link: series/entries/2019-12-03-kutsal-sırlar
+    link: series/kutsal-sirlar/
     title: 'Kutsal Sırlar '
   - align: right
     alt: Gülhan ile
