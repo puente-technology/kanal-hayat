@@ -167,6 +167,7 @@ class Events extends Component {
           <div className="Event-SubContainer">
             {
               this.filteredList && this.filteredList.map((item, i) => {
+                console.log(item)
                 const { seriesInfo, time } = item
                 const today = new Date();
                 const startDay = new Date();
