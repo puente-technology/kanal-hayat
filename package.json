@@ -33,7 +33,7 @@
     "netlify-cms-widget-native-color": "^3.0.0",
     "netlify-cms-widget-youtube-extended": "^0.5.9",
     "netlify-cms-widget-linked-option": "^1.2.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-addons-css-transition-group": "^15.6.2",
